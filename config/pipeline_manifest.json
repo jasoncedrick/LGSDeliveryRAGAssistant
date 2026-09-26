@@ -1,0 +1,36 @@
+{
+  "status": "frozen",
+  "task_origin": "T06",
+  "optimal_retrieval_weights": {
+    "alpha_bm25": 0.4,
+    "beta_dense": 0.6,
+    "gamma_dict": 0.0
+  },
+  "optimal_top_k": 5,
+  "retrieval_metrics_dev": {
+    "mean_hit1": 0.4666666666666667,
+    "mean_hit3": 0.6555555555555556,
+    "mean_hit5": 0.7333333333333333,
+    "mean_mrr": 0.5690740740740741,
+    "mean_context_precision": 0.5576543209876543
+  },
+  "provisional_baseline_theta0": {
+    "alpha": 0.4,
+    "beta": 0.4,
+    "gamma": 0.2
+  },
+  "models": {
+    "llm": "eboss-mistral",
+    "embedder": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+  },
+  "constraints": {
+    "context_budget_k_options": [
+      3,
+      5
+    ],
+    "temperature": 0.0,
+    "top_p": 0.0,
+    "chunk_tokens": 120,
+    "overlap_tokens": 20
+  }
+}
