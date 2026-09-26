@@ -1,0 +1,1352 @@
+{
+  "182 ka barangay": {
+    "term_id": "DICT-BRGY-123",
+    "language": "Bisaya",
+    "verified_english_definition": "The 182 integrated political barangays of Davao City",
+    "governance_context_tag": "Barangay",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "abang": {
+    "term_id": "DICT-CROSS-129",
+    "language": "Tagalog",
+    "verified_english_definition": "Rent, lease, or wait",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": true,
+    "disambiguation_rule": "Did you mean [Option A: Commercial lease agreement or rented space payment] or [Option B: Waiting for application processing status]?",
+    "curation_source": "manual"
+  },
+  "abogado": {
+    "term_id": "DICT-CROSS-136",
+    "language": "Bisaya",
+    "verified_english_definition": "Commissioned Notary Public or legal counsel",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "affidavit of loss": {
+    "term_id": "DICT-CROSS-140",
+    "language": "Bislish",
+    "verified_english_definition": "Sworn Notarized Affidavit of Loss",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "amilyar": {
+    "term_id": "DICT-OCBO-061",
+    "language": "Bisaya",
+    "verified_english_definition": "Real Property Tax (RPT) official receipt",
+    "governance_context_tag": "OCBO",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "appbts portal": {
+    "term_id": "DICT-CROSS-145",
+    "language": "Bislish",
+    "verified_english_definition": "Automated Permit and Business Tax System (APBTS)",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "application form": {
+    "term_id": "DICT-BB-018",
+    "language": "Bislish",
+    "verified_english_definition": "Unified Business Permit Application Form (UBPAF)",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "arkila sa pwesto": {
+    "term_id": "DICT-BB-014",
+    "language": "Bisaya",
+    "verified_english_definition": "Commercial contract of lease",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "arkitekto": {
+    "term_id": "DICT-OCBO-059",
+    "language": "Bisaya",
+    "verified_english_definition": "Registered Professional Architect",
+    "governance_context_tag": "OCBO",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "assessment sheet": {
+    "term_id": "DICT-CTO-029",
+    "language": "Bislish",
+    "verified_english_definition": "CTO Statement of Account and Local Tax Assessment",
+    "governance_context_tag": "Treasurer_Office",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "authorization letter": {
+    "term_id": "DICT-CROSS-148",
+    "language": "Bislish",
+    "verified_english_definition": "Notarized Letter of Authority with applicant ID",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "bag-ong negosyo": {
+    "term_id": "DICT-BB-003",
+    "language": "Bisaya",
+    "verified_english_definition": "New business permit application",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "balay": {
+    "term_id": "DICT-CROSS-131",
+    "language": "Bisaya",
+    "verified_english_definition": "Residential house or dwelling unit",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": true,
+    "disambiguation_rule": "Did you mean [Option A: Operating a home-based commercial micro-enterprise] or [Option B: Purely residential building permit application]?",
+    "curation_source": "manual"
+  },
+  "baligyaanan": {
+    "term_id": "DICT-BB-025",
+    "language": "Bisaya",
+    "verified_english_definition": "Retail commercial establishment or retail store",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "barangay clearance": {
+    "term_id": "DICT-BRGY-101",
+    "language": "Bisaya",
+    "verified_english_definition": "Barangay Business Clearance",
+    "governance_context_tag": "Barangay",
+    "polysemy_flag": true,
+    "disambiguation_rule": "Did you mean [Option A: Barangay Business Clearance integrated into eBOSS] or [Option B: Individual Barangay Clearance for employment or residency]?",
+    "curation_source": "manual"
+  },
+  "barangay hall": {
+    "term_id": "DICT-BRGY-103",
+    "language": "Bislish",
+    "verified_english_definition": "Barangay administrative office",
+    "governance_context_tag": "Barangay",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "bayad": {
+    "term_id": "DICT-CROSS-150",
+    "language": "Bisaya",
+    "verified_english_definition": "Monetary settlement of assessed regulatory fees",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "bayad sa barangay": {
+    "term_id": "DICT-BRGY-111",
+    "language": "Bisaya",
+    "verified_english_definition": "Barangay business clearance regulatory fee",
+    "governance_context_tag": "Barangay",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "bayad sa bombero": {
+    "term_id": "DICT-BFP-079",
+    "language": "Bisaya",
+    "verified_english_definition": "Fire Code Fee / Fire Safety Inspection Fee",
+    "governance_context_tag": "BFP",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "bayad sa fsic": {
+    "term_id": "DICT-BFP-098",
+    "language": "Bisaya",
+    "verified_english_definition": "Prescribed payment for fire inspection certificate",
+    "governance_context_tag": "BFP",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "bayad sa ocbo": {
+    "term_id": "DICT-OCBO-075",
+    "language": "Bisaya",
+    "verified_english_definition": "Building permit and occupancy regulatory assessment fees",
+    "governance_context_tag": "OCBO",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "bayad sa tresurero": {
+    "term_id": "DICT-CTO-038",
+    "language": "Bisaya",
+    "verified_english_definition": "Payment at City Treasurer cashier window",
+    "governance_context_tag": "Treasurer_Office",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "bayrunon sa syudad": {
+    "term_id": "DICT-CTO-050",
+    "language": "Bisaya",
+    "verified_english_definition": "Prescribed municipal fees and regulatory charges",
+    "governance_context_tag": "Treasurer_Office",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "bfp clearance": {
+    "term_id": "DICT-BFP-090",
+    "language": "Bislish",
+    "verified_english_definition": "BFP Fire Safety Clearance",
+    "governance_context_tag": "BFP",
+    "polysemy_flag": true,
+    "disambiguation_rule": "Did you mean [Option A: FSIC for annual business permit operation and renewal] or [Option B: FSEC for building construction blueprint evaluation]?",
+    "curation_source": "manual"
+  },
+  "bisnes permit": {
+    "term_id": "DICT-BB-002",
+    "language": "Bislish",
+    "verified_english_definition": "Mayor's Business Permit",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "blotter clearance": {
+    "term_id": "DICT-BRGY-120",
+    "language": "Bislish",
+    "verified_english_definition": "Certification of No Derogatory Barangay Blotter Entry",
+    "governance_context_tag": "Barangay",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "bombero": {
+    "term_id": "DICT-BFP-089",
+    "language": "Bisaya",
+    "verified_english_definition": "Bureau of Fire Protection (BFP) personnel / Fire Marshall",
+    "governance_context_tag": "BFP",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "buhis sa negosyo": {
+    "term_id": "DICT-CTO-026",
+    "language": "Bisaya",
+    "verified_english_definition": "Local Business Tax (LBT)",
+    "governance_context_tag": "Treasurer_Office",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "building official": {
+    "term_id": "DICT-OCBO-074",
+    "language": "Bislish",
+    "verified_english_definition": "City Building Official / Head of OCBO",
+    "governance_context_tag": "OCBO",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "building permit": {
+    "term_id": "DICT-OCBO-051",
+    "language": "Bislish",
+    "verified_english_definition": "Building Permit (PD 1096 / National Building Code)",
+    "governance_context_tag": "OCBO",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "business bureau": {
+    "term_id": "DICT-BB-016",
+    "language": "Bislish",
+    "verified_english_definition": "Davao City Business Bureau (Lead eBOSS Office)",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "business endorsement": {
+    "term_id": "DICT-BRGY-114",
+    "language": "Bislish",
+    "verified_english_definition": "Barangay Council resolution/endorsement for business",
+    "governance_context_tag": "Barangay",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "business sticker": {
+    "term_id": "DICT-BB-021",
+    "language": "Bislish",
+    "verified_english_definition": "Annual regulatory business validation sticker",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "capitalization": {
+    "term_id": "DICT-CTO-046",
+    "language": "Bislish",
+    "verified_english_definition": "Initial paid-up commercial capitalization",
+    "governance_context_tag": "Treasurer_Office",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "cashier sa city hall": {
+    "term_id": "DICT-CTO-039",
+    "language": "Bislish",
+    "verified_english_definition": "CTO Cashiering Division",
+    "governance_context_tag": "Treasurer_Office",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "cda registration": {
+    "term_id": "DICT-BB-009",
+    "language": "Bislish",
+    "verified_english_definition": "Cooperative Development Authority registration",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "cedula": {
+    "term_id": "DICT-BRGY-106",
+    "language": "Tagalog",
+    "verified_english_definition": "Community Tax Certificate (CTC)",
+    "governance_context_tag": "Barangay",
+    "polysemy_flag": true,
+    "disambiguation_rule": "Did you mean [Option A: Individual Community Tax Certificate (Cedula)] or [Option B: Corporate Community Tax Certificate for registered corporations]?",
+    "curation_source": "manual"
+  },
+  "certificate of occupancy": {
+    "term_id": "DICT-OCBO-053",
+    "language": "Bislish",
+    "verified_english_definition": "Certificate of Occupancy issued by OCBO",
+    "governance_context_tag": "OCBO",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "claim stub": {
+    "term_id": "DICT-CROSS-147",
+    "language": "Bislish",
+    "verified_english_definition": "Document claiming stub / official pick-up voucher",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "commercial building": {
+    "term_id": "DICT-OCBO-065",
+    "language": "Bislish",
+    "verified_english_definition": "Commercial classified structure",
+    "governance_context_tag": "OCBO",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "community tax certificate": {
+    "term_id": "DICT-BRGY-107",
+    "language": "Bislish",
+    "verified_english_definition": "Community Tax Certificate (Form 0016 / 0017)",
+    "governance_context_tag": "Barangay",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "compliance notice": {
+    "term_id": "DICT-BB-023",
+    "language": "Bislish",
+    "verified_english_definition": "Notice of regulatory inspection deficiency",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "contract of lease": {
+    "term_id": "DICT-BB-015",
+    "language": "Bislish",
+    "verified_english_definition": "Notarized Commercial Lease Agreement",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "cpdo clearance": {
+    "term_id": "DICT-OCBO-056",
+    "language": "Bislish",
+    "verified_english_definition": "City Planning and Development Office clearance",
+    "governance_context_tag": "OCBO",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "cut-off": {
+    "term_id": "DICT-CROSS-141",
+    "language": "Bislish",
+    "verified_english_definition": "Daily transactional cut-off time or deadline",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "deadline sa renewal": {
+    "term_id": "DICT-CROSS-142",
+    "language": "Bislish",
+    "verified_english_definition": "Statutory permit renewal deadline (January 20)",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "deed of sale": {
+    "term_id": "DICT-OCBO-063",
+    "language": "Bislish",
+    "verified_english_definition": "Notarized Deed of Absolute Sale for commercial property",
+    "governance_context_tag": "OCBO",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "distansya sa karsada": {
+    "term_id": "DICT-OCBO-073",
+    "language": "Bisaya",
+    "verified_english_definition": "Legal distance requirement from property line to road",
+    "governance_context_tag": "OCBO",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "dti registration": {
+    "term_id": "DICT-BB-007",
+    "language": "Bislish",
+    "verified_english_definition": "DTI Business Name Registration Certificate",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "eboss barangay module": {
+    "term_id": "DICT-BRGY-125",
+    "language": "Bislish",
+    "verified_english_definition": "Digital interface used by barangay secretaries",
+    "governance_context_tag": "Barangay",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "electrical fire safety": {
+    "term_id": "DICT-BFP-093",
+    "language": "Bislish",
+    "verified_english_definition": "Electrical wiring fire hazard compliance",
+    "governance_context_tag": "BFP",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "electrical inspection": {
+    "term_id": "DICT-OCBO-068",
+    "language": "Bislish",
+    "verified_english_definition": "Certificate of Final Electrical Inspection (CFEI)",
+    "governance_context_tag": "OCBO",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "emergency exit": {
+    "term_id": "DICT-BFP-083",
+    "language": "Bislish",
+    "verified_english_definition": "Mandated emergency fire exit door/route",
+    "governance_context_tag": "BFP",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "fire alarm": {
+    "term_id": "DICT-BFP-085",
+    "language": "Bislish",
+    "verified_english_definition": "Commercial fire alarm and detection system (FDAS)",
+    "governance_context_tag": "BFP",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "fire code fee": {
+    "term_id": "DICT-BFP-080",
+    "language": "Bislish",
+    "verified_english_definition": "Statutory Fire Code Tax (RA 9514)",
+    "governance_context_tag": "BFP",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "fire drill certificate": {
+    "term_id": "DICT-BFP-088",
+    "language": "Bislish",
+    "verified_english_definition": "Annual Fire Drill Completion Certificate",
+    "governance_context_tag": "BFP",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "fire exit": {
+    "term_id": "DICT-BFP-084",
+    "language": "Bislish",
+    "verified_english_definition": "Fire exit stairwell or discharge route",
+    "governance_context_tag": "BFP",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "fire extinguisher": {
+    "term_id": "DICT-BFP-081",
+    "language": "Bislish",
+    "verified_english_definition": "Portable chemical fire extinguisher",
+    "governance_context_tag": "BFP",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "fire safety inspection certificate": {
+    "term_id": "DICT-BFP-097",
+    "language": "Bislish",
+    "verified_english_definition": "FSIC for Business Operation",
+    "governance_context_tag": "BFP",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "fire safety permit": {
+    "term_id": "DICT-BFP-077",
+    "language": "Bislish",
+    "verified_english_definition": "Fire Safety Inspection Certificate",
+    "governance_context_tag": "BFP",
+    "polysemy_flag": true,
+    "disambiguation_rule": "Did you mean [Option A: FSIC for annual business permit operation and renewal] or [Option B: FSEC for building construction blueprint evaluation]?",
+    "curation_source": "manual"
+  },
+  "fire safety practitioner": {
+    "term_id": "DICT-BFP-100",
+    "language": "Bislish",
+    "verified_english_definition": "BFP-Certified Fire Safety Practitioner",
+    "governance_context_tag": "BFP",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "flammable materials": {
+    "term_id": "DICT-BFP-094",
+    "language": "Bislish",
+    "verified_english_definition": "Hazardous and flammable chemical storage compliance",
+    "governance_context_tag": "BFP",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "fsec": {
+    "term_id": "DICT-BFP-096",
+    "language": "Bislish",
+    "verified_english_definition": "Fire Safety Evaluation Clearance",
+    "governance_context_tag": "BFP",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "fsic": {
+    "term_id": "DICT-BFP-076",
+    "language": "Bislish",
+    "verified_english_definition": "Fire Safety Inspection Certificate (FSIC)",
+    "governance_context_tag": "BFP",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "gross sales": {
+    "term_id": "DICT-CTO-030",
+    "language": "Bislish",
+    "verified_english_definition": "Declared gross annual commercial sales receipts",
+    "governance_context_tag": "Treasurer_Office",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "indigent business exemption": {
+    "term_id": "DICT-BRGY-121",
+    "language": "Bislish",
+    "verified_english_definition": "Indigent fee exemption for micro-enterprises",
+    "governance_context_tag": "Barangay",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "inhinyero": {
+    "term_id": "DICT-OCBO-058",
+    "language": "Bisaya",
+    "verified_english_definition": "Registered Professional Civil/Structural/Electrical Engineer",
+    "governance_context_tag": "OCBO",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "inspeksyon sa bombero": {
+    "term_id": "DICT-BFP-078",
+    "language": "Bisaya",
+    "verified_english_definition": "BFP Physical Fire Safety Ocular Inspection",
+    "governance_context_tag": "BFP",
+    "polysemy_flag": true,
+    "disambiguation_rule": "Did you mean [Option A: Operational inspection for business permit renewal] or [Option B: Final fire safety inspection for occupancy permit release]?",
+    "curation_source": "manual"
+  },
+  "inspeksyon sa negosyo": {
+    "term_id": "DICT-BB-011",
+    "language": "Bisaya",
+    "verified_english_definition": "Physical ocular inspection of commercial premises",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "inspeksyon sa ocbo": {
+    "term_id": "DICT-OCBO-067",
+    "language": "Bisaya",
+    "verified_english_definition": "Structural on-site inspection by OCBO engineers",
+    "governance_context_tag": "OCBO",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "inspeksyon sa sunog": {
+    "term_id": "DICT-BFP-082",
+    "language": "Bisaya",
+    "verified_english_definition": "Structural fire vulnerability audit",
+    "governance_context_tag": "BFP",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "installment sa buhis": {
+    "term_id": "DICT-CTO-033",
+    "language": "Bisaya",
+    "verified_english_definition": "Structured quarterly payment of municipal taxes",
+    "governance_context_tag": "Treasurer_Office",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "integrated barangay system": {
+    "term_id": "DICT-BRGY-124",
+    "language": "Bislish",
+    "verified_english_definition": "Davao eBOSS electronic barangay clearance module",
+    "governance_context_tag": "Barangay",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "interes sa buhis": {
+    "term_id": "DICT-CTO-036",
+    "language": "Bisaya",
+    "verified_english_definition": "Monthly interest accrued on unpaid municipal taxes",
+    "governance_context_tag": "Treasurer_Office",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "istasyon sa bombero": {
+    "term_id": "DICT-BFP-099",
+    "language": "Bisaya",
+    "verified_english_definition": "Local BFP District Fire Station",
+    "governance_context_tag": "BFP",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "joint inspection": {
+    "term_id": "DICT-BB-010",
+    "language": "Bislish",
+    "verified_english_definition": "Joint regulatory inspection of business establishment",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "kagawad sa negosyo": {
+    "term_id": "DICT-BRGY-117",
+    "language": "Bisaya",
+    "verified_english_definition": "Barangay Councilor heading Committee on Commerce/Trade",
+    "governance_context_tag": "Barangay",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "kapitan": {
+    "term_id": "DICT-BRGY-102",
+    "language": "Bisaya",
+    "verified_english_definition": "Punong Barangay / Barangay Captain",
+    "governance_context_tag": "Barangay",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "kawad": {
+    "term_id": "DICT-CROSS-127",
+    "language": "Tagalog",
+    "verified_english_definition": "Electrical wire, metallic conductor, or power cable",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": true,
+    "disambiguation_rule": "Did you mean [Option A: Electrical wiring and CFEI inspection (kawad)] or [Option B: Lost or stolen business permit plate (kawat)]?",
+    "curation_source": "manual"
+  },
+  "kawat": {
+    "term_id": "DICT-CROSS-126",
+    "language": "Bisaya",
+    "verified_english_definition": "Theft, burglary, or stolen property/document",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": true,
+    "disambiguation_rule": "Did you mean [Option A: Stolen or lost business permit requiring Affidavit of Loss] or [Option B: Electrical wiring (kawad) inspection by OCBO]?",
+    "curation_source": "manual"
+  },
+  "kinahanglanon": {
+    "term_id": "DICT-CROSS-133",
+    "language": "Bisaya",
+    "verified_english_definition": "Mandatory statutory prerequisites or requirements",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "kita sa negosyo": {
+    "term_id": "DICT-CTO-031",
+    "language": "Bisaya",
+    "verified_english_definition": "Annual gross commercial earnings or turnover",
+    "governance_context_tag": "Treasurer_Office",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "labay": {
+    "term_id": "DICT-CROSS-128",
+    "language": "Bisaya",
+    "verified_english_definition": "Throw away, dispose of waste, or bypass",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": true,
+    "disambiguation_rule": "Did you mean [Option A: Commercial waste disposal and CENRO garbage fees] or [Option B: Passing through an LGU assessment counter]?",
+    "curation_source": "manual"
+  },
+  "landbank linkbiz": {
+    "term_id": "DICT-CTO-040",
+    "language": "Bislish",
+    "verified_english_definition": "Landbank Link.BizPortal online eBOSS payment",
+    "governance_context_tag": "Treasurer_Office",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "liaison officer": {
+    "term_id": "DICT-CROSS-149",
+    "language": "Bislish",
+    "verified_english_definition": "Authorized corporate representative / processor",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "locational clearance": {
+    "term_id": "DICT-OCBO-055",
+    "language": "Bislish",
+    "verified_english_definition": "Certificate of Locational Viability",
+    "governance_context_tag": "OCBO",
+    "polysemy_flag": true,
+    "disambiguation_rule": "Did you mean [Option A: Locational Clearance for Business Permit via online eBOSS] or [Option B: Locational Clearance for Building Construction of 3-storey structures]?",
+    "curation_source": "manual"
+  },
+  "lokasyon sa barangay": {
+    "term_id": "DICT-BRGY-115",
+    "language": "Bisaya",
+    "verified_english_definition": "Commercial territorial jurisdiction within 182 barangays",
+    "governance_context_tag": "Barangay",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "lupon clearance": {
+    "term_id": "DICT-BRGY-108",
+    "language": "Bislish",
+    "verified_english_definition": "Certificate of No Pending Barangay Conciliation Dispute",
+    "governance_context_tag": "Barangay",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "maya payment": {
+    "term_id": "DICT-CTO-041",
+    "language": "Bislish",
+    "verified_english_definition": "Maya digital merchant payment gateway",
+    "governance_context_tag": "Treasurer_Office",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "mayors permit": {
+    "term_id": "DICT-BB-001",
+    "language": "Bislish",
+    "verified_english_definition": "Mayor's Business Permit issued by the Davao City Business Bureau",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "mechanical permit": {
+    "term_id": "DICT-OCBO-070",
+    "language": "Bislish",
+    "verified_english_definition": "Mechanical Installation Clearance",
+    "governance_context_tag": "OCBO",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "multa sa late renewal": {
+    "term_id": "DICT-CTO-034",
+    "language": "Bisaya",
+    "verified_english_definition": "Late business permit renewal administrative surcharge",
+    "governance_context_tag": "Treasurer_Office",
+    "polysemy_flag": true,
+    "disambiguation_rule": "Did you mean [Option A: 25% surcharge for permit renewal after January 20] or [Option B: Administrative fine for operating without a business license]?",
+    "curation_source": "manual"
+  },
+  "notaryo": {
+    "term_id": "DICT-CROSS-135",
+    "language": "Bisaya",
+    "verified_english_definition": "Notarization / Jurat before a commissioned Notary Public",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "notice of violation sa bfp": {
+    "term_id": "DICT-BFP-092",
+    "language": "Bislish",
+    "verified_english_definition": "Formal Notice of Fire Safety Code Violation (NTC/NTV)",
+    "governance_context_tag": "BFP",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "occupancy permit": {
+    "term_id": "DICT-OCBO-052",
+    "language": "Bislish",
+    "verified_english_definition": "Certificate of Occupancy",
+    "governance_context_tag": "OCBO",
+    "polysemy_flag": true,
+    "disambiguation_rule": "Did you mean [Option A: OCBO Certificate of Occupancy for structural safety] or [Option B: Contract of Lease proving authority to occupy business space]?",
+    "curation_source": "manual"
+  },
+  "occupant load": {
+    "term_id": "DICT-BFP-095",
+    "language": "Bislish",
+    "verified_english_definition": "Maximum legally allowable commercial occupant capacity",
+    "governance_context_tag": "BFP",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "official receipt": {
+    "term_id": "DICT-CTO-043",
+    "language": "Bislish",
+    "verified_english_definition": "Accountable Form No. 51 Official Receipt",
+    "governance_context_tag": "Treasurer_Office",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "online portal": {
+    "term_id": "DICT-CROSS-144",
+    "language": "Bislish",
+    "verified_english_definition": "Davao City eBOSS Web Portal (appbts.davaocity.gov.ph)",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "order of payment": {
+    "term_id": "DICT-CTO-044",
+    "language": "Bislish",
+    "verified_english_definition": "CTO Assessment Order of Payment",
+    "governance_context_tag": "Treasurer_Office",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "ordinansa sa barangay": {
+    "term_id": "DICT-BRGY-110",
+    "language": "Bisaya",
+    "verified_english_definition": "Local Barangay Tax Ordinance",
+    "governance_context_tag": "Barangay",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "orihinal ug kopya": {
+    "term_id": "DICT-CROSS-134",
+    "language": "Bisaya",
+    "verified_english_definition": "Original document and verified duplicate photocopies",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "overdue": {
+    "term_id": "DICT-CTO-049",
+    "language": "Bislish",
+    "verified_english_definition": "Delinquent tax payment status",
+    "governance_context_tag": "Treasurer_Office",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "pag-undang sa negosyo": {
+    "term_id": "DICT-BB-005",
+    "language": "Bisaya",
+    "verified_english_definition": "Formal retirement or closure of business",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": true,
+    "disambiguation_rule": "Did you mean [Option A: Full permanent retirement of business to terminate tax liability] or [Option B: Temporary operational suspension without closing tax account]?",
+    "curation_source": "manual"
+  },
+  "pagsira sa tindahan": {
+    "term_id": "DICT-BB-006",
+    "language": "Bisaya",
+    "verified_english_definition": "Cessation of commercial business operations",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": true,
+    "disambiguation_rule": "Did you mean [Option A: Full permanent retirement of business to terminate tax liability] or [Option B: Temporary operational suspension without closing tax account]?",
+    "curation_source": "manual"
+  },
+  "pagtugot sa tag-iya": {
+    "term_id": "DICT-OCBO-064",
+    "language": "Bisaya",
+    "verified_english_definition": "Landowner's Sworn Affidavit of Consent to Build/Operate",
+    "governance_context_tag": "OCBO",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "papeles": {
+    "term_id": "DICT-CROSS-132",
+    "language": "Tagalog",
+    "verified_english_definition": "Mandatory documentary submissions / prerequisite checklist",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "pila ka adlaw": {
+    "term_id": "DICT-CROSS-143",
+    "language": "Bisaya",
+    "verified_english_definition": "Administrative processing turnaround time",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "pirma": {
+    "term_id": "DICT-CROSS-139",
+    "language": "Bisaya",
+    "verified_english_definition": "Handwritten signature or authorized digital signature",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "pirma sa kapitan": {
+    "term_id": "DICT-BRGY-113",
+    "language": "Bisaya",
+    "verified_english_definition": "Wet or digital signature of the Punong Barangay",
+    "governance_context_tag": "Barangay",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "plano sa edipisyo": {
+    "term_id": "DICT-OCBO-057",
+    "language": "Bisaya",
+    "verified_english_definition": "Architectural and Structural building plans",
+    "governance_context_tag": "OCBO",
+    "polysemy_flag": true,
+    "disambiguation_rule": "Did you mean [Option A: Signed and sealed engineering blueprints for OCBO building permit] or [Option B: Vicinity sketch map of business location for Mayor's Permit]?",
+    "curation_source": "manual"
+  },
+  "plate number sa negosyo": {
+    "term_id": "DICT-BB-020",
+    "language": "Bisaya",
+    "verified_english_definition": "Official business permit metallic plate / serial",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "presyo sa permit": {
+    "term_id": "DICT-CTO-048",
+    "language": "Bisaya",
+    "verified_english_definition": "Total consolidated assessment cost for permits",
+    "governance_context_tag": "Treasurer_Office",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "puhunan": {
+    "term_id": "DICT-CTO-047",
+    "language": "Bisaya",
+    "verified_english_definition": "Starting capitalization / working capital",
+    "governance_context_tag": "Treasurer_Office",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "purok clearance": {
+    "term_id": "DICT-BRGY-104",
+    "language": "Bislish",
+    "verified_english_definition": "Purok leader certification or local verification",
+    "governance_context_tag": "Barangay",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "purok lider": {
+    "term_id": "DICT-BRGY-116",
+    "language": "Bisaya",
+    "verified_english_definition": "Purok Chairman or community zone coordinator",
+    "governance_context_tag": "Barangay",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "pwesto sa negosyo": {
+    "term_id": "DICT-BB-013",
+    "language": "Bisaya",
+    "verified_english_definition": "Physical commercial business address / stall",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": true,
+    "disambiguation_rule": "Did you mean [Option A: Rented private commercial space requiring a Contract of Lease] or [Option B: Public market stall awarded by City Economic Enterprise]?",
+    "curation_source": "manual"
+  },
+  "quarterly payment": {
+    "term_id": "DICT-CTO-032",
+    "language": "Bislish",
+    "verified_english_definition": "Quarterly local business tax installment payment",
+    "governance_context_tag": "Treasurer_Office",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "re-inspection": {
+    "term_id": "DICT-BFP-091",
+    "language": "Bislish",
+    "verified_english_definition": "Follow-up fire safety re-inspection",
+    "governance_context_tag": "BFP",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "record sa barangay": {
+    "term_id": "DICT-BRGY-119",
+    "language": "Bisaya",
+    "verified_english_definition": "Official Barangay Blotter / Community registry",
+    "governance_context_tag": "Barangay",
+    "polysemy_flag": true,
+    "disambiguation_rule": "Did you mean [Option A: Certificate of No Pending Case before the Lupong Tagapamayapa] or [Option B: Barangay Blotter excerpt reporting lost documents or theft]?",
+    "curation_source": "manual"
+  },
+  "reference number": {
+    "term_id": "DICT-CROSS-146",
+    "language": "Bislish",
+    "verified_english_definition": "Electronic transaction tracking / application number",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "renewal sa permit": {
+    "term_id": "DICT-BB-004",
+    "language": "Bislish",
+    "verified_english_definition": "Business permit renewal application",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "renobasyon sa tindahan": {
+    "term_id": "DICT-OCBO-066",
+    "language": "Bisaya",
+    "verified_english_definition": "Commercial Renovation or Alteration Permit",
+    "governance_context_tag": "OCBO",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "resibo": {
+    "term_id": "DICT-CTO-042",
+    "language": "Bisaya",
+    "verified_english_definition": "Official Receipt (OR)",
+    "governance_context_tag": "Treasurer_Office",
+    "polysemy_flag": true,
+    "disambiguation_rule": "Did you mean [Option A: Official Receipt (OR) from City Treasurer for tax payment] or [Option B: Registering merchant sales receipts and books of accounts]?",
+    "curation_source": "manual"
+  },
+  "resibo sa buhis": {
+    "term_id": "DICT-CTO-027",
+    "language": "Bisaya",
+    "verified_english_definition": "Official Tax Receipt issued by CTO",
+    "governance_context_tag": "Treasurer_Office",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "residente nga negosyante": {
+    "term_id": "DICT-BRGY-118",
+    "language": "Bisaya",
+    "verified_english_definition": "Resident business operator or commercial merchant",
+    "governance_context_tag": "Barangay",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "sanitary inspection": {
+    "term_id": "DICT-OCBO-069",
+    "language": "Bislish",
+    "verified_english_definition": "OCBO Plumbing and Sanitary Structural Clearance",
+    "governance_context_tag": "OCBO",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "sec registration": {
+    "term_id": "DICT-BB-008",
+    "language": "Bislish",
+    "verified_english_definition": "SEC Certificate of Incorporation / Partnership",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "sedula": {
+    "term_id": "DICT-BRGY-105",
+    "language": "Bisaya",
+    "verified_english_definition": "Community Tax Certificate (CTC)",
+    "governance_context_tag": "Barangay",
+    "polysemy_flag": true,
+    "disambiguation_rule": "Did you mean [Option A: Individual Community Tax Certificate (Cedula)] or [Option B: Corporate Community Tax Certificate for registered corporations]?",
+    "curation_source": "manual"
+  },
+  "selyo sa barangay": {
+    "term_id": "DICT-BRGY-112",
+    "language": "Bisaya",
+    "verified_english_definition": "Official dry seal / official stamp of the Barangay",
+    "governance_context_tag": "Barangay",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "sertipikasyon sa negosyo": {
+    "term_id": "DICT-BRGY-122",
+    "language": "Bisaya",
+    "verified_english_definition": "Official sworn barangay commercial certification",
+    "governance_context_tag": "Barangay",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "setback": {
+    "term_id": "DICT-OCBO-072",
+    "language": "Bislish",
+    "verified_english_definition": "Road right-of-way building setback easement",
+    "governance_context_tag": "OCBO",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "signboard permit": {
+    "term_id": "DICT-OCBO-071",
+    "language": "Bislish",
+    "verified_english_definition": "Commercial Signboard / Billboard Clearance",
+    "governance_context_tag": "OCBO",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "smoke detector": {
+    "term_id": "DICT-BFP-086",
+    "language": "Bislish",
+    "verified_english_definition": "Electronic smoke/heat detection device",
+    "governance_context_tag": "BFP",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "sp building": {
+    "term_id": "DICT-BB-017",
+    "language": "Bislish",
+    "verified_english_definition": "Sangguniang Panlungsod Building",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "sprinkler system": {
+    "term_id": "DICT-BFP-087",
+    "language": "Bislish",
+    "verified_english_definition": "Automatic fire sprinkler system (AFSS)",
+    "governance_context_tag": "BFP",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "suki": {
+    "term_id": "DICT-CROSS-130",
+    "language": "Bisaya",
+    "verified_english_definition": "Regular customer, commercial merchant, or patron",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": true,
+    "disambiguation_rule": "Did you mean [Option A: Registered public market stallholder or commercial merchant] or [Option B: Informal retail customer relationship]?",
+    "curation_source": "manual"
+  },
+  "sukot sa buhis": {
+    "term_id": "DICT-CTO-028",
+    "language": "Bisaya",
+    "verified_english_definition": "Tax Order of Payment / Assessment Notice",
+    "governance_context_tag": "Treasurer_Office",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "surcharge": {
+    "term_id": "DICT-CTO-035",
+    "language": "Bislish",
+    "verified_english_definition": "Statutory surcharge for delinquent filing",
+    "governance_context_tag": "Treasurer_Office",
+    "polysemy_flag": true,
+    "disambiguation_rule": "Did you mean [Option A: 25% surcharge for permit renewal after January 20] or [Option B: Administrative fine for operating without a business license]?",
+    "curation_source": "manual"
+  },
+  "surrender sa permit": {
+    "term_id": "DICT-BB-024",
+    "language": "Bisaya",
+    "verified_english_definition": "Formal surrender of permit upon business closure",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "tag-iya sa negosyo": {
+    "term_id": "DICT-BB-012",
+    "language": "Bisaya",
+    "verified_english_definition": "Registered business owner or sole proprietor",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "tax clearance": {
+    "term_id": "DICT-CTO-037",
+    "language": "Bislish",
+    "verified_english_definition": "Certificate of No Tax Delinquency",
+    "governance_context_tag": "Treasurer_Office",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "tax declaration": {
+    "term_id": "DICT-OCBO-062",
+    "language": "Bislish",
+    "verified_english_definition": "Real Property Tax Declaration for parcel/building",
+    "governance_context_tag": "OCBO",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "tax exemption": {
+    "term_id": "DICT-CTO-045",
+    "language": "Bislish",
+    "verified_english_definition": "Statutory business tax exemption certificate",
+    "governance_context_tag": "Treasurer_Office",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "temporary permit": {
+    "term_id": "DICT-BB-022",
+    "language": "Bislish",
+    "verified_english_definition": "Provisional or temporary business operating permit",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "titulo sa yuta": {
+    "term_id": "DICT-OCBO-060",
+    "language": "Bisaya",
+    "verified_english_definition": "Transfer Certificate of Title (TCT)",
+    "governance_context_tag": "OCBO",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "tracking number": {
+    "term_id": "DICT-BB-019",
+    "language": "Bislish",
+    "verified_english_definition": "eBOSS online application reference/tracking number",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "valid id": {
+    "term_id": "DICT-CROSS-137",
+    "language": "Bislish",
+    "verified_english_definition": "Government-issued primary identification document",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "walay atraso": {
+    "term_id": "DICT-BRGY-109",
+    "language": "Bisaya",
+    "verified_english_definition": "Certificate of Good Legal Standing in the community",
+    "governance_context_tag": "Barangay",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "xerox": {
+    "term_id": "DICT-CROSS-138",
+    "language": "Bislish",
+    "verified_english_definition": "Machine photocopy",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "zoning clearance": {
+    "term_id": "DICT-OCBO-054",
+    "language": "Bislish",
+    "verified_english_definition": "Locational and Zoning Clearance",
+    "governance_context_tag": "OCBO",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  }
+}

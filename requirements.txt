@@ -1,0 +1,15 @@
+# Install torch FIRST, separately:
+# pip install torch==2.2.1 --index-url https://download.pytorch.org/whl/cu121
+transformers==4.38.2
+sentence-transformers==2.5.1
+faiss-cpu==1.8.0
+rank-bm25==0.2.2
+pymupdf==1.23.26
+pandas==2.2.1
+numpy<2
+openpyxl==3.1.2
+requests==2.31.0
+ragas==0.1.5
+fastapi==0.110.0
+uvicorn==0.28.0
+datasets==2.18.0
