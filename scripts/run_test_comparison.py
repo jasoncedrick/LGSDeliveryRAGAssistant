@@ -30,10 +30,7 @@ Config C uses the SAME QueryNormalizer class, same FEW_SHOT_SYSTEM_PROMPT
 Config B -- the only difference is that its dictionary is emptied before
 use, so scan_query() finds zero matches and glossary_context always
 resolves to "None". This isolates dictionary injection as the single
-variable that differs between B and C. (An earlier version of this script
-used a separate, shorter hand-written prompt for Config C that was also
-missing the few-shot examples -- that confounded two variables at once and
-has been removed.)
+variable that differs between B and C.
 """
 
 import os
@@ -200,17 +197,18 @@ def run_test_evaluation():
             a_metrics = compute_retrieval_metrics(a_retrieved, gt_ids)
 
             # ---- Config B: full pipeline (dictionary-assisted normalization) ----
+            # NOTE: query_normalizer.py's normalize() now always attempts translation,
+            # even when a polysemy conflict is flagged (status=FALLBACK_TRIGGERED) --
+            # it just also returns a clarification_prompt for that case. So we no
+            # longer discard the translation and fall back to the raw query; we use
+            # normalized_query whenever it comes back non-empty, same as SUCCESS.
             if lang == "english":
                 b_query = raw_q
                 b_status = "PASSTHROUGH_ENGLISH"
             else:
                 norm_result = normalizer.normalize(raw_q)
-                if norm_result["status"] == "FALLBACK_TRIGGERED":
-                    b_query = raw_q  # ambiguity fallback: no crisp translation available
-                    b_status = "FALLBACK_TRIGGERED"
-                else:
-                    b_query = norm_result["normalized_query"] or raw_q
-                    b_status = "SUCCESS"
+                b_query = norm_result["normalized_query"] or raw_q
+                b_status = norm_result["status"]
             b_bm25_raw = score_bm25(b_query)
             b_dense_raw = score_dense(b_query)
             b_boost_raw = score_dict_boost(b_query)
@@ -218,20 +216,17 @@ def run_test_evaluation():
             b_metrics = compute_retrieval_metrics(b_retrieved, gt_ids)
 
             # ---- Config C: same pipeline, dictionary injection disabled at translation ----
+            # (An empty dictionary means scan_query() never matches anything, so
+            # FALLBACK_TRIGGERED can't occur here anyway -- normalizer_c.dictionary
+            # and .sorted_terms are emptied above. This branch just mirrors B's
+            # handling for consistency.)
             if lang == "english":
                 c_query = raw_q
                 c_status = "PASSTHROUGH_ENGLISH"
             else:
                 norm_result_c = normalizer_c.normalize(raw_q)
-                if norm_result_c["status"] == "FALLBACK_TRIGGERED":
-                    # Should not trigger with an empty dictionary (no polysemy
-                    # entries left to match), but handle it the same way as B
-                    # for symmetry in case that ever changes.
-                    c_query = raw_q
-                    c_status = "FALLBACK_TRIGGERED"
-                else:
-                    c_query = norm_result_c["normalized_query"] or raw_q
-                    c_status = "SUCCESS"
+                c_query = norm_result_c["normalized_query"] or raw_q
+                c_status = norm_result_c["status"]
             c_bm25_raw = score_bm25(c_query)
             c_dense_raw = score_dense(c_query)
             c_boost_raw = score_dict_boost(c_query)  # boost is 0 anyway per T06 (gamma=0)

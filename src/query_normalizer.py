@@ -73,7 +73,7 @@ class QueryNormalizer:
     def normalize(self, raw_query: str) -> Dict[str, Any]:
         """
         Executes the three-stage normalization pipeline:
-        1. Sub-module 4.3: Ambiguity Fallback verification
+        1. Sub-module 4.3: Ambiguity Fallback verification (flag only, no longer skips translation)
         2. Sub-module 4.1: Lexical Injection context construction
         3. Sub-module 4.2: Constrained Mistral 7B translation
         """
@@ -82,21 +82,29 @@ class QueryNormalizer:
         matched_entries = scan_results["matched_entries"]
 
         # Sub-module 4.3: Ambiguity Fallback Mechanism
+        #
+        # FIX: previously this returned immediately with normalized_query=None,
+        # forcing every downstream consumer (including the T07 eval harness) to
+        # fall back to the RAW, untranslated citizen query whenever a polysemous
+        # term was detected. That silently tanked retrieval metrics on ~11% of
+        # non-English test queries and had nothing to do with whether dictionary
+        # injection helps -- it was just the system giving up on translation
+        # entirely. A live chatbot should still ask the user to disambiguate, but
+        # it should ALSO hand back a best-effort translated search query so
+        # retrieval isn't left searching with raw Bislish/Taglish text. So: keep
+        # flagging the ambiguity (status + clarification_prompt), but no longer
+        # skip the translation step below.
+        clarification_prompt = None
+        flagged_term_id = ""
+        status = "SUCCESS"
         if poly_conflicts:
             priority_conflict = poly_conflicts[0]
-            clarification = priority_conflict.get(
+            clarification_prompt = priority_conflict.get(
                 "disambiguation_rule",
                 f"Did you mean {priority_conflict.get('local_term')} for business licensing or another procedure?"
             )
-            return {
-                "status": "FALLBACK_TRIGGERED",
-                "term_id": priority_conflict.get("term_id", ""),
-                "clarification_prompt": clarification,
-                "normalized_query": None,
-                "injected_terms": [e["local_term"] for e in matched_entries],
-                "tokens_generated": 0,
-                "eval_duration_ms": 0.0
-            }
+            flagged_term_id = priority_conflict.get("term_id", "")
+            status = "FALLBACK_TRIGGERED"
 
         # Sub-module 4.1: Dictionary-Assisted Lexical Injection
         injected_definitions = [
@@ -135,9 +143,9 @@ Translated Query:"""
             translated_query = translated_query.strip('"\n ')
 
             return {
-                "status": "SUCCESS",
-                "term_id": None,
-                "clarification_prompt": None,
+                "status": status,
+                "term_id": flagged_term_id or None,
+                "clarification_prompt": clarification_prompt,
                 "normalized_query": translated_query,
                 "injected_terms": [e["local_term"] for e in matched_entries],
                 "tokens_generated": result.get("eval_count", 0),
@@ -146,4 +154,4 @@ Translated Query:"""
 
         except requests.exceptions.RequestException as e:
             raise ConnectionError(f"Failed to communicate with local Ollama server: {e}")
-
+        
