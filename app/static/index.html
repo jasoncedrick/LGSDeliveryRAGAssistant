@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>eBOSS - Davao City Citizen Assistant</title>
+<style>
+  body { font-family: system-ui, -apple-system, sans-serif; max-width: 680px; margin: 40px auto; background:#f7f7f8; padding: 0 16px; }
+  h1 { font-size: 1.3rem; }
+  #chat { background:#fff; border-radius:10px; padding:16px; min-height:300px; max-height:60vh; overflow-y:auto; border:1px solid #ddd; }
+  .msg { margin:10px 0; padding:10px 14px; border-radius:10px; max-width:85%; white-space:pre-wrap; }
+  .user { background:#2563eb; color:#fff; margin-left:auto; }
+  .bot { background:#eee; color:#111; }
+  .meta { font-size:0.72rem; color:#888; margin-top:4px; }
+  form { display:flex; gap:8px; margin-top:12px; }
+  input { flex:1; padding:10px; border-radius:8px; border:1px solid #ccc; font-size:1rem; }
+  button { padding:10px 16px; border-radius:8px; border:none; background:#2563eb; color:#fff; cursor:pointer; }
+  button:disabled { opacity:0.5; cursor:default; }
+</style>
+</head>
+<body>
+<h1>eBOSS &mdash; Davao City Citizen Assistant</h1>
+<div id="chat"></div>
+<form id="form">
+  <input id="input" placeholder="Type your question (English, Taglish, or Bislish)" autocomplete="off" />
+  <button type="submit">Send</button>
+</form>
+
+<script>
+const chat = document.getElementById("chat");
+const form = document.getElementById("form");
+const input = document.getElementById("input");
+
+function addMessage(text, cls, meta) {
+  const div = document.createElement("div");
+  div.className = "msg " + cls;
+  div.textContent = text;
+  if (meta) {
+    const m = document.createElement("div");
+    m.className = "meta";
+    m.textContent = meta;
+    div.appendChild(m);
+  }
+  chat.appendChild(div);
+  chat.scrollTop = chat.scrollHeight;
+  return div;
+}
+
+form.addEventListener("submit", async (e) => {
+  e.preventDefault();
+  const query = input.value.trim();
+  if (!query) return;
+  addMessage(query, "user");
+  input.value = "";
+  const btn = form.querySelector("button");
+  btn.disabled = true;
+  const pending = addMessage("Thinking...", "bot");
+
+  try {
+    const res = await fetch("/api/query", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ query })
+    });
+    if (!res.ok) throw new Error("Server error " + res.status);
+    const data = await res.json();
+    pending.remove();
+
+    let text = data.answer;
+    if (data.normalization_status === "FALLBACK_TRIGGERED" && data.clarification_prompt) {
+      text += "\n\n(Note: ambiguous term detected — " + data.clarification_prompt + ")";
+    }
+    const meta = "status: " + data.normalization_status +
+                 " | chunks: " + data.retrieved_chunk_ids.join(", ") +
+                 " | " + data.latency_seconds + "s";
+    addMessage(text, "bot", meta);
+  } catch (err) {
+    pending.remove();
+    addMessage("Error reaching the server: " + err, "bot");
+  }
+  btn.disabled = false;
+  input.focus();
+});
+</script>
+</body>
+</html>
