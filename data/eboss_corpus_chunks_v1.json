@@ -3432,7 +3432,7 @@
     "version_date": "2026"
   },
   {
-    "chunk_id": "CHUNK-CTO-P186-C01",
+    "chunk_id": "CHUNK-CTO-PDF0021-C02",
     "governance_pillar": "City Treasurer's Office",
     "document_title": "Davao City Citizens Charter 2026 - City Treasurer's Office (External Services)",
     "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
@@ -3440,10 +3440,12 @@
     "pdf_relative_page": 21,
     "token_count": 120,
     "text_content": "176 1.3 Generate the Payment Slip/Order of Payment. 17, series of 2017, section 186 Imposition of Fees 10 Minutes Ticket Checker (CTO Poblacion) -or- Assigned Personnel (CTO Districts) 2. Submit the payment slip to the collector at Windows 1 to 4, Sangguniang Panlungsod - CTO Taxpayer s Lounge, Counters 20 at CTO Business Tax Assessment Division, or the respective CTO District Offices. 2. Issue the Official Receipt as proof of payment at the City",
-    "version_date": "2026"
+    "version_date": "2026",
+    "_id_patched": true,
+    "_original_id": "CHUNK-CTO-P186-C01"
   },
   {
-    "chunk_id": "CHUNK-CTO-P186-C02",
+    "chunk_id": "CHUNK-CTO-PDF0021-C02X01",
     "governance_pillar": "City Treasurer's Office",
     "document_title": "Davao City Citizens Charter 2026 - City Treasurer's Office (External Services)",
     "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
@@ -3451,10 +3453,12 @@
     "pdf_relative_page": 21,
     "token_count": 120,
     "text_content": "TO District Offices. 2. Issue the Official Receipt as proof of payment at the City Treasurer s Office or District Offices. Based on the 2017 Revenue Code of the City of Davao Ordinance No. 0291- 17, series of 2017, section 186 Imposition of Fees 5 Minutes Window 1-4, Local Treasury Operations Officer I/ Local Revenue Collection Officer I/ Local Revenue Collection Officer I Counter 20: Local Revenue Collection Officer I (Poblacion) -or- Assigned Personnel (CTO Districts) 3. Sub",
-    "version_date": "2026"
+    "version_date": "2026",
+    "_id_patched": true,
+    "_original_id": "CHUNK-CTO-PDF0021-C02"
   },
   {
-    "chunk_id": "CHUNK-CTO-P186-C03",
+    "chunk_id": "CHUNK-CTO-PDF0021-C02X02",
     "governance_pillar": "City Treasurer's Office",
     "document_title": "Davao City Citizens Charter 2026 - City Treasurer's Office (External Services)",
     "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
@@ -3462,10 +3466,12 @@
     "pdf_relative_page": 21,
     "token_count": 120,
     "text_content": "Poblacion) -or- Assigned Personnel (CTO Districts) 3. Submit the Official Receipt to Counter 24, Weight and Measures Counter, or CTO District Offices, and sign the logbook after the release of stickers. 3.1 Prepare and release the sticker seal and advise the client to sign the logbook None 5 Minutes Revenue Collection Clerk I Assigned Personnel (CTO Districts) 3.2 Seal the weight and measure instrument of the client at the City Treasurer s Office or District None 3 Minutes Ticket",
-    "version_date": "2026"
+    "version_date": "2026",
+    "_id_patched": true,
+    "_original_id": "CHUNK-CTO-PDF0021-C02"
   },
   {
-    "chunk_id": "CHUNK-CTO-P186-C04",
+    "chunk_id": "CHUNK-CTO-PDF0021-C02X03",
     "governance_pillar": "City Treasurer's Office",
     "document_title": "Davao City Citizens Charter 2026 - City Treasurer's Office (External Services)",
     "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
@@ -3473,7 +3479,9 @@
     "pdf_relative_page": 21,
     "token_count": 41,
     "text_content": "measure instrument of the client at the City Treasurer s Office or District None 3 Minutes Ticket Checker City Treasurer s Office -or- Assigned Personnel (CTO Districts)",
-    "version_date": "2026"
+    "version_date": "2026",
+    "_id_patched": true,
+    "_original_id": "CHUNK-CTO-PDF0021-C02"
   },
   {
     "chunk_id": "CHUNK-CTO-P177-C01",
@@ -3751,7 +3759,7 @@
     "version_date": "2026"
   },
   {
-    "chunk_id": "CHUNK-CTO-P186-C01",
+    "chunk_id": "CHUNK-CTO-PDF0031-C03",
     "governance_pillar": "City Treasurer's Office",
     "document_title": "Davao City Citizens Charter 2026 - City Treasurer's Office (External Services)",
     "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
@@ -3759,10 +3767,12 @@
     "pdf_relative_page": 31,
     "token_count": 120,
     "text_content": "186 window at CTO District Offices. and stamp books/ receipts. 2.3 Return the documents to the taxpayer. Section 422 Keeping of Cash Register Book and Registration of Books of Accounts 7 Minutes 2 Minutes Window 17: Ticket Checker (Poblacion) -or- Assigned Personnel in CTO Districts TOTAL: Attached Annex - 9 39 Minutes ANNEX 9 Failure on the part of any person (natural or juridical) to register in the City Treasurer their book of accounts, book of",
-    "version_date": "2026"
+    "version_date": "2026",
+    "_id_patched": true,
+    "_original_id": "CHUNK-CTO-P186-C01"
   },
   {
-    "chunk_id": "CHUNK-CTO-P186-C02",
+    "chunk_id": "CHUNK-CTO-PDF0031-C03X01",
     "governance_pillar": "City Treasurer's Office",
     "document_title": "Davao City Citizens Charter 2026 - City Treasurer's Office (External Services)",
     "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
@@ -3770,7 +3780,9 @@
     "pdf_relative_page": 31,
     "token_count": 88,
     "text_content": "natural or juridical) to register in the City Treasurer their book of accounts, book of records and official receipts, cash sales, cash invoice, delivery receipt and other receipts used in the collection within fifteen (15) working days from time of filling the application for new or renewal of business permit shall be administratively fined Five Thousand Pesos (P 5,000.00).",
-    "version_date": "2026"
+    "version_date": "2026",
+    "_id_patched": true,
+    "_original_id": "CHUNK-CTO-PDF0031-C03"
   },
   {
     "chunk_id": "CHUNK-CTO-P187-C01",
