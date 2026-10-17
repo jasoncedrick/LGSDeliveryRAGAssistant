@@ -1,0 +1,61 @@
+{
+  "patch_date": "2026-10-12T16:30:51.483682",
+  "source_report": "LGS_Test_Report_2026-10-08.pdf",
+  "dictionary_patch": {
+    "entries_before": 167,
+    "entries_after": 167,
+    "added": [],
+    "skipped_existing": [
+      "mag renew",
+      "mag-renew",
+      "i-renew",
+      "i-renew ang permit",
+      "lista sa empleyado",
+      "listahan ng empleyado",
+      "SPA",
+      "espesyal na kapangyarihan",
+      "partnership resolution",
+      "board resolution",
+      "secretary's certificate",
+      "linya sa bisnes",
+      "linya sa negosyo",
+      "ugma",
+      "karong adlawa",
+      "sa sunod na adlaw",
+      "sa hapon"
+    ]
+  },
+  "corpus_patch": {
+    "total_chunks": 1031,
+    "unique_ids_before": 1027,
+    "unique_ids_after": 1031,
+    "duplicate_ids_fixed": [
+      {
+        "old": "CHUNK-CTO-PDF0021-C02",
+        "new": "CHUNK-CTO-PDF0021-C02X01",
+        "source_page": 186,
+        "pdf_relative_page": 21
+      },
+      {
+        "old": "CHUNK-CTO-PDF0021-C02",
+        "new": "CHUNK-CTO-PDF0021-C02X02",
+        "source_page": 186,
+        "pdf_relative_page": 21
+      },
+      {
+        "old": "CHUNK-CTO-PDF0021-C02",
+        "new": "CHUNK-CTO-PDF0021-C02X03",
+        "source_page": 186,
+        "pdf_relative_page": 21
+      },
+      {
+        "old": "CHUNK-CTO-PDF0031-C03",
+        "new": "CHUNK-CTO-PDF0031-C03X01",
+        "source_page": 186,
+        "pdf_relative_page": 31
+      }
+    ],
+    "remaining_duplicates": []
+  },
+  "notes": "Dictionary entries added per test-report gap analysis: verb-form renewal triggers (mag renew, mag-renew, i-renew, i-renew ang permit), checklist document terms (lista sa empleyado, listahan ng empleyado, SPA, espesyal na kapangyarihan, partnership resolution, board resolution, secretary's certificate, linya sa bisnes, linya sa negosyo), and temporal expressions (ugma, karong adlawa, sa sunod na adlaw, sa hapon). Corpus CTO-P186 duplicate IDs fixed by reassigning colliding occurrences to collision-free CHUNK-{OFFICE}-PDF{pdf_page:04d}-C{occ:02d} format. IMPORTANT: FAISS and BM25 indices must be rebuilt after this patch. Benchmark references to the reassigned IDs must also be remapped."
+}
