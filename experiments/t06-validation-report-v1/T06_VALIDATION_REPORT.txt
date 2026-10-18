@@ -1,0 +1,77 @@
+T06 VALIDATION REPORT - DEVELOPMENT CANDIDATE
+
+Outcome: the automated Hit/MRR/RAGAS harness is implemented and its archived development execution is verified. Steps 1-5 are complete for this candidate. The evidence does not establish final thesis validation or readiness to freeze the corpus.
+
+The authoritative Thesis Tracker tab records T06 Complete: Code Automated Evaluation Harness Loop (Hit Rate, MRR, RAGAS). This report supplies development-run evidence for that engineering task. T07 is a separate frozen-architecture comparison. No workbook status was changed.
+
+Completed work:
+1. Preserved original development questions, reference answers, reviews and generated outcomes in versioned archives.
+2. Corrected five development references and mapped 26 claims to actual source chunks; retained ambiguous BB fee wording.
+3. Rescored the same saved K=3/K=5 rankings for all 90 queries; no retrieval or generation rerun.
+4. Executed offline RAGAS on the 84 saved K=5 answers, retaining six clarification skips and all partial judge failures.
+5. Verified the archive hashes and input provenance, independently recomputed score aggregates, and prepared this report.
+
+Retrieval results (all 30 groups / 90 language variants):
+K=3: 65/90 hits; Hit Rate 72.22%; MRR 0.570370.
+K=5: 68/90 hits; Hit Rate 75.56%; MRR 0.577593.
+All six clarification outcomes count as misses for these end-to-end retrieval denominators. A hit requires at least one relevant chunk and does not prove full answer coverage. The earlier 75-query subset reproduces its old scores exactly; the changed denominator must not be reported as a retrieval improvement.
+
+Offline RAGAS (K=5 generated answers):
+Metric                 Mean       Valid scores / eligible answers
+faithfulness           0.815249   84/84
+context_precision      0.906844   83/84
+context_recall         0.970960   84/84
+answer_relevancy       0.575914   82/84
+
+Accounting: 90 records = 81 fully scored + 3 partially scored + 6 clarification skips. Null scores are not zeros. Metric means exclude failed values and clarification skips; each denominator is shown. These pooled means are not the manuscript office/language-balanced grid-search objective.
+
+Partial judge failures retained:
+- SCENARIO-CTO-003-english: context_precision null.
+- SCENARIO-OCBO-006-english: answer_relevancy null.
+- SCENARIO-BFP-004-taglish: answer_relevancy null.
+Other metrics for those records remain available. No specific parser/timeout cause is asserted without inspecting the judge traces.
+
+Methodology alignment:
+- Chapter 3 PDF p28 (printed 23): source fidelity and 120-token windows with 20-token overlap. Corpus and indices were preserved during these evaluation steps.
+- PDF p30 (printed 25): chunk-level BM25/FAISS/dictionary fusion; saved rankings are reused without altering scoring.
+- PDF p32 (printed 27): retrieval and answer evaluation. K=3 and K=5 retrieval is covered; answer scoring is K=5 only.
+- PDF pp33-34 (printed 28-29): grouped development split, tuning objective, held-out isolation, freeze and expert-audit requirements. No held-out file was accessed and no freeze is declared.
+- Main tracker tab: T06 harness engineering versus T07 execution of frozen Config A/B/C. This report does not claim T07 is newly validated.
+
+Integrity checks:
+- Both archived output manifests verified; current protected input hashes still match the evaluation inputs.
+- All 90 record IDs accounted for once. Step 4 verification matched 84 exact question/answer/context/reference datasets to the archive.
+- Means and per-metric denominators independently recomputed for this report.
+- Existing evidence: six ranking-metric tests and two score-serialization tests passed in steps 3-4.
+
+Limitations and next work:
+R1 - Reference validation: 25 groups retain provisional lexical relevance mappings and unreviewed legacy reference-answer semantics. Five corrected groups were assistant-reviewed, not independently expert-certified.
+Next: Complete source-grounded semantic review of remaining development references before interpreting answer-quality scores as validated ground truth.
+Manual checking: Proponent/source reviewer; independent expert audit remains a separate manuscript requirement.
+
+R2 - Evaluator failures: Three metric values are null: CTO-003 English context precision; OCBO-006 English and BFP-004 Taglish answer relevancy. No retries or replacements were applied in this report.
+Next: Inspect archived judge responses for these cases. If an evaluator correction or retry is made, retain this run and publish a separate version with its settings and outcomes.
+Manual checking: No immediate user edit required; diagnostic inspection can be automated.
+
+R3 - Source context: BFP three-set label is separated from the document list in corpus chunks C052/C053. BB fee text remains ambiguous about every unit versus additional units.
+Next: Review BFP layout-to-text association before corpus freeze; preserve BB wording unless authoritative clarification is obtained. Any corpus change requires new matching indices and evaluation.
+Manual checking: Rendered source check for BFP; authoritative clarification only if a numeric BB fee interpretation is needed.
+
+R4 - T07 and final evaluation: This is one fixed development candidate, not a completed grid search or paired frozen A/B/C comparison. K=3/K=5 rankings were assessed; generated answers and RAGAS use K=5 only.
+Next: After development evidence is ready, perform the manuscript development tuning and configuration comparison, register the freeze, then evaluate held-out data under its isolation protocol.
+Manual checking: Independent expert audit and freeze review as specified by Chapter 3.
+
+The same local Mistral model generated answers and judged them; judge bias and structured-output failures limit interpretation. A high RAGAS score is not independent proof of statutory accuracy. No pass threshold or correctness certification is inferred from these averages.
+
+Evidence locations (relative to experiments/):
+- t06-formal-development-validation-v3/reference_changes.json: exact before/after reference answers and IDs.
+- t06-formal-development-validation-v3/claim_source_evidence.json: 26 claims, source passages, PDF pages and hashes.
+- t06-formal-development-validation-v3/per_query_metrics.csv: 180 K-specific retrieval results.
+- t06-formal-development-validation-v3/interactions.corrected_references.jsonl: all 90 archived outcomes with corrected references.
+- t06-ragas-90query-development-v1/scores.json and scores.csv: all evaluation outcomes.
+- t06-ragas-90query-development-v1/judge_calls.jsonl: judge prompts and outputs.
+- t06-ragas-90query-development-v1/protocol.json and runtime_identity.json: evaluator settings, model digest and package versions.
+- t06-ragas-90query-development-v1/verification.json: scoring audit and skipped/partial records.
+- This folder: validation_report.json, metrics.csv, remaining_work.json and report_manifest.json.
+
+Recommended immediate next task: diagnose the three null judge metrics from their saved traces, then continue development reference/source review. Preserve this report as the completed T06 development-harness checkpoint.

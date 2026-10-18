@@ -1,0 +1,102 @@
+{
+  "status": "STEP_4_EXECUTION_COMPLETE_WITH_THREE_PARTIAL_JUDGE_FAILURES",
+  "verified_utc": "2026-10-18T22:51:25.383732+00:00",
+  "checks": [
+    "All 90 records accounted for exactly once",
+    "84 archived question/answer/context/reference datasets match exactly",
+    "Six clarification outcomes skipped explicitly",
+    "Means and metric-specific denominators independently recomputed",
+    "Input v3 artifacts and all protected source/corpus/index/app hashes unchanged",
+    "Output archive hashes verified",
+    "Two score serialization unit tests passed"
+  ],
+  "partial_failures": [
+    {
+      "record_id": "SCENARIO-CTO-003-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": null,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.9477332635921973
+      },
+      "language": "english",
+      "group_id": "SCENARIO-CTO-003",
+      "pillar": "City Treasurer's Office",
+      "reference_status": "legacy_semantics_not_independently_certified",
+      "status": "PARTIAL_OR_FAILED_JUDGE"
+    },
+    {
+      "record_id": "SCENARIO-OCBO-006-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.75,
+        "context_precision": 0.6999999999766667,
+        "context_recall": 1.0,
+        "answer_relevancy": null
+      },
+      "language": "english",
+      "group_id": "SCENARIO-OCBO-006",
+      "pillar": "Office of the City Building Official",
+      "reference_status": "legacy_semantics_not_independently_certified",
+      "status": "PARTIAL_OR_FAILED_JUDGE"
+    },
+    {
+      "record_id": "SCENARIO-BFP-004-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.99999999998,
+        "context_recall": 1.0,
+        "answer_relevancy": null
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-BFP-004",
+      "pillar": "Bureau of Fire Protection",
+      "reference_status": "assistant_source_reviewed",
+      "status": "PARTIAL_OR_FAILED_JUDGE"
+    }
+  ],
+  "clarification_skips": [
+    "SCENARIO-CTO-001-taglish",
+    "SCENARIO-CTO-001-bislish",
+    "SCENARIO-CTO-005-bislish",
+    "SCENARIO-CTO-006-english",
+    "SCENARIO-CTO-006-taglish",
+    "SCENARIO-CTO-006-bislish"
+  ],
+  "null_policy": "Failed metrics excluded from their own mean, never replaced by zero. Valid zero scores retained.",
+  "step5_full_t06_report": "not yet prepared; await user instruction",
+  "freeze": false,
+  "held_out_accessed": false,
+  "app_defaults_changed": false,
+  "limitations": [
+    "Local 7B judge may fail structured-output parsing; null scores are not zeros.",
+    "Same-model judging can introduce bias.",
+    "Means exclude nulls and skipped records; inspect metric-specific denominators.",
+    "Five reference groups source-reviewed by assistant; other 25 retain provisional legacy semantics.",
+    "Archived generation is K=5 only; this is not frozen A/B/C evaluation or independent expert certification."
+  ],
+  "metric_aggregates": {
+    "faithfulness": {
+      "valid_scores": 84,
+      "mean_on_valid_scores": 0.815249433106576,
+      "failed_scores": 0
+    },
+    "context_precision": {
+      "valid_scores": 83,
+      "mean_on_valid_scores": 0.9068440428146831,
+      "failed_scores": 1
+    },
+    "context_recall": {
+      "valid_scores": 84,
+      "mean_on_valid_scores": 0.970959595959596,
+      "failed_scores": 0
+    },
+    "answer_relevancy": {
+      "valid_scores": 82,
+      "mean_on_valid_scores": 0.5759141736165405,
+      "failed_scores": 2
+    }
+  }
+}

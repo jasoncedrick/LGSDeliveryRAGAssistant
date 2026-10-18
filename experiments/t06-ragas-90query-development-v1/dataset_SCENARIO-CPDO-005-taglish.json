@@ -1,0 +1,20 @@
+{
+  "question": [
+    "Ano ang mga kailangang i-upload at magkano ang bayad para sa online business locational clearance sa CPDO?"
+  ],
+  "answer": [
+    "Sa online application para sa Locational Clearance sa CPDO, ang kailangang i-upload ay:\n\n1. Enforcement ng Integrated Zoning Ordinance (ZO) 2019 - 2028 sa Locational Clearance para sa negosyo (sa chunk DEV120-CPDO-PDF0070-C001). Hindi ma-i-specify sa source kung anong dokumento ang kailangang i-upload para sa online application.\n\nWala pa rin ma-i-specify sa mga ibang source kung anong bayad ang kailangan para sa online business locational clearance sa CPDO. Ang bayad para sa Mayor's Permit at service fee ay nakasaad sa chunks DEV120-BB-PDF0041-C001 at DEV120-BB-PDF0044-C001, ngunit wala pa rin ma-i-specify kung anong bayad ang kailangan para sa online application."
+  ],
+  "contexts": [
+    [
+      ") \nCPDO\n4. SPA from the building owner to \nprocess application for Locational \nClearance\nApplicant\n5. Seven (7) complete sets of Building \nPlans (original) \na. Filled-up title blocks \nb. Signed and sealed by CE / Architect\nApplicant\n6. Certified True Copy of Title issued \nby the Registry of Deeds (ROD) or \nshow original copy of title for validation \n(1 original for validation, 1 photocopy)\nRegistry of Deeds\n7. Locational Clearance Application \nduly notarized and signed by the \napplicant (1 photocopy",
+      "12. Enforcement of the Integrated Zoning Ordinance (ZO) 2019 – \n2028 in the Issuance of the Locational Clearance (LC) for Business \n– Online Application\nA written authority / permit granted by the City Planning and Development Office \n(previously by the Board) pursuant to applicable laws on land use planning and zoning \nfor the establishment or operation of projects of national / local significance. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nSimple\nType of Transaction \nG2B –",
+      "OIC), Business\nBureau\n3.6.  Release \nBusiness permit \nand documents to \nthe client\nNone \n10 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau\n3.7. Request the \nclient to sign in \nthe logbook\nNone \n6 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau\nTOTAL:\nMayor’s\nPermit Fee\nis\nbased on\nthe\nasset size  \nand nature\nof\nbusiness.  \nService fee\nis Php \n50.00\nfor\nAmendment\nof\nBusiness\nPermit.\n(paid at the\nCity\nTreasurer’s\nOffice).\nPls. See\nSchedule of\nFees and \nCharges\n1 Hour and \n55 Minutes\nF. A",
+      "justments and \nAppeals \n \n-If conditional \napproval clients \nare required to \nsubmit additional \nrequirements for \nthe sufficiency of \nthe application and \nthe conditions \nshould be \ncomplied with \nduring the \nbusiness \noperations \ncommence.\nNone \n5 Minutes\nActing\nAdministrative\nOfficer  \nCPDO",
+      "3.6. Release \nBusiness permit \nand documents \nto the client\nNone \n10 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau\n3.7. Request the \nclient to sign in \nthe logbook\nNone \n6 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau\nTOTAL:\nMayor’s\nPermit Fee\nis\nbased on\nthe\nasset size  \nand nature\nof\nbusiness.  \nService fee  \nis Php50.00\nfor\nAmendment\nof\nBusiness\nPermit.\n(paid at the\nCity\nTreasurer’s\nOffice)\nPls. See\nSchedule of\nFees and \nCharges\n1 Hour and \n55 Minutes\nG. Amendment of Business Per"
+    ]
+  ],
+  "ground_truth": [
+    "Under CPDO Service 12, Locational Clearance for Business (Online Application via appbts.davaocity.gov.ph) evaluates land-use compatibility under the Integrated ZO 2019-2028. Requirements uploaded to the portal are: 1) Filled-up application form; 2) Affidavit of Undertaking for neighbor's consent with sketch map; 3) Homeowners Association Certificate of No Objection (if inside a subdivision); 4) Proof of business working area pictures and road access; and 5) Certificate of Actual Land Occupancy (if inside ancestral land under RA 8371). There are no direct filing fees (None), and approval or issuance of a denial letter takes 1 Day and 50 Minutes."
+  ]
+}

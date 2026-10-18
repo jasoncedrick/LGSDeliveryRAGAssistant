@@ -1,0 +1,77 @@
+{
+  "status": "T06_DEVELOPMENT_HARNESS_EXECUTION_VERIFIED_REFERENCE_VALIDATION_INCOMPLETE",
+  "all_90_queries_processed": true,
+  "groups": 30,
+  "languages": 3,
+  "generation_k": 5,
+  "retrieval_k": [
+    3,
+    5
+  ],
+  "archive_context_text_matches_indexed_corpus": true,
+  "all_generated_outputs_retained": true,
+  "original_development_benchmark_unchanged": true,
+  "source_artifacts_unchanged": true,
+  "statuses": {
+    "ANSWERED": 84,
+    "CLARIFICATION_REQUIRED": 6
+  },
+  "provisional_metrics": [
+    {
+      "k": 3,
+      "denominator": 75,
+      "all_mapped_queries_included": true,
+      "hit_at_k": 0.72,
+      "mrr_at_k": 0.5644444444444445,
+      "by_language": {
+        "english": {
+          "queries": 25,
+          "hits": 18
+        },
+        "taglish": {
+          "queries": 25,
+          "hits": 19
+        },
+        "bislish": {
+          "queries": 25,
+          "hits": 17
+        }
+      }
+    },
+    {
+      "k": 5,
+      "denominator": 75,
+      "all_mapped_queries_included": true,
+      "hit_at_k": 0.7466666666666667,
+      "mrr_at_k": 0.5704444444444445,
+      "by_language": {
+        "english": {
+          "queries": 25,
+          "hits": 20
+        },
+        "taglish": {
+          "queries": 25,
+          "hits": 19
+        },
+        "bislish": {
+          "queries": 25,
+          "hits": 17
+        }
+      }
+    }
+  ],
+  "full_30_group_gold_validation_complete": false,
+  "groups_requiring_source_reference_review": [
+    "SCENARIO-BB-006",
+    "SCENARIO-CPDO-001",
+    "SCENARIO-BFP-001",
+    "SCENARIO-BFP-004",
+    "SCENARIO-BFP-005"
+  ],
+  "source_review_queue": "experiments/t06-formal-development-validation-v2/source_review_queue.json",
+  "ragas": "All four metric paths smoke-tested previously; this 90-query batch is archived for offline scoring, not yet RAGAS-scored.",
+  "formal_results_ready": false,
+  "held_out_accessed": false,
+  "app_defaults_changed": false,
+  "next_work": "Resolve the five source-reference mappings and semantically review references before reporting a full-cohort retrieval/RAGAS result. Current harness errors and low scores remain in archive."
+}

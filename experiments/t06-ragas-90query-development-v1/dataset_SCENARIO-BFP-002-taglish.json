@@ -1,0 +1,20 @@
+{
+  "question": [
+    "Paano kinukwenta ang Fire Safety Inspection Fee (FSIF) para sa FSIC ng Occupancy at magkano ang minimum na bayad?"
+  ],
+  "answer": [
+    "The Fire Safety Inspection Fee (FSIF) for a Fire Safety Inspection Certificate (FSIC) for Occupancy is not explicitly stated in the provided sources. However, the fee for other services like Fire Safety Evaluation Clearance (FSEC) is not mentioned either, so it might not be included in the provided sources. [S5]\n\nThe minimum payment for FSIC for Occupancy is also not specified in the provided sources. [S1, S2, S3, S4, S5]"
+  ],
+  "contexts": [
+    [
+      "s, etc.) as a prerequisite for the\nissuance of appropriate permits and licenses\nfrom the local and other government agencies\nconcerned.\n\nCHECKLIST OF\nREQUIREMENTS/\nDOCUMENTS\nBFP FRONT LINE SERVICES\nFIRE SAFETY  \nEVALUATION \nCLEARANCE\n(FSEC)\nAPPLICATION\nFIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION\nCERTIFICATE OF\nOCCUPANCY\nNEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPAN",
+      "Building Administrator and his/her Fire Safety Practitioner\nduring the regular annual fire safety inspection. This  is a compilation of the maintenance and testing records kept by the building‘s engineering and maintenance department, as a prerequisite for the issuance of FSIC for Business or \nMayor‘s Permit renewal, Certificate of Annual Inspection , Permit to Operate, PHILHEALTH Accreditation for Hospitals, DOH License to Operate and other  permits or licenses being issued by other government agencies.\nNOTE (4) Section 9.",
+      "test and acceptance forms of all fire protection and life safety features, which shall form part of the ―as-built‖\ndocuments turned over by the contractor to the building owner duly signed by the Contractor/Construction Manager and his/her Fire Safety Practitioner.\nNOTE (3) Fire Safety Maintenance Report (FSMR) - A written report prepared by the building owner, his/her fire safety practitioner or authorized representative duly signed by the Building Administrator and his/her Fire Safety Practitioner\nduring the regular annual fire safety inspection.",
+      "AUTHORIZE REPRESENTATIVE, CONTRACTOR OR BUSINESS ENTITY\nNOTE (1) Fire Safety Compliance Report (FSCR) - A written report composed of plans, specifications and design analysis per building prepared and duly signed by the Engineer/Architect-of-Record and his/her Fire Safety Practitioner. \nNOTE (2) Fire Safety Compliance and Commissioning Report (FSCCR) - A compilation report of all approved submittals, test and acceptance forms of all fire protection and life safety features, which shall form part of",
+      "be secured:\n1) \nPer \nProject \nDuration \n– \nfor \nnew \nconstruction \nor \nrenovation\n(during construction) This clearance should be applied during                      \nconstruction after the conduct of fire safety inspection\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n\n2)  Annual – for business establishments requiring almost daily repair or\nmaintenance due to its nature of business or operations.\n[REPRESENTATION: Matrix dot shown for:"
+    ]
+  ],
+  "ground_truth": [
+    "Under the BFP Citizen's Charter and RA 9514, the Fire Safety Inspection Certificate (FSIC) for Occupancy Permit requires: 1) Endorsement from the Office of the Building Official (OBO); 2) Certificate of Completion; 3) As-built plans (if changes occurred); 4) Certified true copy of the assessment fee from OBO; and 5) Fire insurance policy (if any). The Fire Safety Inspection Fee (FSIF) is assessed at 15% of all regulatory fees charged by the LGU, but in no case shall the fee be lower than Five Hundred Pesos (PHP 500.00)."
+  ]
+}

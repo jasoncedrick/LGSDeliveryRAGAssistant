@@ -1,0 +1,20 @@
+{
+  "question": [
+    "Unsaon pagkwenta sa Transfer Tax sa yuta sa City Treasurer ug pila ang bayad sa certification?"
+  ],
+  "answer": [
+    "Sa Transfer Tax sa yuta sa City Treasurer, ang bayad ay nakabuo sa asset size at nature ng negosyo. Para sa detalye, maaoy nga makita sa [S2] sa chunk DEV120-BB-PDF0037-C001. Ang Mayors Permit Fee ay hindi din nakalimutan, naa man gyud siya basahon sa Gross Income ng Business Establishment. Para sa detalye, maaoy nga makita sa [S2] sa chunk DEV120-BB-PDF0037-C001. Ang schedule sa bayad sa Mayors Permit Fee, maaoy nga makita sa [S2] sa chunk DEV120-BB-PDF0037-C001. Ang schedule sa bayad sa Real Property Transfer Tax, maaoy nga makita sa [S3] sa chunk DEV120-CTO-PDF0011-C001."
+  ],
+  "contexts": [
+    [
+      "1.Submit pertinent \ndocuments and \nReceive pertinent \ndocuments  application \nform for Transfer of \nOwnership (electro-\nmechanical), and order \nof payment to be paid at \nthe City Treasurer’s \nOffice\n1.1. Assess \nApplication for \nTransfer of \nOwnership.\n1.2. Verify and \nEncode \nApplication for \nTransfer of \nOwnership.\n1.3. Return \npertinent \ndocuments to \nthe client, print \nout application \nform for \nTransfer of \nOwnership \n(electro-\nmechanical), \nand issue an \norder of \npayment to be \npaid at the \nCity \nTreasurer’s \nOffice\nNone \n10 Minutes \nLicensing Officer \nBusiness Bureau\nSTEP 2: PAY",
+      "further information. \nClient may still proceed \nto the City Treasurer’s \nOffice for assessment \nand payment of dues. \nSTEP 2: PAYMENT\n2.Proceed to the City \nTreasurer’s Office for \npayment.\n2. Process \nunder City \nTreasurer’s \nOffice\nMayor’s\nPermit Fee is \nbased on the \nasset size and\nnature of \nbusiness\n(paid at the\nCity\nTreasurer’s\nOffice). Taxes\nis based on \nthe Gross \nIncome of \nBusiness\nEstablishment \n(refer the City \nTreasurer’s\nOffice’s \nCitizen’s \nCharter)\nPls. See\nSchedule of\nFe",
+      "respective District \nOffices.\n4.2 Generate\nand sign \nthe Real \nProperty \nTransfer \nTax \nCertificatio\nn.\n1 Hour \nLocal Treasury\nOperations \nOfficer IV\n-or-\nCTO District \nTreasurers\n5. Client signs the\nlogbook as proof \nof Transfer Tax \nCertification \nrelease at \nWindow 10, \nRPTD, CTO SP \nOffice, or the \nrespective \nDistrict Offices.\n5. Release\nthe Real \nProperty \nTransfer \nTax \nCertificatio\nn to the \nclient.\nNone\n15 Minutes\nTicket Checker\n(CTO\nPoblacion)\n-or-\nAssigned \nPersonnel\n(CTO District\nOffices)\nTOTAL:\nAttach",
+      "Tax Receipts \n      City Treasurer’s Office\n10. \nRight to use or Deed of Sale of Right-of-\nWay for access road and other utilities when \napplicable, subject to just compensation for \nprivate land \n      Applicant\n11. \nSubdivision Development Plan\nconsisting of the site development plan \nshowing roads, easements, or ROW, lot \n     Applicant",
+      "Treasurer’s \nOffice\nNone \n10 Minutes \nLicensing Officer \nBusiness Bureau\nSTEP 2: PAYMENT \n2.Proceed to the City \nTreasurer’s Office for \npayment.\n2. Process \nunder City \nTreasurer’s \nOffice\nService fee  \nis Php50.00\nfor\nAmendment\nof\nBusiness\nPermit.\n9 Minutes \nCity Treasurer’s\nOffice\nEmployees\nSTEP 3: RELEASE  \n3.Submit Applications \nfor Transfer of \nOwnership, official \nreceipts and pertinent \ndocuments. Claim \nBusiness Permit at the\n3.1 Receive \nApplications \nfor Transfer of \nOwnership \nand Complete \nAttachments"
+    ]
+  ],
+  "ground_truth": [
+    "Under Section 34 of the 2017 Revenue Code of Davao City, the Tax on Transfer of Real Property Ownership is imposed at the rate of 0.75% (or up to 1%) based on the total consideration or the fair market value of the real property, whichever is higher. In addition, a Transfer Tax Certification fee of PHP 50.00 is charged (plus PHP 20.00 for every additional page). Requirements include the original notarized Deed of Transfer, photocopy of Title from the Registry of Deeds, and original Tax Declaration (DRPV)."
+  ]
+}

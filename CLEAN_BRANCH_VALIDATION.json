@@ -1,0 +1,19 @@
+{
+  "approved_files": 174,
+  "unchanged_approved_files": 171,
+  "revised_files": [
+    "README.md",
+    "requirements.txt",
+    "scripts/run_t06_chunk_development.py"
+  ],
+  "additional_files": [
+    "tests/test_development_runner_inputs.py",
+    "CLEAN_BRANCH_VALIDATION.json",
+    "publication_manifest.json"
+  ],
+  "tests": "41 tests passed across seven isolated unittest modules. Combined discovery aborted due to multiple OpenMP DLL runtimes in the local venv; no unsafe workaround used.",
+  "history": "Independent clean branch; no old tracked tree or abandoned Git history inherited. Original checkpoint branch preserved.",
+  "held_out_accessed": false,
+  "new_inference_run": false,
+  "app_defaults_changed": false
+}

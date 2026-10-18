@@ -1,0 +1,30 @@
+[
+  {
+    "id": "R1",
+    "scope": "Reference validation",
+    "finding": "25 groups retain provisional lexical relevance mappings and unreviewed legacy reference-answer semantics. Five corrected groups were assistant-reviewed, not independently expert-certified.",
+    "next_action": "Complete source-grounded semantic review of remaining development references before interpreting answer-quality scores as validated ground truth.",
+    "manual_check": "Proponent/source reviewer; independent expert audit remains a separate manuscript requirement."
+  },
+  {
+    "id": "R2",
+    "scope": "Evaluator failures",
+    "finding": "Three metric values are null: CTO-003 English context precision; OCBO-006 English and BFP-004 Taglish answer relevancy. No retries or replacements were applied in this report.",
+    "next_action": "Inspect archived judge responses for these cases. If an evaluator correction or retry is made, retain this run and publish a separate version with its settings and outcomes.",
+    "manual_check": "No immediate user edit required; diagnostic inspection can be automated."
+  },
+  {
+    "id": "R3",
+    "scope": "Source context",
+    "finding": "BFP three-set label is separated from the document list in corpus chunks C052/C053. BB fee text remains ambiguous about every unit versus additional units.",
+    "next_action": "Review BFP layout-to-text association before corpus freeze; preserve BB wording unless authoritative clarification is obtained. Any corpus change requires new matching indices and evaluation.",
+    "manual_check": "Rendered source check for BFP; authoritative clarification only if a numeric BB fee interpretation is needed."
+  },
+  {
+    "id": "R4",
+    "scope": "T07 and final evaluation",
+    "finding": "This is one fixed development candidate, not a completed grid search or paired frozen A/B/C comparison. K=3/K=5 rankings were assessed; generated answers and RAGAS use K=5 only.",
+    "next_action": "After development evidence is ready, perform the manuscript development tuning and configuration comparison, register the freeze, then evaluate held-out data under its isolation protocol.",
+    "manual_check": "Independent expert audit and freeze review as specified by Chapter 3."
+  }
+]

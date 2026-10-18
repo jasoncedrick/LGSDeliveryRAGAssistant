@@ -1,0 +1,178 @@
+{
+  "status": "STEPS_1_TO_3_COMPLETE_DEVELOPMENT_ONLY",
+  "groups": 30,
+  "queries": 90,
+  "corrected_groups": [
+    "SCENARIO-BB-006",
+    "SCENARIO-CPDO-001",
+    "SCENARIO-BFP-001",
+    "SCENARIO-BFP-004",
+    "SCENARIO-BFP-005"
+  ],
+  "statuses": {
+    "ANSWERED": 84,
+    "CLARIFICATION_REQUIRED": 6
+  },
+  "ranking_metrics": [
+    {
+      "k": 3,
+      "all_90": {
+        "queries": 90,
+        "hits": 65,
+        "hit_at_k": 0.7222222222222222,
+        "mrr_at_k": 0.5703703703703704
+      },
+      "unchanged_75": {
+        "queries": 75,
+        "hits": 54,
+        "hit_at_k": 0.72,
+        "mrr_at_k": 0.5644444444444445
+      },
+      "corrected_15": {
+        "queries": 15,
+        "hits": 11,
+        "hit_at_k": 0.7333333333333333,
+        "mrr_at_k": 0.6
+      },
+      "by_language": {
+        "english": {
+          "queries": 30,
+          "hits": 22,
+          "hit_at_k": 0.7333333333333333,
+          "mrr_at_k": 0.5666666666666667
+        },
+        "taglish": {
+          "queries": 30,
+          "hits": 22,
+          "hit_at_k": 0.7333333333333333,
+          "mrr_at_k": 0.5722222222222222
+        },
+        "bislish": {
+          "queries": 30,
+          "hits": 21,
+          "hit_at_k": 0.7,
+          "mrr_at_k": 0.5722222222222222
+        }
+      },
+      "by_pillar": {
+        "Bureau of Fire Protection": {
+          "queries": 18,
+          "hits": 9,
+          "hit_at_k": 0.5,
+          "mrr_at_k": 0.3888888888888889
+        },
+        "Business Bureau": {
+          "queries": 18,
+          "hits": 17,
+          "hit_at_k": 0.9444444444444444,
+          "mrr_at_k": 0.8425925925925926
+        },
+        "City Planning and Development Office": {
+          "queries": 18,
+          "hits": 15,
+          "hit_at_k": 0.8333333333333334,
+          "mrr_at_k": 0.5277777777777778
+        },
+        "City Treasurer's Office": {
+          "queries": 18,
+          "hits": 10,
+          "hit_at_k": 0.5555555555555556,
+          "mrr_at_k": 0.4351851851851852
+        },
+        "Office of the City Building Official": {
+          "queries": 18,
+          "hits": 14,
+          "hit_at_k": 0.7777777777777778,
+          "mrr_at_k": 0.6574074074074073
+        }
+      }
+    },
+    {
+      "k": 5,
+      "all_90": {
+        "queries": 90,
+        "hits": 68,
+        "hit_at_k": 0.7555555555555555,
+        "mrr_at_k": 0.5775925925925927
+      },
+      "unchanged_75": {
+        "queries": 75,
+        "hits": 56,
+        "hit_at_k": 0.7466666666666667,
+        "mrr_at_k": 0.5704444444444445
+      },
+      "corrected_15": {
+        "queries": 15,
+        "hits": 12,
+        "hit_at_k": 0.8,
+        "mrr_at_k": 0.6133333333333333
+      },
+      "by_language": {
+        "english": {
+          "queries": 30,
+          "hits": 24,
+          "hit_at_k": 0.8,
+          "mrr_at_k": 0.5816666666666668
+        },
+        "taglish": {
+          "queries": 30,
+          "hits": 23,
+          "hit_at_k": 0.7666666666666667,
+          "mrr_at_k": 0.5788888888888889
+        },
+        "bislish": {
+          "queries": 30,
+          "hits": 21,
+          "hit_at_k": 0.7,
+          "mrr_at_k": 0.5722222222222222
+        }
+      },
+      "by_pillar": {
+        "Bureau of Fire Protection": {
+          "queries": 18,
+          "hits": 9,
+          "hit_at_k": 0.5,
+          "mrr_at_k": 0.3888888888888889
+        },
+        "Business Bureau": {
+          "queries": 18,
+          "hits": 17,
+          "hit_at_k": 0.9444444444444444,
+          "mrr_at_k": 0.8425925925925926
+        },
+        "City Planning and Development Office": {
+          "queries": 18,
+          "hits": 17,
+          "hit_at_k": 0.9444444444444444,
+          "mrr_at_k": 0.5527777777777778
+        },
+        "City Treasurer's Office": {
+          "queries": 18,
+          "hits": 11,
+          "hit_at_k": 0.6111111111111112,
+          "mrr_at_k": 0.4462962962962963
+        },
+        "Office of the City Building Official": {
+          "queries": 18,
+          "hits": 14,
+          "hit_at_k": 0.7777777777777778,
+          "mrr_at_k": 0.6574074074074073
+        }
+      }
+    }
+  ],
+  "policy": "Any relevant chunk gives Hit=1; reciprocal rank uses first relevant chunk. A hit is not complete-answer support. Stopped queries with no retrieval count as zero; no outcomes dropped.",
+  "limitations": [
+    "Five groups have assistant source-reviewed answers; the other 25 retain provisional lexical mappings and unreviewed legacy answer semantics.",
+    "90-query scores have a different denominator from the earlier 75-query scores and are not evidence of improved retrieval.",
+    "BFP three-set label is stranded in chunks C052/C053, separated from documentary rows; source meaning verified visually, corpus unchanged.",
+    "BB fee wording remains ambiguous; no numeric extrapolation or additional-unit interpretation is approved.",
+    "Assistant review is not the independent expert audit specified by the manuscript.",
+    "This fixed candidate run is not a tuned/frozen Config A/B/C evaluation; generation was K=5 only."
+  ],
+  "ragas_run": false,
+  "held_out_accessed": false,
+  "app_defaults_changed": false,
+  "freeze": false,
+  "original_archive_sha256": "9ad83c476e55d67324fbfd584d2f49d08e0ac623a9d9e22984c0d61984085809"
+}

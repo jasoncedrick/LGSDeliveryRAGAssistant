@@ -1,0 +1,401 @@
+{
+  "status": "T06_HARNESS_IMPLEMENTED_AND_DEVELOPMENT_EXECUTION_VERIFIED_WITH_LIMITATIONS",
+  "step5_report_complete": true,
+  "created_utc": "2026-10-18T22:56:50.226378+00:00",
+  "scope": "Archived 30-group / 90-query development candidate; no model server or new inference used for this report.",
+  "tracker": {
+    "authoritative_tab": "Thesis Tracker",
+    "T06_recorded_status": "Complete",
+    "T06_task": "Code Automated Evaluation Harness Loop (Hit Rate, MRR, RAGAS)",
+    "interpretation": "The implemented batch harness and its development execution are evidenced. This report does not certify final answer accuracy, corpus readiness, tuned parameters, independent expert audit or T07 frozen configurations.",
+    "workbook_modified": false
+  },
+  "retrieval": [
+    {
+      "k": 3,
+      "all_90": {
+        "queries": 90,
+        "hits": 65,
+        "hit_at_k": 0.7222222222222222,
+        "mrr_at_k": 0.5703703703703704
+      },
+      "unchanged_75": {
+        "queries": 75,
+        "hits": 54,
+        "hit_at_k": 0.72,
+        "mrr_at_k": 0.5644444444444445
+      },
+      "corrected_15": {
+        "queries": 15,
+        "hits": 11,
+        "hit_at_k": 0.7333333333333333,
+        "mrr_at_k": 0.6
+      },
+      "by_language": {
+        "english": {
+          "queries": 30,
+          "hits": 22,
+          "hit_at_k": 0.7333333333333333,
+          "mrr_at_k": 0.5666666666666667
+        },
+        "taglish": {
+          "queries": 30,
+          "hits": 22,
+          "hit_at_k": 0.7333333333333333,
+          "mrr_at_k": 0.5722222222222222
+        },
+        "bislish": {
+          "queries": 30,
+          "hits": 21,
+          "hit_at_k": 0.7,
+          "mrr_at_k": 0.5722222222222222
+        }
+      },
+      "by_pillar": {
+        "Bureau of Fire Protection": {
+          "queries": 18,
+          "hits": 9,
+          "hit_at_k": 0.5,
+          "mrr_at_k": 0.3888888888888889
+        },
+        "Business Bureau": {
+          "queries": 18,
+          "hits": 17,
+          "hit_at_k": 0.9444444444444444,
+          "mrr_at_k": 0.8425925925925926
+        },
+        "City Planning and Development Office": {
+          "queries": 18,
+          "hits": 15,
+          "hit_at_k": 0.8333333333333334,
+          "mrr_at_k": 0.5277777777777778
+        },
+        "City Treasurer's Office": {
+          "queries": 18,
+          "hits": 10,
+          "hit_at_k": 0.5555555555555556,
+          "mrr_at_k": 0.4351851851851852
+        },
+        "Office of the City Building Official": {
+          "queries": 18,
+          "hits": 14,
+          "hit_at_k": 0.7777777777777778,
+          "mrr_at_k": 0.6574074074074073
+        }
+      }
+    },
+    {
+      "k": 5,
+      "all_90": {
+        "queries": 90,
+        "hits": 68,
+        "hit_at_k": 0.7555555555555555,
+        "mrr_at_k": 0.5775925925925927
+      },
+      "unchanged_75": {
+        "queries": 75,
+        "hits": 56,
+        "hit_at_k": 0.7466666666666667,
+        "mrr_at_k": 0.5704444444444445
+      },
+      "corrected_15": {
+        "queries": 15,
+        "hits": 12,
+        "hit_at_k": 0.8,
+        "mrr_at_k": 0.6133333333333333
+      },
+      "by_language": {
+        "english": {
+          "queries": 30,
+          "hits": 24,
+          "hit_at_k": 0.8,
+          "mrr_at_k": 0.5816666666666668
+        },
+        "taglish": {
+          "queries": 30,
+          "hits": 23,
+          "hit_at_k": 0.7666666666666667,
+          "mrr_at_k": 0.5788888888888889
+        },
+        "bislish": {
+          "queries": 30,
+          "hits": 21,
+          "hit_at_k": 0.7,
+          "mrr_at_k": 0.5722222222222222
+        }
+      },
+      "by_pillar": {
+        "Bureau of Fire Protection": {
+          "queries": 18,
+          "hits": 9,
+          "hit_at_k": 0.5,
+          "mrr_at_k": 0.3888888888888889
+        },
+        "Business Bureau": {
+          "queries": 18,
+          "hits": 17,
+          "hit_at_k": 0.9444444444444444,
+          "mrr_at_k": 0.8425925925925926
+        },
+        "City Planning and Development Office": {
+          "queries": 18,
+          "hits": 17,
+          "hit_at_k": 0.9444444444444444,
+          "mrr_at_k": 0.5527777777777778
+        },
+        "City Treasurer's Office": {
+          "queries": 18,
+          "hits": 11,
+          "hit_at_k": 0.6111111111111112,
+          "mrr_at_k": 0.4462962962962963
+        },
+        "Office of the City Building Official": {
+          "queries": 18,
+          "hits": 14,
+          "hit_at_k": 0.7777777777777778,
+          "mrr_at_k": 0.6574074074074073
+        }
+      }
+    }
+  ],
+  "ragas": {
+    "faithfulness": {
+      "valid_scores": 84,
+      "mean_on_valid_scores": 0.815249433106576,
+      "failed_scores": 0
+    },
+    "context_precision": {
+      "valid_scores": 83,
+      "mean_on_valid_scores": 0.9068440428146831,
+      "failed_scores": 1
+    },
+    "context_recall": {
+      "valid_scores": 84,
+      "mean_on_valid_scores": 0.970959595959596,
+      "failed_scores": 0
+    },
+    "answer_relevancy": {
+      "valid_scores": 82,
+      "mean_on_valid_scores": 0.5759141736165405,
+      "failed_scores": 2
+    }
+  },
+  "ragas_by_language": {
+    "english": {
+      "records": 30,
+      "statuses": {
+        "SCORED": 27,
+        "PARTIAL_OR_FAILED_JUDGE": 2,
+        "NOT_SCORED": 1
+      },
+      "metrics": {
+        "faithfulness": {
+          "valid_scores": 29,
+          "mean": 0.9474137931034483
+        },
+        "context_precision": {
+          "valid_scores": 28,
+          "mean": 0.8902281745807582
+        },
+        "context_recall": {
+          "valid_scores": 29,
+          "mean": 0.9561128526645768
+        },
+        "answer_relevancy": {
+          "valid_scores": 28,
+          "mean": 0.6522313749797893
+        }
+      }
+    },
+    "taglish": {
+      "records": 30,
+      "statuses": {
+        "SCORED": 27,
+        "NOT_SCORED": 2,
+        "PARTIAL_OR_FAILED_JUDGE": 1
+      },
+      "metrics": {
+        "faithfulness": {
+          "valid_scores": 28,
+          "mean": 0.776998299319728
+        },
+        "context_precision": {
+          "valid_scores": 28,
+          "mean": 0.9213789682305682
+        },
+        "context_recall": {
+          "valid_scores": 28,
+          "mean": 0.9821428571428571
+        },
+        "answer_relevancy": {
+          "valid_scores": 27,
+          "mean": 0.5441548187090945
+        }
+      }
+    },
+    "bislish": {
+      "records": 30,
+      "statuses": {
+        "SCORED": 27,
+        "NOT_SCORED": 3
+      },
+      "metrics": {
+        "faithfulness": {
+          "valid_scores": 27,
+          "mean": 0.7129629629629629
+        },
+        "context_precision": {
+          "valid_scores": 27,
+          "mean": 0.9090020575889449
+        },
+        "context_recall": {
+          "valid_scores": 27,
+          "mean": 0.9753086419753088
+        },
+        "answer_relevancy": {
+          "valid_scores": 27,
+          "mean": 0.528529764147284
+        }
+      }
+    }
+  },
+  "outcomes": {
+    "records": 90,
+    "groups": 30,
+    "answers": 84,
+    "clarifications": 6,
+    "fully_scored": 81,
+    "partially_scored": 3,
+    "ragas_skipped": 6
+  },
+  "partial_failures": [
+    {
+      "record_id": "SCENARIO-CTO-003-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": null,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.9477332635921973
+      },
+      "language": "english",
+      "group_id": "SCENARIO-CTO-003",
+      "pillar": "City Treasurer's Office",
+      "reference_status": "legacy_semantics_not_independently_certified",
+      "status": "PARTIAL_OR_FAILED_JUDGE"
+    },
+    {
+      "record_id": "SCENARIO-OCBO-006-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.75,
+        "context_precision": 0.6999999999766667,
+        "context_recall": 1.0,
+        "answer_relevancy": null
+      },
+      "language": "english",
+      "group_id": "SCENARIO-OCBO-006",
+      "pillar": "Office of the City Building Official",
+      "reference_status": "legacy_semantics_not_independently_certified",
+      "status": "PARTIAL_OR_FAILED_JUDGE"
+    },
+    {
+      "record_id": "SCENARIO-BFP-004-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.99999999998,
+        "context_recall": 1.0,
+        "answer_relevancy": null
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-BFP-004",
+      "pillar": "Bureau of Fire Protection",
+      "reference_status": "assistant_source_reviewed",
+      "status": "PARTIAL_OR_FAILED_JUDGE"
+    }
+  ],
+  "clarification_skips": [
+    "SCENARIO-CTO-001-taglish",
+    "SCENARIO-CTO-001-bislish",
+    "SCENARIO-CTO-005-bislish",
+    "SCENARIO-CTO-006-english",
+    "SCENARIO-CTO-006-taglish",
+    "SCENARIO-CTO-006-bislish"
+  ],
+  "methodology": {
+    "source": "D:\\thesis\\LGSDeliveryRAGAssistant-main\\experiments\\t06-formal-development-validation-v3\\methodology_and_tracker.json",
+    "chapter3_pdf_pages": [
+      28,
+      30,
+      32,
+      33,
+      34
+    ],
+    "chunk_tokens": 120,
+    "overlap_tokens": 20,
+    "scoring_unit": "chunk",
+    "retrieval_k": [
+      3,
+      5
+    ],
+    "generation_k": 5,
+    "weights": "Existing fixed candidate; no tuning performed by steps 1-5.",
+    "aggregation": "RAGAS means are over available scores per metric; these pooled means are not the manuscript equal-weight 15 office-language-cell grid-search objective.",
+    "nulls": "Failed metrics are null, excluded from their own means; valid zeros retained. Clarification skips are separate.",
+    "retrieval_denominator": "All 90 queries; no-retrieval clarification outcomes count as zero Hit/MRR. A hit means at least one relevant chunk, not complete evidence coverage.",
+    "denominator_comparison": "Earlier 75-query subset metrics reproduced exactly; expanded 90-query results are not evidence of improved retrieval."
+  },
+  "integrity": {
+    "archive_checks": [
+      {
+        "folder": "D:\\thesis\\LGSDeliveryRAGAssistant-main\\experiments\\t06-formal-development-validation-v3",
+        "files_verified": 15,
+        "status": "PASS"
+      },
+      {
+        "folder": "D:\\thesis\\LGSDeliveryRAGAssistant-main\\experiments\\t06-ragas-90query-development-v1",
+        "files_verified": 90,
+        "status": "PASS"
+      }
+    ],
+    "current_protected_inputs_match": true,
+    "all_records_accounted_for": true,
+    "metric_means_recomputed": true,
+    "previous_test_evidence": "Six ranking-metric and two score-serialization tests passed during steps 3-4; not rerun for report-only work."
+  },
+  "remaining_work": [
+    {
+      "id": "R1",
+      "scope": "Reference validation",
+      "finding": "25 groups retain provisional lexical relevance mappings and unreviewed legacy reference-answer semantics. Five corrected groups were assistant-reviewed, not independently expert-certified.",
+      "next_action": "Complete source-grounded semantic review of remaining development references before interpreting answer-quality scores as validated ground truth.",
+      "manual_check": "Proponent/source reviewer; independent expert audit remains a separate manuscript requirement."
+    },
+    {
+      "id": "R2",
+      "scope": "Evaluator failures",
+      "finding": "Three metric values are null: CTO-003 English context precision; OCBO-006 English and BFP-004 Taglish answer relevancy. No retries or replacements were applied in this report.",
+      "next_action": "Inspect archived judge responses for these cases. If an evaluator correction or retry is made, retain this run and publish a separate version with its settings and outcomes.",
+      "manual_check": "No immediate user edit required; diagnostic inspection can be automated."
+    },
+    {
+      "id": "R3",
+      "scope": "Source context",
+      "finding": "BFP three-set label is separated from the document list in corpus chunks C052/C053. BB fee text remains ambiguous about every unit versus additional units.",
+      "next_action": "Review BFP layout-to-text association before corpus freeze; preserve BB wording unless authoritative clarification is obtained. Any corpus change requires new matching indices and evaluation.",
+      "manual_check": "Rendered source check for BFP; authoritative clarification only if a numeric BB fee interpretation is needed."
+    },
+    {
+      "id": "R4",
+      "scope": "T07 and final evaluation",
+      "finding": "This is one fixed development candidate, not a completed grid search or paired frozen A/B/C comparison. K=3/K=5 rankings were assessed; generated answers and RAGAS use K=5 only.",
+      "next_action": "After development evidence is ready, perform the manuscript development tuning and configuration comparison, register the freeze, then evaluate held-out data under its isolation protocol.",
+      "manual_check": "Independent expert audit and freeze review as specified by Chapter 3."
+    }
+  ],
+  "same_generator_and_judge": true,
+  "held_out_accessed": false,
+  "app_defaults_changed": false,
+  "corpus_frozen": false
+}
