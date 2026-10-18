@@ -1,0 +1,1540 @@
+[
+  {
+    "group_id": "SCENARIO-BB-001",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-BB-P041-C01",
+        "source_page_id": "BB-PDF0002",
+        "pdf_relative_page": 2,
+        "printed_page": 41,
+        "legacy_text": "41 1. Pre-Assessment Pre-assessment is the process in which the Business Bureau assists the clients in complying with the prerequisites required by the Regulatory Offices prior to the application of New Business Permit and certain Amendments to it. Office or Division City Mayor's Office Permits & Licenses Division Classification Simple Type of Transaction G2C Government to Citizen; G2B Government to Business Who may avail Any natural or juridical person who will be conducting and engaging in any business, trade or",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-BB-PDF0002-C001",
+          "DEV120-BB-PDF0002-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          81
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-BB-P041-C02",
+        "source_page_id": "BB-PDF0002",
+        "pdf_relative_page": 2,
+        "printed_page": 41,
+        "legacy_text": "natural or juridical person who will be conducting and engaging in any business, trade or occupation within the territorial jurisdiction of Davao City CHECKLIST OF REQUIREMENT WHERE TO SECURE NEW 1. Duly filled-out Unified Application Form (1 original) Business Bureau or at the Web site https://busbureau.davaocity.gov.ph/ or apply online at https://appbts.davaocity.gov.ph/ 2. Sketch / Google map of Business location (1 original) with pictures of the premise location Applicant",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-BB-PDF0002-C001",
+          "DEV120-BB-PDF0002-C002",
+          "DEV120-BB-PDF0002-C003"
+        ],
+        "source_lexical_token_span": [
+          66,
+          142
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-BB-P041-C03",
+        "source_page_id": "BB-PDF0002",
+        "pdf_relative_page": 2,
+        "printed_page": 41,
+        "legacy_text": "ch / Google map of Business location (1 original) with pictures of the premise location Applicant 3.Certified List of Employees / Certification of no Employee (1 original) Applicant, notarized by any Notary Public 4. Valid DTI Registration for Single Proprietorship (1 photocopy) Department of Trade and Industry 5. SEC Registration, Articles of Incorporation for Partnership and Corporation (1 photocopy) Securities and Exchange Commission 6. Certificate of Cooperation, Articles of Cooperation for Cooperative (1 photocopy).",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-BB-PDF0002-C002",
+          "DEV120-BB-PDF0002-C003",
+          "DEV120-BB-PDF0002-C004"
+        ],
+        "source_lexical_token_span": [
+          127,
+          200
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-BB-P042-C01",
+        "source_page_id": "BB-PDF0003",
+        "pdf_relative_page": 3,
+        "printed_page": 42,
+        "legacy_text": "42 13. Contract of Lease and copy of the Proof of ownership by the Lessor if business location is not owned and is rented by the applicant (1 photocopy) Applicant, notarized by any Notary Public 14. Any proof of ownership if Business location is owned Applicant 15. consent and copy of any proof of ownership if business location is not owned and is freely used by the applicant (1 photocopy) Applicant 16. OR/CR of vehicle, if with delivery vehicle (1 photocopy each vehicle) Applicant 17.",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-BB-PDF0003-C001",
+          "DEV120-BB-PDF0003-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          85
+        ]
+      }
+    ],
+    "all_references_mapped": true,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-BB-002",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-BB-P042-C03",
+        "source_page_id": "BB-PDF0003",
+        "pdf_relative_page": 3,
+        "printed_page": 42,
+        "legacy_text": "Activity declared Concerned Agency AMENDMENT OF BUSINESS PERMIT CHANGE OF BUSINESS ADDRESS 1. Current Original Mayor s Permit, Application for Renewal of Business Permit, or Certified True Copy of Business Permit w/ Affidavit of Loss in case of lost permits Applicant or Records Section, Business Bureau or Any Notary Public for affidavit of loss. 2. Application Affidavit of Change of Business Address (notarized) stating the new location of the business-Single Proprietorship Applicant,",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-BB-PDF0003-C002",
+          "DEV120-BB-PDF0003-C003",
+          "DEV120-BB-PDF0003-C004"
+        ],
+        "source_lexical_token_span": [
+          141,
+          214
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-BB-P042-C04",
+        "source_page_id": "BB-PDF0003",
+        "pdf_relative_page": 3,
+        "printed_page": 42,
+        "legacy_text": "ized) stating the new location of the business-Single Proprietorship Applicant, notarized by any Notary Public 3. For Sole Proprietorship, if represented, Special Power of Attorney, indicating specific authority and capacity granted to representative. Applicant, notarized by any Notary Public 4. For Partnership, Partnership Resolution indicating specific authority and capacity granted to representative, and stating the new location of the business Applicant, notarized by any Notary Public 5. For Corporation / Cooperative, Board Resolution",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-BB-PDF0003-C003",
+          "DEV120-BB-PDF0003-C004",
+          "DEV120-BB-PDF0003-C005"
+        ],
+        "source_lexical_token_span": [
+          203,
+          276
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-BB-P043-C01",
+        "source_page_id": "BB-PDF0004",
+        "pdf_relative_page": 4,
+        "printed_page": 43,
+        "legacy_text": "43 7. Sketch / Google map of Business location (1 original) with pictures of the premise location Applicant 8. Tax Declaration of the Property or any proof of property ownership (owned, rented and not rented) and Lease Contract if rented or Consent from Property Owner if not rented Applicant, notarized by any Notary Public 9. FSIC for Occupancy Permit valid in the last 9 months Bureau of Fire Protection 10. Affidavit of Undertaking that there had been no substantial changes made on the building Applicant,",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-BB-PDF0004-C001",
+          "DEV120-BB-PDF0004-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          83
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-BB-P078-C02",
+        "source_page_id": "BB-PDF0039",
+        "pdf_relative_page": 39,
+        "printed_page": 78,
+        "legacy_text": "Address 1.1. Encode additional details from the RO- approved Change of Business Address (after approval of Regulatory Offices) application. 1.2. Return the pre-assessed documents to the client for payment with attached Recommended approval of Application for Change of Business Address None 10 Minutes EDP personnel Business Bureau STEP 2: PAYMENT 2.Proceed to the City Treasurer s Office for payment. 2. Process under City Treasurer s Office Mayor s Permit Fee is based on the asset size and nature of business. Service fee is Php50.00 9 Minute",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-BB-PDF0039-C001",
+          "DEV120-BB-PDF0039-C002",
+          "DEV120-BB-PDF0039-C003"
+        ],
+        "source_lexical_token_span": [
+          63,
+          154
+        ]
+      }
+    ],
+    "all_references_mapped": true,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-BB-003",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-BB-P054-C01",
+        "source_page_id": "BB-PDF0015",
+        "pdf_relative_page": 15,
+        "printed_page": 54,
+        "legacy_text": "54 2. Issuance of Business Permit It shall be unlawful for any person or entity to conduct or engage in any business, trade or occupation within the territorial jurisdiction of the City of Davao for which a permit is required for the proper supervision and enforcement of existing laws and ordinances without first having secured a permit therefore from the City Mayor and paying the necessary fees to the City Treasurer. The Business Permit is granted for a period of not more than one (1) year and shall expire on the thirty-first (31st) of",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-BB-PDF0015-C001",
+          "DEV120-BB-PDF0015-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          94
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-BB-P054-C02",
+        "source_page_id": "BB-PDF0015",
+        "pdf_relative_page": 15,
+        "printed_page": 54,
+        "legacy_text": "than one (1) year and shall expire on the thirty-first (31st) of December following the date of issuance unless revoked or surrendered earlier. The Business Permit issued shall be renewed within the month of January. It shall have a continuing validity only upon renewal thereof and payment of the corresponding fee. Office or Division City Mayor's Office Permits & Licenses Division Classification Simple Type of Transaction G2C Government to Citizen; G2B Government to Business Who may avail Any natural or juridical",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-BB-PDF0015-C001",
+          "DEV120-BB-PDF0015-C002",
+          "DEV120-BB-PDF0015-C003"
+        ],
+        "source_lexical_token_span": [
+          81,
+          163
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-BB-P055-C04",
+        "source_page_id": "BB-PDF0016",
+        "pdf_relative_page": 16,
+        "printed_page": 55,
+        "legacy_text": "Valid Fire Safety Inspection Certificate for Business Bureau of Fire Protection 19. Other Requirements depending on the Business Activity declared Concerned Agency RENEWAL 1. List of Employees stating the Name and Position of the Employees (1 copy) Applicant 2. For Sole Proprietorship, if represented, Special Power of Attorney, indicating specific authority and capacity granted to representative. Applicant, notarized by any Notary Public 3. For Partnership, Partnership Resolution, indicating specific authority and capacity",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-BB-PDF0016-C003",
+          "DEV120-BB-PDF0016-C004",
+          "DEV120-BB-PDF0016-C005"
+        ],
+        "source_lexical_token_span": [
+          193,
+          265
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-BB-P056-C01",
+        "source_page_id": "BB-PDF0017",
+        "pdf_relative_page": 17,
+        "printed_page": 56,
+        "legacy_text": "56 4. For other form of ownership, Board Resolution or Secretary s Certificate, indicating specific authority and capacity granted to representative. Applicant, notarized by any Notary Public 5. Valid I.D. of the representative (1 photocopy), if newly designated Applicant 6. Valid Fire Safety Inspection Certificate (1 photocopy) Applicant or Bureau of Fire Protection 7. Specific requirements for specific line of business Concerned Agency AMENDMENT OF BUSINESS PERMIT CHANGE OF BUSINESS ADDRESS 1. Current Original",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-BB-PDF0017-C001",
+          "DEV120-BB-PDF0017-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          74
+        ]
+      }
+    ],
+    "all_references_mapped": true,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-BB-004",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-BB-P104-C01",
+        "source_page_id": "BB-PDF0065",
+        "pdf_relative_page": 65,
+        "printed_page": 104,
+        "legacy_text": "104 4. Occupational Permit Occupational Permit is issued to any worker or employee who is not a holder of a validly issued Professional Tax Receipts, whether working on temporary and permanent basis. Occupational Permit is renewed annually on or before January 31. Late renewal is imposed a penalty of 25%. Office or Division City Mayor's Office Permits & Licenses Division Classification Simple Type of Transaction G2C Government to Citizen Who may avail Any employee or worker who is a Filipino citizen and",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-BB-PDF0065-C001",
+          "DEV120-BB-PDF0065-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          81
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-BB-P104-C03",
+        "source_page_id": "BB-PDF0065",
+        "pdf_relative_page": 65,
+        "printed_page": 104,
+        "legacy_text": "LIST OF REQUIREMENT WHERE TO SECURE 1. Application Form Business Bureau Office, Window 1 or at the Public Assistance Desk 2. Certificate of Employment Applicant 3. Official Receipt (for service crew) City Treasurer s Office 4. Affidavit of Consent for minors (below 18 years old). In cases of Night Clubs and related establishments and similar places of amusement, affidavit of consent for ages 18 to 20 years old. Applicant, notarized by any Notary Public 5. Additional Requi",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-BB-PDF0065-C002",
+          "DEV120-BB-PDF0065-C003",
+          "DEV120-BB-PDF0065-C004"
+        ],
+        "source_lexical_token_span": [
+          138,
+          215
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-BB-P104-C05",
+        "source_page_id": "BB-PDF0065",
+        "pdf_relative_page": 65,
+        "printed_page": 104,
+        "legacy_text": "Assessment: 1.Request for Order of Payment, application form (walk-in applicants only) and Pre-Assessment: 1. Give application form (walk-in applicants only), checklist of requirements Php 125.00 for new and updated renewal; 5 Minutes (Online and Onsite) Occupational Permit Section Head",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-BB-PDF0065-C004",
+          "DEV120-BB-PDF0065-C005"
+        ],
+        "source_lexical_token_span": [
+          263,
+          307
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-BB-P106-C03",
+        "source_page_id": "BB-PDF0067",
+        "pdf_relative_page": 67,
+        "printed_page": 106,
+        "legacy_text": "applicant to reapply. None 14 Minutes (Online and Onsite) Occupational Permit Section Head and Occupational Permit Personnel Business Bureau TOTAL: Php125 for new and updated renewal; Php 156.25 for late renewal 33 Minutes",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-BB-PDF0067-C002",
+          "DEV120-BB-PDF0067-C003"
+        ],
+        "source_lexical_token_span": [
+          120,
+          154
+        ]
+      }
+    ],
+    "all_references_mapped": true,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-BB-005",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-BB-P111-C01",
+        "source_page_id": "BB-PDF0072",
+        "pdf_relative_page": 72,
+        "printed_page": 111,
+        "legacy_text": "111 6. Full Retirement of Business Permit Full retirement of Business Permit is issued to any natural or juridical entity whose business operations have ceased. Office or Division City Mayor's Office Permits & Licenses Division Classification Simple Type of Transaction G2C Government to Citizen Who may avail Any natural or juridical entity who is a holder of a valid issued business permit but whose business operations had ceased CHECKLIST OF REQUIREMENT WHERE TO SECURE 1. Latest Business Permit (1 original or 1 certified copy",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-BB-PDF0072-C001",
+          "DEV120-BB-PDF0072-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          83
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-BB-P111-C02",
+        "source_page_id": "BB-PDF0072",
+        "pdf_relative_page": 72,
+        "printed_page": 111,
+        "legacy_text": "REMENT WHERE TO SECURE 1. Latest Business Permit (1 original or 1 certified copy) Applicant or Records Section, Business Bureau 2. Affidavit of Full Retirement indicating the reason and the effective date of retirement if Single Proprietorship. (1 original) Applicant, notarized by any Notary Public 3. Partnership Resolution duly signed by all the Partners stating the reason, effective date of retirement and the authorized representative indicated therein if Partnership. (1 original) Applicant, notarized by any Nota",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-BB-PDF0072-C001",
+          "DEV120-BB-PDF0072-C002",
+          "DEV120-BB-PDF0072-C003"
+        ],
+        "source_lexical_token_span": [
+          69,
+          145
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-BB-P111-C04",
+        "source_page_id": "BB-PDF0072",
+        "pdf_relative_page": 72,
+        "printed_page": 111,
+        "legacy_text": "Power of Attorney for Single Proprietorship if represented (1 original) Any Notary Public / Applicant 7. Business Identification Plate Applicant",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-BB-PDF0072-C003",
+          "DEV120-BB-PDF0072-C004"
+        ],
+        "source_lexical_token_span": [
+          195,
+          214
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-BB-P114-C01",
+        "source_page_id": "BB-PDF0075",
+        "pdf_relative_page": 75,
+        "printed_page": 114,
+        "legacy_text": "114 RETIRED annotation 3.Receive the retired business permit and other applicant s copy of required documents. 3. Processin g Staff receives claim stub and releases the retired business permit and other applicant s copy of required document s None 5 Minutes Processing Section Personnel Business Bureau TOTAL: Tax Obligation based on gross sales. Late filing fee for applicati on filed more than 30 days from cessation =P1,000 to P5,000 1 Hour and 45 Minutes",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-BB-PDF0075-C001"
+        ],
+        "source_lexical_token_span": [
+          0,
+          76
+        ]
+      }
+    ],
+    "all_references_mapped": true,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-BB-006",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-BB-P118-C01",
+        "source_page_id": "BB-PDF0079",
+        "pdf_relative_page": 79,
+        "printed_page": 118,
+        "legacy_text": "118 8. Ocular Inspection and ICAB Inspection Business activities being applied will be validated through ocular inspections. For Internet Cafes, this procedure intends to issue Internet Caf Accreditation to internet cafes and coin operated internet machine business operators who are compliant with internet caf regulation requirement. Internet Caf Accreditation is a specific requirement for the issuance of Business Permit. Office or Division City Mayor's Office Permits & Licenses Division Classification Simple (Regular), Complex (Complaint),",
+        "status": "MANUAL_SPAN_REVIEW_REQUIRED",
+        "exact_span_matches": 0
+      },
+      {
+        "legacy_chunk_id": "CHUNK-BB-P118-C04",
+        "source_page_id": "BB-PDF0079",
+        "pdf_relative_page": 79,
+        "printed_page": 118,
+        "legacy_text": "licant, notarized by any Notary Public 3. Official Receipt for Internet Caf Accreditation Board (ICAB) Accreditation (1 original) Revenue Collection Officer, City Treasurer s Office 4. Sketch Map of Business Location (1 original) Applicant 5. Compliance of the following ICAB requirements: Applicant Internet Service Provider (ISP Contract, Certification or Current Receipt of Payment Applicant Half-closed cubicle with not more than 5 feet from the floor (Internet Cafe only) Applicant",
+        "status": "MANUAL_SPAN_REVIEW_REQUIRED",
+        "exact_span_matches": 0
+      },
+      {
+        "legacy_chunk_id": "CHUNK-BB-P119-C01",
+        "source_page_id": "BB-PDF0080",
+        "pdf_relative_page": 80,
+        "printed_page": 119,
+        "legacy_text": "119 Proper Lighting: 25 Lux minimum for fluorescent and LED lights, 50 lux minimum for incandescent Applicant Warning sign with minimum size of 12 x 18 inches with the following text: No pornography No Gambling No Hacking No minors are allowed prior to 6:00 AM and beyond 9:00 PM Students are not allowed to play games during prescribed school hours. Applicant System for blocking or filtering access to pornographic sites/contents Applicant Webcams permanently fixed (Internet Cafe only) Applicant No selling and consum",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-BB-PDF0080-C001",
+          "DEV120-BB-PDF0080-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          84
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-BB-P120-C02",
+        "source_page_id": "BB-PDF0081",
+        "pdf_relative_page": 81,
+        "printed_page": 120,
+        "legacy_text": ") and ICAB Accreditation with Order of Payment for Accreditation if compliant None 2 Days Licensing Officer with massive inspectors * For Internet Caf and Pisonet Owners: 5. Proceed to City Treasurer s Office for ICAB Accreditation fee 5. Receive Payment and Order of Payment and Release Official Receipt PHP100.00 for the first 10 units and PHP10.00 for every unit 10 Minutes (May be done on the same day Internet Accreditation is received depending on the will of the applicant) Local",
+        "status": "MANUAL_SPAN_REVIEW_REQUIRED",
+        "exact_span_matches": 0
+      }
+    ],
+    "all_references_mapped": false,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-CTO-001",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-CTO-P185-C01",
+        "source_page_id": "CTO-PDF0030",
+        "pdf_relative_page": 30,
+        "printed_page": 185,
+        "legacy_text": "185 11. Registration of Books of Accounts, Book of Records and Official Receipt, Cash Sales, Cash Invoice, Delivery Receipt Registration of Books and Official Receipts of Businesses in Davao City Office or Division Office of the City Treasurer (CTO) Business Tax Assessment Division/ CTO District Offices Classification Simple Type of Transaction G2B Government to Business Who may avail All CHECKLIST OF REQUIREMENTS WHERE TO SECURE 1. Application for Renewal of Mayors Permit 1 original, 1 duplicate copy",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CTO-PDF0030-C001",
+          "DEV120-CTO-PDF0030-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          76
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-CTO-P186-C01",
+        "source_page_id": "CTO-PDF0020",
+        "pdf_relative_page": 20,
+        "printed_page": 175,
+        "legacy_text": "175 8. Sealing and Testing of Weights and Measures (For Weight and Measure Instruments Physically Presented at the Business Tax Assessment Division/CTO District Offices) Assessment and Calibration Result issued to taxpayers for payment and sealing of Weight and Measure instruments Office or Division Office of the City Treasurer (CTO) Business Tax Assessment Division/ District Office Classification Simple Type of Transaction G2C Government to Citizen Who may avail All CHECKLIST OF REQUIREMENTS WHERE TO SECURE 1. Weight",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CTO-PDF0020-C001",
+          "DEV120-CTO-PDF0020-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          76
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-CTO-P186-C02",
+        "source_page_id": "CTO-PDF0020",
+        "pdf_relative_page": 20,
+        "printed_page": 175,
+        "legacy_text": "avail All CHECKLIST OF REQUIREMENTS WHERE TO SECURE 1. Weight and Measure Instrument Requestor 2. Latest official receipt on payment of weight and measure/sticker seal fees (renewal) 1 original 3. Official receipt where the weight and measure instrument were purchased (new) 1 original CLIENT STEPS AGENCY ACTIONS FEES TO BE PAID PROCESSING TIME PERSON RESPONSIBLE 1. Proceed to the assigned personnel at the SP Building or CTO District Offices and submit the required documents for the registration",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CTO-PDF0020-C001",
+          "DEV120-CTO-PDF0020-C002",
+          "DEV120-CTO-PDF0020-C003"
+        ],
+        "source_lexical_token_span": [
+          66,
+          144
+        ]
+      }
+    ],
+    "all_references_mapped": true,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-CTO-002",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-CTO-P034-C01",
+        "source_page_id": "CTO-PDF0010",
+        "pdf_relative_page": 10,
+        "printed_page": 165,
+        "legacy_text": "165 2. Present all required documents at Counters 10 to 12, Real Property Tax Division, City Treasurer s Office, Sangguniang Panlungsod (CTO Poblacion) or respective District Offices. 2. Verify the document s. Based on the 2017 Revenue Code of the City of Davao Ordinanc e No. 0291-17, Series of 2017, Section 34 Tax on Transfer of Real Property Ownershi p 30 Minutes Local Treasury Operations Officer II/Revenue Collection Clerk I (CTO Poblacion) -or- Assigned Personnel",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CTO-PDF0010-C001",
+          "DEV120-CTO-PDF0010-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          76
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-CTO-P166-C01",
+        "source_page_id": "CTO-PDF0011",
+        "pdf_relative_page": 11,
+        "printed_page": 166,
+        "legacy_text": "166 respective District Offices. 4.2 Generate and sign the Real Property Transfer Tax Certificatio n. 1 Hour Local Treasury Operations Officer IV -or- CTO District Treasurers 5. Client signs the logbook as proof of Transfer Tax Certification release at Window 10, RPTD, CTO SP Office, or the respective District Offices. 5. Release the Real Property Transfer Tax Certificatio n to the client. None 15 Minutes Ticket Checker (CTO Poblacion) -or- Assigned Personnel (CTO District Offices) TOTAL: Att",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CTO-PDF0011-C001",
+          "DEV120-CTO-PDF0011-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          77
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-CTO-P166-C02",
+        "source_page_id": "CTO-PDF0011",
+        "pdf_relative_page": 11,
+        "printed_page": 166,
+        "legacy_text": ") -or- Assigned Personnel (CTO District Offices) TOTAL: Attached Annex - 4 2 Hours & 52 Minutes ANNEX 4 Amount of Fee Clearances, certifications issued by other offices not herein specified (plus Twenty Pesos {P 20.00} for every additional page) P 50.00 Transfer Tax is equal to 87% or 1% based on the consideration or the market value whichever is higher.",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CTO-PDF0011-C001",
+          "DEV120-CTO-PDF0011-C002"
+        ],
+        "source_lexical_token_span": [
+          69,
+          129
+        ]
+      }
+    ],
+    "all_references_mapped": true,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-CTO-003",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-CTO-P190-C01",
+        "source_page_id": "CTO-PDF0035",
+        "pdf_relative_page": 35,
+        "printed_page": 190,
+        "legacy_text": "190 14. Payment for Real Property Tax (RPT) Clearance Statement of Account issued to clients for payment/ issuance of Tax Clearance (Local Revenue Code of Davao City). Office or Division Office of the City Treasurer (CTO) Real Property Tax Division and CTO District Offices Classification Simple Type of Transaction G2C Government to Citizen Who may avail All real property owners in Davao City CHECKLIST OF REQUIREMENT WHERE TO SECURE 1. Tax Declaration /Declaration of Real Property Tax Valuation (",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CTO-PDF0035-C001",
+          "DEV120-CTO-PDF0035-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          77
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-CTO-P191-C01",
+        "source_page_id": "CTO-PDF0036",
+        "pdf_relative_page": 36,
+        "printed_page": 191,
+        "legacy_text": "191 - eservices.com/ egps/portal/Mer chants.jsp Imposition of the Basic Real Property Tax Section 8 Additional Levy on Real Property for the Special Education fund (SEF) TOTAL: Attached Annex - 11 25 Minutes ANNEX 11 Section 7. Imposition of the Basic Real Property Tax. There is hereby levied an annual ad valorem tax at the rate of one and one-half percent (1.5%) of the assessed value of real property, grasslands, buildings, machinery and other",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CTO-PDF0036-C001",
+          "DEV120-CTO-PDF0036-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          76
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-CTO-P191-C02",
+        "source_page_id": "CTO-PDF0036",
+        "pdf_relative_page": 36,
+        "printed_page": 191,
+        "legacy_text": "of the assessed value of real property, grasslands, buildings, machinery and other improvements affixed or attached to real property located in this City. Section 8. Additional Levy on Real Property for the Special Education Fund (SEF) This is hereby levied a one percent (1%) tax on the assessed value of real property which shall be in addition in the basic real property tax. The proceeds thereof shall accrue exclusively to the Special Education Fund (SEF).",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CTO-PDF0036-C001",
+          "DEV120-CTO-PDF0036-C002"
+        ],
+        "source_lexical_token_span": [
+          64,
+          139
+        ]
+      }
+    ],
+    "all_references_mapped": true,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-CTO-004",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-CTO-P207-C01",
+        "source_page_id": "CTO-PDF0052",
+        "pdf_relative_page": 52,
+        "printed_page": 207,
+        "legacy_text": "207 Assessment Division, City Treasurer s Office, Sangguniang Panlungsod, to assess and pay fees, and secure an Official Receipt and Community Tax Certificate (Cedula). Receipts, and process the Cedula. Code of the City of Davao Ordinance No. 0291- 17, series of 2017, section 72 Imposition of Tax on Annual Fixed Tax for Delivery Vehicle; Section 76 Graduated Tax on Business Local Treasury Operations Officer I/Local Revenue Collection Officer I/Local Revenue Collection Officer I/Local Revenue Collection Officer",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CTO-PDF0052-C001",
+          "DEV120-CTO-PDF0052-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          78
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-CTO-P210-C01",
+        "source_page_id": "CTO-PDF0055",
+        "pdf_relative_page": 55,
+        "printed_page": 210,
+        "legacy_text": "210 ANNEX 15 Section 72. Imposition of Tax. - There is hereby imposed an annual fixed tax for every delivery vehicle, truck, van, or any motor vehicle, vessels or watercraft used by manufacturers, producers, wholesalers, dealers or retailers in the delivery or distribution of distilled spirits, fermented liquors, soft drinks, cigars and cigarettes and other essential products and sales of goods as may hereinafter be determined by the Sangguniang Panlungsod to sales outlets or consumer",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CTO-PDF0055-C001",
+          "DEV120-CTO-PDF0055-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          73
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-CTO-P210-C02",
+        "source_page_id": "CTO-PDF0055",
+        "pdf_relative_page": 55,
+        "printed_page": 210,
+        "legacy_text": "inafter be determined by the Sangguniang Panlungsod to sales outlets or consumers, whether directly or indirectly within the City, subject to the following rates: a. Motorcycle and motorized tricycle P 240.00 b. Delivery jeepney and similar utility vehicle 600.00 c. Truck, van, or any vehicle with six wheels and above 1,000.00 d. Water vessel, barges, ferry boats, tug boats and similar watercrafts 2,000.00 e. Airplane or aircraft 5,000.00 Article Ten. -",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CTO-PDF0055-C001",
+          "DEV120-CTO-PDF0055-C002",
+          "DEV120-CTO-PDF0055-C003"
+        ],
+        "source_lexical_token_span": [
+          61,
+          139
+        ]
+      }
+    ],
+    "all_references_mapped": true,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-CTO-005",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-CTO-P192-C01",
+        "source_page_id": "CTO-PDF0037",
+        "pdf_relative_page": 37,
+        "printed_page": 192,
+        "legacy_text": "192 15. Professional Tax Assessment issued to taxpayers / clients for payment of Professional Tax Receipt. Office or Division Office of the City Treasurer (CTO) Business Tax Assessment Division/ District Offices Classification Simple Type of Transaction G2C Government to Citizen Who may avail All CHECKLIST OF REQUIREMENT WHERE TO SECURE 1. Unexpired Professional Regulatory Commission ID/ Integrated Bar of the Philippines ID 1 original Professional Regulatory Commission, Juna Subd., Matina, Davao City / Integrated Bar of the Philippines,",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CTO-PDF0037-C001",
+          "DEV120-CTO-PDF0037-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          75
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-CTO-P192-C02",
+        "source_page_id": "CTO-PDF0037",
+        "pdf_relative_page": 37,
+        "printed_page": 192,
+        "legacy_text": "Juna Subd., Matina, Davao City / Integrated Bar of the Philippines, Hall of Justice, Candelaria St., Ecoland, Davao City 2. Certification from PRC/IBP for new registrant/ passers 1 original Professional Regulatory Commission, Juna Subd., Matina, Davao City 3. Current Davao City Address and valid Contact number/email address Requestor CLIENT STEPS AGENCY ACTIONS FEES TO BE PAID PROCESSING TIME PERSON RESPONSIBLE 1. Visit https://ptr.davao",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CTO-PDF0037-C001",
+          "DEV120-CTO-PDF0037-C002",
+          "DEV120-CTO-PDF0037-C003"
+        ],
+        "source_lexical_token_span": [
+          65,
+          131
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-CTO-P193-C01",
+        "source_page_id": "CTO-PDF0038",
+        "pdf_relative_page": 38,
+        "printed_page": 193,
+        "legacy_text": "193 eservices.com/e gps/portal/Merc hants.jsp. Ordinance No. 0291- 17, Series of 2017, Section 58 Professional Tax Officer I City Treasurer s Office TOTAL: PHP 300.00 18 Minutes",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CTO-PDF0038-C001"
+        ],
+        "source_lexical_token_span": [
+          0,
+          31
+        ]
+      }
+    ],
+    "all_references_mapped": true,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-CTO-006",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-CTO-P202-C01",
+        "source_page_id": "CTO-PDF0047",
+        "pdf_relative_page": 47,
+        "printed_page": 202,
+        "legacy_text": "202 18. Community Tax Collection of payment of Community Tax Certificate (Individual/ Corporation). Office or Division Office of the City Treasurer (CTO) Cash Receipts Division/ Districts and CTO District Offices Classification Simple Type of Transaction G2C Government to Citizen Who may avail All CHECKLIST OF REQUIREMENTS WHERE TO SECURE 1. W-2/ Form 2316 (Business/ Employed) valid ID 1 original Bureau of Internal Revenue (website: bir.gov.ph) 2. Accomplished Community Tax",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CTO-PDF0047-C001",
+          "DEV120-CTO-PDF0047-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          71
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-CTO-P203-C01",
+        "source_page_id": "CTO-PDF0048",
+        "pdf_relative_page": 48,
+        "printed_page": 203,
+        "legacy_text": "203 ANNEX 14 Individuals liable to Community Tax Every inhabitant of the Philippines who is a resident of this city, eighteen (18) years of age or over who has been regularly employed on a wage or salary basis for at least thirty (30) consecutive working days during any calendar year, or who is engaged in business or corporation, or who owns real property with an aggregate assessed value of One Thousand (P1,000.00) Pesos or more, or who is required by law to file an income tax return shall pay an",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CTO-PDF0048-C001",
+          "DEV120-CTO-PDF0048-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          91
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-CTO-P203-C02",
+        "source_page_id": "CTO-PDF0048",
+        "pdf_relative_page": 48,
+        "printed_page": 203,
+        "legacy_text": "Pesos or more, or who is required by law to file an income tax return shall pay an annual community tax of Five (P5.00) Pesos and an annual additional tax of One Peso (P1.00) for every One Thousand Pesos (P1,000.00) of income regardless of whether from business, exercise of profession or from property which in no case shall exceed Five Thousand Pesos (P5,000.00). In the case of husband and wife, the additional tax herein imposed shall be based upon the total property owned by them and the total gross receip",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CTO-PDF0048-C001",
+          "DEV120-CTO-PDF0048-C002",
+          "DEV120-CTO-PDF0048-C003"
+        ],
+        "source_lexical_token_span": [
+          73,
+          169
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-CTO-P203-C03",
+        "source_page_id": "CTO-PDF0048",
+        "pdf_relative_page": 48,
+        "printed_page": 203,
+        "legacy_text": "in imposed shall be based upon the total property owned by them and the total gross receipts or earnings derived by them. Juridical Persons Liable to Community Tax Every corporation no matter how created or organized, whether domestic or resident- foreign, engaged in or doing business in the Philippines whose principal office is located in this city shall pay an annual Community Tax of Five Hundred Pesos (P500.00) and an additional tax, which in no case, shall exceed Ten Thousand Pesos (P10,000.00) in accordance with the following",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CTO-PDF0048-C002",
+          "DEV120-CTO-PDF0048-C003",
+          "DEV120-CTO-PDF0048-C004"
+        ],
+        "source_lexical_token_span": [
+          152,
+          242
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-CTO-P203-C04",
+        "source_page_id": "CTO-PDF0048",
+        "pdf_relative_page": 48,
+        "printed_page": 203,
+        "legacy_text": ", shall exceed Ten Thousand Pesos (P10,000.00) in accordance with the following schedule: (a) For every Five Thousand Pesos (P5,000.00) worth of real property in the Philippines owned by it during the preceding year based on the valuation used in the payment of real property tax under existing laws, found in the assessment rolls of this city where the real property is situated - Two (P2.00) Pesos; and (b) For every Five Thousand Pesos (P5,000.00) of gross receipts or earn",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CTO-PDF0048-C003",
+          "DEV120-CTO-PDF0048-C004",
+          "DEV120-CTO-PDF0048-C005"
+        ],
+        "source_lexical_token_span": [
+          229,
+          314
+        ]
+      }
+    ],
+    "all_references_mapped": true,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-OCBO-001",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-OCBO-P490-C01",
+        "source_page_id": "OCBO-PDF0002",
+        "pdf_relative_page": 2,
+        "printed_page": 490,
+        "legacy_text": "490 1. Issuance of Building Permit A Building Permit shall be required before any building or structure is erected, constructed, altered, repaired, moved, converted, or demolished. Office Office of the City Building Official (OCBO) Classification Highly Technical Type of Transaction G2C Government to Citizen; G2B Government to Business; G2G Government to Government Who may avail All CHECKLIST OF REQUIREMENTS WHERE TO SECURE 1. Notarized Application Letter Owner/Applicant 2. Notar",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-OCBO-PDF0002-C001",
+          "DEV120-OCBO-PDF0002-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          69
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-OCBO-P490-C02",
+        "source_page_id": "OCBO-PDF0002",
+        "pdf_relative_page": 2,
+        "printed_page": 490,
+        "legacy_text": "WHERE TO SECURE 1. Notarized Application Letter Owner/Applicant 2. Notarized Unified Building Permit Form with Civil/Architectural Plans. Plans must be duly signed and sealed by the hired professional (licensed Civil Engineer/Architect) 5 copies of accomplished Form Owner/Applicant 3. Architectural Permit Form with Architectural Plans. Plans must be duly signed and sealed by the hired professional (licensed) 3 copies of accomplished Form 5 sets of plans",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-OCBO-PDF0002-C001",
+          "DEV120-OCBO-PDF0002-C002",
+          "DEV120-OCBO-PDF0002-C003"
+        ],
+        "source_lexical_token_span": [
+          58,
+          127
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-OCBO-P490-C03",
+        "source_page_id": "OCBO-PDF0002",
+        "pdf_relative_page": 2,
+        "printed_page": 490,
+        "legacy_text": "hired professional (licensed) 3 copies of accomplished Form 5 sets of plans Owner/Applicant 4. Civil/Structural Permit Form with Civil/Structural Plans. Plans must be duly signed and sealed by the hired professional (licensed Civil Engineer) 3 copies of accomplished Form 5 sets of plans Owner/Applicant 5. Sanitary/Plumbing Permit Form with sets of Sanitary/Plumbing Plans. Plans must be duly signed and sealed by hi",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-OCBO-PDF0002-C002",
+          "DEV120-OCBO-PDF0002-C003",
+          "DEV120-OCBO-PDF0002-C004"
+        ],
+        "source_lexical_token_span": [
+          115,
+          183
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-OCBO-P491-C02",
+        "source_page_id": "OCBO-PDF0003",
+        "pdf_relative_page": 3,
+        "printed_page": 491,
+        "legacy_text": "s of plans Owner/Applicant 8. Mechanical Permit Form with 6-7 sets Mechanical Plans. Plans must be duly signed and sealed by hired professional (Licensed Electronics Engineer) 2 copies of accomplished Form 5 sets of plans Owner/Applicant 9. Zoning Location Clearance 1 original, 1 photocopy City Planning & Development Office (CPDO) 10. BFP Fire Safety Evaluation Certificate 1 original, 1 photocopy Bureau of Fire Protection (BFP) 11. Certified True Copy of Land Title 1 original, 1",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-OCBO-PDF0003-C001",
+          "DEV120-OCBO-PDF0003-C002",
+          "DEV120-OCBO-PDF0003-C003"
+        ],
+        "source_lexical_token_span": [
+          59,
+          136
+        ]
+      }
+    ],
+    "all_references_mapped": true,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-OCBO-002",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-OCBO-P492-C02",
+        "source_page_id": "OCBO-PDF0004",
+        "pdf_relative_page": 4,
+        "printed_page": 492,
+        "legacy_text": "ly signed and sealed by hired professional (licensed Architect) 4 copies Owner/Applicant 19. Seismic Analysis Hired Professionals (All Engineers & Architect) 20. Photographs of Location with Landmarks or Image of the location taken from Google Maps (Clear and Detailed) Owner/Applicant Conditional Requirements a. Construction/minor repair of buildings 3- storeys and above - Construction Safety & Health Program (CSHP) 1 original, 1 photocopy Department of Labor and Employment (DOLE) b",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-OCBO-PDF0004-C001",
+          "DEV120-OCBO-PDF0004-C002",
+          "DEV120-OCBO-PDF0004-C003"
+        ],
+        "source_lexical_token_span": [
+          56,
+          125
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-OCBO-P492-C03",
+        "source_page_id": "OCBO-PDF0004",
+        "pdf_relative_page": 4,
+        "printed_page": 492,
+        "legacy_text": ") 1 original, 1 photocopy Department of Labor and Employment (DOLE) b. Boring and Plate Load Test Result/Report (if the structure is at least three storeys) 2 copies TRANSFERRED TO CONDITIONAL Note: If applying for an additional storey; submit an Affidavit manifesting that the foundation can carry the proposed additional floors. 2 original Hired professional (licensed Civil/Geotechnical Engineer) c. Structures located along a National Highway DPWH Clearance 1 original,",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-OCBO-PDF0004-C002",
+          "DEV120-OCBO-PDF0004-C003",
+          "DEV120-OCBO-PDF0004-C004"
+        ],
+        "source_lexical_token_span": [
+          114,
+          184
+        ]
+      }
+    ],
+    "all_references_mapped": true,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-OCBO-003",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-OCBO-P501-C01",
+        "source_page_id": "OCBO-PDF0013",
+        "pdf_relative_page": 13,
+        "printed_page": 501,
+        "legacy_text": "501 2. Issuance of Occupancy Permit An Occupancy Permit shall be required before any building or structure or portion thereof is used or occupied, or the existing use or occupancy classification thereof is changed. Office Office of the City Building Official (OCBO) Classification Highly Technical Type of Transaction G2C Government to Citizen; G2B Government to Business; G2G Government to Government Who may avail All CHECKLIST OF REQUIREMENTS WHERE TO SECURE 1. Application Letter 1 original Owner",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-OCBO-PDF0013-C001",
+          "DEV120-OCBO-PDF0013-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          75
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-OCBO-P501-C02",
+        "source_page_id": "OCBO-PDF0013",
+        "pdf_relative_page": 13,
+        "printed_page": 501,
+        "legacy_text": "CKLIST OF REQUIREMENTS WHERE TO SECURE 1. Application Letter 1 original Owner/Applicant 2. Authorization letter (if the applicant is not the owner) 1 original City Planning and Development Office (CPDO) 3. Owner s valid ID with 3 specimen signatures 1 photocopy Owner/Applicant 4. Certificate of Occupancy 1 original Office of the City Building Official (OCBO) 5. Certificate of Completion 1 original Office of the City Building Official (OCBO) 6. Fire Safety Inspection Certificate 1 original Bureau of",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-OCBO-PDF0013-C001",
+          "DEV120-OCBO-PDF0013-C002",
+          "DEV120-OCBO-PDF0013-C003"
+        ],
+        "source_lexical_token_span": [
+          63,
+          142
+        ]
+      }
+    ],
+    "all_references_mapped": true,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-OCBO-004",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-OCBO-P524-C01",
+        "source_page_id": "OCBO-PDF0036",
+        "pdf_relative_page": 36,
+        "printed_page": 524,
+        "legacy_text": "524 6. Issuance of Excavation Permit An Excavation Permit shall be required prior to the commencement of excavation of the proposed project and construction. Office Office of the City Building Official (OCBO) Classification Highly Technical Type of Transaction G2C Government to Citizen; G2B Government to Business; G2G Government to Government Who may avail All CHECKLIST OF REQUIREMENTS WHERE TO SECURE 1. Excavation Permit form with 3 sets of Civil/Architectural Plans of",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-OCBO-PDF0036-C001",
+          "DEV120-OCBO-PDF0036-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          71
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-OCBO-P530-C01",
+        "source_page_id": "OCBO-PDF0042",
+        "pdf_relative_page": 42,
+        "printed_page": 530,
+        "legacy_text": "530 EXCAVATION PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE REVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL BUILDING CODE OF THE PHILIPPINES (PD 1096) While the application for Building Permit is still being processed, the Building Official may issue Ground Preparation and Excavation Permit (GP&EP) for foundation, subject to the verification, inspection and review by the Line and Grade Section of the Inspection and Enforcement",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-OCBO-PDF0042-C001",
+          "DEV120-OCBO-PDF0042-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          69
+        ]
+      }
+    ],
+    "all_references_mapped": true,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-OCBO-005",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-OCBO-P517-C01",
+        "source_page_id": "OCBO-PDF0029",
+        "pdf_relative_page": 29,
+        "printed_page": 517,
+        "legacy_text": "517 5. Issuance of Fencing Permit A Fencing Permit shall be required prior to the construction of a fence not exceeding 1.80 meters high. Office Office of the City Building Official (OCBO) Classification Highly Technical Type of Transaction G2C Government to Citizen; G2B Government to Business; G2G Government to Government Who may avail All CHECKLIST OF REQUIREMENTS WHERE TO SECURE 1. Fence Permit form with 3 sets of Civil/Architectural Plans of the fence",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-OCBO-PDF0029-C001",
+          "DEV120-OCBO-PDF0029-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          74
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-OCBO-P517-C02",
+        "source_page_id": "OCBO-PDF0029",
+        "pdf_relative_page": 29,
+        "printed_page": 517,
+        "legacy_text": "Permit form with 3 sets of Civil/Architectural Plans of the fence duly signed and sealed by a licensed Civil Engineer/Architect Note: Applicant may use an A3 size of paper for the structural design plan signed and sealed by a licensed Civil/Structural Engineer Hired Professionals (All Engineers & Architects) 2. Certified True Copy of Land Title 1 original, 1 photocopy Registry of Deeds/ City Assessor s Office (CASSO) 3. Certified True Copy of Tax",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-OCBO-PDF0029-C001",
+          "DEV120-OCBO-PDF0029-C002",
+          "DEV120-OCBO-PDF0029-C003"
+        ],
+        "source_lexical_token_span": [
+          62,
+          137
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-OCBO-P523-C01",
+        "source_page_id": "OCBO-PDF0035",
+        "pdf_relative_page": 35,
+        "printed_page": 523,
+        "legacy_text": "523 FENCING PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE REVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL BUILDING CODE OF THE PHILIPPINES (PD 1096) Made of masonry, metal, concrete up to1.80 meters in height Php 3.00 per linear meter of fraction thereof In excess of 1.80 meters in height Php 4.00 per linear meter of fraction thereof Made of indigenous materials, barbed,",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-OCBO-PDF0035-C001",
+          "DEV120-OCBO-PDF0035-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          69
+        ]
+      }
+    ],
+    "all_references_mapped": true,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-OCBO-006",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-OCBO-P591-C01",
+        "source_page_id": "OCBO-PDF0103",
+        "pdf_relative_page": 103,
+        "printed_page": 591,
+        "legacy_text": "591 16. Issuance of Certified True Copy of Documents Certified True Copy of documents may be issued upon request. Office Office of the City Building Official (OCBO) Classification Simple Type of Transaction G2C Government to Citizen; G2B Government to Business; G2G Government to Government Who may avail All CHECKLIST OF REQUIREMENT WHERE TO SECURE 1. Request Letter Applicant 2. Photocopy of Building Permit and other related documents Applicant 3. Photocopy of Valid ID of the Owner with three (3) Signature",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-OCBO-PDF0103-C001",
+          "DEV120-OCBO-PDF0103-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          79
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-OCBO-P592-C01",
+        "source_page_id": "OCBO-PDF0104",
+        "pdf_relative_page": 104,
+        "printed_page": 592,
+        "legacy_text": "592 1.3 Forward to Record Division 1.4 Locate office copy of requested documents 10 Minutes 2 Days 2. Claim OP and approved documents for payment at the City Treasurer s Office 2. Issuance of Order Payment None 10 Minutes Information Systems Designer OCBO 3. Resubmit documents with Order of Payment and Official Receipt 3. Verify Official Receipt and Order of Payment None 5 Minutes Administrative Service Officer OCBO 4. Claim Certified True Copy 4.1 Stamping and Signing of Certified True Copy 4.2 For Releasing None 5",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-OCBO-PDF0104-C001",
+          "DEV120-OCBO-PDF0104-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          89
+        ]
+      }
+    ],
+    "all_references_mapped": true,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-CPDO-001",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-CPDO-P631-C01",
+        "source_page_id": "CPDO-PDF0002",
+        "pdf_relative_page": 2,
+        "printed_page": 631,
+        "legacy_text": "631 1. Zoning Certification A certification issued by the Office of the City Planning & Development Coordinator based on the Integrated Zoning Ordinance (2019-2028). Office or Division City Planning and Development Office (CPDO) Zoning Enforcement Division Classification Complex Type of Transaction G2G Government to Government; G2C Government to Citizen Who may avail Property Owner or Authorized Representative CHECKLIST OF REQUIREMENTS WHERE TO SECURE . Certified True Copy of Title(s) (1 photocopy) Registry",
+        "status": "MANUAL_SPAN_REVIEW_REQUIRED",
+        "exact_span_matches": 0
+      },
+      {
+        "legacy_chunk_id": "CHUNK-CPDO-P631-C02",
+        "source_page_id": "CPDO-PDF0002",
+        "pdf_relative_page": 2,
+        "printed_page": 631,
+        "legacy_text": "TO SECURE . Certified True Copy of Title(s) (1 photocopy) Registry of Deeds . Duly accomplished application form (1 original) City Planning & Development Office . Subdivision /Sketch Plan (1 original) Bureau of Land / private Geodetic Engineer . Order of Payment (1 original) City Planning & Development Office . Official Receipt (1 original) City Treasurer's Office CLIENT STEPS AGENCY ACTION FEES TO BE PAID PROCESSING TIME PERSON RESPONSIBLE 1. Get",
+        "status": "MANUAL_SPAN_REVIEW_REQUIRED",
+        "exact_span_matches": 0
+      },
+      {
+        "legacy_chunk_id": "CHUNK-CPDO-P633-C01",
+        "source_page_id": "CPDO-PDF0004",
+        "pdf_relative_page": 4,
+        "printed_page": 633,
+        "legacy_text": "633 4.7 Endorses the Zoning Certification to CPDO Administrative Division for releasing None 10 Minutes Zoning Officer IV CPDO 5. Claims the Zoning Certification 5. Releases documents None 5 Minutes Acting Administrative Officer CPDO TOTAL: PHP 750/ Hectare 3 Days, 6 Hours, and 50 Minutes",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CPDO-PDF0004-C001"
+        ],
+        "source_lexical_token_span": [
+          0,
+          45
+        ]
+      }
+    ],
+    "all_references_mapped": false,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-CPDO-002",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-CPDO-P634-C01",
+        "source_page_id": "CPDO-PDF0005",
+        "pdf_relative_page": 5,
+        "printed_page": 634,
+        "legacy_text": "634 2. Validation of Occupancy Permit based on the Integrated Zoning Ordinance (2019-2028) (3-Storey Buildings and Above and 1,500 Building Floor Area and Above) For 3-storey buildings and above and for building floor area of 1,500 square meters and above only. The validation of the Locational Clearance issued by the Office of the City Planning & Development Coordinator. Office or Division City Planning and Development Office (CPDO) Zoning Enforcement Division Classification Complex Type of",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CPDO-PDF0005-C001",
+          "DEV120-CPDO-PDF0005-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          77
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-CPDO-P634-C02",
+        "source_page_id": "CPDO-PDF0005",
+        "pdf_relative_page": 5,
+        "printed_page": 634,
+        "legacy_text": "Planning and Development Office (CPDO) Zoning Enforcement Division Classification Complex Type of Transaction G2G Government to Government; G2C Government to Citizen Who may avail Property Owner or Authorized Representative CHECKLIST OF REQUIREMENTS WHERE TO SECURE 1. Approved Building Plans (1 original) Applicant 2. Approved Building Permit (1 original) Office of the Building Official 3. Certificate of Occupancy Form (1 original) Office of the Building Official 4. Locational Clearance, if applicable (1 photocopy) City Plan",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CPDO-PDF0005-C001",
+          "DEV120-CPDO-PDF0005-C002",
+          "DEV120-CPDO-PDF0005-C003"
+        ],
+        "source_lexical_token_span": [
+          65,
+          139
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-CPDO-P636-C01",
+        "source_page_id": "CPDO-PDF0007",
+        "pdf_relative_page": 7,
+        "printed_page": 636,
+        "legacy_text": "636 3.5 If application is compliant with submitted technical plans, makes a positive recommendation in the action slip None 15 Minutes Zoning Officer IV CPDO 3.6 Stamps the Certificate of Completion Form None 10 Minutes Zoning Officer IV CPDO 3.7 Initial Approval None 1 Day Zoning Officer IV CPDO 3.8 Final Approval None 2 Days depending upon the availability of the Zoning Administrator Acting Zoning Administrator CPDO 3.9 Forwards documents to CPDO Admin for releasing None",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CPDO-PDF0007-C001",
+          "DEV120-CPDO-PDF0007-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          80
+        ]
+      }
+    ],
+    "all_references_mapped": true,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-CPDO-003",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-CPDO-P648-C01",
+        "source_page_id": "CPDO-PDF0019",
+        "pdf_relative_page": 19,
+        "printed_page": 648,
+        "legacy_text": "648 5. Issuance of Locational Clearance (LC) for Building Permit based on the Integrated Zoning Ordinance (2019-2028) (for 2-storey and below) A written authority / permit granted by the City Planning and Development Office (previously by the Board) pursuant to applicable laws on land use planning and zoning for the establishment or operation of projects of national / local significance. Office or Division City Planning and Development Office (CPDO) Zoning Enforcement Division Classification Complex Type of Transaction G2G Government",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CPDO-PDF0019-C001",
+          "DEV120-CPDO-PDF0019-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          78
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-CPDO-P651-C01",
+        "source_page_id": "CPDO-PDF0022",
+        "pdf_relative_page": 22,
+        "printed_page": 651,
+        "legacy_text": "651 Compliance or Notice of Violation (client will receive NOC or NOV) -Denial (client will receive Denial Letter). 2. Secures order of payment for Zoning Fee 2. Issues order of payment Zoning Fee: Ag'l. & Res'l. = 1/10 of 1% building cost Comm'l., Ind'l. & Ins'l. = 1/10 of 1% building cost Filing Fee:Ag'l. & Res'l. = PHP150.0 0 per applicatio n Comm'l.",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CPDO-PDF0022-C001",
+          "DEV120-CPDO-PDF0022-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          68
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-CPDO-P654-C01",
+        "source_page_id": "CPDO-PDF0025",
+        "pdf_relative_page": 25,
+        "printed_page": 654,
+        "legacy_text": "654 TOTAL: Zoning Fee: Ag'l. & Res'l. = 1/10 of 1% building cost Comm'l., Ind'l. & Ins'l. = 1/10 of 1% building cost Filing Fee:Ag'l. & Res'l. = PHP150.0 0 per applicatio n Comm'l. & Ind'l. = PHP300.00 per applicatio n 4 Days, 2 Hours, and 25 Minutes",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CPDO-PDF0025-C001"
+        ],
+        "source_lexical_token_span": [
+          0,
+          53
+        ]
+      }
+    ],
+    "all_references_mapped": true,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-CPDO-004",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-CPDO-P655-C01",
+        "source_page_id": "CPDO-PDF0026",
+        "pdf_relative_page": 26,
+        "printed_page": 655,
+        "legacy_text": "655 6. Motion for Reconsideration An appeal on the denial of Locational Clearance by the Zoning Administrator. Office or Division City Planning and Development Office (CPDO) Zoning Enforcement Division Classification Highly Technical Type of Transaction G2G Government to Government; G2B Government to Business; G2C Government to Citizen Who may avail Property Owner or Authorized Representative CHECKLIST OF REQUIREMENTS WHERE TO SECURE 1. Letter of Reconsideration Applicant 2. Denial Letter City Planning and Development Office 3.",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CPDO-PDF0026-C001",
+          "DEV120-CPDO-PDF0026-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          74
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-CPDO-P656-C01",
+        "source_page_id": "CPDO-PDF0027",
+        "pdf_relative_page": 27,
+        "printed_page": 656,
+        "legacy_text": "656 1.2 Pre-evaluates submitted documents (once documents are lacking, advised client to comply) 30 Minutes Zoning Officer IV CPDO 1.3 Upon initial assessment of documents, if complete, Issues Order of Payment for Processing Fee Processin g Fee: PHP 600.00 10 Minutes 2. Submits Original and Photocopied O.R. with Complete One (1) Set of Documents 2.1 Rechecks and receives of documents then forward to Admin Division None 30 Minutes Zoning Officer IV CPDO 2.2 Receiving Personnel route",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CPDO-PDF0027-C001",
+          "DEV120-CPDO-PDF0027-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          82
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-CPDO-P661-C01",
+        "source_page_id": "CPDO-PDF0032",
+        "pdf_relative_page": 32,
+        "printed_page": 661,
+        "legacy_text": "661 5. Claims endorsement letter with attached resolution from the LZBAA Secretariat Note: Client/s is furnished with the endorsement to OBO/BB, signed resolution and their documentary requirements submitted in the Office. 5. Endorses application to Office of the Building Official (for building permit) or Business Bureau (for business permit) Note: - If not approved/deferre d due to further evaluation and validation, drafts and finalizes Notice of Compliance (NOC) / Notice of Deficiency (",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CPDO-PDF0032-C001",
+          "DEV120-CPDO-PDF0032-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          72
+        ]
+      }
+    ],
+    "all_references_mapped": true,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-CPDO-005",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-CPDO-P699-C01",
+        "source_page_id": "CPDO-PDF0070",
+        "pdf_relative_page": 70,
+        "printed_page": 699,
+        "legacy_text": "699 12. Enforcement of the Integrated Zoning Ordinance (ZO) 2019 2028 in the Issuance of the Locational Clearance (LC) for Business Online Application A written authority / permit granted by the City Planning and Development Office (previously by the Board) pursuant to applicable laws on land use planning and zoning for the establishment or operation of projects of national / local significance. Office or Division City Planning and Development Office (CPDO) Zoning Enforcement Division Classification Simple Type of Transaction G2B Government to",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CPDO-PDF0070-C001",
+          "DEV120-CPDO-PDF0070-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          79
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-CPDO-P699-C02",
+        "source_page_id": "CPDO-PDF0070",
+        "pdf_relative_page": 70,
+        "printed_page": 699,
+        "legacy_text": "DO) Zoning Enforcement Division Classification Simple Type of Transaction G2B Government to Business Who may avail Business Proponent or Authorized Representative CHECKLIST OF REQUIREMENTS WHERE TO SECURE 1. Uploaded Application Form Business Bureau/Online Website 2. Affidavit of Undertaking for neighbor s consent with Sketch Map (showing the neighbor s location (1 photocopy) Applicant 3. Homeowners Association Certificate of No Objection Applicant 4. Certificate of Actual Land Occupancy for Migrant (based on",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CPDO-PDF0070-C001",
+          "DEV120-CPDO-PDF0070-C002",
+          "DEV120-CPDO-PDF0070-C003"
+        ],
+        "source_lexical_token_span": [
+          67,
+          139
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-CPDO-P701-C01",
+        "source_page_id": "CPDO-PDF0072",
+        "pdf_relative_page": 72,
+        "printed_page": 701,
+        "legacy_text": "701 2.7 Updates document tracking system for release None 5 Minutes Acting Administrative Officer CPDO 3. Claims Denial Letter 3. Releases Denial Letter to clients Note: Denied applications are advised to appeal through the Local Zoning Board of Adjustments and Appeals - Denial Letters are either delivered by this office or may be claimed at the office. None 5 Minutes Acting Administrative Officer CPDO TOTAL: None 1 Day and 50 Minutes",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CPDO-PDF0072-C001"
+        ],
+        "source_lexical_token_span": [
+          0,
+          70
+        ]
+      }
+    ],
+    "all_references_mapped": true,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-CPDO-006",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-CPDO-P702-C01",
+        "source_page_id": "CPDO-PDF0073",
+        "pdf_relative_page": 73,
+        "printed_page": 702,
+        "legacy_text": "702 13. Certificate of Compatibility A certification issued to applications which uses or land activities are capable of existing together harmoniously. Office or Division City Planning and Development Office (CPDO) Zoning Enforcement Division Classification Simple Type of Transaction G2B Government to Business Who may avail Business Proponent or Authorized Representative CHECKLIST OF REQUIREMENTS WHERE TO SECURE 1. Application Letter Applicant 2. Zoning Certificate CPDO 3. Official Receipt CTO CLIENT STEPS AGENCY ACTION FEES",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CPDO-PDF0073-C001",
+          "DEV120-CPDO-PDF0073-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          72
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-CPDO-P702-C02",
+        "source_page_id": "CPDO-PDF0073",
+        "pdf_relative_page": 73,
+        "printed_page": 702,
+        "legacy_text": "DO 3. Official Receipt CTO CLIENT STEPS AGENCY ACTION FEES TO BE PAID PROCESSIN G TIME PERSON RESPONSIBL E 1. Submits Documentary Requirements 1. Pre-evaluates Submitted Documents based on the checklist None 10 Minutes Acting Administrative Officer CPDO 2. Secures order of payment for filing fee 2. Issues order of payment Filing Fee: Php 300.0 0 10 Minutes Zoning Officer IV CPDO 3. Submits documents per checklist of requirements with Original Receip",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CPDO-PDF0073-C001",
+          "DEV120-CPDO-PDF0073-C002",
+          "DEV120-CPDO-PDF0073-C003"
+        ],
+        "source_lexical_token_span": [
+          62,
+          136
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-CPDO-P703-C01",
+        "source_page_id": "CPDO-PDF0074",
+        "pdf_relative_page": 74,
+        "printed_page": 703,
+        "legacy_text": "703 3.4 ZED Division Chief annotates communication and routes to designated personnel None 5 Minutes Zoning Officer IV CPDO 3.5 Personnel-in- Charge drafts the certification None 10 Minutes Zoning Officer IV CPDO 3.6 Initial and Final Signature None 15 Minutes depending upon the availability of the Acting Zoning Administrator Acting Zoning Administrator 3.7 Communication - in-Charge updates document tracking system and routes to admin division for release None 5 Minutes Zoning Officer IV CPDO 3.8 Admin division",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-CPDO-PDF0074-C001",
+          "DEV120-CPDO-PDF0074-C002"
+        ],
+        "source_lexical_token_span": [
+          0,
+          82
+        ]
+      }
+    ],
+    "all_references_mapped": true,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-BFP-001",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-BFP-P001-C19",
+        "source_page_id": "BFP-PDF0001",
+        "pdf_relative_page": 1,
+        "printed_page": null,
+        "legacy_text": "ancy/FSIC for Business Permit (new/renewal) is thru OSCP/ BOSS Releasing Officer maximum of five (5) minutes CRO CHECKLIST OF REQUIREMENTS/ DOCUMENTS BFP FRONT LINE SERVICES FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION CERTIFICATE OF OCCUPANCY NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OC",
+        "status": "MANUAL_SPAN_REVIEW_REQUIRED",
+        "exact_span_matches": 0
+      }
+    ],
+    "all_references_mapped": false,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-BFP-002",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-BFP-P001-C10",
+        "source_page_id": "BFP-PDF0001",
+        "pdf_relative_page": 1,
+        "printed_page": null,
+        "legacy_text": "FSEC Application Fee: Php 200.00 FCCT = 0.1% of the verified estimated value (materials and labor) of the building/structure or facility but not more than Php 50,000.00 Sample computation: FCCT = (Verified estimated value) x (.1%) = ___Php but not more than Php 50, 000.00 Note: Section 8.3.6 of JMC 2021-01 Series of 2021 In the event that there is substantial difference between the cost estimate of the building or structure as declared by the owner or applicant in the",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-BFP-PDF0001-C017",
+          "DEV120-BFP-PDF0001-C018",
+          "DEV120-BFP-PDF0001-C019"
+        ],
+        "source_lexical_token_span": [
+          982,
+          1068
+        ]
+      }
+    ],
+    "all_references_mapped": true,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-BFP-003",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-BFP-P001-C11",
+        "source_page_id": "BFP-PDF0001",
+        "pdf_relative_page": 1,
+        "printed_page": null,
+        "legacy_text": "the cost estimate of the building or structure as declared by the owner or applicant in the UAF from current acceptable market construction cost per square meter or as indicated in Table II.G.1 of PD 1096, the higher the value will be adopted For FSIC (Certificate of Occupancy)/FSIC (New Business and Renewal of Business) Applica- tion FSIF = 15% of all fees charge by LGU/Philippine Economic Zone Authority (PEZA) but in no case shall be lower than Php 500.00 Sa",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-BFP-PDF0001-C018",
+          "DEV120-BFP-PDF0001-C019",
+          "DEV120-BFP-PDF0001-C020"
+        ],
+        "source_lexical_token_span": [
+          1051,
+          1135
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-BFP-P001-C12",
+        "source_page_id": "BFP-PDF0001",
+        "pdf_relative_page": 1,
+        "printed_page": null,
+        "legacy_text": "Economic Zone Authority (PEZA) but in no case shall be lower than Php 500.00 Sample computation: FSIF = (All fees charged by the LGU/PEZA) x (15%) = ______ Php but in no case shall be lower than Php 500.00 Note: If assessment from LGUs/PEZA = 0, then FSIF = 0 Other fees If applicable compute the appropriate fees in accordance with Section 12.0.0.4 of the RIRR of RA 9514 (e.g. storage, conveyance, hotworks, etc",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-BFP-PDF0001-C019",
+          "DEV120-BFP-PDF0001-C020",
+          "DEV120-BFP-PDF0001-C021"
+        ],
+        "source_lexical_token_span": [
+          1119,
+          1196
+        ]
+      }
+    ],
+    "all_references_mapped": true,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-BFP-004",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-BFP-P001-C02",
+        "source_page_id": "BFP-PDF0001",
+        "pdf_relative_page": 1,
+        "printed_page": null,
+        "legacy_text": "/OSCP/BOSS CLASSIFICATIONS 1. SIMPLE TRANSACTION - TRANSACTION PROCESSED WITHIN ONE (1) DAY 2. COMPLEX TRANSACTION - TRANSACTION PROCESSED WITHIN THREE (3) DAYS 3. HIGHLY TECHNICAL TRANSACTION - TRANSACTION PROCESSED WITHIN SEVEN (7) DAYS NOTE: For the coverage of Simple, Complex and Highly Technical Transactions refer to Joint Memorandum Circular (JMC) No. 2021-01 Series of 2021 Amending the DILG-DPWH",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-BFP-PDF0001-C001",
+          "DEV120-BFP-PDF0001-C002",
+          "DEV120-BFP-PDF0001-C003"
+        ],
+        "source_lexical_token_span": [
+          42,
+          100
+        ]
+      },
+      {
+        "legacy_chunk_id": "CHUNK-BFP-P001-C16",
+        "source_page_id": "BFP-PDF0001",
+        "pdf_relative_page": 1,
+        "printed_page": null,
+        "legacy_text": "(10) minutes Fire Code Collecting Agent (FCCA) 4.Check copy of OR, record in the official logbook/log sheet the details of the payment (e.g. OR number amount paid, etc.) and release the claim stub. maximum of five (5) minutes CRO 5. Evaluation/Inspection For OSCP : Evaluation of plans and specification with OBO (Backroom Operation) For BOSS : Joint Inspection NOTE (4) Total Processing Time: Simple Transaction - One (1) day Complex Transaction - Three (3) days Highly Technical Transaction",
+        "status": "MANUAL_SPAN_REVIEW_REQUIRED",
+        "exact_span_matches": 0
+      }
+    ],
+    "all_references_mapped": false,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-BFP-005",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-BFP-P001-C24",
+        "source_page_id": "BFP-PDF0001",
+        "pdf_relative_page": 1,
+        "printed_page": null,
+        "legacy_text": "OBO Certified True Copy of Valid Certificate of Occupancy Assessment of Business Permit Fee/ Tax Assessment Bill from Business Processing and Licensing Office (BPLO) O T H E R D O C U M E N T S Fire Safety Compliance Report (FSCR) NOTE (1) Fire Safety Compliance and Commissioning Report (FSCCR) NOTE (2) Fire Safety Maintenance Report (FSMR) NOTE (3) Note: FSCR/FSCCR/FSMR is required if the building/facilities/structures are required to install any or combination of",
+        "status": "MANUAL_SPAN_REVIEW_REQUIRED",
+        "exact_span_matches": 0
+      }
+    ],
+    "all_references_mapped": false,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  },
+  {
+    "group_id": "SCENARIO-BFP-006",
+    "references": [
+      {
+        "legacy_chunk_id": "CHUNK-BFP-P001-C27",
+        "source_page_id": "BFP-PDF0001",
+        "pdf_relative_page": 1,
+        "printed_page": null,
+        "legacy_text": ": 165 65 (P5 +VAT per call anywhere in the Philippines via PLDT Landline) PUBLIC WARNING The BFP Does not ACCREDIT nor Recommend any Brand, Store or Distributor of Fire Extinguisher and Fire Fighting Equipment As per BFP Memorandum Circular No. 2016-016 Prohibition of BFP Personnel from Engaging in any act of impropriety and/or corruption pertaining to the enforce- ment and implementation of the Fire Code and providing sanction thereof. How to file a complaint To",
+        "status": "EXACT_LEXICAL_SOURCE_SPAN_MAPPED",
+        "new_chunk_ids": [
+          "DEV120-BFP-PDF0001-C046",
+          "DEV120-BFP-PDF0001-C047"
+        ],
+        "source_lexical_token_span": [
+          2518,
+          2595
+        ]
+      }
+    ],
+    "all_references_mapped": true,
+    "reference_answer_semantic_validation": "not established by lexical mapping"
+  }
+]

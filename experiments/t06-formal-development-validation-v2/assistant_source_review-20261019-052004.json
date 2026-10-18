@@ -1,0 +1,65 @@
+{
+  "reviewer": "assistant; user authorized source review; pending user read-through",
+  "reviewed_at_utc": "2026-10-18T21:20:04.242577+00:00",
+  "scope": "Only review_status and reviewer_notes for CPDO-001, BFP-001, BFP-004, BFP-005. BB-006 unchanged. No answer, relevance ID, benchmark, retrieval or app changes.",
+  "backup": "focused_source_review.before-assistant-review-20261019-052004.json",
+  "exact_diff": "focused_source_review.assistant-review-20261019-052004.diff",
+  "before_sha256": "46bd7680402c32fc22f4ac88f231f4650e02d3a31acc08772ed08b0a0c56a8d8",
+  "after_sha256": "cacf2a6cdf955ce424af8e9c374a1322a7ced3e6f36404d108b09aaacf413121",
+  "source_pdfs": [
+    {
+      "path": "data\\raw_charters\\City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+      "sha256": "6d1572dc7ef1122064b3db8d799f27356231dd2cbeafb84231c6f315820b1005"
+    },
+    {
+      "path": "data\\raw_charters\\BFP-CITIZENS-CHARTER-2022.pdf",
+      "sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74"
+    }
+  ],
+  "changes": [
+    {
+      "group_id": "SCENARIO-CPDO-001",
+      "before": {
+        "review_status": "supported",
+        "reviewer_notes": "The reference answer is supported by the source passages."
+      },
+      "after": {
+        "review_status": "needs_correction",
+        "reviewer_notes": "Assistant source review against rendered City Planning PDF pages 2 and 4 (printed 631 and 633). Needs correction: the checklist has five requirements; the reference omits Order of Payment (1 original), secured from CPDO. Official Receipt is also specified as 1 original. The Subdivision/Sketch Plan (1 original) may be secured from Bureau of Land / private Geodetic Engineer; retain both listed sources if describing where to secure it. PHP 750 per hectare and the TOTAL of 3 Days, 6 Hours, and 50 Minutes are supported. Preserve the payment-step condition: CTO processing time is uncontrollable time; the listed total is not an unconditional end-to-end guarantee. These are reference-answer findings, not evidence of a retrieval or corpus failure."
+      }
+    },
+    {
+      "group_id": "SCENARIO-BFP-001",
+      "before": {
+        "review_status": "supported",
+        "reviewer_notes": "The reference answer is supported by the source passages. Always distinguish FSEC and FSIC from OCBO building permit and business permit, which are separate processes."
+      },
+      "after": {
+        "review_status": "needs_correction",
+        "reviewer_notes": "Assistant source review against rendered BFP PDF page 1, documentary matrix and shared FSEC fee cell. The eight document disciplines, three sets, valid PRC license copies, PHP 200 application fee, FCCT 0.1% of verified estimated materials/labor value, and PHP 50,000 cap are supported. Needs correction for completeness: documents mean design plans, calculations AND specifications signed and sealed by the Professional Engineer/Architect; the estimate is one signed-and-sealed set for the building/structure or facilities (materials and labor cost). The fee-cell note says the higher value is adopted when the declared estimate differs substantially from the specified market/PD 1096 comparison; do not imply any applicant-declared value is automatically accepted. The opening claim that FSEC must precede an OCBO building permit and certifies RA 9514 design compliance is not explicitly established by this charter page; remove it from a source-only reference or validate it against a separately documented source. The legacy cited chunk contains procedure text/matrix headings and does not establish this answer alone. Do not treat candidate chunks as approved relevance labels yet."
+      }
+    },
+    {
+      "group_id": "SCENARIO-BFP-004",
+      "before": {
+        "review_status": "pending",
+        "reviewer_notes": ""
+      },
+      "after": {
+        "review_status": "needs_correction",
+        "reviewer_notes": "Assistant source review against rendered BFP PDF page 1, OTHER DOCUMENTS matrix and Notes (1)-(3). The condition is supported: reports apply if the building/facilities/structures are required to install any or a combination of wet standpipe, automatic fire suppression, or automatic fire detection and alarm systems. Needs correction: FSCR is prepared and duly signed by the Engineer/Architect-of-Record AND his/her Fire Safety Practitioner. FSCCR forms part of as-built documents turned over by the contractor to the owner and is duly signed by the Contractor/Construction Manager AND his/her Fire Safety Practitioner; the note does not independently identify a sole preparer. FSMR is prepared by the building owner, his/her fire safety practitioner OR authorized representative, and duly signed by the Building Administrator AND his/her Fire Safety Practitioner during regular annual fire safety inspection. The reference incorrectly substitutes the administrator as preparer. Preserve matrix service associations: FSCR -> FSEC; FSCCR -> occupancy FSIC; FSMR -> new business without valid occupancy-stage FSIC and the two renewal columns. Do not imply every applicant submits all three reports together."
+      }
+    },
+    {
+      "group_id": "SCENARIO-BFP-005",
+      "before": {
+        "review_status": "pending",
+        "reviewer_notes": ""
+      },
+      "after": {
+        "review_status": "needs_correction",
+        "reviewer_notes": "Assistant source review against rendered BFP PDF page 1, hot-work rows beneath the report-system condition. Needs correction: preserve the heading condition '(if required)'. Per Project Duration is for new construction or renovation, applied during construction after the conduct of fire safety inspection; that part of the reference is supported. Annual applies to business establishments requiring 'almost daily repair or maintenance due to its nature of business or operations'. The reference changes 'almost daily' to 'daily' and adds 'fabrication', which is not stated in this row; use the source wording. Matrix dots associate the per-project row with FSEC and the annual row with the two renewal columns; blank cells are not exemption statements. The old cited chunk concerns occupancy/report material and does not itself support the hot-work answer. Relevance labels still need a separate validated derivation."
+      }
+    }
+  ]
+}

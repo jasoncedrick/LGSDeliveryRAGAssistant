@@ -1,0 +1,28 @@
+{
+  "status": "BATCH_FINISHED_DEVELOPMENT_ONLY",
+  "processed": 90,
+  "statuses": {
+    "ANSWERED": 84,
+    "CLARIFICATION_REQUIRED": 6
+  },
+  "provisional_ranking_metrics": [
+    {
+      "k": 3,
+      "queries_with_ranking_scores": 69,
+      "hit_at_k": 0.782608695652174,
+      "mrr_at_k": 0.6135265700483092
+    },
+    {
+      "k": 5,
+      "queries_with_ranking_scores": 69,
+      "hit_at_k": 0.8115942028985508,
+      "mrr_at_k": 0.620048309178744
+    }
+  ],
+  "excluded_from_ranking": "Unmapped references and queries stopped before retrieval; excluded counts/statuses preserved in metrics.csv",
+  "not_full_90_query_metric": true,
+  "all_outputs_retained": true,
+  "offline_ragas_status": "pending for this batch",
+  "held_out_accessed": false,
+  "app_defaults_changed": false
+}

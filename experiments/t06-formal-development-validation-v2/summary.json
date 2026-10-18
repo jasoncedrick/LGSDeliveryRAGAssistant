@@ -1,0 +1,40 @@
+{
+  "groups": 30,
+  "queries": 90,
+  "pillars": {
+    "Business Bureau": 6,
+    "City Treasurer's Office": 6,
+    "Office of the City Building Official": 6,
+    "City Planning and Development Office": 6,
+    "Bureau of Fire Protection": 6
+  },
+  "language_variants": [
+    "english",
+    "taglish",
+    "bislish"
+  ],
+  "legacy_reference_count": 85,
+  "reference_status_counts": {
+    "EXACT_LEXICAL_SOURCE_SPAN_MAPPED": 77,
+    "MANUAL_SPAN_REVIEW_REQUIRED": 8
+  },
+  "groups_fully_mapped": 25,
+  "blocked_group_ids": [
+    "SCENARIO-BB-006",
+    "SCENARIO-CPDO-001",
+    "SCENARIO-BFP-001",
+    "SCENARIO-BFP-004",
+    "SCENARIO-BFP-005"
+  ],
+  "semantic_answer_validation": "Manual source comparison still needed; exact old-span presence does not prove reference-answer completeness.",
+  "policy": "No page-wide or nearest-neighbour gold-ID substitution; incomplete group mappings withheld from ranking metrics.",
+  "normalization": "Punctuation/whitespace canonicalization; only first/last word fragments allowed, all interior words must match exactly.",
+  "original_development_file_modified": false,
+  "held_out_accessed": false,
+  "input_hashes": {
+    "data\\benchmark_scenarios_dev.json": "a95ca5d24c758416eaa82d5e374ee93620e980db5f92d9eed802f945655e841d",
+    "data\\eboss_corpus_chunks_v1.json": "1649d2dba95b8e03a57226364f7294d51d8f009af11c8509a74ecbd8cabba152",
+    "experiments\\chapter3-table-repaired-development-v1\\source_pages.json": "d355eec5c7da652ef8d9a0fbdb914d3d63976be3a20f1b3614b1162984418cbf",
+    "experiments\\chapter3-table-repaired-development-v1\\corpus.json": "a0d996dd178eb681825880381741482001b72da5466b2effcf7b870a610017f3"
+  }
+}

@@ -1,0 +1,106 @@
+--- bfp_before.txt
++++ bfp_after.txt
+@@ -204,19 +204,43 @@
+ (DCN No. BFP-QSF-
+ FSED-001 REV.02
+ (08.24.20))
++[REPRESENTATION: Application-form cell spans: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION.]
++
+ BFP FSIC Application Form (DCN No. BFP-QSF-FSED-002 REV.02 (08.24.20))
++[REPRESENTATION: Application-form cell spans: CERTIFICATE OF OCCUPANCY; NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST.]
++
+ Applied in OSCP/BOSS 
+-Unified Application Form (OSCP) 
++Unified Application Form (OSCP)
++[REPRESENTATION: Application-form cell spans: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION; CERTIFICATE OF OCCUPANCY.]
++ 
+ Unified Application Form (BOSS)
++[REPRESENTATION: Application-form cell spans: NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST.]
++
+ D   O   C   U   M   E   N   T   A   R   Y     R   E   Q   U   I   R   E   M   E   N   T   S
+ 1)Architectural documents
++[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]
++
+ 2) Civil documents
++[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]
++
+ 3) Electrical documents
++[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]
++
+ 4) Mechanical documents
++[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]
++
+ 5) Plumbing documents
++[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]
++
+ 6) Electronics documents
++[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]
++
+ 7) Sanitary documents
++[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]
++
+ 8) Fire Protection documents
++[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]
++
+ Note: 
+ Documents 
+ refers 
+@@ -228,21 +252,45 @@
+ specifications signed and sealed by the Professional Engineer/
+ Architect
+ As-built plan together with the building permit (If there is changes/
++[REPRESENTATION: Matrix dot shown for: CERTIFICATE OF OCCUPANCY; NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST. Other service cells are blank in source; blank is not an exemption statement.]
++
+ Copy of Fire Insurance, if any
++[REPRESENTATION: Matrix dot shown for: NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST. Other service cells are blank in source; blank is not an exemption statement.]
++
+ One (1) set of the estimate value of the building/structure or facilities (materials 
+ and   labor cost) signed and sealed
++[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]
++
+ Copy of valid PRC Professional License of all involved professionals
++[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]
++
+ Endorsement from the Office of Building Official (OBO)
++[REPRESENTATION: Matrix dot shown for: CERTIFICATE OF OCCUPANCY. Other service cells are blank in source; blank is not an exemption statement.]
++
+ Certificate of Completion
++[REPRESENTATION: Matrix dot shown for: CERTIFICATE OF OCCUPANCY. Other service cells are blank in source; blank is not an exemption statement.]
++
+ Certified true copy of assessment fee for securing Certificate of         
+ Occupancy from OBO
++[REPRESENTATION: Matrix dot shown for: CERTIFICATE OF OCCUPANCY. Other service cells are blank in source; blank is not an exemption statement.]
++
+ Certified True Copy of Valid Certificate of Occupancy
++[REPRESENTATION: Matrix dot shown for: NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE. Other service cells are blank in source; blank is not an exemption statement.]
++
+ Assessment of Business Permit Fee/ Tax Assessment Bill from              
+ Business Processing and Licensing Office (BPLO)
++[REPRESENTATION: Matrix dot shown for: NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST. Other service cells are blank in source; blank is not an exemption statement.]
++
+ O   T   H   E   R     D   O   C   U   M   E   N   T   S
+ Fire Safety Compliance Report (FSCR) NOTE (1)
++[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]
++
+ Fire Safety Compliance and Commissioning   Report (FSCCR) NOTE (2)
++[REPRESENTATION: Matrix dot shown for: CERTIFICATE OF OCCUPANCY. Other service cells are blank in source; blank is not an exemption statement.]
++
+ Fire Safety Maintenance Report (FSMR) NOTE (3)
++[REPRESENTATION: Matrix dot shown for: NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST. Other service cells are blank in source; blank is not an exemption statement.]
++
+ Note: FSCR/FSCCR/FSMR  is required if the building/facilities/structures are 
+ required to install any or combination of the following: 
+        1) Wet standpipe system; 
+@@ -262,8 +310,12 @@
+ renovation
+ (during construction) This clearance should be applied during                      
+ construction after the conduct of fire safety inspection
++[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]
++
+ 2)  Annual – for business establishments requiring almost daily repair or
+ maintenance due to its nature of business or operations.
++[REPRESENTATION: Matrix dot shown for: RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST. Other service cells are blank in source; blank is not an exemption statement.]
++
+ Send feedback on government services, whether positive or negative, to the Contact Center ng
+ Bayan via following access channels:
+ SMS: 09088816565

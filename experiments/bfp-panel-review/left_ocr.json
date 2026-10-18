@@ -1,0 +1,2145 @@
+﻿{
+    "status":  "RAW_OCR_REQUIRES_VISUAL_REVIEW",
+    "lines":  [
+                  {
+                      "text":  "Portable Fire Extinguishers",
+                      "words":  [
+                                    {
+                                        "y":  41,
+                                        "height":  67,
+                                        "width":  409,
+                                        "text":  "Portable",
+                                        "x":  191
+                                    },
+                                    {
+                                        "y":  40,
+                                        "height":  68,
+                                        "width":  184,
+                                        "text":  "Fire",
+                                        "x":  642
+                                    },
+                                    {
+                                        "y":  40,
+                                        "height":  85,
+                                        "width":  666,
+                                        "text":  "Extinguishers",
+                                        "x":  868
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "are regulated by the",
+                      "words":  [
+                                    {
+                                        "y":  129,
+                                        "height":  33,
+                                        "width":  96,
+                                        "text":  "are",
+                                        "x":  555
+                                    },
+                                    {
+                                        "y":  119,
+                                        "height":  54,
+                                        "width":  281,
+                                        "text":  "regulated",
+                                        "x":  677
+                                    },
+                                    {
+                                        "y":  119,
+                                        "height":  54,
+                                        "width":  69,
+                                        "text":  "by",
+                                        "x":  985
+                                    },
+                                    {
+                                        "y":  119,
+                                        "height":  43,
+                                        "width":  93,
+                                        "text":  "the",
+                                        "x":  1075
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Department of Trade and Industry (DTI)",
+                      "words":  [
+                                    {
+                                        "y":  175,
+                                        "height":  54,
+                                        "width":  379,
+                                        "text":  "Department",
+                                        "x":  227
+                                    },
+                                    {
+                                        "y":  174,
+                                        "height":  44,
+                                        "width":  64,
+                                        "text":  "of",
+                                        "x":  628
+                                    },
+                                    {
+                                        "y":  175,
+                                        "height":  43,
+                                        "width":  186,
+                                        "text":  "Trade",
+                                        "x":  708
+                                    },
+                                    {
+                                        "y":  175,
+                                        "height":  43,
+                                        "width":  115,
+                                        "text":  "and",
+                                        "x":  920
+                                    },
+                                    {
+                                        "y":  175,
+                                        "height":  55,
+                                        "width":  256,
+                                        "text":  "Industry",
+                                        "x":  1066
+                                    },
+                                    {
+                                        "y":  175,
+                                        "height":  53,
+                                        "width":  152,
+                                        "text":  "(DTI)",
+                                        "x":  1347
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "through its",
+                      "words":  [
+                                    {
+                                        "y":  230,
+                                        "height":  54,
+                                        "width":  233,
+                                        "text":  "through",
+                                        "x":  699
+                                    },
+                                    {
+                                        "y":  230,
+                                        "height":  43,
+                                        "width":  62,
+                                        "text":  "its",
+                                        "x":  959
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Bureau of Products Standards (BPS)",
+                      "words":  [
+                                    {
+                                        "y":  286,
+                                        "height":  44,
+                                        "width":  228,
+                                        "text":  "Bureau",
+                                        "x":  271
+                                    },
+                                    {
+                                        "y":  285,
+                                        "height":  44,
+                                        "width":  63,
+                                        "text":  "of",
+                                        "x":  526
+                                    },
+                                    {
+                                        "y":  286,
+                                        "height":  44,
+                                        "width":  283,
+                                        "text":  "Products",
+                                        "x":  612
+                                    },
+                                    {
+                                        "y":  285,
+                                        "height":  45,
+                                        "width":  329,
+                                        "text":  "Standards",
+                                        "x":  921
+                                    },
+                                    {
+                                        "y":  285,
+                                        "height":  54,
+                                        "width":  181,
+                                        "text":  "(BPS)",
+                                        "x":  1274
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "PARTS:",
+                      "words":  [
+                                    {
+                                        "y":  403,
+                                        "height":  44,
+                                        "width":  246,
+                                        "text":  "PARTS:",
+                                        "x":  558
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "hose",
+                      "words":  [
+                                    {
+                                        "y":  551,
+                                        "height":  43,
+                                        "width":  144,
+                                        "text":  "hose",
+                                        "x":  362
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "marking for hazard",
+                      "words":  [
+                                    {
+                                        "y":  720,
+                                        "height":  37,
+                                        "width":  162,
+                                        "text":  "marking",
+                                        "x":  68
+                                    },
+                                    {
+                                        "y":  720,
+                                        "height":  29,
+                                        "width":  56,
+                                        "text":  "for",
+                                        "x":  244
+                                    },
+                                    {
+                                        "y":  720,
+                                        "height":  29,
+                                        "width":  139,
+                                        "text":  "hazard",
+                                        "x":  312
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "application",
+                      "words":  [
+                                    {
+                                        "y":  768,
+                                        "height":  36,
+                                        "width":  218,
+                                        "text":  "application",
+                                        "x":  67
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "c",
+                      "words":  [
+                                    {
+                                        "y":  959,
+                                        "height":  26,
+                                        "width":  25,
+                                        "text":  "c",
+                                        "x":  328
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "nozzle",
+                      "words":  [
+                                    {
+                                        "y":  1064,
+                                        "height":  43,
+                                        "width":  196,
+                                        "text":  "nozzle",
+                                        "x":  313
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "INSTRUCTIONS",
+                      "words":  [
+                                    {
+                                        "y":  751,
+                                        "height":  16,
+                                        "width":  160,
+                                        "text":  "INSTRUCTIONS",
+                                        "x":  747
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "handle",
+                      "words":  [
+                                    {
+                                        "y":  460,
+                                        "height":  43,
+                                        "width":  204,
+                                        "text":  "handle",
+                                        "x":  1091
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "pressure gauge",
+                      "words":  [
+                                    {
+                                        "y":  561,
+                                        "height":  43,
+                                        "width":  265,
+                                        "text":  "pressure",
+                                        "x":  1142
+                                    },
+                                    {
+                                        "y":  561,
+                                        "height":  44,
+                                        "width":  190,
+                                        "text":  "gauge",
+                                        "x":  1430
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "tank",
+                      "words":  [
+                                    {
+                                        "y":  1080,
+                                        "height":  43,
+                                        "width":  131,
+                                        "text":  "tank",
+                                        "x":  1098
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "There are 4 types of fire extinguishers available in the coun-",
+                      "words":  [
+                                    {
+                                        "y":  1223,
+                                        "height":  37,
+                                        "width":  139,
+                                        "text":  "There",
+                                        "x":  252
+                                    },
+                                    {
+                                        "y":  1232,
+                                        "height":  28,
+                                        "width":  76,
+                                        "text":  "are",
+                                        "x":  407
+                                    },
+                                    {
+                                        "y":  1224,
+                                        "height":  35,
+                                        "width":  29,
+                                        "text":  "4",
+                                        "x":  498
+                                    },
+                                    {
+                                        "y":  1224,
+                                        "height":  45,
+                                        "width":  129,
+                                        "text":  "types",
+                                        "x":  541
+                                    },
+                                    {
+                                        "y":  1224,
+                                        "height":  36,
+                                        "width":  46,
+                                        "text":  "of",
+                                        "x":  686
+                                    },
+                                    {
+                                        "y":  1224,
+                                        "height":  36,
+                                        "width":  76,
+                                        "text":  "fire",
+                                        "x":  742
+                                    },
+                                    {
+                                        "y":  1223,
+                                        "height":  46,
+                                        "width":  316,
+                                        "text":  "extinguishers",
+                                        "x":  834
+                                    },
+                                    {
+                                        "y":  1223,
+                                        "height":  37,
+                                        "width":  211,
+                                        "text":  "available",
+                                        "x":  1165
+                                    },
+                                    {
+                                        "y":  1223,
+                                        "height":  36,
+                                        "width":  38,
+                                        "text":  "in",
+                                        "x":  1393
+                                    },
+                                    {
+                                        "y":  1224,
+                                        "height":  36,
+                                        "width":  74,
+                                        "text":  "the",
+                                        "x":  1448
+                                    },
+                                    {
+                                        "y":  1232,
+                                        "height":  28,
+                                        "width":  134,
+                                        "text":  "coun-",
+                                        "x":  1537
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "try. To be sure of product safety and reliability, each type",
+                      "words":  [
+                                    {
+                                        "y":  1282,
+                                        "height":  44,
+                                        "width":  68,
+                                        "text":  "try.",
+                                        "x":  252
+                                    },
+                                    {
+                                        "y":  1281,
+                                        "height":  36,
+                                        "width":  56,
+                                        "text":  "To",
+                                        "x":  345
+                                    },
+                                    {
+                                        "y":  1281,
+                                        "height":  36,
+                                        "width":  56,
+                                        "text":  "be",
+                                        "x":  427
+                                    },
+                                    {
+                                        "y":  1290,
+                                        "height":  27,
+                                        "width":  103,
+                                        "text":  "sure",
+                                        "x":  508
+                                    },
+                                    {
+                                        "y":  1281,
+                                        "height":  36,
+                                        "width":  48,
+                                        "text":  "of",
+                                        "x":  635
+                                    },
+                                    {
+                                        "y":  1281,
+                                        "height":  45,
+                                        "width":  179,
+                                        "text":  "product",
+                                        "x":  704
+                                    },
+                                    {
+                                        "y":  1281,
+                                        "height":  45,
+                                        "width":  143,
+                                        "text":  "safety",
+                                        "x":  906
+                                    },
+                                    {
+                                        "y":  1281,
+                                        "height":  36,
+                                        "width":  86,
+                                        "text":  "and",
+                                        "x":  1073
+                                    },
+                                    {
+                                        "y":  1281,
+                                        "height":  45,
+                                        "width":  218,
+                                        "text":  "reliability,",
+                                        "x":  1186
+                                    },
+                                    {
+                                        "y":  1281,
+                                        "height":  36,
+                                        "width":  113,
+                                        "text":  "each",
+                                        "x":  1431
+                                    },
+                                    {
+                                        "y":  1282,
+                                        "height":  44,
+                                        "width":  101,
+                                        "text":  "type",
+                                        "x":  1569
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "must comply with the appropriate Philippine National",
+                      "words":  [
+                                    {
+                                        "y":  1339,
+                                        "height":  35,
+                                        "width":  114,
+                                        "text":  "must",
+                                        "x":  255
+                                    },
+                                    {
+                                        "y":  1338,
+                                        "height":  45,
+                                        "width":  169,
+                                        "text":  "comply",
+                                        "x":  385
+                                    },
+                                    {
+                                        "y":  1338,
+                                        "height":  36,
+                                        "width":  94,
+                                        "text":  "with",
+                                        "x":  569
+                                    },
+                                    {
+                                        "y":  1338,
+                                        "height":  36,
+                                        "width":  74,
+                                        "text":  "the",
+                                        "x":  681
+                                    },
+                                    {
+                                        "y":  1338,
+                                        "height":  45,
+                                        "width":  272,
+                                        "text":  "appropriate",
+                                        "x":  772
+                                    },
+                                    {
+                                        "y":  1338,
+                                        "height":  45,
+                                        "width":  231,
+                                        "text":  "Philippine",
+                                        "x":  1063
+                                    },
+                                    {
+                                        "y":  1338,
+                                        "height":  36,
+                                        "width":  193,
+                                        "text":  "National",
+                                        "x":  1313
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Standards (PNS).",
+                      "words":  [
+                                    {
+                                        "y":  1395,
+                                        "height":  37,
+                                        "width":  243,
+                                        "text":  "Standards",
+                                        "x":  254
+                                    },
+                                    {
+                                        "y":  1395,
+                                        "height":  46,
+                                        "width":  156,
+                                        "text":  "(PNS).",
+                                        "x":  515
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Drv Chemical",
+                      "words":  [
+                                    {
+                                        "y":  1467,
+                                        "height":  46,
+                                        "width":  109,
+                                        "text":  "Drv",
+                                        "x":  321
+                                    },
+                                    {
+                                        "y":  1466,
+                                        "height":  45,
+                                        "width":  299,
+                                        "text":  "Chemical",
+                                        "x":  455
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Pfis 15-1:1989",
+                      "words":  [
+                                    {
+                                        "y":  1513,
+                                        "height":  38,
+                                        "width":  95,
+                                        "text":  "Pfis",
+                                        "x":  371
+                                    },
+                                    {
+                                        "y":  1520,
+                                        "height":  30,
+                                        "width":  216,
+                                        "text":  "15-1:1989",
+                                        "x":  485
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Carbon Dioxide",
+                      "words":  [
+                                    {
+                                        "y":  1586,
+                                        "height":  44,
+                                        "width":  233,
+                                        "text":  "Carbon",
+                                        "x":  320
+                                    },
+                                    {
+                                        "y":  1586,
+                                        "height":  44,
+                                        "width":  239,
+                                        "text":  "Dioxide",
+                                        "x":  583
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "PNS 15-3:1991",
+                      "words":  [
+                                    {
+                                        "y":  1639,
+                                        "height":  31,
+                                        "width":  95,
+                                        "text":  "PNS",
+                                        "x":  371
+                                    },
+                                    {
+                                        "y":  1639,
+                                        "height":  30,
+                                        "width":  210,
+                                        "text":  "15-3:1991",
+                                        "x":  485
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Maintenance Involving Internal Examination",
+                      "words":  [
+                                    {
+                                        "y":  1751,
+                                        "height":  21,
+                                        "width":  211,
+                                        "text":  "Maintenance",
+                                        "x":  167
+                                    },
+                                    {
+                                        "y":  1751,
+                                        "height":  27,
+                                        "width":  144,
+                                        "text":  "Involving",
+                                        "x":  393
+                                    },
+                                    {
+                                        "y":  1751,
+                                        "height":  21,
+                                        "width":  121,
+                                        "text":  "Internal",
+                                        "x":  552
+                                    },
+                                    {
+                                        "y":  1751,
+                                        "height":  22,
+                                        "width":  201,
+                                        "text":  "Examination",
+                                        "x":  689
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "of Fire Extinguisher",
+                      "words":  [
+                                    {
+                                        "y":  1785,
+                                        "height":  22,
+                                        "width":  32,
+                                        "text":  "of",
+                                        "x":  367
+                                    },
+                                    {
+                                        "y":  1785,
+                                        "height":  22,
+                                        "width":  62,
+                                        "text":  "Fire",
+                                        "x":  411
+                                    },
+                                    {
+                                        "y":  1785,
+                                        "height":  27,
+                                        "width":  205,
+                                        "text":  "Extinguisher",
+                                        "x":  487
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Extinguisher Type",
+                      "words":  [
+                                    {
+                                        "y":  1851,
+                                        "height":  23,
+                                        "width":  161,
+                                        "text":  "Extinguisher",
+                                        "x":  129
+                                    },
+                                    {
+                                        "y":  1851,
+                                        "height":  23,
+                                        "width":  64,
+                                        "text":  "Type",
+                                        "x":  297
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Carbon dioxide",
+                      "words":  [
+                                    {
+                                        "y":  1892,
+                                        "height":  18,
+                                        "width":  93,
+                                        "text":  "Carbon",
+                                        "x":  82
+                                    },
+                                    {
+                                        "y":  1892,
+                                        "height":  18,
+                                        "width":  90,
+                                        "text":  "dioxide",
+                                        "x":  184
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Internal Examination Interval (years)",
+                      "words":  [
+                                    {
+                                        "y":  1852,
+                                        "height":  19,
+                                        "width":  95,
+                                        "text":  "Internal",
+                                        "x":  487
+                                    },
+                                    {
+                                        "y":  1852,
+                                        "height":  19,
+                                        "width":  160,
+                                        "text":  "Examination",
+                                        "x":  593
+                                    },
+                                    {
+                                        "y":  1852,
+                                        "height":  19,
+                                        "width":  94,
+                                        "text":  "Interval",
+                                        "x":  765
+                                    },
+                                    {
+                                        "y":  1852,
+                                        "height":  23,
+                                        "width":  90,
+                                        "text":  "(years)",
+                                        "x":  870
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "5",
+                      "words":  [
+                                    {
+                                        "y":  1892,
+                                        "height":  19,
+                                        "width":  16,
+                                        "text":  "5",
+                                        "x":  686
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "5",
+                      "words":  [
+                                    {
+                                        "y":  1978,
+                                        "height":  18,
+                                        "width":  17,
+                                        "text":  "5",
+                                        "x":  685
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "6",
+                      "words":  [
+                                    {
+                                        "y":  2035,
+                                        "height":  18,
+                                        "width":  16,
+                                        "text":  "6",
+                                        "x":  686
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "6",
+                      "words":  [
+                                    {
+                                        "y":  2121,
+                                        "height":  18,
+                                        "width":  16,
+                                        "text":  "6",
+                                        "x":  686
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Foam",
+                      "words":  [
+                                    {
+                                        "y":  1467,
+                                        "height":  44,
+                                        "width":  176,
+                                        "text":  "Foam",
+                                        "x":  1132
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "PNS 15-4:1991",
+                      "words":  [
+                                    {
+                                        "y":  1520,
+                                        "height":  31,
+                                        "width":  95,
+                                        "text":  "PNS",
+                                        "x":  1096
+                                    },
+                                    {
+                                        "y":  1521,
+                                        "height":  29,
+                                        "width":  209,
+                                        "text":  "15-4:1991",
+                                        "x":  1211
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Halon Substitute",
+                      "words":  [
+                                    {
+                                        "y":  1586,
+                                        "height":  44,
+                                        "width":  183,
+                                        "text":  "Halon",
+                                        "x":  1012
+                                    },
+                                    {
+                                        "y":  1586,
+                                        "height":  44,
+                                        "width":  322,
+                                        "text":  "Substitute",
+                                        "x":  1224
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "PNS 15-5:1996",
+                      "words":  [
+                                    {
+                                        "y":  1639,
+                                        "height":  31,
+                                        "width":  95,
+                                        "text":  "PNS",
+                                        "x":  1147
+                                    },
+                                    {
+                                        "y":  1640,
+                                        "height":  29,
+                                        "width":  216,
+                                        "text":  "15-5:1996",
+                                        "x":  1262
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "This productis one critical products that are",
+                      "words":  [
+                                    {
+                                        "y":  1759,
+                                        "height":  19,
+                                        "width":  29,
+                                        "text":  "This",
+                                        "x":  1141
+                                    },
+                                    {
+                                        "y":  1759,
+                                        "height":  23,
+                                        "width":  67,
+                                        "text":  "productis",
+                                        "x":  1175
+                                    },
+                                    {
+                                        "y":  1764,
+                                        "height":  14,
+                                        "width":  25,
+                                        "text":  "one",
+                                        "x":  1247
+                                    },
+                                    {
+                                        "y":  1759,
+                                        "height":  19,
+                                        "width":  43,
+                                        "text":  "critical",
+                                        "x":  1320
+                                    },
+                                    {
+                                        "y":  1760,
+                                        "height":  22,
+                                        "width":  60,
+                                        "text":  "products",
+                                        "x":  1380
+                                    },
+                                    {
+                                        "y":  1760,
+                                        "height":  18,
+                                        "width":  26,
+                                        "text":  "that",
+                                        "x":  1444
+                                    },
+                                    {
+                                        "y":  1764,
+                                        "height":  14,
+                                        "width":  22,
+                                        "text":  "are",
+                                        "x":  1475
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "required to undergo product wification under the BPS",
+                      "words":  [
+                                    {
+                                        "y":  1789,
+                                        "height":  23,
+                                        "width":  56,
+                                        "text":  "required",
+                                        "x":  1120
+                                    },
+                                    {
+                                        "y":  1790,
+                                        "height":  17,
+                                        "width":  13,
+                                        "text":  "to",
+                                        "x":  1180
+                                    },
+                                    {
+                                        "y":  1789,
+                                        "height":  23,
+                                        "width":  57,
+                                        "text":  "undergo",
+                                        "x":  1198
+                                    },
+                                    {
+                                        "y":  1789,
+                                        "height":  23,
+                                        "width":  51,
+                                        "text":  "product",
+                                        "x":  1260
+                                    },
+                                    {
+                                        "y":  1789,
+                                        "height":  18,
+                                        "width":  77,
+                                        "text":  "wification",
+                                        "x":  1316
+                                    },
+                                    {
+                                        "y":  1789,
+                                        "height":  18,
+                                        "width":  41,
+                                        "text":  "under",
+                                        "x":  1398
+                                    },
+                                    {
+                                        "y":  1789,
+                                        "height":  18,
+                                        "width":  22,
+                                        "text":  "the",
+                                        "x":  1442
+                                    },
+                                    {
+                                        "y":  1789,
+                                        "height":  18,
+                                        "width":  32,
+                                        "text":  "BPS",
+                                        "x":  1468
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Product Cetification Scheme.",
+                      "words":  [
+                                    {
+                                        "y":  1817,
+                                        "height":  19,
+                                        "width":  53,
+                                        "text":  "Product",
+                                        "x":  1207
+                                    },
+                                    {
+                                        "y":  1817,
+                                        "height":  19,
+                                        "width":  80,
+                                        "text":  "Cetification",
+                                        "x":  1265
+                                    },
+                                    {
+                                        "y":  1817,
+                                        "height":  19,
+                                        "width":  60,
+                                        "text":  "Scheme.",
+                                        "x":  1351
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "The list is downloadable at",
+                      "words":  [
+                                    {
+                                        "y":  1846,
+                                        "height":  18,
+                                        "width":  26,
+                                        "text":  "The",
+                                        "x":  1218
+                                    },
+                                    {
+                                        "y":  1846,
+                                        "height":  18,
+                                        "width":  19,
+                                        "text":  "list",
+                                        "x":  1249
+                                    },
+                                    {
+                                        "y":  1846,
+                                        "height":  18,
+                                        "width":  10,
+                                        "text":  "is",
+                                        "x":  1273
+                                    },
+                                    {
+                                        "y":  1846,
+                                        "height":  18,
+                                        "width":  96,
+                                        "text":  "downloadable",
+                                        "x":  1288
+                                    },
+                                    {
+                                        "y":  1847,
+                                        "height":  17,
+                                        "width":  13,
+                                        "text":  "at",
+                                        "x":  1388
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "htp//www.bpsdigov.ph",
+                      "words":  [
+                                    {
+                                        "y":  1875,
+                                        "height":  24,
+                                        "width":  183,
+                                        "text":  "htp//www.bpsdigov.ph",
+                                        "x":  1218
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "I-Jnder this scheme, the manufacturers and importers of",
+                      "words":  [
+                                    {
+                                        "y":  1948,
+                                        "height":  16,
+                                        "width":  67,
+                                        "text":  "I-Jnder",
+                                        "x":  1028
+                                    },
+                                    {
+                                        "y":  1948,
+                                        "height":  16,
+                                        "width":  39,
+                                        "text":  "this",
+                                        "x":  1099
+                                    },
+                                    {
+                                        "y":  1948,
+                                        "height":  18,
+                                        "width":  89,
+                                        "text":  "scheme,",
+                                        "x":  1146
+                                    },
+                                    {
+                                        "y":  1948,
+                                        "height":  16,
+                                        "width":  35,
+                                        "text":  "the",
+                                        "x":  1243
+                                    },
+                                    {
+                                        "y":  1948,
+                                        "height":  16,
+                                        "width":  156,
+                                        "text":  "manufacturers",
+                                        "x":  1286
+                                    },
+                                    {
+                                        "y":  1948,
+                                        "height":  16,
+                                        "width":  40,
+                                        "text":  "and",
+                                        "x":  1448
+                                    },
+                                    {
+                                        "y":  1948,
+                                        "height":  19,
+                                        "width":  100,
+                                        "text":  "importers",
+                                        "x":  1497
+                                    },
+                                    {
+                                        "y":  1948,
+                                        "height":  16,
+                                        "width":  22,
+                                        "text":  "of",
+                                        "x":  1603
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "these products are required to apply from the BPS for the:",
+                      "words":  [
+                                    {
+                                        "y":  1972,
+                                        "height":  16,
+                                        "width":  61,
+                                        "text":  "these",
+                                        "x":  1026
+                                    },
+                                    {
+                                        "y":  1972,
+                                        "height":  20,
+                                        "width":  92,
+                                        "text":  "products",
+                                        "x":  1094
+                                    },
+                                    {
+                                        "y":  1976,
+                                        "height":  12,
+                                        "width":  35,
+                                        "text":  "are",
+                                        "x":  1193
+                                    },
+                                    {
+                                        "y":  1972,
+                                        "height":  20,
+                                        "width":  87,
+                                        "text":  "required",
+                                        "x":  1235
+                                    },
+                                    {
+                                        "y":  1973,
+                                        "height":  15,
+                                        "width":  21,
+                                        "text":  "to",
+                                        "x":  1328
+                                    },
+                                    {
+                                        "y":  1972,
+                                        "height":  20,
+                                        "width":  56,
+                                        "text":  "apply",
+                                        "x":  1356
+                                    },
+                                    {
+                                        "y":  1972,
+                                        "height":  16,
+                                        "width":  51,
+                                        "text":  "from",
+                                        "x":  1417
+                                    },
+                                    {
+                                        "y":  1972,
+                                        "height":  16,
+                                        "width":  35,
+                                        "text":  "the",
+                                        "x":  1474
+                                    },
+                                    {
+                                        "y":  1972,
+                                        "height":  16,
+                                        "width":  47,
+                                        "text":  "BPS",
+                                        "x":  1517
+                                    },
+                                    {
+                                        "y":  1972,
+                                        "height":  16,
+                                        "width":  31,
+                                        "text":  "for",
+                                        "x":  1570
+                                    },
+                                    {
+                                        "y":  1972,
+                                        "height":  16,
+                                        "width":  39,
+                                        "text":  "the:",
+                                        "x":  1605
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Dry chemical stored-pressure,",
+                      "words":  [
+                                    {
+                                        "y":  1949,
+                                        "height":  23,
+                                        "width":  45,
+                                        "text":  "Dry",
+                                        "x":  83
+                                    },
+                                    {
+                                        "y":  1949,
+                                        "height":  19,
+                                        "width":  112,
+                                        "text":  "chemical",
+                                        "x":  135
+                                    },
+                                    {
+                                        "y":  1949,
+                                        "height":  23,
+                                        "width":  208,
+                                        "text":  "stored-pressure,",
+                                        "x":  256
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "with mild steel shells",
+                      "words":  [
+                                    {
+                                        "y":  1978,
+                                        "height":  18,
+                                        "width":  50,
+                                        "text":  "with",
+                                        "x":  81
+                                    },
+                                    {
+                                        "y":  1978,
+                                        "height":  18,
+                                        "width":  51,
+                                        "text":  "mild",
+                                        "x":  142
+                                    },
+                                    {
+                                        "y":  1978,
+                                        "height":  18,
+                                        "width":  58,
+                                        "text":  "steel",
+                                        "x":  202
+                                    },
+                                    {
+                                        "y":  1978,
+                                        "height":  18,
+                                        "width":  73,
+                                        "text":  "shells",
+                                        "x":  270
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Halogenated agents",
+                      "words":  [
+                                    {
+                                        "y":  2035,
+                                        "height":  23,
+                                        "width":  159,
+                                        "text":  "Halogenated",
+                                        "x":  83
+                                    },
+                                    {
+                                        "y":  2036,
+                                        "height":  22,
+                                        "width":  85,
+                                        "text":  "agents",
+                                        "x":  252
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Dry powder, stored-pressure,",
+                      "words":  [
+                                    {
+                                        "y":  2092,
+                                        "height":  23,
+                                        "width":  45,
+                                        "text":  "Dry",
+                                        "x":  83
+                                    },
+                                    {
+                                        "y":  2092,
+                                        "height":  23,
+                                        "width":  97,
+                                        "text":  "powder,",
+                                        "x":  136
+                                    },
+                                    {
+                                        "y":  2092,
+                                        "height":  23,
+                                        "width":  208,
+                                        "text":  "stored-pressure,",
+                                        "x":  242
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "with mild steel shells",
+                      "words":  [
+                                    {
+                                        "y":  2121,
+                                        "height":  18,
+                                        "width":  50,
+                                        "text":  "with",
+                                        "x":  81
+                                    },
+                                    {
+                                        "y":  2121,
+                                        "height":  18,
+                                        "width":  51,
+                                        "text":  "mild",
+                                        "x":  142
+                                    },
+                                    {
+                                        "y":  2121,
+                                        "height":  18,
+                                        "width":  58,
+                                        "text":  "steel",
+                                        "x":  202
+                                    },
+                                    {
+                                        "y":  2121,
+                                        "height":  18,
+                                        "width":  73,
+                                        "text":  "shells",
+                                        "x":  270
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "AFFF (Aqueous Film-Forming Foam)",
+                      "words":  [
+                                    {
+                                        "y":  2178,
+                                        "height":  18,
+                                        "width":  71,
+                                        "text":  "AFFF",
+                                        "x":  81
+                                    },
+                                    {
+                                        "y":  2178,
+                                        "height":  23,
+                                        "width":  121,
+                                        "text":  "(Aqueous",
+                                        "x":  162
+                                    },
+                                    {
+                                        "y":  2178,
+                                        "height":  23,
+                                        "width":  169,
+                                        "text":  "Film-Forming",
+                                        "x":  292
+                                    },
+                                    {
+                                        "y":  2178,
+                                        "height":  23,
+                                        "width":  80,
+                                        "text":  "Foam)",
+                                        "x":  470
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Philippine Standard (PS) License",
+                      "words":  [
+                                    {
+                                        "y":  2041,
+                                        "height":  19,
+                                        "width":  102,
+                                        "text":  "Philippine",
+                                        "x":  1045
+                                    },
+                                    {
+                                        "y":  2041,
+                                        "height":  16,
+                                        "width":  98,
+                                        "text":  "Standard",
+                                        "x":  1155
+                                    },
+                                    {
+                                        "y":  2041,
+                                        "height":  20,
+                                        "width":  48,
+                                        "text":  "(PS)",
+                                        "x":  1262
+                                    },
+                                    {
+                                        "y":  2041,
+                                        "height":  16,
+                                        "width":  83,
+                                        "text":  "License",
+                                        "x":  1318
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "(for manufacturers)",
+                      "words":  [
+                                    {
+                                        "y":  2065,
+                                        "height":  20,
+                                        "width":  37,
+                                        "text":  "(for",
+                                        "x":  1045
+                                    },
+                                    {
+                                        "y":  2065,
+                                        "height":  20,
+                                        "width":  162,
+                                        "text":  "manufacturers)",
+                                        "x":  1089
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "or the",
+                      "words":  [
+                                    {
+                                        "y":  2116,
+                                        "height":  12,
+                                        "width":  23,
+                                        "text":  "or",
+                                        "x":  1032
+                                    },
+                                    {
+                                        "y":  2112,
+                                        "height":  16,
+                                        "width":  35,
+                                        "text":  "the",
+                                        "x":  1061
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Import Commodity Clearance (ICC)",
+                      "words":  [
+                                    {
+                                        "y":  2164,
+                                        "height":  19,
+                                        "width":  68,
+                                        "text":  "Import",
+                                        "x":  1047
+                                    },
+                                    {
+                                        "y":  2164,
+                                        "height":  19,
+                                        "width":  125,
+                                        "text":  "Commodity",
+                                        "x":  1122
+                                    },
+                                    {
+                                        "y":  2163,
+                                        "height":  17,
+                                        "width":  111,
+                                        "text":  "Clearance",
+                                        "x":  1254
+                                    },
+                                    {
+                                        "y":  2163,
+                                        "height":  21,
+                                        "width":  56,
+                                        "text":  "(ICC)",
+                                        "x":  1374
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Certificate for im rters",
+                      "words":  [
+                                    {
+                                        "y":  2188,
+                                        "height":  16,
+                                        "width":  109,
+                                        "text":  "Certificate",
+                                        "x":  1046
+                                    },
+                                    {
+                                        "y":  2188,
+                                        "height":  16,
+                                        "width":  32,
+                                        "text":  "for",
+                                        "x":  1169
+                                    },
+                                    {
+                                        "y":  2188,
+                                        "height":  16,
+                                        "width":  24,
+                                        "text":  "im",
+                                        "x":  1208
+                                    },
+                                    {
+                                        "y":  2189,
+                                        "height":  15,
+                                        "width":  48,
+                                        "text":  "rters",
+                                        "x":  1261
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Their products are subjected to tests based on the",
+                      "words":  [
+                                    {
+                                        "y":  2257,
+                                        "height":  16,
+                                        "width":  57,
+                                        "text":  "Their",
+                                        "x":  1037
+                                    },
+                                    {
+                                        "y":  2257,
+                                        "height":  20,
+                                        "width":  93,
+                                        "text":  "products",
+                                        "x":  1099
+                                    },
+                                    {
+                                        "y":  2261,
+                                        "height":  12,
+                                        "width":  35,
+                                        "text":  "are",
+                                        "x":  1199
+                                    },
+                                    {
+                                        "y":  2257,
+                                        "height":  20,
+                                        "width":  104,
+                                        "text":  "subjected",
+                                        "x":  1241
+                                    },
+                                    {
+                                        "y":  2258,
+                                        "height":  15,
+                                        "width":  21,
+                                        "text":  "to",
+                                        "x":  1352
+                                    },
+                                    {
+                                        "y":  2258,
+                                        "height":  15,
+                                        "width":  51,
+                                        "text":  "tests",
+                                        "x":  1380
+                                    },
+                                    {
+                                        "y":  2257,
+                                        "height":  16,
+                                        "width":  65,
+                                        "text":  "based",
+                                        "x":  1439
+                                    },
+                                    {
+                                        "y":  2261,
+                                        "height":  12,
+                                        "width":  25,
+                                        "text":  "on",
+                                        "x":  1512
+                                    },
+                                    {
+                                        "y":  2257,
+                                        "height":  16,
+                                        "width":  34,
+                                        "text":  "the",
+                                        "x":  1544
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "requirements of relevant PNS at the BPS Testing",
+                      "words":  [
+                                    {
+                                        "y":  2282,
+                                        "height":  20,
+                                        "width":  141,
+                                        "text":  "requirements",
+                                        "x":  1038
+                                    },
+                                    {
+                                        "y":  2282,
+                                        "height":  16,
+                                        "width":  22,
+                                        "text":  "of",
+                                        "x":  1186
+                                    },
+                                    {
+                                        "y":  2282,
+                                        "height":  16,
+                                        "width":  85,
+                                        "text":  "relevant",
+                                        "x":  1215
+                                    },
+                                    {
+                                        "y":  2282,
+                                        "height":  16,
+                                        "width":  50,
+                                        "text":  "PNS",
+                                        "x":  1307
+                                    },
+                                    {
+                                        "y":  2283,
+                                        "height":  15,
+                                        "width":  21,
+                                        "text":  "at",
+                                        "x":  1365
+                                    },
+                                    {
+                                        "y":  2282,
+                                        "height":  16,
+                                        "width":  33,
+                                        "text":  "the",
+                                        "x":  1392
+                                    },
+                                    {
+                                        "y":  2282,
+                                        "height":  16,
+                                        "width":  48,
+                                        "text":  "BPS",
+                                        "x":  1434
+                                    },
+                                    {
+                                        "y":  2282,
+                                        "height":  20,
+                                        "width":  75,
+                                        "text":  "Testing",
+                                        "x":  1490
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Center or DTI-accredited testing laboratories.",
+                      "words":  [
+                                    {
+                                        "y":  2306,
+                                        "height":  16,
+                                        "width":  75,
+                                        "text":  "Center",
+                                        "x":  1037
+                                    },
+                                    {
+                                        "y":  2310,
+                                        "height":  12,
+                                        "width":  22,
+                                        "text":  "or",
+                                        "x":  1118
+                                    },
+                                    {
+                                        "y":  2306,
+                                        "height":  16,
+                                        "width":  159,
+                                        "text":  "DTI-accredited",
+                                        "x":  1147
+                                    },
+                                    {
+                                        "y":  2307,
+                                        "height":  19,
+                                        "width":  71,
+                                        "text":  "testing",
+                                        "x":  1312
+                                    },
+                                    {
+                                        "y":  2306,
+                                        "height":  16,
+                                        "width":  131,
+                                        "text":  "laboratories.",
+                                        "x":  1391
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "ICC",
+                      "words":  [
+                                    {
+                                        "y":  2168,
+                                        "height":  27,
+                                        "width":  58,
+                                        "text":  "ICC",
+                                        "x":  1610
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "The agent in liquid charged-type AFF and FFFP extinguishers is replaced every 3 years and an",
+                      "words":  [
+                                    {
+                                        "y":  2243,
+                                        "height":  11,
+                                        "width":  29,
+                                        "text":  "The",
+                                        "x":  85
+                                    },
+                                    {
+                                        "y":  2243,
+                                        "height":  14,
+                                        "width":  43,
+                                        "text":  "agent",
+                                        "x":  225
+                                    },
+                                    {
+                                        "y":  2243,
+                                        "height":  11,
+                                        "width":  13,
+                                        "text":  "in",
+                                        "x":  273
+                                    },
+                                    {
+                                        "y":  2243,
+                                        "height":  14,
+                                        "width":  39,
+                                        "text":  "liquid",
+                                        "x":  292
+                                    },
+                                    {
+                                        "y":  2243,
+                                        "height":  14,
+                                        "width":  101,
+                                        "text":  "charged-type",
+                                        "x":  337
+                                    },
+                                    {
+                                        "y":  2243,
+                                        "height":  11,
+                                        "width":  32,
+                                        "text":  "AFF",
+                                        "x":  441
+                                    },
+                                    {
+                                        "y":  2243,
+                                        "height":  11,
+                                        "width":  28,
+                                        "text":  "and",
+                                        "x":  479
+                                    },
+                                    {
+                                        "y":  2243,
+                                        "height":  11,
+                                        "width":  42,
+                                        "text":  "FFFP",
+                                        "x":  513
+                                    },
+                                    {
+                                        "y":  2243,
+                                        "height":  14,
+                                        "width":  100,
+                                        "text":  "extinguishers",
+                                        "x":  561
+                                    },
+                                    {
+                                        "y":  2243,
+                                        "height":  11,
+                                        "width":  12,
+                                        "text":  "is",
+                                        "x":  667
+                                    },
+                                    {
+                                        "y":  2243,
+                                        "height":  14,
+                                        "width":  65,
+                                        "text":  "replaced",
+                                        "x":  685
+                                    },
+                                    {
+                                        "y":  2245,
+                                        "height":  12,
+                                        "width":  42,
+                                        "text":  "every",
+                                        "x":  756
+                                    },
+                                    {
+                                        "y":  2243,
+                                        "height":  11,
+                                        "width":  9,
+                                        "text":  "3",
+                                        "x":  803
+                                    },
+                                    {
+                                        "y":  2245,
+                                        "height":  12,
+                                        "width":  44,
+                                        "text":  "years",
+                                        "x":  816
+                                    },
+                                    {
+                                        "y":  2243,
+                                        "height":  11,
+                                        "width":  29,
+                                        "text":  "and",
+                                        "x":  864
+                                    },
+                                    {
+                                        "y":  2245,
+                                        "height":  9,
+                                        "width":  18,
+                                        "text":  "an",
+                                        "x":  899
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "irnernal examination (teardown) is normally conducted at that time. The agent in soid charged-type AFFF",
+                      "words":  [
+                                    {
+                                        "y":  2260,
+                                        "height":  12,
+                                        "width":  56,
+                                        "text":  "irnernal",
+                                        "x":  87
+                                    },
+                                    {
+                                        "y":  2260,
+                                        "height":  12,
+                                        "width":  90,
+                                        "text":  "examination",
+                                        "x":  148
+                                    },
+                                    {
+                                        "y":  2260,
+                                        "height":  15,
+                                        "width":  81,
+                                        "text":  "(teardown)",
+                                        "x":  245
+                                    },
+                                    {
+                                        "y":  2260,
+                                        "height":  12,
+                                        "width":  12,
+                                        "text":  "is",
+                                        "x":  332
+                                    },
+                                    {
+                                        "y":  2260,
+                                        "height":  15,
+                                        "width":  64,
+                                        "text":  "normally",
+                                        "x":  350
+                                    },
+                                    {
+                                        "y":  2260,
+                                        "height":  12,
+                                        "width":  79,
+                                        "text":  "conducted",
+                                        "x":  419
+                                    },
+                                    {
+                                        "y":  2260,
+                                        "height":  11,
+                                        "width":  14,
+                                        "text":  "at",
+                                        "x":  504
+                                    },
+                                    {
+                                        "y":  2260,
+                                        "height":  11,
+                                        "width":  28,
+                                        "text":  "that",
+                                        "x":  523
+                                    },
+                                    {
+                                        "y":  2260,
+                                        "height":  12,
+                                        "width":  37,
+                                        "text":  "time.",
+                                        "x":  556
+                                    },
+                                    {
+                                        "y":  2260,
+                                        "height":  11,
+                                        "width":  30,
+                                        "text":  "The",
+                                        "x":  598
+                                    },
+                                    {
+                                        "y":  2260,
+                                        "height":  15,
+                                        "width":  43,
+                                        "text":  "agent",
+                                        "x":  634
+                                    },
+                                    {
+                                        "y":  2260,
+                                        "height":  11,
+                                        "width":  13,
+                                        "text":  "in",
+                                        "x":  682
+                                    },
+                                    {
+                                        "y":  2260,
+                                        "height":  12,
+                                        "width":  35,
+                                        "text":  "soid",
+                                        "x":  700
+                                    },
+                                    {
+                                        "y":  2260,
+                                        "height":  15,
+                                        "width":  101,
+                                        "text":  "charged-type",
+                                        "x":  741
+                                    },
+                                    {
+                                        "y":  2260,
+                                        "height":  11,
+                                        "width":  42,
+                                        "text":  "AFFF",
+                                        "x":  846
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "e*inguishers is replaced every 5 years during the periodic hydrostatic test and the teardowm is done at that time.",
+                      "words":  [
+                                    {
+                                        "y":  2277,
+                                        "height":  14,
+                                        "width":  100,
+                                        "text":  "e*inguishers",
+                                        "x":  87
+                                    },
+                                    {
+                                        "y":  2277,
+                                        "height":  11,
+                                        "width":  12,
+                                        "text":  "is",
+                                        "x":  192
+                                    },
+                                    {
+                                        "y":  2277,
+                                        "height":  14,
+                                        "width":  66,
+                                        "text":  "replaced",
+                                        "x":  210
+                                    },
+                                    {
+                                        "y":  2279,
+                                        "height":  13,
+                                        "width":  42,
+                                        "text":  "every",
+                                        "x":  281
+                                    },
+                                    {
+                                        "y":  2277,
+                                        "height":  11,
+                                        "width":  9,
+                                        "text":  "5",
+                                        "x":  328
+                                    },
+                                    {
+                                        "y":  2279,
+                                        "height":  13,
+                                        "width":  43,
+                                        "text":  "years",
+                                        "x":  342
+                                    },
+                                    {
+                                        "y":  2277,
+                                        "height":  14,
+                                        "width":  48,
+                                        "text":  "during",
+                                        "x":  390
+                                    },
+                                    {
+                                        "y":  2277,
+                                        "height":  11,
+                                        "width":  24,
+                                        "text":  "the",
+                                        "x":  442
+                                    },
+                                    {
+                                        "y":  2277,
+                                        "height":  15,
+                                        "width":  60,
+                                        "text":  "periodic",
+                                        "x":  472
+                                    },
+                                    {
+                                        "y":  2277,
+                                        "height":  15,
+                                        "width":  84,
+                                        "text":  "hydrostatic",
+                                        "x":  537
+                                    },
+                                    {
+                                        "y":  2277,
+                                        "height":  11,
+                                        "width":  28,
+                                        "text":  "test",
+                                        "x":  625
+                                    },
+                                    {
+                                        "y":  2277,
+                                        "height":  11,
+                                        "width":  29,
+                                        "text":  "and",
+                                        "x":  659
+                                    },
+                                    {
+                                        "y":  2277,
+                                        "height":  11,
+                                        "width":  24,
+                                        "text":  "the",
+                                        "x":  692
+                                    },
+                                    {
+                                        "y":  2277,
+                                        "height":  11,
+                                        "width":  71,
+                                        "text":  "teardowm",
+                                        "x":  721
+                                    },
+                                    {
+                                        "y":  2277,
+                                        "height":  11,
+                                        "width":  12,
+                                        "text":  "is",
+                                        "x":  798
+                                    },
+                                    {
+                                        "y":  2277,
+                                        "height":  11,
+                                        "width":  39,
+                                        "text":  "done",
+                                        "x":  815
+                                    },
+                                    {
+                                        "y":  2277,
+                                        "height":  11,
+                                        "width":  14,
+                                        "text":  "at",
+                                        "x":  858
+                                    },
+                                    {
+                                        "y":  2277,
+                                        "height":  11,
+                                        "width":  29,
+                                        "text":  "that",
+                                        "x":  877
+                                    },
+                                    {
+                                        "y":  2277,
+                                        "height":  11,
+                                        "width":  36,
+                                        "text":  "time.",
+                                        "x":  911
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Source Table 7.3.1.1.2, NFPA IO-Standard for Portable Fire Extinguishers, 2007 Edition.",
+                      "words":  [
+                                    {
+                                        "y":  2309,
+                                        "height":  13,
+                                        "width":  65,
+                                        "text":  "Source",
+                                        "x":  72
+                                    },
+                                    {
+                                        "y":  2309,
+                                        "height":  13,
+                                        "width":  50,
+                                        "text":  "Table",
+                                        "x":  144
+                                    },
+                                    {
+                                        "y":  2309,
+                                        "height":  16,
+                                        "width":  90,
+                                        "text":  "7.3.1.1.2,",
+                                        "x":  201
+                                    },
+                                    {
+                                        "y":  2309,
+                                        "height":  13,
+                                        "width":  52,
+                                        "text":  "NFPA",
+                                        "x":  300
+                                    },
+                                    {
+                                        "y":  2309,
+                                        "height":  13,
+                                        "width":  114,
+                                        "text":  "IO-Standard",
+                                        "x":  358
+                                    },
+                                    {
+                                        "y":  2309,
+                                        "height":  13,
+                                        "width":  28,
+                                        "text":  "for",
+                                        "x":  479
+                                    },
+                                    {
+                                        "y":  2309,
+                                        "height":  13,
+                                        "width":  78,
+                                        "text":  "Portable",
+                                        "x":  514
+                                    },
+                                    {
+                                        "y":  2309,
+                                        "height":  13,
+                                        "width":  35,
+                                        "text":  "Fire",
+                                        "x":  600
+                                    },
+                                    {
+                                        "y":  2309,
+                                        "height":  16,
+                                        "width":  129,
+                                        "text":  "Extinguishers,",
+                                        "x":  643
+                                    },
+                                    {
+                                        "y":  2309,
+                                        "height":  13,
+                                        "width":  47,
+                                        "text":  "2007",
+                                        "x":  779
+                                    },
+                                    {
+                                        "y":  2309,
+                                        "height":  13,
+                                        "width":  68,
+                                        "text":  "Edition.",
+                                        "x":  834
+                                    }
+                                ]
+                  }
+              ],
+    "engine":  "Windows.Media.Ocr",
+    "language":  "en-US",
+    "text":  "Portable Fire Extinguishers are regulated by the Department of Trade and Industry (DTI) through its Bureau of Products Standards (BPS) PARTS: hose marking for hazard application c nozzle INSTRUCTIONS handle pressure gauge tank There are 4 types of fire extinguishers available in the coun- try. To be sure of product safety and reliability, each type must comply with the appropriate Philippine National Standards (PNS). Drv Chemical Pfis 15-1:1989 Carbon Dioxide PNS 15-3:1991 Maintenance Involving Internal Examination of Fire Extinguisher Extinguisher Type Carbon dioxide Internal Examination Interval (years) 5 5 6 6 Foam PNS 15-4:1991 Halon Substitute PNS 15-5:1996 This productis one critical products that are required to undergo product wification under the BPS Product Cetification Scheme. The list is downloadable at htp//www.bpsdigov.ph I-Jnder this scheme, the manufacturers and importers of these products are required to apply from the BPS for the: Dry chemical stored-pressure, with mild steel shells Halogenated agents Dry powder, stored-pressure, with mild steel shells AFFF (Aqueous Film-Forming Foam) Philippine Standard (PS) License (for manufacturers) or the Import Commodity Clearance (ICC) Certificate for im rters Their products are subjected to tests based on the requirements of relevant PNS at the BPS Testing Center or DTI-accredited testing laboratories. ICC The agent in liquid charged-type AFF and FFFP extinguishers is replaced every 3 years and an irnernal examination (teardown) is normally conducted at that time. The agent in soid charged-type AFFF e*inguishers is replaced every 5 years during the periodic hydrostatic test and the teardowm is done at that time. Source Table 7.3.1.1.2, NFPA IO-Standard for Portable Fire Extinguishers, 2007 Edition."
+}

@@ -1,0 +1,40 @@
+{
+  "status": "PROVISIONAL_DEVELOPMENT_NORMALIZATION_FIDELITY",
+  "cases": 24,
+  "automatic_checks_passed": 21,
+  "failed_ids": [
+    "NF-01",
+    "NF-11",
+    "NF-12"
+  ],
+  "english_exact_preservation": {
+    "matched": 2,
+    "tested": 9
+  },
+  "by_language": {
+    "Bislish": {
+      "cases": 6,
+      "checks_passed": 5
+    },
+    "English": {
+      "cases": 9,
+      "checks_passed": 8
+    },
+    "Mixed": {
+      "cases": 3,
+      "checks_passed": 3
+    },
+    "Taglish": {
+      "cases": 6,
+      "checks_passed": 5
+    }
+  },
+  "human_translation_review": "pending",
+  "runtime_changed": false,
+  "held_out_accessed": false,
+  "limits": [
+    "Automatic concept checks cannot establish semantic fidelity or correct negation scope.",
+    "Reference translations are assistant-authored development fixtures, not human-approved ground truth.",
+    "No formal multilingual benchmark scores are claimed."
+  ]
+}

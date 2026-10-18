@@ -1,0 +1,171 @@
+{
+  "status": "PASS",
+  "benchmark_accessed": false,
+  "purpose": "Technical smoke check only; no retrieval accuracy claim",
+  "mixed_indices_rejected": true,
+  "recomputed_vector_rows": [
+    0,
+    1,
+    100,
+    400,
+    800,
+    1041
+  ],
+  "max_vector_difference": 0.0,
+  "retrieval_checks": [
+    {
+      "top_k": 3,
+      "candidate_count": 1042,
+      "weights": {
+        "alpha_bm25": 0.4,
+        "beta_dense": 0.6,
+        "gamma_dict": 0.0
+      },
+      "source_chunk_ids": [
+        "DEV120-OCBO-PDF0013-C001",
+        "DEV120-BFP-PDF0001-C020",
+        "DEV120-BB-PDF0006-C003"
+      ],
+      "ranked_chunks": [
+        {
+          "rank": 1,
+          "chunk_id": "DEV120-OCBO-PDF0013-C001",
+          "final_score": 0.8967590476331002,
+          "raw_scores": {
+            "bm25": 7.354964844473961,
+            "dense": 0.5769261717796326,
+            "dictionary": 1.0
+          },
+          "normalized_scores": {
+            "bm25": 0.8204343280649159,
+            "dense": 0.9476421940118898,
+            "dictionary": 1.0
+          }
+        },
+        {
+          "rank": 2,
+          "chunk_id": "DEV120-BFP-PDF0001-C020",
+          "final_score": 0.894903675425534,
+          "raw_scores": {
+            "bm25": 8.964720993356591,
+            "dense": 0.4919853210449219,
+            "dictionary": 0.0
+          },
+          "normalized_scores": {
+            "bm25": 1.0,
+            "dense": 0.8248394590425565,
+            "dictionary": 0.0
+          }
+        },
+        {
+          "rank": 3,
+          "chunk_id": "DEV120-BB-PDF0006-C003",
+          "final_score": 0.7802631667442823,
+          "raw_scores": {
+            "bm25": 5.258220750983274,
+            "dense": 0.5504801273345947,
+            "dictionary": 0.0
+          },
+          "normalized_scores": {
+            "bm25": 0.5865459454767123,
+            "dense": 0.9094079809226623,
+            "dictionary": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "top_k": 5,
+      "candidate_count": 1042,
+      "weights": {
+        "alpha_bm25": 0.4,
+        "beta_dense": 0.6,
+        "gamma_dict": 0.0
+      },
+      "source_chunk_ids": [
+        "DEV120-OCBO-PDF0013-C001",
+        "DEV120-BFP-PDF0001-C020",
+        "DEV120-BB-PDF0006-C003",
+        "DEV120-CPDO-PDF0066-C003",
+        "DEV120-OCBO-PDF0016-C001"
+      ],
+      "ranked_chunks": [
+        {
+          "rank": 1,
+          "chunk_id": "DEV120-OCBO-PDF0013-C001",
+          "final_score": 0.8967590476331002,
+          "raw_scores": {
+            "bm25": 7.354964844473961,
+            "dense": 0.5769261717796326,
+            "dictionary": 1.0
+          },
+          "normalized_scores": {
+            "bm25": 0.8204343280649159,
+            "dense": 0.9476421940118898,
+            "dictionary": 1.0
+          }
+        },
+        {
+          "rank": 2,
+          "chunk_id": "DEV120-BFP-PDF0001-C020",
+          "final_score": 0.894903675425534,
+          "raw_scores": {
+            "bm25": 8.964720993356591,
+            "dense": 0.4919853210449219,
+            "dictionary": 0.0
+          },
+          "normalized_scores": {
+            "bm25": 1.0,
+            "dense": 0.8248394590425565,
+            "dictionary": 0.0
+          }
+        },
+        {
+          "rank": 3,
+          "chunk_id": "DEV120-BB-PDF0006-C003",
+          "final_score": 0.7802631667442823,
+          "raw_scores": {
+            "bm25": 5.258220750983274,
+            "dense": 0.5504801273345947,
+            "dictionary": 0.0
+          },
+          "normalized_scores": {
+            "bm25": 0.5865459454767123,
+            "dense": 0.9094079809226623,
+            "dictionary": 0.0
+          }
+        },
+        {
+          "rank": 4,
+          "chunk_id": "DEV120-CPDO-PDF0066-C003",
+          "final_score": 0.7694008444097978,
+          "raw_scores": {
+            "bm25": 3.959556664221452,
+            "dense": 0.604758083820343,
+            "dictionary": 0.0
+          },
+          "normalized_scores": {
+            "bm25": 0.44168208549443166,
+            "dense": 0.9878800170200419,
+            "dictionary": 0.0
+          }
+        },
+        {
+          "rank": 5,
+          "chunk_id": "DEV120-OCBO-PDF0016-C001",
+          "final_score": 0.7657859538586209,
+          "raw_scores": {
+            "bm25": 6.075449798951594,
+            "dense": 0.4917543828487396,
+            "dictionary": 1.0
+          },
+          "normalized_scores": {
+            "bm25": 0.6777065123893844,
+            "dense": 0.8245055815047786,
+            "dictionary": 1.0
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "batch_generation": "8 paired development records archived; raw/normalized x K3/K5 x 2 questions",
+  "context_integrity": "Exact corpus text, source IDs, chunk ordering and K counts checked before generation",
+  "output_retention": "All 8 raw model answers retained, including wrong occupancy response",
+  "ranking_metrics": "72 per-query CSV rows from preceding paired retrieval run; Hit@K, MRR@K and complete evidence coverage",
+  "offline_ragas": {
+    "faithfulness": 1.0,
+    "context_precision": 0.99999999995,
+    "answer_relevancy": 0.5533439570809631,
+    "context_recall": 1.0,
+    "scope": "One chicken-fee answer only; smoke values, not system scores",
+    "context_recall_initial_failure": "Retained null and malformed judge JSON in t06-ragas-smoke-additional-v1",
+    "context_recall_retry": "Separate versioned explicit JSON schema instruction; no answer or reference edited"
+  },
+  "unit_and_integration_tests": 20,
+  "completion_scope": "Requested development batch/archive/RAGAS engineering smoke demonstrated; formal grouped multilingual development evaluation not performed",
+  "not_claimed": [
+    "Final T07 A/B/C evaluation",
+    "Human-certified full reference labels",
+    "Final corpus freeze",
+    "Production accuracy or independent-judge validation"
+  ],
+  "next_required_validation": "Use source-validated chunk references for the formal 30-group/90-query development cohort and run the agreed configurations; preserve held-out isolation. No need to perfect all diagnostic retrieval before testing harness.",
+  "held_out_accessed": false,
+  "app_defaults_changed": false,
+  "dictionary_changed": false,
+  "frozen": false,
+  "implementation": [
+    "scripts/batch_generate_development.py",
+    "scripts/score_development_ragas.py",
+    "src/development_retrieval_metrics.py"
+  ],
+  "limitations": [
+    "Same local Mistral model generates and judges; judge scores are not independent expert conclusions.",
+    "RAGAS 0.1.5 local compatibility verified in this environment; JSON failures recorded explicitly.",
+    "Provisional evidence fragments were used as smoke references."
+  ]
+}

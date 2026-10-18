@@ -1,0 +1,158 @@
+[
+  {
+    "original_start": 7834,
+    "original_end": 7905,
+    "source_text": "BFP FSEC\nApplication Form\n(DCN No. BFP-QSF-\nFSED-001 REV.02\n(08.24.20))",
+    "inserted_text": "\n[REPRESENTATION: Application-form cell spans: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION.]\n"
+  },
+  {
+    "original_start": 7906,
+    "original_end": 7976,
+    "source_text": "BFP FSIC Application Form (DCN No. BFP-QSF-FSED-002 REV.02 (08.24.20))",
+    "inserted_text": "\n[REPRESENTATION: Application-form cell spans: CERTIFICATE OF OCCUPANCY; NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST.]\n"
+  },
+  {
+    "original_start": 7999,
+    "original_end": 8030,
+    "source_text": "Unified Application Form (OSCP)",
+    "inserted_text": "\n[REPRESENTATION: Application-form cell spans: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION; CERTIFICATE OF OCCUPANCY.]\n"
+  },
+  {
+    "original_start": 8032,
+    "original_end": 8063,
+    "source_text": "Unified Application Form (BOSS)",
+    "inserted_text": "\n[REPRESENTATION: Application-form cell spans: NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST.]\n"
+  },
+  {
+    "original_start": 8156,
+    "original_end": 8181,
+    "source_text": "1)Architectural documents",
+    "inserted_text": "\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n"
+  },
+  {
+    "original_start": 8182,
+    "original_end": 8200,
+    "source_text": "2) Civil documents",
+    "inserted_text": "\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n"
+  },
+  {
+    "original_start": 8201,
+    "original_end": 8224,
+    "source_text": "3) Electrical documents",
+    "inserted_text": "\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n"
+  },
+  {
+    "original_start": 8225,
+    "original_end": 8248,
+    "source_text": "4) Mechanical documents",
+    "inserted_text": "\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n"
+  },
+  {
+    "original_start": 8249,
+    "original_end": 8270,
+    "source_text": "5) Plumbing documents",
+    "inserted_text": "\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n"
+  },
+  {
+    "original_start": 8271,
+    "original_end": 8295,
+    "source_text": "6) Electronics documents",
+    "inserted_text": "\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n"
+  },
+  {
+    "original_start": 8296,
+    "original_end": 8317,
+    "source_text": "7) Sanitary documents",
+    "inserted_text": "\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n"
+  },
+  {
+    "original_start": 8318,
+    "original_end": 8346,
+    "source_text": "8) Fire Protection documents",
+    "inserted_text": "\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n"
+  },
+  {
+    "original_start": 8484,
+    "original_end": 8553,
+    "source_text": "As-built plan together with the building permit (If there is changes/",
+    "inserted_text": "\n[REPRESENTATION: Matrix dot shown for: CERTIFICATE OF OCCUPANCY; NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST. Other service cells are blank in source; blank is not an exemption statement.]\n"
+  },
+  {
+    "original_start": 8554,
+    "original_end": 8584,
+    "source_text": "Copy of Fire Insurance, if any",
+    "inserted_text": "\n[REPRESENTATION: Matrix dot shown for: NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST. Other service cells are blank in source; blank is not an exemption statement.]\n"
+  },
+  {
+    "original_start": 8585,
+    "original_end": 8706,
+    "source_text": "One (1) set of the estimate value of the building/structure or facilities (materials \nand   labor cost) signed and sealed",
+    "inserted_text": "\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n"
+  },
+  {
+    "original_start": 8707,
+    "original_end": 8775,
+    "source_text": "Copy of valid PRC Professional License of all involved professionals",
+    "inserted_text": "\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n"
+  },
+  {
+    "original_start": 8776,
+    "original_end": 8830,
+    "source_text": "Endorsement from the Office of Building Official (OBO)",
+    "inserted_text": "\n[REPRESENTATION: Matrix dot shown for: CERTIFICATE OF OCCUPANCY. Other service cells are blank in source; blank is not an exemption statement.]\n"
+  },
+  {
+    "original_start": 8831,
+    "original_end": 8856,
+    "source_text": "Certificate of Completion",
+    "inserted_text": "\n[REPRESENTATION: Matrix dot shown for: CERTIFICATE OF OCCUPANCY. Other service cells are blank in source; blank is not an exemption statement.]\n"
+  },
+  {
+    "original_start": 8857,
+    "original_end": 8950,
+    "source_text": "Certified true copy of assessment fee for securing Certificate of         \nOccupancy from OBO",
+    "inserted_text": "\n[REPRESENTATION: Matrix dot shown for: CERTIFICATE OF OCCUPANCY. Other service cells are blank in source; blank is not an exemption statement.]\n"
+  },
+  {
+    "original_start": 8951,
+    "original_end": 9004,
+    "source_text": "Certified True Copy of Valid Certificate of Occupancy",
+    "inserted_text": "\n[REPRESENTATION: Matrix dot shown for: NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE. Other service cells are blank in source; blank is not an exemption statement.]\n"
+  },
+  {
+    "original_start": 9005,
+    "original_end": 9126,
+    "source_text": "Assessment of Business Permit Fee/ Tax Assessment Bill from              \nBusiness Processing and Licensing Office (BPLO)",
+    "inserted_text": "\n[REPRESENTATION: Matrix dot shown for: NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST. Other service cells are blank in source; blank is not an exemption statement.]\n"
+  },
+  {
+    "original_start": 9183,
+    "original_end": 9228,
+    "source_text": "Fire Safety Compliance Report (FSCR) NOTE (1)",
+    "inserted_text": "\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n"
+  },
+  {
+    "original_start": 9229,
+    "original_end": 9295,
+    "source_text": "Fire Safety Compliance and Commissioning   Report (FSCCR) NOTE (2)",
+    "inserted_text": "\n[REPRESENTATION: Matrix dot shown for: CERTIFICATE OF OCCUPANCY. Other service cells are blank in source; blank is not an exemption statement.]\n"
+  },
+  {
+    "original_start": 9296,
+    "original_end": 9342,
+    "source_text": "Fire Safety Maintenance Report (FSMR) NOTE (3)",
+    "inserted_text": "\n[REPRESENTATION: Matrix dot shown for: NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST. Other service cells are blank in source; blank is not an exemption statement.]\n"
+  },
+  {
+    "original_start": 9724,
+    "original_end": 9934,
+    "source_text": "1) \nPer \nProject \nDuration \n– \nfor \nnew \nconstruction \nor \nrenovation\n(during construction) This clearance should be applied during                      \nconstruction after the conduct of fire safety inspection",
+    "inserted_text": "\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n"
+  },
+  {
+    "original_start": 9935,
+    "original_end": 10065,
+    "source_text": "2)  Annual – for business establishments requiring almost daily repair or\nmaintenance due to its nature of business or operations.",
+    "inserted_text": "\n[REPRESENTATION: Matrix dot shown for: RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST. Other service cells are blank in source; blank is not an exemption statement.]\n"
+  }
+]

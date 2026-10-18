@@ -1,0 +1,818 @@
+﻿{
+    "status":  "RAW_OCR_REQUIRES_VISUAL_REVIEW",
+    "lines":  [
+                  {
+                      "text":  "WARNING: BFP PERSONNEL ARE PROHIBITED FROM SELLING OR RECOMMENDING SPECIFIC BRAND OF FIRE EXTINGUISHER.",
+                      "words":  [
+                                    {
+                                        "y":  5,
+                                        "height":  23,
+                                        "width":  177,
+                                        "text":  "WARNING:",
+                                        "x":  21
+                                    },
+                                    {
+                                        "y":  5,
+                                        "height":  23,
+                                        "width":  66,
+                                        "text":  "BFP",
+                                        "x":  213
+                                    },
+                                    {
+                                        "y":  5,
+                                        "height":  23,
+                                        "width":  216,
+                                        "text":  "PERSONNEL",
+                                        "x":  292
+                                    },
+                                    {
+                                        "y":  5,
+                                        "height":  23,
+                                        "width":  72,
+                                        "text":  "ARE",
+                                        "x":  515
+                                    },
+                                    {
+                                        "y":  5,
+                                        "height":  23,
+                                        "width":  214,
+                                        "text":  "PROHIBITED",
+                                        "x":  602
+                                    },
+                                    {
+                                        "y":  5,
+                                        "height":  23,
+                                        "width":  99,
+                                        "text":  "FROM",
+                                        "x":  830
+                                    },
+                                    {
+                                        "y":  5,
+                                        "height":  23,
+                                        "width":  148,
+                                        "text":  "SELLING",
+                                        "x":  943
+                                    },
+                                    {
+                                        "y":  5,
+                                        "height":  23,
+                                        "width":  51,
+                                        "text":  "OR",
+                                        "x":  1104
+                                    },
+                                    {
+                                        "y":  5,
+                                        "height":  23,
+                                        "width":  296,
+                                        "text":  "RECOMMENDING",
+                                        "x":  1168
+                                    },
+                                    {
+                                        "y":  5,
+                                        "height":  23,
+                                        "width":  162,
+                                        "text":  "SPECIFIC",
+                                        "x":  1477
+                                    },
+                                    {
+                                        "y":  5,
+                                        "height":  23,
+                                        "width":  121,
+                                        "text":  "BRAND",
+                                        "x":  1653
+                                    },
+                                    {
+                                        "y":  5,
+                                        "height":  23,
+                                        "width":  47,
+                                        "text":  "OF",
+                                        "x":  1786
+                                    },
+                                    {
+                                        "y":  5,
+                                        "height":  23,
+                                        "width":  77,
+                                        "text":  "FIRE",
+                                        "x":  1847
+                                    },
+                                    {
+                                        "y":  5,
+                                        "height":  23,
+                                        "width":  271,
+                                        "text":  "EXTINGUISHER.",
+                                        "x":  1939
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "REPORT SUCH IRREGULARITY AT THE FOLLOWING CONTACT NUMBERS:",
+                      "words":  [
+                                    {
+                                        "y":  40,
+                                        "height":  23,
+                                        "width":  145,
+                                        "text":  "REPORT",
+                                        "x":  217
+                                    },
+                                    {
+                                        "y":  40,
+                                        "height":  23,
+                                        "width":  97,
+                                        "text":  "SUCH",
+                                        "x":  373
+                                    },
+                                    {
+                                        "y":  40,
+                                        "height":  23,
+                                        "width":  261,
+                                        "text":  "IRREGULARITY",
+                                        "x":  485
+                                    },
+                                    {
+                                        "y":  41,
+                                        "height":  22,
+                                        "width":  44,
+                                        "text":  "AT",
+                                        "x":  752
+                                    },
+                                    {
+                                        "y":  41,
+                                        "height":  22,
+                                        "width":  70,
+                                        "text":  "THE",
+                                        "x":  805
+                                    },
+                                    {
+                                        "y":  40,
+                                        "height":  23,
+                                        "width":  209,
+                                        "text":  "FOLLOWING",
+                                        "x":  889
+                                    },
+                                    {
+                                        "y":  40,
+                                        "height":  23,
+                                        "width":  168,
+                                        "text":  "CONTACT",
+                                        "x":  1111
+                                    },
+                                    {
+                                        "y":  40,
+                                        "height":  23,
+                                        "width":  182,
+                                        "text":  "NUMBERS:",
+                                        "x":  1291
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "OFFICE OF THE CHIEF, BFP",
+                      "words":  [
+                                    {
+                                        "y":  111,
+                                        "height":  23,
+                                        "width":  128,
+                                        "text":  "OFFICE",
+                                        "x":  22
+                                    },
+                                    {
+                                        "y":  111,
+                                        "height":  23,
+                                        "width":  47,
+                                        "text":  "OF",
+                                        "x":  163
+                                    },
+                                    {
+                                        "y":  111,
+                                        "height":  23,
+                                        "width":  69,
+                                        "text":  "THE",
+                                        "x":  221
+                                    },
+                                    {
+                                        "y":  111,
+                                        "height":  28,
+                                        "width":  109,
+                                        "text":  "CHIEF,",
+                                        "x":  303
+                                    },
+                                    {
+                                        "y":  112,
+                                        "height":  22,
+                                        "width":  66,
+                                        "text":  "BFP",
+                                        "x":  428
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Direct line 426-43-99 Trunk line 426-02-19/426-02-46",
+                      "words":  [
+                                    {
+                                        "y":  147,
+                                        "height":  22,
+                                        "width":  86,
+                                        "text":  "Direct",
+                                        "x":  24
+                                    },
+                                    {
+                                        "y":  147,
+                                        "height":  22,
+                                        "width":  49,
+                                        "text":  "line",
+                                        "x":  121
+                                    },
+                                    {
+                                        "y":  147,
+                                        "height":  22,
+                                        "width":  154,
+                                        "text":  "426-43-99",
+                                        "x":  181
+                                    },
+                                    {
+                                        "y":  147,
+                                        "height":  22,
+                                        "width":  86,
+                                        "text":  "Trunk",
+                                        "x":  353
+                                    },
+                                    {
+                                        "y":  147,
+                                        "height":  22,
+                                        "width":  49,
+                                        "text":  "line",
+                                        "x":  451
+                                    },
+                                    {
+                                        "y":  147,
+                                        "height":  22,
+                                        "width":  318,
+                                        "text":  "426-02-19/426-02-46",
+                                        "x":  510
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "OFFICE OF THE DIRECTORATE FOR FIRE SAFETY AND PREVENTION",
+                      "words":  [
+                                    {
+                                        "y":  111,
+                                        "height":  23,
+                                        "width":  128,
+                                        "text":  "OFFICE",
+                                        "x":  1270
+                                    },
+                                    {
+                                        "y":  111,
+                                        "height":  23,
+                                        "width":  48,
+                                        "text":  "OF",
+                                        "x":  1410
+                                    },
+                                    {
+                                        "y":  111,
+                                        "height":  23,
+                                        "width":  70,
+                                        "text":  "THE",
+                                        "x":  1468
+                                    },
+                                    {
+                                        "y":  111,
+                                        "height":  23,
+                                        "width":  247,
+                                        "text":  "DIRECTORATE",
+                                        "x":  1559
+                                    },
+                                    {
+                                        "y":  111,
+                                        "height":  23,
+                                        "width":  72,
+                                        "text":  "FOR",
+                                        "x":  1821
+                                    },
+                                    {
+                                        "y":  111,
+                                        "height":  23,
+                                        "width":  77,
+                                        "text":  "FIRE",
+                                        "x":  1906
+                                    },
+                                    {
+                                        "y":  111,
+                                        "height":  23,
+                                        "width":  138,
+                                        "text":  "SAFETY",
+                                        "x":  1996
+                                    },
+                                    {
+                                        "y":  112,
+                                        "height":  22,
+                                        "width":  75,
+                                        "text":  "AND",
+                                        "x":  2140
+                                    },
+                                    {
+                                        "y":  111,
+                                        "height":  23,
+                                        "width":  226,
+                                        "text":  "PREVENTION",
+                                        "x":  2229
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Direct line 426-93-10 Trunk line 426-02-19/426-02-46 Local 404",
+                      "words":  [
+                                    {
+                                        "y":  147,
+                                        "height":  22,
+                                        "width":  86,
+                                        "text":  "Direct",
+                                        "x":  1271
+                                    },
+                                    {
+                                        "y":  147,
+                                        "height":  22,
+                                        "width":  50,
+                                        "text":  "line",
+                                        "x":  1368
+                                    },
+                                    {
+                                        "y":  147,
+                                        "height":  22,
+                                        "width":  153,
+                                        "text":  "426-93-10",
+                                        "x":  1429
+                                    },
+                                    {
+                                        "y":  147,
+                                        "height":  22,
+                                        "width":  85,
+                                        "text":  "Trunk",
+                                        "x":  1611
+                                    },
+                                    {
+                                        "y":  147,
+                                        "height":  22,
+                                        "width":  50,
+                                        "text":  "line",
+                                        "x":  1707
+                                    },
+                                    {
+                                        "y":  147,
+                                        "height":  22,
+                                        "width":  318,
+                                        "text":  "426-02-19/426-02-46",
+                                        "x":  1767
+                                    },
+                                    {
+                                        "y":  147,
+                                        "height":  22,
+                                        "width":  77,
+                                        "text":  "Local",
+                                        "x":  2120
+                                    },
+                                    {
+                                        "y":  147,
+                                        "height":  22,
+                                        "width":  56,
+                                        "text":  "404",
+                                        "x":  2208
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Local 701",
+                      "words":  [
+                                    {
+                                        "y":  147,
+                                        "height":  22,
+                                        "width":  78,
+                                        "text":  "Local",
+                                        "x":  850
+                                    },
+                                    {
+                                        "y":  147,
+                                        "height":  22,
+                                        "width":  49,
+                                        "text":  "701",
+                                        "x":  940
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "WA S",
+                      "words":  [
+                                    {
+                                        "y":  201,
+                                        "height":  15,
+                                        "width":  53,
+                                        "text":  "WA",
+                                        "x":  847
+                                    },
+                                    {
+                                        "y":  201,
+                                        "height":  15,
+                                        "width":  19,
+                                        "text":  "S",
+                                        "x":  904
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "1.",
+                      "words":  [
+                                    {
+                                        "y":  200,
+                                        "height":  16,
+                                        "width":  25,
+                                        "text":  "1.",
+                                        "x":  41
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "2.",
+                      "words":  [
+                                    {
+                                        "y":  225,
+                                        "height":  15,
+                                        "width":  27,
+                                        "text":  "2.",
+                                        "x":  39
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "a).",
+                      "words":  [
+                                    {
+                                        "y":  271,
+                                        "height":  18,
+                                        "width":  38,
+                                        "text":  "a).",
+                                        "x":  39
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "RECHARGE FIRE EXTINGUISHER WHEN IT",
+                      "words":  [
+                                    {
+                                        "y":  201,
+                                        "height":  15,
+                                        "width":  197,
+                                        "text":  "RECHARGE",
+                                        "x":  85
+                                    },
+                                    {
+                                        "y":  201,
+                                        "height":  15,
+                                        "width":  78,
+                                        "text":  "FIRE",
+                                        "x":  300
+                                    },
+                                    {
+                                        "y":  201,
+                                        "height":  15,
+                                        "width":  268,
+                                        "text":  "EXTINGUISHER",
+                                        "x":  397
+                                    },
+                                    {
+                                        "y":  201,
+                                        "height":  15,
+                                        "width":  104,
+                                        "text":  "WHEN",
+                                        "x":  681
+                                    },
+                                    {
+                                        "y":  200,
+                                        "height":  16,
+                                        "width":  29,
+                                        "text":  "IT",
+                                        "x":  803
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "RECONDITION FIRE EXTINGUISHER WHEN:",
+                      "words":  [
+                                    {
+                                        "y":  225,
+                                        "height":  15,
+                                        "width":  249,
+                                        "text":  "RECONDITION",
+                                        "x":  87
+                                    },
+                                    {
+                                        "y":  225,
+                                        "height":  15,
+                                        "width":  79,
+                                        "text":  "FIRE",
+                                        "x":  354
+                                    },
+                                    {
+                                        "y":  225,
+                                        "height":  15,
+                                        "width":  269,
+                                        "text":  "EXTINGUISHER",
+                                        "x":  451
+                                    },
+                                    {
+                                        "y":  225,
+                                        "height":  15,
+                                        "width":  115,
+                                        "text":  "WHEN:",
+                                        "x":  735
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "The pressure gauge indicates Iow pressure.",
+                      "words":  [
+                                    {
+                                        "y":  271,
+                                        "height":  14,
+                                        "width":  57,
+                                        "text":  "The",
+                                        "x":  94
+                                    },
+                                    {
+                                        "y":  274,
+                                        "height":  15,
+                                        "width":  137,
+                                        "text":  "pressure",
+                                        "x":  167
+                                    },
+                                    {
+                                        "y":  274,
+                                        "height":  15,
+                                        "width":  95,
+                                        "text":  "gauge",
+                                        "x":  319
+                                    },
+                                    {
+                                        "y":  271,
+                                        "height":  14,
+                                        "width":  142,
+                                        "text":  "indicates",
+                                        "x":  430
+                                    },
+                                    {
+                                        "y":  271,
+                                        "height":  14,
+                                        "width":  51,
+                                        "text":  "Iow",
+                                        "x":  588
+                                    },
+                                    {
+                                        "y":  274,
+                                        "height":  15,
+                                        "width":  146,
+                                        "text":  "pressure.",
+                                        "x":  654
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "USED.",
+                      "words":  [
+                                    {
+                                        "y":  201,
+                                        "height":  15,
+                                        "width":  105,
+                                        "text":  "USED.",
+                                        "x":  941
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "The need is obvious or as recommended by a competent servicing",
+                      "words":  [
+                                    {
+                                        "y":  304,
+                                        "height":  14,
+                                        "width":  57,
+                                        "text":  "The",
+                                        "x":  94
+                                    },
+                                    {
+                                        "y":  304,
+                                        "height":  15,
+                                        "width":  73,
+                                        "text":  "need",
+                                        "x":  167
+                                    },
+                                    {
+                                        "y":  304,
+                                        "height":  14,
+                                        "width":  23,
+                                        "text":  "is",
+                                        "x":  258
+                                    },
+                                    {
+                                        "y":  304,
+                                        "height":  14,
+                                        "width":  122,
+                                        "text":  "obvious",
+                                        "x":  296
+                                    },
+                                    {
+                                        "y":  307,
+                                        "height":  12,
+                                        "width":  30,
+                                        "text":  "or",
+                                        "x":  433
+                                    },
+                                    {
+                                        "y":  307,
+                                        "height":  11,
+                                        "width":  34,
+                                        "text":  "as",
+                                        "x":  477
+                                    },
+                                    {
+                                        "y":  304,
+                                        "height":  15,
+                                        "width":  219,
+                                        "text":  "recommended",
+                                        "x":  528
+                                    },
+                                    {
+                                        "y":  304,
+                                        "height":  18,
+                                        "width":  33,
+                                        "text":  "by",
+                                        "x":  764
+                                    },
+                                    {
+                                        "y":  307,
+                                        "height":  11,
+                                        "width":  16,
+                                        "text":  "a",
+                                        "x":  812
+                                    },
+                                    {
+                                        "y":  304,
+                                        "height":  18,
+                                        "width":  165,
+                                        "text":  "competent",
+                                        "x":  843
+                                    },
+                                    {
+                                        "y":  304,
+                                        "height":  18,
+                                        "width":  141,
+                                        "text":  "servicing",
+                                        "x":  1023
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "c).",
+                      "words":  [
+                                    {
+                                        "y":  271,
+                                        "height":  18,
+                                        "width":  37,
+                                        "text":  "c).",
+                                        "x":  1620
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "agent-",
+                      "words":  [
+                                    {
+                                        "y":  304,
+                                        "height":  18,
+                                        "width":  96,
+                                        "text":  "agent-",
+                                        "x":  1181
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "It is defective (such as hose",
+                      "words":  [
+                                    {
+                                        "y":  271,
+                                        "height":  14,
+                                        "width":  19,
+                                        "text":  "It",
+                                        "x":  1675
+                                    },
+                                    {
+                                        "y":  271,
+                                        "height":  14,
+                                        "width":  23,
+                                        "text":  "is",
+                                        "x":  1710
+                                    },
+                                    {
+                                        "y":  271,
+                                        "height":  14,
+                                        "width":  144,
+                                        "text":  "defective",
+                                        "x":  1748
+                                    },
+                                    {
+                                        "y":  271,
+                                        "height":  18,
+                                        "width":  83,
+                                        "text":  "(such",
+                                        "x":  1909
+                                    },
+                                    {
+                                        "y":  274,
+                                        "height":  11,
+                                        "width":  34,
+                                        "text":  "as",
+                                        "x":  2008
+                                    },
+                                    {
+                                        "y":  271,
+                                        "height":  14,
+                                        "width":  73,
+                                        "text":  "hose",
+                                        "x":  2058
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "corroded container, caking Of",
+                      "words":  [
+                                    {
+                                        "y":  304,
+                                        "height":  15,
+                                        "width":  138,
+                                        "text":  "corroded",
+                                        "x":  1662
+                                    },
+                                    {
+                                        "y":  304,
+                                        "height":  17,
+                                        "width":  156,
+                                        "text":  "container,",
+                                        "x":  1816
+                                    },
+                                    {
+                                        "y":  304,
+                                        "height":  18,
+                                        "width":  101,
+                                        "text":  "caking",
+                                        "x":  1989
+                                    },
+                                    {
+                                        "y":  304,
+                                        "height":  15,
+                                        "width":  30,
+                                        "text":  "Of",
+                                        "x":  2106
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "is broken,",
+                      "words":  [
+                                    {
+                                        "y":  271,
+                                        "height":  14,
+                                        "width":  24,
+                                        "text":  "is",
+                                        "x":  2147
+                                    },
+                                    {
+                                        "y":  271,
+                                        "height":  17,
+                                        "width":  115,
+                                        "text":  "broken,",
+                                        "x":  2187
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "the chemical)",
+                      "words":  [
+                                    {
+                                        "y":  304,
+                                        "height":  15,
+                                        "width":  48,
+                                        "text":  "the",
+                                        "x":  2148
+                                    },
+                                    {
+                                        "y":  304,
+                                        "height":  18,
+                                        "width":  152,
+                                        "text":  "chemical)",
+                                        "x":  2211
+                                    }
+                                ]
+                  }
+              ],
+    "engine":  "Windows.Media.Ocr",
+    "language":  "en-US",
+    "text":  "WARNING: BFP PERSONNEL ARE PROHIBITED FROM SELLING OR RECOMMENDING SPECIFIC BRAND OF FIRE EXTINGUISHER. REPORT SUCH IRREGULARITY AT THE FOLLOWING CONTACT NUMBERS: OFFICE OF THE CHIEF, BFP Direct line 426-43-99 Trunk line 426-02-19/426-02-46 OFFICE OF THE DIRECTORATE FOR FIRE SAFETY AND PREVENTION Direct line 426-93-10 Trunk line 426-02-19/426-02-46 Local 404 Local 701 WA S 1. 2. a). RECHARGE FIRE EXTINGUISHER WHEN IT RECONDITION FIRE EXTINGUISHER WHEN: The pressure gauge indicates Iow pressure. USED. The need is obvious or as recommended by a competent servicing c). agent- It is defective (such as hose corroded container, caking Of is broken, the chemical)"
+}

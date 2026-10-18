@@ -1,0 +1,22 @@
+{
+  "created_utc": "2026-10-18T22:56:50.229369+00:00",
+  "input_hashes": {
+    "D:\\thesis\\LGSDeliveryRAGAssistant-main\\experiments\\t06-formal-development-validation-v3\\summary.json": "27652583ef514a395422fd69e51b1810ba327201d8823efb5aec226c6c53cb56",
+    "D:\\thesis\\LGSDeliveryRAGAssistant-main\\experiments\\t06-formal-development-validation-v3\\validation.json": "e1f7eda729be0916406e9a7cd9a1f329961d65ee09dcb8afa1158d69a3c60211",
+    "D:\\thesis\\LGSDeliveryRAGAssistant-main\\experiments\\t06-formal-development-validation-v3\\methodology_and_tracker.json": "ee15440a4643968034d4a6451b999a4fadddb2399f6b882acd25943ff66d6281",
+    "D:\\thesis\\LGSDeliveryRAGAssistant-main\\experiments\\t06-ragas-90query-development-v1\\summary.json": "f10a10efdcafcb13de69419c1cbda88d4fc737fc0feec0c5c095205258512370",
+    "D:\\thesis\\LGSDeliveryRAGAssistant-main\\experiments\\t06-ragas-90query-development-v1\\scores.json": "89e776b2059231187b605d68047a7461eac52ed5fa83c4dfd0212aa47a65dabf",
+    "D:\\thesis\\LGSDeliveryRAGAssistant-main\\experiments\\t06-ragas-90query-development-v1\\verification.json": "b264b5acb1f88cec36e80c4ce306d8481ee2287174cca278f538069e53b24d9f",
+    "D:\\thesis\\LGSDeliveryRAGAssistant-main\\experiments\\t06-ragas-90query-development-v1\\protocol.json": "a468deca5deaf2cb1c994bc54c705ccf9d698f0acd2e8b52b36c1d45064cd1b4",
+    "D:\\thesis\\LGSDeliveryRAGAssistant-main\\experiments\\t06-ragas-90query-development-v1\\runtime_identity.json": "7b4f77383fc6278f32d1aa418d56baaa434606818d2df25d7ed2c6c3a9e2c34a"
+  },
+  "output_hashes": {
+    "methodology_and_tracker.snapshot.json": "ee15440a4643968034d4a6451b999a4fadddb2399f6b882acd25943ff66d6281",
+    "metrics.csv": "d15c16552354d0e1b319f6323a64e3d307247a97925bd76aecfdd0b31f7a1d93",
+    "remaining_work.json": "8f642905fb7fc6652d4bbb4f62e240a02aa8e5e2ddff7f7caa69e1dea1e7d06d",
+    "T06_VALIDATION_REPORT.txt": "023cd8471d1beae7690860e0024e7a62381c0a34d6f5e2321ecf37995449535d",
+    "validation_report.json": "6c0c53750a4b6eb5071bf5042d42cb0b5472a12ce122392593f1f2c659569981"
+  },
+  "held_out_accessed": false,
+  "no_model_inference": true
+}

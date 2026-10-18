@@ -1,0 +1,20 @@
+{
+  "question": [
+    "Ano ang mga requirements para makakuha ng Occupancy Permit kapag tapos na ang construction ng building?"
+  ],
+  "answer": [
+    "To obtain an Occupancy Permit after the construction of a building, the following requirements must be submitted:\n\n1. Application Letter (1 original) [S1]\n\nThe Occupancy Permit application letter should be notarized if the applicant is not the owner [S4].\n\n2. Civil/Architectural Plans (3 sets)\n   - For Excavation Permit [S2]\n   - For Sidewalk Enclosure and Occupancy Permit [S3]\n   - For Pavement Permit (if applicable) [S5]\n\nThese requirements should be submitted to the Office of the City Building Official (OCBO)."
+  ],
+  "contexts": [
+    [
+      "2. Issuance of Occupancy Permit \nAn Occupancy Permit shall be required before any building or structure or portion thereof is used \nor occupied, or the existing use or occupancy classification thereof is changed. \nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; G2G \n– Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Application Letter  \n   1 original",
+      "6. Issuance of Excavation Permit\nAn Excavation Permit shall be required prior to the commencement of excavation of the proposed \nproject and construction. \nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to \nBusiness; G2G – Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Excavation Permit form with 3 sets of \nCivil/Architectural Plans",
+      "8. Issuance of Sidewalk Enclosure and Occupancy Permit\nA Sidewalk Enclosure and Occupancy Permit shall be required prior to or during the processing of \nthe building permit or before any enclosure shall be made.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to \nBusiness; G2G – Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1.     Sidewalk Enclosure",
+      "1. Issuance of Building Permit\nA Building Permit shall be required before any building or structure is erected, constructed, altered, \nrepaired, moved, converted, or demolished.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; G2G – \nGovernment to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1.  Notarized Application Letter \nOwner/Applicant\n2.  No",
+      "7. Issuance of Pavement Permit\nA Pavement Permit shall be required prior to or during the processing of the building permit and prior \nto the commencement of the proposed project and construction.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; \nG2G – Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Pavement Permit form with 3 sets of \nCivil/Arch"
+    ]
+  ],
+  "ground_truth": [
+    "Before any building can be used or occupied, an Occupancy Permit must be secured from OCBO. Documentary requirements are: 1) Application Letter; 2) Duly accomplished Certificate of Occupancy (1 original) and Certificate of Completion (1 original); 3) Fire Safety Inspection Certificate (FSIC) from the BFP (1 original); 4) Project photographs showing four elevations (Front, Back, Left, Right); 5) Approved Building, Architectural, Structural, Sanitary, Electrical, and Mechanical Permits (1 photocopy); and 6) As-built plans if alterations were introduced."
+  ]
+}

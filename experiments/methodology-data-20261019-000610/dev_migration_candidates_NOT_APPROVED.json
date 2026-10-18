@@ -1,0 +1,1321 @@
+[
+  {
+    "group_id": "SCENARIO-BB-001",
+    "old_chunk_id": "CHUNK-BB-P041-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BB-PDF0002-M120-C0001",
+      "CHUNK-BB-PDF0002-M120-C0002",
+      "CHUNK-BB-PDF0002-M120-C0003",
+      "CHUNK-BB-PDF0002-M120-C0004",
+      "CHUNK-BB-PDF0002-M120-C0005"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BB-001",
+    "old_chunk_id": "CHUNK-BB-P041-C02",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BB-PDF0002-M120-C0001",
+      "CHUNK-BB-PDF0002-M120-C0002",
+      "CHUNK-BB-PDF0002-M120-C0003",
+      "CHUNK-BB-PDF0002-M120-C0004",
+      "CHUNK-BB-PDF0002-M120-C0005"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BB-001",
+    "old_chunk_id": "CHUNK-BB-P041-C03",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BB-PDF0002-M120-C0001",
+      "CHUNK-BB-PDF0002-M120-C0002",
+      "CHUNK-BB-PDF0002-M120-C0003",
+      "CHUNK-BB-PDF0002-M120-C0004",
+      "CHUNK-BB-PDF0002-M120-C0005"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BB-001",
+    "old_chunk_id": "CHUNK-BB-P042-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BB-PDF0003-M120-C0001",
+      "CHUNK-BB-PDF0003-M120-C0002",
+      "CHUNK-BB-PDF0003-M120-C0003",
+      "CHUNK-BB-PDF0003-M120-C0004",
+      "CHUNK-BB-PDF0003-M120-C0005"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BB-002",
+    "old_chunk_id": "CHUNK-BB-P042-C03",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BB-PDF0003-M120-C0001",
+      "CHUNK-BB-PDF0003-M120-C0002",
+      "CHUNK-BB-PDF0003-M120-C0003",
+      "CHUNK-BB-PDF0003-M120-C0004",
+      "CHUNK-BB-PDF0003-M120-C0005"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BB-002",
+    "old_chunk_id": "CHUNK-BB-P042-C04",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BB-PDF0003-M120-C0001",
+      "CHUNK-BB-PDF0003-M120-C0002",
+      "CHUNK-BB-PDF0003-M120-C0003",
+      "CHUNK-BB-PDF0003-M120-C0004",
+      "CHUNK-BB-PDF0003-M120-C0005"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BB-002",
+    "old_chunk_id": "CHUNK-BB-P043-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BB-PDF0004-M120-C0001",
+      "CHUNK-BB-PDF0004-M120-C0002",
+      "CHUNK-BB-PDF0004-M120-C0003",
+      "CHUNK-BB-PDF0004-M120-C0004"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BB-002",
+    "old_chunk_id": "CHUNK-BB-P078-C02",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BB-PDF0039-M120-C0001",
+      "CHUNK-BB-PDF0039-M120-C0002",
+      "CHUNK-BB-PDF0039-M120-C0003"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BB-003",
+    "old_chunk_id": "CHUNK-BB-P054-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BB-PDF0015-M120-C0001",
+      "CHUNK-BB-PDF0015-M120-C0002",
+      "CHUNK-BB-PDF0015-M120-C0003",
+      "CHUNK-BB-PDF0015-M120-C0004",
+      "CHUNK-BB-PDF0015-M120-C0005"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BB-003",
+    "old_chunk_id": "CHUNK-BB-P054-C02",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BB-PDF0015-M120-C0001",
+      "CHUNK-BB-PDF0015-M120-C0002",
+      "CHUNK-BB-PDF0015-M120-C0003",
+      "CHUNK-BB-PDF0015-M120-C0004",
+      "CHUNK-BB-PDF0015-M120-C0005"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BB-003",
+    "old_chunk_id": "CHUNK-BB-P055-C04",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BB-PDF0016-M120-C0001",
+      "CHUNK-BB-PDF0016-M120-C0002",
+      "CHUNK-BB-PDF0016-M120-C0003",
+      "CHUNK-BB-PDF0016-M120-C0004",
+      "CHUNK-BB-PDF0016-M120-C0005"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BB-003",
+    "old_chunk_id": "CHUNK-BB-P056-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BB-PDF0017-M120-C0001",
+      "CHUNK-BB-PDF0017-M120-C0002",
+      "CHUNK-BB-PDF0017-M120-C0003",
+      "CHUNK-BB-PDF0017-M120-C0004",
+      "CHUNK-BB-PDF0017-M120-C0005"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BB-004",
+    "old_chunk_id": "CHUNK-BB-P104-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BB-PDF0065-M120-C0001",
+      "CHUNK-BB-PDF0065-M120-C0002",
+      "CHUNK-BB-PDF0065-M120-C0003",
+      "CHUNK-BB-PDF0065-M120-C0004",
+      "CHUNK-BB-PDF0065-M120-C0005"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BB-004",
+    "old_chunk_id": "CHUNK-BB-P104-C03",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BB-PDF0065-M120-C0001",
+      "CHUNK-BB-PDF0065-M120-C0002",
+      "CHUNK-BB-PDF0065-M120-C0003",
+      "CHUNK-BB-PDF0065-M120-C0004",
+      "CHUNK-BB-PDF0065-M120-C0005"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BB-004",
+    "old_chunk_id": "CHUNK-BB-P104-C05",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BB-PDF0065-M120-C0001",
+      "CHUNK-BB-PDF0065-M120-C0002",
+      "CHUNK-BB-PDF0065-M120-C0003",
+      "CHUNK-BB-PDF0065-M120-C0004",
+      "CHUNK-BB-PDF0065-M120-C0005"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BB-004",
+    "old_chunk_id": "CHUNK-BB-P106-C03",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BB-PDF0067-M120-C0001",
+      "CHUNK-BB-PDF0067-M120-C0002",
+      "CHUNK-BB-PDF0067-M120-C0003"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BB-005",
+    "old_chunk_id": "CHUNK-BB-P111-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BB-PDF0072-M120-C0001",
+      "CHUNK-BB-PDF0072-M120-C0002",
+      "CHUNK-BB-PDF0072-M120-C0003",
+      "CHUNK-BB-PDF0072-M120-C0004"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BB-005",
+    "old_chunk_id": "CHUNK-BB-P111-C02",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BB-PDF0072-M120-C0001",
+      "CHUNK-BB-PDF0072-M120-C0002",
+      "CHUNK-BB-PDF0072-M120-C0003",
+      "CHUNK-BB-PDF0072-M120-C0004"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BB-005",
+    "old_chunk_id": "CHUNK-BB-P111-C04",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BB-PDF0072-M120-C0001",
+      "CHUNK-BB-PDF0072-M120-C0002",
+      "CHUNK-BB-PDF0072-M120-C0003",
+      "CHUNK-BB-PDF0072-M120-C0004"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BB-005",
+    "old_chunk_id": "CHUNK-BB-P114-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BB-PDF0075-M120-C0001"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BB-006",
+    "old_chunk_id": "CHUNK-BB-P118-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BB-PDF0079-M120-C0001",
+      "CHUNK-BB-PDF0079-M120-C0002",
+      "CHUNK-BB-PDF0079-M120-C0003",
+      "CHUNK-BB-PDF0079-M120-C0004"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BB-006",
+    "old_chunk_id": "CHUNK-BB-P118-C04",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BB-PDF0079-M120-C0001",
+      "CHUNK-BB-PDF0079-M120-C0002",
+      "CHUNK-BB-PDF0079-M120-C0003",
+      "CHUNK-BB-PDF0079-M120-C0004"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BB-006",
+    "old_chunk_id": "CHUNK-BB-P119-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BB-PDF0080-M120-C0001",
+      "CHUNK-BB-PDF0080-M120-C0002",
+      "CHUNK-BB-PDF0080-M120-C0003",
+      "CHUNK-BB-PDF0080-M120-C0004"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BB-006",
+    "old_chunk_id": "CHUNK-BB-P120-C02",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BB-PDF0081-M120-C0001",
+      "CHUNK-BB-PDF0081-M120-C0002",
+      "CHUNK-BB-PDF0081-M120-C0003",
+      "CHUNK-BB-PDF0081-M120-C0004"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CTO-001",
+    "old_chunk_id": "CHUNK-CTO-P185-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CTO-PDF0030-M120-C0001",
+      "CHUNK-CTO-PDF0030-M120-C0002",
+      "CHUNK-CTO-PDF0030-M120-C0003",
+      "CHUNK-CTO-PDF0030-M120-C0004",
+      "CHUNK-CTO-PDF0030-M120-C0005"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CTO-001",
+    "old_chunk_id": "CHUNK-CTO-P186-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CTO-PDF0020-M120-C0001",
+      "CHUNK-CTO-PDF0020-M120-C0002",
+      "CHUNK-CTO-PDF0020-M120-C0003",
+      "CHUNK-CTO-PDF0020-M120-C0004"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CTO-001",
+    "old_chunk_id": "CHUNK-CTO-P186-C02",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CTO-PDF0020-M120-C0001",
+      "CHUNK-CTO-PDF0020-M120-C0002",
+      "CHUNK-CTO-PDF0020-M120-C0003",
+      "CHUNK-CTO-PDF0020-M120-C0004"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CTO-002",
+    "old_chunk_id": "CHUNK-CTO-P034-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CTO-PDF0010-M120-C0001",
+      "CHUNK-CTO-PDF0010-M120-C0002",
+      "CHUNK-CTO-PDF0010-M120-C0003",
+      "CHUNK-CTO-PDF0010-M120-C0004"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CTO-002",
+    "old_chunk_id": "CHUNK-CTO-P166-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CTO-PDF0011-M120-C0001",
+      "CHUNK-CTO-PDF0011-M120-C0002"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CTO-002",
+    "old_chunk_id": "CHUNK-CTO-P166-C02",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CTO-PDF0011-M120-C0001",
+      "CHUNK-CTO-PDF0011-M120-C0002"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CTO-003",
+    "old_chunk_id": "CHUNK-CTO-P190-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CTO-PDF0035-M120-C0001",
+      "CHUNK-CTO-PDF0035-M120-C0002",
+      "CHUNK-CTO-PDF0035-M120-C0003",
+      "CHUNK-CTO-PDF0035-M120-C0004",
+      "CHUNK-CTO-PDF0035-M120-C0005"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CTO-003",
+    "old_chunk_id": "CHUNK-CTO-P191-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CTO-PDF0036-M120-C0001",
+      "CHUNK-CTO-PDF0036-M120-C0002"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CTO-003",
+    "old_chunk_id": "CHUNK-CTO-P191-C02",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CTO-PDF0036-M120-C0001",
+      "CHUNK-CTO-PDF0036-M120-C0002"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CTO-004",
+    "old_chunk_id": "CHUNK-CTO-P207-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CTO-PDF0052-M120-C0001",
+      "CHUNK-CTO-PDF0052-M120-C0002"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CTO-004",
+    "old_chunk_id": "CHUNK-CTO-P210-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CTO-PDF0055-M120-C0001",
+      "CHUNK-CTO-PDF0055-M120-C0002",
+      "CHUNK-CTO-PDF0055-M120-C0003",
+      "CHUNK-CTO-PDF0055-M120-C0004",
+      "CHUNK-CTO-PDF0055-M120-C0005"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CTO-004",
+    "old_chunk_id": "CHUNK-CTO-P210-C02",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CTO-PDF0055-M120-C0001",
+      "CHUNK-CTO-PDF0055-M120-C0002",
+      "CHUNK-CTO-PDF0055-M120-C0003",
+      "CHUNK-CTO-PDF0055-M120-C0004",
+      "CHUNK-CTO-PDF0055-M120-C0005"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CTO-005",
+    "old_chunk_id": "CHUNK-CTO-P192-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CTO-PDF0037-M120-C0001",
+      "CHUNK-CTO-PDF0037-M120-C0002",
+      "CHUNK-CTO-PDF0037-M120-C0003",
+      "CHUNK-CTO-PDF0037-M120-C0004"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CTO-005",
+    "old_chunk_id": "CHUNK-CTO-P192-C02",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CTO-PDF0037-M120-C0001",
+      "CHUNK-CTO-PDF0037-M120-C0002",
+      "CHUNK-CTO-PDF0037-M120-C0003",
+      "CHUNK-CTO-PDF0037-M120-C0004"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CTO-005",
+    "old_chunk_id": "CHUNK-CTO-P193-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CTO-PDF0038-M120-C0001"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CTO-006",
+    "old_chunk_id": "CHUNK-CTO-P202-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CTO-PDF0047-M120-C0001",
+      "CHUNK-CTO-PDF0047-M120-C0002",
+      "CHUNK-CTO-PDF0047-M120-C0003",
+      "CHUNK-CTO-PDF0047-M120-C0004"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CTO-006",
+    "old_chunk_id": "CHUNK-CTO-P203-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CTO-PDF0048-M120-C0001",
+      "CHUNK-CTO-PDF0048-M120-C0002",
+      "CHUNK-CTO-PDF0048-M120-C0003",
+      "CHUNK-CTO-PDF0048-M120-C0004",
+      "CHUNK-CTO-PDF0048-M120-C0005"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CTO-006",
+    "old_chunk_id": "CHUNK-CTO-P203-C02",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CTO-PDF0048-M120-C0001",
+      "CHUNK-CTO-PDF0048-M120-C0002",
+      "CHUNK-CTO-PDF0048-M120-C0003",
+      "CHUNK-CTO-PDF0048-M120-C0004",
+      "CHUNK-CTO-PDF0048-M120-C0005"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CTO-006",
+    "old_chunk_id": "CHUNK-CTO-P203-C03",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CTO-PDF0048-M120-C0001",
+      "CHUNK-CTO-PDF0048-M120-C0002",
+      "CHUNK-CTO-PDF0048-M120-C0003",
+      "CHUNK-CTO-PDF0048-M120-C0004",
+      "CHUNK-CTO-PDF0048-M120-C0005"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CTO-006",
+    "old_chunk_id": "CHUNK-CTO-P203-C04",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CTO-PDF0048-M120-C0001",
+      "CHUNK-CTO-PDF0048-M120-C0002",
+      "CHUNK-CTO-PDF0048-M120-C0003",
+      "CHUNK-CTO-PDF0048-M120-C0004",
+      "CHUNK-CTO-PDF0048-M120-C0005"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-OCBO-001",
+    "old_chunk_id": "CHUNK-OCBO-P490-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-OCBO-PDF0002-M120-C0001",
+      "CHUNK-OCBO-PDF0002-M120-C0002",
+      "CHUNK-OCBO-PDF0002-M120-C0003",
+      "CHUNK-OCBO-PDF0002-M120-C0004"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-OCBO-001",
+    "old_chunk_id": "CHUNK-OCBO-P490-C02",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-OCBO-PDF0002-M120-C0001",
+      "CHUNK-OCBO-PDF0002-M120-C0002",
+      "CHUNK-OCBO-PDF0002-M120-C0003",
+      "CHUNK-OCBO-PDF0002-M120-C0004"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-OCBO-001",
+    "old_chunk_id": "CHUNK-OCBO-P490-C03",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-OCBO-PDF0002-M120-C0001",
+      "CHUNK-OCBO-PDF0002-M120-C0002",
+      "CHUNK-OCBO-PDF0002-M120-C0003",
+      "CHUNK-OCBO-PDF0002-M120-C0004"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-OCBO-001",
+    "old_chunk_id": "CHUNK-OCBO-P491-C02",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-OCBO-PDF0003-M120-C0001",
+      "CHUNK-OCBO-PDF0003-M120-C0002",
+      "CHUNK-OCBO-PDF0003-M120-C0003",
+      "CHUNK-OCBO-PDF0003-M120-C0004"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-OCBO-002",
+    "old_chunk_id": "CHUNK-OCBO-P492-C02",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-OCBO-PDF0004-M120-C0001",
+      "CHUNK-OCBO-PDF0004-M120-C0002",
+      "CHUNK-OCBO-PDF0004-M120-C0003",
+      "CHUNK-OCBO-PDF0004-M120-C0004"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-OCBO-002",
+    "old_chunk_id": "CHUNK-OCBO-P492-C03",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-OCBO-PDF0004-M120-C0001",
+      "CHUNK-OCBO-PDF0004-M120-C0002",
+      "CHUNK-OCBO-PDF0004-M120-C0003",
+      "CHUNK-OCBO-PDF0004-M120-C0004"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-OCBO-003",
+    "old_chunk_id": "CHUNK-OCBO-P501-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-OCBO-PDF0013-M120-C0001",
+      "CHUNK-OCBO-PDF0013-M120-C0002",
+      "CHUNK-OCBO-PDF0013-M120-C0003",
+      "CHUNK-OCBO-PDF0013-M120-C0004",
+      "CHUNK-OCBO-PDF0013-M120-C0005"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-OCBO-003",
+    "old_chunk_id": "CHUNK-OCBO-P501-C02",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-OCBO-PDF0013-M120-C0001",
+      "CHUNK-OCBO-PDF0013-M120-C0002",
+      "CHUNK-OCBO-PDF0013-M120-C0003",
+      "CHUNK-OCBO-PDF0013-M120-C0004",
+      "CHUNK-OCBO-PDF0013-M120-C0005"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-OCBO-004",
+    "old_chunk_id": "CHUNK-OCBO-P524-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-OCBO-PDF0036-M120-C0001",
+      "CHUNK-OCBO-PDF0036-M120-C0002",
+      "CHUNK-OCBO-PDF0036-M120-C0003",
+      "CHUNK-OCBO-PDF0036-M120-C0004",
+      "CHUNK-OCBO-PDF0036-M120-C0005"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-OCBO-004",
+    "old_chunk_id": "CHUNK-OCBO-P530-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-OCBO-PDF0042-M120-C0001",
+      "CHUNK-OCBO-PDF0042-M120-C0002",
+      "CHUNK-OCBO-PDF0042-M120-C0003"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-OCBO-005",
+    "old_chunk_id": "CHUNK-OCBO-P517-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-OCBO-PDF0029-M120-C0001",
+      "CHUNK-OCBO-PDF0029-M120-C0002",
+      "CHUNK-OCBO-PDF0029-M120-C0003",
+      "CHUNK-OCBO-PDF0029-M120-C0004",
+      "CHUNK-OCBO-PDF0029-M120-C0005"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-OCBO-005",
+    "old_chunk_id": "CHUNK-OCBO-P517-C02",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-OCBO-PDF0029-M120-C0001",
+      "CHUNK-OCBO-PDF0029-M120-C0002",
+      "CHUNK-OCBO-PDF0029-M120-C0003",
+      "CHUNK-OCBO-PDF0029-M120-C0004",
+      "CHUNK-OCBO-PDF0029-M120-C0005"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-OCBO-005",
+    "old_chunk_id": "CHUNK-OCBO-P523-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-OCBO-PDF0035-M120-C0001",
+      "CHUNK-OCBO-PDF0035-M120-C0002"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-OCBO-006",
+    "old_chunk_id": "CHUNK-OCBO-P591-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-OCBO-PDF0103-M120-C0001",
+      "CHUNK-OCBO-PDF0103-M120-C0002",
+      "CHUNK-OCBO-PDF0103-M120-C0003"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-OCBO-006",
+    "old_chunk_id": "CHUNK-OCBO-P592-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-OCBO-PDF0104-M120-C0001",
+      "CHUNK-OCBO-PDF0104-M120-C0002"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CPDO-001",
+    "old_chunk_id": "CHUNK-CPDO-P631-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CPDO-PDF0002-M120-C0001",
+      "CHUNK-CPDO-PDF0002-M120-C0002",
+      "CHUNK-CPDO-PDF0002-M120-C0003",
+      "CHUNK-CPDO-PDF0002-M120-C0004"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CPDO-001",
+    "old_chunk_id": "CHUNK-CPDO-P631-C02",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CPDO-PDF0002-M120-C0001",
+      "CHUNK-CPDO-PDF0002-M120-C0002",
+      "CHUNK-CPDO-PDF0002-M120-C0003",
+      "CHUNK-CPDO-PDF0002-M120-C0004"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CPDO-001",
+    "old_chunk_id": "CHUNK-CPDO-P633-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CPDO-PDF0004-M120-C0001"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CPDO-002",
+    "old_chunk_id": "CHUNK-CPDO-P634-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CPDO-PDF0005-M120-C0001",
+      "CHUNK-CPDO-PDF0005-M120-C0002",
+      "CHUNK-CPDO-PDF0005-M120-C0003",
+      "CHUNK-CPDO-PDF0005-M120-C0004"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CPDO-002",
+    "old_chunk_id": "CHUNK-CPDO-P634-C02",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CPDO-PDF0005-M120-C0001",
+      "CHUNK-CPDO-PDF0005-M120-C0002",
+      "CHUNK-CPDO-PDF0005-M120-C0003",
+      "CHUNK-CPDO-PDF0005-M120-C0004"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CPDO-002",
+    "old_chunk_id": "CHUNK-CPDO-P636-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CPDO-PDF0007-M120-C0001",
+      "CHUNK-CPDO-PDF0007-M120-C0002"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CPDO-003",
+    "old_chunk_id": "CHUNK-CPDO-P648-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CPDO-PDF0019-M120-C0001",
+      "CHUNK-CPDO-PDF0019-M120-C0002",
+      "CHUNK-CPDO-PDF0019-M120-C0003",
+      "CHUNK-CPDO-PDF0019-M120-C0004",
+      "CHUNK-CPDO-PDF0019-M120-C0005"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CPDO-003",
+    "old_chunk_id": "CHUNK-CPDO-P651-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CPDO-PDF0022-M120-C0001",
+      "CHUNK-CPDO-PDF0022-M120-C0002"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CPDO-003",
+    "old_chunk_id": "CHUNK-CPDO-P654-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CPDO-PDF0025-M120-C0001"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CPDO-004",
+    "old_chunk_id": "CHUNK-CPDO-P655-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CPDO-PDF0026-M120-C0001",
+      "CHUNK-CPDO-PDF0026-M120-C0002",
+      "CHUNK-CPDO-PDF0026-M120-C0003",
+      "CHUNK-CPDO-PDF0026-M120-C0004"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CPDO-004",
+    "old_chunk_id": "CHUNK-CPDO-P656-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CPDO-PDF0027-M120-C0001",
+      "CHUNK-CPDO-PDF0027-M120-C0002"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CPDO-004",
+    "old_chunk_id": "CHUNK-CPDO-P661-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CPDO-PDF0032-M120-C0001",
+      "CHUNK-CPDO-PDF0032-M120-C0002"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CPDO-005",
+    "old_chunk_id": "CHUNK-CPDO-P699-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CPDO-PDF0070-M120-C0001",
+      "CHUNK-CPDO-PDF0070-M120-C0002",
+      "CHUNK-CPDO-PDF0070-M120-C0003",
+      "CHUNK-CPDO-PDF0070-M120-C0004"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CPDO-005",
+    "old_chunk_id": "CHUNK-CPDO-P699-C02",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CPDO-PDF0070-M120-C0001",
+      "CHUNK-CPDO-PDF0070-M120-C0002",
+      "CHUNK-CPDO-PDF0070-M120-C0003",
+      "CHUNK-CPDO-PDF0070-M120-C0004"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CPDO-005",
+    "old_chunk_id": "CHUNK-CPDO-P701-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CPDO-PDF0072-M120-C0001"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CPDO-006",
+    "old_chunk_id": "CHUNK-CPDO-P702-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CPDO-PDF0073-M120-C0001",
+      "CHUNK-CPDO-PDF0073-M120-C0002",
+      "CHUNK-CPDO-PDF0073-M120-C0003"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CPDO-006",
+    "old_chunk_id": "CHUNK-CPDO-P702-C02",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CPDO-PDF0073-M120-C0001",
+      "CHUNK-CPDO-PDF0073-M120-C0002",
+      "CHUNK-CPDO-PDF0073-M120-C0003"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-CPDO-006",
+    "old_chunk_id": "CHUNK-CPDO-P703-C01",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-CPDO-PDF0074-M120-C0001",
+      "CHUNK-CPDO-PDF0074-M120-C0002"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BFP-001",
+    "old_chunk_id": "CHUNK-BFP-P001-C19",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BFP-PDF0001-M120-C0001",
+      "CHUNK-BFP-PDF0001-M120-C0002",
+      "CHUNK-BFP-PDF0001-M120-C0003",
+      "CHUNK-BFP-PDF0001-M120-C0004",
+      "CHUNK-BFP-PDF0001-M120-C0005",
+      "CHUNK-BFP-PDF0001-M120-C0006",
+      "CHUNK-BFP-PDF0001-M120-C0007",
+      "CHUNK-BFP-PDF0001-M120-C0008",
+      "CHUNK-BFP-PDF0001-M120-C0009",
+      "CHUNK-BFP-PDF0001-M120-C0010",
+      "CHUNK-BFP-PDF0001-M120-C0011",
+      "CHUNK-BFP-PDF0001-M120-C0012",
+      "CHUNK-BFP-PDF0001-M120-C0013",
+      "CHUNK-BFP-PDF0001-M120-C0014",
+      "CHUNK-BFP-PDF0001-M120-C0015",
+      "CHUNK-BFP-PDF0001-M120-C0016",
+      "CHUNK-BFP-PDF0001-M120-C0017",
+      "CHUNK-BFP-PDF0001-M120-C0018",
+      "CHUNK-BFP-PDF0001-M120-C0019",
+      "CHUNK-BFP-PDF0001-M120-C0020",
+      "CHUNK-BFP-PDF0001-M120-C0021",
+      "CHUNK-BFP-PDF0001-M120-C0022",
+      "CHUNK-BFP-PDF0001-M120-C0023",
+      "CHUNK-BFP-PDF0001-M120-C0024",
+      "CHUNK-BFP-PDF0001-M120-C0025",
+      "CHUNK-BFP-PDF0001-M120-C0026",
+      "CHUNK-BFP-PDF0001-M120-C0027",
+      "CHUNK-BFP-PDF0001-M120-C0028",
+      "CHUNK-BFP-PDF0001-M120-C0029",
+      "CHUNK-BFP-PDF0001-M120-C0030",
+      "CHUNK-BFP-PDF0001-M120-C0031",
+      "CHUNK-BFP-PDF0001-M120-C0032",
+      "CHUNK-BFP-PDF0001-M120-C0033"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BFP-002",
+    "old_chunk_id": "CHUNK-BFP-P001-C10",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BFP-PDF0001-M120-C0001",
+      "CHUNK-BFP-PDF0001-M120-C0002",
+      "CHUNK-BFP-PDF0001-M120-C0003",
+      "CHUNK-BFP-PDF0001-M120-C0004",
+      "CHUNK-BFP-PDF0001-M120-C0005",
+      "CHUNK-BFP-PDF0001-M120-C0006",
+      "CHUNK-BFP-PDF0001-M120-C0007",
+      "CHUNK-BFP-PDF0001-M120-C0008",
+      "CHUNK-BFP-PDF0001-M120-C0009",
+      "CHUNK-BFP-PDF0001-M120-C0010",
+      "CHUNK-BFP-PDF0001-M120-C0011",
+      "CHUNK-BFP-PDF0001-M120-C0012",
+      "CHUNK-BFP-PDF0001-M120-C0013",
+      "CHUNK-BFP-PDF0001-M120-C0014",
+      "CHUNK-BFP-PDF0001-M120-C0015",
+      "CHUNK-BFP-PDF0001-M120-C0016",
+      "CHUNK-BFP-PDF0001-M120-C0017",
+      "CHUNK-BFP-PDF0001-M120-C0018",
+      "CHUNK-BFP-PDF0001-M120-C0019",
+      "CHUNK-BFP-PDF0001-M120-C0020",
+      "CHUNK-BFP-PDF0001-M120-C0021",
+      "CHUNK-BFP-PDF0001-M120-C0022",
+      "CHUNK-BFP-PDF0001-M120-C0023",
+      "CHUNK-BFP-PDF0001-M120-C0024",
+      "CHUNK-BFP-PDF0001-M120-C0025",
+      "CHUNK-BFP-PDF0001-M120-C0026",
+      "CHUNK-BFP-PDF0001-M120-C0027",
+      "CHUNK-BFP-PDF0001-M120-C0028",
+      "CHUNK-BFP-PDF0001-M120-C0029",
+      "CHUNK-BFP-PDF0001-M120-C0030",
+      "CHUNK-BFP-PDF0001-M120-C0031",
+      "CHUNK-BFP-PDF0001-M120-C0032",
+      "CHUNK-BFP-PDF0001-M120-C0033"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BFP-003",
+    "old_chunk_id": "CHUNK-BFP-P001-C11",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BFP-PDF0001-M120-C0001",
+      "CHUNK-BFP-PDF0001-M120-C0002",
+      "CHUNK-BFP-PDF0001-M120-C0003",
+      "CHUNK-BFP-PDF0001-M120-C0004",
+      "CHUNK-BFP-PDF0001-M120-C0005",
+      "CHUNK-BFP-PDF0001-M120-C0006",
+      "CHUNK-BFP-PDF0001-M120-C0007",
+      "CHUNK-BFP-PDF0001-M120-C0008",
+      "CHUNK-BFP-PDF0001-M120-C0009",
+      "CHUNK-BFP-PDF0001-M120-C0010",
+      "CHUNK-BFP-PDF0001-M120-C0011",
+      "CHUNK-BFP-PDF0001-M120-C0012",
+      "CHUNK-BFP-PDF0001-M120-C0013",
+      "CHUNK-BFP-PDF0001-M120-C0014",
+      "CHUNK-BFP-PDF0001-M120-C0015",
+      "CHUNK-BFP-PDF0001-M120-C0016",
+      "CHUNK-BFP-PDF0001-M120-C0017",
+      "CHUNK-BFP-PDF0001-M120-C0018",
+      "CHUNK-BFP-PDF0001-M120-C0019",
+      "CHUNK-BFP-PDF0001-M120-C0020",
+      "CHUNK-BFP-PDF0001-M120-C0021",
+      "CHUNK-BFP-PDF0001-M120-C0022",
+      "CHUNK-BFP-PDF0001-M120-C0023",
+      "CHUNK-BFP-PDF0001-M120-C0024",
+      "CHUNK-BFP-PDF0001-M120-C0025",
+      "CHUNK-BFP-PDF0001-M120-C0026",
+      "CHUNK-BFP-PDF0001-M120-C0027",
+      "CHUNK-BFP-PDF0001-M120-C0028",
+      "CHUNK-BFP-PDF0001-M120-C0029",
+      "CHUNK-BFP-PDF0001-M120-C0030",
+      "CHUNK-BFP-PDF0001-M120-C0031",
+      "CHUNK-BFP-PDF0001-M120-C0032",
+      "CHUNK-BFP-PDF0001-M120-C0033"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BFP-003",
+    "old_chunk_id": "CHUNK-BFP-P001-C12",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BFP-PDF0001-M120-C0001",
+      "CHUNK-BFP-PDF0001-M120-C0002",
+      "CHUNK-BFP-PDF0001-M120-C0003",
+      "CHUNK-BFP-PDF0001-M120-C0004",
+      "CHUNK-BFP-PDF0001-M120-C0005",
+      "CHUNK-BFP-PDF0001-M120-C0006",
+      "CHUNK-BFP-PDF0001-M120-C0007",
+      "CHUNK-BFP-PDF0001-M120-C0008",
+      "CHUNK-BFP-PDF0001-M120-C0009",
+      "CHUNK-BFP-PDF0001-M120-C0010",
+      "CHUNK-BFP-PDF0001-M120-C0011",
+      "CHUNK-BFP-PDF0001-M120-C0012",
+      "CHUNK-BFP-PDF0001-M120-C0013",
+      "CHUNK-BFP-PDF0001-M120-C0014",
+      "CHUNK-BFP-PDF0001-M120-C0015",
+      "CHUNK-BFP-PDF0001-M120-C0016",
+      "CHUNK-BFP-PDF0001-M120-C0017",
+      "CHUNK-BFP-PDF0001-M120-C0018",
+      "CHUNK-BFP-PDF0001-M120-C0019",
+      "CHUNK-BFP-PDF0001-M120-C0020",
+      "CHUNK-BFP-PDF0001-M120-C0021",
+      "CHUNK-BFP-PDF0001-M120-C0022",
+      "CHUNK-BFP-PDF0001-M120-C0023",
+      "CHUNK-BFP-PDF0001-M120-C0024",
+      "CHUNK-BFP-PDF0001-M120-C0025",
+      "CHUNK-BFP-PDF0001-M120-C0026",
+      "CHUNK-BFP-PDF0001-M120-C0027",
+      "CHUNK-BFP-PDF0001-M120-C0028",
+      "CHUNK-BFP-PDF0001-M120-C0029",
+      "CHUNK-BFP-PDF0001-M120-C0030",
+      "CHUNK-BFP-PDF0001-M120-C0031",
+      "CHUNK-BFP-PDF0001-M120-C0032",
+      "CHUNK-BFP-PDF0001-M120-C0033"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BFP-004",
+    "old_chunk_id": "CHUNK-BFP-P001-C02",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BFP-PDF0001-M120-C0001",
+      "CHUNK-BFP-PDF0001-M120-C0002",
+      "CHUNK-BFP-PDF0001-M120-C0003",
+      "CHUNK-BFP-PDF0001-M120-C0004",
+      "CHUNK-BFP-PDF0001-M120-C0005",
+      "CHUNK-BFP-PDF0001-M120-C0006",
+      "CHUNK-BFP-PDF0001-M120-C0007",
+      "CHUNK-BFP-PDF0001-M120-C0008",
+      "CHUNK-BFP-PDF0001-M120-C0009",
+      "CHUNK-BFP-PDF0001-M120-C0010",
+      "CHUNK-BFP-PDF0001-M120-C0011",
+      "CHUNK-BFP-PDF0001-M120-C0012",
+      "CHUNK-BFP-PDF0001-M120-C0013",
+      "CHUNK-BFP-PDF0001-M120-C0014",
+      "CHUNK-BFP-PDF0001-M120-C0015",
+      "CHUNK-BFP-PDF0001-M120-C0016",
+      "CHUNK-BFP-PDF0001-M120-C0017",
+      "CHUNK-BFP-PDF0001-M120-C0018",
+      "CHUNK-BFP-PDF0001-M120-C0019",
+      "CHUNK-BFP-PDF0001-M120-C0020",
+      "CHUNK-BFP-PDF0001-M120-C0021",
+      "CHUNK-BFP-PDF0001-M120-C0022",
+      "CHUNK-BFP-PDF0001-M120-C0023",
+      "CHUNK-BFP-PDF0001-M120-C0024",
+      "CHUNK-BFP-PDF0001-M120-C0025",
+      "CHUNK-BFP-PDF0001-M120-C0026",
+      "CHUNK-BFP-PDF0001-M120-C0027",
+      "CHUNK-BFP-PDF0001-M120-C0028",
+      "CHUNK-BFP-PDF0001-M120-C0029",
+      "CHUNK-BFP-PDF0001-M120-C0030",
+      "CHUNK-BFP-PDF0001-M120-C0031",
+      "CHUNK-BFP-PDF0001-M120-C0032",
+      "CHUNK-BFP-PDF0001-M120-C0033"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BFP-004",
+    "old_chunk_id": "CHUNK-BFP-P001-C16",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BFP-PDF0001-M120-C0001",
+      "CHUNK-BFP-PDF0001-M120-C0002",
+      "CHUNK-BFP-PDF0001-M120-C0003",
+      "CHUNK-BFP-PDF0001-M120-C0004",
+      "CHUNK-BFP-PDF0001-M120-C0005",
+      "CHUNK-BFP-PDF0001-M120-C0006",
+      "CHUNK-BFP-PDF0001-M120-C0007",
+      "CHUNK-BFP-PDF0001-M120-C0008",
+      "CHUNK-BFP-PDF0001-M120-C0009",
+      "CHUNK-BFP-PDF0001-M120-C0010",
+      "CHUNK-BFP-PDF0001-M120-C0011",
+      "CHUNK-BFP-PDF0001-M120-C0012",
+      "CHUNK-BFP-PDF0001-M120-C0013",
+      "CHUNK-BFP-PDF0001-M120-C0014",
+      "CHUNK-BFP-PDF0001-M120-C0015",
+      "CHUNK-BFP-PDF0001-M120-C0016",
+      "CHUNK-BFP-PDF0001-M120-C0017",
+      "CHUNK-BFP-PDF0001-M120-C0018",
+      "CHUNK-BFP-PDF0001-M120-C0019",
+      "CHUNK-BFP-PDF0001-M120-C0020",
+      "CHUNK-BFP-PDF0001-M120-C0021",
+      "CHUNK-BFP-PDF0001-M120-C0022",
+      "CHUNK-BFP-PDF0001-M120-C0023",
+      "CHUNK-BFP-PDF0001-M120-C0024",
+      "CHUNK-BFP-PDF0001-M120-C0025",
+      "CHUNK-BFP-PDF0001-M120-C0026",
+      "CHUNK-BFP-PDF0001-M120-C0027",
+      "CHUNK-BFP-PDF0001-M120-C0028",
+      "CHUNK-BFP-PDF0001-M120-C0029",
+      "CHUNK-BFP-PDF0001-M120-C0030",
+      "CHUNK-BFP-PDF0001-M120-C0031",
+      "CHUNK-BFP-PDF0001-M120-C0032",
+      "CHUNK-BFP-PDF0001-M120-C0033"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BFP-005",
+    "old_chunk_id": "CHUNK-BFP-P001-C24",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BFP-PDF0001-M120-C0001",
+      "CHUNK-BFP-PDF0001-M120-C0002",
+      "CHUNK-BFP-PDF0001-M120-C0003",
+      "CHUNK-BFP-PDF0001-M120-C0004",
+      "CHUNK-BFP-PDF0001-M120-C0005",
+      "CHUNK-BFP-PDF0001-M120-C0006",
+      "CHUNK-BFP-PDF0001-M120-C0007",
+      "CHUNK-BFP-PDF0001-M120-C0008",
+      "CHUNK-BFP-PDF0001-M120-C0009",
+      "CHUNK-BFP-PDF0001-M120-C0010",
+      "CHUNK-BFP-PDF0001-M120-C0011",
+      "CHUNK-BFP-PDF0001-M120-C0012",
+      "CHUNK-BFP-PDF0001-M120-C0013",
+      "CHUNK-BFP-PDF0001-M120-C0014",
+      "CHUNK-BFP-PDF0001-M120-C0015",
+      "CHUNK-BFP-PDF0001-M120-C0016",
+      "CHUNK-BFP-PDF0001-M120-C0017",
+      "CHUNK-BFP-PDF0001-M120-C0018",
+      "CHUNK-BFP-PDF0001-M120-C0019",
+      "CHUNK-BFP-PDF0001-M120-C0020",
+      "CHUNK-BFP-PDF0001-M120-C0021",
+      "CHUNK-BFP-PDF0001-M120-C0022",
+      "CHUNK-BFP-PDF0001-M120-C0023",
+      "CHUNK-BFP-PDF0001-M120-C0024",
+      "CHUNK-BFP-PDF0001-M120-C0025",
+      "CHUNK-BFP-PDF0001-M120-C0026",
+      "CHUNK-BFP-PDF0001-M120-C0027",
+      "CHUNK-BFP-PDF0001-M120-C0028",
+      "CHUNK-BFP-PDF0001-M120-C0029",
+      "CHUNK-BFP-PDF0001-M120-C0030",
+      "CHUNK-BFP-PDF0001-M120-C0031",
+      "CHUNK-BFP-PDF0001-M120-C0032",
+      "CHUNK-BFP-PDF0001-M120-C0033"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  },
+  {
+    "group_id": "SCENARIO-BFP-006",
+    "old_chunk_id": "CHUNK-BFP-P001-C27",
+    "old_id_occurrences": 1,
+    "candidate_ids_same_source_page": [
+      "CHUNK-BFP-PDF0001-M120-C0001",
+      "CHUNK-BFP-PDF0001-M120-C0002",
+      "CHUNK-BFP-PDF0001-M120-C0003",
+      "CHUNK-BFP-PDF0001-M120-C0004",
+      "CHUNK-BFP-PDF0001-M120-C0005",
+      "CHUNK-BFP-PDF0001-M120-C0006",
+      "CHUNK-BFP-PDF0001-M120-C0007",
+      "CHUNK-BFP-PDF0001-M120-C0008",
+      "CHUNK-BFP-PDF0001-M120-C0009",
+      "CHUNK-BFP-PDF0001-M120-C0010",
+      "CHUNK-BFP-PDF0001-M120-C0011",
+      "CHUNK-BFP-PDF0001-M120-C0012",
+      "CHUNK-BFP-PDF0001-M120-C0013",
+      "CHUNK-BFP-PDF0001-M120-C0014",
+      "CHUNK-BFP-PDF0001-M120-C0015",
+      "CHUNK-BFP-PDF0001-M120-C0016",
+      "CHUNK-BFP-PDF0001-M120-C0017",
+      "CHUNK-BFP-PDF0001-M120-C0018",
+      "CHUNK-BFP-PDF0001-M120-C0019",
+      "CHUNK-BFP-PDF0001-M120-C0020",
+      "CHUNK-BFP-PDF0001-M120-C0021",
+      "CHUNK-BFP-PDF0001-M120-C0022",
+      "CHUNK-BFP-PDF0001-M120-C0023",
+      "CHUNK-BFP-PDF0001-M120-C0024",
+      "CHUNK-BFP-PDF0001-M120-C0025",
+      "CHUNK-BFP-PDF0001-M120-C0026",
+      "CHUNK-BFP-PDF0001-M120-C0027",
+      "CHUNK-BFP-PDF0001-M120-C0028",
+      "CHUNK-BFP-PDF0001-M120-C0029",
+      "CHUNK-BFP-PDF0001-M120-C0030",
+      "CHUNK-BFP-PDF0001-M120-C0031",
+      "CHUNK-BFP-PDF0001-M120-C0032",
+      "CHUNK-BFP-PDF0001-M120-C0033"
+    ],
+    "status": "PENDING_PASSAGE_REVIEW_NOT_GOLD",
+    "note": "Page locality is not passage equivalence or answer correctness."
+  }
+]

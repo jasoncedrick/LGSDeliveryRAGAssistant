@@ -1,0 +1,37 @@
+{
+  "backup": "experiments\\normalization-fidelity-suite-v1\\human_review_template.before-note-cleanup-20261019-041121.json",
+  "changes": [
+    {
+      "id": "NF-02",
+      "before": "the query meant the user receiving the document from the OCBO, not the OCBO receiving the document from the user. The assistant's translation changed the meaning.",
+      "after": "OCBO is encoding and receiving the applicant's documents. The translation changes receiving to submission."
+    },
+    {
+      "id": "NF-03",
+      "before": "the query meant the user receiving the document from the OCBO, not the OCBO receiving the document from the user. The assistant's translation changed the meaning.",
+      "after": "OCBO is encoding and receiving the applicant's documents. The translation omits encoding and introduces submission."
+    },
+    {
+      "id": "NF-19",
+      "before": "The query is unclear about what specific receipt is being referred to. invoke the fallback by its conversational intent. unclear receipt meaning. unclear individual versus corporate sedula, not receipt.",
+      "after": "Receipt meaning is ambiguous. Fallback correctly requests a choice; use conversational Bislish wording."
+    },
+    {
+      "id": "NF-20",
+      "before": "The query is unclear about what specific receipt is being referred to. invoke the fallback by its conversational intent. unclear individual versus corporate sedula, not receipt.",
+      "after": "Individual versus corporate sedula is ambiguous. Use conversational Taglish to ask which one the user means."
+    },
+    {
+      "id": "NF-21",
+      "before": "The query is unclear about what specific receipt is being referred to. invoke the fallback by its conversational intent. unclear business versus personal barangay clearance, not receipt.",
+      "after": "Business versus personal barangay clearance is ambiguous. Ask which one the user means in English."
+    },
+    {
+      "id": "NF-23",
+      "before": "give clarification to the user if OCBO he meant is the OFFICE OF THE CITY BUILDING OFFICIAL?",
+      "after": "The translation incorrectly expands OCBO as One-Stop Business Clearance Office. The correct office name is Office of the City Building Official."
+    }
+  ],
+  "verdicts_unchanged": true,
+  "json_valid": true
+}

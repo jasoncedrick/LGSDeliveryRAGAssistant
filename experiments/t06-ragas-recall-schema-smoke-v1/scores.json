@@ -1,0 +1,10 @@
+[
+  {
+    "record_id": "DEV-EVID-06-normalized-K3",
+    "generation_status": "ANSWERED",
+    "scores": {
+      "context_recall": 1.0
+    },
+    "status": "SCORED"
+  }
+]

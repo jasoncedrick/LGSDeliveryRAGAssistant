@@ -1,0 +1,83 @@
+--- before.txt
++++ after.txt
+@@ -1,54 +1,34 @@
+-1. Secure and fill-out 
+-forms
+-1. Evaluate 
+-Documents
+-None 
+-20 Minutes 
++CLIENT STEPS: 1. Secure and fill-out forms
++
++FEES TO BE PAID (shared source cell for this client step): None
++
++AGENCY ACTION: 1. Evaluate Documents
++PROCESSING TIME: 20 Minutes
++
++PERSON RESPONSIBLE (shared source cell; no individual substep assignment):
+ Technical Assistant
+ on Planning and
+ Development
+ Civil Engineer –
+ OCBO
+-2. Submit necessary 
+-requirements
+-2.1 Encode and 
+-receive documents 
+-  
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-2.2 Route documents 
+-  
+-  
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-2.3 Encode and 
+-segregate 
+-applications 
+-  
+- 
+- 
+- 
+- 
+- 
+- 
+-2.4 Route to zoning 
+-for validation
+-None 
+-5 Minutes
+-1 Day
+-4 Hours
+-1 Day
++
++CLIENT STEPS: 2. Submit necessary requirements
++
++FEES TO BE PAID (shared source cell for this client step): None
++
++AGENCY ACTION: 2.1 Encode and receive documents
++PROCESSING TIME: 5 Minutes
++
++AGENCY ACTION: 2.2 Route documents
++PROCESSING TIME: 1 Day
++
++AGENCY ACTION: 2.3 Encode and segregate applications
++PROCESSING TIME: 4 Hours
++
++AGENCY ACTION: 2.4 Route to zoning for validation
++PROCESSING TIME: 1 Day
++
++PERSON RESPONSIBLE (shared source cell; no individual substep assignment):
+ Technical Assistant
+ on Planning and
+ Development

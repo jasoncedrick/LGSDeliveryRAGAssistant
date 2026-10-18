@@ -1,0 +1,68 @@
+{
+  "conclusion": "Both source-context limitations and normalization defects are observed; the five originally reviewed failures already occur without normalization.",
+  "case_findings": [
+    {
+      "id": "DEV-EVID-01",
+      "normalization": "Occupancy Permit retained; receive changed to submission, which may alter action meaning.",
+      "source_context": "Page14 C002 contains the answer-bearing action/time pairs but no Occupancy Permit heading.",
+      "raw_k5": "miss",
+      "normalized_k5": "miss"
+    },
+    {
+      "id": "DEV-EVID-04",
+      "normalization": "Occupancy Permit and zoning-validation intent retained.",
+      "source_context": "Page14 C002 contains step2.4 and 1 Day but lacks service heading.",
+      "raw_k5": "miss",
+      "normalized_k5": "miss"
+    },
+    {
+      "id": "DEV-EVID-09",
+      "normalization": "Business permit renewal retained; employee information and copies paraphrased.",
+      "source_context": "BB page16 C004 contains renewal facts; full Issuance of Business Permit service heading is absent from this continuation chunk.",
+      "raw_k5": "miss",
+      "normalized_k5": "miss"
+    },
+    {
+      "id": "DEV-EVID-10",
+      "normalization": "Business permit renewal and represented sole proprietor retained.",
+      "source_context": "Similar SPA wording occurs in earlier checklist on same page; page match alone does not establish renewal row.",
+      "raw_k5": "insufficient evidence",
+      "normalized_k5": "insufficient evidence"
+    },
+    {
+      "id": "DEV-EVID-12",
+      "normalization": "Locational Clearance and three storeys or more retained; Building changed to projects.",
+      "source_context": "Service heading and Who may avail facts occupy different 120-token chunks. Page11 C001/C003 retrieval omits relevant eligibility chunk C002.",
+      "raw_k5": "insufficient evidence",
+      "normalized_k5": "insufficient evidence"
+    }
+  ],
+  "additional_defects": [
+    {
+      "id": "DEV-EVID-08",
+      "finding": "Normalized output includes unrelated fabricated glossary after FSEC translation; retained unchanged in evaluation.",
+      "next_step": "Inspect translation prompt/output contract and completion metadata in a separate backed-up development change."
+    },
+    {
+      "id": "DEV-EVID-13",
+      "finding": "Ambiguous input says OCBO; normalized output substitutes eBOSS and loses OCBO. No dictionary-conflict fallback was triggered.",
+      "interpretation": "Missing service details do not automatically activate the manuscript dictionary-conflict mechanism."
+    }
+  ],
+  "causal_limits": [
+    "Raw/normalized paired comparison measures effect of actual normalization outputs on these probes only.",
+    "Service heading absent in continuation chunks is directly observed, but not experimentally isolated as sole cause.",
+    "Existing source labels support facts; substring checks do not certify association or full answer faithfulness."
+  ],
+  "manual_checks": [
+    "User five-case reviews are preserved; do not treat all other labels as user-approved.",
+    "Review BB renewal SPA/notarization row association if declaring a case supported.",
+    "Review case08 normalized output; no missing text or dictionary content should be reconstructed from its generated glossary."
+  ],
+  "next_work": [
+    "Fix and test normalization output fidelity as a separate development revision while retaining raw output logs.",
+    "Review source-linked service context representation without section retrieval, arbitrary expansion, or changing 120/20 windows.",
+    "Repeat paired development evaluation after changes; formal multilingual grouped evaluation remains separate."
+  ],
+  "methodology": "Preserved 120/20 chunk scoring, K3/K5, current fusion weights, dictionary and held-out isolation; no app default switch."
+}

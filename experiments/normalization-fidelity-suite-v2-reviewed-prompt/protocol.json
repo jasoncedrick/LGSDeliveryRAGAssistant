@@ -1,0 +1,17 @@
+{
+  "scope": "Development normalization diagnostic only; no retrieval, answers or held-out access",
+  "english_preservation": "Exact wording equality reported as stability diagnostic; faithful grammar changes can still be semantically valid.",
+  "semantic_checks": "Predeclared regex concept probes; human semantic review remains necessary.",
+  "model_settings": {
+    "temperature": 0,
+    "top_p": 0,
+    "num_predict": 150
+  },
+  "context_rules": false,
+  "fidelity_candidate": false,
+  "prompt_override": "config\\normalization_review_candidate.txt",
+  "cases_sha256": "c2be49872781c8bc1defdbe1ccfc6138e6d07acc30a9c24d5e5de8b0b50af749",
+  "dictionary_sha256": "5ecbcc99538d9a88c7905378abe8a3712831afdfe8e9647cfdf2698600bdab62",
+  "normalizer_sha256": "06d874d718e81773d8eb279aa1c9f4b97c3bd1b890c324ee23d9c76f9f0d2b77",
+  "prompt_sha256": "0b464f114e8e0763d305f30dcc5c198514bd45a160ed325e20c3000483f0261e"
+}

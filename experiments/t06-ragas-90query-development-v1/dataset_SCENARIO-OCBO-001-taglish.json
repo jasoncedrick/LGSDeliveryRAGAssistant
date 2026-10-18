@@ -1,0 +1,20 @@
+{
+  "question": [
+    "Anong mga plano, clearance, at pirma ng inhinyero ang kailangan para makakuha ng Building Permit sa OCBO?"
+  ],
+  "answer": [
+    "Ang mga plano, clearance, at pirma ng inhinyero ang kailangan para makakuha ng Building Permit sa Office ng City Building Official (OCBO) ay nababasa sa mga ibaba na mga source blocks:\n\n[S3] - Ang mga plano ay kinakailangan sa chunk DEV120-OCBO-PDF0002-C001.\n[S4] - Ang approved plan of Building Permit ay kinakailangan sa chunk DEV120-OCBO-PDF0013-C004.\n[S4] - Ang structure images with CAAP clearance (kasama ang submitted structural survey para sa actual building height) ay kinakailangan sa chunk DEV120-OCBO-PDF0013-C004. Ang clearance na ito ay makukuha mula sa CAAP at sa hired geodetic engineer."
+  ],
+  "contexts": [
+    [
+      "7. Issuance of Pavement Permit\nA Pavement Permit shall be required prior to or during the processing of the building permit and prior \nto the commencement of the proposed project and construction.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; \nG2G – Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Pavement Permit form with 3 sets of \nCivil/Arch",
+      "4. Issuance of Miscellaneous Mechanical Permit \nA Mechanical Permit shall be required prior to or during the processing of the building permit and \nbefore starting any installation work, alteration, repair, or extension on any mechanical system.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; G2G \n– Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Accomplish",
+      "1. Issuance of Building Permit\nA Building Permit shall be required before any building or structure is erected, constructed, altered, \nrepaired, moved, converted, or demolished.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; G2G – \nGovernment to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1.  Notarized Application Letter \nOwner/Applicant\n2.  No",
+      "Applicant\n9. Approved plan of Building Permit  \n1 original\nOwner/Applicant\n10. If the project has been undertaken/assigned \nto a professional other than the professional-in-\ncharge upon application of building permit, \nsigned and duly notarized waiver from previous \nprofessional in-charge \n     1 original\nWaiving Party\n11. Structure Images with CAAP \nclearance(Submit structural survey for the actual \nbuilding height) signed and sealed by a duly \nlicensed Geodetic Engineer\nCAAP & Hired Geodetic Engineer\nCLIENT",
+      "8. Issuance of Sidewalk Enclosure and Occupancy Permit\nA Sidewalk Enclosure and Occupancy Permit shall be required prior to or during the processing of \nthe building permit or before any enclosure shall be made.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to \nBusiness; G2G – Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1.     Sidewalk Enclosure"
+    ]
+  ],
+  "ground_truth": [
+    "To secure a Building Permit under PD 1096, applicants must submit: 1) Notarized Application Letter; 2) Accomplished Unified Building Permit Form (5 copies); 3) Complete sets of Architectural, Civil/Structural, Sanitary/Plumbing, Electrical, and Mechanical Permit forms and plans (5 sets each), all duly signed and sealed by licensed professionals (Architect, Civil Engineer, Sanitary Engineer/Master Plumber, Professional Electrical Engineer, Professional Mechanical Engineer); 4) Certified true copies of Land Title (LRA), Tax Declaration, and Current Real Property Tax Receipt; 5) CPDO Zoning Locational Clearance; and 6) BFP Fire Safety Evaluation Clearance (FSEC)."
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "status": "PAIRED_DEVELOPMENT_DIAGNOSTIC",
+  "summary": [
+    {
+      "variant": "raw",
+      "k": 3,
+      "queries": 12,
+      "hit_at_k": 0.6666666666666666,
+      "mrr_at_k": 0.5416666666666666,
+      "complete_evidence_hits": 7,
+      "failed_complete_evidence_ids": [
+        "DEV-EVID-01",
+        "DEV-EVID-04",
+        "DEV-EVID-09",
+        "DEV-EVID-10",
+        "DEV-EVID-12"
+      ]
+    },
+    {
+      "variant": "raw",
+      "k": 5,
+      "queries": 12,
+      "hit_at_k": 0.6666666666666666,
+      "mrr_at_k": 0.5416666666666666,
+      "complete_evidence_hits": 7,
+      "failed_complete_evidence_ids": [
+        "DEV-EVID-01",
+        "DEV-EVID-04",
+        "DEV-EVID-09",
+        "DEV-EVID-10",
+        "DEV-EVID-12"
+      ]
+    },
+    {
+      "variant": "previous_normalization",
+      "k": 3,
+      "queries": 12,
+      "hit_at_k": 0.3333333333333333,
+      "mrr_at_k": 0.23611111111111113,
+      "complete_evidence_hits": 3,
+      "failed_complete_evidence_ids": [
+        "DEV-EVID-01",
+        "DEV-EVID-02",
+        "DEV-EVID-03",
+        "DEV-EVID-04",
+        "DEV-EVID-07",
+        "DEV-EVID-08",
+        "DEV-EVID-09",
+        "DEV-EVID-10",
+        "DEV-EVID-12"
+      ]
+    },
+    {
+      "variant": "previous_normalization",
+      "k": 5,
+      "queries": 12,
+      "hit_at_k": 0.5,
+      "mrr_at_k": 0.26944444444444443,
+      "complete_evidence_hits": 5,
+      "failed_complete_evidence_ids": [
+        "DEV-EVID-01",
+        "DEV-EVID-04",
+        "DEV-EVID-07",
+        "DEV-EVID-08",
+        "DEV-EVID-09",
+        "DEV-EVID-10",
+        "DEV-EVID-12"
+      ]
+    },
+    {
+      "variant": "candidate_normalization",
+      "k": 3,
+      "queries": 12,
+      "hit_at_k": 0.5833333333333334,
+      "mrr_at_k": 0.4444444444444444,
+      "complete_evidence_hits": 6,
+      "failed_complete_evidence_ids": [
+        "DEV-EVID-01",
+        "DEV-EVID-04",
+        "DEV-EVID-05",
+        "DEV-EVID-09",
+        "DEV-EVID-10",
+        "DEV-EVID-12"
+      ]
+    },
+    {
+      "variant": "candidate_normalization",
+      "k": 5,
+      "queries": 12,
+      "hit_at_k": 0.5833333333333334,
+      "mrr_at_k": 0.4444444444444444,
+      "complete_evidence_hits": 6,
+      "failed_complete_evidence_ids": [
+        "DEV-EVID-01",
+        "DEV-EVID-04",
+        "DEV-EVID-05",
+        "DEV-EVID-09",
+        "DEV-EVID-10",
+        "DEV-EVID-12"
+      ]
+    }
+  ],
+  "paired_inputs_verified": true,
+  "relevance_definition": "A relevant chunk co-locates all fragments of at least one labelled evidence group on the expected page. Complete evidence is separately measured across all groups.",
+  "limitations": [
+    "Labels remain provisional except reviewed cases; lexical matches are not semantic proof.",
+    "These 12 English questions are not the formal 30-group multilingual development evaluation.",
+    "Hit@K and MRR@K are retrieval metrics; no RAGAS or generated-answer quality is claimed."
+  ],
+  "app_changed": false,
+  "held_out_accessed": false,
+  "weights_changed": false,
+  "ragas_run": false
+}

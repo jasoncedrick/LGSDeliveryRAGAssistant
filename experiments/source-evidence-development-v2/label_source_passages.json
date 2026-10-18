@@ -1,0 +1,482 @@
+[
+  {
+    "id": "DEV-EVID-01",
+    "source_page_id": "OCBO-PDF0014",
+    "groups": [
+      [
+        {
+          "label": "2.1 Encode and receive documents",
+          "occurrences": [
+            {
+              "start": 449,
+              "end": 481,
+              "passage": "ssary requirements\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 2.1 Encode and receive documents\nPROCESSING TIME: 5 Minutes\n\nAGENCY ACTION: 2.2 Route documents\nPROCESSING TIME: 1 Day\n\nAGENCY ACTIO"
+            }
+          ]
+        },
+        {
+          "label": "PROCESSING TIME: 5 Minutes",
+          "occurrences": [
+            {
+              "start": 482,
+              "end": 508,
+              "passage": "ID (shared source cell for this client step): None\n\nAGENCY ACTION: 2.1 Encode and receive documents\nPROCESSING TIME: 5 Minutes\n\nAGENCY ACTION: 2.2 Route documents\nPROCESSING TIME: 1 Day\n\nAGENCY ACTION: 2.3 Encode and segregate"
+            }
+          ]
+        }
+      ]
+    ],
+    "scope_caution": "Multiple occurrences require selecting the correct source row; a match alone is not independent semantic validation."
+  },
+  {
+    "id": "DEV-EVID-02",
+    "source_page_id": "OCBO-PDF0015",
+    "groups": [
+      [
+        {
+          "label": "Structural",
+          "occurrences": [
+            {
+              "start": 407,
+              "end": 417,
+              "passage": " TIME: 2 Days\n\nINSPECTION CATEGORY: · Architectural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Plumbing\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGO"
+            }
+          ]
+        },
+        {
+          "label": "PROCESSING TIME: 2 Days",
+          "occurrences": [
+            {
+              "start": 297,
+              "end": 320,
+              "passage": "ep): None\n\nAGENCY ACTION: 3. Conduct inspection and assessment\n\nINSPECTION CATEGORY: · Line & Grade\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Architectural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Structural\nPR"
+            },
+            {
+              "start": 359,
+              "end": 382,
+              "passage": "\n\nINSPECTION CATEGORY: · Line & Grade\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Architectural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Plumbing\nPROCESS"
+            },
+            {
+              "start": 418,
+              "end": 441,
+              "passage": "ys\n\nINSPECTION CATEGORY: · Architectural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Plumbing\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Mechanical\nPROCESS"
+            },
+            {
+              "start": 475,
+              "end": 498,
+              "passage": " 2 Days\n\nINSPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Plumbing\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Mechanical\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Electrical\nPROCE"
+            },
+            {
+              "start": 534,
+              "end": 557,
+              "passage": " 2 Days\n\nINSPECTION CATEGORY: · Plumbing\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Mechanical\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Electrical\nPROCESSING TIME: 2 Days\n\nPERSON RESPONSIBLE (shared source cell;"
+            },
+            {
+              "start": 593,
+              "end": 616,
+              "passage": " Days\n\nINSPECTION CATEGORY: · Mechanical\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Electrical\nPROCESSING TIME: 2 Days\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nCivil Engineer\nCivil En"
+            }
+          ]
+        }
+      ]
+    ],
+    "scope_caution": "Multiple occurrences require selecting the correct source row; a match alone is not independent semantic validation."
+  },
+  {
+    "id": "DEV-EVID-03",
+    "source_page_id": "OCBO-PDF0015",
+    "groups": [
+      [
+        {
+          "label": "During the inspection",
+          "occurrences": [
+            {
+              "start": 17,
+              "end": 38,
+              "passage": "CLIENT STEPS: 3. During the inspection, the client and/or authorized representative, such as an architect or engineer must be present on-s"
+            }
+          ]
+        },
+        {
+          "label": "client and/or authorized representative",
+          "occurrences": [
+            {
+              "start": 44,
+              "end": 83,
+              "passage": "CLIENT STEPS: 3. During the inspection, the client and/or authorized representative, such as an architect or engineer must be present on-site\n\nFEES TO BE PAID (shared source cell for "
+            }
+          ]
+        },
+        {
+          "label": "architect or engineer",
+          "occurrences": [
+            {
+              "start": 96,
+              "end": 117,
+              "passage": "CLIENT STEPS: 3. During the inspection, the client and/or authorized representative, such as an architect or engineer must be present on-site\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY AC"
+            }
+          ]
+        },
+        {
+          "label": "must be present on-site",
+          "occurrences": [
+            {
+              "start": 118,
+              "end": 141,
+              "passage": "uring the inspection, the client and/or authorized representative, such as an architect or engineer must be present on-site\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 3. Conduct inspect"
+            }
+          ]
+        }
+      ]
+    ],
+    "scope_caution": "Multiple occurrences require selecting the correct source row; a match alone is not independent semantic validation."
+  },
+  {
+    "id": "DEV-EVID-04",
+    "source_page_id": "OCBO-PDF0014",
+    "groups": [
+      [
+        {
+          "label": "2.4 Route to zoning for validation",
+          "occurrences": [
+            {
+              "start": 663,
+              "end": 697,
+              "passage": " Day\n\nAGENCY ACTION: 2.3 Encode and segregate applications\nPROCESSING TIME: 4 Hours\n\nAGENCY ACTION: 2.4 Route to zoning for validation\nPROCESSING TIME: 1 Day\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\n"
+            }
+          ]
+        },
+        {
+          "label": "PROCESSING TIME: 1 Day",
+          "occurrences": [
+            {
+              "start": 545,
+              "end": 567,
+              "passage": "ON: 2.1 Encode and receive documents\nPROCESSING TIME: 5 Minutes\n\nAGENCY ACTION: 2.2 Route documents\nPROCESSING TIME: 1 Day\n\nAGENCY ACTION: 2.3 Encode and segregate applications\nPROCESSING TIME: 4 Hours\n\nAGENCY ACTION: 2.4 "
+            },
+            {
+              "start": 698,
+              "end": 720,
+              "passage": " segregate applications\nPROCESSING TIME: 4 Hours\n\nAGENCY ACTION: 2.4 Route to zoning for validation\nPROCESSING TIME: 1 Day\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nTechnical Assistant\non "
+            }
+          ]
+        }
+      ]
+    ],
+    "scope_caution": "Multiple occurrences require selecting the correct source row; a match alone is not independent semantic validation."
+  },
+  {
+    "id": "DEV-EVID-05",
+    "source_page_id": "CTO-PDF0006",
+    "groups": [
+      [
+        {
+          "label": "Washing of Hogs",
+          "occurrences": [
+            {
+              "start": 579,
+              "end": 594,
+              "passage": "r head\n\nITEM OR HEADING: Chicken\nFEE: 500.00per 1,000 heads or a fraction thereof\n\nITEM OR HEADING: Washing of Hogs\nFEE: 10.00 per head"
+            }
+          ]
+        },
+        {
+          "label": "10.00 per head",
+          "occurrences": [
+            {
+              "start": 600,
+              "end": 614,
+              "passage": "NG: Chicken\nFEE: 500.00per 1,000 heads or a fraction thereof\n\nITEM OR HEADING: Washing of Hogs\nFEE: 10.00 per head"
+            }
+          ]
+        }
+      ]
+    ],
+    "scope_caution": "Multiple occurrences require selecting the correct source row; a match alone is not independent semantic validation."
+  },
+  {
+    "id": "DEV-EVID-06",
+    "source_page_id": "CTO-PDF0006",
+    "groups": [
+      [
+        {
+          "label": "Chicken",
+          "occurrences": [
+            {
+              "start": 504,
+              "end": 511,
+              "passage": "EADING: Hog\nFEE: 100.00 per head\n\nITEM OR HEADING: Goat/Sheep\nFEE: 50.00 per head\n\nITEM OR HEADING: Chicken\nFEE: 500.00per 1,000 heads or a fraction thereof\n\nITEM OR HEADING: Washing of Hogs\nFEE: 10.00 per h"
+            }
+          ]
+        },
+        {
+          "label": "500.00per 1,000 heads or a fraction thereof",
+          "occurrences": [
+            {
+              "start": 517,
+              "end": 560,
+              "passage": "EE: 100.00 per head\n\nITEM OR HEADING: Goat/Sheep\nFEE: 50.00 per head\n\nITEM OR HEADING: Chicken\nFEE: 500.00per 1,000 heads or a fraction thereof\n\nITEM OR HEADING: Washing of Hogs\nFEE: 10.00 per head"
+            }
+          ]
+        }
+      ]
+    ],
+    "scope_caution": "Multiple occurrences require selecting the correct source row; a match alone is not independent semantic validation."
+  },
+  {
+    "id": "DEV-EVID-07",
+    "source_page_id": "BFP-PDF0001",
+    "groups": [
+      [
+        {
+          "label": "If assessment from LGUs/PEZA = 0, then",
+          "occurrences": [
+            {
+              "start": 7206,
+              "end": 7244,
+              "passage": "s charged by the LGU/PEZA) x\n(15%) = ______ Php but in no case shall be lower\nthan Php 500.00\nNote: If assessment from LGUs/PEZA = 0, then\nFSIF = 0\nOther fees\nIf applicable compute the appropriate fees in\naccordance with Section 12.0.0.4 "
+            }
+          ]
+        },
+        {
+          "label": "FSIF = 0",
+          "occurrences": [
+            {
+              "start": 7245,
+              "end": 7253,
+              "passage": "____ Php but in no case shall be lower\nthan Php 500.00\nNote: If assessment from LGUs/PEZA = 0, then\nFSIF = 0\nOther fees\nIf applicable compute the appropriate fees in\naccordance with Section 12.0.0.4 of the RI"
+            }
+          ]
+        }
+      ]
+    ],
+    "scope_caution": "Multiple occurrences require selecting the correct source row; a match alone is not independent semantic validation."
+  },
+  {
+    "id": "DEV-EVID-08",
+    "source_page_id": "BFP-PDF0001",
+    "groups": [
+      [
+        {
+          "label": "For FSEC",
+          "occurrences": [
+            {
+              "start": 6224,
+              "end": 6232,
+              "passage": "e (5) minutes\n\nPERSON RESPONSIBLE: CRO\n\nFEES TO BE PAID [shared cell spanning all six agency rows]:\nFor FSEC\nApplication Fee: Php 200.00\nFCCT = 0.1% of the verified estimated value\n(materials and labor) of th"
+            }
+          ]
+        },
+        {
+          "label": "Application Fee: Php 200.00",
+          "occurrences": [
+            {
+              "start": 6233,
+              "end": 6260,
+              "passage": "utes\n\nPERSON RESPONSIBLE: CRO\n\nFEES TO BE PAID [shared cell spanning all six agency rows]:\nFor FSEC\nApplication Fee: Php 200.00\nFCCT = 0.1% of the verified estimated value\n(materials and labor) of the building/structure or\nfaci"
+            }
+          ]
+        }
+      ]
+    ],
+    "scope_caution": "Multiple occurrences require selecting the correct source row; a match alone is not independent semantic validation."
+  },
+  {
+    "id": "DEV-EVID-09",
+    "source_page_id": "BB-PDF0016",
+    "groups": [
+      [
+        {
+          "label": "RENEWAL",
+          "occurrences": [
+            {
+              "start": 1442,
+              "end": 1449,
+              "passage": "Fire Protection\n19. Other Requirements depending on the\nBusiness Activity declared\nConcerned Agency\nRENEWAL \n1. List of Employees stating the Name and\nPosition of the Employees (1 copy)\nApplicant\n2. For Sole"
+            }
+          ]
+        },
+        {
+          "label": "List of Employees stating the Name and Position of the Employees (1 copy)",
+          "occurrences": [
+            {
+              "start": 1454,
+              "end": 1527,
+              "passage": "ion\n19. Other Requirements depending on the\nBusiness Activity declared\nConcerned Agency\nRENEWAL \n1. List of Employees stating the Name and\nPosition of the Employees (1 copy)\nApplicant\n2. For Sole Proprietorship, if represented,\nSpecial Power of Attorney, indicating \nspecif"
+            }
+          ]
+        }
+      ]
+    ],
+    "scope_caution": "Multiple occurrences require selecting the correct source row; a match alone is not independent semantic validation."
+  },
+  {
+    "id": "DEV-EVID-10",
+    "source_page_id": "BB-PDF0016",
+    "groups": [
+      [
+        {
+          "label": "For Sole Proprietorship, if represented",
+          "occurrences": [
+            {
+              "start": 1541,
+              "end": 1580,
+              "passage": "\nRENEWAL \n1. List of Employees stating the Name and\nPosition of the Employees (1 copy)\nApplicant\n2. For Sole Proprietorship, if represented,\nSpecial Power of Attorney, indicating \nspecific authority and capacity granted to \nrepresentative."
+            }
+          ]
+        },
+        {
+          "label": "Special Power of Attorney",
+          "occurrences": [
+            {
+              "start": 111,
+              "end": 136,
+              "passage": "rtificate of Registration, if \napplicable.\nDepartment of Human Settlement \nand Urban Development\n9. Special Power of Attorney (1 current \nand original) for represented - Sole \nProprietorship\nApplicant, notarized by any Notary"
+            },
+            {
+              "start": 1582,
+              "end": 1607,
+              "passage": "e Name and\nPosition of the Employees (1 copy)\nApplicant\n2. For Sole Proprietorship, if represented,\nSpecial Power of Attorney, indicating \nspecific authority and capacity granted to \nrepresentative.\nApplicant, notarized by an"
+            }
+          ]
+        },
+        {
+          "label": "specific authority and capacity",
+          "occurrences": [
+            {
+              "start": 1621,
+              "end": 1652,
+              "passage": " copy)\nApplicant\n2. For Sole Proprietorship, if represented,\nSpecial Power of Attorney, indicating \nspecific authority and capacity granted to \nrepresentative.\nApplicant, notarized by any Notary \nPublic\n3. For Partnership, Partners"
+            },
+            {
+              "start": 1779,
+              "end": 1810,
+              "passage": ".\nApplicant, notarized by any Notary \nPublic\n3. For Partnership, Partnership Resolution,\nindicating specific authority and capacity \ngranted to representative.\nApplicant, notarized by any Notary \nPublic"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "label": "Special Power of Attorney",
+          "occurrences": [
+            {
+              "start": 111,
+              "end": 136,
+              "passage": "rtificate of Registration, if \napplicable.\nDepartment of Human Settlement \nand Urban Development\n9. Special Power of Attorney (1 current \nand original) for represented - Sole \nProprietorship\nApplicant, notarized by any Notary"
+            },
+            {
+              "start": 1582,
+              "end": 1607,
+              "passage": "e Name and\nPosition of the Employees (1 copy)\nApplicant\n2. For Sole Proprietorship, if represented,\nSpecial Power of Attorney, indicating \nspecific authority and capacity granted to \nrepresentative.\nApplicant, notarized by an"
+            }
+          ]
+        },
+        {
+          "label": "notarized by any Notary Public",
+          "occurrences": [
+            {
+              "start": 213,
+              "end": 244,
+              "passage": "ecial Power of Attorney (1 current \nand original) for represented - Sole \nProprietorship\nApplicant, notarized by any Notary \nPublic\n10.Partnership Resolution (1 current and \noriginal) for represented – Partnership\nApplicant, notari"
+            },
+            {
+              "start": 338,
+              "end": 369,
+              "passage": "Public\n10.Partnership Resolution (1 current and \noriginal) for represented – Partnership\nApplicant, notarized by any Notary \nPublic\n11. Secretary’s Certificate or Board \nResolution for other form of ownership (1 \ncurrent and origin"
+            },
+            {
+              "start": 515,
+              "end": 546,
+              "passage": "ion for other form of ownership (1 \ncurrent and original) - Corporation and \nCooperative\nApplicant, notarized by any Notary \nPublic\n12. Valid I.D. of representatives, owners\n(Sole Proprietor, OPC, Partnership), and \nCorporate Secre"
+            },
+            {
+              "start": 872,
+              "end": 903,
+              "passage": " Lessor if business \nlocation is not owned and is rented by the \napplicant (1 photocopy)\nApplicant, notarized by any Notary \nPublic\n14. Any proof of ownership if Business\nlocation is owned\nApplicant\n15. consent and copy of any proo"
+            },
+            {
+              "start": 1692,
+              "end": 1723,
+              "passage": "wer of Attorney, indicating \nspecific authority and capacity granted to \nrepresentative.\nApplicant, notarized by any Notary \nPublic\n3. For Partnership, Partnership Resolution,\nindicating specific authority and capacity \ngranted to "
+            },
+            {
+              "start": 1850,
+              "end": 1881,
+              "passage": "rship Resolution,\nindicating specific authority and capacity \ngranted to representative.\nApplicant, notarized by any Notary \nPublic"
+            }
+          ]
+        }
+      ]
+    ],
+    "scope_caution": "Multiple occurrences require selecting the correct source row; a match alone is not independent semantic validation."
+  },
+  {
+    "id": "DEV-EVID-11",
+    "source_page_id": "CPDO-PDF0011",
+    "groups": [
+      [
+        {
+          "label": "Seven (7) complete sets of Building Plans (original copy)",
+          "occurrences": [
+            {
+              "start": 977,
+              "end": 1035,
+              "passage": "\nCPDO\n4. SPA from the building owner to \nprocess application for Locational \nClearance\nApplicant\n5. Seven (7) complete sets of Building \nPlans (original copy) \na. Filled-up title blocks \nb. Signed and sealed by CE / Architect\nApplicant\n6. Certified True Copy"
+            }
+          ]
+        },
+        {
+          "label": "Filled-up title blocks",
+          "occurrences": [
+            {
+              "start": 1040,
+              "end": 1062,
+              "passage": "r Locational \nClearance\nApplicant\n5. Seven (7) complete sets of Building \nPlans (original copy) \na. Filled-up title blocks \nb. Signed and sealed by CE / Architect\nApplicant\n6. Certified True Copy of Title issued \nby the Re"
+            }
+          ]
+        },
+        {
+          "label": "Signed and sealed by CE / Architect",
+          "occurrences": [
+            {
+              "start": 1067,
+              "end": 1102,
+              "passage": "licant\n5. Seven (7) complete sets of Building \nPlans (original copy) \na. Filled-up title blocks \nb. Signed and sealed by CE / Architect\nApplicant\n6. Certified True Copy of Title issued \nby the Registry of Deeds (ROD) or \nshow original "
+            }
+          ]
+        }
+      ]
+    ],
+    "scope_caution": "Multiple occurrences require selecting the correct source row; a match alone is not independent semantic validation."
+  },
+  {
+    "id": "DEV-EVID-12",
+    "source_page_id": "CPDO-PDF0011",
+    "groups": [
+      [
+        {
+          "label": "Who may avail",
+          "occurrences": [
+            {
+              "start": 617,
+              "end": 630,
+              "passage": "action \nG2G – Government to Government; G2B – \nGovernment to Business; G2C – Government to \nCitizen\nWho may avail \nBuilding Owner or Authorized Representative\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Order of"
+            }
+          ]
+        },
+        {
+          "label": "Building Owner or Authorized Representative",
+          "occurrences": [
+            {
+              "start": 632,
+              "end": 675,
+              "passage": "overnment to Government; G2B – \nGovernment to Business; G2C – Government to \nCitizen\nWho may avail \nBuilding Owner or Authorized Representative\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Order of Payment (1 original) \nCity Planning & Develo"
+            }
+          ]
+        }
+      ]
+    ],
+    "scope_caution": "Multiple occurrences require selecting the correct source row; a match alone is not independent semantic validation."
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "status": "CANDIDATE_WITH_INCOMPLETE_SOURCE_RATE_NOT_FINAL_SIGNOFF",
+  "source_characters_preserved": true,
+  "protected_file_hashes": {
+    "data\\raw_charters\\City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf": "b492eb8d220d1d9fb8b1d3acad2bba254d711e227063853415182b1715e546de",
+    "app\\pipeline.py": "c773ede0be8a7f31ca53124a5ed9d9cad29ccf3726634b25c162a0321ac84cd2",
+    "data\\municipal_dictionary_v1.json": "5ecbcc99538d9a88c7905378abe8a3712831afdfe8e9647cfdf2698600bdab62",
+    "experiments\\chapter3-step2-development\\bm25_index.pkl": "5a822a0b9719d4a021e7d65dcc179f3dc91b15ce5621875346fce757377e016e",
+    "experiments\\chapter3-step2-development\\corpus.json": "e5c5ff0d20df1c8a29af0f36c584c4a358d7da745b31bfb3292c80e736b886b5",
+    "experiments\\chapter3-step2-development\\faiss_index.bin": "f97d0f6a4b5d7d525c6b3514635b4384c94719ff5c428d4f23fa700e29fc45fd",
+    "experiments\\chapter3-step2-development\\index_provenance.json": "6fdb23262c6c1d5bec3ce5e92800c25c4d853e4a008c1ae7c101bc46c2981710",
+    "experiments\\chapter3-step2-development\\pipeline_manifest.json": "9c6b9e68fe2f5646ce37455c91b59639b61ec25155ba9a3f63efcefec08f2bf6",
+    "experiments\\chapter3-step2-development\\readback_validation.json": "4525a78319434c8b91910d0a4e87de3449de33ad7a44557630b825d34a57126b",
+    "experiments\\chapter3-step2-development\\smoke_checks.json": "f01c6f2ed2209a1676922e20d852522b9338a8251ec604f7733b8bacf45ff1f2",
+    "experiments\\chapter3-step2-development\\source_pages.json": "7d995513e7b869f78680db624c98bee95ff6867b38295ef4a61697b64c12210a",
+    "experiments\\chapter3-step2-development\\step2_changes.patch": "564c0ecbbf572503734f6e916d58a373dd6c8b9d4c609a53b60e13a4f8bd914c",
+    "experiments\\chapter3-step2-development\\step2_change_log.json": "c5975968c0a9524b52acebef7e2bf4d3f4bf4d5105ea5b3bb8477770d063717b",
+    "experiments\\chapter3-step2-development\\test_results.txt": "f081c32e5c745c62f5edef7ad8cd0038014cacf95785cbb53c31ea425194bd18",
+    "experiments\\chapter3-step2-development\\validation.json": "56bbe6781445e0477ee1808def627a30edcb01c91755dd1ab8b54f1682e319ec"
+  },
+  "token_validation": {
+    "passed": true,
+    "chunk_count": 3,
+    "source_page_count": 1,
+    "window_tokens": 120,
+    "stride_tokens": 100,
+    "overlap_tokens": 20,
+    "verified_overlap_pairs": 2,
+    "max_embedding_input_tokens": 122,
+    "display_text_retokenized_over_120": 0,
+    "embedding_path": "verified source token IDs; display text is not re-tokenized"
+  },
+  "active_files_modified": false,
+  "indices_rebuilt": false,
+  "benchmark_accessed": false,
+  "independent_human_review": false,
+  "manual_checks": [
+    "Ice Crusher source reads P 10.00 per with no following unit. Obtain authoritative clarification before supplying a complete rate.",
+    "Independent human sign-off on fee associations and retained heading/subcategory structure."
+  ],
+  "preserved_conditions": "Chicken: 500.00per 1,000 heads or a fraction thereof retained verbatim apart from line breaks.",
+  "blank_handling": "Two empty fee cells remain explicitly blank, not zero or free.",
+  "scope": "No currency or per-head unit added to the five continuation rates at top of page."
+}

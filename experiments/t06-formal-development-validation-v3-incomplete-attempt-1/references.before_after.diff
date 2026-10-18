@@ -1,0 +1,139 @@
+--- v2
++++ v3
+@@ -138,8 +138,13 @@
+     "group_id": "SCENARIO-BB-006",
+     "pillar": "Business Bureau",
+     "split": "development",
+-    "ground_truth_chunk_ids": [],
+-    "ground_truth_reference_answer": "Under ICAB regulations for Internet Cafes and Pisonet operations, operators must comply with mandatory ocular standards: 1) ISP contract/receipt; 2) Half-closed cubicles not exceeding 5 feet from the floor; 3) Lighting of at least 25 Lux (fluorescent/LED) or 50 Lux (incandescent); 4) Permanently fixed webcams; 5) Content filtering systems blocking pornography; 6) 12x18 inch warning sign prohibiting minors prior to 6:00 AM and beyond 9:00 PM; and 7) Separate toilets for over 30 units. The ICAB accreditation fee is PHP 100.00 for the first 10 computer units plus PHP 10.00 for each additional unit.",
++    "ground_truth_chunk_ids": [
++      "DEV120-BB-PDF0079-C004",
++      "DEV120-BB-PDF0080-C001",
++      "DEV120-BB-PDF0080-C002",
++      "DEV120-BB-PDF0081-C002"
++    ],
++    "ground_truth_reference_answer": "The ICAB checklist includes an ISP contract, certification or current receipt of payment; half-closed cubicles not more than 5 feet from the floor apply to Internet Cafes only. Lighting must be at least 25 Lux for fluorescent/LED lights or 50 Lux for incandescent lights. A warning sign at least 12 x 18 inches must state: no pornography, no gambling, no hacking, no minors prior to 6:00 AM and beyond 9:00 PM, and students may not play games during prescribed school hours. A system must block or filter pornographic sites/content; permanently fixed webcams are required for Internet Cafes only. The checklist also prohibits selling and consuming intoxicating drinks and cigarettes on the premises and lists a copy of ICAB ordinances 227-04, 0387-12 and 0270-15, as amended. Headphones, a urinal for 30 units and below, and separate male and female CRs for 31 units and above are listed for Internet Cafes only. For Internet Cafe and Pisonet owners, the fee cell states \"PHP100.00 for the first 10 units and PHP10.00 for every unit\". This wording is preserved without interpreting \"every unit\" as \"each additional unit\".",
+     "queries": {
+       "english": "What are the physical facility requirements and fees to obtain ICAB accreditation for an internet cafe or pisonet business?",
+       "taglish": "Ano ang mga kailangang sundin sa pwesto at magkano ang babayarang ICAB fee para sa internet cafe o pisonet?",
+@@ -151,7 +156,7 @@
+       "CHUNK-BB-P119-C01",
+       "CHUNK-BB-P120-C02"
+     ],
+-    "mapping_status": "BLOCKED_PENDING_SOURCE_REVIEW"
++    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_DEVELOPMENT_LABELS"
+   },
+   {
+     "group_id": "SCENARIO-CTO-001",
+@@ -440,8 +445,13 @@
+     "group_id": "SCENARIO-CPDO-001",
+     "pillar": "City Planning and Development Office",
+     "split": "development",
+-    "ground_truth_chunk_ids": [],
+-    "ground_truth_reference_answer": "A Zoning Certification is issued by the CPDO Zoning Enforcement Division based on the Integrated Zoning Ordinance (2019–2028) to certify land-use classification. Requirements are: 1) Accomplished application form (1 original); 2) Certified True Copy of Title from the Registry of Deeds (1 photocopy); 3) Subdivision / Sketch Plan by a Geodetic Engineer (1 original); and 4) CTO Official Receipt. The fee is PHP 750.00 per hectare, and total administrative processing time is 3 Days, 6 Hours, and 50 Minutes.",
++    "ground_truth_chunk_ids": [
++      "DEV120-CPDO-PDF0002-C001",
++      "DEV120-CPDO-PDF0002-C002",
++      "DEV120-CPDO-PDF0002-C004",
++      "DEV120-CPDO-PDF0004-C001"
++    ],
++    "ground_truth_reference_answer": "The CPDO Zoning Enforcement Division issues Zoning Certification based on the Integrated Zoning Ordinance (2019-2028). The checklist requires: Certified True Copy of Title(s), 1 photocopy, from the Registry of Deeds; duly accomplished application form, 1 original, from CPDO; Subdivision/Sketch Plan, 1 original, from Bureau of Land/private Geodetic Engineer; Order of Payment, 1 original, from CPDO; and Official Receipt, 1 original, from the City Treasurer's Office. The zoning fee is PHP 750 per hectare; the payment step depends on CTO processing time, described as uncontrollable time. The charter lists a TOTAL processing time of 3 Days, 6 Hours, and 50 Minutes.",
+     "queries": {
+       "english": "What are the requirements, fee per hectare, and processing time for a CPDO Zoning Certification in Davao City?",
+       "taglish": "Ano ang requirements, magkano ang bayad kada hektarya, at gaano katagal ang processing ng Zoning Certification sa CPDO?",
+@@ -452,7 +462,7 @@
+       "CHUNK-CPDO-P631-C02",
+       "CHUNK-CPDO-P633-C01"
+     ],
+-    "mapping_status": "BLOCKED_PENDING_SOURCE_REVIEW"
++    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_DEVELOPMENT_LABELS"
+   },
+   {
+     "group_id": "SCENARIO-CPDO-002",
+@@ -578,8 +588,21 @@
+     "group_id": "SCENARIO-BFP-001",
+     "pillar": "Bureau of Fire Protection",
+     "split": "development",
+-    "ground_truth_chunk_ids": [],
+-    "ground_truth_reference_answer": "The Fire Safety Evaluation Clearance (FSEC) is required prior to securing an OCBO building permit to certify design plan compliance with the Fire Code of the Philippines (RA 9514). Applicants must submit three (3) complete sets of architectural, civil, electrical, mechanical, plumbing, electronics, sanitary, and fire protection design plans signed and sealed by professionals, along with the PRC licenses and estimated building values. Fees are: 1) Application Fee of PHP 200.00; and 2) Fire Code Construction Tax (FCCT) of 0.1% of the verified estimated value of materials and labor, capped at a maximum of PHP 50,000.00.",
++    "ground_truth_chunk_ids": [
++      "DEV120-BFP-PDF0001-C052",
++      "DEV120-BFP-PDF0001-C027",
++      "DEV120-BFP-PDF0001-C028",
++      "DEV120-BFP-PDF0001-C029",
++      "DEV120-BFP-PDF0001-C030",
++      "DEV120-BFP-PDF0001-C031",
++      "DEV120-BFP-PDF0001-C032",
++      "DEV120-BFP-PDF0001-C035",
++      "DEV120-BFP-PDF0001-C036",
++      "DEV120-BFP-PDF0001-C017",
++      "DEV120-BFP-PDF0001-C018",
++      "DEV120-BFP-PDF0001-C019"
++    ],
++    "ground_truth_reference_answer": "The documentary checklist specifies three (3) sets of the listed documents. The FSEC column marks architectural, civil, electrical, mechanical, plumbing, electronics, sanitary and fire protection documents. Documents mean design plans, calculations and specifications signed and sealed by the Professional Engineer/Architect. Also listed for FSEC are one signed-and-sealed set of the estimated value of the building/structure or facilities, including materials and labor cost, and copies of valid PRC Professional Licenses of all involved professionals. The FSEC application fee is PHP 200.00; FCCT is 0.1% of the verified estimated materials-and-labor value of the building/structure or facility, capped at PHP 50,000.00. The fee note states that, when the UAF declared estimate differs substantially from current acceptable market construction cost per square meter or the value indicated in Table II.G.1 of PD 1096, the higher value will be adopted.",
+     "queries": {
+       "english": "What are the required blueprint submittals and fee formulas to secure an FSEC from the Bureau of Fire Protection?",
+       "taglish": "Ano ang requirements at paano kinukwenta ang bayad sa FSEC sa BFP bago makakuha ng building permit?",
+@@ -588,7 +611,7 @@
+     "legacy_ground_truth_chunk_ids": [
+       "CHUNK-BFP-P001-C19"
+     ],
+-    "mapping_status": "BLOCKED_PENDING_SOURCE_REVIEW"
++    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_DEVELOPMENT_LABELS"
+   },
+   {
+     "group_id": "SCENARIO-BFP-002",
+@@ -636,8 +659,15 @@
+     "group_id": "SCENARIO-BFP-004",
+     "pillar": "Bureau of Fire Protection",
+     "split": "development",
+-    "ground_truth_chunk_ids": [],
+-    "ground_truth_reference_answer": "Under RA 9514 regulations, specialized fire safety technical reports are mandatory if a building or establishment is required to install any or a combination of: 1) Wet standpipe systems; 2) Automatic fire suppression systems (AFSS); or 3) Automatic fire detection and alarm systems (FDAS). The required reports are: Fire Safety Compliance Report (FSCR) prepared by the Engineer/Architect of record and Fire Safety Practitioner during design; Fire Safety Compliance and Commissioning Report (FSCCR) by the contractor upon turnover; and Fire Safety Maintenance Report (FSMR) by the building administrator during annual inspections.",
++    "ground_truth_chunk_ids": [
++      "DEV120-BFP-PDF0001-C043",
++      "DEV120-BFP-PDF0001-C004",
++      "DEV120-BFP-PDF0001-C005",
++      "DEV120-BFP-PDF0001-C040",
++      "DEV120-BFP-PDF0001-C041",
++      "DEV120-BFP-PDF0001-C042"
++    ],
++    "ground_truth_reference_answer": "FSCR/FSCCR/FSMR are required if the building/facilities/structures are required to install any or a combination of wet standpipe, automatic fire suppression, or automatic fire detection and alarm systems. FSCR consists of plans, specifications and design analysis per building, prepared and duly signed by the Engineer/Architect-of-Record and his/her Fire Safety Practitioner. FSCCR compiles approved submittals, test and acceptance forms for fire protection and life safety features as part of as-built documents turned over by the contractor to the owner; it is duly signed by the Contractor/Construction Manager and his/her Fire Safety Practitioner. FSMR is prepared by the building owner, his/her fire safety practitioner or authorized representative, and duly signed by the Building Administrator and his/her Fire Safety Practitioner during regular annual fire safety inspection. The matrix associates FSCR with FSEC, FSCCR with occupancy FSIC, and FSMR with new business without valid occupancy-stage FSIC and the two renewal columns; blank cells are not exemption statements.",
+     "queries": {
+       "english": "Under what structural conditions are FSCR, FSCCR, and FSMR required by the BFP, and who prepares them?",
+       "taglish": "Kailan kailangang mag-submit ng FSCR, FSCCR, at FSMR sa bombero at sinong practitioner ang dapat pumirma nito?",
+@@ -647,14 +677,18 @@
+       "CHUNK-BFP-P001-C02",
+       "CHUNK-BFP-P001-C16"
+     ],
+-    "mapping_status": "BLOCKED_PENDING_SOURCE_REVIEW"
++    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_DEVELOPMENT_LABELS"
+   },
+   {
+     "group_id": "SCENARIO-BFP-005",
+     "pillar": "Bureau of Fire Protection",
+     "split": "development",
+-    "ground_truth_chunk_ids": [],
+-    "ground_truth_reference_answer": "Under the BFP Citizen's Charter, a Fire Safety Clearance for welding, cutting, and other hot work operations must be secured under two operational categories: 1) Per Project Duration for new construction or renovation projects, applied during construction after conducting a fire safety inspection; or 2) Annual Fire Safety Clearance for business establishments requiring daily repair, fabrication, or hot work maintenance due to the routine nature of their business operations.",
++    "ground_truth_chunk_ids": [
++      "DEV120-BFP-PDF0001-C043",
++      "DEV120-BFP-PDF0001-C044",
++      "DEV120-BFP-PDF0001-C045"
++    ],
++    "ground_truth_reference_answer": "Fire Safety Clearance for welding, cutting and other hot work operations shall be secured if required. Per Project Duration applies to new construction or renovation; the clearance should be applied for during construction after the conduct of fire safety inspection. Annual applies to business establishments requiring almost daily repair or maintenance due to the nature of their business or operations. The matrix marks the per-project row under FSEC and the annual row under the two renewal columns; blank cells are not exemption statements.",
+     "queries": {
+       "english": "When must a business or contractor secure a BFP Fire Safety Clearance for welding, cutting, and hot works?",
+       "taglish": "Kailan kailangang kumuha ng Fire Safety Clearance para sa welding o hot works at paano ang validity nito?",
+@@ -663,7 +697,7 @@
+     "legacy_ground_truth_chunk_ids": [
+       "CHUNK-BFP-P001-C24"
+     ],
+-    "mapping_status": "BLOCKED_PENDING_SOURCE_REVIEW"
++    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_DEVELOPMENT_LABELS"
+   },
+   {
+     "group_id": "SCENARIO-BFP-006",
+@@ -684,4 +718,4 @@
+     ],
+     "mapping_status": "PROVISIONAL_EXACT_SPAN_MAPPING"
+   }
+-]+]

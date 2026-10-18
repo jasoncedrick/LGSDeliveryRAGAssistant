@@ -1,0 +1,20 @@
+T06 development reference correction and archived-ranking rescore
+
+Completed steps 1-3 only. Five answers and relevance sets were revised from the source review; all 90 original queries and generated outcomes were preserved.
+
+K | Queries | Hits | Hit rate | MRR
+3 | 90 | 65 | 0.722222 | 0.570370
+5 | 90 | 68 | 0.755556 | 0.577593
+
+Read reference_changes.json for exact before/after answers and IDs; claim_source_evidence.json maps each corrected sentence to source text, pages, offsets and hashes.
+
+The unchanged 75-query subset reproduces its prior metrics exactly. The full denominator is now 90, including all six clarification outcomes as misses. These scores do not measure a retrieval improvement.
+
+Five groups have assistant source-reviewed answers; the other 25 retain provisional lexical mappings and unreviewed legacy answer semantics.
+90-query scores have a different denominator from the earlier 75-query scores and are not evidence of improved retrieval.
+BFP three-set label is stranded in chunks C052/C053, separated from documentary rows; source meaning verified visually, corpus unchanged.
+BB fee wording remains ambiguous; no numeric extrapolation or additional-unit interpretation is approved.
+Assistant review is not the independent expert audit specified by the manuscript.
+This fixed candidate run is not a tuned/frozen Config A/B/C evaluation; generation was K=5 only.
+
+Next, on user instruction: Step 4 offline RAGAS using interactions.corrected_references.jsonl, with clarification skips and scoring failures recorded separately. Step 5 final validation report follows; neither has been run here.

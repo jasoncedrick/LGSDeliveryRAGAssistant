@@ -1,0 +1,50 @@
+{
+  "status": "development_not_frozen",
+  "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "model_snapshot": "e8f8c211226b894fcb81acc59f3b34ba3efd5f42",
+  "embedding_path": "source_token_ids",
+  "window_tokens": 120,
+  "overlap_tokens": 20,
+  "dimension": 384,
+  "row_count": 1042,
+  "files": {
+    "corpus.json": "e5c5ff0d20df1c8a29af0f36c584c4a358d7da745b31bfb3292c80e736b886b5",
+    "source_pages.json": "7d995513e7b869f78680db624c98bee95ff6867b38295ef4a61697b64c12210a",
+    "bm25_index.pkl": "5a822a0b9719d4a021e7d65dcc179f3dc91b15ce5621875346fce757377e016e",
+    "faiss_index.bin": "f97d0f6a4b5d7d525c6b3514635b4384c94719ff5c428d4f23fa700e29fc45fd",
+    "pipeline_manifest.json": "9c6b9e68fe2f5646ce37455c91b59639b61ec25155ba9a3f63efcefec08f2bf6",
+    "validation.json": "56bbe6781445e0477ee1808def627a30edcb01c91755dd1ab8b54f1682e319ec"
+  },
+  "source_pdfs": [
+    {
+      "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+      "sha256": "5ec6c626b194ad14fabfd6bd5b29671144f335d8fd38ccdae1d1dab6bff17145",
+      "pdf_pages": 83
+    },
+    {
+      "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "sha256": "b492eb8d220d1d9fb8b1d3acad2bba254d711e227063853415182b1715e546de",
+      "pdf_pages": 64
+    },
+    {
+      "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "sha256": "6f081dde0a63ade8aaa3f4dc5a26ceb0c7fde85f896951931d8222eaa86b3093",
+      "pdf_pages": 107
+    },
+    {
+      "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+      "sha256": "6d1572dc7ef1122064b3db8d799f27356231dd2cbeafb84231c6f315820b1005",
+      "pdf_pages": 103
+    },
+    {
+      "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+      "sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+      "pdf_pages": 1
+    }
+  ],
+  "build_code_sha256": {
+    "scripts\\build_chapter3_development.py": "0530b6e50d1de740727ba8c414e3600fc590325eb445982f0974007d2feb1e84",
+    "src\\token_windows.py": "fcf32489c78e3c02984a6b16572018940e7792324f972d588a8aec5be1d87023"
+  },
+  "held_out_benchmarks_accessed": false
+}

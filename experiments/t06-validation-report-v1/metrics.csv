@@ -1,0 +1,9 @@
+metric,k,mean,valid_denominator,excluded_clarifications,failed_values
+hit_at_k,3,0.7222222222222222,90,0,0
+mrr_at_k,3,0.5703703703703704,90,0,0
+hit_at_k,5,0.7555555555555555,90,0,0
+mrr_at_k,5,0.5775925925925927,90,0,0
+faithfulness,5,0.815249433106576,84,6,0
+context_precision,5,0.9068440428146831,83,6,1
+context_recall,5,0.970959595959596,84,6,0
+answer_relevancy,5,0.5759141736165405,82,6,2

@@ -1,0 +1,81 @@
+{
+  "completed_at": "2026-10-19T01:24:56.549777+08:00",
+  "step": "1: standalone chunk retriever and corpus/index audit",
+  "status": "SCORING_TESTED_RUNTIME_SWITCH_DEFERRED",
+  "backup": "D:\\thesis\\LGSDeliveryRAGAssistant-main\\backups\\chapter3-chunk-retriever-20261019-012220",
+  "references": [
+    {
+      "path": "C:\\Users\\User\\Downloads\\20260923.pdf",
+      "sha256": "628193ea55abc364c06dd3251a79126fa55ca2af2cb9d23e25cb584e7757f98a"
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\thesis_progress_tracker.xlsx",
+      "sha256": "74ae6a572885e54be360b13bd548e078e59c1a72d66c9180b52acbabcf6bf2ed"
+    }
+  ],
+  "manuscript_basis": {
+    "3.2.2": {
+      "pdf_page": 28,
+      "printed_page": 23,
+      "requirement": "120-token windows, 20-token overlap"
+    },
+    "3.2.4": {
+      "pdf_page": 30,
+      "printed_page": 25,
+      "requirement": "Chunk-level min-max BM25/dense/dictionary fusion; simplex weights"
+    },
+    "3.2.6": {
+      "pdf_page": 31,
+      "printed_page": 26,
+      "requirement": "Prebuilt indices at startup; asynchronous interaction archives"
+    },
+    "3.2.8": {
+      "pdf_page": 34,
+      "printed_page": 29,
+      "requirement": "Freeze and held-out isolation"
+    }
+  },
+  "tracker_basis": {
+    "sheet": "Thesis Tracker",
+    "ranges": [
+      "A12:K13",
+      "A16:K17"
+    ],
+    "status_note": "User confirmed main tab; T01-T07 recorded Complete; not altered or re-certified"
+  },
+  "new_files": [
+    "src/chunk_retriever.py",
+    "scripts/verify_chapter3_retrieval.py",
+    "tests/test_chunk_retriever.py"
+  ],
+  "existing_files_changed": [],
+  "preserved_file_hash_checks": {
+    "app/pipeline.py": true,
+    "app/main.py": true,
+    "src/query_normalizer.py": true,
+    "scripts/ingest_eboss_corpus.py": true,
+    "config/pipeline_manifest.json": true,
+    "data/municipal_dictionary_v1.json": true,
+    "data/eboss_corpus_chunks_v1.json": true,
+    "data/bm25_index.pkl": true,
+    "data/faiss_index.bin": true
+  },
+  "reference_hash_checks": {
+    "C:\\Users\\User\\Downloads\\20260923.pdf": true,
+    "C:\\Users\\User\\Downloads\\thesis_progress_tracker.xlsx": true
+  },
+  "tests_passed": 8,
+  "audit": "corpus_audit.json",
+  "remaining_work": [
+    "Prepare separate development corpus with verified serialized token lengths and source-window overlap evidence; preserve original artifacts and benchmark IDs.",
+    "Build separate matching development indices and establish vector provenance.",
+    "Wire validated chunk retrieval into app/pipeline.py and update API reporting.",
+    "Make contextual normalization an explicit development opt-in.",
+    "Align generation and offline evaluation with manuscript; no section-repair pilots or held-out runs."
+  ],
+  "held_out_benchmarks_accessed": false,
+  "tracker_modified": false,
+  "app_runtime_modified": false,
+  "artifact_loader_guard_verified": true,
+  "artifact_loader_result": "Rejected current v1 corpus: 42 invalid lengths; 86 stale token counts."
+}

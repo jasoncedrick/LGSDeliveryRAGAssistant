@@ -1,0 +1,25 @@
+{
+  "conclusion": "Original misses are ranking/context sensitivity, not absent pages or index misalignment.",
+  "evidence": [
+    "Original encode/receive query: answer-bearing page14 C002 ranks BM25 5, dense 30, fused 9.",
+    "Adding occupancy permit: same chunk ranks BM25 3, dense 125, fused 24.",
+    "Original structural inspection query: best page15 chunk ranks BM25 10, dense 10, fused 8.",
+    "Service-explicit inspection query: page15 C001 fused rank 2.",
+    "Literal action queries: both intended pages fused rank 1.",
+    "Occupancy service heading is on page13, absent from page14 C002 and page15 inspection chunks.",
+    "Returned OCBO chunks contain similar receive/encode or structural/inspection wording from other services."
+  ],
+  "limits": [
+    "Source-page hits do not establish that all required answer facts fit the returned chunk.",
+    "Four original question/K combinations are too small and underspecified to justify weight changes.",
+    "Editorial table labels occupy tokens; their contribution to ranking has not been isolated experimentally."
+  ],
+  "recommendations": [
+    "Retain 120/20, chunk-level fusion, K3/K5 and current weights during diagnosis.",
+    "Create independently source-labelled development questions with explicit service and action, including ambiguous queries and other offices.",
+    "Assess answer-bearing chunk coverage, not just page hits; record service confusion separately.",
+    "Review source-linked service metadata and concise table serialization as possible preprocessing changes, but do not add arbitrary section expansion or tune on held-out benchmarks.",
+    "Keep the current app default pending broader development evaluation."
+  ],
+  "changes_applied": "Diagnostic script and reports only; no corpus, dictionary, index, weights, app default or benchmarks changed."
+}

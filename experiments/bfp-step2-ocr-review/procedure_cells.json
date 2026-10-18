@@ -1,0 +1,259 @@
+[
+  {
+    "cells": [
+      [
+        17.973408037302445,
+        2722.510009765625,
+        567.4392414093018,
+        2765.4546630859377
+      ],
+      [
+        567.4392414093018,
+        2722.510009765625,
+        1114.6576250861672,
+        2765.4546630859377
+      ],
+      [
+        1114.6576250861672,
+        2722.510009765625,
+        1601.228154962713,
+        2765.4546630859377
+      ],
+      [
+        1601.228154962713,
+        2722.510009765625,
+        2168.489979137074,
+        2765.4546630859377
+      ],
+      [
+        2168.489979137074,
+        2722.510009765625,
+        2574.606028965541,
+        2765.4546630859377
+      ]
+    ],
+    "text": [
+      "CLIENTS STEP",
+      "AGENCY ACTION",
+      "PROCESSING TIME",
+      "FEES TO BE PAID",
+      "PERSON RESPONSIBLE"
+    ]
+  },
+  {
+    "cells": [
+      [
+        17.973408037302445,
+        2765.4546630859377,
+        567.4392414093018,
+        2896.9033203125
+      ],
+      [
+        567.4392414093018,
+        2765.4546630859377,
+        1114.6576250861672,
+        2896.9033203125
+      ],
+      [
+        1114.6576250861672,
+        2765.4546630859377,
+        1601.228154962713,
+        2896.9033203125
+      ],
+      [
+        1601.228154962713,
+        2765.4546630859377,
+        2168.489979137074,
+        3881.7529296875
+      ],
+      [
+        2168.489979137074,
+        2765.4546630859377,
+        2574.606028965541,
+        2896.9033203125
+      ]
+    ],
+    "text": [
+      "1. Accomplished the application form and submit\nthe same with all the required documents stated\nin the BFP FSEC/FSIC Application Form or\nUnified Application Form",
+      "1. Issue queuing number, check completeness\nof submitted documents by the client and record\nt h e details of the applicant (e.g. Name of\napplicant, date of application, etc)",
+      "maximum of ten (10) minutes",
+      "For FSEC\nApplication Fee: Php 200.00\nFCCT = 0.1% of the verified estimated value\n(materials and labor) of the building/structure or\nfacility but not more than Php 50,000.00\nSample computation:\nFCCT = (Verified estimated value) x (.1%) = ___Php\nbut not more than Php 50, 000.00\nNote: Section 8.3.6 of JMC 2021-01 Series of\n2021\u2014In the event that there is substantial\ndifference between the cost estimate of the building\nor structure as declared by the owner or applicant\nin the UAF from current acceptable market\nconstruction cost per square meter or as indicated\nin Table II.G.1 of PD 1096, the higher the value will\nbe adopted\nFor FSIC (Certificate of Occupancy)/FSIC (New\nBusiness and Renewal of Business) Applica-\ntion\nFSIF = 15% of all fees charge by LGU/Philippine\nEconomic Zone Authority (PEZA) but in no case\nshall be lower than Php 500.00\nSample computation:\nFSIF = (All fees charged by the LGU/PEZA) x\n(15%) = ______ Php but in no case shall be lower\nthan Php 500.00\nNote: If assessment from LGUs/PEZA = 0, then\nFSIF = 0\nOther fees\nIf applicable compute the appropriate fees in\naccordance with Section 12.0.0.4 of the RIRR\nof RA 9514 (e.g. storage, conveyance,\nhotworks, etc.) as a prerequisite for the\nissuance of appropriate permits and licenses\nfrom the local and other government agencies\nconcerned.",
+      "Customer Relations Officer (CRO)"
+    ]
+  },
+  {
+    "cells": [
+      [
+        17.973408037302445,
+        2896.9033203125,
+        567.4392414093018,
+        3084.77802734375
+      ],
+      [
+        567.4392414093018,
+        2896.9033203125,
+        1114.6576250861672,
+        3084.77802734375
+      ],
+      [
+        1114.6576250861672,
+        2896.9033203125,
+        1601.228154962713,
+        3084.77802734375
+      ],
+      null,
+      [
+        2168.489979137074,
+        2896.9033203125,
+        2574.606028965541,
+        3084.77802734375
+      ]
+    ],
+    "text": [
+      "2. Wait for the queuing number to be called by\nthe FCA and proceed to the assessment window\nfor the release of OPS.\nUpon receipt of the OPS, proceed to the\npayment window.",
+      "2. Compute the fire code fees/taxes, call the\napplicant queuing number and issue OPS.\nF o r OSCP/BOSS : Backroom operation with\nOSCP/BOSS for one-time assessment thru\nsharing of information",
+      "maximum of ten (10) minutes",
+      null,
+      "Fire Code Assessor\n(FCA)"
+    ]
+  },
+  {
+    "cells": [
+      [
+        17.973408037302445,
+        3084.77802734375,
+        567.4392414093018,
+        3502.96796875
+      ],
+      [
+        567.4392414093018,
+        3084.77802734375,
+        1114.6576250861672,
+        3340.52001953125
+      ],
+      [
+        1114.6576250861672,
+        3084.77802734375,
+        1601.228154962713,
+        3340.52001953125
+      ],
+      null,
+      [
+        2168.489979137074,
+        3084.77802734375,
+        2574.606028965541,
+        3340.52001953125
+      ]
+    ],
+    "text": [
+      "3. Present the OPS and pay the corresponding\nFire Code Fees indicated in the OPS.\nUpon receipt of the OR, proceed to releasing\nwindow to claim the stub by presenting the OR.\nNote: Releasing date and time of FSEC is\nindicated in the claim stub.",
+      "3. Collect the payment and issue Official\nReceipt (OR)\nFor OSCP/BOSS : Backroom operation with\nOSCP/BOSS for one-time payment thru\nco-location\nFor Local Stations with MOA with the LGUs, fire\ncode fees/taxes shall be collected by the LGUs",
+      "maximum of ten (10) minutes",
+      null,
+      "Fire Code Collecting Agent (FCCA)"
+    ]
+  },
+  {
+    "cells": [
+      null,
+      [
+        567.4392414093018,
+        3340.52001953125,
+        1114.6576250861672,
+        3502.96796875
+      ],
+      [
+        1114.6576250861672,
+        3340.52001953125,
+        1601.228154962713,
+        3502.96796875
+      ],
+      null,
+      [
+        2168.489979137074,
+        3340.52001953125,
+        2574.606028965541,
+        3502.96796875
+      ]
+    ],
+    "text": [
+      null,
+      "4.Check copy of OR, record in the official\nlogbook/log sheet the details of the payment\n(e.g. OR number amount paid, etc.) and\nrelease the claim stub.",
+      "maximum of five (5) minutes",
+      null,
+      "CRO"
+    ]
+  },
+  {
+    "cells": [
+      [
+        17.973408037302445,
+        3502.96796875,
+        567.4392414093018,
+        3653.30791015625
+      ],
+      [
+        567.4392414093018,
+        3502.96796875,
+        1114.6576250861672,
+        3653.30791015625
+      ],
+      [
+        1114.6576250861672,
+        3502.96796875,
+        1601.228154962713,
+        3653.30791015625
+      ],
+      null,
+      [
+        2168.489979137074,
+        3502.96796875,
+        2574.606028965541,
+        3653.30791015625
+      ]
+    ],
+    "text": [
+      "",
+      "5. Evaluation/Inspection\nFor OSCP : Evaluation of plans and specification\nwith OBO (Backroom Operation)\nNOTE (4)\nFor BOSS : Joint Inspection",
+      "Total Processing Time:\nSimple Transaction - One (1) day\nComplex Transaction - Three (3) days\nHighly Technical Transaction - Seven (7)\ndays",
+      null,
+      "Building Plan Evaluator (BPE)/\nChief, Fire Safety Enforcement\nSection/Unit (C, FSES/FSEU)/\nCity/Municipal Fire Marshal\n(C/MFM)"
+    ]
+  },
+  {
+    "cells": [
+      [
+        17.973408037302445,
+        3653.30791015625,
+        567.4392414093018,
+        3881.7529296875
+      ],
+      [
+        567.4392414093018,
+        3653.30791015625,
+        1114.6576250861672,
+        3881.7529296875
+      ],
+      [
+        1114.6576250861672,
+        3653.30791015625,
+        1601.228154962713,
+        3881.7529296875
+      ],
+      null,
+      [
+        2168.489979137074,
+        3653.30791015625,
+        2574.606028965541,
+        3881.7529296875
+      ]
+    ],
+    "text": [
+      "4. On the date of release indicated in the Claim\nStub, present the Claim Stub to the releasing\nwindow, claim the FSEC/NOD/FSIC for\nCertificate of Occupancy/FSIC for Business\nPermit (new/renewal) and acknowledge receipt\nin the Official Logbook/ Log Sheet.",
+      "6. Release the FSEC/NOD/FSIC for\nCertificate of Occupancy/FSIC for Business\nP e r m i t ( n e w/renewal).\nOSCP/BOSS : Release/Issuance of FSEC/NOD/\nFSIC for Certificate of Occupancy/FSIC for\nBusiness Permit (new/renewal) is thru OSCP/\nBOSS Releasing Officer",
+      "maximum of five (5) minutes",
+      null,
+      "CRO"
+    ]
+  }
+]

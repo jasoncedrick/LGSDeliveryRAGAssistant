@@ -1,0 +1,250 @@
+[
+  {
+    "id": "DEV-EVID-01",
+    "kind": "answerable",
+    "office": "OCBO",
+    "query": "For an occupancy permit, how long does OCBO take to encode and receive documents?",
+    "source_page_id": "OCBO-PDF0014",
+    "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 14,
+    "printed_page": 502,
+    "evidence_groups": [
+      [
+        "2.1 Encode and receive documents",
+        "PROCESSING TIME: 5 Minutes"
+      ]
+    ],
+    "human_label_review": "pending"
+  },
+  {
+    "id": "DEV-EVID-02",
+    "kind": "answerable",
+    "office": "OCBO",
+    "query": "For an occupancy permit, how long is the structural inspection and assessment?",
+    "source_page_id": "OCBO-PDF0015",
+    "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 15,
+    "printed_page": 503,
+    "evidence_groups": [
+      [
+        "Structural",
+        "PROCESSING TIME: 2 Days"
+      ]
+    ],
+    "human_label_review": "pending"
+  },
+  {
+    "id": "DEV-EVID-03",
+    "kind": "answerable",
+    "office": "OCBO",
+    "query": "During an occupancy permit inspection, who must be present on-site?",
+    "source_page_id": "OCBO-PDF0015",
+    "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 15,
+    "printed_page": 503,
+    "evidence_groups": [
+      [
+        "During the inspection",
+        "client and/or authorized representative",
+        "architect or engineer",
+        "must be present on-site"
+      ]
+    ],
+    "human_label_review": "pending"
+  },
+  {
+    "id": "DEV-EVID-04",
+    "kind": "answerable",
+    "office": "OCBO",
+    "query": "For an occupancy permit, how long does routing documents to zoning for validation take?",
+    "source_page_id": "OCBO-PDF0014",
+    "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 14,
+    "printed_page": 502,
+    "evidence_groups": [
+      [
+        "2.4 Route to zoning for validation",
+        "PROCESSING TIME: 1 Day"
+      ]
+    ],
+    "human_label_review": "pending"
+  },
+  {
+    "id": "DEV-EVID-05",
+    "kind": "answerable",
+    "office": "CTO",
+    "query": "What is the City Treasurer fee for washing of hogs?",
+    "source_page_id": "CTO-PDF0006",
+    "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 6,
+    "printed_page": 161,
+    "evidence_groups": [
+      [
+        "Washing of Hogs",
+        "10.00 per head"
+      ]
+    ],
+    "human_label_review": "pending"
+  },
+  {
+    "id": "DEV-EVID-06",
+    "kind": "answerable",
+    "office": "CTO",
+    "query": "What is the chicken block chilling rate, including its quantity condition?",
+    "source_page_id": "CTO-PDF0006",
+    "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 6,
+    "printed_page": 161,
+    "evidence_groups": [
+      [
+        "Chicken",
+        "500.00 per 1,000 heads or a fraction thereof"
+      ]
+    ],
+    "human_label_review": "pending"
+  },
+  {
+    "id": "DEV-EVID-07",
+    "kind": "answerable",
+    "office": "BFP",
+    "query": "Under the BFP charter, what happens to FSIF when the LGU or PEZA assessment is zero?",
+    "source_page_id": "BFP-PDF0001",
+    "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+    "pdf_relative_page": 1,
+    "printed_page": null,
+    "evidence_groups": [
+      [
+        "If assessment from LGUs/PEZA = 0, then",
+        "FSIF = 0"
+      ]
+    ],
+    "human_label_review": "pending"
+  },
+  {
+    "id": "DEV-EVID-08",
+    "kind": "answerable",
+    "office": "BFP",
+    "query": "What is the BFP FSEC application fee?",
+    "source_page_id": "BFP-PDF0001",
+    "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+    "pdf_relative_page": 1,
+    "printed_page": null,
+    "evidence_groups": [
+      [
+        "For FSEC",
+        "Application Fee: Php 200.00"
+      ]
+    ],
+    "human_label_review": "pending"
+  },
+  {
+    "id": "DEV-EVID-09",
+    "kind": "answerable",
+    "office": "BB",
+    "query": "For business permit renewal, what employee information must the list include and how many copies?",
+    "source_page_id": "BB-PDF0016",
+    "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+    "pdf_relative_page": 16,
+    "printed_page": 55,
+    "evidence_groups": [
+      [
+        "RENEWAL",
+        "List of Employees stating the Name and Position of the Employees (1 copy)"
+      ]
+    ],
+    "human_label_review": "pending"
+  },
+  {
+    "id": "DEV-EVID-10",
+    "kind": "answerable",
+    "office": "BB",
+    "query": "For business permit renewal, what authority document does a represented sole proprietor need?",
+    "source_page_id": "BB-PDF0016",
+    "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+    "pdf_relative_page": 16,
+    "printed_page": 55,
+    "evidence_groups": [
+      [
+        "For Sole Proprietorship, if represented",
+        "Special Power of Attorney",
+        "specific authority and capacity"
+      ],
+      [
+        "Special Power of Attorney",
+        "notarized by any Notary Public"
+      ]
+    ],
+    "human_label_review": "pending"
+  },
+  {
+    "id": "DEV-EVID-11",
+    "kind": "answerable",
+    "office": "CPDO",
+    "query": "For locational clearance for a three-storey building, how many building-plan sets are needed and how must they be prepared?",
+    "source_page_id": "CPDO-PDF0011",
+    "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+    "pdf_relative_page": 11,
+    "printed_page": 640,
+    "evidence_groups": [
+      [
+        "Seven (7) complete sets of Building Plans (original copy)",
+        "Filled-up title blocks",
+        "Signed and sealed by CE / Architect"
+      ]
+    ],
+    "human_label_review": "pending"
+  },
+  {
+    "id": "DEV-EVID-12",
+    "kind": "answerable",
+    "office": "CPDO",
+    "query": "Who may apply for building locational clearance for three storeys and above?",
+    "source_page_id": "CPDO-PDF0011",
+    "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+    "pdf_relative_page": 11,
+    "printed_page": 640,
+    "evidence_groups": [
+      [
+        "Who may avail",
+        "Building Owner or Authorized Representative"
+      ]
+    ],
+    "human_label_review": "pending"
+  },
+  {
+    "id": "DEV-EVID-13",
+    "kind": "ambiguous",
+    "query": "How long does OCBO take to encode and receive documents?",
+    "missing_context": "Permit/service type",
+    "evidence_groups": [],
+    "expected_behavior": "Seek missing context or qualify service scope; no unique target page assigned.",
+    "human_label_review": "pending"
+  },
+  {
+    "id": "DEV-EVID-14",
+    "kind": "ambiguous",
+    "query": "How long is the structural inspection?",
+    "missing_context": "Office and permit/service type",
+    "evidence_groups": [],
+    "expected_behavior": "Seek missing context or qualify service scope; no unique target page assigned.",
+    "human_label_review": "pending"
+  },
+  {
+    "id": "DEV-EVID-15",
+    "kind": "ambiguous",
+    "query": "What documents do I need for clearance?",
+    "missing_context": "Clearance type and application stage",
+    "evidence_groups": [],
+    "expected_behavior": "Seek missing context or qualify service scope; no unique target page assigned.",
+    "human_label_review": "pending"
+  },
+  {
+    "id": "DEV-EVID-16",
+    "kind": "ambiguous",
+    "query": "How much is the permit fee?",
+    "missing_context": "Issuing office and permit type",
+    "evidence_groups": [],
+    "expected_behavior": "Seek missing context or qualify service scope; no unique target page assigned.",
+    "human_label_review": "pending"
+  }
+]

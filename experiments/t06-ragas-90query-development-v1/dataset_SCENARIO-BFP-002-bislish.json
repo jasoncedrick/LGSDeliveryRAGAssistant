@@ -1,0 +1,20 @@
+{
+  "question": [
+    "Pila ang minimum nga bayad ug unsaon pagkwenta sa Fire Safety Inspection Fee (FSIF) para sa FSIC sa Occupancy Permit?"
+  ],
+  "answer": [
+    "Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa Fire Safety Inspection Fee (FSIF) para sa FSIC sa Occupancy Permit.\n\nSources:\n- No specific information found in the provided sources."
+  ],
+  "contexts": [
+    [
+      "s, etc.) as a prerequisite for the\nissuance of appropriate permits and licenses\nfrom the local and other government agencies\nconcerned.\n\nCHECKLIST OF\nREQUIREMENTS/\nDOCUMENTS\nBFP FRONT LINE SERVICES\nFIRE SAFETY  \nEVALUATION \nCLEARANCE\n(FSEC)\nAPPLICATION\nFIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION\nCERTIFICATE OF\nOCCUPANCY\nNEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPAN",
+      "test and acceptance forms of all fire protection and life safety features, which shall form part of the ―as-built‖\ndocuments turned over by the contractor to the building owner duly signed by the Contractor/Construction Manager and his/her Fire Safety Practitioner.\nNOTE (3) Fire Safety Maintenance Report (FSMR) - A written report prepared by the building owner, his/her fire safety practitioner or authorized representative duly signed by the Building Administrator and his/her Fire Safety Practitioner\nduring the regular annual fire safety inspection.",
+      "AUTHORIZE REPRESENTATIVE, CONTRACTOR OR BUSINESS ENTITY\nNOTE (1) Fire Safety Compliance Report (FSCR) - A written report composed of plans, specifications and design analysis per building prepared and duly signed by the Engineer/Architect-of-Record and his/her Fire Safety Practitioner. \nNOTE (2) Fire Safety Compliance and Commissioning Report (FSCCR) - A compilation report of all approved submittals, test and acceptance forms of all fire protection and life safety features, which shall form part of",
+      "Building Administrator and his/her Fire Safety Practitioner\nduring the regular annual fire safety inspection. This  is a compilation of the maintenance and testing records kept by the building‘s engineering and maintenance department, as a prerequisite for the issuance of FSIC for Business or \nMayor‘s Permit renewal, Certificate of Annual Inspection , Permit to Operate, PHILHEALTH Accreditation for Hospitals, DOH License to Operate and other  permits or licenses being issued by other government agencies.\nNOTE (4) Section 9.",
+      "(1) day\nComplex Transaction - Three (3) days\nHighly Technical Transaction - Seven (7)\ndays\n\nPERSON RESPONSIBLE: Building Plan Evaluator (BPE)/\nChief, Fire Safety Enforcement\nSection/Unit (C, FSES/FSEU)/\nCity/Municipal Fire Marshal\n(C/MFM)\n\nAGENCY ROW 6\n\nCLIENTS STEP: 4. On the date of release indicated in the Claim\nStub, present the Claim Stub to the releasing\nwindow, claim the FSEC/NOD/FSIC for\nCertifica"
+    ]
+  ],
+  "ground_truth": [
+    "Under the BFP Citizen's Charter and RA 9514, the Fire Safety Inspection Certificate (FSIC) for Occupancy Permit requires: 1) Endorsement from the Office of the Building Official (OBO); 2) Certificate of Completion; 3) As-built plans (if changes occurred); 4) Certified true copy of the assessment fee from OBO; and 5) Fire insurance policy (if any). The Fire Safety Inspection Fee (FSIF) is assessed at 15% of all regulatory fees charged by the LGU, but in no case shall the fee be lower than Five Hundred Pesos (PHP 500.00)."
+  ]
+}

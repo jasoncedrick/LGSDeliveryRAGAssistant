@@ -767,11 +767,11 @@
   "locational clearance": {
     "term_id": "DICT-OCBO-055",
     "language": "Bislish",
-    "verified_english_definition": "Certificate of Locational Viability",
-    "governance_context_tag": "OCBO",
-    "polysemy_flag": true,
-    "disambiguation_rule": "Did you mean [Option A: Locational Clearance for Business Permit via online eBOSS] or [Option B: Locational Clearance for Building Construction of 3-storey structures]?",
-    "curation_source": "manual"
+    "verified_english_definition": "Locational Clearance (LC), a written authority or permit granted by the City Planning and Development Office (CPDO) pursuant to applicable land-use planning and zoning laws for the establishment or operation of projects of national or local significance.",
+    "governance_context_tag": "CPDO",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual; Davao City Citizens Charter 2026, CPDO, printed pages 640, 648, 655, 695 and 699 (PDF pages 11, 19, 26, 66 and 70); OCBO, printed pages 491 and 567 (PDF pages 3 and 79)"
   },
   "lokasyon sa barangay": {
     "term_id": "DICT-BRGY-115",
@@ -848,11 +848,11 @@
   "occupancy permit": {
     "term_id": "DICT-OCBO-052",
     "language": "Bislish",
-    "verified_english_definition": "Certificate of Occupancy",
+    "verified_english_definition": "OCBO Occupancy Permit (Certificate of Occupancy), required before a building or structure, or a portion thereof, is used or occupied, or when its existing use or occupancy classification changes.",
     "governance_context_tag": "OCBO",
-    "polysemy_flag": true,
-    "disambiguation_rule": "Did you mean [Option A: OCBO Certificate of Occupancy for structural safety] or [Option B: Contract of Lease proving authority to occupy business space]?",
-    "curation_source": "manual"
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual; Davao City Citizens Charter 2026, OCBO, Issuance of Occupancy Permit, printed pages 501-504, PDF-relative pages 13-16"
   },
   "occupant load": {
     "term_id": "DICT-BFP-095",

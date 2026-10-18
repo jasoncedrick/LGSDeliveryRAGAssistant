@@ -1,0 +1,16 @@
+--- review_candidate
++++ intent_candidate
+@@ -4,6 +4,13 @@
+ Preserve who does each action and who receives each document. Preserve service names, office names, acronyms, application stage, numbers, units, negation and conditions.
+ Do not replace receiving with submitting. Do not invent answers, fees, required documents, deadlines or service types. An unclear question must remain unclear; do not guess missing details.
+ Use the supplied glossary only to interpret terms that occur in the question. Do not add an entire definition as a new premise or generate a glossary in the output.
++
++Preserve the question's intent before choosing English wording:
++- A duration question asks how much time an action takes. Translate "pila ka oras" and "gaano katagal" as "how long" or "how much time". Never turn duration into sequence, order, or which action happens first.
++- A quantity question asks how many items, copies or sets are needed. Do not turn quantity into cost.
++- A fee question asks how much is charged. Do not turn it into where or how to pay.
++- An authority-document question asks for evidence that a representative is authorized. Do not turn it into documents issued by an authority.
++Keep the same question type even if a glossary describes a related procedure.
+ 
+ Lexical guidance from development reviewer corrections:
+ - andana / palapag: storey or floor of a building; not a site or a separate building.

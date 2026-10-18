@@ -1,0 +1,43 @@
+{
+  "status": "DURATION_FIX_VERIFIED_OFFLINE_CANDIDATE_NOT_PROMOTED",
+  "nf02_translation": "How much time does it take to encode and receive the documents for an occupancy permit at the OCBO?",
+  "intent_rescore": "experiments/normalization-intent-rescore-v2/summary.json",
+  "automatic_checks_passed": 22,
+  "cases": 24,
+  "flag_interpretation": [
+    {
+      "id": "NF-18",
+      "assessment": "Scorer vocabulary gap: American spelling two-story/three-story preserves storey meaning but existing regex expects storey or floor."
+    },
+    {
+      "id": "NF-12",
+      "assessment": "Scorer vocabulary gap: monetary settlement phrase needs semantic review; narrow fee regex rejects it. Do not automatically call this mistranslation."
+    }
+  ],
+  "remaining_semantic_checks": [
+    {
+      "ids": [
+        "NF-08",
+        "NF-09"
+      ],
+      "issue": "document from the authority may differ from document establishing representative authority."
+    },
+    {
+      "ids": [
+        "NF-11"
+      ],
+      "issue": "assessed regulatory fees is imported from glossary; check whether this adds an unprovided qualification."
+    }
+  ],
+  "limits": [
+    "22 automatic passes are not 22 human-approved translations.",
+    "The existing scorer misses some semantic errors and has false positives; retained original flags transparently.",
+    "This suite has informed prompt revision, so it is development evidence only.",
+    "Retrieval performance has not been measured for this revised prompt."
+  ],
+  "next_step": "Review only unresolved semantic cases; extend scorer vocabulary in a separately versioned rescore. No need to redo previous human review.",
+  "checks": "12 intent/scorer tests passed",
+  "runtime_changes": false,
+  "corpus_changes": false,
+  "held_out_accessed": false
+}

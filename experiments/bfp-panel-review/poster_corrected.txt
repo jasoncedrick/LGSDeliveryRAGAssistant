@@ -1,0 +1,75 @@
+WARNING: BFP PERSONNEL ARE PROHIBITED FROM SELLING OR RECOMMENDING SPECIFIC BRAND OF FIRE EXTINGUISHER.
+REPORT SUCH IRREGULARITY AT THE FOLLOWING CONTACT NUMBERS:
+OFFICE OF THE CHIEF, BFP
+Direct line 426-43-99 Trunk line 426-02-19/426-02-46 Local 701
+OFFICE OF THE DIRECTORATE FOR FIRE SAFETY AND PREVENTION
+Direct line 426-93-10 Trunk line 426-02-19/426-02-46 Local 404
+
+1. RECHARGE FIRE EXTINGUISHER WHEN IT WAS USED.
+2. RECONDITION FIRE EXTINGUISHER WHEN:
+a). The pressure gauge indicates low pressure.
+b). The need is obvious or as recommended by a competent servicing agent.
+c). It is defective (such as hose is broken, corroded container, caking of the chemical).
+
+Portable Fire Extinguishers are regulated by the Department of Trade and Industry (DTI) through its Bureau of Products Standards (BPS)
+PARTS: handle; hose; pressure gauge; marking for hazard application (A, B, C); nozzle; tank.
+There are 4 types of fire extinguishers available in the country. To be sure of product safety and reliability, each type must comply with the appropriate Philippine National Standards (PNS).
+Dry Chemical: PNS 15-1:1989
+Carbon Dioxide: PNS 15-3:1991
+Foam: PNS 15-4:1991
+Halon Substitute: PNS 15-5:1996
+
+Maintenance Involving Internal Examination of Fire Extinguisher
+Extinguisher Type: Carbon dioxide
+Internal Examination Interval (years): 5
+Extinguisher Type: Dry chemical stored-pressure, with mild steel shells
+Internal Examination Interval (years): 5
+Extinguisher Type: Halogenated agents
+Internal Examination Interval (years): 6
+Extinguisher Type: Dry powder, stored-pressure, with mild steel shells
+Internal Examination Interval (years): 6
+Extinguisher Type: AFFF (Aqueous Film-Forming Foam)
+Internal Examination Interval (years): *
+* The extinguishing agent in liquid charged-type AFF and FFFP extinguishers is replaced every 3 years and an internal examination (teardown) is normally conducted at that time. The agent in solid charged-type AFFF extinguishers is replaced every 5 years during the periodic hydrostatic test and the teardown is done at that time.
+Source Table 7.3.1.1.2, NFPA 10-Standard for Portable Fire Extinguishers, 2007 Edition.
+
+This product is one of the critical products that are required to undergo product certification under the BPS Product Certification Scheme. The list is downloadable at http://www.bps.dti.gov.ph
+Under this scheme, the manufacturers and importers of these products are required to apply from the BPS for the:
+Philippine Standard (PS) License (for manufacturers)
+or the
+Import Commodity Clearance (ICC) Certificate (for importers).
+Their products are subjected to tests based on the requirements of relevant PNS at the BPS Testing Center or DTI-accredited testing laboratories.
+
+Know your product
+Every fire extinguisher type has different color bands to distinguish their type. Each type is intended for use for specific flammable materials that are classified into codes:
+[Representation of displayed class panels]
+Dry Chemical: CLASS A FIRES; CLASS B FIRES; CLASS C FIRES.
+Carbon Dioxide: CLASS B FIRES; CLASS C FIRES.
+Foam: CLASS A FIRES; CLASS B FIRES.
+Halon Substitute: CLASS A FIRES; CLASS B FIRES; CLASS C FIRES.
+[Repeated class descriptions transcribed once; mappings above retain their source associations.]
+CLASS A FIRES — Ordinary Combustibles: wood; paper; rubber; fabrics; many plastics.
+CLASS B FIRES — Flamable Liquids: gasoline; oils; paint; lacquers; tar.
+CLASS C FIRES — Electrical Equipment: wiring; fuse boxes; circuit breakers; appliances.
+
+How to determine the number of fire extinguisher:
+Type of Building: Low Hazard: Presence of class A combustible and class B flammables are low.
+~ Offices, classrooms, churches, assembly halls, guest room areas of hotel/motels, residential, and so forth.
+Minimum No. of Extinguisher: 1 piece - 10 lb Dry Chemical; or 1 piece - 10 lb Halongenated (At the option of the client)
+Maximum Travel (m): 15 m
+Maximum Area (m²): 200 m²
+
+Type of Building: Moderate Hazard: Presence of class A combustible and class B flammables are moderate.
+~ Restaurants, dining areas, mercantile shops, and allied storage, light manufacturing, research operations, auto showrooms, parking garages.
+Minimum No. of Extinguisher: 1 piece - 10 lb Dry Chemical; or 1 piece - 10 lb Halongenated (At the option of the client)
+Maximum Travel (m): 12 m
+Maximum Area (m²): 100 m²
+
+Type of Building: High Hazard: Presence of class A combustible and class B flammables are high.
+~ Industrial, warehouse, gasoline stations, mercantile, cooking areas.
+Minimum No. of Extinguisher: 1 piece - 10 lb Dry Chemical; or 1 piece - 10 lb Halongenated; or 1 piece - 10 lb Foam (At the option of the client)
+Maximum Travel (m): 10 m
+Maximum Area (m²): 75 m²
+
+Example: An office establishment with an area of 200 square meters,dimension of 10x20 m, involving low class A combustible and low class B flammable, is required with 1 piece Dry Chemical or Halonagenated, at the option of the owner.
+[Diagram representation: rectangle labelled 20 m along bottom and 10 m on both sides; central extinguisher with horizontal arrows labelled 10 m left and right and vertical arrows labelled 5 m above and below.]

@@ -1,0 +1,53 @@
+{
+  "files": [
+    {
+      "path": "src/chunk_retriever.py",
+      "sha256": "b2dae919c40413a0d0cbd3c5ede426045f2ef63229cf112af85a1317352752d7"
+    },
+    {
+      "path": "tests/test_chunk_retriever.py",
+      "sha256": "5776aada4172ad794f4cd263201062c6fc68238f47bd7d75b69514b2ca537d21"
+    },
+    {
+      "path": "scripts/verify_chapter3_retrieval.py",
+      "sha256": "16a1bd3fb89cb793b08efdf1b026c19f60019512b2deb9eedf02961425a5589e"
+    },
+    {
+      "path": "app/pipeline.py",
+      "sha256": "9eeac313479fc0ef1f09336819878ea711403a1e9ab56f4fdfac88c9969b5629"
+    },
+    {
+      "path": "app/main.py",
+      "sha256": "7ce844efb9f7205e80120e6f11a9476ceeaa0c6ab602911b73f8396122d321d6"
+    },
+    {
+      "path": "src/query_normalizer.py",
+      "sha256": "a41682360ffa1aa11d1d72d9179435ea5eb41c8790e33809734f3ca75e4fa1af"
+    },
+    {
+      "path": "config/pipeline_manifest.json",
+      "sha256": "6ddcc7465376d07c542dfac7f9a083fb82e4eab190af841dd7832b2a23d3c0d0"
+    },
+    {
+      "path": "data/municipal_dictionary_v1.json",
+      "sha256": "5ecbcc99538d9a88c7905378abe8a3712831afdfe8e9647cfdf2698600bdab62"
+    },
+    {
+      "path": "data/eboss_corpus_chunks_v1.json",
+      "sha256": "1649d2dba95b8e03a57226364f7294d51d8f009af11c8509a74ecbd8cabba152"
+    },
+    {
+      "path": "data/bm25_index.pkl",
+      "sha256": "6b50cdca9f38e1274617c020b43fec437dad1cf37bb4d7dadba9ab1023cb20f2"
+    },
+    {
+      "path": "data/faiss_index.bin",
+      "sha256": "6cb24487c7f98109cd235743793d9f754cbd5b15aed88dad73fbbfd9d74f8614"
+    },
+    {
+      "path": "scripts/ingest_eboss_corpus.py",
+      "sha256": "cfa92c247a2ae2ee5d4691dbf681738fc2491d654a75f1eef91c56e9777ae9b3"
+    }
+  ],
+  "created_at": "2026-10-19T01:29:05.813384+08:00"
+}

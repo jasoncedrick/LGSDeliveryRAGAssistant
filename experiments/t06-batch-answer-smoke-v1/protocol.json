@@ -1,0 +1,34 @@
+{
+  "status": "DEVELOPMENT_BATCH_GENERATION",
+  "source": "D:\\thesis\\LGSDeliveryRAGAssistant-main\\experiments\\source-evidence-development-v4-intent-candidate",
+  "ids": [
+    "DEV-EVID-01",
+    "DEV-EVID-06"
+  ],
+  "modes": [
+    "raw",
+    "normalized"
+  ],
+  "input_hashes": {
+    "questions.json": "608dd0c1d717d48303bceb1aac180a78e129f3379d7ca49c533ce67198444d42",
+    "results.json": "9f24bfaf3254eca8c668bc7b6ad70b5b83073f2db82918b5a472b189730ddcc4",
+    "normalizations.json": "027410c429c0683378cf0edbd0e5db49df744510dd880a7dd02053fab6e3f13e",
+    "summary.json": "aeb22998f8f673231a1306a764e3b769494c87242aab9af61b31404a10728918"
+  },
+  "artifact_hashes": {
+    "corpus": "a0d996dd178eb681825880381741482001b72da5466b2effcf7b870a610017f3",
+    "dictionary": "5ecbcc99538d9a88c7905378abe8a3712831afdfe8e9647cfdf2698600bdab62",
+    "bm25": "3d4ec7020d117f47d59c4a8dbbcfb2b79f69e0471736bd8f2f4bf24af2e4a5c5",
+    "faiss": "19b7d1a025db7daa426afd513d0b20851491053f66d58d857edfb74008c07128",
+    "manifest": "6ac5aca9ffc311ae02945b76979f95ffa80da71af0afc20b15b7090b190fe9f5",
+    "source_pages": "d355eec5c7da652ef8d9a0fbdb914d3d63976be3a20f1b3614b1162984418cbf",
+    "provenance": "47420e8e98d07ad66741b88d7625aa4c0ad2b82c4ada7cedd15e714dde150f79"
+  },
+  "answer_prompt_sha256": "c122e29b7e174d0104b01d5e8667611081fa8b53c3e1e5c57b090366a1b56831",
+  "app_code_sha256": "c773ede0be8a7f31ca53124a5ed9d9cad29ccf3726634b25c162a0321ac84cd2",
+  "model": "eboss-mistral",
+  "model_endpoint": "http://localhost:11434/api/generate",
+  "sampling": "Explicit development smoke subset; not formal A/B/C comparison",
+  "held_out_accessed": false,
+  "runtime_defaults_changed": false
+}

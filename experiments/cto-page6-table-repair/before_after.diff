@@ -1,0 +1,66 @@
+--- before.txt
++++ after.txt
+@@ -1,26 +1,38 @@
+-Carabaos/Buffaloes 
+-Hogs: a. Lechon 
+-           b. Others 
+-Goats, Sheep/Deer  
+-Poultry
+-70.00 
+-50.00 
+-50.00 
+-20.00
+-1.00
+-Other Fees and Charges
+-Ice Crusher 
+-P 10.00 per
+-Block Chilling Facilities:
+-Large Cattle 
+-200.00 per head
+-Hog 
+-100.00 per head
+-Goat/Sheep 
+-50.00 per head
+-Chicken
+-500.00per 1,000
+-heads or a fraction
+-thereof
+-Washing of Hogs 
+-10.00 per head+ITEM: Carabaos/Buffaloes
++FEE: 70.00
++
++ITEM: Hogs: a. Lechon
++FEE: 50.00
++
++ITEM: b. Others
++FEE: 50.00
++
++ITEM: Goats, Sheep/Deer
++FEE: 20.00
++
++ITEM: Poultry
++FEE: 1.00
++
++ITEM OR HEADING: Other Fees and Charges
++FEE: [blank source cell]
++
++ITEM OR HEADING: Ice Crusher
++FEE: P 10.00 per
++
++ITEM OR HEADING: Block Chilling Facilities:
++FEE: [blank source cell]
++
++ITEM OR HEADING: Large Cattle
++FEE: 200.00 per head
++
++ITEM OR HEADING: Hog
++FEE: 100.00 per head
++
++ITEM OR HEADING: Goat/Sheep
++FEE: 50.00 per head
++
++ITEM OR HEADING: Chicken
++FEE: 500.00per 1,000 heads or a fraction thereof
++
++ITEM OR HEADING: Washing of Hogs
++FEE: 10.00 per head

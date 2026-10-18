@@ -1,0 +1,21 @@
+{
+  "created_utc": "2026-10-18T21:28:03.919794+00:00",
+  "builder_sha256": "fd8c8eec447a853e065553807c4a6b1e3e817e5aee69023961609943e6e82838",
+  "files": {
+    "claim_source_evidence.json": "c0a7e4e863441534120c257d8d9d5b0793fd52f7a9e52367449a0c818174dcd8",
+    "development_groups.derived.before.json": "a7c079ddadc41ec901fb8e8ef38f38e6f19693d4ac139704df4f1fa4765dfc86",
+    "development_groups.derived.json": "f3d7977af7372f14df90230b399d41073fe6f3dd80b52a2c706cde230b80e91d",
+    "development_groups.snapshot.before.json": "a95ca5d24c758416eaa82d5e374ee93620e980db5f92d9eed802f945655e841d",
+    "focused_source_review.before.json": "cacf2a6cdf955ce424af8e9c374a1322a7ced3e6f36404d108b09aaacf413121",
+    "interactions.corrected_references.jsonl": "81e62fef6ea3939195737a2649dd94a98bcbb719f4c430237024c3a4c40f92aa",
+    "interactions.original.jsonl": "9ad83c476e55d67324fbfd584d2f49d08e0ac623a9d9e22984c0d61984085809",
+    "methodology_and_tracker.json": "ee15440a4643968034d4a6451b999a4fadddb2399f6b882acd25943ff66d6281",
+    "original_run_protocol.json": "ab5149c18c00c6bbe23acf590c61efc80d03b943d54b2797e2d0404e48eb88c2",
+    "per_query_metrics.csv": "3054514c8a9633049514d1b6805b3fe7e508222819a6e6141784426270e470b5",
+    "references.before_after.diff": "e870a604792434916d5004720976c2af536222e5a1a7874bc51a00603792af3d",
+    "reference_changes.json": "6e584b8920a2d216b115a78ebff489a881526a31259db01db180def2affbb9a8",
+    "REVIEW_REPORT.txt": "8a2e845730cd1b2a34f00c48a4fc0e76bd6ada8e45d838341bafad48603ef22c",
+    "summary.json": "27652583ef514a395422fd69e51b1810ba327201d8823efb5aec226c6c53cb56",
+    "validation.json": "e1f7eda729be0916406e9a7cd9a1f329961d65ee09dcb8afa1158d69a3c60211"
+  }
+}

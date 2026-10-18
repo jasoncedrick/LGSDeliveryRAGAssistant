@@ -1,0 +1,10 @@
+{
+  "cases.json": "c2be49872781c8bc1defdbe1ccfc6138e6d07acc30a9c24d5e5de8b0b50af749",
+  "findings.json": "4d8b61732d514ca787b45fd84b555cfad2b9fa226917aa2645fa7fb89d78cf81",
+  "human_review_template.json": "0b7dacd4ab88cb8bfa601d5a2e9fcc63a77724a94e42628bd5cd8ce67c0d33fd",
+  "model_identity.json": "79509299786695b5d2952afd16e5c59aa3741eec1c7b17941daedaea5add31a1",
+  "protocol.json": "606d7db3c6db9c178992c0ca337970f182f7d1a12cf44b65828cf99ff61ac5cb",
+  "results.json": "dc95df857769b855da3f354567f90b465e10907794ff571bf92344539035ab7c",
+  "summary.json": "82f7b0485264105e4c25b0f538745311566fe515ecb4624fa9932eafb90d622f",
+  "../../scripts/run_normalization_fidelity_suite.py": "4d03f8c8cc29db8f65d645fe3b9975db9a46cd8e579b72c832b4134b1b1078c4"
+}

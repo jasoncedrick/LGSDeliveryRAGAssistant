@@ -1,0 +1,20 @@
+{
+  "question": [
+    "Magkano ang bayad at ano ang requirements para kumuha ng Certified True Copy ng nawalang Building Permit sa OCBO?"
+  ],
+  "answer": [
+    "To obtain a Certified True Copy of a lost Building Permit from the Office of the City Building Official (OCBO), the following requirements and fees are needed:\n\n1. Request Letter - Applicant\n2. Photocopy of Valid ID of the Owner with three (3) signatures - Applicant\n\nThe fee for this service is not specified in the provided sources. You may need to contact the OCBO for the current fee.\n[Source: OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 591 | chunk DEV120-OCBO-PDF0103-C001]"
+  ],
+  "contexts": [
+    [
+      "Application for Renewal of Business Permit, \nor Certified True Copy of Business Permit \nw/ Affidavit of Loss in case of lost permits\nApplicant\n5. \nBarangay Clearance from correct\nBarangay and Certification of No Operation \nfrom incorrect Barangay\nLocal Barangay Hall\n6. \nSketch / Google map of Business\nlocation (1 original) with pictures of the \npremise location for correction of address\nApplicant\nREQUIRED DOCUMENTS FOR SPECIFIC BUSINESS LINES\nBUSINESS DESCRIPTION \nREQUIRED DOCUMENTS\nAircraft Companie",
+      "16. Issuance of Certified True Copy of Documents\nCertified True Copy of documents may be issued upon request.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; G2G \n– Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Request Letter \nApplicant\n2. Photocopy of Building Permit and other \nrelated documents\nApplicant\n3. Photocopy of Valid ID of the Owner with \nthree (3) Sig",
+      "owned, \nrented and not rented) and Lease Contract \nif rented or Consent from Property Owner if \nnot rented\nApplicant, notarized by any Notary \nPublic\n6. \nCurrent Original Mayor’s Permit,\nApplication for Renewal of Business Permit, \nor Certified True Copy of Business Permit \nw/ Affidavit of Loss in    case of lost permits.\nApplicant\n7. \nDTI Certificate New Owner –\nSingle Proprietorship\nDepartment of Trade and Industry\n8. \nSEC Registration, Article of\nIncorporation for Partnership and \nCorporation (1 photocopy) Certifica",
+      "DO\n4. SPA from the building owner to \nprocess application for Locational \nClearance\nApplicant\n5. Seven (7) complete sets of Building \nPlans (original copy) \na. Filled-up title blocks \nb. Signed and sealed by CE / Architect\nApplicant\n6. Certified True Copy of Title issued \nby the Registry of Deeds (ROD) or \nshow original copy of title for validation \n(1 original for validation, 1 photocopy)\nRegistry of Deeds\n7. Locational Clearance Application \nduly notarized and signed by the \napplicant (1 photocopy)",
+      "of Undertaking that there had\nbeen no substantial changes made on the \nbuilding\nApplicant, notarized by any Notary \nPublic\nAMENDMENT OF BUSINESS PERMIT – ADDITIONAL BUSINESS LINE\n1. Current Original Mayor’s Permit,\nApplication for Renewal of Business \nPermit, or Certified True Copy of \nBusiness Permit w/ Affidavit of Loss in \ncase of lost permits\nApplicant or Records Section, \nBusiness Bureau or Any Notary \nPublic for affidavit of loss\n2. \nAffidavit of Additional Line of Business\n(notarized)"
+    ]
+  ],
+  "ground_truth": [
+    "To secure a Certified True Copy (CTC) of a Building Permit or related building documents from the OCBO Records Division, the applicant must submit: 1) Request Letter; 2) Photocopy of the Building Permit or reference details; 3) Photocopy of valid ID of owner with 3 specimen signatures; 4) Notarized SPA and processor's valid ID if represented; and 5) Original Affidavit of Loss if the original permit was lost. The statutory fee is PHP 50.00 per document (1 copy), paid at the City Treasurer's Office, with a standard turnaround time of 2 Days, 1 Hour, and 19 Minutes."
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "question": [
+    "Ano ang requirements at magkano ang bayad kada linear meter para kumuha ng Fencing Permit sa OCBO?"
+  ],
+  "answer": [
+    "Sa pagpapakita ng Fencing Permit sa Office ng City Building Official (OCBO), ang mga requirements at ang bayad kada linear meter ay nakasaad sa [S1].\n\nAng mga requirements ay:\n1. Fence Permit form with 3 sets of Civil/Architectural Plans ng fence\n\nAng bayad kada linear meter ay:\n- Sa mga fence na may 1.80 meters o katig na lamang, ang bayad ay Php 3.00 per linear meter.\n- Sa mga fence na may lamang 1.80 meters o higit pa, ang bayad ay Php 4.00 per linear meter.\n\n[S1] OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 517 | chunk DEV120-OCBO-PDF0029-C001"
+  ],
+  "contexts": [
+    [
+      "5. Issuance of Fencing Permit \nA Fencing Permit shall be required prior to the construction of a fence not exceeding 1.80 meters \nhigh. \nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to \nBusiness; G2G – Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Fence Permit form with 3 sets of \n  Civil/Architectural Plans of the f",
+      "nt\nin the UAF from current acceptable market\nconstruction cost per square meter or as indicated\nin Table II.G.1 of PD 1096, the higher the value will\nbe adopted\nFor FSIC (Certificate of Occupancy)/FSIC (New\nBusiness and Renewal of Business) Applica-\ntion\nFSIF = 15% of all fees charge by LGU/Philippine\nEconomic Zone Authority (PEZA) but in no case\nshall be lower than Php 500.00\nSample computation:\nFSIF = (All fees charged by the LGU/",
+      "Regulatory Fees (assessed and paid at the City Treasurer’s Office):\nICAB FEE:   Php100.00 Flat rate for the first 10 units and additional Php10.00 for the \nsucceeding units.\nOCCUPATIONAL PERMIT FEE: Php125.00 per employee.\nBUILDING PERMIT FEE : Fee varies on area size, minimum of Php120.00\nPLUMBING FEE: Php60 per water closet,\nELECTRICAL FEE: Minimum of Php350.00, varies based",
+      "booth/booths  \n20% of the rates imposed\n2. Front stall/stalls or booth/booths \n15% of the rates imposed\n3. Inside corner stall/stalls of\nbooth/booths \n10% of the rates imposed\nThere shall be an automatic increase of fifteen percent (15%) effective 2018 and \nevery four (4) years thereafter to be computed based on the existing rates of fees to the \nincreasing cost of maintenance operations.\nMarket Rental Fees\nPer Square Meter Per Day\nClass A \nClass B \nClass C \nClass D\n1. Meat \nP 4",
+      "FENCING PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\nMade of masonry, metal, concrete up \nto1.80 meters in height\nPhp 3.00 per linear meter of fraction \nthereof\nIn excess of 1.80 meters in height \nPhp 4.00 per linear meter of fraction \nthereof\nMade of indigenous materials, barbed, \nChicken or"
+    ]
+  ],
+  "ground_truth": [
+    "A Fencing Permit is required prior to constructing a fence. Requirements include: 1) Fencing Permit form with 3 sets of Civil/Architectural plans signed and sealed by a licensed Civil Engineer/Architect; 2) Certified True Copy of Land Title (LRA/CASSO) and Tax Declaration; 3) Barangay Clearance; 4) Lot/Vicinity plan; and 5) Bill of Materials and Cost Estimates. The fee schedule under PD 1096 IRR is: PHP 3.00 per linear meter for fences made of masonry, metal, or concrete up to 1.80 meters in height; PHP 4.00 per linear meter for heights exceeding 1.80 meters; and PHP 2.40 per linear meter for fences made of indigenous materials, barbed, or hog wire."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "manuscript": "C:\\Users\\User\\Downloads\\20260923.pdf",
+  "manuscript_sha256": "628193ea55abc364c06dd3251a79126fa55ca2af2cb9d23e25cb584e7757f98a",
+  "pdf_page": 28,
+  "printed_page": 23,
+  "section": "3.2.2",
+  "requirements": [
+    "Machine-readable extraction, OCR for scanned content",
+    "Manually cross-check tables against original page images",
+    "Preserve conditions, numerical figures, negation and units",
+    "Do not use an LLM to hallucinate or reconstruct missing text",
+    "Deduplicate with source links retained",
+    "120-token chunks with 20-token overlap"
+  ],
+  "ocr_engine": "Windows.Media.Ocr",
+  "ocr_language": "en-US",
+  "ocr_execution": "completed locally",
+  "ocr_status": "RAW_OUTPUT_NOT_APPROVED_FOR_RETRIEVAL",
+  "observed_ocr_errors": [
+    "Low hazard heading omitted in raw output",
+    "10 lb sometimes recognized as IO lb",
+    "Low sometimes recognized as Iow",
+    "Fire-class lists and table values intermixed across columns",
+    "Maintenance-table footnote poorly recognized"
+  ],
+  "procedure_review": {
+    "agency_rows": 6,
+    "assistant_visual_review": true,
+    "independent_human_signoff": false,
+    "client_step_3_spans_agency_rows": [
+      3,
+      4
+    ],
+    "client_cell_at_agency_row_5": "blank",
+    "fee_cell_scope": "all six agency rows",
+    "time_at_row_5": "Total Processing Time, not additional inspection duration",
+    "fee_exception_preserved": "If assessment from LGUs/PEZA = 0, then FSIF = 0",
+    "source_spelling_preserved": true
+  },
+  "remaining_work": [
+    "OCR panel-by-panel and correct against native-resolution source image before merging",
+    "Verify numerical equipment-table entries and footnote manually",
+    "Integrate verified procedure representation and approved OCR with staged BFP text, then recheck coverage and duplicates"
+  ],
+  "indices_rebuilt": false,
+  "app_changed": false,
+  "benchmark_accessed": false,
+  "source_certified": false
+}

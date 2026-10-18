@@ -1,0 +1,8 @@
+[
+  {
+    "id": "DEV-EVID-06",
+    "before": "500.00 per 1,000 heads or a fraction thereof",
+    "after": "500.00per 1,000 heads or a fraction thereof",
+    "reason": "Match printed source spacing; numerical value and unit unchanged."
+  }
+]

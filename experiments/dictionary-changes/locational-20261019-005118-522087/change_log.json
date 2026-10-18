@@ -1,0 +1,68 @@
+{
+  "status": "APPLIED_AND_VERIFIED",
+  "created_utc": "2026-10-18T16:51:18.524072+00:00",
+  "target": "D:\\thesis\\LGSDeliveryRAGAssistant-main\\data\\municipal_dictionary_v1.json",
+  "backup": "D:\\thesis\\LGSDeliveryRAGAssistant-main\\backups\\locational-dictionary-20261019-005118-522087\\municipal_dictionary_v1.json",
+  "entry": "locational clearance",
+  "term_id": "DICT-OCBO-055",
+  "before_file_sha256": "fc2d68af72565ae4aef224bb212bf800c4e9cfa51ebebf0f7db71deb7354167f",
+  "after_file_sha256": "5ecbcc99538d9a88c7905378abe8a3712831afdfe8e9647cfdf2698600bdab62",
+  "changes": {
+    "verified_english_definition": {
+      "before": "Certificate of Locational Viability",
+      "after": "Locational Clearance (LC), a written authority or permit granted by the City Planning and Development Office (CPDO) pursuant to applicable land-use planning and zoning laws for the establishment or operation of projects of national or local significance."
+    },
+    "governance_context_tag": {
+      "before": "OCBO",
+      "after": "CPDO"
+    },
+    "polysemy_flag": {
+      "before": true,
+      "after": false
+    },
+    "disambiguation_rule": {
+      "before": "Did you mean [Option A: Locational Clearance for Business Permit via online eBOSS] or [Option B: Locational Clearance for Building Construction of 3-storey structures]?",
+      "after": ""
+    },
+    "curation_source": {
+      "before": "manual",
+      "after": "manual; Davao City Citizens Charter 2026, CPDO, printed pages 640, 648, 655, 695 and 699 (PDF pages 11, 19, 26, 66 and 70); OCBO, printed pages 491 and 567 (PDF pages 3 and 79)"
+    }
+  },
+  "reason": "The supplied CPDO services share one core locational-clearance definition. Building/business applications are procedural variants; the old options omit two-storey construction and appeals and interrupt nine already contextualized development queries. No general contextual resolver or scenario-based routing is added.",
+  "source": {
+    "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf": {
+      "sha256": "6d1572dc7ef1122064b3db8d799f27356231dd2cbeafb84231c6f315820b1005",
+      "printed_pages": [
+        640,
+        648,
+        655,
+        695,
+        699
+      ],
+      "pdf_relative_pages": [
+        11,
+        19,
+        26,
+        66,
+        70
+      ]
+    },
+    "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf": {
+      "sha256": "6f081dde0a63ade8aaa3f4dc5a26ceb0c7fde85f896951931d8222eaa86b3093",
+      "printed_pages": [
+        491,
+        567
+      ],
+      "pdf_relative_pages": [
+        3,
+        79
+      ]
+    }
+  },
+  "review_basis": "User-supplied PDFs, rendered-page review, and the nine DICT-OCBO-055 stops in the existing development query log; no independent domain-review approval asserted.",
+  "other_dictionary_entries_changed": false,
+  "corpus_changed": false,
+  "indexes_rebuilt": false,
+  "benchmarks_changed": false
+}

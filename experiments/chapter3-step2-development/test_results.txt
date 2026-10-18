@@ -1,0 +1,27 @@
+test_constant_scores_and_no_dictionary_match (test_chunk_retriever.ChunkRetrieverTests) ... ok
+test_hand_calculated_fusion_and_dense_row_mapping (test_chunk_retriever.ChunkRetrieverTests) ... ok
+test_index_mismatch_and_invalid_dense_rows (test_chunk_retriever.ChunkRetrieverTests) ... ok
+test_invalid_k_weights_and_chunk_configuration (test_chunk_retriever.ChunkRetrieverTests) ... ok
+test_real_bm25_and_faiss_with_synthetic_vectors (test_chunk_retriever.ChunkRetrieverTests) ... ok
+test_stable_ties_and_inputs_remain_unchanged (test_chunk_retriever.ChunkRetrieverTests) ... ok
+test_token_audit_uses_actual_text (test_chunk_retriever.ChunkRetrieverTests) ... ok
+test_zero_dictionary_weight_is_preserved (test_chunk_retriever.ChunkRetrieverTests) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.075s
+
+OK
+
+test_exact_120_windows_stride_100_and_tail (test_token_windows.TokenWindowTests) ... ok
+test_real_cached_tokenizer_preserves_midword_token_ids (test_token_windows.TokenWindowTests) ... D:\thesis\venv\lib\site-packages\huggingface_hub\file_download.py:949: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+Token indices sequence length is longer than the specified maximum sequence length for this model (660 > 512). Running this sequence through the model will result in indexing errors
+ok
+test_rejects_missing_window_and_mutated_token_text_or_metadata (test_token_windows.TokenWindowTests) ... ok
+test_short_page_and_exact_boundary_do_not_create_redundant_tail (test_token_windows.TokenWindowTests) ... ok
+test_special_tokens_match_actual_cached_tokenizer (test_token_windows.TokenWindowTests) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 2.948s
+
+OK

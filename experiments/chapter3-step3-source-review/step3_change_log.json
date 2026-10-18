@@ -1,0 +1,89 @@
+{
+  "completed_at": "2026-10-19T01:44:29.819643+08:00",
+  "status": "DEVELOPMENT_APP_CONNECTED_SOURCE_FIDELITY_ISSUES_OPEN",
+  "backup": "D:\\thesis\\LGSDeliveryRAGAssistant-main\\backups\\chapter3-step3-20261019-013930",
+  "modified_files": [
+    "app/pipeline.py",
+    "app/main.py",
+    "app/static/index.html",
+    "src/query_normalizer.py",
+    "tests/test_web_pipeline_v2.py",
+    "tests/test_live_repairs_v2.py"
+  ],
+  "added_files": [
+    "app/section_pipeline_v2_archived.py",
+    "app/section_main_v2_archived.py",
+    "tests/test_web_pipeline_chapter3.py",
+    "scripts/review_chapter3_source_fidelity.py"
+  ],
+  "preservation_checks": {
+    "app/pipeline.py": false,
+    "app/main.py": false,
+    "app/static/index.html": false,
+    "src/query_normalizer.py": false,
+    "src/chunk_retriever.py": true,
+    "src/token_windows.py": true,
+    "config/pipeline_manifest.json": true,
+    "data/municipal_dictionary_v1.json": true,
+    "experiments\\chapter3-step2-development\\bm25_index.pkl": true,
+    "experiments\\chapter3-step2-development\\corpus.json": true,
+    "experiments\\chapter3-step2-development\\faiss_index.bin": true,
+    "experiments\\chapter3-step2-development\\index_provenance.json": true,
+    "experiments\\chapter3-step2-development\\pipeline_manifest.json": true,
+    "experiments\\chapter3-step2-development\\readback_validation.json": true,
+    "experiments\\chapter3-step2-development\\smoke_checks.json": true,
+    "experiments\\chapter3-step2-development\\source_pages.json": true,
+    "experiments\\chapter3-step2-development\\step2_changes.patch": true,
+    "experiments\\chapter3-step2-development\\step2_change_log.json": true,
+    "experiments\\chapter3-step2-development\\test_results.txt": true,
+    "experiments\\chapter3-step2-development\\validation.json": true,
+    "tests/test_web_pipeline_v2.py": false,
+    "tests/test_live_repairs_v2.py": false
+  },
+  "source_review": {
+    "text_layer_pages": 358,
+    "visual_pages": 12,
+    "status": "ISSUES_FOUND_NOT_SOURCE_CERTIFIED",
+    "open_findings": [
+      "FID-001: table row/column associations",
+      "FID-002: BFP graphical applicability matrix"
+    ],
+    "report": "source_fidelity_review.json"
+  },
+  "before": {
+    "runtime": "SectionRetrieverV2",
+    "context": "complete selected section",
+    "generation_checks": "synchronous experimental content filter",
+    "contextual_sense_rules": "automatically enabled",
+    "archive": "experiments/web_interactions_log.jsonl"
+  },
+  "after": {
+    "runtime": "ChunkRetriever",
+    "artifacts": "experiments/chapter3-step2-development",
+    "context": "exactly top K chunks, K in [3,5], default 5",
+    "weights": {
+      "bm25": 0.4,
+      "dense": 0.6,
+      "dictionary": 0.0
+    },
+    "generation_checks": "transport and completeness diagnostics; raw output retained for offline faithfulness evaluation",
+    "contextual_sense_rules": "disabled explicitly in web runtime; legacy behavior preserved",
+    "archive": "experiments/chapter3_web_interactions.jsonl",
+    "source_fidelity_status": "ISSUES_FOUND_NOT_SOURCE_CERTIFIED"
+  },
+  "new_integration_tests_passed": 10,
+  "historical_web_contract_tests_passed": 14,
+  "live_integration": {
+    "status": "ANSWERED",
+    "retrieved_chunks": 5,
+    "ollama_used": true,
+    "benchmark_evaluation": false
+  },
+  "held_out_benchmarks_accessed": false,
+  "dictionary_changed": false,
+  "corpus_or_indices_changed": false,
+  "tracker_changed": false,
+  "source_certified": false,
+  "final_freeze_ready": false,
+  "next_required_work": "Source-coordinate table serialization and BFP matrix transcription, source review, rebuilt paired development indices, then development-only evaluation before any freeze."
+}

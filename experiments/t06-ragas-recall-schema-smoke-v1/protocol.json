@@ -1,0 +1,20 @@
+{
+  "scope": "Offline development evaluator smoke; no runtime filtering or final benchmark claims",
+  "ragas_version": "0.1.5",
+  "judge_model": "eboss-mistral",
+  "metrics": [
+    "context_recall"
+  ],
+  "input_archive": "D:\\thesis\\LGSDeliveryRAGAssistant-main\\experiments\\t06-batch-answer-smoke-v1\\interactions.jsonl",
+  "input_sha256": "26f7b9d379b9f2c591536531795b60169c3026643fa9995856068b5b18308718",
+  "record_ids": [
+    "DEV-EVID-06-normalized-K3"
+  ],
+  "generation_failures_retained_in_original_archive": true,
+  "reference": "Source evidence fragments joined as a provisional reference; not a human-approved gold narrative.",
+  "same_generator_and_judge_model": true,
+  "max_workers": 1,
+  "max_retries": 0,
+  "held_out_accessed": false,
+  "context_recall_schema_instruction": "Return ONLY the classification value as a top-level JSON array. Each array element must contain a statement, reason, and the exact key \"Attributed\" with value \"1\" or \"0\". Do not wrap the array in question, answer, classification, or any other object. Do not include markdown."
+}

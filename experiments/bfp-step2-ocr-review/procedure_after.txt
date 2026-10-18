@@ -1,0 +1,125 @@
+AGENCY ROW 1
+CLIENT STEP: 1. Accomplished the application form and submit
+the same with all the required documents stated
+in the BFP FSEC/FSIC Application Form or
+Unified Application Form
+AGENCY ACTION: 1. Issue queuing number, check completeness
+of submitted documents by the client and record
+t h e details of the applicant (e.g. Name of
+applicant, date of application, etc)
+PROCESSING TIME: maximum of ten (10) minutes
+PERSON RESPONSIBLE: Customer Relations Officer (CRO)
+
+AGENCY ROW 2
+CLIENT STEP: 2. Wait for the queuing number to be called by
+the FCA and proceed to the assessment window
+for the release of OPS.
+Upon receipt of the OPS, proceed to the
+payment window.
+AGENCY ACTION: 2. Compute the fire code fees/taxes, call the
+applicant queuing number and issue OPS.
+F o r OSCP/BOSS : Backroom operation with
+OSCP/BOSS for one-time assessment thru
+sharing of information
+PROCESSING TIME: maximum of ten (10) minutes
+PERSON RESPONSIBLE: Fire Code Assessor
+(FCA)
+
+AGENCY ROW 3
+CLIENT STEP: 3. Present the OPS and pay the corresponding
+Fire Code Fees indicated in the OPS.
+Upon receipt of the OR, proceed to releasing
+window to claim the stub by presenting the OR.
+Note: Releasing date and time of FSEC is
+indicated in the claim stub.
+AGENCY ACTION: 3. Collect the payment and issue Official
+Receipt (OR)
+For OSCP/BOSS : Backroom operation with
+OSCP/BOSS for one-time payment thru
+co-location
+For Local Stations with MOA with the LGUs, fire
+code fees/taxes shall be collected by the LGUs
+PROCESSING TIME: maximum of ten (10) minutes
+PERSON RESPONSIBLE: Fire Code Collecting Agent (FCCA)
+
+AGENCY ROW 4
+CLIENT STEP: Shared client-step 3 cell above; no separate client wording
+AGENCY ACTION: 4.Check copy of OR, record in the official
+logbook/log sheet the details of the payment
+(e.g. OR number amount paid, etc.) and
+release the claim stub.
+PROCESSING TIME: maximum of five (5) minutes
+PERSON RESPONSIBLE: CRO
+
+AGENCY ROW 5
+CLIENT STEP: [blank source cell]
+AGENCY ACTION: 5. Evaluation/Inspection
+For OSCP : Evaluation of plans and specification
+with OBO (Backroom Operation)
+NOTE (4)
+For BOSS : Joint Inspection
+PROCESSING TIME: Total Processing Time:
+Simple Transaction - One (1) day
+Complex Transaction - Three (3) days
+Highly Technical Transaction - Seven (7)
+days
+PERSON RESPONSIBLE: Building Plan Evaluator (BPE)/
+Chief, Fire Safety Enforcement
+Section/Unit (C, FSES/FSEU)/
+City/Municipal Fire Marshal
+(C/MFM)
+
+AGENCY ROW 6
+CLIENT STEP: 4. On the date of release indicated in the Claim
+Stub, present the Claim Stub to the releasing
+window, claim the FSEC/NOD/FSIC for
+Certificate of Occupancy/FSIC for Business
+Permit (new/renewal) and acknowledge receipt
+in the Official Logbook/ Log Sheet.
+AGENCY ACTION: 6. Release the FSEC/NOD/FSIC for
+Certificate of Occupancy/FSIC for Business
+P e r m i t ( n e w/renewal).
+OSCP/BOSS : Release/Issuance of FSEC/NOD/
+FSIC for Certificate of Occupancy/FSIC for
+Business Permit (new/renewal) is thru OSCP/
+BOSS Releasing Officer
+PROCESSING TIME: maximum of five (5) minutes
+PERSON RESPONSIBLE: CRO
+
+FEES TO BE PAID (one shared source cell spanning all six agency rows):
+For FSEC
+Application Fee: Php 200.00
+FCCT = 0.1% of the verified estimated value
+(materials and labor) of the building/structure or
+facility but not more than Php 50,000.00
+Sample computation:
+FCCT = (Verified estimated value) x (.1%) = ___Php
+but not more than Php 50, 000.00
+Note: Section 8.3.6 of JMC 2021-01 Series of
+2021—In the event that there is substantial
+difference between the cost estimate of the building
+or structure as declared by the owner or applicant
+in the UAF from current acceptable market
+construction cost per square meter or as indicated
+in Table II.G.1 of PD 1096, the higher the value will
+be adopted
+For FSIC (Certificate of Occupancy)/FSIC (New
+Business and Renewal of Business) Applica-
+tion
+FSIF = 15% of all fees charge by LGU/Philippine
+Economic Zone Authority (PEZA) but in no case
+shall be lower than Php 500.00
+Sample computation:
+FSIF = (All fees charged by the LGU/PEZA) x
+(15%) = ______ Php but in no case shall be lower
+than Php 500.00
+Note: If assessment from LGUs/PEZA = 0, then
+FSIF = 0
+Other fees
+If applicable compute the appropriate fees in
+accordance with Section 12.0.0.4 of the RIRR
+of RA 9514 (e.g. storage, conveyance,
+hotworks, etc.) as a prerequisite for the
+issuance of appropriate permits and licenses
+from the local and other government agencies
+concerned.

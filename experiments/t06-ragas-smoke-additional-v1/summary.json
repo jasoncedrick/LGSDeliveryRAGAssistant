@@ -1,0 +1,21 @@
+{
+  "selected": 1,
+  "fully_scored": 0,
+  "failed_or_partial": 1,
+  "results": [
+    {
+      "record_id": "DEV-EVID-06-normalized-K3",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "answer_relevancy": 0.5533439570809631,
+        "context_recall": null
+      },
+      "status": "PARTIAL_OR_FAILED_JUDGE"
+    }
+  ],
+  "limits": [
+    "Local 7B judge may fail structured-output parsing; null scores are not zeros.",
+    "Same-model judging can introduce bias.",
+    "Smoke verification only; full grouped development evaluation and expert audit remain separate."
+  ]
+}

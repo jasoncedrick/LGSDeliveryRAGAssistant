@@ -1,0 +1,55 @@
+{
+  "status": "READ_ONLY_DIAGNOSIS_COMPLETE",
+  "fixed_variables": [
+    "same 1082 chunks and 358 source pages",
+    "120/20 source-token windows",
+    "same BM25/FAISS indices and dictionary",
+    "same fusion weights 0.4/0.6/0.0",
+    "K3/K5"
+  ],
+  "why_decline": [
+    "The English queries are unnecessarily rewritten and expanded before retrieval. Different words change both sparse and dense scores.",
+    "Source evidence does not always include its service heading within the same chunk. Similar actions from other services compete.",
+    "A prompt can improve output format without improving evidence ranking. This candidate was not promoted."
+  ],
+  "rank_evidence": [
+    {
+      "id": "05",
+      "raw_rank": 1,
+      "candidate_rank": 60,
+      "change": "washing of hogs -> service related to hog washing"
+    },
+    {
+      "id": "11",
+      "raw_rank": 1,
+      "candidate_rank": 12,
+      "change": "Rephrased question and added office name"
+    },
+    {
+      "id": "07",
+      "raw_rank": 1,
+      "candidate_rank": 23,
+      "change": "what happens -> what is the process, plus expanded acronyms"
+    },
+    {
+      "id": "09",
+      "raw_rank": 60,
+      "candidate_rank": 4,
+      "change": "A gain on one query does not offset the broader regression"
+    }
+  ],
+  "context_observations": [
+    "OCBO page14 C002 contains step2.1/2.4 and time pairs without Occupancy Permit wording.",
+    "CPDO page11 service heading is in C001; eligibility facts in C002.",
+    "BB page16 contains both earlier checklist and renewal; lexical same-page matches require row/stage verification."
+  ],
+  "causal_limit": "Controlled comparison isolates query-string effect on fixed retrieval. Absence of a service heading is observed but its causal effect has not been separately tested.",
+  "rag_stages": "Existing app supports normalization -> hybrid chunk retrieval -> context assembly -> grounded Mistral generation. These runs deliberately evaluate retrieval only, not generated-answer accuracy.",
+  "next_changes_to_review": [
+    "First establish a normalization fidelity suite including English preservation, multilingual translations, office/action/stage/height/condition retention, contamination and truncation.",
+    "Do not promote the current normalization candidate on these results. Do not silently bypass the manuscript LLM translation stage.",
+    "Then test a separately versioned source-context preprocessing candidate, explicitly documented against Chapter3, retaining 120/20 chunks and chunk-level scoring; no section retrieval or service-specific hardcoded boosts."
+  ],
+  "manual_review": "No new user action needed for this diagnosis. Before formal reporting, an independent bilingual reviewer should validate multilingual normalization labels; BB renewal row association still needs semantic review.",
+  "no_changes_to": "Corpus, indices, weights, app artifact defaults, dictionary and benchmarks."
+}

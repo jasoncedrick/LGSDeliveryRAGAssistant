@@ -1,0 +1,59 @@
+{
+  "created_at": "2026-10-19T01:22:20.532747+08:00",
+  "purpose": "Step 1: isolated Chapter 3 chunk retriever; existing runtime and experiment files preserved",
+  "references": [
+    {
+      "path": "C:\\Users\\User\\Downloads\\20260923.pdf",
+      "sha256": "628193ea55abc364c06dd3251a79126fa55ca2af2cb9d23e25cb584e7757f98a"
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\thesis_progress_tracker.xlsx",
+      "sha256": "74ae6a572885e54be360b13bd548e078e59c1a72d66c9180b52acbabcf6bf2ed"
+    }
+  ],
+  "tracker_status_sheet": "Thesis Tracker",
+  "files": [
+    {
+      "path": "app/pipeline.py",
+      "sha256": "9eeac313479fc0ef1f09336819878ea711403a1e9ab56f4fdfac88c9969b5629"
+    },
+    {
+      "path": "app/main.py",
+      "sha256": "7ce844efb9f7205e80120e6f11a9476ceeaa0c6ab602911b73f8396122d321d6"
+    },
+    {
+      "path": "src/query_normalizer.py",
+      "sha256": "a41682360ffa1aa11d1d72d9179435ea5eb41c8790e33809734f3ca75e4fa1af"
+    },
+    {
+      "path": "scripts/ingest_eboss_corpus.py",
+      "sha256": "cfa92c247a2ae2ee5d4691dbf681738fc2491d654a75f1eef91c56e9777ae9b3"
+    },
+    {
+      "path": "config/pipeline_manifest.json",
+      "sha256": "6ddcc7465376d07c542dfac7f9a083fb82e4eab190af841dd7832b2a23d3c0d0"
+    },
+    {
+      "path": "data/municipal_dictionary_v1.json",
+      "sha256": "5ecbcc99538d9a88c7905378abe8a3712831afdfe8e9647cfdf2698600bdab62"
+    },
+    {
+      "path": "data/eboss_corpus_chunks_v1.json",
+      "sha256": "1649d2dba95b8e03a57226364f7294d51d8f009af11c8509a74ecbd8cabba152"
+    },
+    {
+      "path": "data/bm25_index.pkl",
+      "sha256": "6b50cdca9f38e1274617c020b43fec437dad1cf37bb4d7dadba9ab1023cb20f2"
+    },
+    {
+      "path": "data/faiss_index.bin",
+      "sha256": "6cb24487c7f98109cd235743793d9f754cbd5b15aed88dad73fbbfd9d74f8614"
+    }
+  ],
+  "new_files": [
+    "src/chunk_retriever.py",
+    "scripts/verify_chapter3_retrieval.py",
+    "tests/test_chunk_retriever.py"
+  ],
+  "held_out_benchmarks_accessed": false
+}

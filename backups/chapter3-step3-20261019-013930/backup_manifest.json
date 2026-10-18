@@ -1,0 +1,93 @@
+{
+  "created_at": "2026-10-19T01:39:30.242912+08:00",
+  "files": [
+    {
+      "path": "app/pipeline.py",
+      "sha256": "9eeac313479fc0ef1f09336819878ea711403a1e9ab56f4fdfac88c9969b5629"
+    },
+    {
+      "path": "app/main.py",
+      "sha256": "7ce844efb9f7205e80120e6f11a9476ceeaa0c6ab602911b73f8396122d321d6"
+    },
+    {
+      "path": "app/static/index.html",
+      "sha256": "2f15c5347ea95aab8248493449fbf88e764220fa546d1c2f9ec159249937db6f"
+    },
+    {
+      "path": "src/query_normalizer.py",
+      "sha256": "a41682360ffa1aa11d1d72d9179435ea5eb41c8790e33809734f3ca75e4fa1af"
+    },
+    {
+      "path": "src/chunk_retriever.py",
+      "sha256": "626e75dfa905ccbecf8c277660a940d573243e6798abcbde1baf2c28a4920b3b"
+    },
+    {
+      "path": "src/token_windows.py",
+      "sha256": "fcf32489c78e3c02984a6b16572018940e7792324f972d588a8aec5be1d87023"
+    },
+    {
+      "path": "config/pipeline_manifest.json",
+      "sha256": "6ddcc7465376d07c542dfac7f9a083fb82e4eab190af841dd7832b2a23d3c0d0"
+    },
+    {
+      "path": "data/municipal_dictionary_v1.json",
+      "sha256": "5ecbcc99538d9a88c7905378abe8a3712831afdfe8e9647cfdf2698600bdab62"
+    },
+    {
+      "path": "experiments\\chapter3-step2-development\\bm25_index.pkl",
+      "sha256": "5a822a0b9719d4a021e7d65dcc179f3dc91b15ce5621875346fce757377e016e"
+    },
+    {
+      "path": "experiments\\chapter3-step2-development\\corpus.json",
+      "sha256": "e5c5ff0d20df1c8a29af0f36c584c4a358d7da745b31bfb3292c80e736b886b5"
+    },
+    {
+      "path": "experiments\\chapter3-step2-development\\faiss_index.bin",
+      "sha256": "f97d0f6a4b5d7d525c6b3514635b4384c94719ff5c428d4f23fa700e29fc45fd"
+    },
+    {
+      "path": "experiments\\chapter3-step2-development\\index_provenance.json",
+      "sha256": "6fdb23262c6c1d5bec3ce5e92800c25c4d853e4a008c1ae7c101bc46c2981710"
+    },
+    {
+      "path": "experiments\\chapter3-step2-development\\pipeline_manifest.json",
+      "sha256": "9c6b9e68fe2f5646ce37455c91b59639b61ec25155ba9a3f63efcefec08f2bf6"
+    },
+    {
+      "path": "experiments\\chapter3-step2-development\\readback_validation.json",
+      "sha256": "4525a78319434c8b91910d0a4e87de3449de33ad7a44557630b825d34a57126b"
+    },
+    {
+      "path": "experiments\\chapter3-step2-development\\smoke_checks.json",
+      "sha256": "f01c6f2ed2209a1676922e20d852522b9338a8251ec604f7733b8bacf45ff1f2"
+    },
+    {
+      "path": "experiments\\chapter3-step2-development\\source_pages.json",
+      "sha256": "7d995513e7b869f78680db624c98bee95ff6867b38295ef4a61697b64c12210a"
+    },
+    {
+      "path": "experiments\\chapter3-step2-development\\step2_changes.patch",
+      "sha256": "564c0ecbbf572503734f6e916d58a373dd6c8b9d4c609a53b60e13a4f8bd914c"
+    },
+    {
+      "path": "experiments\\chapter3-step2-development\\step2_change_log.json",
+      "sha256": "c5975968c0a9524b52acebef7e2bf4d3f4bf4d5105ea5b3bb8477770d063717b"
+    },
+    {
+      "path": "experiments\\chapter3-step2-development\\test_results.txt",
+      "sha256": "f081c32e5c745c62f5edef7ad8cd0038014cacf95785cbb53c31ea425194bd18"
+    },
+    {
+      "path": "experiments\\chapter3-step2-development\\validation.json",
+      "sha256": "56bbe6781445e0477ee1808def627a30edcb01c91755dd1ab8b54f1682e319ec"
+    },
+    {
+      "path": "tests/test_web_pipeline_v2.py",
+      "sha256": "08c7635df533046a0d134829e39cf34ad08ebd54232445ac72fd3445f5db9db4"
+    },
+    {
+      "path": "tests/test_live_repairs_v2.py",
+      "sha256": "bc3107ba6e98bef1b887db92486f557dcaae6faa810e7e6e2b901659b90eebaa"
+    }
+  ]
+}

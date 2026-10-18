@@ -1,0 +1,3 @@
+# Preserve exact bytes for source and evaluation provenance SHA256 checks.
+# This research snapshot contains both LF and CRLF files intentionally.
+* -text

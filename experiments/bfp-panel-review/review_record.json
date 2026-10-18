@@ -1,0 +1,55 @@
+{
+  "status": "VISUALLY_REVIEWED_TRANSCRIPTION_CANDIDATE_NOT_HUMAN_CERTIFIED",
+  "source_pdf": "data/raw_charters/BFP-CITIZENS-CHARTER-2022.pdf",
+  "pdf_page": 1,
+  "source_pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+  "native_image_size": [
+    5123,
+    3128
+  ],
+  "panel_boxes_native_pixels": {
+    "top": [
+      0,
+      0,
+      5123,
+      700
+    ],
+    "left": [
+      0,
+      700,
+      1720,
+      3128
+    ],
+    "middle": [
+      1720,
+      700,
+      3430,
+      3128
+    ],
+    "right": [
+      3430,
+      700,
+      5123,
+      3128
+    ]
+  },
+  "ocr_engine": "Windows.Media.Ocr en-US",
+  "corrections": [
+    "IO lb to 10 lb",
+    "Iow to low",
+    "Restored Low Hazard heading from image",
+    "Reassociated maintenance intervals and hazard-table values with source rows",
+    "Restored lost wood and tar labels from image",
+    "Preserved source spellings AFF, Halongenated, Halonagenated, and Flamable"
+  ],
+  "deduplication": "Repeated A/B/C descriptions transcribed once with explicit extinguisher-class mappings",
+  "manual_checks": [
+    "Confirm small maintenance footnote, including printed AFF versus AFFF; no source typo silently corrected.",
+    "Tiny wording on photographed cylinder labels is not fully transcribed or certified; images preserved as evidence.",
+    "Independent human sign-off on numeric tables and graphical associations."
+  ],
+  "methodology": "OCR followed by image comparison; no missing text inferred. This is historical source transcription, not verification of current fire-safety rules.",
+  "active_corpus_modified": false,
+  "indices_rebuilt": false,
+  "benchmark_accessed": false
+}

@@ -1,0 +1,88 @@
+{
+  "review_method": "Assistant visual comparison of rendered PDF pages with stored source text; not independent human expert certification",
+  "pages": [
+    {
+      "source_page_id": "BB-PDF0016",
+      "render_path": "tmp/pdfs/step3-review/BB-16.png",
+      "observation": "Visual checklist conditions and ownership distinctions are present in text. New/renewal headings coexist on this page; uniform windows can span that boundary."
+    },
+    {
+      "source_page_id": "BB-PDF0017",
+      "render_path": "tmp/pdfs/step3-review/BB-17.png",
+      "observation": "Representative authority, notarization and newly-designated condition preserved in text; no claim of complete service checklist within top K."
+    },
+    {
+      "source_page_id": "CTO-PDF0006",
+      "render_path": "tmp/pdfs/step3-review/CTO-6.png",
+      "observation": "Fee labels and amounts are preserved but the first multi-line cell is extracted as a list of labels followed by a list of amounts, weakening row associations. The Ice Crusher rate is visibly incomplete in the PDF (P 10.00 per); do not invent its unit."
+    },
+    {
+      "source_page_id": "OCBO-PDF0013",
+      "render_path": "tmp/pdfs/step3-review/OCBO-13.png",
+      "observation": "Occupancy definition and checklist text match visible page, including unusual source-listed Certificate of Occupancy requirement. Preserve source wording rather than silently correcting policy."
+    },
+    {
+      "source_page_id": "OCBO-PDF0014",
+      "render_path": "tmp/pdfs/step3-review/OCBO-14.png",
+      "observation": "Action substeps 2.1-2.4 and their times are in separate text runs; vertical table associations are lost in plain-text serialization."
+    },
+    {
+      "source_page_id": "OCBO-PDF0015",
+      "render_path": "tmp/pdfs/step3-review/OCBO-15.png",
+      "observation": "Multiple inspection substeps and repeated durations are flattened into separate runs. Text preservation alone cannot establish the corresponding row."
+    },
+    {
+      "source_page_id": "OCBO-PDF0016",
+      "render_path": "tmp/pdfs/step3-review/OCBO-16.png",
+      "observation": "Release wording and printed total preserved. Blank/merged table cells must not be filled by inference."
+    },
+    {
+      "source_page_id": "CPDO-PDF0011",
+      "render_path": "tmp/pdfs/step3-review/CPDO-11.png",
+      "observation": "Three-storey-and-above scope, CPDO definition, requirements and where-to-secure text preserved."
+    },
+    {
+      "source_page_id": "CPDO-PDF0019",
+      "render_path": "tmp/pdfs/step3-review/CPDO-19.png",
+      "observation": "Two-storey-and-below scope and ownership alternatives retained; checklist continues beyond this page."
+    },
+    {
+      "source_page_id": "CPDO-PDF0066",
+      "render_path": "tmp/pdfs/step3-review/CPDO-66.png",
+      "observation": "Face-to-face business scope, conditions and additional-requirements note retained."
+    },
+    {
+      "source_page_id": "CPDO-PDF0070",
+      "render_path": "tmp/pdfs/step3-review/CPDO-70.png",
+      "observation": "Online business scope retained; visible Client responsibility and source row numbering preserved as printed."
+    },
+    {
+      "source_page_id": "BFP-PDF0001",
+      "render_path": "tmp/pdfs/step3-review/BFP-1.png",
+      "observation": "Graphical dot matrix associates requirements with six service columns. Plain text does not reliably encode those applicability relationships. Large poster also contains image-only material; text-layer equality is insufficient."
+    }
+  ],
+  "open_findings": [
+    {
+      "id": "FID-001",
+      "severity": "blocks_final_freeze",
+      "pages": [
+        "CTO-PDF0006",
+        "OCBO-PDF0014",
+        "OCBO-PDF0015"
+      ],
+      "issue": "Row and column associations are weakened by block-text linearization.",
+      "required_followup": "Source-coordinate table serialization and visual verification before final freeze."
+    },
+    {
+      "id": "FID-002",
+      "severity": "blocks_final_freeze",
+      "pages": [
+        "BFP-PDF0001"
+      ],
+      "issue": "Graphical requirement applicability matrix is not faithfully represented by plain text.",
+      "required_followup": "Explicit source-verified matrix transcription with column identities and dot membership; no guessed requirements."
+    }
+  ],
+  "policy": "Do not certify the complete corpus or silently invent table relationships. Preserve evidence and keep integration in development mode."
+}

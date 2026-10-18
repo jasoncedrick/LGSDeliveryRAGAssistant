@@ -1,0 +1,2 @@
+record_id,generation_status,status,answer_relevancy,context_recall
+DEV-EVID-06-normalized-K3,ANSWERED,PARTIAL_OR_FAILED_JUDGE,0.5533439570809631,

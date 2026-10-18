@@ -1,0 +1,467 @@
+--- a/src/chunk_retriever.py
++++ b/src/chunk_retriever.py
+@@ -1,7 +1,7 @@
+ """Chapter 3.2.4 chunk scoring, separate from the experimental section runtime.
+ 
+ Uses the existing frozen manifest's weights, without tuning or benchmark reads.
+-Factory loading checks the actual text sent to MiniLM, not just stored counts.
++Factory loading verifies source token windows when present, or audits legacy text.
+ No section expansion, office routing, or answer validation is performed here.
+ """
+ from __future__ import annotations
+@@ -113,14 +113,30 @@
+         if manifest['models']['embedder'] != MODEL_NAME:
+             raise ValueError('Unexpected embedder for this Chapter 3 implementation')
+         tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, local_files_only=True)
+-        audit = audit_chunk_tokens(chunks, tokenizer)
+-        if not audit['passes_text_length_validation']:
+-            raise ValueError(
+-                'Corpus text fails Chapter 3 token validation: '
+-                f"{audit['invalid_length_count']} invalid lengths; "
+-                f"{audit['stored_count_mismatch_count']} stale token counts. "
+-                'Run scripts/verify_chapter3_retrieval.py for the read-only audit. '
+-                'Preserve frozen artifacts; prepare a separate development corpus.')
++        if any('embedding_input_ids' in chunk for chunk in chunks):
++            from src.token_windows import verify_source_windows
++
++            paths['source_pages'] = paths['corpus'].parent/'source_pages.json'
++            paths['provenance'] = paths['corpus'].parent/'index_provenance.json'
++            provenance = json.loads(paths['provenance'].read_text(encoding='utf-8'))
++            if (provenance.get('embedding_path') != 'source_token_ids'
++                    or provenance.get('model') != MODEL_NAME):
++                raise ValueError('Unexpected index embedding provenance')
++            for name in ('corpus', 'source_pages', 'bm25', 'faiss', 'manifest'):
++                path = paths[name]
++                if provenance['files'].get(path.name) != hashlib.sha256(path.read_bytes()).hexdigest():
++                    raise ValueError(f'Artifact provenance mismatch: {name}')
++            pages = json.loads(paths['source_pages'].read_text(encoding='utf-8'))
++            verify_source_windows(chunks, pages, tokenizer)
++        else:
++            audit = audit_chunk_tokens(chunks, tokenizer)
++            if not audit['passes_text_length_validation']:
++                raise ValueError(
++                    'Corpus text fails Chapter 3 token validation: '
++                    f"{audit['invalid_length_count']} invalid lengths; "
++                    f"{audit['stored_count_mismatch_count']} stale token counts. "
++                    'Run scripts/verify_chapter3_retrieval.py for the read-only audit. '
++                    'Preserve frozen artifacts; prepare a separate development corpus.')
+         # Pickle is used only for the project's trusted, locally built BM25 file.
+         with paths['bm25'].open('rb') as handle:
+             bundle = pickle.load(handle)
+--- a/scripts/verify_chapter3_retrieval.py
++++ b/scripts/verify_chapter3_retrieval.py
+@@ -4,6 +4,8 @@
+     python -B scripts/verify_chapter3_retrieval.py
+ Exit 1 means the existing artifacts need review, not permission to overwrite them.
+ """
++import argparse
++import hashlib
+ import json
+ import pickle
+ import sys
+@@ -19,12 +21,32 @@
+     import faiss
+     from transformers import AutoTokenizer
+ 
+-    chunks = json.loads((ROOT/'data/eboss_corpus_chunks_v1.json').read_text(encoding='utf-8'))
++    parser = argparse.ArgumentParser(description=__doc__)
++    parser.add_argument('--artifacts', type=Path, help='Separate development artifact directory')
++    args = parser.parse_args()
++    directory = args.artifacts.resolve() if args.artifacts else ROOT/'data'
++    corpus_path = directory/('corpus.json' if args.artifacts else 'eboss_corpus_chunks_v1.json')
++    chunks = json.loads(corpus_path.read_text(encoding='utf-8'))
+     tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, local_files_only=True)
+-    report = audit_chunk_tokens(chunks, tokenizer)
+-    with (ROOT/'data/bm25_index.pkl').open('rb') as handle:
++    if args.artifacts:
++        from src.token_windows import verify_source_windows
++
++        pages = json.loads((directory/'source_pages.json').read_text(encoding='utf-8'))
++        report = verify_source_windows(chunks, pages, tokenizer)
++        provenance = json.loads((directory/'index_provenance.json').read_text(encoding='utf-8'))
++        report['artifact_hashes_match'] = all(
++            hashlib.sha256((directory/name).read_bytes()).hexdigest() == sha
++            for name, sha in provenance['files'].items())
++        report['source_pdf_hashes_match'] = all(
++            hashlib.sha256((ROOT/'data/raw_charters'/source['file_source']).read_bytes()).hexdigest() == source['sha256']
++            for source in provenance['source_pdfs'])
++        token_valid = report['passed'] and report['artifact_hashes_match'] and report['source_pdf_hashes_match']
++    else:
++        report = audit_chunk_tokens(chunks, tokenizer)
++        token_valid = report['passes_text_length_validation']
++    with (directory/'bm25_index.pkl').open('rb') as handle:
+         bundle = pickle.load(handle)
+-    index = faiss.read_index(str(ROOT/'data/faiss_index.bin'))
++    index = faiss.read_index(str(directory/'faiss_index.bin'))
+     report.update(
+         bm25_content_and_order_match=bundle.get('chunks') == chunks,
+         bm25_row_count=bundle['bm25'].corpus_size,
+@@ -34,7 +56,7 @@
+         held_out_benchmarks_accessed=False,
+         note='Row counts do not independently prove FAISS vector-to-text provenance.')
+     report['passed'] = bool(
+-        report['passes_text_length_validation'] and report['bm25_content_and_order_match']
++        token_valid and report['bm25_content_and_order_match']
+         and report['unique_chunk_ids'] and report['faiss_inner_product']
+         and index.d == 384 and index.ntotal == len(chunks) == bundle['bm25'].corpus_size)
+     print(json.dumps(report, indent=2))
+--- /dev/null
++++ b/src/token_windows.py
+@@ -0,0 +1,113 @@
++"""Lossless token-window provenance and direct MiniLM embedding for Chapter 3.
++
++Window size is 120 source tokens, stride is 100, overlap is 20. Only the final
++window of a page may be shorter. Display text uses original character offsets;
++it is never decoded and re-tokenized to produce the document embedding.
++"""
++from __future__ import annotations
++
++import hashlib
++
++WINDOW = 120
++OVERLAP = 20
++STRIDE = WINDOW - OVERLAP
++
++
++def prepare_window_ids(ids, tokenizer):
++    """Add MiniLM's XLM-R start/end tokens explicitly.
++
++    The cached generic PreTrainedTokenizerFast's Python build_inputs method is a
++    no-op; its Rust text encoder adds these tokens. Verify parity before embedding.
++    """
++    if tokenizer.cls_token_id is None or tokenizer.sep_token_id is None:
++        raise ValueError('Expected XLM-R start/end special tokens')
++    return [tokenizer.cls_token_id, *ids, tokenizer.sep_token_id]
++
++
++def source_windows(text, tokenizer):
++    encoded = tokenizer(text, add_special_tokens=False, return_offsets_mapping=True)
++    tokens, offsets = encoded['input_ids'], encoded['offset_mapping']
++    for start in range(0, len(tokens), STRIDE):
++        end = min(start + WINDOW, len(tokens))
++        char_start, char_end = offsets[start][0], offsets[end - 1][1]
++        yield {'token_start': start, 'token_end': end,
++               'char_start': char_start, 'char_end': char_end,
++               'embedding_input_ids': tokens[start:end], 'token_count': end-start,
++               'text_content': text[char_start:char_end]}
++        if end == len(tokens):
++            break
++
++
++def verify_source_windows(chunks, source_pages, tokenizer):
++    """Reconstruct every window from its stored source page, in source order."""
++    pages = {p['source_page_id']: p for p in source_pages}
++    if len(pages) != len(source_pages):
++        raise ValueError('Duplicate source page IDs')
++    grouped = {}
++    for chunk in chunks:
++        grouped.setdefault(chunk['source_page_id'], []).append(chunk)
++    if set(grouped) != set(pages):
++        raise ValueError('Source pages and chunk page references differ')
++    pairs = 0
++    max_input = 0
++    retokenized_over = 0
++    for page_id, page in pages.items():
++        if hashlib.sha256(page['text'].encode('utf-8')).hexdigest() != page['text_sha256']:
++            raise ValueError(f'Source text hash mismatch: {page_id}')
++        expected = list(source_windows(page['text'], tokenizer))
++        actual = grouped[page_id]
++        if len(expected) != len(actual):
++            raise ValueError(f'Missing or extra source windows: {page_id}')
++        for i, (want, got) in enumerate(zip(expected, actual)):
++            if any(got.get(key) != value for key, value in want.items()):
++                raise ValueError(f'Token IDs, offsets or source text differ: {got["chunk_id"]}')
++            for key in ('file_source', 'pdf_relative_page', 'source_page', 'pdf_sha256'):
++                if got.get(key) != page.get(key):
++                    raise ValueError(f'Source metadata differs: {got["chunk_id"]}: {key}')
++            if not 0 < len(got['embedding_input_ids']) <= WINDOW:
++                raise ValueError('Empty or over-limit token window')
++            prepared = prepare_window_ids(got['embedding_input_ids'], tokenizer)
++            max_input = max(max_input, len(prepared))
++            retokenized_over += len(tokenizer.encode(got['text_content'], add_special_tokens=False)) > WINDOW
++            if i:
++                if actual[i-1]['embedding_input_ids'][-OVERLAP:] != got['embedding_input_ids'][:OVERLAP]:
++                    raise ValueError('Source token overlap is not exactly 20')
++                pairs += 1
++    if max_input > 128:
++        raise ValueError('MiniLM sequence limit exceeded including special tokens')
++    return {'passed': bool(chunks), 'chunk_count': len(chunks), 'source_page_count': len(pages),
++            'window_tokens': WINDOW, 'stride_tokens': STRIDE, 'overlap_tokens': OVERLAP,
++            'verified_overlap_pairs': pairs, 'max_embedding_input_tokens': max_input,
++            'display_text_retokenized_over_120': retokenized_over,
++            'embedding_path': 'verified source token IDs; display text is not re-tokenized'}
++
++
++def embed_source_windows(chunks, model, batch_size=32):
++    """Use the same transformer/pooling/normalization as encode(), without a text round trip."""
++    import numpy as np
++    import torch
++
++    model.eval()
++    probe = 'Application for a business permit.'
++    if prepare_window_ids(model.tokenizer.encode(probe, add_special_tokens=False), model.tokenizer) != model.tokenizer.encode(probe):
++        raise ValueError('Special-token preparation differs from the model tokenizer')
++    arrays = []
++    for start in range(0, len(chunks), batch_size):
++        batch = chunks[start:start+batch_size]
++        ids = [prepare_window_ids(c['embedding_input_ids'], model.tokenizer) for c in batch]
++        if any(not 0 < len(c['embedding_input_ids']) <= WINDOW for c in batch):
++            raise ValueError('Invalid document token window')
++        if max(map(len, ids)) > min(128, model.max_seq_length):
++            raise ValueError('Document sequence would exceed model limit')
++        features = model.tokenizer.pad({'input_ids': ids}, padding=True, return_tensors='pt')
++        features = {key: value.to(model.device) for key, value in features.items()}
++        with torch.inference_mode():
++            vectors = model(features)['sentence_embedding']
++            vectors = torch.nn.functional.normalize(vectors, p=2, dim=1)
++        arrays.append(vectors.cpu().numpy())
++    if not arrays:
++        raise ValueError('No document windows to embed')
++    result = np.vstack(arrays).astype(np.float32)
++    if result.shape != (len(chunks), 384) or not np.isfinite(result).all():
++        raise ValueError('Invalid MiniLM embeddings')
++    return result
+--- /dev/null
++++ b/scripts/build_chapter3_development.py
+@@ -0,0 +1,150 @@
++"""Build a separate 120/20 development corpus and paired indices; no benchmark reads.
++
++Run from the project root with the existing venv. A fresh output directory is
++required so previous artifacts cannot be overwritten accidentally.
++"""
++import argparse
++import hashlib
++import json
++import pickle
++import re
++import sys
++from pathlib import Path
++
++ROOT = Path(__file__).resolve().parents[1]
++sys.path.insert(0, str(ROOT))
++
++from src.chunk_retriever import MODEL_NAME
++from src.token_windows import source_windows, verify_source_windows, embed_source_windows
++from scripts.ingest_eboss_corpus import INGESTION_CATALOG
++
++
++def digest(path):
++    return hashlib.sha256(Path(path).read_bytes()).hexdigest()
++
++
++def write_json(path, value):
++    path.write_text(json.dumps(value, ensure_ascii=False, indent=2), encoding='utf-8')
++
++
++def extract_page(page):
++    # Keep Unicode, numbers, units, negation, and table block order. No LLM repair.
++    text = '\n'.join(b[4].strip() for b in page.get_text('blocks') if b[4].strip())
++    text = text.replace('\r\n', '\n').strip()
++    lines = text.splitlines()
++    printed_page = None
++    # Remove only a standalone leading/trailing printed page number, not body rows.
++    if lines and re.fullmatch(r'\d{1,4}', lines[0].strip()):
++        printed_page = int(lines.pop(0).strip())
++    elif lines and re.fullmatch(r'\d{1,4}', lines[-1].strip()):
++        printed_page = int(lines.pop().strip())
++    return '\n'.join(lines).strip(), printed_page
++
++
++def build(output):
++    import faiss
++    import fitz
++    import numpy as np
++    import torch
++    from rank_bm25 import BM25Okapi
++    from sentence_transformers import SentenceTransformer
++    from transformers import AutoTokenizer
++    from huggingface_hub import snapshot_download
++
++    output = Path(output).resolve()
++    if output == ROOT or ROOT not in output.parents or 'experiments' not in output.relative_to(ROOT).parts:
++        raise ValueError('Output must be a new experiments subdirectory in this repository')
++    if output.exists():
++        raise FileExistsError('Use a fresh output directory; existing artifacts are preserved')
++    tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, local_files_only=True)
++    chunks, pages, sources, text_issues = [], [], [], []
++    for entry in INGESTION_CATALOG:
++        pdf = ROOT/'data/raw_charters'/entry['file_name']
++        sha = digest(pdf)
++        with fitz.open(pdf) as document:
++            sources.append({'file_source': pdf.name, 'sha256': sha, 'pdf_pages': len(document)})
++            for page in document:
++                text, printed = extract_page(page)
++                if not text:
++                    text_issues.append({'file_source': pdf.name, 'pdf_relative_page': page.number+1,
++                                        'issue': 'No extracted text; review for scanned/blank page'})
++                    continue
++                page_id = f"{entry['pillar_code']}-PDF{page.number+1:04d}"
++                provenance = {'source_page_id': page_id, 'file_source': pdf.name,
++                              'pdf_relative_page': page.number+1, 'source_page': printed,
++                              'pdf_sha256': sha}
++                pages.append({**provenance, 'text': text,
++                              'text_sha256': hashlib.sha256(text.encode('utf-8')).hexdigest()})
++                if '\ufffd' in text:
++                    text_issues.append({**provenance, 'issue': 'Replacement character in PDF extraction'})
++                for i, window in enumerate(source_windows(text, tokenizer), 1):
++                    chunks.append({**provenance, **window,
++                                   'chunk_id': f'DEV120-{page_id}-C{i:03d}',
++                                   'governance_pillar': entry['pillar'],
++                                   'document_title': entry['document_title'],
++                                   'version_date': '2022' if entry['pillar_code'] == 'BFP' else '2026',
++                                   'corpus_version': 'chapter3-source-token-windows-dev'})
++    if len({c['chunk_id'] for c in chunks}) != len(chunks):
++        raise ValueError('Duplicate development chunk IDs')
++    audit = verify_source_windows(chunks, pages, tokenizer)
++    print(f"Verified {len(chunks)} chunks; {audit['verified_overlap_pairs']} exact 20-token overlaps.", flush=True)
++    snapshot = snapshot_download(MODEL_NAME, local_files_only=True)
++    torch.set_num_threads(4)
++    model = SentenceTransformer(snapshot, device='cpu')
++    # Check that direct-token forwarding agrees with encode() on intact short text.
++    probe = 'Application for a business permit.'
++    probe_ids = model.tokenizer.encode(probe, add_special_tokens=False)
++    direct = embed_source_windows([{'embedding_input_ids': probe_ids}], model)
++    regular = model.encode([probe], normalize_embeddings=True)
++    if not np.allclose(direct, regular, atol=1e-6):
++        raise ValueError('Direct-token embedding disagrees with SentenceTransformer.encode')
++    print('Embedding original token windows with cached MiniLM on CPU...', flush=True)
++    vectors = embed_source_windows(chunks, model)
++    bm25 = BM25Okapi([c['text_content'].lower().split() for c in chunks])
++    index = faiss.IndexFlatIP(384)
++    index.add(vectors)
++    if not np.array_equal(index.reconstruct_n(0, len(chunks)), vectors):
++        raise ValueError('FAISS row order/vector mismatch')
++    output.mkdir(parents=True, exist_ok=False)
++    write_json(output/'corpus.json', chunks)
++    write_json(output/'source_pages.json', pages)
++    with (output/'bm25_index.pkl').open('wb') as handle:
++        pickle.dump({'bm25': bm25, 'chunks': chunks}, handle)
++    faiss.write_index(index, str(output/'faiss_index.bin'))
++    saved = faiss.read_index(str(output/'faiss_index.bin'))
++    if not np.array_equal(saved.reconstruct_n(0, len(chunks)), vectors):
++        raise ValueError('Saved FAISS vectors differ from built vectors')
++    audit.update(text_extraction_review_items=text_issues, source_pdfs=sources,
++                 embedding_dimension=384, faiss_rows=index.ntotal, bm25_rows=bm25.corpus_size,
++                 direct_embedding_matches_encode=True, serialized_faiss_vectors_verified=True,
++                 benchmark_accessed=False,
++                 source_layout_review_complete=False,
++                 note='Technical token/index validation only; table fidelity still requires source-page review.')
++    write_json(output/'validation.json', audit)
++    # Preserve recorded weights, but do not mislabel this newly built corpus as frozen.
++    manifest = json.loads((ROOT/'config/pipeline_manifest.json').read_text(encoding='utf-8'))
++    manifest['status'] = 'development_not_frozen'
++    manifest['task_origin'] = 'Chapter3 Step2 source-token-window development build'
++    manifest['prior_development_metrics_not_revalidated'] = manifest.pop('retrieval_metrics_dev', {})
++    manifest['corpus_artifacts'] = {'corpus': 'corpus.json', 'source_pages': 'source_pages.json',
++                                  'bm25': 'bm25_index.pkl', 'faiss': 'faiss_index.bin'}
++    write_json(output/'pipeline_manifest.json', manifest)
++    write_json(output/'index_provenance.json', {
++        'status': 'development_not_frozen', 'model': MODEL_NAME,
++        'model_snapshot': Path(snapshot).name,
++        'embedding_path': 'source_token_ids', 'window_tokens': 120, 'overlap_tokens': 20,
++        'dimension': 384, 'row_count': len(chunks),
++        'files': {name: digest(output/name) for name in
++                  ('corpus.json', 'source_pages.json', 'bm25_index.pkl', 'faiss_index.bin',
++                   'pipeline_manifest.json', 'validation.json')},
++        'source_pdfs': sources,
++        'build_code_sha256': {str(p.relative_to(ROOT)): digest(p) for p in
++                             (Path(__file__), ROOT/'src/token_windows.py')},
++        'held_out_benchmarks_accessed': False})
++    print(f'Created separate development artifacts: {output}', flush=True)
++
++
++if __name__ == '__main__':
++    parser = argparse.ArgumentParser(description=__doc__)
++    parser.add_argument('--output', required=True, help='New experiments subdirectory')
++    build(parser.parse_args().output)
+--- /dev/null
++++ b/tests/test_token_windows.py
+@@ -0,0 +1,88 @@
++"""Synthetic boundary/provenance tests; no benchmark access or model downloads."""
++import hashlib
++import unittest
++from copy import deepcopy
++
++from src.token_windows import source_windows, verify_source_windows, prepare_window_ids
++
++
++class CharacterTokenizer:
++    """One token per character for independently countable boundary tests."""
++    cls_token_id = 0
++    sep_token_id = 1
++    def __call__(self, text, **kwargs):
++        return {'input_ids': self.encode(text),
++                'offset_mapping': [(i, i+1) for i in range(len(text))]}
++
++    def encode(self, text, **kwargs):
++        return [ord(c) for c in text]
++
++    def build_inputs_with_special_tokens(self, ids):
++        return [0] + ids + [1]
++
++
++class TokenWindowTests(unittest.TestCase):
++    def setUp(self):
++        self.tokenizer = CharacterTokenizer()
++        self.text = ''.join(chr(65+i % 26) for i in range(241))
++        self.page = {'source_page_id': 'TEST-P1', 'text': self.text,
++                     'text_sha256': hashlib.sha256(self.text.encode()).hexdigest(),
++                     'file_source': 'synthetic.pdf', 'pdf_relative_page': 1,
++                     'source_page': 99, 'pdf_sha256': 'synthetic'}
++        self.chunks = [{**{k:v for k,v in self.page.items() if k not in ('text', 'text_sha256')},
++                        **window, 'chunk_id': f'C{i}'}
++                       for i, window in enumerate(source_windows(self.text, self.tokenizer))]
++
++    def test_exact_120_windows_stride_100_and_tail(self):
++        self.assertEqual([c['token_count'] for c in self.chunks], [120, 120, 41])
++        self.assertEqual([c['token_start'] for c in self.chunks], [0, 100, 200])
++        report = verify_source_windows(self.chunks, [self.page], self.tokenizer)
++        self.assertTrue(report['passed'])
++        self.assertEqual(report['verified_overlap_pairs'], 2)
++        self.assertEqual(report['max_embedding_input_tokens'], 122)
++        reconstructed = self.chunks[0]['text_content'] + ''.join(c['text_content'][20:] for c in self.chunks[1:])
++        self.assertEqual(reconstructed, self.text)
++
++    def test_short_page_and_exact_boundary_do_not_create_redundant_tail(self):
++        for size, expected in [(0, []), (20, [20]), (120, [120]),
++                               (121, [120, 21]), (220, [120, 120])]:
++            windows = list(source_windows('a'*size, self.tokenizer))
++            self.assertEqual([w['token_count'] for w in windows], expected)
++
++    def test_rejects_missing_window_and_mutated_token_text_or_metadata(self):
++        with self.assertRaises(ValueError):
++            verify_source_windows(self.chunks[:-1], [self.page], self.tokenizer)
++        for field, value in [('embedding_input_ids', [999]*120), ('text_content', 'changed'),
++                             ('token_start', 101), ('source_page', 10)]:
++            bad = deepcopy(self.chunks)
++            bad[1][field] = value
++            with self.assertRaises(ValueError):
++                verify_source_windows(bad, [self.page], self.tokenizer)
++
++    def test_real_cached_tokenizer_preserves_midword_token_ids(self):
++        from transformers import AutoTokenizer
++        from src.chunk_retriever import MODEL_NAME
++
++        tok = AutoTokenizer.from_pretrained(MODEL_NAME, local_files_only=True)
++        text = ('The notarized application identifies the business location. ' * 60).strip()
++        ids = tok.encode(text, add_special_tokens=False)
++        windows = list(source_windows(text, tok))
++        for i, w in enumerate(windows):
++            self.assertEqual(w['embedding_input_ids'], ids[i*100:i*100+120])
++            self.assertLessEqual(len(prepare_window_ids(w['embedding_input_ids'], tok)), 122)
++            if i:
++                self.assertEqual(windows[i-1]['embedding_input_ids'][-20:], w['embedding_input_ids'][:20])
++
++    def test_special_tokens_match_actual_cached_tokenizer(self):
++        from transformers import AutoTokenizer
++        from src.chunk_retriever import MODEL_NAME
++
++        tok = AutoTokenizer.from_pretrained(MODEL_NAME, local_files_only=True)
++        text = 'Application for a business permit.'
++        ids = tok.encode(text, add_special_tokens=False)
++        self.assertEqual(prepare_window_ids(ids, tok), tok.encode(text))
++        self.assertEqual(len(prepare_window_ids([10]*120, tok)), 122)
++
++
++if __name__ == '__main__':
++    unittest.main()

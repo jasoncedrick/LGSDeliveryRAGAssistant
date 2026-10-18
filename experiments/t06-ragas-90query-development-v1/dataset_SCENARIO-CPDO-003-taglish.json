@@ -1,0 +1,20 @@
+{
+  "question": [
+    "Paano kinukwenta ang zoning fee at filing fee para sa Locational Clearance ng 2-storey building sa CPDO?"
+  ],
+  "answer": [
+    "The zoning fee and filing fee for a Locational Clearance for a 2-storey building at the City Planning and Development Office (CPDO) can be found in the Citizen's Charter 2026_VOL.I & II-3.pdf, but the document does not provide explicit figures for these fees. However, you may need to check with the CPDO for the current fees as they might change over time. [No specific source found]"
+  ],
+  "contexts": [
+    [
+      "3. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (2-Storey Buildings and Below and \n1,500 Building Floor Area and Below) \nFor 2-storey buildings and below and for building floor area of 1,500 square meters \nand below only. \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator.  \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nSimple\nType of Trans",
+      "5. Issuance of Locational Clearance (LC) for Building Permit based \non the Integrated Zoning Ordinance (2019-2028) (for 2-storey and \nbelow) \nA written authority / permit granted by the City Planning and Development Office \n(previously by the Board) pursuant to applicable laws on land use planning and zoning \nfor the establishment or operation of projects of national / local significance. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nComplex\nType of Transaction \nG2G – Government",
+      "2. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (3-Storey Buildings and Above and \n1,500 Building Floor Area and Above) \nFor 3-storey buildings and above and for building floor area of 1,500 square meters \nand above only.  \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nComplex\nType of Trans",
+      "4. Issuance of Locational Clearance (LC) for Building based on the \nIntegrated Zoning Ordinance (2019-2028) (for 3-storey and above) \nA written authority / permit granted by the City Planning and Development Office \n(previously by the Board) pursuant to applicable laws on land use planning and zoning \nfor the establishment or operation of projects of national / local significance. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nComplex\nType of Transaction \nG2G – Government to Government",
+      "11. Enforcement of the Integrated Zoning Ordinance (ZO) 2019 – \n2028 in the Issuance of the Locational Clearance (LC) for Business \n– Face-to-Face Application\nA written authority / permit granted by the City Planning and Development Office \n(previously by the Board) pursuant to applicable laws on land use planning and zoning \nfor the establishment or operation of projects of national / local significance. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nSimple\nType of Trans"
+    ]
+  ],
+  "ground_truth": [
+    "To obtain a Locational Clearance (LC) for Building Permit for structures 2-storeys and below, applicants must submit: 7 complete sets of signed/sealed building plans, certified true copy of title, accomplished building permit form, sketch plan with vicinity map, bill of materials, and notarized deed of sale or contract of lease. Fees consist of: 1) GIS Map Plotting fee of PHP 300.00; 2) Filing fee of PHP 150.00 for agricultural/residential, or PHP 300.00 for commercial/industrial; and 3) Zoning fee equivalent to 1/10 of 1% of the total building cost. Processing turnaround is 4 Days, 2 Hours, and 25 Minutes."
+  ]
+}

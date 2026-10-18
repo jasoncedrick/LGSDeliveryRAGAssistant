@@ -1,0 +1,20 @@
+{
+  "question": [
+    "What are the statutory processing turnaround times for Simple, Complex, and Highly Technical BFP frontline applications?"
+  ],
+  "answer": [
+    "The statutory processing turnaround times for Simple, Complex, and Highly Technical BFP frontline applications are as follows:\n\n1. Simple Transaction: One (1) day [S1]\n2. Complex Transaction: Three (3) days [S1, S4, S5]\n3. Highly Technical Transaction: Seven (7) days [S1, S4, S5]\n\nThese turnaround times are based on the Joint Memorandum Circular No. 2021-01 [S1]."
+  ],
+  "contexts": [
+    [
+      "STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION - TRANSACTION PROCESSED WITHIN ONE (1) DAY \n2. COMPLEX TRANSACTION - TRANSACTION PROCESSED WITHIN THREE (3) DAYS \n3. HIGHLY TECHNICAL TRANSACTION - TRANSACTION PROCESSED WITHIN SEVEN (7) DAYS\nNOTE: For the coverage of Simple, Complex and Highly Technical Transactions refer to Joint Memorandum Circular (JMC) No. 2021-01  \nSeries of 2021 “Amending the DILG",
+      "OCBO\n\nCLIENT STEPS: 4. Wait for notification for OP and endorsement to BFP\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 4.1 Assess application for OP\nPROCESSING TIME: 1 Day\n\nAGENCY ACTION: 4.2 Release OP (for Occupancy and Zoning), plans and documents to be endorsed with BFP\nPROCESSING TIME: 5 Minutes\n\nAGENCY ACTION: 4.3 Receive plans, documents, FSEC, Zoning clearance\nPROCESSING TIME: 5",
+      "etc.) and\nrelease the claim stub.\n\nPROCESSING TIME: maximum of five (5) minutes\n\nPERSON RESPONSIBLE: CRO\n\nAGENCY ROW 5\n\nCLIENTS STEP: [blank source cell]\n\nAGENCY ACTION: 5. Evaluation/Inspection\nFor OSCP : Evaluation of plans and specification\nwith OBO (Backroom Operation)\nNOTE (4)\nFor BOSS : Joint Inspection\n\nPROCESSING TIME: Total Processing Time:\nSimple Transaction - One (1) day\nComplex Transaction - Three (3) days\nHighly Technical Transaction - Seven (7)\ndays\n\nPERSON",
+      "plans and \ndocuments\n2.2 Encode \nBuilding Permit \nApplication \n \n \n \n \n \n \n2.3 Endorse to City \nPlanning & \nDevelopment \nOffice (CPDO) \n \n \n2.4 Receive plans \nwith Order of \nPayment from \nCPDO posted in \nthe system \n \n2.5 Forward and \nsegregate \napplication to \nProcessing & \nEvaluation’s \nInspector (PED) \n(Inspection and \nBureau of Fire \nProtection (BFP))\n5 Minutes\n1 Day \n(Note:\nProcessing\nTime Of CPDO\nIs Excluded)\n20 Minutes\n1 Day\nTechnical Assessment\n1\nOCBO\nTechnical Assistant –\nOCBO\nTechnical Assistant –\nOCBO\nTechnic",
+      "(1) day\nComplex Transaction - Three (3) days\nHighly Technical Transaction - Seven (7)\ndays\n\nPERSON RESPONSIBLE: Building Plan Evaluator (BPE)/\nChief, Fire Safety Enforcement\nSection/Unit (C, FSES/FSEU)/\nCity/Municipal Fire Marshal\n(C/MFM)\n\nAGENCY ROW 6\n\nCLIENTS STEP: 4. On the date of release indicated in the Claim\nStub, present the Claim Stub to the releasing\nwindow, claim the FSEC/NOD/FSIC for\nCertifica"
+    ]
+  ],
+  "ground_truth": [
+    "Under the BFP Citizen's Charter and Joint Memorandum Circular (JMC) No. 2021-01, frontline transactions in Fire Stations, OSCP, and eBOSS are classified into three strict processing times: 1) Simple Transactions are processed within One (1) working day; 2) Complex Transactions are processed within Three (3) working days; and 3) Highly Technical Transactions are processed within Seven (7) working days."
+  ]
+}

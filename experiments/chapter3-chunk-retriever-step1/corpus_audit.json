@@ -1,0 +1,1725 @@
+{
+  "chunk_count": 1031,
+  "actual_max_tokens": 121,
+  "invalid_length_count": 42,
+  "invalid_lengths": [
+    {
+      "chunk_id": "CHUNK-BB-P042-C04",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P044-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P054-C04",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P056-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P057-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P057-C03",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P058-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P058-C04",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P061-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P064-C04",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P095-C03",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P098-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P104-C03",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P105-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P106-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P115-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P389-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P190-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P200-C03",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P203-C04",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P206-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P209-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P210-C04",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P211-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P317-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P219-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-OCBO-P493-C03",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-OCBO-P499-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-OCBO-P501-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-OCBO-P503-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-OCBO-P505-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-OCBO-P525-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-OCBO-P539-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-OCBO-P541-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CPDO-P662-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CPDO-P667-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CPDO-P676-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CPDO-P676-C03",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CPDO-P686-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CPDO-P705-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CPDO-P716-C03",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BFP-P001-C14",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    }
+  ],
+  "stored_count_mismatch_count": 86,
+  "stored_count_mismatches": [
+    {
+      "chunk_id": "CHUNK-BB-P041-C01",
+      "stored_tokens": 120,
+      "actual_tokens": 119
+    },
+    {
+      "chunk_id": "CHUNK-BB-P042-C04",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P044-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P051-C02",
+      "stored_tokens": 113,
+      "actual_tokens": 114
+    },
+    {
+      "chunk_id": "CHUNK-BB-P054-C04",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P056-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P057-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P057-C03",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P057-C05",
+      "stored_tokens": 58,
+      "actual_tokens": 59
+    },
+    {
+      "chunk_id": "CHUNK-BB-P058-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P058-C04",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P059-C05",
+      "stored_tokens": 35,
+      "actual_tokens": 36
+    },
+    {
+      "chunk_id": "CHUNK-BB-P061-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P064-C04",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P069-C02",
+      "stored_tokens": 71,
+      "actual_tokens": 72
+    },
+    {
+      "chunk_id": "CHUNK-BB-P071-C03",
+      "stored_tokens": 23,
+      "actual_tokens": 24
+    },
+    {
+      "chunk_id": "CHUNK-BB-P081-C03",
+      "stored_tokens": 26,
+      "actual_tokens": 27
+    },
+    {
+      "chunk_id": "CHUNK-BB-P095-C03",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P096-C03",
+      "stored_tokens": 120,
+      "actual_tokens": 119
+    },
+    {
+      "chunk_id": "CHUNK-BB-P098-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P101-C04",
+      "stored_tokens": 32,
+      "actual_tokens": 31
+    },
+    {
+      "chunk_id": "CHUNK-BB-P102-C04",
+      "stored_tokens": 48,
+      "actual_tokens": 49
+    },
+    {
+      "chunk_id": "CHUNK-BB-P104-C03",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P104-C05",
+      "stored_tokens": 76,
+      "actual_tokens": 73
+    },
+    {
+      "chunk_id": "CHUNK-BB-P105-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P106-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BB-P115-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P389-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P034-C04",
+      "stored_tokens": 81,
+      "actual_tokens": 80
+    },
+    {
+      "chunk_id": "CHUNK-CTO-PDF0021-C02X02",
+      "stored_tokens": 120,
+      "actual_tokens": 119
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P182-C04",
+      "stored_tokens": 44,
+      "actual_tokens": 45
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P187-C03",
+      "stored_tokens": 87,
+      "actual_tokens": 88
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P190-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P190-C05",
+      "stored_tokens": 41,
+      "actual_tokens": 42
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P042-C03",
+      "stored_tokens": 58,
+      "actual_tokens": 59
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P200-C03",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P200-C04",
+      "stored_tokens": 29,
+      "actual_tokens": 30
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P202-C04",
+      "stored_tokens": 67,
+      "actual_tokens": 68
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P203-C04",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P206-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P206-C03",
+      "stored_tokens": 105,
+      "actual_tokens": 106
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P209-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P210-C04",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P210-C05",
+      "stored_tokens": 98,
+      "actual_tokens": 99
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P211-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P212-C06",
+      "stored_tokens": 69,
+      "actual_tokens": 70
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P213-C07",
+      "stored_tokens": 37,
+      "actual_tokens": 38
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P317-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CTO-P219-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-OCBO-P493-C03",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-OCBO-P499-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-OCBO-P501-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-OCBO-P503-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-OCBO-P504-C02",
+      "stored_tokens": 30,
+      "actual_tokens": 31
+    },
+    {
+      "chunk_id": "CHUNK-OCBO-P505-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-OCBO-P525-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-OCBO-P531-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 119
+    },
+    {
+      "chunk_id": "CHUNK-OCBO-P538-C02",
+      "stored_tokens": 38,
+      "actual_tokens": 39
+    },
+    {
+      "chunk_id": "CHUNK-OCBO-P539-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-OCBO-P541-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-OCBO-P559-C02",
+      "stored_tokens": 98,
+      "actual_tokens": 99
+    },
+    {
+      "chunk_id": "CHUNK-OCBO-P568-C03",
+      "stored_tokens": 96,
+      "actual_tokens": 97
+    },
+    {
+      "chunk_id": "CHUNK-OCBO-P584-C04",
+      "stored_tokens": 49,
+      "actual_tokens": 50
+    },
+    {
+      "chunk_id": "CHUNK-CPDO-P638-C02",
+      "stored_tokens": 73,
+      "actual_tokens": 74
+    },
+    {
+      "chunk_id": "CHUNK-CPDO-P640-C04",
+      "stored_tokens": 97,
+      "actual_tokens": 98
+    },
+    {
+      "chunk_id": "CHUNK-CPDO-P646-C02",
+      "stored_tokens": 96,
+      "actual_tokens": 95
+    },
+    {
+      "chunk_id": "CHUNK-CPDO-P651-C02",
+      "stored_tokens": 93,
+      "actual_tokens": 94
+    },
+    {
+      "chunk_id": "CHUNK-CPDO-P653-C01",
+      "stored_tokens": 120,
+      "actual_tokens": 119
+    },
+    {
+      "chunk_id": "CHUNK-CPDO-P657-C02",
+      "stored_tokens": 91,
+      "actual_tokens": 92
+    },
+    {
+      "chunk_id": "CHUNK-CPDO-P662-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CPDO-P662-C05",
+      "stored_tokens": 116,
+      "actual_tokens": 117
+    },
+    {
+      "chunk_id": "CHUNK-CPDO-P665-C03",
+      "stored_tokens": 22,
+      "actual_tokens": 23
+    },
+    {
+      "chunk_id": "CHUNK-CPDO-P666-C02",
+      "stored_tokens": 82,
+      "actual_tokens": 83
+    },
+    {
+      "chunk_id": "CHUNK-CPDO-P667-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CPDO-P672-C02",
+      "stored_tokens": 114,
+      "actual_tokens": 115
+    },
+    {
+      "chunk_id": "CHUNK-CPDO-P675-C04",
+      "stored_tokens": 49,
+      "actual_tokens": 50
+    },
+    {
+      "chunk_id": "CHUNK-CPDO-P676-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CPDO-P676-C03",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CPDO-P686-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CPDO-P688-C02",
+      "stored_tokens": 70,
+      "actual_tokens": 71
+    },
+    {
+      "chunk_id": "CHUNK-CPDO-P705-C02",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-CPDO-P705-C04",
+      "stored_tokens": 72,
+      "actual_tokens": 73
+    },
+    {
+      "chunk_id": "CHUNK-CPDO-P715-C04",
+      "stored_tokens": 116,
+      "actual_tokens": 117
+    },
+    {
+      "chunk_id": "CHUNK-CPDO-P716-C03",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BFP-P001-C14",
+      "stored_tokens": 120,
+      "actual_tokens": 121
+    },
+    {
+      "chunk_id": "CHUNK-BFP-P001-C33",
+      "stored_tokens": 46,
+      "actual_tokens": 47
+    }
+  ],
+  "adjacent_page_pairs": 674,
+  "retokenized_overlap_mismatch_count": 265,
+  "retokenized_overlap_mismatches": [
+    [
+      "CHUNK-BB-P041-C01",
+      "CHUNK-BB-P041-C02"
+    ],
+    [
+      "CHUNK-BB-P041-C02",
+      "CHUNK-BB-P041-C03"
+    ],
+    [
+      "CHUNK-BB-P042-C03",
+      "CHUNK-BB-P042-C04"
+    ],
+    [
+      "CHUNK-BB-P042-C04",
+      "CHUNK-BB-P042-C05"
+    ],
+    [
+      "CHUNK-BB-P043-C01",
+      "CHUNK-BB-P043-C02"
+    ],
+    [
+      "CHUNK-BB-P043-C02",
+      "CHUNK-BB-P043-C03"
+    ],
+    [
+      "CHUNK-BB-P043-C03",
+      "CHUNK-BB-P043-C04"
+    ],
+    [
+      "CHUNK-BB-P044-C01",
+      "CHUNK-BB-P044-C02"
+    ],
+    [
+      "CHUNK-BB-P049-C01",
+      "CHUNK-BB-P049-C02"
+    ],
+    [
+      "CHUNK-BB-P051-C01",
+      "CHUNK-BB-P051-C02"
+    ],
+    [
+      "CHUNK-BB-P052-C02",
+      "CHUNK-BB-P052-C03"
+    ],
+    [
+      "CHUNK-BB-P054-C02",
+      "CHUNK-BB-P054-C03"
+    ],
+    [
+      "CHUNK-BB-P054-C03",
+      "CHUNK-BB-P054-C04"
+    ],
+    [
+      "CHUNK-BB-P054-C04",
+      "CHUNK-BB-P054-C05"
+    ],
+    [
+      "CHUNK-BB-P055-C02",
+      "CHUNK-BB-P055-C03"
+    ],
+    [
+      "CHUNK-BB-P056-C01",
+      "CHUNK-BB-P056-C02"
+    ],
+    [
+      "CHUNK-BB-P056-C02",
+      "CHUNK-BB-P056-C03"
+    ],
+    [
+      "CHUNK-BB-P057-C01",
+      "CHUNK-BB-P057-C02"
+    ],
+    [
+      "CHUNK-BB-P057-C02",
+      "CHUNK-BB-P057-C03"
+    ],
+    [
+      "CHUNK-BB-P057-C04",
+      "CHUNK-BB-P057-C05"
+    ],
+    [
+      "CHUNK-BB-P058-C01",
+      "CHUNK-BB-P058-C02"
+    ],
+    [
+      "CHUNK-BB-P058-C03",
+      "CHUNK-BB-P058-C04"
+    ],
+    [
+      "CHUNK-BB-P059-C02",
+      "CHUNK-BB-P059-C03"
+    ],
+    [
+      "CHUNK-BB-P059-C04",
+      "CHUNK-BB-P059-C05"
+    ],
+    [
+      "CHUNK-BB-P060-C02",
+      "CHUNK-BB-P060-C03"
+    ],
+    [
+      "CHUNK-BB-P061-C01",
+      "CHUNK-BB-P061-C02"
+    ],
+    [
+      "CHUNK-BB-P063-C02",
+      "CHUNK-BB-P063-C03"
+    ],
+    [
+      "CHUNK-BB-P063-C03",
+      "CHUNK-BB-P063-C04"
+    ],
+    [
+      "CHUNK-BB-P064-C01",
+      "CHUNK-BB-P064-C02"
+    ],
+    [
+      "CHUNK-BB-P064-C02",
+      "CHUNK-BB-P064-C03"
+    ],
+    [
+      "CHUNK-BB-P064-C03",
+      "CHUNK-BB-P064-C04"
+    ],
+    [
+      "CHUNK-BB-P064-C04",
+      "CHUNK-BB-P064-C05"
+    ],
+    [
+      "CHUNK-BB-P066-C01",
+      "CHUNK-BB-P066-C02"
+    ],
+    [
+      "CHUNK-BB-P066-C02",
+      "CHUNK-BB-P066-C03"
+    ],
+    [
+      "CHUNK-BB-P067-C01",
+      "CHUNK-BB-P067-C02"
+    ],
+    [
+      "CHUNK-BB-P068-C02",
+      "CHUNK-BB-P068-C03"
+    ],
+    [
+      "CHUNK-BB-P069-C01",
+      "CHUNK-BB-P069-C02"
+    ],
+    [
+      "CHUNK-BB-P070-C02",
+      "CHUNK-BB-P070-C03"
+    ],
+    [
+      "CHUNK-BB-P071-C01",
+      "CHUNK-BB-P071-C02"
+    ],
+    [
+      "CHUNK-BB-P071-C02",
+      "CHUNK-BB-P071-C03"
+    ],
+    [
+      "CHUNK-BB-P073-C01",
+      "CHUNK-BB-P073-C02"
+    ],
+    [
+      "CHUNK-BB-P080-C01",
+      "CHUNK-BB-P080-C02"
+    ],
+    [
+      "CHUNK-BB-P081-C01",
+      "CHUNK-BB-P081-C02"
+    ],
+    [
+      "CHUNK-BB-P081-C02",
+      "CHUNK-BB-P081-C03"
+    ],
+    [
+      "CHUNK-BB-P082-C01",
+      "CHUNK-BB-P082-C02"
+    ],
+    [
+      "CHUNK-BB-P085-C01",
+      "CHUNK-BB-P085-C02"
+    ],
+    [
+      "CHUNK-BB-P095-C02",
+      "CHUNK-BB-P095-C03"
+    ],
+    [
+      "CHUNK-BB-P095-C03",
+      "CHUNK-BB-P095-C04"
+    ],
+    [
+      "CHUNK-BB-P096-C03",
+      "CHUNK-BB-P096-C04"
+    ],
+    [
+      "CHUNK-BB-P097-C01",
+      "CHUNK-BB-P097-C02"
+    ],
+    [
+      "CHUNK-BB-P097-C02",
+      "CHUNK-BB-P097-C03"
+    ],
+    [
+      "CHUNK-BB-P098-C01",
+      "CHUNK-BB-P098-C02"
+    ],
+    [
+      "CHUNK-BB-P101-C03",
+      "CHUNK-BB-P101-C04"
+    ],
+    [
+      "CHUNK-BB-P102-C03",
+      "CHUNK-BB-P102-C04"
+    ],
+    [
+      "CHUNK-BB-P104-C01",
+      "CHUNK-BB-P104-C02"
+    ],
+    [
+      "CHUNK-BB-P104-C02",
+      "CHUNK-BB-P104-C03"
+    ],
+    [
+      "CHUNK-BB-P104-C04",
+      "CHUNK-BB-P104-C05"
+    ],
+    [
+      "CHUNK-BB-P105-C01",
+      "CHUNK-BB-P105-C02"
+    ],
+    [
+      "CHUNK-BB-P106-C01",
+      "CHUNK-BB-P106-C02"
+    ],
+    [
+      "CHUNK-BB-P107-C01",
+      "CHUNK-BB-P107-C02"
+    ],
+    [
+      "CHUNK-BB-P111-C01",
+      "CHUNK-BB-P111-C02"
+    ],
+    [
+      "CHUNK-BB-P115-C01",
+      "CHUNK-BB-P115-C02"
+    ],
+    [
+      "CHUNK-BB-P115-C02",
+      "CHUNK-BB-P115-C03"
+    ],
+    [
+      "CHUNK-BB-P116-C02",
+      "CHUNK-BB-P116-C03"
+    ],
+    [
+      "CHUNK-BB-P118-C03",
+      "CHUNK-BB-P118-C04"
+    ],
+    [
+      "CHUNK-BB-P120-C01",
+      "CHUNK-BB-P120-C02"
+    ],
+    [
+      "CHUNK-BB-P121-C02",
+      "CHUNK-BB-P121-C03"
+    ],
+    [
+      "CHUNK-CTO-P389-C01",
+      "CHUNK-CTO-P389-C02"
+    ],
+    [
+      "CHUNK-CTO-P162-C02",
+      "CHUNK-CTO-P162-C03"
+    ],
+    [
+      "CHUNK-CTO-P163-C01",
+      "CHUNK-CTO-P163-C02"
+    ],
+    [
+      "CHUNK-CTO-P034-C01",
+      "CHUNK-CTO-P034-C02"
+    ],
+    [
+      "CHUNK-CTO-P034-C02",
+      "CHUNK-CTO-P034-C03"
+    ],
+    [
+      "CHUNK-CTO-P034-C03",
+      "CHUNK-CTO-P034-C04"
+    ],
+    [
+      "CHUNK-CTO-P166-C01",
+      "CHUNK-CTO-P166-C02"
+    ],
+    [
+      "CHUNK-CTO-P167-C01",
+      "CHUNK-CTO-P167-C02"
+    ],
+    [
+      "CHUNK-CTO-P169-C01",
+      "CHUNK-CTO-P169-C02"
+    ],
+    [
+      "CHUNK-CTO-P171-C02",
+      "CHUNK-CTO-P171-C03"
+    ],
+    [
+      "CHUNK-CTO-P172-C01",
+      "CHUNK-CTO-P172-C02"
+    ],
+    [
+      "CHUNK-CTO-P186-C02",
+      "CHUNK-CTO-P186-C03"
+    ],
+    [
+      "CHUNK-CTO-P186-C03",
+      "CHUNK-CTO-P186-C04"
+    ],
+    [
+      "CHUNK-CTO-PDF0021-C02",
+      "CHUNK-CTO-PDF0021-C02X01"
+    ],
+    [
+      "CHUNK-CTO-PDF0021-C02X01",
+      "CHUNK-CTO-PDF0021-C02X02"
+    ],
+    [
+      "CHUNK-CTO-P178-C02",
+      "CHUNK-CTO-P178-C03"
+    ],
+    [
+      "CHUNK-CTO-P178-C03",
+      "CHUNK-CTO-P178-C04"
+    ],
+    [
+      "CHUNK-CTO-P179-C01",
+      "CHUNK-CTO-P179-C02"
+    ],
+    [
+      "CHUNK-CTO-P182-C03",
+      "CHUNK-CTO-P182-C04"
+    ],
+    [
+      "CHUNK-CTO-PDF0031-C03",
+      "CHUNK-CTO-PDF0031-C03X01"
+    ],
+    [
+      "CHUNK-CTO-P187-C02",
+      "CHUNK-CTO-P187-C03"
+    ],
+    [
+      "CHUNK-CTO-P189-C01",
+      "CHUNK-CTO-P189-C02"
+    ],
+    [
+      "CHUNK-CTO-P190-C01",
+      "CHUNK-CTO-P190-C02"
+    ],
+    [
+      "CHUNK-CTO-P190-C04",
+      "CHUNK-CTO-P190-C05"
+    ],
+    [
+      "CHUNK-CTO-P042-C02",
+      "CHUNK-CTO-P042-C03"
+    ],
+    [
+      "CHUNK-CTO-P200-C02",
+      "CHUNK-CTO-P200-C03"
+    ],
+    [
+      "CHUNK-CTO-P200-C03",
+      "CHUNK-CTO-P200-C04"
+    ],
+    [
+      "CHUNK-CTO-P202-C03",
+      "CHUNK-CTO-P202-C04"
+    ],
+    [
+      "CHUNK-CTO-P203-C02",
+      "CHUNK-CTO-P203-C03"
+    ],
+    [
+      "CHUNK-CTO-P203-C03",
+      "CHUNK-CTO-P203-C04"
+    ],
+    [
+      "CHUNK-CTO-P206-C01",
+      "CHUNK-CTO-P206-C02"
+    ],
+    [
+      "CHUNK-CTO-P206-C02",
+      "CHUNK-CTO-P206-C03"
+    ],
+    [
+      "CHUNK-CTO-P207-C01",
+      "CHUNK-CTO-P207-C02"
+    ],
+    [
+      "CHUNK-CTO-P208-C01",
+      "CHUNK-CTO-P208-C02"
+    ],
+    [
+      "CHUNK-CTO-P209-C01",
+      "CHUNK-CTO-P209-C02"
+    ],
+    [
+      "CHUNK-CTO-P210-C01",
+      "CHUNK-CTO-P210-C02"
+    ],
+    [
+      "CHUNK-CTO-P210-C02",
+      "CHUNK-CTO-P210-C03"
+    ],
+    [
+      "CHUNK-CTO-P210-C03",
+      "CHUNK-CTO-P210-C04"
+    ],
+    [
+      "CHUNK-CTO-P210-C04",
+      "CHUNK-CTO-P210-C05"
+    ],
+    [
+      "CHUNK-CTO-P211-C01",
+      "CHUNK-CTO-P211-C02"
+    ],
+    [
+      "CHUNK-CTO-P212-C05",
+      "CHUNK-CTO-P212-C06"
+    ],
+    [
+      "CHUNK-CTO-P213-C04",
+      "CHUNK-CTO-P213-C05"
+    ],
+    [
+      "CHUNK-CTO-P213-C06",
+      "CHUNK-CTO-P213-C07"
+    ],
+    [
+      "CHUNK-CTO-P214-C02",
+      "CHUNK-CTO-P214-C03"
+    ],
+    [
+      "CHUNK-CTO-P214-C03",
+      "CHUNK-CTO-P214-C04"
+    ],
+    [
+      "CHUNK-CTO-P214-C04",
+      "CHUNK-CTO-P214-C05"
+    ],
+    [
+      "CHUNK-CTO-P215-C03",
+      "CHUNK-CTO-P215-C04"
+    ],
+    [
+      "CHUNK-CTO-P317-C01",
+      "CHUNK-CTO-P317-C02"
+    ],
+    [
+      "CHUNK-CTO-P219-C01",
+      "CHUNK-CTO-P219-C02"
+    ],
+    [
+      "CHUNK-CTO-P219-C02",
+      "CHUNK-CTO-P219-C03"
+    ],
+    [
+      "CHUNK-OCBO-P490-C03",
+      "CHUNK-OCBO-P490-C04"
+    ],
+    [
+      "CHUNK-OCBO-P491-C01",
+      "CHUNK-OCBO-P491-C02"
+    ],
+    [
+      "CHUNK-OCBO-P492-C01",
+      "CHUNK-OCBO-P492-C02"
+    ],
+    [
+      "CHUNK-OCBO-P492-C02",
+      "CHUNK-OCBO-P492-C03"
+    ],
+    [
+      "CHUNK-OCBO-P492-C03",
+      "CHUNK-OCBO-P492-C04"
+    ],
+    [
+      "CHUNK-OCBO-P493-C01",
+      "CHUNK-OCBO-P493-C02"
+    ],
+    [
+      "CHUNK-OCBO-P493-C02",
+      "CHUNK-OCBO-P493-C03"
+    ],
+    [
+      "CHUNK-OCBO-P494-C01",
+      "CHUNK-OCBO-P494-C02"
+    ],
+    [
+      "CHUNK-OCBO-P496-C01",
+      "CHUNK-OCBO-P496-C02"
+    ],
+    [
+      "CHUNK-OCBO-P497-C01",
+      "CHUNK-OCBO-P497-C02"
+    ],
+    [
+      "CHUNK-OCBO-P499-C01",
+      "CHUNK-OCBO-P499-C02"
+    ],
+    [
+      "CHUNK-OCBO-P501-C01",
+      "CHUNK-OCBO-P501-C02"
+    ],
+    [
+      "CHUNK-OCBO-P501-C03",
+      "CHUNK-OCBO-P501-C04"
+    ],
+    [
+      "CHUNK-OCBO-P503-C01",
+      "CHUNK-OCBO-P503-C02"
+    ],
+    [
+      "CHUNK-OCBO-P503-C02",
+      "CHUNK-OCBO-P503-C03"
+    ],
+    [
+      "CHUNK-OCBO-P504-C01",
+      "CHUNK-OCBO-P504-C02"
+    ],
+    [
+      "CHUNK-OCBO-P505-C01",
+      "CHUNK-OCBO-P505-C02"
+    ],
+    [
+      "CHUNK-OCBO-P508-C01",
+      "CHUNK-OCBO-P508-C02"
+    ],
+    [
+      "CHUNK-OCBO-P510-C01",
+      "CHUNK-OCBO-P510-C02"
+    ],
+    [
+      "CHUNK-OCBO-P512-C01",
+      "CHUNK-OCBO-P512-C02"
+    ],
+    [
+      "CHUNK-OCBO-P515-C01",
+      "CHUNK-OCBO-P515-C02"
+    ],
+    [
+      "CHUNK-OCBO-P516-C01",
+      "CHUNK-OCBO-P516-C02"
+    ],
+    [
+      "CHUNK-OCBO-P517-C03",
+      "CHUNK-OCBO-P517-C04"
+    ],
+    [
+      "CHUNK-OCBO-P518-C01",
+      "CHUNK-OCBO-P518-C02"
+    ],
+    [
+      "CHUNK-OCBO-P519-C01",
+      "CHUNK-OCBO-P519-C02"
+    ],
+    [
+      "CHUNK-OCBO-P521-C01",
+      "CHUNK-OCBO-P521-C02"
+    ],
+    [
+      "CHUNK-OCBO-P524-C03",
+      "CHUNK-OCBO-P524-C04"
+    ],
+    [
+      "CHUNK-OCBO-P524-C04",
+      "CHUNK-OCBO-P524-C05"
+    ],
+    [
+      "CHUNK-OCBO-P525-C01",
+      "CHUNK-OCBO-P525-C02"
+    ],
+    [
+      "CHUNK-OCBO-P525-C02",
+      "CHUNK-OCBO-P525-C03"
+    ],
+    [
+      "CHUNK-OCBO-P531-C01",
+      "CHUNK-OCBO-P531-C02"
+    ],
+    [
+      "CHUNK-OCBO-P531-C03",
+      "CHUNK-OCBO-P531-C04"
+    ],
+    [
+      "CHUNK-OCBO-P532-C01",
+      "CHUNK-OCBO-P532-C02"
+    ],
+    [
+      "CHUNK-OCBO-P532-C02",
+      "CHUNK-OCBO-P532-C03"
+    ],
+    [
+      "CHUNK-OCBO-P538-C01",
+      "CHUNK-OCBO-P538-C02"
+    ],
+    [
+      "CHUNK-OCBO-P539-C01",
+      "CHUNK-OCBO-P539-C02"
+    ],
+    [
+      "CHUNK-OCBO-P539-C03",
+      "CHUNK-OCBO-P539-C04"
+    ],
+    [
+      "CHUNK-OCBO-P541-C01",
+      "CHUNK-OCBO-P541-C02"
+    ],
+    [
+      "CHUNK-OCBO-P541-C02",
+      "CHUNK-OCBO-P541-C03"
+    ],
+    [
+      "CHUNK-OCBO-P546-C01",
+      "CHUNK-OCBO-P546-C02"
+    ],
+    [
+      "CHUNK-OCBO-P546-C03",
+      "CHUNK-OCBO-P546-C04"
+    ],
+    [
+      "CHUNK-OCBO-P547-C02",
+      "CHUNK-OCBO-P547-C03"
+    ],
+    [
+      "CHUNK-OCBO-P550-C01",
+      "CHUNK-OCBO-P550-C02"
+    ],
+    [
+      "CHUNK-OCBO-P553-C02",
+      "CHUNK-OCBO-P553-C03"
+    ],
+    [
+      "CHUNK-OCBO-P555-C02",
+      "CHUNK-OCBO-P555-C03"
+    ],
+    [
+      "CHUNK-OCBO-P556-C01",
+      "CHUNK-OCBO-P556-C02"
+    ],
+    [
+      "CHUNK-OCBO-P558-C01",
+      "CHUNK-OCBO-P558-C02"
+    ],
+    [
+      "CHUNK-OCBO-P559-C01",
+      "CHUNK-OCBO-P559-C02"
+    ],
+    [
+      "CHUNK-OCBO-P561-C02",
+      "CHUNK-OCBO-P561-C03"
+    ],
+    [
+      "CHUNK-OCBO-P564-C01",
+      "CHUNK-OCBO-P564-C02"
+    ],
+    [
+      "CHUNK-OCBO-P565-C01",
+      "CHUNK-OCBO-P565-C02"
+    ],
+    [
+      "CHUNK-OCBO-P568-C02",
+      "CHUNK-OCBO-P568-C03"
+    ],
+    [
+      "CHUNK-OCBO-P574-C01",
+      "CHUNK-OCBO-P574-C02"
+    ],
+    [
+      "CHUNK-OCBO-P574-C03",
+      "CHUNK-OCBO-P574-C04"
+    ],
+    [
+      "CHUNK-OCBO-P575-C02",
+      "CHUNK-OCBO-P575-C03"
+    ],
+    [
+      "CHUNK-OCBO-P578-C01",
+      "CHUNK-OCBO-P578-C02"
+    ],
+    [
+      "CHUNK-OCBO-P579-C01",
+      "CHUNK-OCBO-P579-C02"
+    ],
+    [
+      "CHUNK-OCBO-P580-C01",
+      "CHUNK-OCBO-P580-C02"
+    ],
+    [
+      "CHUNK-OCBO-P580-C02",
+      "CHUNK-OCBO-P580-C03"
+    ],
+    [
+      "CHUNK-OCBO-P582-C01",
+      "CHUNK-OCBO-P582-C02"
+    ],
+    [
+      "CHUNK-OCBO-P583-C01",
+      "CHUNK-OCBO-P583-C02"
+    ],
+    [
+      "CHUNK-OCBO-P584-C01",
+      "CHUNK-OCBO-P584-C02"
+    ],
+    [
+      "CHUNK-OCBO-P584-C02",
+      "CHUNK-OCBO-P584-C03"
+    ],
+    [
+      "CHUNK-OCBO-P584-C03",
+      "CHUNK-OCBO-P584-C04"
+    ],
+    [
+      "CHUNK-CPDO-P631-C02",
+      "CHUNK-CPDO-P631-C03"
+    ],
+    [
+      "CHUNK-CPDO-P631-C03",
+      "CHUNK-CPDO-P631-C04"
+    ],
+    [
+      "CHUNK-CPDO-P632-C01",
+      "CHUNK-CPDO-P632-C02"
+    ],
+    [
+      "CHUNK-CPDO-P634-C02",
+      "CHUNK-CPDO-P634-C03"
+    ],
+    [
+      "CHUNK-CPDO-P636-C01",
+      "CHUNK-CPDO-P636-C02"
+    ],
+    [
+      "CHUNK-CPDO-P637-C03",
+      "CHUNK-CPDO-P637-C04"
+    ],
+    [
+      "CHUNK-CPDO-P638-C01",
+      "CHUNK-CPDO-P638-C02"
+    ],
+    [
+      "CHUNK-CPDO-P640-C03",
+      "CHUNK-CPDO-P640-C04"
+    ],
+    [
+      "CHUNK-CPDO-P641-C01",
+      "CHUNK-CPDO-P641-C02"
+    ],
+    [
+      "CHUNK-CPDO-P643-C01",
+      "CHUNK-CPDO-P643-C02"
+    ],
+    [
+      "CHUNK-CPDO-P644-C01",
+      "CHUNK-CPDO-P644-C02"
+    ],
+    [
+      "CHUNK-CPDO-P645-C01",
+      "CHUNK-CPDO-P645-C02"
+    ],
+    [
+      "CHUNK-CPDO-P646-C01",
+      "CHUNK-CPDO-P646-C02"
+    ],
+    [
+      "CHUNK-CPDO-P648-C01",
+      "CHUNK-CPDO-P648-C02"
+    ],
+    [
+      "CHUNK-CPDO-P648-C03",
+      "CHUNK-CPDO-P648-C04"
+    ],
+    [
+      "CHUNK-CPDO-P651-C01",
+      "CHUNK-CPDO-P651-C02"
+    ],
+    [
+      "CHUNK-CPDO-P653-C01",
+      "CHUNK-CPDO-P653-C02"
+    ],
+    [
+      "CHUNK-CPDO-P657-C01",
+      "CHUNK-CPDO-P657-C02"
+    ],
+    [
+      "CHUNK-CPDO-P658-C01",
+      "CHUNK-CPDO-P658-C02"
+    ],
+    [
+      "CHUNK-CPDO-P660-C01",
+      "CHUNK-CPDO-P660-C02"
+    ],
+    [
+      "CHUNK-CPDO-P661-C01",
+      "CHUNK-CPDO-P661-C02"
+    ],
+    [
+      "CHUNK-CPDO-P662-C01",
+      "CHUNK-CPDO-P662-C02"
+    ],
+    [
+      "CHUNK-CPDO-P662-C02",
+      "CHUNK-CPDO-P662-C03"
+    ],
+    [
+      "CHUNK-CPDO-P662-C04",
+      "CHUNK-CPDO-P662-C05"
+    ],
+    [
+      "CHUNK-CPDO-P665-C02",
+      "CHUNK-CPDO-P665-C03"
+    ],
+    [
+      "CHUNK-CPDO-P666-C01",
+      "CHUNK-CPDO-P666-C02"
+    ],
+    [
+      "CHUNK-CPDO-P667-C01",
+      "CHUNK-CPDO-P667-C02"
+    ],
+    [
+      "CHUNK-CPDO-P668-C01",
+      "CHUNK-CPDO-P668-C02"
+    ],
+    [
+      "CHUNK-CPDO-P670-C02",
+      "CHUNK-CPDO-P670-C03"
+    ],
+    [
+      "CHUNK-CPDO-P670-C04",
+      "CHUNK-CPDO-P670-C05"
+    ],
+    [
+      "CHUNK-CPDO-P672-C01",
+      "CHUNK-CPDO-P672-C02"
+    ],
+    [
+      "CHUNK-CPDO-P673-C01",
+      "CHUNK-CPDO-P673-C02"
+    ],
+    [
+      "CHUNK-CPDO-P675-C01",
+      "CHUNK-CPDO-P675-C02"
+    ],
+    [
+      "CHUNK-CPDO-P675-C02",
+      "CHUNK-CPDO-P675-C03"
+    ],
+    [
+      "CHUNK-CPDO-P675-C03",
+      "CHUNK-CPDO-P675-C04"
+    ],
+    [
+      "CHUNK-CPDO-P676-C01",
+      "CHUNK-CPDO-P676-C02"
+    ],
+    [
+      "CHUNK-CPDO-P676-C02",
+      "CHUNK-CPDO-P676-C03"
+    ],
+    [
+      "CHUNK-CPDO-P676-C03",
+      "CHUNK-CPDO-P676-C04"
+    ],
+    [
+      "CHUNK-CPDO-P677-C01",
+      "CHUNK-CPDO-P677-C02"
+    ],
+    [
+      "CHUNK-CPDO-P678-C01",
+      "CHUNK-CPDO-P678-C02"
+    ],
+    [
+      "CHUNK-CPDO-P679-C01",
+      "CHUNK-CPDO-P679-C02"
+    ],
+    [
+      "CHUNK-CPDO-P680-C01",
+      "CHUNK-CPDO-P680-C02"
+    ],
+    [
+      "CHUNK-CPDO-P682-C01",
+      "CHUNK-CPDO-P682-C02"
+    ],
+    [
+      "CHUNK-CPDO-P685-C04",
+      "CHUNK-CPDO-P685-C05"
+    ],
+    [
+      "CHUNK-CPDO-P686-C01",
+      "CHUNK-CPDO-P686-C02"
+    ],
+    [
+      "CHUNK-CPDO-P686-C02",
+      "CHUNK-CPDO-P686-C03"
+    ],
+    [
+      "CHUNK-CPDO-P688-C01",
+      "CHUNK-CPDO-P688-C02"
+    ],
+    [
+      "CHUNK-CPDO-P692-C01",
+      "CHUNK-CPDO-P692-C02"
+    ],
+    [
+      "CHUNK-CPDO-P695-C02",
+      "CHUNK-CPDO-P695-C03"
+    ],
+    [
+      "CHUNK-CPDO-P695-C04",
+      "CHUNK-CPDO-P695-C05"
+    ],
+    [
+      "CHUNK-CPDO-P699-C01",
+      "CHUNK-CPDO-P699-C02"
+    ],
+    [
+      "CHUNK-CPDO-P702-C01",
+      "CHUNK-CPDO-P702-C02"
+    ],
+    [
+      "CHUNK-CPDO-P705-C01",
+      "CHUNK-CPDO-P705-C02"
+    ],
+    [
+      "CHUNK-CPDO-P705-C02",
+      "CHUNK-CPDO-P705-C03"
+    ],
+    [
+      "CHUNK-CPDO-P705-C03",
+      "CHUNK-CPDO-P705-C04"
+    ],
+    [
+      "CHUNK-CPDO-P706-C02",
+      "CHUNK-CPDO-P706-C03"
+    ],
+    [
+      "CHUNK-CPDO-P706-C03",
+      "CHUNK-CPDO-P706-C04"
+    ],
+    [
+      "CHUNK-CPDO-P707-C02",
+      "CHUNK-CPDO-P707-C03"
+    ],
+    [
+      "CHUNK-CPDO-P708-C01",
+      "CHUNK-CPDO-P708-C02"
+    ],
+    [
+      "CHUNK-CPDO-P711-C01",
+      "CHUNK-CPDO-P711-C02"
+    ],
+    [
+      "CHUNK-CPDO-P712-C01",
+      "CHUNK-CPDO-P712-C02"
+    ],
+    [
+      "CHUNK-CPDO-P714-C03",
+      "CHUNK-CPDO-P714-C04"
+    ],
+    [
+      "CHUNK-CPDO-P714-C04",
+      "CHUNK-CPDO-P714-C05"
+    ],
+    [
+      "CHUNK-CPDO-P715-C01",
+      "CHUNK-CPDO-P715-C02"
+    ],
+    [
+      "CHUNK-CPDO-P715-C03",
+      "CHUNK-CPDO-P715-C04"
+    ],
+    [
+      "CHUNK-CPDO-P716-C02",
+      "CHUNK-CPDO-P716-C03"
+    ],
+    [
+      "CHUNK-CPDO-P717-C01",
+      "CHUNK-CPDO-P717-C02"
+    ],
+    [
+      "CHUNK-CPDO-P718-C01",
+      "CHUNK-CPDO-P718-C02"
+    ],
+    [
+      "CHUNK-CPDO-P720-C02",
+      "CHUNK-CPDO-P720-C03"
+    ],
+    [
+      "CHUNK-CPDO-P722-C01",
+      "CHUNK-CPDO-P722-C02"
+    ],
+    [
+      "CHUNK-CPDO-P724-C02",
+      "CHUNK-CPDO-P724-C03"
+    ],
+    [
+      "CHUNK-CPDO-P726-C02",
+      "CHUNK-CPDO-P726-C03"
+    ],
+    [
+      "CHUNK-CPDO-P731-C02",
+      "CHUNK-CPDO-P731-C03"
+    ],
+    [
+      "CHUNK-BFP-P001-C01",
+      "CHUNK-BFP-P001-C02"
+    ],
+    [
+      "CHUNK-BFP-P001-C03",
+      "CHUNK-BFP-P001-C04"
+    ],
+    [
+      "CHUNK-BFP-P001-C04",
+      "CHUNK-BFP-P001-C05"
+    ],
+    [
+      "CHUNK-BFP-P001-C13",
+      "CHUNK-BFP-P001-C14"
+    ],
+    [
+      "CHUNK-BFP-P001-C17",
+      "CHUNK-BFP-P001-C18"
+    ],
+    [
+      "CHUNK-BFP-P001-C18",
+      "CHUNK-BFP-P001-C19"
+    ],
+    [
+      "CHUNK-BFP-P001-C19",
+      "CHUNK-BFP-P001-C20"
+    ],
+    [
+      "CHUNK-BFP-P001-C20",
+      "CHUNK-BFP-P001-C21"
+    ],
+    [
+      "CHUNK-BFP-P001-C24",
+      "CHUNK-BFP-P001-C25"
+    ],
+    [
+      "CHUNK-BFP-P001-C26",
+      "CHUNK-BFP-P001-C27"
+    ],
+    [
+      "CHUNK-BFP-P001-C32",
+      "CHUNK-BFP-P001-C33"
+    ]
+  ],
+  "overlap_note": "Diagnostic only; verify source token windows before rebuilding.",
+  "passes_text_length_validation": false,
+  "bm25_content_and_order_match": true,
+  "bm25_row_count": 1031,
+  "faiss_row_count": 1031,
+  "faiss_dimension": 384,
+  "faiss_inner_product": true,
+  "unique_chunk_ids": true,
+  "held_out_benchmarks_accessed": false,
+  "note": "Row counts do not independently prove FAISS vector-to-text provenance.",
+  "passed": false
+}

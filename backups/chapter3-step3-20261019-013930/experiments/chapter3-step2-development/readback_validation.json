@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "chunk_count": 1042,
+  "source_page_count": 358,
+  "window_tokens": 120,
+  "stride_tokens": 100,
+  "overlap_tokens": 20,
+  "verified_overlap_pairs": 684,
+  "max_embedding_input_tokens": 122,
+  "display_text_retokenized_over_120": 54,
+  "embedding_path": "verified source token IDs; display text is not re-tokenized",
+  "artifact_hashes_match": true,
+  "source_pdf_hashes_match": true,
+  "bm25_content_and_order_match": true,
+  "bm25_row_count": 1042,
+  "faiss_row_count": 1042,
+  "faiss_dimension": 384,
+  "faiss_inner_product": true,
+  "unique_chunk_ids": true,
+  "held_out_benchmarks_accessed": false,
+  "note": "Row counts do not independently prove FAISS vector-to-text provenance."
+}

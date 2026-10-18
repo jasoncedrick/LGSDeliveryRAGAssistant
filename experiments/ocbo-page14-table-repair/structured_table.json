@@ -1,0 +1,302 @@
+{
+  "source_pdf": "D:\\thesis\\LGSDeliveryRAGAssistant-main\\data\\raw_charters\\OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+  "pdf_sha256": "6f081dde0a63ade8aaa3f4dc5a26ceb0c7fde85f896951931d8222eaa86b3093",
+  "pdf_relative_page": 14,
+  "printed_page": 502,
+  "column_labels_source": "OCBO PDF page 13, printed page 501 (table header)",
+  "rows": [
+    {
+      "client_step": "1. Secure and fill-out forms",
+      "fees_to_be_paid": "None",
+      "person_responsible_cell": "Technical Assistant\non Planning and\nDevelopment\nCivil Engineer –\nOCBO",
+      "agency_actions": [
+        {
+          "lines": [
+            {
+              "text": "1. Evaluate",
+              "bbox": [
+                171.6699981689453,
+                70.63997650146484,
+                235.1739501953125,
+                87.12797546386719
+              ]
+            },
+            {
+              "text": "Documents",
+              "bbox": [
+                171.6699981689453,
+                84.56002044677734,
+                235.75599670410156,
+                101.04801940917969
+              ]
+            }
+          ],
+          "action": "1. Evaluate Documents",
+          "processing_time": "20 Minutes",
+          "time_line": {
+            "text": "20 Minutes",
+            "bbox": [
+              378.6199951171875,
+              70.63997650146484,
+              440.7860107421875,
+              87.12797546386719
+            ]
+          },
+          "alignment_delta_points": 0.0
+        }
+      ],
+      "source_cells": [
+        {
+          "column": "CLIENT STEPS",
+          "text": "1. Secure and fill-out\nforms",
+          "bbox": [
+            40.02399826049805,
+            72.22001139322917,
+            166.1500015258789,
+            155.57000732421875
+          ]
+        },
+        {
+          "column": "AGENCY ACTION",
+          "text": "1. Evaluate\nDocuments",
+          "bbox": [
+            166.1500015258789,
+            72.22001139322917,
+            292.6800079345703,
+            155.57000732421875
+          ]
+        },
+        {
+          "column": "FEES TO BE PAID",
+          "text": "None",
+          "bbox": [
+            292.6800079345703,
+            72.22001139322917,
+            359.1800079345703,
+            155.57000732421875
+          ]
+        },
+        {
+          "column": "PROCESSING TIME",
+          "text": "20 Minutes",
+          "bbox": [
+            359.1800079345703,
+            72.22001139322917,
+            456.65000915527344,
+            155.57000732421875
+          ]
+        },
+        {
+          "column": "PERSON RESPONSIBLE",
+          "text": "Technical Assistant\non Planning and\nDevelopment\nCivil Engineer –\nOCBO",
+          "bbox": [
+            456.65000915527344,
+            72.22001139322917,
+            571.9799601236979,
+            155.57000732421875
+          ]
+        }
+      ],
+      "personnel_substep_assignment": "not_inferred",
+      "fee_scope": "parent_source_cell_not_distributed"
+    },
+    {
+      "client_step": "2. Submit necessary requirements",
+      "fees_to_be_paid": "None",
+      "person_responsible_cell": "Technical Assistant\non Planning and\nDevelopment\nCivil Engineer –\nOCBO\nRecords\nManagement\nAssistant\nRecords\nManagement\nAssistant – OCBO\nRecords\nManagement\nAssistant\nRecords\nManagement\nAssistant – OCBO\nRecords\nManagement\nAssistant – OCBO",
+      "agency_actions": [
+        {
+          "lines": [
+            {
+              "text": "2.1 Encode and",
+              "bbox": [
+                171.6699981689453,
+                153.94998168945312,
+                259.1499328613281,
+                170.43797302246094
+              ]
+            },
+            {
+              "text": "receive documents",
+              "bbox": [
+                171.6699981689453,
+                167.87002563476562,
+                275.83599853515625,
+                184.35801696777344
+              ]
+            }
+          ],
+          "action": "2.1 Encode and receive documents",
+          "processing_time": "5 Minutes",
+          "time_line": {
+            "text": "5 Minutes",
+            "bbox": [
+              381.9800109863281,
+              153.94998168945312,
+              437.4259948730469,
+              170.43797302246094
+            ]
+          },
+          "alignment_delta_points": 0.0
+        },
+        {
+          "lines": [
+            {
+              "text": "2.2 Route documents",
+              "bbox": [
+                171.6699981689453,
+                292.0,
+                289.0360107421875,
+                308.4880065917969
+              ]
+            }
+          ],
+          "action": "2.2 Route documents",
+          "processing_time": "1 Day",
+          "time_line": {
+            "text": "1 Day",
+            "bbox": [
+              392.29998779296875,
+              292.0,
+              427.1059875488281,
+              308.4880065917969
+            ]
+          },
+          "alignment_delta_points": 0.0
+        },
+        {
+          "lines": [
+            {
+              "text": "2.3 Encode and",
+              "bbox": [
+                171.6699981689453,
+                443.94000244140625,
+                259.1499328613281,
+                460.4280090332031
+              ]
+            },
+            {
+              "text": "segregate",
+              "bbox": [
+                171.6699981689453,
+                457.6400146484375,
+                228.44195556640625,
+                474.1280212402344
+              ]
+            },
+            {
+              "text": "applications",
+              "bbox": [
+                171.6699981689453,
+                471.55999755859375,
+                238.39599609375,
+                488.0480041503906
+              ]
+            }
+          ],
+          "action": "2.3 Encode and segregate applications",
+          "processing_time": "4 Hours",
+          "time_line": {
+            "text": "4 Hours",
+            "bbox": [
+              387.0199890136719,
+              443.94000244140625,
+              432.385986328125,
+              460.4280090332031
+            ]
+          },
+          "alignment_delta_points": 0.0
+        },
+        {
+          "lines": [
+            {
+              "text": "2.4 Route to zoning",
+              "bbox": [
+                171.6699981689453,
+                581.75,
+                279.0579833984375,
+                598.238037109375
+              ]
+            },
+            {
+              "text": "for validation",
+              "bbox": [
+                171.6699981689453,
+                595.6699829101562,
+                242.95599365234375,
+                612.1580200195312
+              ]
+            }
+          ],
+          "action": "2.4 Route to zoning for validation",
+          "processing_time": "1 Day",
+          "time_line": {
+            "text": "1 Day",
+            "bbox": [
+              392.29998779296875,
+              581.75,
+              427.1059875488281,
+              598.238037109375
+            ]
+          },
+          "alignment_delta_points": 0.0
+        }
+      ],
+      "source_cells": [
+        {
+          "column": "CLIENT STEPS",
+          "text": "2. Submit necessary\nrequirements",
+          "bbox": [
+            40.02399826049805,
+            155.57000732421875,
+            166.1500015258789,
+            611.7300008138021
+          ]
+        },
+        {
+          "column": "AGENCY ACTION",
+          "text": "2.1 Encode and\nreceive documents\n2.2 Route documents\n2.3 Encode and\nsegregate\napplications\n2.4 Route to zoning\nfor validation",
+          "bbox": [
+            166.1500015258789,
+            155.57000732421875,
+            292.6800079345703,
+            611.7300008138021
+          ]
+        },
+        {
+          "column": "FEES TO BE PAID",
+          "text": "None",
+          "bbox": [
+            292.6800079345703,
+            155.57000732421875,
+            359.1800079345703,
+            611.7300008138021
+          ]
+        },
+        {
+          "column": "PROCESSING TIME",
+          "text": "5 Minutes\n1 Day\n4 Hours\n1 Day",
+          "bbox": [
+            359.1800079345703,
+            155.57000732421875,
+            456.65000915527344,
+            611.7300008138021
+          ]
+        },
+        {
+          "column": "PERSON RESPONSIBLE",
+          "text": "Technical Assistant\non Planning and\nDevelopment\nCivil Engineer –\nOCBO\nRecords\nManagement\nAssistant\nRecords\nManagement\nAssistant – OCBO\nRecords\nManagement\nAssistant\nRecords\nManagement\nAssistant – OCBO\nRecords\nManagement\nAssistant – OCBO",
+          "bbox": [
+            456.65000915527344,
+            155.57000732421875,
+            571.9799601236979,
+            611.7300008138021
+          ]
+        }
+      ],
+      "personnel_substep_assignment": "not_inferred",
+      "fee_scope": "parent_source_cell_not_distributed"
+    }
+  ],
+  "editorial_labels": "Shared-cell labels describe representation, not additional charter requirements."
+}

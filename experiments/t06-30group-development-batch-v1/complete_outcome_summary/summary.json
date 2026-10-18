@@ -1,0 +1,69 @@
+{
+  "status": "COMPLETE_OUTCOME_ACCOUNTING_WITH_PROVISIONAL_LABELS",
+  "records": 90,
+  "groups": 30,
+  "statuses": {
+    "ANSWERED": 84,
+    "CLARIFICATION_REQUIRED": 6
+  },
+  "ranking_metrics": [
+    {
+      "k": 3,
+      "denominator": 75,
+      "all_mapped_queries_included": true,
+      "hit_at_k": 0.72,
+      "mrr_at_k": 0.5644444444444445,
+      "by_language": {
+        "english": {
+          "queries": 25,
+          "hits": 18
+        },
+        "taglish": {
+          "queries": 25,
+          "hits": 19
+        },
+        "bislish": {
+          "queries": 25,
+          "hits": 17
+        }
+      }
+    },
+    {
+      "k": 5,
+      "denominator": 75,
+      "all_mapped_queries_included": true,
+      "hit_at_k": 0.7466666666666667,
+      "mrr_at_k": 0.5704444444444445,
+      "by_language": {
+        "english": {
+          "queries": 25,
+          "hits": 20
+        },
+        "taglish": {
+          "queries": 25,
+          "hits": 19
+        },
+        "bislish": {
+          "queries": 25,
+          "hits": 17
+        }
+      }
+    }
+  ],
+  "unmapped_groups": [
+    "SCENARIO-BB-006",
+    "SCENARIO-CPDO-001",
+    "SCENARIO-BFP-001",
+    "SCENARIO-BFP-004",
+    "SCENARIO-BFP-005"
+  ],
+  "policy": "Clarification, normalization errors, retrieval errors and generation errors remain in archive. For mapped groups, missing retrieval counts as zero Hit/MRR. No fabricated gold for unmapped groups.",
+  "limits": [
+    "Subset of mapped groups is not a full balanced 30-group score.",
+    "Legacy source answers are not semantically certified by source-span remapping.",
+    "Output status ANSWERED does not imply answer correctness.",
+    "This is a candidate development run, not frozen Config A/B/C final evaluation."
+  ],
+  "held_out_accessed": false,
+  "archive_sha256": "9ad83c476e55d67324fbfd584d2f49d08e0ac623a9d9e22984c0d61984085809"
+}

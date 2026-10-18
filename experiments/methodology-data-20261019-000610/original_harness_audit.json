@@ -1,0 +1,34 @@
+{
+  "status": "AUDIT_ONLY_NOT_T06_COMPLETION",
+  "harness_sha256": "9af3b16bf94ddb7ac2570cb248c1a6fadb6b7df3b55bc307978063bc029ef224",
+  "original_corpus_chunks": 1031,
+  "duplicate_ids": [],
+  "development_reference_integrity_errors": [],
+  "harness_review_flags": [
+    {
+      "code": "SEPARATE_NORMALIZER",
+      "note": "The harness defines a separate normalizer; verify it uses the Chapter 3 injection and ambiguity gate."
+    },
+    {
+      "code": "SILENT_RAW_FALLBACK",
+      "note": "Normalization failures may silently turn into raw-query retrieval."
+    },
+    {
+      "code": "LOCAL_TERMS_AFTER_TRANSLATION",
+      "note": "Boost matches local dictionary keys after translation; log activation before interpreting gamma."
+    },
+    {
+      "code": "AUTOMATIC_FREEZE",
+      "note": "The script writes a frozen manifest automatically. Separate development results from final freeze."
+    },
+    {
+      "code": "PROXY_METRIC",
+      "note": "The current context-precision value is an ID-overlap ranking proxy, not a configured RAGAS result."
+    }
+  ],
+  "notes": [
+    "Inspect Hit@5 calculation when K=3: do not label Hit@3 as Hit@5.",
+    "Retain all 30 development groups and all 3 language variants, including failures.",
+    "No held-out reads, requests, metrics, dictionary modifications or manifest writes."
+  ]
+}

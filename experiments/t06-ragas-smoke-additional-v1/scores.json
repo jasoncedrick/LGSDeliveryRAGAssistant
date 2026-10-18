@@ -1,0 +1,11 @@
+[
+  {
+    "record_id": "DEV-EVID-06-normalized-K3",
+    "generation_status": "ANSWERED",
+    "scores": {
+      "answer_relevancy": 0.5533439570809631,
+      "context_recall": null
+    },
+    "status": "PARTIAL_OR_FAILED_JUDGE"
+  }
+]

@@ -1,0 +1,226 @@
+{
+  "reviewed_errors": [
+    {
+      "id": "NF-01",
+      "language": "English",
+      "query": "For an occupancy permit, how long does OCBO take to encode and receive documents?",
+      "reference_translation": "How long does OCBO take to encode and receive documents for an occupancy permit?",
+      "actual_translation": "What is the processing duration for the OCBO Occupancy Permit (Certificate of Occupancy) document encoding and submission?",
+      "automatic_flags": [
+        "missing_concept:receiving"
+      ],
+      "human_verdict": "meaning_changed",
+      "allowed_verdicts": [
+        "faithful",
+        "meaning_changed",
+        "reference_needs_correction",
+        "uncertain"
+      ],
+      "correction_or_notes": "OCBO will encode and receive documents"
+    },
+    {
+      "id": "NF-02",
+      "language": "Bislish",
+      "query": "Para sa occupancy permit, pila ka oras ang pag-encode ug pagdawat sa mga dokumento sa OCBO?",
+      "reference_translation": "How long does OCBO take to encode and receive documents for an occupancy permit?",
+      "actual_translation": "What is the processing duration for the submission and encoding of documents for the OCBO Occupancy Permit (Certificate of Occupancy)?",
+      "automatic_flags": [
+        "missing_concept:receiving"
+      ],
+      "human_verdict": "meaning_changed",
+      "allowed_verdicts": [
+        "faithful",
+        "meaning_changed",
+        "reference_needs_correction",
+        "uncertain"
+      ],
+      "correction_or_notes": "OCBO is encoding and receiving the applicant's documents. The translation changes receiving to submission."
+    },
+    {
+      "id": "NF-03",
+      "language": "Taglish",
+      "query": "Para sa occupancy permit, gaano katagal ang pag-encode at pagtanggap ng mga dokumento sa OCBO?",
+      "reference_translation": "How long does OCBO take to encode and receive documents for an occupancy permit?",
+      "actual_translation": "What is the processing duration for the submission and acceptance of documents for the OCBO Occupancy Permit?",
+      "automatic_flags": [
+        "missing_concept:encoding"
+      ],
+      "human_verdict": "meaning_changed",
+      "allowed_verdicts": [
+        "faithful",
+        "meaning_changed",
+        "reference_needs_correction",
+        "uncertain"
+      ],
+      "correction_or_notes": "OCBO is encoding and receiving the applicant's documents. The translation omits encoding and introduces submission."
+    },
+    {
+      "id": "NF-05",
+      "language": "Bislish",
+      "query": "Para sa CPDO locational clearance sa tulo ka andana nga building, pila ka sets sa building plans ang kinahanglan?",
+      "reference_translation": "How many sets of building plans are required for CPDO locational clearance for a three-storey building?",
+      "actual_translation": "For the Locational Clearance (LC) for three building sites, how many sets of building plans are required?",
+      "automatic_flags": [
+        "missing_concept:office",
+        "missing_concept:height"
+      ],
+      "human_verdict": "meaning_changed",
+      "allowed_verdicts": [
+        "faithful",
+        "meaning_changed",
+        "reference_needs_correction",
+        "uncertain"
+      ],
+      "correction_or_notes": "The translation changed the meaning by specifying 'three building sites' instead of 'a three-storey building'. andana means storey, but the assistant's translation changed the meaning of the query."
+    },
+    {
+      "id": "NF-06",
+      "language": "Taglish",
+      "query": "Para sa CPDO locational clearance ng tatlong palapag na building, ilang sets ng building plans ang kailangan?",
+      "reference_translation": "How many sets of building plans are required for CPDO locational clearance for a three-storey building?",
+      "actual_translation": "For the Locational Clearance (LC) of three building sites, how many sets of building plans are required?",
+      "automatic_flags": [
+        "missing_concept:office",
+        "missing_concept:height"
+      ],
+      "human_verdict": "meaning_changed",
+      "allowed_verdicts": [
+        "faithful",
+        "meaning_changed",
+        "reference_needs_correction",
+        "uncertain"
+      ],
+      "correction_or_notes": "The translation changed the meaning by specifying 'three building sites' instead of 'a three-storey building'. palapag means storey or floor in tagalog, but the assistant's translation changed the meaning of the query."
+    },
+    {
+      "id": "NF-09",
+      "language": "Taglish",
+      "query": "Sa renewal ng business permit, anong dokumento ng awtoridad ang kailangan kung may kinatawan ang sole proprietor?",
+      "reference_translation": "What authority document is required for a sole proprietor applying through a representative for business permit renewal?",
+      "actual_translation": "What documents does the authority require for the renewal of a business permit if the sole proprietor has a spouse?",
+      "automatic_flags": [
+        "missing_concept:representation"
+      ],
+      "human_verdict": "meaning_changed",
+      "allowed_verdicts": [
+        "faithful",
+        "meaning_changed",
+        "reference_needs_correction",
+        "uncertain"
+      ],
+      "correction_or_notes": "kinatawan means representative, but the assistant's translation changed the meaning of the query to spouse, which means asawa in tagalog or married person. The translation changed the meaning of the query."
+    },
+    {
+      "id": "NF-11",
+      "language": "Bislish",
+      "query": "Pila ang bayad sa City Treasurer para sa paghugas sa mga baboy?",
+      "reference_translation": "What is the City Treasurer fee for washing hogs?",
+      "actual_translation": "What is the fee for the slaughter of pigs at the City Treasurer's office?",
+      "automatic_flags": [
+        "missing_concept:washing"
+      ],
+      "human_verdict": "meaning_changed",
+      "allowed_verdicts": [
+        "faithful",
+        "meaning_changed",
+        "reference_needs_correction",
+        "uncertain"
+      ],
+      "correction_or_notes": "Paghugas means washing, not slaughter. Suggested translation: What is the City Treasurer fee for washing hogs?"
+    },
+    {
+      "id": "NF-12",
+      "language": "Taglish",
+      "query": "Magkano ang bayad sa City Treasurer para sa paghuhugas ng mga baboy?",
+      "reference_translation": "What is the City Treasurer fee for washing hogs?",
+      "actual_translation": "What is the fee for the City Treasurer for the slaughter of pigs?",
+      "automatic_flags": [
+        "missing_concept:washing"
+      ],
+      "human_verdict": "meaning_changed",
+      "allowed_verdicts": [
+        "faithful",
+        "meaning_changed",
+        "reference_needs_correction",
+        "uncertain"
+      ],
+      "correction_or_notes": "Paghuhugas means washing, not slaughter. Suggested translation: What is the City Treasurer fee for washing hogs?"
+    },
+    {
+      "id": "NF-17",
+      "language": "Bislish",
+      "query": "Para sa locational clearance, unsang requirements para sa duha ka andana nga building, dili tulo ka andana?",
+      "reference_translation": "What locational clearance requirements apply to a two-storey building rather than a three-storey building?",
+      "actual_translation": "What are the requirements for a Locational Clearance for two separate building structures, not three?",
+      "automatic_flags": [
+        "missing_concept:two",
+        "missing_concept:three"
+      ],
+      "human_verdict": "meaning_changed",
+      "allowed_verdicts": [
+        "faithful",
+        "meaning_changed",
+        "reference_needs_correction",
+        "uncertain"
+      ],
+      "correction_or_notes": "The translation changes a two-storey building into two separate buildings"
+    },
+    {
+      "id": "NF-18",
+      "language": "Taglish",
+      "query": "Para sa locational clearance, anong requirements para sa dalawang palapag na building, hindi tatlong palapag?",
+      "reference_translation": "What locational clearance requirements apply to a two-storey building rather than a three-storey building?",
+      "actual_translation": "What are the requirements for a Locational Clearance for two buildings, not three?",
+      "automatic_flags": [
+        "missing_concept:two",
+        "missing_concept:three"
+      ],
+      "human_verdict": "meaning_changed",
+      "allowed_verdicts": [
+        "faithful",
+        "meaning_changed",
+        "reference_needs_correction",
+        "uncertain"
+      ],
+      "correction_or_notes": "the translation meant two separate buildings, not a two-storey building. palapag means floor or storey, but the assistant's translation changed the meaning of the query."
+    },
+    {
+      "id": "NF-23",
+      "language": "English",
+      "query": "How long does OCBO take?",
+      "reference_translation": null,
+      "actual_translation": "What is the processing duration for the One-Stop Business Clearance Office (OCBO)?",
+      "automatic_flags": [],
+      "human_verdict": "meaning_changed",
+      "allowed_verdicts": [
+        "faithful",
+        "meaning_changed",
+        "reference_needs_correction",
+        "uncertain"
+      ],
+      "correction_or_notes": "The translation incorrectly expands OCBO as One-Stop Business Clearance Office. The correct office name is Office of the City Building Official."
+    }
+  ],
+  "uncertain_ids": [
+    "NF-19",
+    "NF-20",
+    "NF-21"
+  ],
+  "pending_ids": [
+    "NF-04",
+    "NF-07",
+    "NF-08",
+    "NF-10",
+    "NF-13",
+    "NF-14",
+    "NF-15",
+    "NF-16",
+    "NF-22",
+    "NF-24"
+  ],
+  "reference_translations_automatically_approved": false,
+  "scope": "Development reviewer corrections only, not final expert certification",
+  "candidate": "config/normalization_review_candidate.txt",
+  "candidate_use": "Offline experiment only; app default unchanged",
+  "review_snapshot_sha256": "85af294e021d3edbbc222879c4eca2851f982f649b4bca8fe0610f13df957d47"
+}

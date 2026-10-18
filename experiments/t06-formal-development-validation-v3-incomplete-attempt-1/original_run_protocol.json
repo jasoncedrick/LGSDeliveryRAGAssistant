@@ -1,0 +1,28 @@
+{
+  "status": "DEVELOPMENT_ONLY_UNFROZEN_CANDIDATE",
+  "groups": 30,
+  "queries": 90,
+  "retrieval_k": [
+    3,
+    5
+  ],
+  "generation_k": 5,
+  "candidate_prompt": "config\\normalization_intent_candidate.txt",
+  "normalization_prompt_sha256": "78bdd64d802aff0a7a36b99553507afe739eda9b8c8f328c5fbeecc128055c86",
+  "answer_prompt_sha256": "c122e29b7e174d0104b01d5e8667611081fa8b53c3e1e5c57b090366a1b56831",
+  "artifact_hashes": {
+    "corpus": "a0d996dd178eb681825880381741482001b72da5466b2effcf7b870a610017f3",
+    "dictionary": "5ecbcc99538d9a88c7905378abe8a3712831afdfe8e9647cfdf2698600bdab62",
+    "bm25": "3d4ec7020d117f47d59c4a8dbbcfb2b79f69e0471736bd8f2f4bf24af2e4a5c5",
+    "faiss": "19b7d1a025db7daa426afd513d0b20851491053f66d58d857edfb74008c07128",
+    "manifest": "6ac5aca9ffc311ae02945b76979f95ffa80da71af0afc20b15b7090b190fe9f5",
+    "source_pages": "d355eec5c7da652ef8d9a0fbdb914d3d63976be3a20f1b3614b1162984418cbf",
+    "provenance": "47420e8e98d07ad66741b88d7625aa4c0ad2b82c4ada7cedd15e714dde150f79"
+  },
+  "source_groups_sha256": "a7c079ddadc41ec901fb8e8ef38f38e6f19693d4ac139704df4f1fa4765dfc86",
+  "reference_policy": "Ranking labels only for 25 fully remapped groups; provisional mappings, not certified reference-answer truth. Five blocked groups still get pipeline outcomes but no ranking score.",
+  "source_reference_answer_status": "legacy source answers retained verbatim; semantic support not independently certified",
+  "held_out_accessed": false,
+  "app_defaults_changed": false,
+  "freeze": false
+}

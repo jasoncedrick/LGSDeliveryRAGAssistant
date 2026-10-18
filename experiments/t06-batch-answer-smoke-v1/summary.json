@@ -1,0 +1,9 @@
+{
+  "records": 8,
+  "statuses": {
+    "ANSWERED": 8
+  },
+  "all_outputs_retained": true,
+  "faithfulness_evaluation": "offline_pending",
+  "held_out_accessed": false
+}

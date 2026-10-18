@@ -1,0 +1,47 @@
+{
+  "status": "SAVED_OUTPUT_RESCORE_NEW_ACCEPTANCE_CRITERIA",
+  "summary": [
+    {
+      "variant": "baseline",
+      "cases": 24,
+      "original_probe_passes": 14,
+      "passes_with_intent_checks": 14,
+      "intent_flagged_ids": []
+    },
+    {
+      "variant": "candidate",
+      "cases": 24,
+      "original_probe_passes": 22,
+      "passes_with_intent_checks": 22,
+      "intent_flagged_ids": []
+    }
+  ],
+  "nf02_review": {
+    "id": "NF-02",
+    "query": "Para sa occupancy permit, pila ka oras ang pag-encode ug pagdawat sa mga dokumento sa OCBO?",
+    "reference_translation": "How long does OCBO take to encode and receive documents for an occupancy permit?",
+    "actual_translation": "For the occupancy permit, in what order should the documents be encoded and received at the OCBO?",
+    "clarification_prompt": null,
+    "normalization_status": "SUCCESS",
+    "automatic_flags": [],
+    "human_verdict": "meaning_changed",
+    "correction_or_notes": "pila ka oras meant how long in time, not the order of actions"
+  },
+  "methodology": "The scorer observes normalization outputs offline; it does not change translation, dictionary ambiguity fallback or retrieval.",
+  "limits": [
+    "Intent expressions are incomplete lexical probes, not a bilingual semantic judge.",
+    "Strengthened checks were motivated by development errors; this is not an independent generalization estimate.",
+    "Original scores and model outputs are preserved.",
+    "Other pending and uncertain reviewer verdicts remain unapproved."
+  ],
+  "inputs": {
+    "experiments\\normalization-fidelity-suite-v1\\cases.json": "c2be49872781c8bc1defdbe1ccfc6138e6d07acc30a9c24d5e5de8b0b50af749",
+    "experiments\\normalization-fidelity-suite-v1\\results.json": "dc95df857769b855da3f354567f90b465e10907794ff571bf92344539035ab7c",
+    "experiments\\normalization-fidelity-suite-v3-intent-prompt\\cases.json": "c2be49872781c8bc1defdbe1ccfc6138e6d07acc30a9c24d5e5de8b0b50af749",
+    "experiments\\normalization-fidelity-suite-v3-intent-prompt\\results.json": "adaf3c07e8acf0493ceac596693ef900c7a594c8dcf594ed20978c133282ec96"
+  },
+  "model_calls": 0,
+  "runtime_changed": false,
+  "retrieval_changed": false,
+  "benchmarks_accessed": false
+}

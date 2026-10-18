@@ -1,0 +1,21 @@
+{
+  "selected": 1,
+  "fully_scored": 1,
+  "failed_or_partial": 0,
+  "results": [
+    {
+      "record_id": "DEV-EVID-06-normalized-K3",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.99999999995
+      },
+      "status": "SCORED"
+    }
+  ],
+  "limits": [
+    "Local 7B judge may fail structured-output parsing; null scores are not zeros.",
+    "Same-model judging can introduce bias.",
+    "Smoke verification only; full grouped development evaluation and expert audit remain separate."
+  ]
+}

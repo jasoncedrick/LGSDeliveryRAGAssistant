@@ -1,0 +1,33 @@
+{
+  "status": "SOURCE_REVIEW_PENDING_NOT_CORPUS_FAILURE",
+  "items": [
+    {
+      "group_id": "SCENARIO-BB-006",
+      "observation": "Rendered Internet Caf? source includes accented ? while old extraction has Caf. Canonical mappings currently preserve rather than delete that letter; source reference split endpoints also differ.",
+      "action": "Verify exact ICAB checklist and fee spans against PDF79 and81 before replacing gold IDs."
+    },
+    {
+      "group_id": "SCENARIO-CPDO-001",
+      "observation": "The new text layer supplies checklist item numbers; the old cited chunks omit those numbers. PDF2 image was inspected; matching item wording remains but a strict source span cannot be substituted automatically.",
+      "action": "Verify Zoning Certification requirement/fee spans and corresponding source offsets; do not drop numbers globally for alignment."
+    },
+    {
+      "group_id": "SCENARIO-BFP-001",
+      "observation": "Legacy single cited chunk includes end of release procedure and matrix headings; it does not by itself establish blueprint submittals and fee formulas requested by this question.",
+      "action": "Review relevance labels against repaired documentary matrix and shared FSEC fee cell."
+    },
+    {
+      "group_id": "SCENARIO-BFP-004",
+      "observation": "One old cited chunk crosses procedure rows; procedure serialization changed that ordering. Other cited material may contain report notes, but complete supporting relevance needs verification.",
+      "action": "Review report definitions and structural conditions; preserve the conditional report applicability."
+    },
+    {
+      "group_id": "SCENARIO-BFP-005",
+      "observation": "Old cited chunk C24 contains occupancy/report headings and the start of the report-system condition; hot-work conditions are not visible in that cited excerpt.",
+      "action": "Verify and remap the actual hot-work per-project and annual conditions, not a neighbouring report row."
+    }
+  ],
+  "pipeline_policy": "All queries can be archived during development; ranking for these groups withheld until evidence labels are validated.",
+  "original_data_modified": false,
+  "held_out_accessed": false
+}

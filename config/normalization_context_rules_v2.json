@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "status": "DEVELOPMENT_EXPERIMENT_NOT_FROZEN",
+  "description": "Lexical sense selection only. Does not answer questions or supply deadlines/fees. Keep clarification if competing senses match.",
+  "terms": {
+    "DICT-CTO-042": [
+      {
+        "sense_id": "merchant_receipt_and_books_registration",
+        "required_any_groups": [
+          ["\\bbooks?\\s+of\\s+accounts?\\b", "\\bbooks?\\s+of\\s+records?\\b", "\\blibro(?:ng)?\\s+(?:pangnegosyo|ng\\s+negosyo)\\b"],
+          ["\\bregister(?:ing|ed)?\\b", "\\bregistration\\b", "\\b(?:ipa|i|ma)?rehistro\\b", "\\biparehistro\\b", "\\bmarehistro\\b"]
+        ],
+        "english_definition": "Merchant sales receipts submitted with books of accounts for registration"
+      },
+      {
+        "sense_id": "treasurer_tax_payment_receipt",
+        "required_any_groups": [
+          ["\\b(?:official\\s+receipt|resibo)\\b"],
+          ["\\btax\\s+payment\\b", "\\bpagbayad\\s+(?:sa|ng)\\s+(?:buwis|tax)\\b", "\\bbayad\\s+sa\\s+buwis\\b", "\\bpagbabayad\\s+ng\\s+buwis\\b"]
+        ],
+        "english_definition": "Official Receipt from the City Treasurer for tax payment"
+      }
+    ]
+  }
+}

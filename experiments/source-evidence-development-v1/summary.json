@@ -1,0 +1,57 @@
+{
+  "status": "PROVISIONAL_ASSISTANT_LABELLED_DEVELOPMENT_DIAGNOSTIC",
+  "summary": [
+    {
+      "k": 3,
+      "answerable_questions": 12,
+      "page_hits": 9,
+      "complete_lexical_evidence_hits": 7,
+      "misses": [
+        "DEV-EVID-01",
+        "DEV-EVID-04",
+        "DEV-EVID-09",
+        "DEV-EVID-10",
+        "DEV-EVID-12"
+      ]
+    },
+    {
+      "k": 5,
+      "answerable_questions": 12,
+      "page_hits": 9,
+      "complete_lexical_evidence_hits": 7,
+      "misses": [
+        "DEV-EVID-01",
+        "DEV-EVID-04",
+        "DEV-EVID-09",
+        "DEV-EVID-10",
+        "DEV-EVID-12"
+      ]
+    }
+  ],
+  "questions_sha256": "608dd0c1d717d48303bceb1aac180a78e129f3379d7ca49c533ce67198444d42",
+  "artifact_hashes": {
+    "corpus": "a0d996dd178eb681825880381741482001b72da5466b2effcf7b870a610017f3",
+    "dictionary": "5ecbcc99538d9a88c7905378abe8a3712831afdfe8e9647cfdf2698600bdab62",
+    "bm25": "3d4ec7020d117f47d59c4a8dbbcfb2b79f69e0471736bd8f2f4bf24af2e4a5c5",
+    "faiss": "19b7d1a025db7daa426afd513d0b20851491053f66d58d857edfb74008c07128",
+    "manifest": "6ac5aca9ffc311ae02945b76979f95ffa80da71af0afc20b15b7090b190fe9f5",
+    "source_pages": "d355eec5c7da652ef8d9a0fbdb914d3d63976be3a20f1b3614b1162984418cbf",
+    "provenance": "47420e8e98d07ad66741b88d7625aa4c0ad2b82c4ada7cedd15e714dde150f79"
+  },
+  "label_review_pending": true,
+  "ambiguous_questions": 4,
+  "normalization_or_generation_evaluated": false,
+  "scoring": "All fragments within each evidence group must co-occur in one returned chunk of the labelled source page; groups may use different returned chunks.",
+  "limits": [
+    "Not a representative or balanced benchmark: OCBO has four cases, other offices two each.",
+    "Lexical coverage does not prove correct table relationship or service scope; inspect returned evidence manually.",
+    "Labels prepared before this run but by the same assistant, not an independent annotator.",
+    "No parameter tuning, held-out access, or app switch."
+  ],
+  "manual_review": [
+    "Confirm questions identify the intended service and expected source facts, including units and conditions.",
+    "Verify BB renewal notarization belongs to the correct row, not a similar earlier checklist item.",
+    "Check partial or split evidence and incorrect-service results before treating hits as adequate answers.",
+    "Review ambiguous-query labels; generation must be tested separately for clarification behavior."
+  ]
+}

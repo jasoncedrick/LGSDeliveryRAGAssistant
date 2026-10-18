@@ -1,0 +1,112 @@
+{
+  "created_utc": "2026-10-18T19:15:01.614610+00:00",
+  "case_reviews": [
+    {
+      "id": "DEV-EVID-01",
+      "review_origin": "User supplied review in conversation",
+      "classification": "wrong_service",
+      "intended_service_and_step": "Occupancy Permit; step 2 Submit necessary requirements; 2.1 Encode and receive documents",
+      "user_review_and_trace_note": "User reports Building Permit material returned.",
+      "query_already_specific": true,
+      "manual_review_scope": "User-reviewed failures only; not expert certification of entire dataset",
+      "returned_chunks_k5": [
+        "DEV120-OCBO-PDF0076-C001",
+        "DEV120-OCBO-PDF0056-C001",
+        "DEV120-OCBO-PDF0056-C002",
+        "DEV120-OCBO-PDF0015-C003",
+        "DEV120-OCBO-PDF0077-C001"
+      ]
+    },
+    {
+      "id": "DEV-EVID-04",
+      "review_origin": "User supplied review in conversation",
+      "classification": "wrong_step_and_service_distractors",
+      "intended_service_and_step": "Occupancy Permit; step 2; 2.4 Route to zoning for validation",
+      "user_review_and_trace_note": "User reports step 4 Wait for notification for OP returned instead of step 2.4.",
+      "query_already_specific": true,
+      "manual_review_scope": "User-reviewed failures only; not expert certification of entire dataset",
+      "returned_chunks_k5": [
+        "DEV120-CPDO-PDF0005-C001",
+        "DEV120-CPDO-PDF0008-C001",
+        "DEV120-OCBO-PDF0016-C001",
+        "DEV120-CPDO-PDF0010-C001",
+        "DEV120-OCBO-PDF0056-C001"
+      ]
+    },
+    {
+      "id": "DEV-EVID-09",
+      "review_origin": "User supplied review in conversation",
+      "classification": "wrong_service",
+      "intended_service_and_step": "Issuance of Business Permit; renewal; employee list",
+      "user_review_and_trace_note": "User identifies returned passages as outside intended renewal section.",
+      "query_already_specific": true,
+      "manual_review_scope": "User-reviewed failures only; not expert certification of entire dataset",
+      "returned_chunks_k5": [
+        "DEV120-BB-PDF0078-C002",
+        "DEV120-BB-PDF0066-C002",
+        "DEV120-BB-PDF0078-C001",
+        "DEV120-BB-PDF0045-C003",
+        "DEV120-BB-PDF0060-C002"
+      ]
+    },
+    {
+      "id": "DEV-EVID-10",
+      "review_origin": "User supplied review in conversation",
+      "classification": "wrong_service_or_application_stage",
+      "intended_service_and_step": "Issuance of Business Permit; renewal; represented sole proprietor SPA",
+      "user_review_and_trace_note": "User reports Certifications/Certified True Copy material. Page16 C001 also appears but belongs to earlier checklist, not sufficient renewal evidence.",
+      "query_already_specific": true,
+      "manual_review_scope": "User-reviewed failures only; not expert certification of entire dataset",
+      "returned_chunks_k5": [
+        "DEV120-BB-PDF0002-C004",
+        "DEV120-BB-PDF0016-C001",
+        "DEV120-BB-PDF0072-C004",
+        "DEV120-BB-PDF0018-C002",
+        "DEV120-BB-PDF0068-C003"
+      ]
+    },
+    {
+      "id": "DEV-EVID-12",
+      "review_origin": "User supplied review in conversation",
+      "classification": "wrong_service_and_partial_page_hit",
+      "intended_service_and_step": "Issuance of Locational Clearance for building; three storeys and above; Who may avail",
+      "user_review_and_trace_note": "User reports occupancy-validation material. Page11 C001/C003 are also returned; expected Who may avail evidence is not fully covered by those chunks.",
+      "query_already_specific": true,
+      "manual_review_scope": "User-reviewed failures only; not expert certification of entire dataset",
+      "returned_chunks_k5": [
+        "DEV120-CPDO-PDF0008-C001",
+        "DEV120-CPDO-PDF0005-C001",
+        "DEV120-CPDO-PDF0011-C003",
+        "DEV120-CPDO-PDF0019-C003",
+        "DEV120-CPDO-PDF0011-C001"
+      ]
+    }
+  ],
+  "methodology": {
+    "source": "C:\\Users\\User\\Downloads\\20260923.pdf",
+    "ambiguity_fallback": {
+      "section": "3.2.3",
+      "pdf_page": 29,
+      "printed_page": 24,
+      "trigger": "Two or more conflicting dictionary mappings for the same input token",
+      "timing": "Before translation and retrieval",
+      "response": "Structured Did you mean Term A or Term B prompt; selection processed as new input"
+    },
+    "insufficient_evidence": {
+      "section": "3.2.5",
+      "pdf_page": 31,
+      "printed_page": 26,
+      "response": "Fixed no-evidence message instructed in generation prompt"
+    },
+    "variant_clarification": "A separate missing-storey/application-stage decision rule is not explicitly specified. Treat as a documented proposed extension unless covered by verified conflicting dictionary senses; do not claim it is already implemented."
+  },
+  "case_12": "Query explicitly says three storeys and above; clarification would not resolve this retrieval failure.",
+  "data_integrity": {
+    "questions_hash_at_original_run": "608dd0c1d717d48303bceb1aac180a78e129f3379d7ca49c533ce67198444d42",
+    "current_questions_sha256": "fc5e8e00f0f6be416080be30512a0186b8d36d16f1aadc4753be314dc62e78a8",
+    "current_questions_match_original_run": false,
+    "handling": "Retain original summary as historical. Revalidate labels and rerun into a new version before reporting scores for current questions."
+  },
+  "changes": "Added review record only; no dictionary, retrieval configuration, app, corpus, indices, benchmark or original results modified.",
+  "next_action": "Version and revalidate current development labels, rerun with hashes, then inspect normalization and service-context representation without section retrieval or weight tuning on these five cases."
+}

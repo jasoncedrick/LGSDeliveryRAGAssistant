@@ -1,0 +1,146 @@
+{
+  "scope": "New development-only source-page retrieval probes; not held-out benchmark or answer-faithfulness evaluation",
+  "app_pipeline_loaded": true,
+  "app_default_changed": false,
+  "source_fidelity_status": "NOT_REVIEWED",
+  "results": [
+    {
+      "query": "How long does OCBO take to encode and receive documents?",
+      "k": 3,
+      "expected_source_page": "OCBO-PDF0014",
+      "source_page_hit": false,
+      "chunk_ids": [
+        "DEV120-OCBO-PDF0076-C001",
+        "DEV120-OCBO-PDF0069-C001",
+        "DEV120-OCBO-PDF0082-C001"
+      ],
+      "weights": {
+        "alpha_bm25": 0.4,
+        "beta_dense": 0.6,
+        "gamma_dict": 0.0
+      }
+    },
+    {
+      "query": "How long does OCBO take to encode and receive documents?",
+      "k": 5,
+      "expected_source_page": "OCBO-PDF0014",
+      "source_page_hit": false,
+      "chunk_ids": [
+        "DEV120-OCBO-PDF0076-C001",
+        "DEV120-OCBO-PDF0069-C001",
+        "DEV120-OCBO-PDF0082-C001",
+        "DEV120-OCBO-PDF0007-C001",
+        "DEV120-OCBO-PDF0054-C001"
+      ],
+      "weights": {
+        "alpha_bm25": 0.4,
+        "beta_dense": 0.6,
+        "gamma_dict": 0.0
+      }
+    },
+    {
+      "query": "How long is the OCBO structural inspection and assessment?",
+      "k": 3,
+      "expected_source_page": "OCBO-PDF0015",
+      "source_page_hit": false,
+      "chunk_ids": [
+        "DEV120-OCBO-PDF0100-C001",
+        "DEV120-OCBO-PDF0007-C002",
+        "DEV120-OCBO-PDF0098-C001"
+      ],
+      "weights": {
+        "alpha_bm25": 0.4,
+        "beta_dense": 0.6,
+        "gamma_dict": 0.0
+      }
+    },
+    {
+      "query": "How long is the OCBO structural inspection and assessment?",
+      "k": 5,
+      "expected_source_page": "OCBO-PDF0015",
+      "source_page_hit": false,
+      "chunk_ids": [
+        "DEV120-OCBO-PDF0100-C001",
+        "DEV120-OCBO-PDF0007-C002",
+        "DEV120-OCBO-PDF0098-C001",
+        "DEV120-OCBO-PDF0054-C001",
+        "DEV120-OCBO-PDF0047-C001"
+      ],
+      "weights": {
+        "alpha_bm25": 0.4,
+        "beta_dense": 0.6,
+        "gamma_dict": 0.0
+      }
+    },
+    {
+      "query": "What is the fee for washing of hogs?",
+      "k": 3,
+      "expected_source_page": "CTO-PDF0006",
+      "source_page_hit": true,
+      "chunk_ids": [
+        "DEV120-CTO-PDF0006-C003",
+        "DEV120-CTO-PDF0045-C002",
+        "DEV120-CTO-PDF0044-C003"
+      ],
+      "weights": {
+        "alpha_bm25": 0.4,
+        "beta_dense": 0.6,
+        "gamma_dict": 0.0
+      }
+    },
+    {
+      "query": "What is the fee for washing of hogs?",
+      "k": 5,
+      "expected_source_page": "CTO-PDF0006",
+      "source_page_hit": true,
+      "chunk_ids": [
+        "DEV120-CTO-PDF0006-C003",
+        "DEV120-CTO-PDF0045-C002",
+        "DEV120-CTO-PDF0044-C003",
+        "DEV120-CTO-PDF0006-C002",
+        "DEV120-CTO-PDF0005-C001"
+      ],
+      "weights": {
+        "alpha_bm25": 0.4,
+        "beta_dense": 0.6,
+        "gamma_dict": 0.0
+      }
+    },
+    {
+      "query": "Which BFP application requires the Fire Safety Maintenance Report FSMR?",
+      "k": 3,
+      "expected_source_page": "BFP-PDF0001",
+      "source_page_hit": true,
+      "chunk_ids": [
+        "DEV120-BFP-PDF0001-C005",
+        "DEV120-BFP-PDF0001-C004",
+        "DEV120-BFP-PDF0001-C021"
+      ],
+      "weights": {
+        "alpha_bm25": 0.4,
+        "beta_dense": 0.6,
+        "gamma_dict": 0.0
+      }
+    },
+    {
+      "query": "Which BFP application requires the Fire Safety Maintenance Report FSMR?",
+      "k": 5,
+      "expected_source_page": "BFP-PDF0001",
+      "source_page_hit": true,
+      "chunk_ids": [
+        "DEV120-BFP-PDF0001-C005",
+        "DEV120-BFP-PDF0001-C004",
+        "DEV120-BFP-PDF0001-C021",
+        "DEV120-BFP-PDF0001-C023",
+        "DEV120-BFP-PDF0001-C041"
+      ],
+      "weights": {
+        "alpha_bm25": 0.4,
+        "beta_dense": 0.6,
+        "gamma_dict": 0.0
+      }
+    }
+  ],
+  "hits": 4,
+  "total": 8
+}

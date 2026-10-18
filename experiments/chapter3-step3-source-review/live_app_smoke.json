@@ -1,0 +1,466 @@
+{
+  "purpose": "One source-derived live integration smoke test, not a benchmark score",
+  "health": {
+    "status": "ok",
+    "pipeline_loaded": true,
+    "retrieval_mode": "chapter3_chunks",
+    "pipeline_status": "development_not_frozen",
+    "top_k": 5,
+    "source_fidelity_status": "ISSUES_FOUND_NOT_SOURCE_CERTIFIED"
+  },
+  "response": {
+    "status": "ANSWERED",
+    "raw_query": "What is an occupancy permit?",
+    "normalized_query": "What is an OCBO Occupancy Permit (Certificate of Occupancy)?",
+    "normalization_status": "SUCCESS",
+    "clarification_prompt": null,
+    "injected_terms": [
+      "occupancy permit"
+    ],
+    "resolved_terms": [],
+    "diagnostics": {
+      "generation_settings": {
+        "temperature": 0.0,
+        "top_p": 0.0,
+        "num_predict": 1536,
+        "num_ctx": 8192
+      },
+      "prompt_bytes": 5145,
+      "raw_model_answer": "An Occupancy Permit is a document required before any building or structure or portion thereof is used or occupied, or the existing use or occupancy classification thereof is changed. This information can be found in the Citizen Charter 2026 under the issuance of Occupancy Permit [S1].",
+      "done": true,
+      "done_reason": "stop",
+      "eval_count": 69,
+      "citation_labels_valid": true,
+      "faithfulness_evaluation": "offline_not_performed"
+    },
+    "retrieved_chunk_ids": [
+      "DEV120-OCBO-PDF0013-C001",
+      "DEV120-OCBO-PDF0016-C001",
+      "DEV120-BFP-PDF0001-C020",
+      "DEV120-BFP-PDF0001-C024",
+      "DEV120-OCBO-PDF0056-C001"
+    ],
+    "retrieved_chunks": [
+      {
+        "chunk_id": "DEV120-OCBO-PDF0013-C001",
+        "pillar": "Office of the City Building Official",
+        "governance_pillar": "Office of the City Building Official",
+        "text_content": "2. Issuance of Occupancy Permit \nAn Occupancy Permit shall be required before any building or structure or portion thereof is used \nor occupied, or the existing use or occupancy classification thereof is changed. \nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C \u2013 Government to Citizen; G2B \u2013 Government to Business; G2G \n\u2013 Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Application Letter  \n   1 original",
+        "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+        "source_page": 501,
+        "pdf_relative_page": 13
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0016-C001",
+        "pillar": "Office of the City Building Official",
+        "governance_pillar": "Office of the City Building Official",
+        "text_content": "4.7 Forward to \nBuilding Official (BO) \nfor approval \n \n \n \n4.8 Forward to \nElectrical for \nstamping \n \n \n4.9 Stamp \nOccupancy Permit \nnumber and \nsegregate documents\n5 Minutes\n5. Claim Order of \nPayment and \napproved documents \nthen resubmit plans \nand documents with \nFire Certificate with \nOrder of Payment \nand Official Receipt. \nFinally, claim \nApproved Certificate \nof Occupancy\n5. Release approved \nCertificate of \nOccupancy (COC), \napproved plans and \ndocuments\nNone \nRecords Personnel\n\u2013 OCBO\nTOTAL: \n*Please\nrefer \nbelow\n17 Days",
+        "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+        "source_page": 504,
+        "pdf_relative_page": 16
+      },
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C020",
+        "pillar": "Bureau of Fire Protection",
+        "governance_pillar": "Bureau of Fire Protection",
+        "text_content": "FICATE (FSIC) APPLICATION\nCERTIFICATE OF\nOCCUPANCY\nNEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPANCY\nPERMIT STAGE\nNEW  BUSINESS    \nPERMIT WITHOUT\nVALID FSIC\nISSUED DURING\nOCCUPANCY\nPERMIT STAGE\nRENEWAL OF\nBUSINESS\nPERMIT\nRENEWAL OF\nBUSINESS PERMIT\nWITHOUT VALID FSIC\nOR EXPIRED FSIC/\nWITH EXISTING\nVIOLATION OF THE\nFIRE CODE/INCLUDED",
+        "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+        "source_page": null,
+        "pdf_relative_page": 1
+      },
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C024",
+        "pillar": "Bureau of Fire Protection",
+        "governance_pillar": "Bureau of Fire Protection",
+        "text_content": "true copy of assessment fee for securing Certificate of         \nOccupancy from OBO\nCertified True Copy of Valid Certificate of Occupancy\nAssessment of Business Permit Fee/ Tax Assessment Bill from              \nBusiness Processing and Licensing Office (BPLO)\nO   T   H   E   R     D   O   C   U   M   E   N   T   S\nFire Safety Compliance Report (FSCR) NOTE (1)\nFire Safety Compliance and Commissioning   Report (FSCCR) NOTE (2)\nFire Safety Maintenance Report (FSMR) NOTE (3)\nNote: FSCR/FSCCR/FSMR  is required if",
+        "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+        "source_page": null,
+        "pdf_relative_page": 1
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0056-C001",
+        "pillar": "Office of the City Building Official",
+        "governance_pillar": "Office of the City Building Official",
+        "text_content": "Official Receipt (OR) \ndocuments, OP \nand OR \n  \n \n \n \n5.2 Forward to \nPED Chief for \nFinal \nRecommendation \n  \n5.3 Forward to \nBuilding Official \n(BO) for signing \nand approval \n  \n5.4 Stamp \nSidewalk \nOccupancy \nPermit number on \nplans and \ndocuments \n     \n \n \n5.5 Notify client \nthat approved \nplans and \ndocuments are \nready for claiming\n4 Hours\n1 Day\n4 Hours\n10 Minutes\nPlanning and \nDevelopment\nOCBO\nPED Chief \u2013\nOCBO\nBuilding Official \u2013\nOCBO\nEngineering Staff\nRecords\nCustodian \u2013\nOCBO\nRecords\nManagement \nAssistant \u2013\nOCBO\n6. Claim the approved plans \nand",
+        "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+        "source_page": 544,
+        "pdf_relative_page": 56
+      }
+    ],
+    "citations": [
+      {
+        "citation": "S1",
+        "chunk_id": "DEV120-OCBO-PDF0013-C001",
+        "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+        "source_page": 501,
+        "pdf_relative_page": 13,
+        "text": "2. Issuance of Occupancy Permit \nAn Occupancy Permit shall be required before any building or structure or portion thereof is used \nor occupied, or the existing use or occupancy classification thereof is changed. \nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C \u2013 Government to Citizen; G2B \u2013 Government to Business; G2G \n\u2013 Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Application Letter  \n   1 original"
+      },
+      {
+        "citation": "S2",
+        "chunk_id": "DEV120-OCBO-PDF0016-C001",
+        "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+        "source_page": 504,
+        "pdf_relative_page": 16,
+        "text": "4.7 Forward to \nBuilding Official (BO) \nfor approval \n \n \n \n4.8 Forward to \nElectrical for \nstamping \n \n \n4.9 Stamp \nOccupancy Permit \nnumber and \nsegregate documents\n5 Minutes\n5. Claim Order of \nPayment and \napproved documents \nthen resubmit plans \nand documents with \nFire Certificate with \nOrder of Payment \nand Official Receipt. \nFinally, claim \nApproved Certificate \nof Occupancy\n5. Release approved \nCertificate of \nOccupancy (COC), \napproved plans and \ndocuments\nNone \nRecords Personnel\n\u2013 OCBO\nTOTAL: \n*Please\nrefer \nbelow\n17 Days"
+      },
+      {
+        "citation": "S3",
+        "chunk_id": "DEV120-BFP-PDF0001-C020",
+        "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+        "source_page": null,
+        "pdf_relative_page": 1,
+        "text": "FICATE (FSIC) APPLICATION\nCERTIFICATE OF\nOCCUPANCY\nNEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPANCY\nPERMIT STAGE\nNEW  BUSINESS    \nPERMIT WITHOUT\nVALID FSIC\nISSUED DURING\nOCCUPANCY\nPERMIT STAGE\nRENEWAL OF\nBUSINESS\nPERMIT\nRENEWAL OF\nBUSINESS PERMIT\nWITHOUT VALID FSIC\nOR EXPIRED FSIC/\nWITH EXISTING\nVIOLATION OF THE\nFIRE CODE/INCLUDED"
+      },
+      {
+        "citation": "S4",
+        "chunk_id": "DEV120-BFP-PDF0001-C024",
+        "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+        "source_page": null,
+        "pdf_relative_page": 1,
+        "text": "true copy of assessment fee for securing Certificate of         \nOccupancy from OBO\nCertified True Copy of Valid Certificate of Occupancy\nAssessment of Business Permit Fee/ Tax Assessment Bill from              \nBusiness Processing and Licensing Office (BPLO)\nO   T   H   E   R     D   O   C   U   M   E   N   T   S\nFire Safety Compliance Report (FSCR) NOTE (1)\nFire Safety Compliance and Commissioning   Report (FSCCR) NOTE (2)\nFire Safety Maintenance Report (FSMR) NOTE (3)\nNote: FSCR/FSCCR/FSMR  is required if"
+      },
+      {
+        "citation": "S5",
+        "chunk_id": "DEV120-OCBO-PDF0056-C001",
+        "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+        "source_page": 544,
+        "pdf_relative_page": 56,
+        "text": "Official Receipt (OR) \ndocuments, OP \nand OR \n  \n \n \n \n5.2 Forward to \nPED Chief for \nFinal \nRecommendation \n  \n5.3 Forward to \nBuilding Official \n(BO) for signing \nand approval \n  \n5.4 Stamp \nSidewalk \nOccupancy \nPermit number on \nplans and \ndocuments \n     \n \n \n5.5 Notify client \nthat approved \nplans and \ndocuments are \nready for claiming\n4 Hours\n1 Day\n4 Hours\n10 Minutes\nPlanning and \nDevelopment\nOCBO\nPED Chief \u2013\nOCBO\nBuilding Official \u2013\nOCBO\nEngineering Staff\nRecords\nCustodian \u2013\nOCBO\nRecords\nManagement \nAssistant \u2013\nOCBO\n6. Claim the approved plans \nand"
+      }
+    ],
+    "ranked_chunks": [
+      {
+        "rank": 1,
+        "chunk_id": "DEV120-OCBO-PDF0013-C001",
+        "final_score": 1.0,
+        "raw_scores": {
+          "bm25": 13.485115422193966,
+          "dense": 0.6545056104660034,
+          "dictionary": 1.0
+        },
+        "normalized_scores": {
+          "bm25": 1.0,
+          "dense": 1.0,
+          "dictionary": 1.0
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "DEV120-OCBO-PDF0016-C001",
+        "final_score": 0.8771628750918545,
+        "raw_scores": {
+          "bm25": 10.714525447149779,
+          "dense": 0.6044409275054932,
+          "dictionary": 1.0
+        },
+        "normalized_scores": {
+          "bm25": 0.7945445857671847,
+          "dense": 0.9322417346416346,
+          "dictionary": 1.0
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "DEV120-BFP-PDF0001-C020",
+        "final_score": 0.7797550853548836,
+        "raw_scores": {
+          "bm25": 10.673783155039335,
+          "dense": 0.4859760105609894,
+          "dictionary": 0.0
+        },
+        "normalized_scores": {
+          "bm25": 0.79152330705841,
+          "dense": 0.7719096042191993,
+          "dictionary": 0.0
+        }
+      },
+      {
+        "rank": 4,
+        "chunk_id": "DEV120-BFP-PDF0001-C024",
+        "final_score": 0.7787949411178543,
+        "raw_scores": {
+          "bm25": 9.329838727177991,
+          "dense": 0.5338849425315857,
+          "dictionary": 1.0
+        },
+        "normalized_scores": {
+          "bm25": 0.6918619852391349,
+          "dense": 0.8367502450370006,
+          "dictionary": 1.0
+        }
+      },
+      {
+        "rank": 5,
+        "chunk_id": "DEV120-OCBO-PDF0056-C001",
+        "final_score": 0.77361510848453,
+        "raw_scores": {
+          "bm25": 7.912391948351094,
+          "dense": 0.5792824029922485,
+          "dictionary": 0.0
+        },
+        "normalized_scores": {
+          "bm25": 0.5867500351779551,
+          "dense": 0.8981918240222466,
+          "dictionary": 0.0
+        }
+      }
+    ],
+    "retrieval_mode": "chapter3_chunks",
+    "top_k": 5,
+    "retrieval_weights": {
+      "alpha_bm25": 0.4,
+      "beta_dense": 0.6,
+      "gamma_dict": 0.0
+    },
+    "candidate_count": 1042,
+    "artifact_hashes": {
+      "corpus": "e5c5ff0d20df1c8a29af0f36c584c4a358d7da745b31bfb3292c80e736b886b5",
+      "dictionary": "5ecbcc99538d9a88c7905378abe8a3712831afdfe8e9647cfdf2698600bdab62",
+      "bm25": "5a822a0b9719d4a021e7d65dcc179f3dc91b15ce5621875346fce757377e016e",
+      "faiss": "f97d0f6a4b5d7d525c6b3514635b4384c94719ff5c428d4f23fa700e29fc45fd",
+      "manifest": "9c6b9e68fe2f5646ce37455c91b59639b61ec25155ba9a3f63efcefec08f2bf6",
+      "source_pages": "7d995513e7b869f78680db624c98bee95ff6867b38295ef4a61697b64c12210a",
+      "provenance": "6fdb23262c6c1d5bec3ce5e92800c25c4d853e4a008c1ae7c101bc46c2981710"
+    },
+    "pipeline_status": "development_not_frozen",
+    "source_fidelity_status": "ISSUES_FOUND_NOT_SOURCE_CERTIFIED",
+    "context_chars": 2992,
+    "corpus_sha256": "e5c5ff0d20df1c8a29af0f36c584c4a358d7da745b31bfb3292c80e736b886b5",
+    "retrieval_started": true,
+    "generation_started": true,
+    "answer": "An Occupancy Permit is a document required before any building or structure or portion thereof is used or occupied, or the existing use or occupancy classification thereof is changed. This information can be found in the Citizen Charter 2026 under the issuance of Occupancy Permit [S1].",
+    "tokens_generated": 69,
+    "latency_seconds": 15.247,
+    "experimental": true,
+    "error": null
+  },
+  "archived_record": {
+    "status": "ANSWERED",
+    "raw_query": "What is an occupancy permit?",
+    "normalized_query": "What is an OCBO Occupancy Permit (Certificate of Occupancy)?",
+    "normalization_status": "SUCCESS",
+    "clarification_prompt": null,
+    "injected_terms": [
+      "occupancy permit"
+    ],
+    "resolved_terms": [],
+    "diagnostics": {
+      "generation_settings": {
+        "temperature": 0.0,
+        "top_p": 0.0,
+        "num_predict": 1536,
+        "num_ctx": 8192
+      },
+      "prompt_bytes": 5145,
+      "raw_model_answer": "An Occupancy Permit is a document required before any building or structure or portion thereof is used or occupied, or the existing use or occupancy classification thereof is changed. This information can be found in the Citizen Charter 2026 under the issuance of Occupancy Permit [S1].",
+      "done": true,
+      "done_reason": "stop",
+      "eval_count": 69,
+      "citation_labels_valid": true,
+      "faithfulness_evaluation": "offline_not_performed"
+    },
+    "retrieved_chunk_ids": [
+      "DEV120-OCBO-PDF0013-C001",
+      "DEV120-OCBO-PDF0016-C001",
+      "DEV120-BFP-PDF0001-C020",
+      "DEV120-BFP-PDF0001-C024",
+      "DEV120-OCBO-PDF0056-C001"
+    ],
+    "retrieved_chunks": [
+      {
+        "chunk_id": "DEV120-OCBO-PDF0013-C001",
+        "pillar": "Office of the City Building Official",
+        "governance_pillar": "Office of the City Building Official",
+        "text_content": "2. Issuance of Occupancy Permit \nAn Occupancy Permit shall be required before any building or structure or portion thereof is used \nor occupied, or the existing use or occupancy classification thereof is changed. \nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C \u2013 Government to Citizen; G2B \u2013 Government to Business; G2G \n\u2013 Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Application Letter  \n   1 original",
+        "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+        "source_page": 501,
+        "pdf_relative_page": 13
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0016-C001",
+        "pillar": "Office of the City Building Official",
+        "governance_pillar": "Office of the City Building Official",
+        "text_content": "4.7 Forward to \nBuilding Official (BO) \nfor approval \n \n \n \n4.8 Forward to \nElectrical for \nstamping \n \n \n4.9 Stamp \nOccupancy Permit \nnumber and \nsegregate documents\n5 Minutes\n5. Claim Order of \nPayment and \napproved documents \nthen resubmit plans \nand documents with \nFire Certificate with \nOrder of Payment \nand Official Receipt. \nFinally, claim \nApproved Certificate \nof Occupancy\n5. Release approved \nCertificate of \nOccupancy (COC), \napproved plans and \ndocuments\nNone \nRecords Personnel\n\u2013 OCBO\nTOTAL: \n*Please\nrefer \nbelow\n17 Days",
+        "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+        "source_page": 504,
+        "pdf_relative_page": 16
+      },
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C020",
+        "pillar": "Bureau of Fire Protection",
+        "governance_pillar": "Bureau of Fire Protection",
+        "text_content": "FICATE (FSIC) APPLICATION\nCERTIFICATE OF\nOCCUPANCY\nNEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPANCY\nPERMIT STAGE\nNEW  BUSINESS    \nPERMIT WITHOUT\nVALID FSIC\nISSUED DURING\nOCCUPANCY\nPERMIT STAGE\nRENEWAL OF\nBUSINESS\nPERMIT\nRENEWAL OF\nBUSINESS PERMIT\nWITHOUT VALID FSIC\nOR EXPIRED FSIC/\nWITH EXISTING\nVIOLATION OF THE\nFIRE CODE/INCLUDED",
+        "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+        "source_page": null,
+        "pdf_relative_page": 1
+      },
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C024",
+        "pillar": "Bureau of Fire Protection",
+        "governance_pillar": "Bureau of Fire Protection",
+        "text_content": "true copy of assessment fee for securing Certificate of         \nOccupancy from OBO\nCertified True Copy of Valid Certificate of Occupancy\nAssessment of Business Permit Fee/ Tax Assessment Bill from              \nBusiness Processing and Licensing Office (BPLO)\nO   T   H   E   R     D   O   C   U   M   E   N   T   S\nFire Safety Compliance Report (FSCR) NOTE (1)\nFire Safety Compliance and Commissioning   Report (FSCCR) NOTE (2)\nFire Safety Maintenance Report (FSMR) NOTE (3)\nNote: FSCR/FSCCR/FSMR  is required if",
+        "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+        "source_page": null,
+        "pdf_relative_page": 1
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0056-C001",
+        "pillar": "Office of the City Building Official",
+        "governance_pillar": "Office of the City Building Official",
+        "text_content": "Official Receipt (OR) \ndocuments, OP \nand OR \n  \n \n \n \n5.2 Forward to \nPED Chief for \nFinal \nRecommendation \n  \n5.3 Forward to \nBuilding Official \n(BO) for signing \nand approval \n  \n5.4 Stamp \nSidewalk \nOccupancy \nPermit number on \nplans and \ndocuments \n     \n \n \n5.5 Notify client \nthat approved \nplans and \ndocuments are \nready for claiming\n4 Hours\n1 Day\n4 Hours\n10 Minutes\nPlanning and \nDevelopment\nOCBO\nPED Chief \u2013\nOCBO\nBuilding Official \u2013\nOCBO\nEngineering Staff\nRecords\nCustodian \u2013\nOCBO\nRecords\nManagement \nAssistant \u2013\nOCBO\n6. Claim the approved plans \nand",
+        "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+        "source_page": 544,
+        "pdf_relative_page": 56
+      }
+    ],
+    "citations": [
+      {
+        "citation": "S1",
+        "chunk_id": "DEV120-OCBO-PDF0013-C001",
+        "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+        "source_page": 501,
+        "pdf_relative_page": 13,
+        "text": "2. Issuance of Occupancy Permit \nAn Occupancy Permit shall be required before any building or structure or portion thereof is used \nor occupied, or the existing use or occupancy classification thereof is changed. \nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C \u2013 Government to Citizen; G2B \u2013 Government to Business; G2G \n\u2013 Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Application Letter  \n   1 original"
+      },
+      {
+        "citation": "S2",
+        "chunk_id": "DEV120-OCBO-PDF0016-C001",
+        "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+        "source_page": 504,
+        "pdf_relative_page": 16,
+        "text": "4.7 Forward to \nBuilding Official (BO) \nfor approval \n \n \n \n4.8 Forward to \nElectrical for \nstamping \n \n \n4.9 Stamp \nOccupancy Permit \nnumber and \nsegregate documents\n5 Minutes\n5. Claim Order of \nPayment and \napproved documents \nthen resubmit plans \nand documents with \nFire Certificate with \nOrder of Payment \nand Official Receipt. \nFinally, claim \nApproved Certificate \nof Occupancy\n5. Release approved \nCertificate of \nOccupancy (COC), \napproved plans and \ndocuments\nNone \nRecords Personnel\n\u2013 OCBO\nTOTAL: \n*Please\nrefer \nbelow\n17 Days"
+      },
+      {
+        "citation": "S3",
+        "chunk_id": "DEV120-BFP-PDF0001-C020",
+        "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+        "source_page": null,
+        "pdf_relative_page": 1,
+        "text": "FICATE (FSIC) APPLICATION\nCERTIFICATE OF\nOCCUPANCY\nNEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPANCY\nPERMIT STAGE\nNEW  BUSINESS    \nPERMIT WITHOUT\nVALID FSIC\nISSUED DURING\nOCCUPANCY\nPERMIT STAGE\nRENEWAL OF\nBUSINESS\nPERMIT\nRENEWAL OF\nBUSINESS PERMIT\nWITHOUT VALID FSIC\nOR EXPIRED FSIC/\nWITH EXISTING\nVIOLATION OF THE\nFIRE CODE/INCLUDED"
+      },
+      {
+        "citation": "S4",
+        "chunk_id": "DEV120-BFP-PDF0001-C024",
+        "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+        "source_page": null,
+        "pdf_relative_page": 1,
+        "text": "true copy of assessment fee for securing Certificate of         \nOccupancy from OBO\nCertified True Copy of Valid Certificate of Occupancy\nAssessment of Business Permit Fee/ Tax Assessment Bill from              \nBusiness Processing and Licensing Office (BPLO)\nO   T   H   E   R     D   O   C   U   M   E   N   T   S\nFire Safety Compliance Report (FSCR) NOTE (1)\nFire Safety Compliance and Commissioning   Report (FSCCR) NOTE (2)\nFire Safety Maintenance Report (FSMR) NOTE (3)\nNote: FSCR/FSCCR/FSMR  is required if"
+      },
+      {
+        "citation": "S5",
+        "chunk_id": "DEV120-OCBO-PDF0056-C001",
+        "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+        "source_page": 544,
+        "pdf_relative_page": 56,
+        "text": "Official Receipt (OR) \ndocuments, OP \nand OR \n  \n \n \n \n5.2 Forward to \nPED Chief for \nFinal \nRecommendation \n  \n5.3 Forward to \nBuilding Official \n(BO) for signing \nand approval \n  \n5.4 Stamp \nSidewalk \nOccupancy \nPermit number on \nplans and \ndocuments \n     \n \n \n5.5 Notify client \nthat approved \nplans and \ndocuments are \nready for claiming\n4 Hours\n1 Day\n4 Hours\n10 Minutes\nPlanning and \nDevelopment\nOCBO\nPED Chief \u2013\nOCBO\nBuilding Official \u2013\nOCBO\nEngineering Staff\nRecords\nCustodian \u2013\nOCBO\nRecords\nManagement \nAssistant \u2013\nOCBO\n6. Claim the approved plans \nand"
+      }
+    ],
+    "ranked_chunks": [
+      {
+        "rank": 1,
+        "chunk_id": "DEV120-OCBO-PDF0013-C001",
+        "final_score": 1.0,
+        "raw_scores": {
+          "bm25": 13.485115422193966,
+          "dense": 0.6545056104660034,
+          "dictionary": 1.0
+        },
+        "normalized_scores": {
+          "bm25": 1.0,
+          "dense": 1.0,
+          "dictionary": 1.0
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "DEV120-OCBO-PDF0016-C001",
+        "final_score": 0.8771628750918545,
+        "raw_scores": {
+          "bm25": 10.714525447149779,
+          "dense": 0.6044409275054932,
+          "dictionary": 1.0
+        },
+        "normalized_scores": {
+          "bm25": 0.7945445857671847,
+          "dense": 0.9322417346416346,
+          "dictionary": 1.0
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "DEV120-BFP-PDF0001-C020",
+        "final_score": 0.7797550853548836,
+        "raw_scores": {
+          "bm25": 10.673783155039335,
+          "dense": 0.4859760105609894,
+          "dictionary": 0.0
+        },
+        "normalized_scores": {
+          "bm25": 0.79152330705841,
+          "dense": 0.7719096042191993,
+          "dictionary": 0.0
+        }
+      },
+      {
+        "rank": 4,
+        "chunk_id": "DEV120-BFP-PDF0001-C024",
+        "final_score": 0.7787949411178543,
+        "raw_scores": {
+          "bm25": 9.329838727177991,
+          "dense": 0.5338849425315857,
+          "dictionary": 1.0
+        },
+        "normalized_scores": {
+          "bm25": 0.6918619852391349,
+          "dense": 0.8367502450370006,
+          "dictionary": 1.0
+        }
+      },
+      {
+        "rank": 5,
+        "chunk_id": "DEV120-OCBO-PDF0056-C001",
+        "final_score": 0.77361510848453,
+        "raw_scores": {
+          "bm25": 7.912391948351094,
+          "dense": 0.5792824029922485,
+          "dictionary": 0.0
+        },
+        "normalized_scores": {
+          "bm25": 0.5867500351779551,
+          "dense": 0.8981918240222466,
+          "dictionary": 0.0
+        }
+      }
+    ],
+    "retrieval_mode": "chapter3_chunks",
+    "top_k": 5,
+    "retrieval_weights": {
+      "alpha_bm25": 0.4,
+      "beta_dense": 0.6,
+      "gamma_dict": 0.0
+    },
+    "candidate_count": 1042,
+    "context_chars": 2992,
+    "corpus_sha256": "e5c5ff0d20df1c8a29af0f36c584c4a358d7da745b31bfb3292c80e736b886b5",
+    "source_fidelity_status": "ISSUES_FOUND_NOT_SOURCE_CERTIFIED",
+    "artifact_hashes": {
+      "corpus": "e5c5ff0d20df1c8a29af0f36c584c4a358d7da745b31bfb3292c80e736b886b5",
+      "dictionary": "5ecbcc99538d9a88c7905378abe8a3712831afdfe8e9647cfdf2698600bdab62",
+      "bm25": "5a822a0b9719d4a021e7d65dcc179f3dc91b15ce5621875346fce757377e016e",
+      "faiss": "f97d0f6a4b5d7d525c6b3514635b4384c94719ff5c428d4f23fa700e29fc45fd",
+      "manifest": "9c6b9e68fe2f5646ce37455c91b59639b61ec25155ba9a3f63efcefec08f2bf6",
+      "source_pages": "7d995513e7b869f78680db624c98bee95ff6867b38295ef4a61697b64c12210a",
+      "provenance": "6fdb23262c6c1d5bec3ce5e92800c25c4d853e4a008c1ae7c101bc46c2981710"
+    },
+    "pipeline_status": "development_not_frozen",
+    "retrieval_started": true,
+    "generation_started": true,
+    "answer": "An Occupancy Permit is a document required before any building or structure or portion thereof is used or occupied, or the existing use or occupancy classification thereof is changed. This information can be found in the Citizen Charter 2026 under the issuance of Occupancy Permit [S1].",
+    "tokens_generated": 69,
+    "experimental": true,
+    "error": null,
+    "latency_seconds": 15.247
+  },
+  "held_out_benchmarks_accessed": false
+}

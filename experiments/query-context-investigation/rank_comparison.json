@@ -1,0 +1,701 @@
+[
+  {
+    "id": "DEV-EVID-01",
+    "page": "OCBO-PDF0014",
+    "query": "For an occupancy permit, how long does OCBO take to encode and receive documents?",
+    "variants": [
+      {
+        "mode": "raw",
+        "query": "For an occupancy permit, how long does OCBO take to encode and receive documents?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "2.1 Encode and receive documents",
+              "PROCESSING TIME: 5 Minutes"
+            ],
+            "best_rank": 24,
+            "chunk_id": "DEV120-OCBO-PDF0014-C002",
+            "text": "shared source cell for this client step): None\n\nAGENCY ACTION: 2.1 Encode and receive documents\nPROCESSING TIME: 5 Minutes\n\nAGENCY ACTION: 2.2 Route documents\nPROCESSING TIME: 1 Day\n\nAGENCY ACTION: 2.3 Encode and segregate applications\nPROCESSING TIME: 4 Hours\n\nAGENCY ACTION: 2.4 Route to zoning for validation\nPROCESSING TIME: 1 Day\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nTechnical Assistant\non Planning and\nDevelopment\nCivil Engineer –\nOCBO\nRecords\nManagement\nAssistant"
+          }
+        ],
+        "coverage_at_5": false
+      },
+      {
+        "mode": "previous",
+        "query": "What is the processing duration for the OCBO Occupancy Permit (Certificate of Occupancy) document encoding and submission?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "2.1 Encode and receive documents",
+              "PROCESSING TIME: 5 Minutes"
+            ],
+            "best_rank": 275,
+            "chunk_id": "DEV120-OCBO-PDF0014-C002",
+            "text": "shared source cell for this client step): None\n\nAGENCY ACTION: 2.1 Encode and receive documents\nPROCESSING TIME: 5 Minutes\n\nAGENCY ACTION: 2.2 Route documents\nPROCESSING TIME: 1 Day\n\nAGENCY ACTION: 2.3 Encode and segregate applications\nPROCESSING TIME: 4 Hours\n\nAGENCY ACTION: 2.4 Route to zoning for validation\nPROCESSING TIME: 1 Day\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nTechnical Assistant\non Planning and\nDevelopment\nCivil Engineer –\nOCBO\nRecords\nManagement\nAssistant"
+          }
+        ],
+        "coverage_at_5": false
+      },
+      {
+        "mode": "candidate",
+        "query": "What is the processing duration for encoding and receiving documents for an OCBO Occupancy Permit?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "2.1 Encode and receive documents",
+              "PROCESSING TIME: 5 Minutes"
+            ],
+            "best_rank": 51,
+            "chunk_id": "DEV120-OCBO-PDF0014-C002",
+            "text": "shared source cell for this client step): None\n\nAGENCY ACTION: 2.1 Encode and receive documents\nPROCESSING TIME: 5 Minutes\n\nAGENCY ACTION: 2.2 Route documents\nPROCESSING TIME: 1 Day\n\nAGENCY ACTION: 2.3 Encode and segregate applications\nPROCESSING TIME: 4 Hours\n\nAGENCY ACTION: 2.4 Route to zoning for validation\nPROCESSING TIME: 1 Day\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nTechnical Assistant\non Planning and\nDevelopment\nCivil Engineer –\nOCBO\nRecords\nManagement\nAssistant"
+          }
+        ],
+        "coverage_at_5": false
+      }
+    ]
+  },
+  {
+    "id": "DEV-EVID-02",
+    "page": "OCBO-PDF0015",
+    "query": "For an occupancy permit, how long is the structural inspection and assessment?",
+    "variants": [
+      {
+        "mode": "raw",
+        "query": "For an occupancy permit, how long is the structural inspection and assessment?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "Structural",
+              "PROCESSING TIME: 2 Days"
+            ],
+            "best_rank": 2,
+            "chunk_id": "DEV120-OCBO-PDF0015-C001",
+            "text": "CLIENT STEPS: 3. During the inspection, the client and/or authorized representative, such as an architect or engineer must be present on-site\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 3. Conduct inspection and assessment\n\nINSPECTION CATEGORY: · Line & Grade\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Architectural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CAT"
+          }
+        ],
+        "coverage_at_5": true
+      },
+      {
+        "mode": "previous",
+        "query": "What is the duration of the structural inspection and assessment for an OCBO Occupancy Permit (Certificate of Occupancy)?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "Structural",
+              "PROCESSING TIME: 2 Days"
+            ],
+            "best_rank": 5,
+            "chunk_id": "DEV120-OCBO-PDF0015-C001",
+            "text": "CLIENT STEPS: 3. During the inspection, the client and/or authorized representative, such as an architect or engineer must be present on-site\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 3. Conduct inspection and assessment\n\nINSPECTION CATEGORY: · Line & Grade\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Architectural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CAT"
+          }
+        ],
+        "coverage_at_5": true
+      },
+      {
+        "mode": "candidate",
+        "query": "What is the duration of the structural inspection and assessment for an OCBO Occupancy Permit?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "Structural",
+              "PROCESSING TIME: 2 Days"
+            ],
+            "best_rank": 3,
+            "chunk_id": "DEV120-OCBO-PDF0015-C001",
+            "text": "CLIENT STEPS: 3. During the inspection, the client and/or authorized representative, such as an architect or engineer must be present on-site\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 3. Conduct inspection and assessment\n\nINSPECTION CATEGORY: · Line & Grade\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Architectural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CAT"
+          }
+        ],
+        "coverage_at_5": true
+      }
+    ]
+  },
+  {
+    "id": "DEV-EVID-03",
+    "page": "OCBO-PDF0015",
+    "query": "During an occupancy permit inspection, who must be present on-site?",
+    "variants": [
+      {
+        "mode": "raw",
+        "query": "During an occupancy permit inspection, who must be present on-site?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "During the inspection",
+              "client and/or authorized representative",
+              "architect or engineer",
+              "must be present on-site"
+            ],
+            "best_rank": 1,
+            "chunk_id": "DEV120-OCBO-PDF0015-C001",
+            "text": "CLIENT STEPS: 3. During the inspection, the client and/or authorized representative, such as an architect or engineer must be present on-site\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 3. Conduct inspection and assessment\n\nINSPECTION CATEGORY: · Line & Grade\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Architectural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CAT"
+          }
+        ],
+        "coverage_at_5": true
+      },
+      {
+        "mode": "previous",
+        "query": "Who must be present during an OCBO Occupancy Permit inspection?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "During the inspection",
+              "client and/or authorized representative",
+              "architect or engineer",
+              "must be present on-site"
+            ],
+            "best_rank": 5,
+            "chunk_id": "DEV120-OCBO-PDF0015-C001",
+            "text": "CLIENT STEPS: 3. During the inspection, the client and/or authorized representative, such as an architect or engineer must be present on-site\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 3. Conduct inspection and assessment\n\nINSPECTION CATEGORY: · Line & Grade\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Architectural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CAT"
+          }
+        ],
+        "coverage_at_5": true
+      },
+      {
+        "mode": "candidate",
+        "query": "Who must be present on-site during an OCBO Occupancy Permit inspection?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "During the inspection",
+              "client and/or authorized representative",
+              "architect or engineer",
+              "must be present on-site"
+            ],
+            "best_rank": 6,
+            "chunk_id": "DEV120-OCBO-PDF0015-C001",
+            "text": "CLIENT STEPS: 3. During the inspection, the client and/or authorized representative, such as an architect or engineer must be present on-site\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 3. Conduct inspection and assessment\n\nINSPECTION CATEGORY: · Line & Grade\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Architectural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CAT"
+          }
+        ],
+        "coverage_at_5": false
+      }
+    ]
+  },
+  {
+    "id": "DEV-EVID-04",
+    "page": "OCBO-PDF0014",
+    "query": "For an occupancy permit, how long does routing documents to zoning for validation take?",
+    "variants": [
+      {
+        "mode": "raw",
+        "query": "For an occupancy permit, how long does routing documents to zoning for validation take?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "2.4 Route to zoning for validation",
+              "PROCESSING TIME: 1 Day"
+            ],
+            "best_rank": 38,
+            "chunk_id": "DEV120-OCBO-PDF0014-C002",
+            "text": "shared source cell for this client step): None\n\nAGENCY ACTION: 2.1 Encode and receive documents\nPROCESSING TIME: 5 Minutes\n\nAGENCY ACTION: 2.2 Route documents\nPROCESSING TIME: 1 Day\n\nAGENCY ACTION: 2.3 Encode and segregate applications\nPROCESSING TIME: 4 Hours\n\nAGENCY ACTION: 2.4 Route to zoning for validation\nPROCESSING TIME: 1 Day\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nTechnical Assistant\non Planning and\nDevelopment\nCivil Engineer –\nOCBO\nRecords\nManagement\nAssistant"
+          }
+        ],
+        "coverage_at_5": false
+      },
+      {
+        "mode": "previous",
+        "query": "What is the processing duration for routing documents for Occupancy Permit validation at Zoning?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "2.4 Route to zoning for validation",
+              "PROCESSING TIME: 1 Day"
+            ],
+            "best_rank": 32,
+            "chunk_id": "DEV120-OCBO-PDF0014-C002",
+            "text": "shared source cell for this client step): None\n\nAGENCY ACTION: 2.1 Encode and receive documents\nPROCESSING TIME: 5 Minutes\n\nAGENCY ACTION: 2.2 Route documents\nPROCESSING TIME: 1 Day\n\nAGENCY ACTION: 2.3 Encode and segregate applications\nPROCESSING TIME: 4 Hours\n\nAGENCY ACTION: 2.4 Route to zoning for validation\nPROCESSING TIME: 1 Day\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nTechnical Assistant\non Planning and\nDevelopment\nCivil Engineer –\nOCBO\nRecords\nManagement\nAssistant"
+          }
+        ],
+        "coverage_at_5": false
+      },
+      {
+        "mode": "candidate",
+        "query": "What is the processing duration for routing documents for an OCBO Occupancy Permit validation at the Zoning Office?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "2.4 Route to zoning for validation",
+              "PROCESSING TIME: 1 Day"
+            ],
+            "best_rank": 47,
+            "chunk_id": "DEV120-OCBO-PDF0014-C002",
+            "text": "shared source cell for this client step): None\n\nAGENCY ACTION: 2.1 Encode and receive documents\nPROCESSING TIME: 5 Minutes\n\nAGENCY ACTION: 2.2 Route documents\nPROCESSING TIME: 1 Day\n\nAGENCY ACTION: 2.3 Encode and segregate applications\nPROCESSING TIME: 4 Hours\n\nAGENCY ACTION: 2.4 Route to zoning for validation\nPROCESSING TIME: 1 Day\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nTechnical Assistant\non Planning and\nDevelopment\nCivil Engineer –\nOCBO\nRecords\nManagement\nAssistant"
+          }
+        ],
+        "coverage_at_5": false
+      }
+    ]
+  },
+  {
+    "id": "DEV-EVID-05",
+    "page": "CTO-PDF0006",
+    "query": "What is the City Treasurer fee for washing of hogs?",
+    "variants": [
+      {
+        "mode": "raw",
+        "query": "What is the City Treasurer fee for washing of hogs?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "Washing of Hogs",
+              "10.00 per head"
+            ],
+            "best_rank": 1,
+            "chunk_id": "DEV120-CTO-PDF0006-C003",
+            "text": "fraction thereof\n\nITEM OR HEADING: Washing of Hogs\nFEE: 10.00 per head"
+          }
+        ],
+        "coverage_at_5": true
+      },
+      {
+        "mode": "previous",
+        "query": "What is the fee for hog washing services provided by the City Treasurer?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "Washing of Hogs",
+              "10.00 per head"
+            ],
+            "best_rank": 1,
+            "chunk_id": "DEV120-CTO-PDF0006-C003",
+            "text": "fraction thereof\n\nITEM OR HEADING: Washing of Hogs\nFEE: 10.00 per head"
+          }
+        ],
+        "coverage_at_5": true
+      },
+      {
+        "mode": "candidate",
+        "query": "What is the fee for the City Treasurer service related to hog washing?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "Washing of Hogs",
+              "10.00 per head"
+            ],
+            "best_rank": 60,
+            "chunk_id": "DEV120-CTO-PDF0006-C003",
+            "text": "fraction thereof\n\nITEM OR HEADING: Washing of Hogs\nFEE: 10.00 per head"
+          }
+        ],
+        "coverage_at_5": false
+      }
+    ]
+  },
+  {
+    "id": "DEV-EVID-06",
+    "page": "CTO-PDF0006",
+    "query": "What is the chicken block chilling rate, including its quantity condition?",
+    "variants": [
+      {
+        "mode": "raw",
+        "query": "What is the chicken block chilling rate, including its quantity condition?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "Chicken",
+              "500.00per 1,000 heads or a fraction thereof"
+            ],
+            "best_rank": 1,
+            "chunk_id": "DEV120-CTO-PDF0006-C002",
+            "text": "FEE: P 10.00 per\n\nITEM OR HEADING: Block Chilling Facilities:\nFEE: [blank source cell]\n\nITEM OR HEADING: Large Cattle\nFEE: 200.00 per head\n\nITEM OR HEADING: Hog\nFEE: 100.00 per head\n\nITEM OR HEADING: Goat/Sheep\nFEE: 50.00 per head\n\nITEM OR HEADING: Chicken\nFEE: 500.00per 1,000 heads or a fraction thereof\n\nITEM OR HEADING: Washing of Hogs\nFEE: 10.00 per"
+          }
+        ],
+        "coverage_at_5": true
+      },
+      {
+        "mode": "previous",
+        "query": "What is the rate for chicken block chilling, including any quantity conditions?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "Chicken",
+              "500.00per 1,000 heads or a fraction thereof"
+            ],
+            "best_rank": 1,
+            "chunk_id": "DEV120-CTO-PDF0006-C002",
+            "text": "FEE: P 10.00 per\n\nITEM OR HEADING: Block Chilling Facilities:\nFEE: [blank source cell]\n\nITEM OR HEADING: Large Cattle\nFEE: 200.00 per head\n\nITEM OR HEADING: Hog\nFEE: 100.00 per head\n\nITEM OR HEADING: Goat/Sheep\nFEE: 50.00 per head\n\nITEM OR HEADING: Chicken\nFEE: 500.00per 1,000 heads or a fraction thereof\n\nITEM OR HEADING: Washing of Hogs\nFEE: 10.00 per"
+          }
+        ],
+        "coverage_at_5": true
+      },
+      {
+        "mode": "candidate",
+        "query": "What is the rate for chicken block chilling, including any quantity conditions?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "Chicken",
+              "500.00per 1,000 heads or a fraction thereof"
+            ],
+            "best_rank": 1,
+            "chunk_id": "DEV120-CTO-PDF0006-C002",
+            "text": "FEE: P 10.00 per\n\nITEM OR HEADING: Block Chilling Facilities:\nFEE: [blank source cell]\n\nITEM OR HEADING: Large Cattle\nFEE: 200.00 per head\n\nITEM OR HEADING: Hog\nFEE: 100.00 per head\n\nITEM OR HEADING: Goat/Sheep\nFEE: 50.00 per head\n\nITEM OR HEADING: Chicken\nFEE: 500.00per 1,000 heads or a fraction thereof\n\nITEM OR HEADING: Washing of Hogs\nFEE: 10.00 per"
+          }
+        ],
+        "coverage_at_5": true
+      }
+    ]
+  },
+  {
+    "id": "DEV-EVID-07",
+    "page": "BFP-PDF0001",
+    "query": "Under the BFP charter, what happens to FSIF when the LGU or PEZA assessment is zero?",
+    "variants": [
+      {
+        "mode": "raw",
+        "query": "Under the BFP charter, what happens to FSIF when the LGU or PEZA assessment is zero?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "If assessment from LGUs/PEZA = 0, then",
+              "FSIF = 0"
+            ],
+            "best_rank": 1,
+            "chunk_id": "DEV120-BFP-PDF0001-C020",
+            "text": "500.00\nSample computation:\nFSIF = (All fees charged by the LGU/PEZA) x\n(15%) = ______ Php but in no case shall be lower\nthan Php 500.00\nNote: If assessment from LGUs/PEZA = 0, then\nFSIF = 0\nOther fees\nIf applicable compute the appropriate fees in\naccordance with Section 12.0.0.4 of the RIRR\nof RA 9514 (e.g. storage, conveyance,\nhotworks, etc.) as a prerequisite for the\nissuance of appropriate permits"
+          }
+        ],
+        "coverage_at_5": true
+      },
+      {
+        "mode": "previous",
+        "query": "What is the process for Fire Safety Inspection Fee (FSIF) under the BFP charter when the Local Government Unit (LGU) or PEZA assessment is zero?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "If assessment from LGUs/PEZA = 0, then",
+              "FSIF = 0"
+            ],
+            "best_rank": 23,
+            "chunk_id": "DEV120-BFP-PDF0001-C020",
+            "text": "500.00\nSample computation:\nFSIF = (All fees charged by the LGU/PEZA) x\n(15%) = ______ Php but in no case shall be lower\nthan Php 500.00\nNote: If assessment from LGUs/PEZA = 0, then\nFSIF = 0\nOther fees\nIf applicable compute the appropriate fees in\naccordance with Section 12.0.0.4 of the RIRR\nof RA 9514 (e.g. storage, conveyance,\nhotworks, etc.) as a prerequisite for the\nissuance of appropriate permits"
+          }
+        ],
+        "coverage_at_5": false
+      },
+      {
+        "mode": "candidate",
+        "query": "What is the process for Fire Safety Inspection Fee (FSIF) under the BFP charter when the Local Government Unit (LGU) or PEZA assessment is zero?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "If assessment from LGUs/PEZA = 0, then",
+              "FSIF = 0"
+            ],
+            "best_rank": 23,
+            "chunk_id": "DEV120-BFP-PDF0001-C020",
+            "text": "500.00\nSample computation:\nFSIF = (All fees charged by the LGU/PEZA) x\n(15%) = ______ Php but in no case shall be lower\nthan Php 500.00\nNote: If assessment from LGUs/PEZA = 0, then\nFSIF = 0\nOther fees\nIf applicable compute the appropriate fees in\naccordance with Section 12.0.0.4 of the RIRR\nof RA 9514 (e.g. storage, conveyance,\nhotworks, etc.) as a prerequisite for the\nissuance of appropriate permits"
+          }
+        ],
+        "coverage_at_5": false
+      }
+    ]
+  },
+  {
+    "id": "DEV-EVID-08",
+    "page": "BFP-PDF0001",
+    "query": "What is the BFP FSEC application fee?",
+    "variants": [
+      {
+        "mode": "raw",
+        "query": "What is the BFP FSEC application fee?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "For FSEC",
+              "Application Fee: Php 200.00"
+            ],
+            "best_rank": 2,
+            "chunk_id": "DEV120-BFP-PDF0001-C017",
+            "text": "Issuance of FSEC/NOD/\nFSIC for Certificate of Occupancy/FSIC for\nBusiness Permit (new/renewal) is thru OSCP/\nBOSS Releasing Officer\n\nPROCESSING TIME: maximum of five (5) minutes\n\nPERSON RESPONSIBLE: CRO\n\nFEES TO BE PAID [shared cell spanning all six agency rows]:\nFor FSEC\nApplication Fee: Php 200.00\nFCCT = 0.1% of the verified estimated value\n(materials and labor) of the building/structure or\nfacility but not more"
+          }
+        ],
+        "coverage_at_5": true
+      },
+      {
+        "mode": "previous",
+        "query": "What is the fee for the Fire Safety Evaluation Clearance application?\n\nGlossary:\n- 'pangalan': 'Name'\n- 'pangalanan': 'Names'\n- 'pangalan nga negosyo': 'Name of the business'\n- 'pangalan nga negosyo nga may sakit': 'Name of the sick business'\n- 'pangalan nga negosyo nga may sakit sa barangay': 'Name of the sick business in the barangay'\n- 'pangalan nga negosyo nga may sakit sa lungsod': 'Name of the sick",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "For FSEC",
+              "Application Fee: Php 200.00"
+            ],
+            "best_rank": 521,
+            "chunk_id": "DEV120-BFP-PDF0001-C017",
+            "text": "Issuance of FSEC/NOD/\nFSIC for Certificate of Occupancy/FSIC for\nBusiness Permit (new/renewal) is thru OSCP/\nBOSS Releasing Officer\n\nPROCESSING TIME: maximum of five (5) minutes\n\nPERSON RESPONSIBLE: CRO\n\nFEES TO BE PAID [shared cell spanning all six agency rows]:\nFor FSEC\nApplication Fee: Php 200.00\nFCCT = 0.1% of the verified estimated value\n(materials and labor) of the building/structure or\nfacility but not more"
+          }
+        ],
+        "coverage_at_5": false
+      },
+      {
+        "mode": "candidate",
+        "query": "What is the fee for a Fire Safety Evaluation Clearance (FSEC) application at the Bureau of Fire Protection (BFP)?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "For FSEC",
+              "Application Fee: Php 200.00"
+            ],
+            "best_rank": 66,
+            "chunk_id": "DEV120-BFP-PDF0001-C017",
+            "text": "Issuance of FSEC/NOD/\nFSIC for Certificate of Occupancy/FSIC for\nBusiness Permit (new/renewal) is thru OSCP/\nBOSS Releasing Officer\n\nPROCESSING TIME: maximum of five (5) minutes\n\nPERSON RESPONSIBLE: CRO\n\nFEES TO BE PAID [shared cell spanning all six agency rows]:\nFor FSEC\nApplication Fee: Php 200.00\nFCCT = 0.1% of the verified estimated value\n(materials and labor) of the building/structure or\nfacility but not more"
+          }
+        ],
+        "coverage_at_5": false
+      }
+    ]
+  },
+  {
+    "id": "DEV-EVID-09",
+    "page": "BB-PDF0016",
+    "query": "For business permit renewal, what employee information must the list include and how many copies?",
+    "variants": [
+      {
+        "mode": "raw",
+        "query": "For business permit renewal, what employee information must the list include and how many copies?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "RENEWAL",
+              "List of Employees stating the Name and Position of the Employees (1 copy)"
+            ],
+            "best_rank": 60,
+            "chunk_id": "DEV120-BB-PDF0016-C004",
+            "text": "18. Valid Fire Safety Inspection Certificate\nfor Business\nBureau of Fire Protection\n19. Other Requirements depending on the\nBusiness Activity declared\nConcerned Agency\nRENEWAL \n1. List of Employees stating the Name and\nPosition of the Employees (1 copy)\nApplicant\n2. For Sole Proprietorship, if represented,\nSpecial Power of Attorney, indicating \nspecific authority and capacity granted to \nrepresentative.\nApplicant, notarized by any Notary \nPublic\n3. For Partnership, Partnership Resolution,\nindicating specific authority and"
+          }
+        ],
+        "coverage_at_5": false
+      },
+      {
+        "mode": "previous",
+        "query": "For business permit renewal, what employee details should the list contain and how many copies are required?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "RENEWAL",
+              "List of Employees stating the Name and Position of the Employees (1 copy)"
+            ],
+            "best_rank": 64,
+            "chunk_id": "DEV120-BB-PDF0016-C004",
+            "text": "18. Valid Fire Safety Inspection Certificate\nfor Business\nBureau of Fire Protection\n19. Other Requirements depending on the\nBusiness Activity declared\nConcerned Agency\nRENEWAL \n1. List of Employees stating the Name and\nPosition of the Employees (1 copy)\nApplicant\n2. For Sole Proprietorship, if represented,\nSpecial Power of Attorney, indicating \nspecific authority and capacity granted to \nrepresentative.\nApplicant, notarized by any Notary \nPublic\n3. For Partnership, Partnership Resolution,\nindicating specific authority and"
+          }
+        ],
+        "coverage_at_5": false
+      },
+      {
+        "mode": "candidate",
+        "query": "What information about employees should the list for business permit renewal include and how many copies are required?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "RENEWAL",
+              "List of Employees stating the Name and Position of the Employees (1 copy)"
+            ],
+            "best_rank": 4,
+            "chunk_id": "DEV120-BB-PDF0016-C004",
+            "text": "18. Valid Fire Safety Inspection Certificate\nfor Business\nBureau of Fire Protection\n19. Other Requirements depending on the\nBusiness Activity declared\nConcerned Agency\nRENEWAL \n1. List of Employees stating the Name and\nPosition of the Employees (1 copy)\nApplicant\n2. For Sole Proprietorship, if represented,\nSpecial Power of Attorney, indicating \nspecific authority and capacity granted to \nrepresentative.\nApplicant, notarized by any Notary \nPublic\n3. For Partnership, Partnership Resolution,\nindicating specific authority and"
+          }
+        ],
+        "coverage_at_5": true
+      }
+    ]
+  },
+  {
+    "id": "DEV-EVID-10",
+    "page": "BB-PDF0016",
+    "query": "For business permit renewal, what authority document does a represented sole proprietor need?",
+    "variants": [
+      {
+        "mode": "raw",
+        "query": "For business permit renewal, what authority document does a represented sole proprietor need?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "For Sole Proprietorship, if represented",
+              "Special Power of Attorney",
+              "specific authority and capacity"
+            ],
+            "best_rank": 14,
+            "chunk_id": "DEV120-BB-PDF0016-C004",
+            "text": "18. Valid Fire Safety Inspection Certificate\nfor Business\nBureau of Fire Protection\n19. Other Requirements depending on the\nBusiness Activity declared\nConcerned Agency\nRENEWAL \n1. List of Employees stating the Name and\nPosition of the Employees (1 copy)\nApplicant\n2. For Sole Proprietorship, if represented,\nSpecial Power of Attorney, indicating \nspecific authority and capacity granted to \nrepresentative.\nApplicant, notarized by any Notary \nPublic\n3. For Partnership, Partnership Resolution,\nindicating specific authority and"
+          },
+          {
+            "fragments": [
+              "Special Power of Attorney",
+              "notarized by any Notary Public"
+            ],
+            "best_rank": 2,
+            "chunk_id": "DEV120-BB-PDF0016-C001",
+            "text": "8. DHSUD Certificate of Registration, if \napplicable.\nDepartment of Human Settlement \nand Urban Development\n9. Special Power of Attorney (1 current \nand original) for represented - Sole \nProprietorship\nApplicant, notarized by any Notary \nPublic\n10.Partnership Resolution (1 current and \noriginal) for represented – Partnership\nApplicant, notarized by any Notary \nPublic\n11. Secretary’s Certificate or Board \nResolution for other form of ownership (1 \ncurrent and original) - Corporation and \nCooperative\nApplicant, notarized by any Notary \nPublic\n12. Valid"
+          }
+        ],
+        "coverage_at_5": false
+      },
+      {
+        "mode": "previous",
+        "query": "For business permit renewal, what authority document does a represented sole proprietor require?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "For Sole Proprietorship, if represented",
+              "Special Power of Attorney",
+              "specific authority and capacity"
+            ],
+            "best_rank": 16,
+            "chunk_id": "DEV120-BB-PDF0016-C004",
+            "text": "18. Valid Fire Safety Inspection Certificate\nfor Business\nBureau of Fire Protection\n19. Other Requirements depending on the\nBusiness Activity declared\nConcerned Agency\nRENEWAL \n1. List of Employees stating the Name and\nPosition of the Employees (1 copy)\nApplicant\n2. For Sole Proprietorship, if represented,\nSpecial Power of Attorney, indicating \nspecific authority and capacity granted to \nrepresentative.\nApplicant, notarized by any Notary \nPublic\n3. For Partnership, Partnership Resolution,\nindicating specific authority and"
+          },
+          {
+            "fragments": [
+              "Special Power of Attorney",
+              "notarized by any Notary Public"
+            ],
+            "best_rank": 2,
+            "chunk_id": "DEV120-BB-PDF0016-C001",
+            "text": "8. DHSUD Certificate of Registration, if \napplicable.\nDepartment of Human Settlement \nand Urban Development\n9. Special Power of Attorney (1 current \nand original) for represented - Sole \nProprietorship\nApplicant, notarized by any Notary \nPublic\n10.Partnership Resolution (1 current and \noriginal) for represented – Partnership\nApplicant, notarized by any Notary \nPublic\n11. Secretary’s Certificate or Board \nResolution for other form of ownership (1 \ncurrent and original) - Corporation and \nCooperative\nApplicant, notarized by any Notary \nPublic\n12. Valid"
+          }
+        ],
+        "coverage_at_5": false
+      },
+      {
+        "mode": "candidate",
+        "query": "What authority document does a represented sole proprietor need for business permit renewal?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "For Sole Proprietorship, if represented",
+              "Special Power of Attorney",
+              "specific authority and capacity"
+            ],
+            "best_rank": 16,
+            "chunk_id": "DEV120-BB-PDF0016-C004",
+            "text": "18. Valid Fire Safety Inspection Certificate\nfor Business\nBureau of Fire Protection\n19. Other Requirements depending on the\nBusiness Activity declared\nConcerned Agency\nRENEWAL \n1. List of Employees stating the Name and\nPosition of the Employees (1 copy)\nApplicant\n2. For Sole Proprietorship, if represented,\nSpecial Power of Attorney, indicating \nspecific authority and capacity granted to \nrepresentative.\nApplicant, notarized by any Notary \nPublic\n3. For Partnership, Partnership Resolution,\nindicating specific authority and"
+          },
+          {
+            "fragments": [
+              "Special Power of Attorney",
+              "notarized by any Notary Public"
+            ],
+            "best_rank": 2,
+            "chunk_id": "DEV120-BB-PDF0016-C001",
+            "text": "8. DHSUD Certificate of Registration, if \napplicable.\nDepartment of Human Settlement \nand Urban Development\n9. Special Power of Attorney (1 current \nand original) for represented - Sole \nProprietorship\nApplicant, notarized by any Notary \nPublic\n10.Partnership Resolution (1 current and \noriginal) for represented – Partnership\nApplicant, notarized by any Notary \nPublic\n11. Secretary’s Certificate or Board \nResolution for other form of ownership (1 \ncurrent and original) - Corporation and \nCooperative\nApplicant, notarized by any Notary \nPublic\n12. Valid"
+          }
+        ],
+        "coverage_at_5": false
+      }
+    ]
+  },
+  {
+    "id": "DEV-EVID-11",
+    "page": "CPDO-PDF0011",
+    "query": "For locational clearance for a three-storey building, how many building-plan sets are needed and how must they be prepared?",
+    "variants": [
+      {
+        "mode": "raw",
+        "query": "For locational clearance for a three-storey building, how many building-plan sets are needed and how must they be prepared?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "Seven (7) complete sets of Building Plans (original copy)",
+              "Filled-up title blocks",
+              "Signed and sealed by CE / Architect"
+            ],
+            "best_rank": 1,
+            "chunk_id": "DEV120-CPDO-PDF0011-C003",
+            "text": "DO\n4. SPA from the building owner to \nprocess application for Locational \nClearance\nApplicant\n5. Seven (7) complete sets of Building \nPlans (original copy) \na. Filled-up title blocks \nb. Signed and sealed by CE / Architect\nApplicant\n6. Certified True Copy of Title issued \nby the Registry of Deeds (ROD) or \nshow original copy of title for validation \n(1 original for validation, 1 photocopy)\nRegistry of Deeds\n7. Locational Clearance Application \nduly notarized and signed by the \napplicant (1 photocopy)"
+          }
+        ],
+        "coverage_at_5": true
+      },
+      {
+        "mode": "previous",
+        "query": "For Locational Clearance of a three-storey building, how many building-plan sets are required and how should they be prepared?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "Seven (7) complete sets of Building Plans (original copy)",
+              "Filled-up title blocks",
+              "Signed and sealed by CE / Architect"
+            ],
+            "best_rank": 3,
+            "chunk_id": "DEV120-CPDO-PDF0011-C003",
+            "text": "DO\n4. SPA from the building owner to \nprocess application for Locational \nClearance\nApplicant\n5. Seven (7) complete sets of Building \nPlans (original copy) \na. Filled-up title blocks \nb. Signed and sealed by CE / Architect\nApplicant\n6. Certified True Copy of Title issued \nby the Registry of Deeds (ROD) or \nshow original copy of title for validation \n(1 original for validation, 1 photocopy)\nRegistry of Deeds\n7. Locational Clearance Application \nduly notarized and signed by the \napplicant (1 photocopy)"
+          }
+        ],
+        "coverage_at_5": true
+      },
+      {
+        "mode": "candidate",
+        "query": "How many building-plan sets are required for a three-storey building's Locational Clearance and how should they be prepared (from the City Planning and Development Office)?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "Seven (7) complete sets of Building Plans (original copy)",
+              "Filled-up title blocks",
+              "Signed and sealed by CE / Architect"
+            ],
+            "best_rank": 12,
+            "chunk_id": "DEV120-CPDO-PDF0011-C003",
+            "text": "DO\n4. SPA from the building owner to \nprocess application for Locational \nClearance\nApplicant\n5. Seven (7) complete sets of Building \nPlans (original copy) \na. Filled-up title blocks \nb. Signed and sealed by CE / Architect\nApplicant\n6. Certified True Copy of Title issued \nby the Registry of Deeds (ROD) or \nshow original copy of title for validation \n(1 original for validation, 1 photocopy)\nRegistry of Deeds\n7. Locational Clearance Application \nduly notarized and signed by the \napplicant (1 photocopy)"
+          }
+        ],
+        "coverage_at_5": false
+      }
+    ]
+  },
+  {
+    "id": "DEV-EVID-12",
+    "page": "CPDO-PDF0011",
+    "query": "Who may apply for building locational clearance for three storeys and above?",
+    "variants": [
+      {
+        "mode": "raw",
+        "query": "Who may apply for building locational clearance for three storeys and above?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "Who may avail",
+              "Building Owner or Authorized Representative"
+            ],
+            "best_rank": 13,
+            "chunk_id": "DEV120-CPDO-PDF0011-C002",
+            "text": "Zoning Enforcement Division\nClassification \nComplex\nType of Transaction \nG2G – Government to Government; G2B – \nGovernment to Business; G2C – Government to \nCitizen\nWho may avail \nBuilding Owner or Authorized Representative\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Order of Payment (1 original) \nCity Planning & Development Office\n2. Official Receipt (1 original) \nCity Treasurer’s Office\n3. GIS Zoning Map (1 original) \nCPDO\n4. SPA from the building owner to \nprocess application for Locational \nClearance\nApplicant\n5. Seven"
+          }
+        ],
+        "coverage_at_5": false
+      },
+      {
+        "mode": "previous",
+        "query": "Who may apply for a Locational Clearance for projects with three storeys or more?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "Who may avail",
+              "Building Owner or Authorized Representative"
+            ],
+            "best_rank": 17,
+            "chunk_id": "DEV120-CPDO-PDF0011-C002",
+            "text": "Zoning Enforcement Division\nClassification \nComplex\nType of Transaction \nG2G – Government to Government; G2B – \nGovernment to Business; G2C – Government to \nCitizen\nWho may avail \nBuilding Owner or Authorized Representative\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Order of Payment (1 original) \nCity Planning & Development Office\n2. Official Receipt (1 original) \nCity Treasurer’s Office\n3. GIS Zoning Map (1 original) \nCPDO\n4. SPA from the building owner to \nprocess application for Locational \nClearance\nApplicant\n5. Seven"
+          }
+        ],
+        "coverage_at_5": false
+      },
+      {
+        "mode": "candidate",
+        "query": "Who may apply for a Locational Clearance for a building with three storeys or more from the City Planning and Development Office (CPDO)?",
+        "evidence_groups": [
+          {
+            "fragments": [
+              "Who may avail",
+              "Building Owner or Authorized Representative"
+            ],
+            "best_rank": 14,
+            "chunk_id": "DEV120-CPDO-PDF0011-C002",
+            "text": "Zoning Enforcement Division\nClassification \nComplex\nType of Transaction \nG2G – Government to Government; G2B – \nGovernment to Business; G2C – Government to \nCitizen\nWho may avail \nBuilding Owner or Authorized Representative\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Order of Payment (1 original) \nCity Planning & Development Office\n2. Official Receipt (1 original) \nCity Treasurer’s Office\n3. GIS Zoning Map (1 original) \nCPDO\n4. SPA from the building owner to \nprocess application for Locational \nClearance\nApplicant\n5. Seven"
+          }
+        ],
+        "coverage_at_5": false
+      }
+    ]
+  }
+]

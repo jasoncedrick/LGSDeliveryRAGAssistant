@@ -1,0 +1,20 @@
+{
+  "question": [
+    "How is the Real Property Transfer Tax computed in Davao City and what is the fee for the transfer certification?"
+  ],
+  "answer": [
+    "The Real Property Transfer Tax in Davao City is computed based on the Declaration of Real Property Tax Valuation (DRPV). The fee for the Real Property Transfer Tax Certification is not explicitly stated in the provided sources. However, the computation of the Real Property Transfer Tax can be found in the Local Revenue Code of Davao City, specifically in [S1]. For the fee, it may be necessary to refer to other documents or consult with the Office of the City Treasurer (CTO) for the most accurate and up-to-date information. [S1, S2]"
+  ],
+  "contexts": [
+    [
+      "4. Real Property Tax Transfer Ownership with Certification\nAssessment issued to taxpayer for payment (Local Revenue Code of Davao City) \nCertification of Payment \nOffice or Division \nOffice of the City Treasurer (CTO) / Real Property Tax Division \n– Assessment / Cash Receipts Division – Collection / \nCertification and Other District Offices\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Title – Photocopy for\nverification only\nRegister of Deeds\n2. No",
+      "respective District \nOffices.\n4.2 Generate\nand sign \nthe Real \nProperty \nTransfer \nTax \nCertificatio\nn.\n1 Hour \nLocal Treasury\nOperations \nOfficer IV\n-or-\nCTO District \nTreasurers\n5. Client signs the\nlogbook as proof \nof Transfer Tax \nCertification \nrelease at \nWindow 10, \nRPTD, CTO SP \nOffice, or the \nrespective \nDistrict Offices.\n5. Release\nthe Real \nProperty \nTransfer \nTax \nCertificatio\nn to the \nclient.\nNone\n15 Minutes\nTicket Checker\n(CTO\nPoblacion)\n-or-\nAssigned \nPersonnel\n(CTO District\nOffices)\nTOTAL:\nAttach",
+      "14. Payment for Real Property Tax (RPT) Clearance\nStatement of Account issued to clients for payment/ issuance of Tax Clearance (Local \nRevenue Code of Davao City). \nOffice or Division \nOffice of the City Treasurer (CTO) – Real Property Tax \nDivision and CTO District Offices\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail \nAll real property owners in Davao City\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Tax Declaration /Declaration of \nReal Property Tax Valuation",
+      "2. Present all\nrequired \ndocuments at \nCounters 10 to \n12, Real Property \nTax Division, City \nTreasurer’s \nOffice, \nSangguniang \nPanlungsod \n(CTO Poblacion) \nor respective \nDistrict Offices.\n2. Verify the\ndocument\ns.\nBased on \nthe 2017 \nRevenue \nCode of \nthe City \nof Davao \nOrdinanc\ne No.\n0291-17, \nSeries of\n2017, \nSection\n34  \n–\nTax on \nTransfer \nof Real \nProperty \nOwnershi\np\n30 Minutes\nLocal Treasury\nOperations\nOfficer\nII/Revenue\nCollection Clerk\nI\n(CTO\nPoblacion)\n-or-\nAssigned \nPerson",
+      "5.  Real Property Tax (RPT) Certification\nOrder of Payment (SOA), Payment, and issuance of Tax Clearance (Local Revenue Code of \nDavao City). \nOffice or Division \nOffice of the City Treasurer (CTO) – Real Property Tax Division \nand Other CTO District Offices\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail \nAll\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Tax Declaration/Declaration of Real\nProperty Tax Valuation (DRPV) – 1 \nphotocopy"
+    ]
+  ],
+  "ground_truth": [
+    "Under Section 34 of the 2017 Revenue Code of Davao City, the Tax on Transfer of Real Property Ownership is imposed at the rate of 0.75% (or up to 1%) based on the total consideration or the fair market value of the real property, whichever is higher. In addition, a Transfer Tax Certification fee of PHP 50.00 is charged (plus PHP 20.00 for every additional page). Requirements include the original notarized Deed of Transfer, photocopy of Title from the Registry of Deeds, and original Tax Declaration (DRPV)."
+  ]
+}

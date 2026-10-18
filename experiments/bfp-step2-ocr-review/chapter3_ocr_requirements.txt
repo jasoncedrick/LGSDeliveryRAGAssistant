@@ -1,0 +1,44 @@
+CHAPTER 3. METHODOLOGY
+23
+The raw government corpus contains inherent source biases that impact retrieval:
+Uneven Service Coverage.
+Frequently transacted procedures dominate the text, yield-
+ing vastly more usable chunks, whereas uncommon procedural exceptions possess little
+usable evidence
+Formal Institutional Language.
+Official phrasing heavily overrides local spelling
+variants, mixed-language terminology, and colloquial inquiries.
+Time and Versioning Biases.
+Legacy versions of the charter contain outdated fees,
+timelines, and office locations. Superseded versions are explicitly isolated from the active
+answer corpus but retained in a change log.
+To mitigate digitization failures, the text extraction pipeline applies the following controls:
+Artifact Removal.
+Machine-readable text is extracted, and OCR is applied to scanned
+pages. Repeated headers, page artifacts, and accidental whitespace are stripped, while
+critical procedural conditions, numerical figures, negation terms, and units are strictly
+preserved.
+Tabular Integrity Verification.
+Procedural tables detailing rows, processing fees,
+required documents, and turnaround times are cross-checked manually against the original
+page images. Extraction mistakes are corrected directly; the system strictly forbids the
+use of an LLM to hallucinate or reconstruct missing text.
+Deduplication.
+Duplicate passages are removed while retaining their source links.
+Valid low-frequency exceptions are preserved; the pipeline explicitly avoids discarding
+valid official material simply to equalize the number of chunks per service category.
+The cleaned text must be segmented into source-linked chunks that preserve proce-
+dural context while conforming to the dense embedding model’s architectural constraints.
+Because the paraphrase-multilingual-MiniLM-L12-v2 model imposes a default 128-
+token sequence limit, chunk boundaries are defined by actual token lengths rather than
+arbitrary character counts to prevent unnoticed truncation of critical policy data during
+vectorization. Specifically, the corpus is segmented into uniform chunks of 120 tokens with
+a 20-token overlap using a HuggingFace tokenizer-aware splitter, preserving procedural
+continuity across chunk boundaries.
+The system does not employ synthetic feature generation or random oversam-
+pling of official passages to balance the database as this architecture performs Retrieval-
+Augmented Generation rather than supervised classification. Instead, structural imbal-
+ance is addressed through stratified query selection during evaluation. The system eval-
+uation benchmark enforces an equal quota of underlying scenario questions across all
+target services, ensuring that high-volume administrative categories do not skew the final
+performance metrics.

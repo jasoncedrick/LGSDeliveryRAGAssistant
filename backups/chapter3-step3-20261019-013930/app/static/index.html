@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>eBOSS - Davao City Citizen Assistant</title>
+<style>
+  * { box-sizing: border-box; }
+  body { font-family: system-ui, -apple-system, sans-serif; max-width: 760px; margin: 32px auto; background: #f7f7f8; padding: 0 16px; color: #172033; }
+  h1 { font-size: 1.35rem; margin-bottom: 6px; }
+  .intro { color: #596579; font-size: .9rem; margin: 0 0 18px; line-height: 1.5; }
+  #chat { background: #fff; border-radius: 12px; padding: 16px; min-height: 320px; max-height: 66vh; overflow-y: auto; border: 1px solid #dce1e8; }
+  .msg { margin: 12px 0; padding: 12px 15px; border-radius: 10px; max-width: 92%; white-space: pre-wrap; line-height: 1.55; overflow-wrap: anywhere; }
+  .user { background: #2563eb; color: #fff; margin-left: auto; }
+  .bot { background: #f0f3f8; color: #172033; }
+  .pending { color: #596579; }
+  .sources { margin-top: 12px; padding-top: 10px; border-top: 1px solid #d5dce6; white-space: normal; font-size: .82rem; color: #43506a; }
+  .sources summary { cursor: pointer; font-weight: 650; }
+  .sources ol { padding-left: 20px; margin: 8px 0 0; }
+  .sources li { margin: 8px 0; }
+  form { display: flex; gap: 8px; margin-top: 12px; }
+  input { min-width: 0; flex: 1; padding: 12px; border-radius: 8px; border: 1px solid #bfc8d6; font-size: 1rem; }
+  input:focus { outline: 2px solid #93b4fa; outline-offset: 1px; }
+  button { padding: 12px 18px; border-radius: 8px; border: none; background: #2563eb; color: #fff; cursor: pointer; font-size: 1rem; }
+  button:disabled { opacity: .5; cursor: default; }
+  .footnote { color: #657086; font-size: .78rem; line-height: 1.5; }
+  @media (max-width: 480px) { body { margin: 20px auto; } .msg { max-width: 100%; } button { padding-inline: 13px; } }
+</style>
+</head>
+<body>
+<h1>eBOSS - Davao City Citizen Assistant</h1>
+<p class="intro">Ask about city permits, requirements, fees, and procedures in English, Taglish, or Bislish.</p>
+<div id="chat" role="log" aria-live="polite" aria-label="Conversation"></div>
+<form id="form">
+  <input id="input" aria-label="Your question" maxlength="2000" placeholder="What would you like to know?" autocomplete="off" required>
+  <button type="submit">Send</button>
+</form>
+<p class="footnote">Answers use the available Citizens' Charter sources. Check any conditions that apply to your application.</p>
+<script>
+const chat = document.getElementById("chat");
+const form = document.getElementById("form");
+const input = document.getElementById("input");
+let busy = false;
+
+function addMessage(text, cls) {
+  const div = document.createElement("div");
+  div.className = "msg " + cls;
+  div.textContent = text;
+  chat.appendChild(div);
+  chat.scrollTop = chat.scrollHeight;
+  return div;
+}
+
+function addSources(message, citations) {
+  if (!Array.isArray(citations) || !citations.length) return;
+  const details = document.createElement("details");
+  details.className = "sources";
+  const summary = document.createElement("summary");
+  summary.textContent = "Sources (" + citations.length + ")";
+  details.appendChild(summary);
+  const list = document.createElement("ol");
+  citations.forEach(source => {
+    const item = document.createElement("li");
+    const page = source.source_page == null ? "" : "Printed page " + source.source_page + "; ";
+    item.textContent = "[" + source.citation + "] " + source.file_source + " - " +
+      page + "PDF page " + source.pdf_relative_page;
+    list.appendChild(item);
+  });
+  details.appendChild(list);
+  message.appendChild(details);
+}
+
+form.addEventListener("submit", async event => {
+  event.preventDefault();
+  const query = input.value.trim();
+  if (!query || busy) return;
+  busy = true;
+  const button = form.querySelector("button");
+  button.disabled = true;
+  addMessage(query, "user");
+  input.value = "";
+  const pending = addMessage("Checking the Citizens' Charter...", "bot pending");
+  try {
+    const response = await fetch("/api/query", {
+      method: "POST", headers: {"Content-Type": "application/json"},
+      body: JSON.stringify({query})
+    });
+    const data = await response.json();
+    if (!response.ok) {
+      throw new Error(typeof data.detail === "string" ? data.detail : "Please try your question again.");
+    }
+    const text = data.status === "CLARIFICATION_REQUIRED"
+      ? data.clarification_prompt + "\n\nPlease resend your full question with the specific service."
+      : data.answer;
+    if (typeof text !== "string" || !text.trim()) throw new Error("No response was returned. Please try again.");
+    pending.remove();
+    const message = addMessage(text, "bot");
+    if (data.status === "ANSWERED") addSources(message, data.citations);
+    chat.scrollTop = chat.scrollHeight;
+  } catch (error) {
+    pending.remove();
+    addMessage(error instanceof TypeError
+      ? "The assistant could not be reached. Please check that the local server is running."
+      : error.message, "bot");
+  } finally {
+    busy = false;
+    button.disabled = false;
+    input.focus();
+  }
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,602 @@
+[
+  {
+    "id": "NF-01",
+    "question_group_id": "occupancy-receipt",
+    "language": "English",
+    "query": "For an occupancy permit, how long does OCBO take to encode and receive documents?",
+    "reference_translation": "How long does OCBO take to encode and receive documents for an occupancy permit?",
+    "required_concepts": {
+      "service": [
+        "occupancy permit",
+        "certificate of occupancy"
+      ],
+      "office": [
+        "\\bOCBO\\b"
+      ],
+      "encoding": [
+        "encod"
+      ],
+      "receiving": [
+        "receiv",
+        "receipt",
+        "accept"
+      ]
+    },
+    "forbidden_patterns": [
+      "building permit",
+      "eBOSS"
+    ],
+    "expected_status": "SUCCESS",
+    "reference_review": "assistant drafted; independent bilingual review pending"
+  },
+  {
+    "id": "NF-02",
+    "question_group_id": "occupancy-receipt",
+    "language": "Bislish",
+    "query": "Para sa occupancy permit, pila ka oras ang pag-encode ug pagdawat sa mga dokumento sa OCBO?",
+    "reference_translation": "How long does OCBO take to encode and receive documents for an occupancy permit?",
+    "required_concepts": {
+      "service": [
+        "occupancy permit",
+        "certificate of occupancy"
+      ],
+      "office": [
+        "\\bOCBO\\b"
+      ],
+      "encoding": [
+        "encod"
+      ],
+      "receiving": [
+        "receiv",
+        "receipt",
+        "accept"
+      ]
+    },
+    "forbidden_patterns": [
+      "building permit",
+      "eBOSS"
+    ],
+    "expected_status": "SUCCESS",
+    "reference_review": "assistant drafted; independent bilingual review pending"
+  },
+  {
+    "id": "NF-03",
+    "question_group_id": "occupancy-receipt",
+    "language": "Taglish",
+    "query": "Para sa occupancy permit, gaano katagal ang pag-encode at pagtanggap ng mga dokumento sa OCBO?",
+    "reference_translation": "How long does OCBO take to encode and receive documents for an occupancy permit?",
+    "required_concepts": {
+      "service": [
+        "occupancy permit",
+        "certificate of occupancy"
+      ],
+      "office": [
+        "\\bOCBO\\b"
+      ],
+      "encoding": [
+        "encod"
+      ],
+      "receiving": [
+        "receiv",
+        "receipt",
+        "accept"
+      ]
+    },
+    "forbidden_patterns": [
+      "building permit",
+      "eBOSS"
+    ],
+    "expected_status": "SUCCESS",
+    "reference_review": "assistant drafted; independent bilingual review pending"
+  },
+  {
+    "id": "NF-04",
+    "question_group_id": "locational-three-storeys",
+    "language": "English",
+    "query": "For CPDO locational clearance for a three-storey building, how many building-plan sets are required?",
+    "reference_translation": "How many sets of building plans are required for CPDO locational clearance for a three-storey building?",
+    "required_concepts": {
+      "office": [
+        "\\bCPDO\\b"
+      ],
+      "service": [
+        "locational clearance"
+      ],
+      "height": [
+        "three[ -]store",
+        "3[ -]store",
+        "three[ -]floor",
+        "3[ -]floor"
+      ],
+      "quantity_question": [
+        "how many",
+        "number of"
+      ]
+    },
+    "forbidden_patterns": [
+      "two[ -]store",
+      "2[ -]store"
+    ],
+    "expected_status": "SUCCESS",
+    "reference_review": "assistant drafted; independent bilingual review pending"
+  },
+  {
+    "id": "NF-05",
+    "question_group_id": "locational-three-storeys",
+    "language": "Bislish",
+    "query": "Para sa CPDO locational clearance sa tulo ka andana nga building, pila ka sets sa building plans ang kinahanglan?",
+    "reference_translation": "How many sets of building plans are required for CPDO locational clearance for a three-storey building?",
+    "required_concepts": {
+      "office": [
+        "\\bCPDO\\b"
+      ],
+      "service": [
+        "locational clearance"
+      ],
+      "height": [
+        "three[ -]store",
+        "3[ -]store",
+        "three[ -]floor",
+        "3[ -]floor"
+      ],
+      "quantity_question": [
+        "how many",
+        "number of"
+      ]
+    },
+    "forbidden_patterns": [
+      "two[ -]store",
+      "2[ -]store"
+    ],
+    "expected_status": "SUCCESS",
+    "reference_review": "assistant drafted; independent bilingual review pending"
+  },
+  {
+    "id": "NF-06",
+    "question_group_id": "locational-three-storeys",
+    "language": "Taglish",
+    "query": "Para sa CPDO locational clearance ng tatlong palapag na building, ilang sets ng building plans ang kailangan?",
+    "reference_translation": "How many sets of building plans are required for CPDO locational clearance for a three-storey building?",
+    "required_concepts": {
+      "office": [
+        "\\bCPDO\\b"
+      ],
+      "service": [
+        "locational clearance"
+      ],
+      "height": [
+        "three[ -]store",
+        "3[ -]store",
+        "three[ -]floor",
+        "3[ -]floor"
+      ],
+      "quantity_question": [
+        "how many",
+        "number of"
+      ]
+    },
+    "forbidden_patterns": [
+      "two[ -]store",
+      "2[ -]store"
+    ],
+    "expected_status": "SUCCESS",
+    "reference_review": "assistant drafted; independent bilingual review pending"
+  },
+  {
+    "id": "NF-07",
+    "question_group_id": "renewal-representative",
+    "language": "English",
+    "query": "For business permit renewal, what authority document does a represented sole proprietor need?",
+    "reference_translation": "What authority document is required for a sole proprietor applying through a representative for business permit renewal?",
+    "required_concepts": {
+      "service": [
+        "business permit"
+      ],
+      "stage": [
+        "renew"
+      ],
+      "ownership": [
+        "sole propriet"
+      ],
+      "representation": [
+        "represent",
+        "behalf"
+      ],
+      "question": [
+        "what",
+        "which"
+      ]
+    },
+    "forbidden_patterns": [
+      "new business permit"
+    ],
+    "expected_status": "SUCCESS",
+    "reference_review": "assistant drafted; independent bilingual review pending"
+  },
+  {
+    "id": "NF-08",
+    "question_group_id": "renewal-representative",
+    "language": "Bislish",
+    "query": "Sa renewal sa business permit, unsang dokumento sa awtoridad ang kinahanglan kung naay representante ang sole proprietor?",
+    "reference_translation": "What authority document is required for a sole proprietor applying through a representative for business permit renewal?",
+    "required_concepts": {
+      "service": [
+        "business permit"
+      ],
+      "stage": [
+        "renew"
+      ],
+      "ownership": [
+        "sole propriet"
+      ],
+      "representation": [
+        "represent",
+        "behalf"
+      ],
+      "question": [
+        "what",
+        "which"
+      ]
+    },
+    "forbidden_patterns": [
+      "new business permit"
+    ],
+    "expected_status": "SUCCESS",
+    "reference_review": "assistant drafted; independent bilingual review pending"
+  },
+  {
+    "id": "NF-09",
+    "question_group_id": "renewal-representative",
+    "language": "Taglish",
+    "query": "Sa renewal ng business permit, anong dokumento ng awtoridad ang kailangan kung may kinatawan ang sole proprietor?",
+    "reference_translation": "What authority document is required for a sole proprietor applying through a representative for business permit renewal?",
+    "required_concepts": {
+      "service": [
+        "business permit"
+      ],
+      "stage": [
+        "renew"
+      ],
+      "ownership": [
+        "sole propriet"
+      ],
+      "representation": [
+        "represent",
+        "behalf"
+      ],
+      "question": [
+        "what",
+        "which"
+      ]
+    },
+    "forbidden_patterns": [
+      "new business permit"
+    ],
+    "expected_status": "SUCCESS",
+    "reference_review": "assistant drafted; independent bilingual review pending"
+  },
+  {
+    "id": "NF-10",
+    "question_group_id": "hog-fee",
+    "language": "English",
+    "query": "What is the City Treasurer fee for washing of hogs?",
+    "reference_translation": "What is the City Treasurer fee for washing hogs?",
+    "required_concepts": {
+      "office": [
+        "city treasurer"
+      ],
+      "fee_question": [
+        "how much",
+        "what.*fee",
+        "what.*cost",
+        "what.*charge"
+      ],
+      "washing": [
+        "wash"
+      ],
+      "animal": [
+        "hog",
+        "pig"
+      ]
+    },
+    "forbidden_patterns": [
+      "\\b10\\.00\\b"
+    ],
+    "expected_status": "SUCCESS",
+    "reference_review": "assistant drafted; independent bilingual review pending"
+  },
+  {
+    "id": "NF-11",
+    "question_group_id": "hog-fee",
+    "language": "Bislish",
+    "query": "Pila ang bayad sa City Treasurer para sa paghugas sa mga baboy?",
+    "reference_translation": "What is the City Treasurer fee for washing hogs?",
+    "required_concepts": {
+      "office": [
+        "city treasurer"
+      ],
+      "fee_question": [
+        "how much",
+        "what.*fee",
+        "what.*cost",
+        "what.*charge"
+      ],
+      "washing": [
+        "wash"
+      ],
+      "animal": [
+        "hog",
+        "pig"
+      ]
+    },
+    "forbidden_patterns": [
+      "\\b10\\.00\\b"
+    ],
+    "expected_status": "SUCCESS",
+    "reference_review": "assistant drafted; independent bilingual review pending"
+  },
+  {
+    "id": "NF-12",
+    "question_group_id": "hog-fee",
+    "language": "Taglish",
+    "query": "Magkano ang bayad sa City Treasurer para sa paghuhugas ng mga baboy?",
+    "reference_translation": "What is the City Treasurer fee for washing hogs?",
+    "required_concepts": {
+      "office": [
+        "city treasurer"
+      ],
+      "fee_question": [
+        "how much",
+        "what.*fee",
+        "what.*cost",
+        "what.*charge"
+      ],
+      "washing": [
+        "wash"
+      ],
+      "animal": [
+        "hog",
+        "pig"
+      ]
+    },
+    "forbidden_patterns": [
+      "\\b10\\.00\\b"
+    ],
+    "expected_status": "SUCCESS",
+    "reference_review": "assistant drafted; independent bilingual review pending"
+  },
+  {
+    "id": "NF-13",
+    "question_group_id": "working-days-condition",
+    "language": "English",
+    "query": "For business permit renewal, does the processing time use working days or calendar days?",
+    "reference_translation": "For business permit renewal, is processing time counted in working days or calendar days?",
+    "required_concepts": {
+      "service": [
+        "business permit"
+      ],
+      "stage": [
+        "renew"
+      ],
+      "working_days": [
+        "working days",
+        "business days"
+      ],
+      "calendar_days": [
+        "calendar days"
+      ],
+      "alternative": [
+        "\\bor\\b"
+      ]
+    },
+    "forbidden_patterns": [],
+    "expected_status": "SUCCESS",
+    "reference_review": "assistant drafted; independent bilingual review pending"
+  },
+  {
+    "id": "NF-14",
+    "question_group_id": "working-days-condition",
+    "language": "Bislish",
+    "query": "Sa renewal sa business permit, working days ba o calendar days ang processing time?",
+    "reference_translation": "For business permit renewal, is processing time counted in working days or calendar days?",
+    "required_concepts": {
+      "service": [
+        "business permit"
+      ],
+      "stage": [
+        "renew"
+      ],
+      "working_days": [
+        "working days",
+        "business days"
+      ],
+      "calendar_days": [
+        "calendar days"
+      ],
+      "alternative": [
+        "\\bor\\b"
+      ]
+    },
+    "forbidden_patterns": [],
+    "expected_status": "SUCCESS",
+    "reference_review": "assistant drafted; independent bilingual review pending"
+  },
+  {
+    "id": "NF-15",
+    "question_group_id": "working-days-condition",
+    "language": "Taglish",
+    "query": "Sa renewal ng business permit, working days ba o calendar days ang processing time?",
+    "reference_translation": "For business permit renewal, is processing time counted in working days or calendar days?",
+    "required_concepts": {
+      "service": [
+        "business permit"
+      ],
+      "stage": [
+        "renew"
+      ],
+      "working_days": [
+        "working days",
+        "business days"
+      ],
+      "calendar_days": [
+        "calendar days"
+      ],
+      "alternative": [
+        "\\bor\\b"
+      ]
+    },
+    "forbidden_patterns": [],
+    "expected_status": "SUCCESS",
+    "reference_review": "assistant drafted; independent bilingual review pending"
+  },
+  {
+    "id": "NF-16",
+    "question_group_id": "two-storey-not-three",
+    "language": "English",
+    "query": "For locational clearance, what requirements apply to a two-storey building, not a three-storey building?",
+    "reference_translation": "What locational clearance requirements apply to a two-storey building rather than a three-storey building?",
+    "required_concepts": {
+      "service": [
+        "locational clearance"
+      ],
+      "two": [
+        "two[ -]store",
+        "2[ -]store",
+        "two[ -]floor",
+        "2[ -]floor"
+      ],
+      "three": [
+        "three[ -]store",
+        "3[ -]store",
+        "three[ -]floor",
+        "3[ -]floor"
+      ],
+      "negation": [
+        "\\bnot\\b",
+        "rather than",
+        "instead of"
+      ]
+    },
+    "forbidden_patterns": [],
+    "expected_status": "SUCCESS",
+    "reference_review": "assistant drafted; independent bilingual review pending"
+  },
+  {
+    "id": "NF-17",
+    "question_group_id": "two-storey-not-three",
+    "language": "Bislish",
+    "query": "Para sa locational clearance, unsang requirements para sa duha ka andana nga building, dili tulo ka andana?",
+    "reference_translation": "What locational clearance requirements apply to a two-storey building rather than a three-storey building?",
+    "required_concepts": {
+      "service": [
+        "locational clearance"
+      ],
+      "two": [
+        "two[ -]store",
+        "2[ -]store",
+        "two[ -]floor",
+        "2[ -]floor"
+      ],
+      "three": [
+        "three[ -]store",
+        "3[ -]store",
+        "three[ -]floor",
+        "3[ -]floor"
+      ],
+      "negation": [
+        "\\bnot\\b",
+        "rather than",
+        "instead of"
+      ]
+    },
+    "forbidden_patterns": [],
+    "expected_status": "SUCCESS",
+    "reference_review": "assistant drafted; independent bilingual review pending"
+  },
+  {
+    "id": "NF-18",
+    "question_group_id": "two-storey-not-three",
+    "language": "Taglish",
+    "query": "Para sa locational clearance, anong requirements para sa dalawang palapag na building, hindi tatlong palapag?",
+    "reference_translation": "What locational clearance requirements apply to a two-storey building rather than a three-storey building?",
+    "required_concepts": {
+      "service": [
+        "locational clearance"
+      ],
+      "two": [
+        "two[ -]store",
+        "2[ -]store",
+        "two[ -]floor",
+        "2[ -]floor"
+      ],
+      "three": [
+        "three[ -]store",
+        "3[ -]store",
+        "three[ -]floor",
+        "3[ -]floor"
+      ],
+      "negation": [
+        "\\bnot\\b",
+        "rather than",
+        "instead of"
+      ]
+    },
+    "forbidden_patterns": [],
+    "expected_status": "SUCCESS",
+    "reference_review": "assistant drafted; independent bilingual review pending"
+  },
+  {
+    "id": "NF-19",
+    "question_group_id": "dictionary-conflict-19",
+    "language": "Mixed",
+    "query": "Unsay kinahanglan para sa resibo?",
+    "expected_status": "FALLBACK_TRIGGERED",
+    "reference_review": "Trigger grounded in current dictionary polysemy flags; no guessing the selected meaning."
+  },
+  {
+    "id": "NF-20",
+    "question_group_id": "dictionary-conflict-20",
+    "language": "Mixed",
+    "query": "Magkano ang sedula?",
+    "expected_status": "FALLBACK_TRIGGERED",
+    "reference_review": "Trigger grounded in current dictionary polysemy flags; no guessing the selected meaning."
+  },
+  {
+    "id": "NF-21",
+    "question_group_id": "dictionary-conflict-21",
+    "language": "Mixed",
+    "query": "What are the requirements for barangay clearance?",
+    "expected_status": "FALLBACK_TRIGGERED",
+    "reference_review": "Trigger grounded in current dictionary polysemy flags; no guessing the selected meaning."
+  },
+  {
+    "id": "NF-22",
+    "question_group_id": "underspecified-22",
+    "language": "English",
+    "query": "What documents do I need for clearance?",
+    "expected_status": "SUCCESS",
+    "required_concepts": {},
+    "forbidden_patterns": [],
+    "reference_review": "Missing-slot clarification is not prescribed by dictionary-conflict mechanism. Manual check for invented service scope."
+  },
+  {
+    "id": "NF-23",
+    "question_group_id": "underspecified-23",
+    "language": "English",
+    "query": "How long does OCBO take?",
+    "expected_status": "SUCCESS",
+    "required_concepts": {},
+    "forbidden_patterns": [],
+    "reference_review": "Missing-slot clarification is not prescribed by dictionary-conflict mechanism. Manual check for invented service scope."
+  },
+  {
+    "id": "NF-24",
+    "question_group_id": "underspecified-24",
+    "language": "English",
+    "query": "How much is the permit fee?",
+    "expected_status": "SUCCESS",
+    "required_concepts": {},
+    "forbidden_patterns": [],
+    "reference_review": "Missing-slot clarification is not prescribed by dictionary-conflict mechanism. Manual check for invented service scope."
+  }
+]

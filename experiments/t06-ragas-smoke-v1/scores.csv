@@ -1,0 +1,2 @@
+record_id,generation_status,status,faithfulness,context_precision
+DEV-EVID-06-normalized-K3,ANSWERED,SCORED,1.0,0.99999999995

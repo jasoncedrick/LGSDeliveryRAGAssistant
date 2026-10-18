@@ -1,0 +1,8 @@
+{
+  "origin": "User clarification in this conversation",
+  "source_wording": "As-built plan together with the building permit (If there is changes/",
+  "reviewer_interpretation": "The as-built plan together with the building permit is conditional on changes; the user interprets these as changes to the specific document.",
+  "handling": "Source wording retained exactly. Interpretation is review metadata only, excluded from retrieval text.",
+  "remaining_uncertainty": "The source excerpt does not precisely define which changes trigger the condition.",
+  "screenshot_claims_added": false
+}

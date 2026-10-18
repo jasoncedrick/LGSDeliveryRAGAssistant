@@ -1,0 +1,90 @@
+{
+  "status": "DEVELOPMENT_DIAGNOSTIC_NOT_FINAL_EVALUATION",
+  "summary": [
+    {
+      "mode": "raw",
+      "k": 3,
+      "answerable": 12,
+      "retrieved": 12,
+      "page_hits": 9,
+      "evidence_hits": 7,
+      "misses": [
+        "DEV-EVID-01",
+        "DEV-EVID-04",
+        "DEV-EVID-09",
+        "DEV-EVID-10",
+        "DEV-EVID-12"
+      ]
+    },
+    {
+      "mode": "raw",
+      "k": 5,
+      "answerable": 12,
+      "retrieved": 12,
+      "page_hits": 9,
+      "evidence_hits": 7,
+      "misses": [
+        "DEV-EVID-01",
+        "DEV-EVID-04",
+        "DEV-EVID-09",
+        "DEV-EVID-10",
+        "DEV-EVID-12"
+      ]
+    },
+    {
+      "mode": "normalized",
+      "k": 3,
+      "answerable": 12,
+      "retrieved": 12,
+      "page_hits": 7,
+      "evidence_hits": 3,
+      "misses": [
+        "DEV-EVID-01",
+        "DEV-EVID-02",
+        "DEV-EVID-03",
+        "DEV-EVID-04",
+        "DEV-EVID-07",
+        "DEV-EVID-08",
+        "DEV-EVID-09",
+        "DEV-EVID-10",
+        "DEV-EVID-12"
+      ]
+    },
+    {
+      "mode": "normalized",
+      "k": 5,
+      "answerable": 12,
+      "retrieved": 12,
+      "page_hits": 9,
+      "evidence_hits": 5,
+      "misses": [
+        "DEV-EVID-01",
+        "DEV-EVID-04",
+        "DEV-EVID-07",
+        "DEV-EVID-08",
+        "DEV-EVID-09",
+        "DEV-EVID-10",
+        "DEV-EVID-12"
+      ]
+    }
+  ],
+  "label_hash": "608dd0c1d717d48303bceb1aac180a78e129f3379d7ca49c533ce67198444d42",
+  "artifact_hashes": {
+    "corpus": "a0d996dd178eb681825880381741482001b72da5466b2effcf7b870a610017f3",
+    "dictionary": "5ecbcc99538d9a88c7905378abe8a3712831afdfe8e9647cfdf2698600bdab62",
+    "bm25": "3d4ec7020d117f47d59c4a8dbbcfb2b79f69e0471736bd8f2f4bf24af2e4a5c5",
+    "faiss": "19b7d1a025db7daa426afd513d0b20851491053f66d58d857edfb74008c07128",
+    "manifest": "6ac5aca9ffc311ae02945b76979f95ffa80da71af0afc20b15b7090b190fe9f5",
+    "source_pages": "d355eec5c7da652ef8d9a0fbdb914d3d63976be3a20f1b3614b1162984418cbf",
+    "provenance": "47420e8e98d07ad66741b88d7625aa4c0ad2b82c4ada7cedd15e714dde150f79"
+  },
+  "normalization_configuration": "Actual app normalizer, dictionary injection enabled, context rules disabled; existing Mistral settings unchanged.",
+  "answer_generation_performed": false,
+  "benchmarks_accessed": false,
+  "weights_changed": false,
+  "limits": [
+    "Evidence fragments are lexical checks, not proof of row relationship or answer correctness.",
+    "English-only diagnostic questions; not the manuscript formal grouped multilingual evaluation.",
+    "Ambiguous cases have no unique target and are excluded from answerable hit counts."
+  ]
+}

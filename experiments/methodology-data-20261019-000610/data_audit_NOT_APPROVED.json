@@ -1,0 +1,45 @@
+{
+  "status": "SOURCE_REVIEW_REQUIRED_NOT_FROZEN",
+  "method": "120-token content budget, 20 source-token overlap, re-encoding boundary guard, no heading injection",
+  "chunks": 1045,
+  "unique_ids": 1045,
+  "max_tokens": 120,
+  "max_decoded_tokens": 120,
+  "office_counts": {
+    "Business Bureau": 254,
+    "City Treasurer's Office": 213,
+    "Office of the City Building Official": 281,
+    "City Planning and Development Office": 264,
+    "Bureau of Fire Protection": 33
+  },
+  "source_pdf_sha256": {
+    "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf": "5ec6c626b194ad14fabfd6bd5b29671144f335d8fd38ccdae1d1dab6bff17145",
+    "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf": "b492eb8d220d1d9fb8b1d3acad2bba254d711e227063853415182b1715e546de",
+    "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf": "6f081dde0a63ade8aaa3f4dc5a26ceb0c7fde85f896951931d8222eaa86b3093",
+    "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf": "6d1572dc7ef1122064b3db8d799f27356231dd2cbeafb84231c6f315820b1005",
+    "BFP-CITIZENS-CHARTER-2022.pdf": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74"
+  },
+  "original_files_sha256": {
+    "data\\eboss_corpus_chunks_v1.json": "1649d2dba95b8e03a57226364f7294d51d8f009af11c8509a74ecbd8cabba152",
+    "data\\benchmark_scenarios_dev.json": "a95ca5d24c758416eaa82d5e374ee93620e980db5f92d9eed802f945655e841d",
+    "data\\bm25_index.pkl": "6b50cdca9f38e1274617c020b43fec437dad1cf37bb4d7dadba9ab1023cb20f2",
+    "data\\faiss_index.bin": "6cb24487c7f98109cd235743793d9f754cbd5b15aed88dad73fbbfd9d74f8614",
+    "data\\municipal_dictionary_v1.json": "5ab79c879066da851dc9355e8dd177609727d43f8c31cb1b5b26b970ef475b15",
+    "config\\pipeline_manifest.json": "6ddcc7465376d07c542dfac7f9a083fb82e4eab190af841dd7832b2a23d3c0d0"
+  },
+  "matrix_errors": [],
+  "dev_groups": 30,
+  "dev_reference_rows": 85,
+  "corpus_sha256": "71e9a279f6061cb4c529bbaa0d6064ab7a62e57621859acd6815a7d1ad679ea6",
+  "source_corrections_applied": [],
+  "boundary_guard_shortened_windows": 52,
+  "pending": [
+    "Manual table/image/OCR coverage review",
+    "Service metadata review",
+    "Printed-page verification (PDF-relative pages retained)",
+    "Passage-level benchmark remapping and reference-answer review",
+    "Repeated headers and partial duplicates reviewed before removal"
+  ],
+  "heldout_benchmark_read": false,
+  "llm_text_reconstruction": false
+}

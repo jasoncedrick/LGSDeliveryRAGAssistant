@@ -1,0 +1,29 @@
+{
+  "status": "CANDIDATE_NOT_PROMOTED_RETRIEVAL_REGRESSION",
+  "candidate_run_used_enhanced_prompt_and_validation": true,
+  "chronology": "Live candidate run occurred before adding opt-in flag. Candidate then isolated behind enable_fidelity_contract=False by default; rerun CLI supports --fidelity-contract.",
+  "reproduction_command": "D:/thesis/venv/Scripts/python.exe -B scripts/rerun_evidence_review.py --output-name NEW_DIRECTORY --fidelity-contract",
+  "baseline_normalized_evidence_hits": {
+    "k3": 3,
+    "k5": 5
+  },
+  "candidate_normalized_evidence_hits": {
+    "k3": 2,
+    "k5": 3
+  },
+  "fixed_observed_output": "Case08 no longer includes generated glossary; raw and normalized output retained.",
+  "unresolved": [
+    "Case13 generated office substitution is rejected, not successfully translated.",
+    "Several English questions are still unnecessarily paraphrased or expanded.",
+    "No semantic guarantee for service, action, quantities, or conditions from syntactic/acronym checks alone."
+  ],
+  "methodology_notes": [
+    "150-token ceiling and temperature/top_p=0 retained.",
+    "This is normalization response validation, not a post-generation answer-faithfulness filter.",
+    "Invalid translation is an error, not the dictionary ambiguity fallback.",
+    "No tuning on held-out benchmarks."
+  ],
+  "default_runtime": "Previous normalization prompt remains default; no app artifact switch.",
+  "checks": "17 unit/integration tests passed",
+  "next_step": "Inspect source service context alongside multilingual normalization fidelity; candidate requires broader validation before promotion."
+}

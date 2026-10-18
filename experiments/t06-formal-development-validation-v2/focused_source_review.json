@@ -1,0 +1,321 @@
+[
+  {
+    "group_id": "SCENARIO-BB-006",
+    "question": "What are the physical facility requirements and fees to obtain ICAB accreditation for an internet cafe or pisonet business?",
+    "reference_answer": "Under ICAB regulations for Internet Cafes and Pisonet operations, operators must comply with mandatory ocular standards: 1) ISP contract/receipt; 2) Half-closed cubicles not exceeding 5 feet from the floor; 3) Lighting of at least 25 Lux (fluorescent/LED) or 50 Lux (incandescent); 4) Permanently fixed webcams; 5) Content filtering systems blocking pornography; 6) 12x18 inch warning sign prohibiting minors prior to 6:00 AM and beyond 9:00 PM; and 7) Separate toilets for over 30 units. The ICAB accreditation fee is PHP 100.00 for the first 10 computer units plus PHP 10.00 for each additional unit.",
+    "unmapped_references": [
+      {
+        "legacy_chunk_id": "CHUNK-BB-P118-C01",
+        "source_page_id": "BB-PDF0079",
+        "pdf_relative_page": 79,
+        "printed_page": 118,
+        "legacy_text": "118 8. Ocular Inspection and ICAB Inspection Business activities being applied will be validated through ocular inspections. For Internet Cafes, this procedure intends to issue Internet Caf Accreditation to internet cafes and coin operated internet machine business operators who are compliant with internet caf regulation requirement. Internet Caf Accreditation is a specific requirement for the issuance of Business Permit. Office or Division City Mayor's Office Permits & Licenses Division Classification Simple (Regular), Complex (Complaint),",
+        "status": "MANUAL_SPAN_REVIEW_REQUIRED",
+        "exact_span_matches": 0
+      },
+      {
+        "legacy_chunk_id": "CHUNK-BB-P118-C04",
+        "source_page_id": "BB-PDF0079",
+        "pdf_relative_page": 79,
+        "printed_page": 118,
+        "legacy_text": "licant, notarized by any Notary Public 3. Official Receipt for Internet Caf Accreditation Board (ICAB) Accreditation (1 original) Revenue Collection Officer, City Treasurer s Office 4. Sketch Map of Business Location (1 original) Applicant 5. Compliance of the following ICAB requirements: Applicant Internet Service Provider (ISP Contract, Certification or Current Receipt of Payment Applicant Half-closed cubicle with not more than 5 feet from the floor (Internet Cafe only) Applicant",
+        "status": "MANUAL_SPAN_REVIEW_REQUIRED",
+        "exact_span_matches": 0
+      },
+      {
+        "legacy_chunk_id": "CHUNK-BB-P120-C02",
+        "source_page_id": "BB-PDF0081",
+        "pdf_relative_page": 81,
+        "printed_page": 120,
+        "legacy_text": ") and ICAB Accreditation with Order of Payment for Accreditation if compliant None 2 Days Licensing Officer with massive inspectors * For Internet Caf and Pisonet Owners: 5. Proceed to City Treasurer s Office for ICAB Accreditation fee 5. Receive Payment and Order of Payment and Release Official Receipt PHP100.00 for the first 10 units and PHP10.00 for every unit 10 Minutes (May be done on the same day Internet Accreditation is received depending on the will of the applicant) Local",
+        "status": "MANUAL_SPAN_REVIEW_REQUIRED",
+        "exact_span_matches": 0
+      }
+    ],
+    "review_status": "needs_correction",
+    "reviewer_notes": "The reference changes 'PHP10.00 for every unit' to 'each additional unit' and omits the 'Internet Cafe only' condition for cubicles and fixed webcams. Verify the separate-toilet requirement against printed page 119.",
+    "candidate_evidence_not_approved_gold": [
+      {
+        "chunk_id": "DEV120-BB-PDF0079-C004",
+        "source_page_id": "BB-PDF0079",
+        "printed_page": 118,
+        "pdf_relative_page": 79,
+        "matched_anchor_phrases": [
+          "Half-closed cubicle"
+        ],
+        "text": ", notarized by any Notary Public\n3. Official Receipt for Internet Café \nAccreditation \nBoard \n(ICAB)\nAccreditation (1 original)\nRevenue Collection Officer, City Treasurer’s Office\n4. Sketch Map of Business Location \n(1 original)\nApplicant\n5. Compliance of the following ICAB \nrequirements:\nApplicant\nInternet \nService \nProvider \n(ISP\nContract, Certification or Current \nReceipt of Payment\nApplicant\nHalf-closed cubicle with not more \nthan 5 feet from the floor (Internet \nCafe only)\nApplicant"
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0080-C001",
+        "source_page_id": "BB-PDF0080",
+        "printed_page": 119,
+        "pdf_relative_page": 80,
+        "matched_anchor_phrases": [
+          "25 Lux"
+        ],
+        "text": "Proper Lighting: 25 Lux minimum for \nfluorescent and LED lights, 50 lux \nminimum for incandescent\nApplicant\n \nWarning sign with minimum size \nof 12 x 18 inches with the \nfollowing text:\n \nNo pornography\n \nNo Gambling\n \nNo Hacking\n \nNo minors are allowed prior to \n6:00 AM and beyond 9:00 PM\n \nStudents are not allowed to play \ngames during prescribed school \nhours.\nApplicant\nSystem for blocking or filtering \naccess \nto \npornographic\nsites/contents\nApplicant\nWebcams \npermanently \nfixed\n(Internet Cafe only)\nAppli"
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0081-C002",
+        "source_page_id": "BB-PDF0081",
+        "printed_page": 120,
+        "pdf_relative_page": 81,
+        "matched_anchor_phrases": [
+          "PHP100.00",
+          "PHP10.00"
+        ],
+        "text": "and ICAB \nAccreditation with \nOrder of Payment \nfor Accreditation if \ncompliant\nNone\n2 Days\nLicensing Officer\nwith massive\ninspectors\n* For Internet \nCafé and \nPisonet \nOwners: \n5. Proceed to \nCity \nTreasurer’s \nOffice for ICAB \nAccreditation \nfee\n5. Receive \nPayment and Order \nof Payment and \nRelease Official \nReceipt\nPHP100.00 \nfor the first \n10 units and \nPHP10.00 \nfor every\nunit\n10 Minutes\n(May be done on the\nsame day Internet\nAccreditation is\nreceived depending\non the will of the\napplicant)\nLocal Re"
+      }
+    ],
+    "candidate_policy": "Assistant-selected source passages for manual comparison only. No relevance ID or reference answer has been changed."
+  },
+  {
+    "group_id": "SCENARIO-CPDO-001",
+    "question": "What are the requirements, fee per hectare, and processing time for a CPDO Zoning Certification in Davao City?",
+    "reference_answer": "A Zoning Certification is issued by the CPDO Zoning Enforcement Division based on the Integrated Zoning Ordinance (2019–2028) to certify land-use classification. Requirements are: 1) Accomplished application form (1 original); 2) Certified True Copy of Title from the Registry of Deeds (1 photocopy); 3) Subdivision / Sketch Plan by a Geodetic Engineer (1 original); and 4) CTO Official Receipt. The fee is PHP 750.00 per hectare, and total administrative processing time is 3 Days, 6 Hours, and 50 Minutes.",
+    "unmapped_references": [
+      {
+        "legacy_chunk_id": "CHUNK-CPDO-P631-C01",
+        "source_page_id": "CPDO-PDF0002",
+        "pdf_relative_page": 2,
+        "printed_page": 631,
+        "legacy_text": "631 1. Zoning Certification A certification issued by the Office of the City Planning & Development Coordinator based on the Integrated Zoning Ordinance (2019-2028). Office or Division City Planning and Development Office (CPDO) Zoning Enforcement Division Classification Complex Type of Transaction G2G Government to Government; G2C Government to Citizen Who may avail Property Owner or Authorized Representative CHECKLIST OF REQUIREMENTS WHERE TO SECURE . Certified True Copy of Title(s) (1 photocopy) Registry",
+        "status": "MANUAL_SPAN_REVIEW_REQUIRED",
+        "exact_span_matches": 0
+      },
+      {
+        "legacy_chunk_id": "CHUNK-CPDO-P631-C02",
+        "source_page_id": "CPDO-PDF0002",
+        "pdf_relative_page": 2,
+        "printed_page": 631,
+        "legacy_text": "TO SECURE . Certified True Copy of Title(s) (1 photocopy) Registry of Deeds . Duly accomplished application form (1 original) City Planning & Development Office . Subdivision /Sketch Plan (1 original) Bureau of Land / private Geodetic Engineer . Order of Payment (1 original) City Planning & Development Office . Official Receipt (1 original) City Treasurer's Office CLIENT STEPS AGENCY ACTION FEES TO BE PAID PROCESSING TIME PERSON RESPONSIBLE 1. Get",
+        "status": "MANUAL_SPAN_REVIEW_REQUIRED",
+        "exact_span_matches": 0
+      }
+    ],
+    "review_status": "needs_correction",
+    "reviewer_notes": "Assistant source review against rendered City Planning PDF pages 2 and 4 (printed 631 and 633). Needs correction: the checklist has five requirements; the reference omits Order of Payment (1 original), secured from CPDO. Official Receipt is also specified as 1 original. The Subdivision/Sketch Plan (1 original) may be secured from Bureau of Land / private Geodetic Engineer; retain both listed sources if describing where to secure it. PHP 750 per hectare and the TOTAL of 3 Days, 6 Hours, and 50 Minutes are supported. Preserve the payment-step condition: CTO processing time is uncontrollable time; the listed total is not an unconditional end-to-end guarantee. These are reference-answer findings, not evidence of a retrieval or corpus failure.",
+    "candidate_evidence_not_approved_gold": [
+      {
+        "chunk_id": "DEV120-CPDO-PDF0002-C001",
+        "source_page_id": "CPDO-PDF0002",
+        "printed_page": 631,
+        "pdf_relative_page": 2,
+        "matched_anchor_phrases": [
+          "Certified True Copy of Title"
+        ],
+        "text": "1. Zoning Certification \nA certification issued by the Office of the City Planning & Development Coordinator \nbased on the Integrated Zoning Ordinance (2019-2028). \nOffice or \nDivision\nCity Planning and Development Office (CPDO) – Zoning \nEnforcement Division\nClassification \nComplex\nType of \nTransaction\nG2G – Government to Government; G2C – Government to \nCitizen\nWho may avail \nProperty Owner or Authorized Representative\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Certified True Copy of Title(s) (1\nphotocopy)\nRegistry"
+      },
+      {
+        "chunk_id": "DEV120-CPDO-PDF0002-C002",
+        "source_page_id": "CPDO-PDF0002",
+        "printed_page": 631,
+        "pdf_relative_page": 2,
+        "matched_anchor_phrases": [
+          "Certified True Copy of Title"
+        ],
+        "text": "ERE TO SECURE\n1. Certified True Copy of Title(s) (1\nphotocopy)\nRegistry of Deeds\n2. Duly accomplished application form\n(1 original)\nCity Planning & Development Office\n3. Subdivision /Sketch Plan (1 original) \nBureau of Land / private Geodetic Engineer\n4. Order of Payment (1 original) \nCity Planning & Development Office\n5. Official Receipt (1 original) \nCity Treasurer's Office\nCLIENT STEPS \nAGENCY \nACTION\nFEES \nTO BE \nPAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\n1. Gets \napplication form \nfrom"
+      },
+      {
+        "chunk_id": "DEV120-CPDO-PDF0002-C004",
+        "source_page_id": "CPDO-PDF0002",
+        "printed_page": 631,
+        "pdf_relative_page": 2,
+        "matched_anchor_phrases": [
+          "750"
+        ],
+        "text": "DO\n3. Pays Zoning \nFee at the City \nTreasurer's \nOffice, SP Bldg.\n3. Issues \nReceipt \nPHP \n750 /\nhectare\nDepends on the \nprocessing time\nof CTO\n(uncontrollable\ntime)\nCashier-CTO"
+      },
+      {
+        "chunk_id": "DEV120-CPDO-PDF0004-C001",
+        "source_page_id": "CPDO-PDF0004",
+        "printed_page": 633,
+        "pdf_relative_page": 4,
+        "matched_anchor_phrases": [
+          "750",
+          "3 Days, 6 Hours"
+        ],
+        "text": "4.7 Endorses the \nZoning \nCertification to \nCPDO \nAdministrative \nDivision for \nreleasing\nNone \n10 Minutes \n \nZoning Officer\nIV\nCPDO\n5. Claims the \nZoning \nCertification\n5. Releases \ndocuments\nNone \n5 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\nTOTAL:\nPHP \n750/\nHectare\n3 Days, 6 Hours, \nand 50 Minutes"
+      }
+    ],
+    "candidate_policy": "Assistant-selected source passages for manual comparison only. No relevance ID or reference answer has been changed."
+  },
+  {
+    "group_id": "SCENARIO-BFP-001",
+    "question": "What are the required blueprint submittals and fee formulas to secure an FSEC from the Bureau of Fire Protection?",
+    "reference_answer": "The Fire Safety Evaluation Clearance (FSEC) is required prior to securing an OCBO building permit to certify design plan compliance with the Fire Code of the Philippines (RA 9514). Applicants must submit three (3) complete sets of architectural, civil, electrical, mechanical, plumbing, electronics, sanitary, and fire protection design plans signed and sealed by professionals, along with the PRC licenses and estimated building values. Fees are: 1) Application Fee of PHP 200.00; and 2) Fire Code Construction Tax (FCCT) of 0.1% of the verified estimated value of materials and labor, capped at a maximum of PHP 50,000.00.",
+    "unmapped_references": [
+      {
+        "legacy_chunk_id": "CHUNK-BFP-P001-C19",
+        "source_page_id": "BFP-PDF0001",
+        "pdf_relative_page": 1,
+        "printed_page": null,
+        "legacy_text": "ancy/FSIC for Business Permit (new/renewal) is thru OSCP/ BOSS Releasing Officer maximum of five (5) minutes CRO CHECKLIST OF REQUIREMENTS/ DOCUMENTS BFP FRONT LINE SERVICES FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION CERTIFICATE OF OCCUPANCY NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OC",
+        "status": "MANUAL_SPAN_REVIEW_REQUIRED",
+        "exact_span_matches": 0
+      }
+    ],
+    "review_status": "needs_correction",
+    "reviewer_notes": "Assistant source review against rendered BFP PDF page 1, documentary matrix and shared FSEC fee cell. The eight document disciplines, three sets, valid PRC license copies, PHP 200 application fee, FCCT 0.1% of verified estimated materials/labor value, and PHP 50,000 cap are supported. Needs correction for completeness: documents mean design plans, calculations AND specifications signed and sealed by the Professional Engineer/Architect; the estimate is one signed-and-sealed set for the building/structure or facilities (materials and labor cost). The fee-cell note says the higher value is adopted when the declared estimate differs substantially from the specified market/PD 1096 comparison; do not imply any applicant-declared value is automatically accepted. The opening claim that FSEC must precede an OCBO building permit and certifies RA 9514 design compliance is not explicitly established by this charter page; remove it from a source-only reference or validate it against a separately documented source. The legacy cited chunk contains procedure text/matrix headings and does not establish this answer alone. Do not treat candidate chunks as approved relevance labels yet.",
+    "candidate_evidence_not_approved_gold": [
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C017",
+        "source_page_id": "BFP-PDF0001",
+        "printed_page": null,
+        "pdf_relative_page": 1,
+        "matched_anchor_phrases": [
+          "Application Fee",
+          "FCCT"
+        ],
+        "text": "Issuance of FSEC/NOD/\nFSIC for Certificate of Occupancy/FSIC for\nBusiness Permit (new/renewal) is thru OSCP/\nBOSS Releasing Officer\n\nPROCESSING TIME: maximum of five (5) minutes\n\nPERSON RESPONSIBLE: CRO\n\nFEES TO BE PAID [shared cell spanning all six agency rows]:\nFor FSEC\nApplication Fee: Php 200.00\nFCCT = 0.1% of the verified estimated value\n(materials and labor) of the building/structure or\nfacility but not more"
+      },
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C018",
+        "source_page_id": "BFP-PDF0001",
+        "printed_page": null,
+        "pdf_relative_page": 1,
+        "matched_anchor_phrases": [
+          "FCCT"
+        ],
+        "text": "ified estimated value\n(materials and labor) of the building/structure or\nfacility but not more than Php 50,000.00\nSample computation:\nFCCT = (Verified estimated value) x (.1%) = ___Php\nbut not more than Php 50, 000.00\nNote: Section 8.3.6 of JMC 2021-01 Series of\n2021—In the event that there is substantial\ndifference between the cost estimate of the building\nor structure as declared by the owner or applicant\nin the UAF from current acceptable market\nconstruction cost per square meter or as indicated\nin"
+      },
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C027",
+        "source_page_id": "BFP-PDF0001",
+        "printed_page": null,
+        "pdf_relative_page": 1,
+        "matched_anchor_phrases": [
+          "Architectural documents"
+        ],
+        "text": "WAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST.]\n\nD   O   C   U   M   E   N   T   A   R   Y     R   E   Q   U   I   R   E   M   E   N   T   S\n1)Architectural documents\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service"
+      },
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C036",
+        "source_page_id": "BFP-PDF0001",
+        "printed_page": null,
+        "pdf_relative_page": 1,
+        "matched_anchor_phrases": [
+          "Copy of valid PRC"
+        ],
+        "text": "service cells are blank in source; blank is not an exemption statement.]\n\nCopy of valid PRC Professional License of all involved professionals\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n\nEndorsement from the Office of Building Official (OBO)\n[REPRESENTATION: Matrix dot shown for: CERTIFICATE OF OCCUPANCY. Other service cells are blank in source; blank is"
+      }
+    ],
+    "candidate_policy": "Assistant-selected source passages for manual comparison only. No relevance ID or reference answer has been changed."
+  },
+  {
+    "group_id": "SCENARIO-BFP-004",
+    "question": "Under what structural conditions are FSCR, FSCCR, and FSMR required by the BFP, and who prepares them?",
+    "reference_answer": "Under RA 9514 regulations, specialized fire safety technical reports are mandatory if a building or establishment is required to install any or a combination of: 1) Wet standpipe systems; 2) Automatic fire suppression systems (AFSS); or 3) Automatic fire detection and alarm systems (FDAS). The required reports are: Fire Safety Compliance Report (FSCR) prepared by the Engineer/Architect of record and Fire Safety Practitioner during design; Fire Safety Compliance and Commissioning Report (FSCCR) by the contractor upon turnover; and Fire Safety Maintenance Report (FSMR) by the building administrator during annual inspections.",
+    "unmapped_references": [
+      {
+        "legacy_chunk_id": "CHUNK-BFP-P001-C16",
+        "source_page_id": "BFP-PDF0001",
+        "pdf_relative_page": 1,
+        "printed_page": null,
+        "legacy_text": "(10) minutes Fire Code Collecting Agent (FCCA) 4.Check copy of OR, record in the official logbook/log sheet the details of the payment (e.g. OR number amount paid, etc.) and release the claim stub. maximum of five (5) minutes CRO 5. Evaluation/Inspection For OSCP : Evaluation of plans and specification with OBO (Backroom Operation) For BOSS : Joint Inspection NOTE (4) Total Processing Time: Simple Transaction - One (1) day Complex Transaction - Three (3) days Highly Technical Transaction",
+        "status": "MANUAL_SPAN_REVIEW_REQUIRED",
+        "exact_span_matches": 0
+      }
+    ],
+    "review_status": "needs_correction",
+    "reviewer_notes": "Assistant source review against rendered BFP PDF page 1, OTHER DOCUMENTS matrix and Notes (1)-(3). The condition is supported: reports apply if the building/facilities/structures are required to install any or a combination of wet standpipe, automatic fire suppression, or automatic fire detection and alarm systems. Needs correction: FSCR is prepared and duly signed by the Engineer/Architect-of-Record AND his/her Fire Safety Practitioner. FSCCR forms part of as-built documents turned over by the contractor to the owner and is duly signed by the Contractor/Construction Manager AND his/her Fire Safety Practitioner; the note does not independently identify a sole preparer. FSMR is prepared by the building owner, his/her fire safety practitioner OR authorized representative, and duly signed by the Building Administrator AND his/her Fire Safety Practitioner during regular annual fire safety inspection. The reference incorrectly substitutes the administrator as preparer. Preserve matrix service associations: FSCR -> FSEC; FSCCR -> occupancy FSIC; FSMR -> new business without valid occupancy-stage FSIC and the two renewal columns. Do not imply every applicant submits all three reports together.",
+    "candidate_evidence_not_approved_gold": [
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C004",
+        "source_page_id": "BFP-PDF0001",
+        "printed_page": null,
+        "pdf_relative_page": 1,
+        "matched_anchor_phrases": [
+          "NOTE (1) Fire Safety Compliance",
+          "NOTE (2) Fire Safety Compliance"
+        ],
+        "text": "AUTHORIZE REPRESENTATIVE, CONTRACTOR OR BUSINESS ENTITY\nNOTE (1) Fire Safety Compliance Report (FSCR) - A written report composed of plans, specifications and design analysis per building prepared and duly signed by the Engineer/Architect-of-Record and his/her Fire Safety Practitioner. \nNOTE (2) Fire Safety Compliance and Commissioning Report (FSCCR) - A compilation report of all approved submittals, test and acceptance forms of all fire protection and life safety features, which shall form part of"
+      },
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C005",
+        "source_page_id": "BFP-PDF0001",
+        "printed_page": null,
+        "pdf_relative_page": 1,
+        "matched_anchor_phrases": [
+          "NOTE (3) Fire Safety Maintenance"
+        ],
+        "text": "test and acceptance forms of all fire protection and life safety features, which shall form part of the ―as-built‖\ndocuments turned over by the contractor to the building owner duly signed by the Contractor/Construction Manager and his/her Fire Safety Practitioner.\nNOTE (3) Fire Safety Maintenance Report (FSMR) - A written report prepared by the building owner, his/her fire safety practitioner or authorized representative duly signed by the Building Administrator and his/her Fire Safety Practitioner\nduring the regular annual fire safety inspection."
+      },
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C043",
+        "source_page_id": "BFP-PDF0001",
+        "printed_page": null,
+        "pdf_relative_page": 1,
+        "matched_anchor_phrases": [
+          "Wet standpipe system",
+          "Automatic fire suppression"
+        ],
+        "text": "LIST. Other service cells are blank in source; blank is not an exemption statement.]\n\nNote: FSCR/FSCCR/FSMR  is required if the building/facilities/structures are \nrequired to install any or combination of the following: \n       1) Wet standpipe system; \n       2) Automatic fire suppression system; and \n       3) Automatic fire detection and alarm system.\nFire Safety Clearance for welding, cutting, and other hot work operations\n(if   required), shall be secured:\n1) \nPer \nProject \nDuration \n– \nfor \nnew \nconstruction \nor \nrenovation\n(during construction)"
+      }
+    ],
+    "candidate_policy": "Assistant-selected source passages for manual comparison only. No relevance ID or reference answer has been changed."
+  },
+  {
+    "group_id": "SCENARIO-BFP-005",
+    "question": "When must a business or contractor secure a BFP Fire Safety Clearance for welding, cutting, and hot works?",
+    "reference_answer": "Under the BFP Citizen's Charter, a Fire Safety Clearance for welding, cutting, and other hot work operations must be secured under two operational categories: 1) Per Project Duration for new construction or renovation projects, applied during construction after conducting a fire safety inspection; or 2) Annual Fire Safety Clearance for business establishments requiring daily repair, fabrication, or hot work maintenance due to the routine nature of their business operations.",
+    "unmapped_references": [
+      {
+        "legacy_chunk_id": "CHUNK-BFP-P001-C24",
+        "source_page_id": "BFP-PDF0001",
+        "pdf_relative_page": 1,
+        "printed_page": null,
+        "legacy_text": "OBO Certified True Copy of Valid Certificate of Occupancy Assessment of Business Permit Fee/ Tax Assessment Bill from Business Processing and Licensing Office (BPLO) O T H E R D O C U M E N T S Fire Safety Compliance Report (FSCR) NOTE (1) Fire Safety Compliance and Commissioning Report (FSCCR) NOTE (2) Fire Safety Maintenance Report (FSMR) NOTE (3) Note: FSCR/FSCCR/FSMR is required if the building/facilities/structures are required to install any or combination of",
+        "status": "MANUAL_SPAN_REVIEW_REQUIRED",
+        "exact_span_matches": 0
+      }
+    ],
+    "review_status": "needs_correction",
+    "reviewer_notes": "Assistant source review against rendered BFP PDF page 1, hot-work rows beneath the report-system condition. Needs correction: preserve the heading condition '(if required)'. Per Project Duration is for new construction or renovation, applied during construction after the conduct of fire safety inspection; that part of the reference is supported. Annual applies to business establishments requiring 'almost daily repair or maintenance due to its nature of business or operations'. The reference changes 'almost daily' to 'daily' and adds 'fabrication', which is not stated in this row; use the source wording. Matrix dots associate the per-project row with FSEC and the annual row with the two renewal columns; blank cells are not exemption statements. The old cited chunk concerns occupancy/report material and does not itself support the hot-work answer. Relevance labels still need a separate validated derivation.",
+    "candidate_evidence_not_approved_gold": [
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C005",
+        "source_page_id": "BFP-PDF0001",
+        "printed_page": null,
+        "pdf_relative_page": 1,
+        "matched_anchor_phrases": [
+          "Annual"
+        ],
+        "text": "test and acceptance forms of all fire protection and life safety features, which shall form part of the ―as-built‖\ndocuments turned over by the contractor to the building owner duly signed by the Contractor/Construction Manager and his/her Fire Safety Practitioner.\nNOTE (3) Fire Safety Maintenance Report (FSMR) - A written report prepared by the building owner, his/her fire safety practitioner or authorized representative duly signed by the Building Administrator and his/her Fire Safety Practitioner\nduring the regular annual fire safety inspection."
+      },
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C006",
+        "source_page_id": "BFP-PDF0001",
+        "printed_page": null,
+        "pdf_relative_page": 1,
+        "matched_anchor_phrases": [
+          "Annual"
+        ],
+        "text": "Building Administrator and his/her Fire Safety Practitioner\nduring the regular annual fire safety inspection. This  is a compilation of the maintenance and testing records kept by the building‘s engineering and maintenance department, as a prerequisite for the issuance of FSIC for Business or \nMayor‘s Permit renewal, Certificate of Annual Inspection , Permit to Operate, PHILHEALTH Accreditation for Hospitals, DOH License to Operate and other  permits or licenses being issued by other government agencies.\nNOTE (4) Section 9."
+      },
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C043",
+        "source_page_id": "BFP-PDF0001",
+        "printed_page": null,
+        "pdf_relative_page": 1,
+        "matched_anchor_phrases": [
+          "Per Project Duration",
+          "hot work operations"
+        ],
+        "text": "LIST. Other service cells are blank in source; blank is not an exemption statement.]\n\nNote: FSCR/FSCCR/FSMR  is required if the building/facilities/structures are \nrequired to install any or combination of the following: \n       1) Wet standpipe system; \n       2) Automatic fire suppression system; and \n       3) Automatic fire detection and alarm system.\nFire Safety Clearance for welding, cutting, and other hot work operations\n(if   required), shall be secured:\n1) \nPer \nProject \nDuration \n– \nfor \nnew \nconstruction \nor \nrenovation\n(during construction)"
+      },
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C044",
+        "source_page_id": "BFP-PDF0001",
+        "printed_page": null,
+        "pdf_relative_page": 1,
+        "matched_anchor_phrases": [
+          "Per Project Duration",
+          "Annual"
+        ],
+        "text": "be secured:\n1) \nPer \nProject \nDuration \n– \nfor \nnew \nconstruction \nor \nrenovation\n(during construction) This clearance should be applied during                      \nconstruction after the conduct of fire safety inspection\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n\n2)  Annual – for business establishments requiring almost daily repair or\nmaintenance due to its nature of business or operations.\n[REPRESENTATION: Matrix dot shown for:"
+      }
+    ],
+    "candidate_policy": "Assistant-selected source passages for manual comparison only. No relevance ID or reference answer has been changed."
+  }
+]

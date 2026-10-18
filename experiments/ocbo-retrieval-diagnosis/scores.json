@@ -1,0 +1,1019 @@
+{
+  "status": "DEVELOPMENT_DIAGNOSTIC_ONLY",
+  "weights": [
+    0.4,
+    0.6,
+    0.0
+  ],
+  "scoring_matches_runtime": true,
+  "corpus_hashes": {
+    "corpus": "a0d996dd178eb681825880381741482001b72da5466b2effcf7b870a610017f3",
+    "dictionary": "5ecbcc99538d9a88c7905378abe8a3712831afdfe8e9647cfdf2698600bdab62",
+    "bm25": "3d4ec7020d117f47d59c4a8dbbcfb2b79f69e0471736bd8f2f4bf24af2e4a5c5",
+    "faiss": "19b7d1a025db7daa426afd513d0b20851491053f66d58d857edfb74008c07128",
+    "manifest": "6ac5aca9ffc311ae02945b76979f95ffa80da71af0afc20b15b7090b190fe9f5",
+    "source_pages": "d355eec5c7da652ef8d9a0fbdb914d3d63976be3a20f1b3614b1162984418cbf",
+    "provenance": "47420e8e98d07ad66741b88d7625aa4c0ad2b82c4ada7cedd15e714dde150f79"
+  },
+  "probes": [
+    {
+      "kind": "original",
+      "query": "How long does OCBO take to encode and receive documents?",
+      "target_page": "OCBO-PDF0014",
+      "best_target_page_rank": 9,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "targets": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0014-C001",
+          "page": "OCBO-PDF0014",
+          "text": "CLIENT STEPS: 1. Secure and fill-out forms\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 1. Evaluate Documents\nPROCESSING TIME: 20 Minutes\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nTechnical Assistant\non Planning and\nDevelopment\nCivil Engineer –\nOCBO\n\nCLIENT STEPS: 2. Submit necessary requirements\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 2.1 Encode",
+          "bm25_raw": 8.988296283330891,
+          "dense_raw": 0.4438311755657196,
+          "fused_score": 0.6975613849028361,
+          "bm25_rank": 46,
+          "dense_rank": 98,
+          "fused_rank": 53
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0014-C002",
+          "page": "OCBO-PDF0014",
+          "text": "shared source cell for this client step): None\n\nAGENCY ACTION: 2.1 Encode and receive documents\nPROCESSING TIME: 5 Minutes\n\nAGENCY ACTION: 2.2 Route documents\nPROCESSING TIME: 1 Day\n\nAGENCY ACTION: 2.3 Encode and segregate applications\nPROCESSING TIME: 4 Hours\n\nAGENCY ACTION: 2.4 Route to zoning for validation\nPROCESSING TIME: 1 Day\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nTechnical Assistant\non Planning and\nDevelopment\nCivil Engineer –\nOCBO\nRecords\nManagement\nAssistant",
+          "bm25_raw": 12.001462437412647,
+          "dense_raw": 0.535857617855072,
+          "fused_score": 0.8606592722392363,
+          "bm25_rank": 5,
+          "dense_rank": 30,
+          "fused_rank": 9
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0014-C003",
+          "page": "OCBO-PDF0014",
+          "text": "assignment):\nTechnical Assistant\non Planning and\nDevelopment\nCivil Engineer –\nOCBO\nRecords\nManagement\nAssistant\nRecords\nManagement\nAssistant – OCBO\nRecords\nManagement\nAssistant\nRecords\nManagement\nAssistant – OCBO\nRecords\nManagement\nAssistant – OCBO",
+          "bm25_raw": 6.541751051287864,
+          "dense_raw": 0.2989329695701599,
+          "fused_score": 0.5067978867228716,
+          "bm25_rank": 120,
+          "dense_rank": 308,
+          "fused_rank": 185
+        }
+      ],
+      "top_10": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0076-C001",
+          "page": "OCBO-PDF0076",
+          "text": "1. Submit Application \nform and all necessary \nrequirements\n1.1 Receive and \ncheck documents \nand forms \n \n \n \n \n \n1.2 Encode \ndocuments \n \n \n \n1.3 Designate for \ninspection \n \n \n \n1.4 Conduct \ninspection \n \n \n \n \n \n \n \n \n1.5 Assess \napplication for OP\nNone \n10 Minutes\n5 Minutes\n2 Hours\n5 Days\n1 Day\nLaborer\nGeodetic Engineer –\nOCBO\nRecords Custodian\n– OCBO\nRecords Custodian\n– OCBO\nTechnical\nAssessment II\nGeodetic Engineer –\nOCBO\nInformation Systems\nDesigner – OCBO\n2. Pay OP at City \nTreasurer’s Office\n2. Release OP \nand documents \nfor client for \npayment\nNone \n5 Minute",
+          "bm25_raw": 11.233346176283867,
+          "dense_raw": 0.6330845355987549,
+          "fused_score": 0.9194047633068922,
+          "bm25_rank": 12,
+          "dense_rank": 3,
+          "fused_rank": 1
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0069-C001",
+          "page": "OCBO-PDF0069",
+          "text": "3.3 Encode \nEvaluation Sheet \n  \n \n \n \n \n \n \n \n \n3.4 Forward \napplication to \nPED Chief \n  \n3.5 Generate \nAssessment and \nIssue Order of \nPayment (OP) \n  \n  \n \n \n \n3.6 Forward \nplans, \ndocuments, and \nOP to Releasing\n15 Minutes\n4 Hours\n4 Hours\n10 Minutes\nCivil Engineer –\nOCBO\nRecords\nManagement\nAssistant – OCBO\n4. Claim Plans, Documents \nand OP for payment at City \nTreasurer’s Office\n4. Notify client \nthat plans, \ndocuments and \nOP is ready for \nclaiming\nNone \n10 Minutes \nRecords\nManagement\nAssistant – OCBO",
+          "bm25_raw": 10.764027993236299,
+          "dense_raw": 0.6367640495300293,
+          "fused_score": 0.9089750496160856,
+          "bm25_rank": 17,
+          "dense_rank": 2,
+          "fused_rank": 2
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0082-C001",
+          "page": "OCBO-PDF0082",
+          "text": "plans and \ndocuments\n2.2 Encode \nBuilding Permit \nApplication \n \n \n \n \n \n \n2.3 Endorse to City \nPlanning & \nDevelopment \nOffice (CPDO) \n \n \n2.4 Receive plans \nwith Order of \nPayment from \nCPDO posted in \nthe system \n \n2.5 Forward and \nsegregate \napplication to \nProcessing & \nEvaluation’s \nInspector (PED) \n(Inspection and \nBureau of Fire \nProtection (BFP))\n5 Minutes\n1 Day \n(Note:\nProcessing\nTime Of CPDO\nIs Excluded)\n20 Minutes\n1 Day\nTechnical Assessment\n1\nOCBO\nTechnical Assistant –\nOCBO\nTechnical Assistant –\nOCBO\nTechnic",
+          "bm25_raw": 12.756488911815458,
+          "dense_raw": 0.5532702207565308,
+          "fused_score": 0.896833498985182,
+          "bm25_rank": 2,
+          "dense_rank": 21,
+          "fused_rank": 3
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0007-C001",
+          "page": "OCBO-PDF0007",
+          "text": "2.2 Encode \nBuilding Permit \nApplication \n2.3 Endorse to City \nPlanning & \nDevelopment \nOffice (CPDO) \n \n2.4 Receive plans \nwith Order of \nPayment from \nCPDO posted in \nthe system \n \n2.5 Forward and \nsegregate \napplication to \nProcessing & \nEvaluation’s \nInspector (PED) \n(Inspection and \nBureau of Fire \nProtection (BFP))\n5 Minutes\n1 Day \n(Note:\nProcessing\nTime Of CPDO\nIs Excluded)\n20 Minutes\n1 Day\nCivil Engineer –\nOCBO\nPrograms Assistant –\nOCBO\nPrograms Assistant –\nOCBO\nPrograms Assistant –",
+          "bm25_raw": 12.46478695353233,
+          "dense_raw": 0.552950382232666,
+          "fused_score": 0.8881840122131601,
+          "bm25_rank": 3,
+          "dense_rank": 22,
+          "fused_rank": 4
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0054-C001",
+          "page": "OCBO-PDF0054",
+          "text": "2.2 Encode \nPavement Permit \nApplication \n  \n  \n \n \n \n \n2.3 Forward and \nsegregate \napplication to \nProcessing & \nEvaluation’s \nInspector\n5 Minutes\n1 Day\nOCBO\nTechnical \nAssistant –\nOCBO\n3. Upon inspection, any \nauthorized representative \nmust be \n  on-site\n3.1 Conduct \nInspection \n \n \n \n \n \n \n \n \n3.2 Evaluate \nplans and \ndocuments \n·   Line & Grade \n·   Structural \n  \n \n \n \n3.3 Encode \nEvaluation Sheet\nNone \n5 Days\n1 Day\n15 Minutes\nEngineer\nTechnical\nAssessment 1 –\nOCBO\nLine and Grade\nPED Chief\nLine and Grade –\nOCBO\nPrograms Officer\nPrograms",
+          "bm25_raw": 11.685013161401523,
+          "dense_raw": 0.5681036114692688,
+          "fused_score": 0.8783694042799246,
+          "bm25_rank": 7,
+          "dense_rank": 14,
+          "fused_rank": 5
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0008-C001",
+          "page": "OCBO-PDF0008",
+          "text": " Mechanical\n3.3 Encode \nEvaluation Sheet \n \n \n \n \n3.4 Forward \napplication to PED \nChief \n \n \n \n3.5 Generate \nAssessment and \nIssue Order of \nPayment (OP) \n \n3.6 Forward plans, \ndocuments, and \nOP to Releasing\n30 Minutes\n1 Day\n1 Day\n10 Minutes\nPlumbing – OCBO\nElectrical Engineer –\nOCBO\nMechanical Engineer –\nOCBO\nPrograms Officer\nTechnical Assistant on\nPlanning and\nDevelopment – OCBO\nPED Chief – OCBO\nCivil Engineer – OCBO\n4. Claim Plans, \nDocuments and OP \nfor payment at City \nTreasurer’s",
+          "bm25_raw": 11.541011841903249,
+          "dense_raw": 0.5633072853088379,
+          "fused_score": 0.8702437338623212,
+          "bm25_rank": 8,
+          "dense_rank": 16,
+          "fused_rank": 6
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0098-C003",
+          "page": "OCBO-PDF0098",
+          "text": "cant\n3. Business Permit with Official Receipt \nOwner/Applicant\n4. Inspection Request Form \nOCBO\nCLIENT STEPS \nAGENCY \nACTION\nFEES TO \nBE PAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\n1. Secure and fill-out \nRequest Form\n1. Receive \nRequest Form\nNone \n10 Minutes \nTechnical Assistant on\nPlanning and \nDevelopment\nCivil Engineer – OCBO\n2. Submit necessary \nrequirements\n2.1 Receive and \nencode request\nNone \n1 Day\nAdministrative Service\nOfficer – OCBO",
+          "bm25_raw": 13.917715751614692,
+          "dense_raw": 0.47764694690704346,
+          "fused_score": 0.8673445151284963,
+          "bm25_rank": 1,
+          "dense_rank": 68,
+          "fused_rank": 7
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0077-C002",
+          "page": "OCBO-PDF0077",
+          "text": "Custodian\n– OCBO\nRecords Custodian\n– OCBO\nEngineering\nAssistant – OCBO\n4. Receive Approved \nSign Permit\n4. Release \nApproved Sign \nPermit\nNone \n30 Minutes \nLaborer\nGeodetic Engineer –\nOCBO\nTOTAL: *Please refer\nbelow\n10 Days, 3\nHour, and 55\nMinutes",
+          "bm25_raw": 9.191888230084356,
+          "dense_raw": 0.6372294425964355,
+          "fused_score": 0.8641780704284879,
+          "bm25_rank": 42,
+          "dense_rank": 1,
+          "fused_rank": 8
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0014-C002",
+          "page": "OCBO-PDF0014",
+          "text": "shared source cell for this client step): None\n\nAGENCY ACTION: 2.1 Encode and receive documents\nPROCESSING TIME: 5 Minutes\n\nAGENCY ACTION: 2.2 Route documents\nPROCESSING TIME: 1 Day\n\nAGENCY ACTION: 2.3 Encode and segregate applications\nPROCESSING TIME: 4 Hours\n\nAGENCY ACTION: 2.4 Route to zoning for validation\nPROCESSING TIME: 1 Day\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nTechnical Assistant\non Planning and\nDevelopment\nCivil Engineer –\nOCBO\nRecords\nManagement\nAssistant",
+          "bm25_raw": 12.001462437412647,
+          "dense_raw": 0.535857617855072,
+          "fused_score": 0.8606592722392363,
+          "bm25_rank": 5,
+          "dense_rank": 30,
+          "fused_rank": 9
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0077-C001",
+          "page": "OCBO-PDF0077",
+          "text": "3. Resubmit plans and \ndocuments with OP \nand OR\n3.1 Create \nCertificate for \nSignage Permit \n \n \n3.2 Forward to \nDistrict Head for \ninitial signature \n \n3.3 Forward to \nBO for approval \n \n \n3.4 Forward to \nCity \nAdministrator’s \nOffice (CAO) for \napproval \n \n3.5 Receive from \nCAO \n \n \n3.6 Stamp \napproved Sign \nPermit number\nNone \n1 Day\n5 Hours\n1 Day\n1 Day\n5 Minutes\n4 Hours\nRecords Custodian\n– OCBO\nCivil Engineer\nBuilding Official –\nOCBO\nRecords Custodian\n– OCBO\nRecords Custodian\n– OCBO\nEngineering\nAssistant – OCBO\n4. Rece",
+          "bm25_raw": 10.386753924296155,
+          "dense_raw": 0.5521014928817749,
+          "fused_score": 0.8277549661520347,
+          "bm25_rank": 21,
+          "dense_rank": 23,
+          "fused_rank": 10
+        }
+      ]
+    },
+    {
+      "kind": "service_explicit",
+      "query": "For an occupancy permit, how long does OCBO take to encode and receive documents?",
+      "target_page": "OCBO-PDF0014",
+      "best_target_page_rank": 24,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "targets": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0014-C001",
+          "page": "OCBO-PDF0014",
+          "text": "CLIENT STEPS: 1. Secure and fill-out forms\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 1. Evaluate Documents\nPROCESSING TIME: 20 Minutes\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nTechnical Assistant\non Planning and\nDevelopment\nCivil Engineer –\nOCBO\n\nCLIENT STEPS: 2. Submit necessary requirements\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 2.1 Encode",
+          "bm25_raw": 11.001344364818983,
+          "dense_raw": 0.4501500129699707,
+          "fused_score": 0.694604041947299,
+          "bm25_rank": 47,
+          "dense_rank": 153,
+          "fused_rank": 67
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0014-C002",
+          "page": "OCBO-PDF0014",
+          "text": "shared source cell for this client step): None\n\nAGENCY ACTION: 2.1 Encode and receive documents\nPROCESSING TIME: 5 Minutes\n\nAGENCY ACTION: 2.2 Route documents\nPROCESSING TIME: 1 Day\n\nAGENCY ACTION: 2.3 Encode and segregate applications\nPROCESSING TIME: 4 Hours\n\nAGENCY ACTION: 2.4 Route to zoning for validation\nPROCESSING TIME: 1 Day\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nTechnical Assistant\non Planning and\nDevelopment\nCivil Engineer –\nOCBO\nRecords\nManagement\nAssistant",
+          "bm25_raw": 13.975408133095218,
+          "dense_raw": 0.468258798122406,
+          "fused_score": 0.7895443160869344,
+          "bm25_rank": 3,
+          "dense_rank": 125,
+          "fused_rank": 24
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0014-C003",
+          "page": "OCBO-PDF0014",
+          "text": "assignment):\nTechnical Assistant\non Planning and\nDevelopment\nCivil Engineer –\nOCBO\nRecords\nManagement\nAssistant\nRecords\nManagement\nAssistant – OCBO\nRecords\nManagement\nAssistant\nRecords\nManagement\nAssistant – OCBO\nRecords\nManagement\nAssistant – OCBO",
+          "bm25_raw": 6.541751051287864,
+          "dense_raw": 0.3563234210014343,
+          "fused_score": 0.49902418670640647,
+          "bm25_rank": 265,
+          "dense_rank": 397,
+          "fused_rank": 296
+        }
+      ],
+      "top_10": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0076-C001",
+          "page": "OCBO-PDF0076",
+          "text": "1. Submit Application \nform and all necessary \nrequirements\n1.1 Receive and \ncheck documents \nand forms \n \n \n \n \n \n1.2 Encode \ndocuments \n \n \n \n1.3 Designate for \ninspection \n \n \n \n1.4 Conduct \ninspection \n \n \n \n \n \n \n \n \n1.5 Assess \napplication for OP\nNone \n10 Minutes\n5 Minutes\n2 Hours\n5 Days\n1 Day\nLaborer\nGeodetic Engineer –\nOCBO\nRecords Custodian\n– OCBO\nRecords Custodian\n– OCBO\nTechnical\nAssessment II\nGeodetic Engineer –\nOCBO\nInformation Systems\nDesigner – OCBO\n2. Pay OP at City \nTreasurer’s Office\n2. Release OP \nand documents \nfor client for \npayment\nNone \n5 Minute",
+          "bm25_raw": 13.69792050188925,
+          "dense_raw": 0.6679747104644775,
+          "fused_score": 0.9414461044227637,
+          "bm25_rank": 7,
+          "dense_rank": 3,
+          "fused_rank": 1
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0056-C001",
+          "page": "OCBO-PDF0056",
+          "text": "Official Receipt (OR) \ndocuments, OP \nand OR \n  \n \n \n \n5.2 Forward to \nPED Chief for \nFinal \nRecommendation \n  \n5.3 Forward to \nBuilding Official \n(BO) for signing \nand approval \n  \n5.4 Stamp \nSidewalk \nOccupancy \nPermit number on \nplans and \ndocuments \n     \n \n \n5.5 Notify client \nthat approved \nplans and \ndocuments are \nready for claiming\n4 Hours\n1 Day\n4 Hours\n10 Minutes\nPlanning and \nDevelopment\nOCBO\nPED Chief –\nOCBO\nBuilding Official –\nOCBO\nEngineering Staff\nRecords\nCustodian –\nOCBO\nRecords\nManagement \nAssistant –\nOCBO\n6. Claim the approved plans \nand",
+          "bm25_raw": 13.721707274585095,
+          "dense_raw": 0.6217851638793945,
+          "fused_score": 0.905221781826576,
+          "bm25_rank": 6,
+          "dense_rank": 14,
+          "fused_rank": 2
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0056-C002",
+          "page": "OCBO-PDF0056",
+          "text": "Records\nCustodian –\nOCBO\nRecords\nManagement \nAssistant –\nOCBO\n6. Claim the approved plans \nand documents with Sidewalk \nOccupancy Permit Number\n6. Release \napproved plans \nand documents to \nclient\nNone \n5 Minutes \nRecords\nManagement \nAssistant –\nOCBO\nTOTAL: \n*Please\nrefer \nbelow\n10 Days,\n2 Hours, and \n23 Minutes",
+          "bm25_raw": 11.702050841171392,
+          "dense_raw": 0.6896227598190308,
+          "fused_score": 0.9047118704687811,
+          "bm25_rank": 29,
+          "dense_rank": 2,
+          "fused_rank": 3
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0015-C003",
+          "page": "OCBO-PDF0015",
+          "text": "OCBO\n\nCLIENT STEPS: 4. Wait for notification for OP and endorsement to BFP\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 4.1 Assess application for OP\nPROCESSING TIME: 1 Day\n\nAGENCY ACTION: 4.2 Release OP (for Occupancy and Zoning), plans and documents to be endorsed with BFP\nPROCESSING TIME: 5 Minutes\n\nAGENCY ACTION: 4.3 Receive plans, documents, FSEC, Zoning clearance\nPROCESSING TIME: 5",
+          "bm25_raw": 14.780524460375993,
+          "dense_raw": 0.5851805806159973,
+          "fused_score": 0.9046587400990798,
+          "bm25_rank": 1,
+          "dense_rank": 30,
+          "fused_rank": 4
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0077-C001",
+          "page": "OCBO-PDF0077",
+          "text": "3. Resubmit plans and \ndocuments with OP \nand OR\n3.1 Create \nCertificate for \nSignage Permit \n \n \n3.2 Forward to \nDistrict Head for \ninitial signature \n \n3.3 Forward to \nBO for approval \n \n \n3.4 Forward to \nCity \nAdministrator’s \nOffice (CAO) for \napproval \n \n3.5 Receive from \nCAO \n \n \n3.6 Stamp \napproved Sign \nPermit number\nNone \n1 Day\n5 Hours\n1 Day\n1 Day\n5 Minutes\n4 Hours\nRecords Custodian\n– OCBO\nCivil Engineer\nBuilding Official –\nOCBO\nRecords Custodian\n– OCBO\nRecords Custodian\n– OCBO\nEngineering\nAssistant – OCBO\n4. Rece",
+          "bm25_raw": 12.851328249901538,
+          "dense_raw": 0.6427633762359619,
+          "fused_score": 0.8984116373268289,
+          "bm25_rank": 11,
+          "dense_rank": 7,
+          "fused_rank": 5
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0069-C001",
+          "page": "OCBO-PDF0069",
+          "text": "3.3 Encode \nEvaluation Sheet \n  \n \n \n \n \n \n \n \n \n3.4 Forward \napplication to \nPED Chief \n  \n3.5 Generate \nAssessment and \nIssue Order of \nPayment (OP) \n  \n  \n \n \n \n3.6 Forward \nplans, \ndocuments, and \nOP to Releasing\n15 Minutes\n4 Hours\n4 Hours\n10 Minutes\nCivil Engineer –\nOCBO\nRecords\nManagement\nAssistant – OCBO\n4. Claim Plans, Documents \nand OP for payment at City \nTreasurer’s Office\n4. Notify client \nthat plans, \ndocuments and \nOP is ready for \nclaiming\nNone \n10 Minutes \nRecords\nManagement\nAssistant – OCBO",
+          "bm25_raw": 12.709629485099951,
+          "dense_raw": 0.6237977743148804,
+          "fused_score": 0.8794387322620366,
+          "bm25_rank": 14,
+          "dense_rank": 13,
+          "fused_rank": 6
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0098-C003",
+          "page": "OCBO-PDF0098",
+          "text": "cant\n3. Business Permit with Official Receipt \nOwner/Applicant\n4. Inspection Request Form \nOCBO\nCLIENT STEPS \nAGENCY \nACTION\nFEES TO \nBE PAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\n1. Secure and fill-out \nRequest Form\n1. Receive \nRequest Form\nNone \n10 Minutes \nTechnical Assistant on\nPlanning and \nDevelopment\nCivil Engineer – OCBO\n2. Submit necessary \nrequirements\n2.1 Receive and \nencode request\nNone \n1 Day\nAdministrative Service\nOfficer – OCBO",
+          "bm25_raw": 13.917715751614692,
+          "dense_raw": 0.5804073810577393,
+          "fused_score": 0.877498937001923,
+          "bm25_rank": 4,
+          "dense_rank": 32,
+          "fused_rank": 7
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0024-C001",
+          "page": "OCBO-PDF0024",
+          "text": "3. Claim documents \nand OP for payment \nto CTO\n3.1 Receive \ndocuments with OP \nand OR \n  \n \n3.2 Forward for \nFinal verification \nand recommend for \napproval \n  \n3.3 Forward \nMechanical Permit \napplication for \napproval\nNone \n30 Minutes\n30 Minutes\n30 Minutes\nAdministrative Officer\n– OCBO\nMechanical Engineer\n– OCBO\nTechnical Assistant –\nOCBO\n4. Claim approved \nMechanical Permit\n4.1 Approve \nMechanical Permit \napplication \n  \n \n \n4.2 Release \napproved \nMechanical Permit\nNone \n7 Days\n1 Day\nMechanical Engineer\n– OCBO\nAdministrative Officer\nTechnical Assistant –\nOCBO\nTOTAL:",
+          "bm25_raw": 12.384473144924806,
+          "dense_raw": 0.6310503482818604,
+          "fused_score": 0.8764280789106491,
+          "bm25_rank": 17,
+          "dense_rank": 9,
+          "fused_rank": 8
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0082-C001",
+          "page": "OCBO-PDF0082",
+          "text": "plans and \ndocuments\n2.2 Encode \nBuilding Permit \nApplication \n \n \n \n \n \n \n2.3 Endorse to City \nPlanning & \nDevelopment \nOffice (CPDO) \n \n \n2.4 Receive plans \nwith Order of \nPayment from \nCPDO posted in \nthe system \n \n2.5 Forward and \nsegregate \napplication to \nProcessing & \nEvaluation’s \nInspector (PED) \n(Inspection and \nBureau of Fire \nProtection (BFP))\n5 Minutes\n1 Day \n(Note:\nProcessing\nTime Of CPDO\nIs Excluded)\n20 Minutes\n1 Day\nTechnical Assessment\n1\nOCBO\nTechnical Assistant –\nOCBO\nTechnical Assistant –\nOCBO\nTechnic",
+          "bm25_raw": 12.756488911815458,
+          "dense_raw": 0.5928976535797119,
+          "fused_score": 0.856042690430337,
+          "bm25_rank": 12,
+          "dense_rank": 25,
+          "fused_rank": 9
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0007-C001",
+          "page": "OCBO-PDF0007",
+          "text": "2.2 Encode \nBuilding Permit \nApplication \n2.3 Endorse to City \nPlanning & \nDevelopment \nOffice (CPDO) \n \n2.4 Receive plans \nwith Order of \nPayment from \nCPDO posted in \nthe system \n \n2.5 Forward and \nsegregate \napplication to \nProcessing & \nEvaluation’s \nInspector (PED) \n(Inspection and \nBureau of Fire \nProtection (BFP))\n5 Minutes\n1 Day \n(Note:\nProcessing\nTime Of CPDO\nIs Excluded)\n20 Minutes\n1 Day\nCivil Engineer –\nOCBO\nPrograms Assistant –\nOCBO\nPrograms Assistant –\nOCBO\nPrograms Assistant –",
+          "bm25_raw": 12.46478695353233,
+          "dense_raw": 0.6010953187942505,
+          "fused_score": 0.8546917637620245,
+          "bm25_rank": 15,
+          "dense_rank": 23,
+          "fused_rank": 10
+        }
+      ]
+    },
+    {
+      "kind": "action_literal",
+      "query": "Encode and receive documents processing time",
+      "target_page": "OCBO-PDF0014",
+      "best_target_page_rank": 1,
+      "hit_at_3": true,
+      "hit_at_5": true,
+      "targets": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0014-C001",
+          "page": "OCBO-PDF0014",
+          "text": "CLIENT STEPS: 1. Secure and fill-out forms\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 1. Evaluate Documents\nPROCESSING TIME: 20 Minutes\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nTechnical Assistant\non Planning and\nDevelopment\nCivil Engineer –\nOCBO\n\nCLIENT STEPS: 2. Submit necessary requirements\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 2.1 Encode",
+          "bm25_raw": 7.969811128130931,
+          "dense_raw": 0.43459832668304443,
+          "fused_score": 0.682875233796426,
+          "bm25_rank": 56,
+          "dense_rank": 49,
+          "fused_rank": 27
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0014-C002",
+          "page": "OCBO-PDF0014",
+          "text": "shared source cell for this client step): None\n\nAGENCY ACTION: 2.1 Encode and receive documents\nPROCESSING TIME: 5 Minutes\n\nAGENCY ACTION: 2.2 Route documents\nPROCESSING TIME: 1 Day\n\nAGENCY ACTION: 2.3 Encode and segregate applications\nPROCESSING TIME: 4 Hours\n\nAGENCY ACTION: 2.4 Route to zoning for validation\nPROCESSING TIME: 1 Day\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nTechnical Assistant\non Planning and\nDevelopment\nCivil Engineer –\nOCBO\nRecords\nManagement\nAssistant",
+          "bm25_raw": 13.799429826923015,
+          "dense_raw": 0.6141759157180786,
+          "fused_score": 1.0,
+          "bm25_rank": 1,
+          "dense_rank": 1,
+          "fused_rank": 1
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0014-C003",
+          "page": "OCBO-PDF0014",
+          "text": "assignment):\nTechnical Assistant\non Planning and\nDevelopment\nCivil Engineer –\nOCBO\nRecords\nManagement\nAssistant\nRecords\nManagement\nAssistant – OCBO\nRecords\nManagement\nAssistant\nRecords\nManagement\nAssistant – OCBO\nRecords\nManagement\nAssistant – OCBO",
+          "bm25_raw": 1.865351371517721,
+          "dense_raw": 0.1846853643655777,
+          "fused_score": 0.29976025248850957,
+          "bm25_rank": 716,
+          "dense_rank": 568,
+          "fused_rank": 575
+        }
+      ],
+      "top_10": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0014-C002",
+          "page": "OCBO-PDF0014",
+          "text": "shared source cell for this client step): None\n\nAGENCY ACTION: 2.1 Encode and receive documents\nPROCESSING TIME: 5 Minutes\n\nAGENCY ACTION: 2.2 Route documents\nPROCESSING TIME: 1 Day\n\nAGENCY ACTION: 2.3 Encode and segregate applications\nPROCESSING TIME: 4 Hours\n\nAGENCY ACTION: 2.4 Route to zoning for validation\nPROCESSING TIME: 1 Day\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nTechnical Assistant\non Planning and\nDevelopment\nCivil Engineer –\nOCBO\nRecords\nManagement\nAssistant",
+          "bm25_raw": 13.799429826923015,
+          "dense_raw": 0.6141759157180786,
+          "fused_score": 1.0,
+          "bm25_rank": 1,
+          "dense_rank": 1,
+          "fused_rank": 1
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0082-C001",
+          "page": "OCBO-PDF0082",
+          "text": "plans and \ndocuments\n2.2 Encode \nBuilding Permit \nApplication \n \n \n \n \n \n \n2.3 Endorse to City \nPlanning & \nDevelopment \nOffice (CPDO) \n \n \n2.4 Receive plans \nwith Order of \nPayment from \nCPDO posted in \nthe system \n \n2.5 Forward and \nsegregate \napplication to \nProcessing & \nEvaluation’s \nInspector (PED) \n(Inspection and \nBureau of Fire \nProtection (BFP))\n5 Minutes\n1 Day \n(Note:\nProcessing\nTime Of CPDO\nIs Excluded)\n20 Minutes\n1 Day\nTechnical Assessment\n1\nOCBO\nTechnical Assistant –\nOCBO\nTechnical Assistant –\nOCBO\nTechnic",
+          "bm25_raw": 13.029194963756384,
+          "dense_raw": 0.5091047286987305,
+          "fused_score": 0.8909944870919528,
+          "bm25_rank": 2,
+          "dense_rank": 8,
+          "fused_rank": 2
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0007-C001",
+          "page": "OCBO-PDF0007",
+          "text": "2.2 Encode \nBuilding Permit \nApplication \n2.3 Endorse to City \nPlanning & \nDevelopment \nOffice (CPDO) \n \n2.4 Receive plans \nwith Order of \nPayment from \nCPDO posted in \nthe system \n \n2.5 Forward and \nsegregate \napplication to \nProcessing & \nEvaluation’s \nInspector (PED) \n(Inspection and \nBureau of Fire \nProtection (BFP))\n5 Minutes\n1 Day \n(Note:\nProcessing\nTime Of CPDO\nIs Excluded)\n20 Minutes\n1 Day\nCivil Engineer –\nOCBO\nPrograms Assistant –\nOCBO\nPrograms Assistant –\nOCBO\nPrograms Assistant –",
+          "bm25_raw": 11.400726981169928,
+          "dense_raw": 0.5396329164505005,
+          "fused_score": 0.8689749302905554,
+          "bm25_rank": 13,
+          "dense_rank": 5,
+          "fused_rank": 3
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0051-C002",
+          "page": "BB-PDF0051",
+          "text": "TION\nFEES TO BE\nPAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\nSTEP 1: APPLICATION\n1.Submit the pre-\nassessed \ndocuments  for \npayment with \nattached \nRecommended \napproval of \nApplication for \nAdditional Line of \nBusiness and \nReceive the pre-\nassessed and \nencoded \ndocuments  for \npayment with \nattached \nRecommended \napproval of\n1.1. Encode of \nadditional details \nfrom the RO-\napproved Other \nAmendments \n(after approval of \nRegulatory \nOffices) \napplication\n1.2. Return the \npre-assessed \ndocuments to the \nclient for \npayment with \nattached \nRecommended\nNone \n10 Minute",
+          "bm25_raw": 12.705471400817762,
+          "dense_raw": 0.4460834264755249,
+          "fused_score": 0.8296211046316009,
+          "bm25_rank": 3,
+          "dense_rank": 34,
+          "fused_rank": 4
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0031-C002",
+          "page": "OCBO-PDF0031",
+          "text": ")\nCLIENT STEPS \nAGENCY ACTION FEES TO\nBE PAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\n1. Secure and fill-out \nApplication Forms\n1. Issue \nApplication Forms \nwith Checklist\nNone \n5 Minutes \nTechnical\nAssessment 1\nOCBO\n2. Submit Application Form \nwith all necessary plans \nand documents\n2.1 Assess \nBuilding Plans and \nDocuments \n  \n \n \n \n \n \n \n \n2.2 Encode \nFencing Permit \nApplication \n  \n \n \n2.3 Forward and \nsegregate \napplication to \nProcessing & \nEvaluation’s \nInspector\nNone \n20 Minutes\n5 Minutes\n1 Day\nTechnical\nAssessment 1\nOCBO\nTechnical \nAssistant –",
+          "bm25_raw": 11.59893963782935,
+          "dense_raw": 0.4422883987426758,
+          "fused_score": 0.7944156699922048,
+          "bm25_rank": 10,
+          "dense_rank": 39,
+          "fused_rank": 5
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0069-C001",
+          "page": "OCBO-PDF0069",
+          "text": "3.3 Encode \nEvaluation Sheet \n  \n \n \n \n \n \n \n \n \n3.4 Forward \napplication to \nPED Chief \n  \n3.5 Generate \nAssessment and \nIssue Order of \nPayment (OP) \n  \n  \n \n \n \n3.6 Forward \nplans, \ndocuments, and \nOP to Releasing\n15 Minutes\n4 Hours\n4 Hours\n10 Minutes\nCivil Engineer –\nOCBO\nRecords\nManagement\nAssistant – OCBO\n4. Claim Plans, Documents \nand OP for payment at City \nTreasurer’s Office\n4. Notify client \nthat plans, \ndocuments and \nOP is ready for \nclaiming\nNone \n10 Minutes \nRecords\nManagement\nAssistant – OCBO",
+          "bm25_raw": 7.113179271799933,
+          "dense_raw": 0.5950819253921509,
+          "fused_score": 0.7904359562644763,
+          "bm25_rank": 77,
+          "dense_rank": 2,
+          "fused_rank": 6
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0042-C001",
+          "page": "BB-PDF0042",
+          "text": "CLIENT STEPS \nAGENCY \nACTION\nFEES TO BE\nPAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\nSTEP 1: APPLICATION\n1.Submit the pre-\nassessed \ndocuments  for \npayment with \nattached \nRecommended \napproval of \nApplication for \nAdditional Line of \nBusiness and \nReceive the pre-\nassessed and \nencoded \ndocuments  for \npayment with \nattached \nRecommended \napproval of \nApplication for \nAdditional Line of \nBusiness\n1.1.  Encode of \nadditional details \nfrom the RO-\napproved \nAdditional Line of \nBusiness (after \napproval of \nRegulatory \nOffices) \napplication\n1.2. Return the \npre",
+          "bm25_raw": 12.418837181367358,
+          "dense_raw": 0.40859681367874146,
+          "fused_score": 0.7903877754388651,
+          "bm25_rank": 6,
+          "dense_rank": 83,
+          "fused_rank": 7
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0015-C004",
+          "page": "OCBO-PDF0015",
+          "text": ": 4.3 Receive plans, documents, FSEC, Zoning clearance\nPROCESSING TIME: 5 Minutes\n\nAGENCY ACTION: 4.4 Evaluate plans documents\nPROCESSING TIME: 1 Day\n\nAGENCY ACTION: 4.5 Forward to Building Inspector for initial signature\nPROCESSING TIME: 4 Hours\n\nAGENCY ACTION: 4.6 Forward to Inspection and Enforcement Chief Division (IED) for signing\nPROCESSING TIME: 4 Hours\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nCivil Engineer –\nOC",
+          "bm25_raw": 8.631837783679895,
+          "dense_raw": 0.5398868322372437,
+          "fused_score": 0.7889234252141186,
+          "bm25_rank": 42,
+          "dense_rank": 4,
+          "fused_rank": 8
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0092-C003",
+          "page": "OCBO-PDF0092",
+          "text": "FEES TO\nBE PAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\n1. Submit Request \nLetter\n1. Receive and \nEncode Request\nNone \n10 Minutes \nAdministrative Officer\nTechnical Assistant –\nOCBO\n2. Clients and/or \nauthorized \nrepresentatives \nsuch as architect or \nengineer must be \npresent on-site \nduring inspection\n2.1 Issue Notice of \nInspection\nNone \n1 Hour\nAdministrative Officer",
+          "bm25_raw": 11.761279516171115,
+          "dense_raw": 0.4123384356498718,
+          "fused_score": 0.7744140131091912,
+          "bm25_rank": 7,
+          "dense_rank": 75,
+          "fused_rank": 9
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0050-C002",
+          "page": "BB-PDF0050",
+          "text": "documents. \nClaim \nBusiness \nPermit at the \nBusiness \nBureau office \nand Sign \nLogbook\n3.1 Receive \napproved \nApplications for \nPartial Retirement \nand Complete \nAttachments / \nDocuments (claim \nstub is released to \nthe client on this \nstep)\nNone \n10 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau\n3.2 Check and \nApprove Application \nfor Partial \nRetirement\nNone \n20 Minutes \nRecords\nSection Head\nBusiness \nBureau\n3.3 Tag and Encode \nPartial Retirement\nNone \n20 Minutes \nRecords\nSection Head\nBusiness \nBureau\n3.4 Encode \nNotations and Print \nBusiness Permit\nNone \n10 Minutes EDP",
+          "bm25_raw": 11.416072151399085,
+          "dense_raw": 0.41405344009399414,
+          "fused_score": 0.765822389632378,
+          "bm25_rank": 12,
+          "dense_rank": 71,
+          "fused_rank": 10
+        }
+      ]
+    },
+    {
+      "kind": "original",
+      "query": "How long is the OCBO structural inspection and assessment?",
+      "target_page": "OCBO-PDF0015",
+      "best_target_page_rank": 8,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "targets": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0015-C001",
+          "page": "OCBO-PDF0015",
+          "text": "CLIENT STEPS: 3. During the inspection, the client and/or authorized representative, such as an architect or engineer must be present on-site\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 3. Conduct inspection and assessment\n\nINSPECTION CATEGORY: · Line & Grade\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Architectural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CAT",
+          "bm25_raw": 11.435675086367825,
+          "dense_raw": 0.5893324017524719,
+          "fused_score": 0.8053609409485667,
+          "bm25_rank": 9,
+          "dense_rank": 24,
+          "fused_rank": 13
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0015-C002",
+          "page": "OCBO-PDF0015",
+          "text": "SPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Plumbing\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Mechanical\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Electrical\nPROCESSING TIME: 2 Days\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nCivil Engineer\nCivil Engineer\nIED Chief\nPlumbing\nMechanical\nEngineer – OCBO\n\nCLIENT STEPS: 4. Wait for notification for OP and endorsement to B",
+          "bm25_raw": 11.293329577685459,
+          "dense_raw": 0.6386363506317139,
+          "fused_score": 0.8391383721415624,
+          "bm25_rank": 10,
+          "dense_rank": 10,
+          "fused_rank": 8
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0015-C003",
+          "page": "OCBO-PDF0015",
+          "text": "OCBO\n\nCLIENT STEPS: 4. Wait for notification for OP and endorsement to BFP\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 4.1 Assess application for OP\nPROCESSING TIME: 1 Day\n\nAGENCY ACTION: 4.2 Release OP (for Occupancy and Zoning), plans and documents to be endorsed with BFP\nPROCESSING TIME: 5 Minutes\n\nAGENCY ACTION: 4.3 Receive plans, documents, FSEC, Zoning clearance\nPROCESSING TIME: 5",
+          "bm25_raw": 4.581904049177902,
+          "dense_raw": 0.507317304611206,
+          "fused_score": 0.5392283616027786,
+          "bm25_rank": 441,
+          "dense_rank": 57,
+          "fused_rank": 118
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0015-C004",
+          "page": "OCBO-PDF0015",
+          "text": ": 4.3 Receive plans, documents, FSEC, Zoning clearance\nPROCESSING TIME: 5 Minutes\n\nAGENCY ACTION: 4.4 Evaluate plans documents\nPROCESSING TIME: 1 Day\n\nAGENCY ACTION: 4.5 Forward to Building Inspector for initial signature\nPROCESSING TIME: 4 Hours\n\nAGENCY ACTION: 4.6 Forward to Inspection and Enforcement Chief Division (IED) for signing\nPROCESSING TIME: 4 Hours\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nCivil Engineer –\nOC",
+          "bm25_raw": 3.719455260907071,
+          "dense_raw": 0.514150857925415,
+          "fused_score": 0.5189577382024484,
+          "bm25_rank": 629,
+          "dense_rank": 54,
+          "fused_rank": 127
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0015-C005",
+          "page": "OCBO-PDF0015",
+          "text": "SIBLE (shared source cell; no individual substep assignment):\nCivil Engineer –\nOCBO\nInformation\nSystems Operator\n– OCBO\nTechnical Assistant\non Planning and\nDevelopment,\nCivil Engineer –\nOCBO\nCivil Engineer –\nOCBO\nIED Chief – OCBO\nAdministrative\nService Officer –\nOCBO\nInformation\nSystems Officer –\nOCBO\nRecords Personnel\n– OCBO",
+          "bm25_raw": 6.615050023421595,
+          "dense_raw": 0.3678760528564453,
+          "fused_score": 0.4919787567346239,
+          "bm25_rank": 139,
+          "dense_rank": 264,
+          "fused_rank": 158
+        }
+      ],
+      "top_10": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0100-C001",
+          "page": "OCBO-PDF0100",
+          "text": "5.3 Forward to \nsignatories \nInspectors \nSanitary/ \nPlumbing \nStructural \nArchitectural \n \n \n \n5.4 Forward to \nBO for approval\n5 Days\n1 Day\nCivil Engineer\nIED Chief\nPlumbing\nMechanical Engineer –\nOCBO\nBuilding Official –\nOCBO\n6. Claim approved \nCertificate of Annual \nInspection\n6. Release \nApproved \nCertificate of \nAnnual Inspection\nNone \n4 Hours \n– OCBO\nTOTAL:\n*Please\nrefer \nbelow\n19 Days and \n30 Minutes",
+          "bm25_raw": 12.556010257188811,
+          "dense_raw": 0.7622425556182861,
+          "fused_score": 0.9717725135336439,
+          "bm25_rank": 2,
+          "dense_rank": 1,
+          "fused_rank": 1
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0007-C002",
+          "page": "OCBO-PDF0007",
+          "text": "er –\nOCBO\nPrograms Assistant –\nOCBO\nPrograms Assistant –\nOCBO\nPrograms Assistant –\nOCBO\n3. Upon inspection, \nany authorized \nrepresentative must \nbe on-site\n3.1 Conduct \nInspection \n \n \n \n \n3.2 Evaluate plans \nand documents\n Architectural\n Line & Grade\n Structural\n Sanitary &\nPlumbing\n Electrical &\nElectronics\nNone \n7 Days\n1 Day\n1 Day\n1 Day\n1 Day\n1 Day\n1 Day\nGeodetic Engineer\nTechnical Assessment 1\n– OCBO\nArchitectural\nArchitectural\nArchitectural – OCBO\nLine and Grad",
+          "bm25_raw": 11.841539868561265,
+          "dense_raw": 0.7059630155563354,
+          "fused_score": 0.9072503276235966,
+          "bm25_rank": 5,
+          "dense_rank": 2,
+          "fused_rank": 2
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0098-C001",
+          "page": "OCBO-PDF0098",
+          "text": "15. Issuance of Certificate of Annual Inspection of Buildings\nA Certificate of Annual Electrical Inspection is issued after conducting an annual inspection of a \nbuilding/structure to ensure that the architectural well-being, structural stability, electrical, \nmechanical sanitation, plumbing, electronics, interior design, and fire protective properties are \nproperly maintained and that the building/structure is not occupied or used for purposes other than \nits intended use.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHigh",
+          "bm25_raw": 13.509347571552023,
+          "dense_raw": 0.5928521752357483,
+          "fused_score": 0.8694728076004096,
+          "bm25_rank": 1,
+          "dense_rank": 23,
+          "fused_rank": 3
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0054-C001",
+          "page": "OCBO-PDF0054",
+          "text": "2.2 Encode \nPavement Permit \nApplication \n  \n  \n \n \n \n \n2.3 Forward and \nsegregate \napplication to \nProcessing & \nEvaluation’s \nInspector\n5 Minutes\n1 Day\nOCBO\nTechnical \nAssistant –\nOCBO\n3. Upon inspection, any \nauthorized representative \nmust be \n  on-site\n3.1 Conduct \nInspection \n \n \n \n \n \n \n \n \n3.2 Evaluate \nplans and \ndocuments \n·   Line & Grade \n·   Structural \n  \n \n \n \n3.3 Encode \nEvaluation Sheet\nNone \n5 Days\n1 Day\n15 Minutes\nEngineer\nTechnical\nAssessment 1 –\nOCBO\nLine and Grade\nPED Chief\nLine and Grade –\nOCBO\nPrograms Officer\nPrograms",
+          "bm25_raw": 12.0315827701067,
+          "dense_raw": 0.6398444175720215,
+          "fused_score": 0.8619283058108443,
+          "bm25_rank": 4,
+          "dense_rank": 9,
+          "fused_rank": 4
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0047-C001",
+          "page": "OCBO-PDF0047",
+          "text": "3. Upon inspection, any \nauthorized representative \nmust be on-site\n3.1 Conduct \nInspection \n  \n  \n \n \n \n \n \n \n \n3.2 Evaluate \nplans and \ndocuments \n·     Line & Grade \n·     Structural \n  \n \n \n \n \n3.3 Encode \nEvaluation Sheet \n  \n \n \n \n \n \n \n \n \n \n \n \n \n3.4 Forward \napplication to \nPED Chief\nNone \n5 Days\n1 Day\n15 Minutes\n4 Hours\nGeodetic Engineer\nTechnical\nAssessment 1 –\nOCBO\nLine and Grade,\nPED Chief\nLine and Grade –\nOCBO\nPrograms Officer\nTechnical Assistant\non Planning and\nDevelopment\nPrograms Assistant –\nOCBO\nPED Chief – OCBO\nCivil Engineer –\nOCBO",
+          "bm25_raw": 12.183922127120342,
+          "dense_raw": 0.6288835406303406,
+          "fused_score": 0.8579928153303769,
+          "bm25_rank": 3,
+          "dense_rank": 14,
+          "fused_rank": 5
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0061-C001",
+          "page": "OCBO-PDF0061",
+          "text": "3. Upon inspection, any \nauthorized representative \nmust be on-site\n3.1 Conduct \nInspection  \n \n \n \n \n \n \n \n \n \n \n3.2 Evaluate \nplans and \ndocuments \n·       Line & \nGrade \n·       Structural \n  \n  \n \n3.3 Encode \nEvaluation Sheet \n \n \n \n \n \n \n \n \n \n3.4 Forward \napplication to \nPED Chief \n  \n3.5 Generate \nAssessment and \nIssue Order of \nPayment (OP)\nNone \n5 Days\n1 Day\n15 Minutes\n4 Hours\n4 Hours\nGeodetic Engineer\nTechnical\nAssessment 1 –\nOCBO\nLine and Grade\nPED Chief\nLine and Grade –\nOCBO\nPrograms Officer\nPrograms Assistant\n– OCBO\nPED Chief – OC",
+          "bm25_raw": 11.492106645698655,
+          "dense_raw": 0.64296555519104,
+          "fused_score": 0.848359944128788,
+          "bm25_rank": 8,
+          "dense_rank": 7,
+          "fused_rank": 6
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0089-C001",
+          "page": "OCBO-PDF0089",
+          "text": "Annual Inspection \nfor approval \n \n \n \n \n \n4.4 Notify client \nthat Certificate is \nready to claim\n1 Day\n5 Minutes\nTechnical Assistant –\nOCBO\n5. Claim Approved \nCertificate of Annual \nInspection\n5. Issue \nCertificate of \nAnnual Inspection \nto client\nNone \n30 Minutes \n Technical Assistant on\nPlanning and \nDevelopment\nElectrical Engineer\nOCBO\nTOTAL: \n*Please\nrefer \nbelow\n9 Days, 2\nHours, and 50\nMinutes",
+          "bm25_raw": 10.985017233491483,
+          "dense_raw": 0.6599591970443726,
+          "fused_score": 0.8464402641863409,
+          "bm25_rank": 12,
+          "dense_rank": 5,
+          "fused_rank": 7
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0015-C002",
+          "page": "OCBO-PDF0015",
+          "text": "SPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Plumbing\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Mechanical\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Electrical\nPROCESSING TIME: 2 Days\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nCivil Engineer\nCivil Engineer\nIED Chief\nPlumbing\nMechanical\nEngineer – OCBO\n\nCLIENT STEPS: 4. Wait for notification for OP and endorsement to B",
+          "bm25_raw": 11.293329577685459,
+          "dense_raw": 0.6386363506317139,
+          "fused_score": 0.8391383721415624,
+          "bm25_rank": 10,
+          "dense_rank": 10,
+          "fused_rank": 8
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0099-C001",
+          "page": "OCBO-PDF0099",
+          "text": "2.2 Route \napplication \n \n \n \n \n2.3 Schedule for \nInspection\n1 Day\n4 Hours\nTechnical Assistant on\nPlanning and\nDevelopment – OCBO\nCivil Engineer – OCBO\n3. Clients and/or \nauthorized \nrepresentatives such \nas architect or \nengineer must be \npresent on-site during \ninspection\n3.1 Conduct \nInspection \n \n \n \n3.2 Assess \napplication \n \n \n \n3.3 Issue OP\nNone \n5 Days\n1 Day\n2 Days\nCivil Engineer\nOCBO\nCivil Engineer –\nOCBO\nCivil Engineer – OCBO\n4. Claim OP and \napproved documents \nfor payment at the City \nTreasurer’s Office\n4. Release \ndocuments and \nOP to client\nNone",
+          "bm25_raw": 11.194363005469603,
+          "dense_raw": 0.6329562664031982,
+          "fused_score": 0.8318311541680699,
+          "bm25_rank": 11,
+          "dense_rank": 13,
+          "fused_rank": 9
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0039-C001",
+          "page": "OCBO-PDF0039",
+          "text": "3. Upon inspection, any \nauthorized representative \nmust be on-site\n3.1 Conduct \nInspection \n  \n  \n \n \n \n \n \n \n \n \n3.2 Evaluate plans \nand documents \n·    Line & Grade \n·    Structural \n  \n \n \n \n \n \n \n3.3 Encode \nEvaluation Sheet \n  \n  \n \n \n \n \n \n \n \n3.4 Forward \napplication to PED \nChief \n  \n3.5 Generate \nAssessment and \nIssue Order of \nPayment (OP)\nNone \n5 Days\n1 Day\n15 Minutes\n4 Hours\n4 Hours\nGeodetic\nTechnical\nAssessment 1 –\nOCBO\nLine and Grade\nPED Chief\nLine and Grade\n– OCBO\nPrograms\nOfficer\nPrograms \nAssistant –\nOCBO\nPED Chief\nCivil Engineer –",
+          "bm25_raw": 11.492106645698655,
+          "dense_raw": 0.6146928071975708,
+          "fused_score": 0.8265738048647124,
+          "bm25_rank": 7,
+          "dense_rank": 16,
+          "fused_rank": 10
+        }
+      ]
+    },
+    {
+      "kind": "service_explicit",
+      "query": "For an occupancy permit, how long is the structural inspection and assessment?",
+      "target_page": "OCBO-PDF0015",
+      "best_target_page_rank": 2,
+      "hit_at_3": true,
+      "hit_at_5": true,
+      "targets": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0015-C001",
+          "page": "OCBO-PDF0015",
+          "text": "CLIENT STEPS: 3. During the inspection, the client and/or authorized representative, such as an architect or engineer must be present on-site\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 3. Conduct inspection and assessment\n\nINSPECTION CATEGORY: · Line & Grade\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Architectural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CAT",
+          "bm25_raw": 15.196975737464934,
+          "dense_raw": 0.6553887128829956,
+          "fused_score": 0.8963945145648949,
+          "bm25_rank": 2,
+          "dense_rank": 4,
+          "fused_rank": 2
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0015-C002",
+          "page": "OCBO-PDF0015",
+          "text": "SPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Plumbing\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Mechanical\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Electrical\nPROCESSING TIME: 2 Days\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nCivil Engineer\nCivil Engineer\nIED Chief\nPlumbing\nMechanical\nEngineer – OCBO\n\nCLIENT STEPS: 4. Wait for notification for OP and endorsement to B",
+          "bm25_raw": 11.061180463110684,
+          "dense_raw": 0.6035245060920715,
+          "fused_score": 0.7574021149546011,
+          "bm25_rank": 31,
+          "dense_rank": 18,
+          "fused_rank": 7
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0015-C003",
+          "page": "OCBO-PDF0015",
+          "text": "OCBO\n\nCLIENT STEPS: 4. Wait for notification for OP and endorsement to BFP\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 4.1 Assess application for OP\nPROCESSING TIME: 1 Day\n\nAGENCY ACTION: 4.2 Release OP (for Occupancy and Zoning), plans and documents to be endorsed with BFP\nPROCESSING TIME: 5 Minutes\n\nAGENCY ACTION: 4.3 Receive plans, documents, FSEC, Zoning clearance\nPROCESSING TIME: 5",
+          "bm25_raw": 7.867557588914391,
+          "dense_raw": 0.43612587451934814,
+          "fused_score": 0.5457075989638536,
+          "bm25_rank": 185,
+          "dense_rank": 259,
+          "fused_rank": 164
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0015-C004",
+          "page": "OCBO-PDF0015",
+          "text": ": 4.3 Receive plans, documents, FSEC, Zoning clearance\nPROCESSING TIME: 5 Minutes\n\nAGENCY ACTION: 4.4 Evaluate plans documents\nPROCESSING TIME: 1 Day\n\nAGENCY ACTION: 4.5 Forward to Building Inspector for initial signature\nPROCESSING TIME: 4 Hours\n\nAGENCY ACTION: 4.6 Forward to Inspection and Enforcement Chief Division (IED) for signing\nPROCESSING TIME: 4 Hours\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nCivil Engineer –\nOC",
+          "bm25_raw": 5.762862111845277,
+          "dense_raw": 0.5170246362686157,
+          "fused_score": 0.5629032261757467,
+          "bm25_rank": 433,
+          "dense_rank": 81,
+          "fused_rank": 133
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0015-C005",
+          "page": "OCBO-PDF0015",
+          "text": "SIBLE (shared source cell; no individual substep assignment):\nCivil Engineer –\nOCBO\nInformation\nSystems Operator\n– OCBO\nTechnical Assistant\non Planning and\nDevelopment,\nCivil Engineer –\nOCBO\nCivil Engineer –\nOCBO\nIED Chief – OCBO\nAdministrative\nService Officer –\nOCBO\nInformation\nSystems Officer –\nOCBO\nRecords Personnel\n– OCBO",
+          "bm25_raw": 1.6135912125791583,
+          "dense_raw": 0.24487099051475525,
+          "fused_score": 0.24306423257662196,
+          "bm25_rank": 986,
+          "dense_rank": 927,
+          "fused_rank": 989
+        }
+      ],
+      "top_10": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0098-C001",
+          "page": "OCBO-PDF0098",
+          "text": "15. Issuance of Certificate of Annual Inspection of Buildings\nA Certificate of Annual Electrical Inspection is issued after conducting an annual inspection of a \nbuilding/structure to ensure that the architectural well-being, structural stability, electrical, \nmechanical sanitation, plumbing, electronics, interior design, and fire protective properties are \nproperly maintained and that the building/structure is not occupied or used for purposes other than \nits intended use.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHigh",
+          "bm25_raw": 17.145235645693504,
+          "dense_raw": 0.6132444143295288,
+          "fused_score": 0.9073093946284825,
+          "bm25_rank": 1,
+          "dense_rank": 15,
+          "fused_rank": 1
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0015-C001",
+          "page": "OCBO-PDF0015",
+          "text": "CLIENT STEPS: 3. During the inspection, the client and/or authorized representative, such as an architect or engineer must be present on-site\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 3. Conduct inspection and assessment\n\nINSPECTION CATEGORY: · Line & Grade\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Architectural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CAT",
+          "bm25_raw": 15.196975737464934,
+          "dense_raw": 0.6553887128829956,
+          "fused_score": 0.8963945145648949,
+          "bm25_rank": 2,
+          "dense_rank": 4,
+          "fused_rank": 2
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0100-C001",
+          "page": "OCBO-PDF0100",
+          "text": "5.3 Forward to \nsignatories \nInspectors \nSanitary/ \nPlumbing \nStructural \nArchitectural \n \n \n \n5.4 Forward to \nBO for approval\n5 Days\n1 Day\nCivil Engineer\nIED Chief\nPlumbing\nMechanical Engineer –\nOCBO\nBuilding Official –\nOCBO\n6. Claim approved \nCertificate of Annual \nInspection\n6. Release \nApproved \nCertificate of \nAnnual Inspection\nNone \n4 Hours \n– OCBO\nTOTAL:\n*Please\nrefer \nbelow\n19 Days and \n30 Minutes",
+          "bm25_raw": 10.138580486454629,
+          "dense_raw": 0.7263475656509399,
+          "fused_score": 0.8365340598628916,
+          "bm25_rank": 55,
+          "dense_rank": 1,
+          "fused_rank": 3
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0092-C001",
+          "page": "OCBO-PDF0092",
+          "text": "14. Issuance of Certificate of Annual Mechanical Inspection\nA Certificate of Annual Mechanical Inspection is issued after conducting an annual inspection of a \nbuilding/structure to ensure that mechanical systems coincide with the approved plans and conform \nwith the safety standards and other provisions of the Code and its Revised Implementing Rules and \nRegulations\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; G2G – \nGovernment",
+          "bm25_raw": 12.164280985311258,
+          "dense_raw": 0.5989404916763306,
+          "fused_score": 0.7793808523591652,
+          "bm25_rank": 14,
+          "dense_rank": 21,
+          "fused_rank": 4
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0042-C001",
+          "page": "OCBO-PDF0042",
+          "text": "EXCAVATION PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\nWhile the application for Building Permit is still being processed, the Building Official \nmay issue Ground Preparation and Excavation Permit (GP&EP) for foundation, subject \nto the verification, inspection and review by the Line and Grade Section of the \nInspection and Enforcement Division",
+          "bm25_raw": 12.568915802747892,
+          "dense_raw": 0.5844182968139648,
+          "fused_score": 0.7769197526072541,
+          "bm25_rank": 10,
+          "dense_rank": 26,
+          "fused_rank": 5
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0051-C002",
+          "page": "OCBO-PDF0051",
+          "text": "CHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1.     Sidewalk Enclosure and Occupancy Permit Form \nwith 3 sets of Civil/Architectural Plans of the fence duly \nsigned and sealed by a licensed Civil \nEngineer/Architect  \n  \nNote: Applicant may use an A3 size of paper for the \nstructural design plan signed and sealed by a licensed \nCivil/Structural Engineer\nHired Professionals (All Engineers & \nArchitects)\n2. Sketch/Lot Plan with Vicin",
+          "bm25_raw": 15.01812522623693,
+          "dense_raw": 0.5032811164855957,
+          "fused_score": 0.7675662795190434,
+          "bm25_rank": 3,
+          "dense_rank": 97,
+          "fused_rank": 6
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0015-C002",
+          "page": "OCBO-PDF0015",
+          "text": "SPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Plumbing\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Mechanical\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Electrical\nPROCESSING TIME: 2 Days\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nCivil Engineer\nCivil Engineer\nIED Chief\nPlumbing\nMechanical\nEngineer – OCBO\n\nCLIENT STEPS: 4. Wait for notification for OP and endorsement to B",
+          "bm25_raw": 11.061180463110684,
+          "dense_raw": 0.6035245060920715,
+          "fused_score": 0.7574021149546011,
+          "bm25_rank": 31,
+          "dense_rank": 18,
+          "fused_rank": 7
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0082-C002",
+          "page": "BB-PDF0082",
+          "text": "Payment for the \nViolation\nNone \n(If applicable. May\nbe done during\ninspection)\n6.6 Receive Order \nof Payment and \npayment and issue \nOfficial Receipt for \nviolation\nDepending\non the\nViolation\n10 Minutes (as the\ncase may be)\nLocal Revenue \nCollection Officer\n- City\nTreasurer’s\nOffice\n7. Receive the \nresult of \ninspection.\n7. Furnish \ncomplainant the \nresult of inspection \nas per request (for \ncomplaint).\nNone \n4 Hours from ocular \ninspection if request \nby the complainant\nLicensing Officer\nwith massive\ninspectors\nTOTAL: \nICAB",
+          "bm25_raw": 9.695285484075283,
+          "dense_raw": 0.617128849029541,
+          "fused_score": 0.7366847219624939,
+          "bm25_rank": 78,
+          "dense_rank": 14,
+          "fused_rank": 8
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0099-C001",
+          "page": "OCBO-PDF0099",
+          "text": "2.2 Route \napplication \n \n \n \n \n2.3 Schedule for \nInspection\n1 Day\n4 Hours\nTechnical Assistant on\nPlanning and\nDevelopment – OCBO\nCivil Engineer – OCBO\n3. Clients and/or \nauthorized \nrepresentatives such \nas architect or \nengineer must be \npresent on-site during \ninspection\n3.1 Conduct \nInspection \n \n \n \n3.2 Assess \napplication \n \n \n \n3.3 Issue OP\nNone \n5 Days\n1 Day\n2 Days\nCivil Engineer\nOCBO\nCivil Engineer –\nOCBO\nCivil Engineer – OCBO\n4. Claim OP and \napproved documents \nfor payment at the City \nTreasurer’s Office\n4. Release \ndocuments and \nOP to client\nNone",
+          "bm25_raw": 8.869700013532086,
+          "dense_raw": 0.6354509592056274,
+          "fused_score": 0.7324391194478057,
+          "bm25_rank": 127,
+          "dense_rank": 10,
+          "fused_rank": 9
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0089-C001",
+          "page": "OCBO-PDF0089",
+          "text": "Annual Inspection \nfor approval \n \n \n \n \n \n4.4 Notify client \nthat Certificate is \nready to claim\n1 Day\n5 Minutes\nTechnical Assistant –\nOCBO\n5. Claim Approved \nCertificate of Annual \nInspection\n5. Issue \nCertificate of \nAnnual Inspection \nto client\nNone \n30 Minutes \n Technical Assistant on\nPlanning and \nDevelopment\nElectrical Engineer\nOCBO\nTOTAL: \n*Please\nrefer \nbelow\n9 Days, 2\nHours, and 50\nMinutes",
+          "bm25_raw": 9.106944941695156,
+          "dense_raw": 0.6255805492401123,
+          "fused_score": 0.7298850409882959,
+          "bm25_rank": 113,
+          "dense_rank": 12,
+          "fused_rank": 10
+        }
+      ]
+    },
+    {
+      "kind": "action_literal",
+      "query": "Structural inspection category processing time",
+      "target_page": "OCBO-PDF0015",
+      "best_target_page_rank": 1,
+      "hit_at_3": true,
+      "hit_at_5": true,
+      "targets": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0015-C001",
+          "page": "OCBO-PDF0015",
+          "text": "CLIENT STEPS: 3. During the inspection, the client and/or authorized representative, such as an architect or engineer must be present on-site\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 3. Conduct inspection and assessment\n\nINSPECTION CATEGORY: · Line & Grade\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Architectural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CAT",
+          "bm25_raw": 11.093987619920437,
+          "dense_raw": 0.6848857402801514,
+          "fused_score": 0.9632382034147017,
+          "bm25_rank": 1,
+          "dense_rank": 2,
+          "fused_rank": 2
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0015-C002",
+          "page": "OCBO-PDF0015",
+          "text": "SPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Plumbing\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Mechanical\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Electrical\nPROCESSING TIME: 2 Days\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nCivil Engineer\nCivil Engineer\nIED Chief\nPlumbing\nMechanical\nEngineer – OCBO\n\nCLIENT STEPS: 4. Wait for notification for OP and endorsement to B",
+          "bm25_raw": 10.974677260232694,
+          "dense_raw": 0.7315070033073425,
+          "fused_score": 0.9956981974822647,
+          "bm25_rank": 2,
+          "dense_rank": 1,
+          "fused_rank": 1
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0015-C003",
+          "page": "OCBO-PDF0015",
+          "text": "OCBO\n\nCLIENT STEPS: 4. Wait for notification for OP and endorsement to BFP\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 4.1 Assess application for OP\nPROCESSING TIME: 1 Day\n\nAGENCY ACTION: 4.2 Release OP (for Occupancy and Zoning), plans and documents to be endorsed with BFP\nPROCESSING TIME: 5 Minutes\n\nAGENCY ACTION: 4.3 Receive plans, documents, FSEC, Zoning clearance\nPROCESSING TIME: 5",
+          "bm25_raw": 3.0715156630967844,
+          "dense_raw": 0.35627418756484985,
+          "fused_score": 0.41486666903665226,
+          "bm25_rank": 153,
+          "dense_rank": 252,
+          "fused_rank": 144
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0015-C004",
+          "page": "OCBO-PDF0015",
+          "text": ": 4.3 Receive plans, documents, FSEC, Zoning clearance\nPROCESSING TIME: 5 Minutes\n\nAGENCY ACTION: 4.4 Evaluate plans documents\nPROCESSING TIME: 1 Day\n\nAGENCY ACTION: 4.5 Forward to Building Inspector for initial signature\nPROCESSING TIME: 4 Hours\n\nAGENCY ACTION: 4.6 Forward to Inspection and Enforcement Chief Division (IED) for signing\nPROCESSING TIME: 4 Hours\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nCivil Engineer –\nOC",
+          "bm25_raw": 5.6952839266572335,
+          "dense_raw": 0.5908980369567871,
+          "fused_score": 0.6944737071435753,
+          "bm25_rank": 15,
+          "dense_rank": 9,
+          "fused_rank": 7
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0015-C005",
+          "page": "OCBO-PDF0015",
+          "text": "SIBLE (shared source cell; no individual substep assignment):\nCivil Engineer –\nOCBO\nInformation\nSystems Operator\n– OCBO\nTechnical Assistant\non Planning and\nDevelopment,\nCivil Engineer –\nOCBO\nCivil Engineer –\nOCBO\nIED Chief – OCBO\nAdministrative\nService Officer –\nOCBO\nInformation\nSystems Officer –\nOCBO\nRecords Personnel\n– OCBO",
+          "bm25_raw": 0.0,
+          "dense_raw": 0.24278178811073303,
+          "fused_score": 0.21463041152091306,
+          "bm25_rank": 659,
+          "dense_rank": 682,
+          "fused_rank": 708
+        }
+      ],
+      "top_10": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0015-C002",
+          "page": "OCBO-PDF0015",
+          "text": "SPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Plumbing\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Mechanical\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Electrical\nPROCESSING TIME: 2 Days\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nCivil Engineer\nCivil Engineer\nIED Chief\nPlumbing\nMechanical\nEngineer – OCBO\n\nCLIENT STEPS: 4. Wait for notification for OP and endorsement to B",
+          "bm25_raw": 10.974677260232694,
+          "dense_raw": 0.7315070033073425,
+          "fused_score": 0.9956981974822647,
+          "bm25_rank": 2,
+          "dense_rank": 1,
+          "fused_rank": 1
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0015-C001",
+          "page": "OCBO-PDF0015",
+          "text": "CLIENT STEPS: 3. During the inspection, the client and/or authorized representative, such as an architect or engineer must be present on-site\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 3. Conduct inspection and assessment\n\nINSPECTION CATEGORY: · Line & Grade\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Architectural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CAT",
+          "bm25_raw": 11.093987619920437,
+          "dense_raw": 0.6848857402801514,
+          "fused_score": 0.9632382034147017,
+          "bm25_rank": 1,
+          "dense_rank": 2,
+          "fused_rank": 2
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0100-C001",
+          "page": "OCBO-PDF0100",
+          "text": "5.3 Forward to \nsignatories \nInspectors \nSanitary/ \nPlumbing \nStructural \nArchitectural \n \n \n \n5.4 Forward to \nBO for approval\n5 Days\n1 Day\nCivil Engineer\nIED Chief\nPlumbing\nMechanical Engineer –\nOCBO\nBuilding Official –\nOCBO\n6. Claim approved \nCertificate of Annual \nInspection\n6. Release \nApproved \nCertificate of \nAnnual Inspection\nNone \n4 Hours \n– OCBO\nTOTAL:\n*Please\nrefer \nbelow\n19 Days and \n30 Minutes",
+          "bm25_raw": 7.170596109878971,
+          "dense_raw": 0.5937265157699585,
+          "fused_score": 0.7498972345679452,
+          "bm25_rank": 10,
+          "dense_rank": 8,
+          "fused_rank": 3
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0068-C001",
+          "page": "OCBO-PDF0068",
+          "text": "2.2 Encode \nDemolition Permit \nApplication  \n  \n \n \n \n \n2.3 Forward and \nsegregate \napplication to \nProcessing & \nEvaluation \nDivision (PED) \nInspector\n5 Minutes\n1 Day\nTechnical Assistant\n– OCBO\n3. Upon inspection, any \nauthorized representative \nmust be on-site\n3.1 Conduct \nInspection \n  \n  \n \n \n \n \n \n \n \n \n3.2 Evaluate \nplans and \ndocuments \n·       Line & \nGrade \n·       Structural\nNone \n5 Days\n1 Day\nGeodetic Engineer\nTechnical\nAssessment 1 –\nOCBO\nLine and Grade,\nPED Chief, Engr.\nLine and Grade –\nOCBO\nPrograms Officer,\nProgram",
+          "bm25_raw": 7.341253420687202,
+          "dense_raw": 0.5826097726821899,
+          "fused_score": 0.7472846066121843,
+          "bm25_rank": 7,
+          "dense_rank": 11,
+          "fused_rank": 4
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0054-C001",
+          "page": "OCBO-PDF0054",
+          "text": "2.2 Encode \nPavement Permit \nApplication \n  \n  \n \n \n \n \n2.3 Forward and \nsegregate \napplication to \nProcessing & \nEvaluation’s \nInspector\n5 Minutes\n1 Day\nOCBO\nTechnical \nAssistant –\nOCBO\n3. Upon inspection, any \nauthorized representative \nmust be \n  on-site\n3.1 Conduct \nInspection \n \n \n \n \n \n \n \n \n3.2 Evaluate \nplans and \ndocuments \n·   Line & Grade \n·   Structural \n  \n \n \n \n3.3 Encode \nEvaluation Sheet\nNone \n5 Days\n1 Day\n15 Minutes\nEngineer\nTechnical\nAssessment 1 –\nOCBO\nLine and Grade\nPED Chief\nLine and Grade –\nOCBO\nPrograms Officer\nPrograms",
+          "bm25_raw": 7.198202117533756,
+          "dense_raw": 0.5804314613342285,
+          "fused_score": 0.7404091689635419,
+          "bm25_rank": 9,
+          "dense_rank": 12,
+          "fused_rank": 5
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0098-C001",
+          "page": "OCBO-PDF0098",
+          "text": "15. Issuance of Certificate of Annual Inspection of Buildings\nA Certificate of Annual Electrical Inspection is issued after conducting an annual inspection of a \nbuilding/structure to ensure that the architectural well-being, structural stability, electrical, \nmechanical sanitation, plumbing, electronics, interior design, and fire protective properties are \nproperly maintained and that the building/structure is not occupied or used for purposes other than \nits intended use.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHigh",
+          "bm25_raw": 7.201659336307634,
+          "dense_raw": 0.5425816774368286,
+          "fused_score": 0.7106885107536751,
+          "bm25_rank": 8,
+          "dense_rank": 19,
+          "fused_rank": 6
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0015-C004",
+          "page": "OCBO-PDF0015",
+          "text": ": 4.3 Receive plans, documents, FSEC, Zoning clearance\nPROCESSING TIME: 5 Minutes\n\nAGENCY ACTION: 4.4 Evaluate plans documents\nPROCESSING TIME: 1 Day\n\nAGENCY ACTION: 4.5 Forward to Building Inspector for initial signature\nPROCESSING TIME: 4 Hours\n\nAGENCY ACTION: 4.6 Forward to Inspection and Enforcement Chief Division (IED) for signing\nPROCESSING TIME: 4 Hours\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nCivil Engineer –\nOC",
+          "bm25_raw": 5.6952839266572335,
+          "dense_raw": 0.5908980369567871,
+          "fused_score": 0.6944737071435753,
+          "bm25_rank": 15,
+          "dense_rank": 9,
+          "fused_rank": 7
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0039-C001",
+          "page": "OCBO-PDF0039",
+          "text": "3. Upon inspection, any \nauthorized representative \nmust be on-site\n3.1 Conduct \nInspection \n  \n  \n \n \n \n \n \n \n \n \n3.2 Evaluate plans \nand documents \n·    Line & Grade \n·    Structural \n  \n \n \n \n \n \n \n3.3 Encode \nEvaluation Sheet \n  \n  \n \n \n \n \n \n \n \n3.4 Forward \napplication to PED \nChief \n  \n3.5 Generate \nAssessment and \nIssue Order of \nPayment (OP)\nNone \n5 Days\n1 Day\n15 Minutes\n4 Hours\n4 Hours\nGeodetic\nTechnical\nAssessment 1 –\nOCBO\nLine and Grade\nPED Chief\nLine and Grade\n– OCBO\nPrograms\nOfficer\nPrograms \nAssistant –\nOCBO\nPED Chief\nCivil Engineer –",
+          "bm25_raw": 5.378360096315377,
+          "dense_raw": 0.6017999649047852,
+          "fused_score": 0.6916432269620466,
+          "bm25_rank": 19,
+          "dense_rank": 5,
+          "fused_rank": 8
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0047-C001",
+          "page": "OCBO-PDF0047",
+          "text": "3. Upon inspection, any \nauthorized representative \nmust be on-site\n3.1 Conduct \nInspection \n  \n  \n \n \n \n \n \n \n \n3.2 Evaluate \nplans and \ndocuments \n·     Line & Grade \n·     Structural \n  \n \n \n \n \n3.3 Encode \nEvaluation Sheet \n  \n \n \n \n \n \n \n \n \n \n \n \n \n3.4 Forward \napplication to \nPED Chief\nNone \n5 Days\n1 Day\n15 Minutes\n4 Hours\nGeodetic Engineer\nTechnical\nAssessment 1 –\nOCBO\nLine and Grade,\nPED Chief\nLine and Grade –\nOCBO\nPrograms Officer\nTechnical Assistant\non Planning and\nDevelopment\nPrograms Assistant –\nOCBO\nPED Chief – OCBO\nCivil Engineer –\nOCBO",
+          "bm25_raw": 5.412846252736233,
+          "dense_raw": 0.595474123954773,
+          "fused_score": 0.6878985929719272,
+          "bm25_rank": 17,
+          "dense_rank": 7,
+          "fused_rank": 9
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0061-C001",
+          "page": "OCBO-PDF0061",
+          "text": "3. Upon inspection, any \nauthorized representative \nmust be on-site\n3.1 Conduct \nInspection  \n \n \n \n \n \n \n \n \n \n \n3.2 Evaluate \nplans and \ndocuments \n·       Line & \nGrade \n·       Structural \n  \n  \n \n3.3 Encode \nEvaluation Sheet \n \n \n \n \n \n \n \n \n \n3.4 Forward \napplication to \nPED Chief \n  \n3.5 Generate \nAssessment and \nIssue Order of \nPayment (OP)\nNone \n5 Days\n1 Day\n15 Minutes\n4 Hours\n4 Hours\nGeodetic Engineer\nTechnical\nAssessment 1 –\nOCBO\nLine and Grade\nPED Chief\nLine and Grade –\nOCBO\nPrograms Officer\nPrograms Assistant\n– OCBO\nPED Chief – OC",
+          "bm25_raw": 5.378360096315377,
+          "dense_raw": 0.5970505475997925,
+          "fused_score": 0.6878982166056562,
+          "bm25_rank": 20,
+          "dense_rank": 6,
+          "fused_rank": 10
+        }
+      ]
+    }
+  ],
+  "corpus_or_app_modified": false,
+  "benchmarks_accessed": false,
+  "limitations": "Expected-page hits are diagnostic, not answer accuracy. Original questions omit permit type; competing official services may also match."
+}

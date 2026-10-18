@@ -1,0 +1,1377 @@
+﻿{
+    "status":  "RAW_OCR_REQUIRES_VISUAL_REVIEW",
+    "lines":  [
+                  {
+                      "text":  "Know your product",
+                      "words":  [
+                                    {
+                                        "y":  41,
+                                        "height":  68,
+                                        "width":  271,
+                                        "text":  "Know",
+                                        "x":  407
+                                    },
+                                    {
+                                        "y":  58,
+                                        "height":  68,
+                                        "width":  222,
+                                        "text":  "your",
+                                        "x":  710
+                                    },
+                                    {
+                                        "y":  41,
+                                        "height":  84,
+                                        "width":  370,
+                                        "text":  "product",
+                                        "x":  967
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Every fire extinguisher type has different color bands",
+                      "words":  [
+                                    {
+                                        "y":  130,
+                                        "height":  54,
+                                        "width":  171,
+                                        "text":  "Every",
+                                        "x":  40
+                                    },
+                                    {
+                                        "y":  129,
+                                        "height":  44,
+                                        "width":  93,
+                                        "text":  "fire",
+                                        "x":  236
+                                    },
+                                    {
+                                        "y":  130,
+                                        "height":  54,
+                                        "width":  376,
+                                        "text":  "extinguisher",
+                                        "x":  353
+                                    },
+                                    {
+                                        "y":  131,
+                                        "height":  53,
+                                        "width":  130,
+                                        "text":  "type",
+                                        "x":  749
+                                    },
+                                    {
+                                        "y":  130,
+                                        "height":  43,
+                                        "width":  107,
+                                        "text":  "has",
+                                        "x":  907
+                                    },
+                                    {
+                                        "y":  129,
+                                        "height":  44,
+                                        "width":  249,
+                                        "text":  "different",
+                                        "x":  1038
+                                    },
+                                    {
+                                        "y":  130,
+                                        "height":  43,
+                                        "width":  150,
+                                        "text":  "color",
+                                        "x":  1311
+                                    },
+                                    {
+                                        "y":  130,
+                                        "height":  43,
+                                        "width":  185,
+                                        "text":  "bands",
+                                        "x":  1484
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "to distinguish",
+                      "words":  [
+                                    {
+                                        "y":  188,
+                                        "height":  42,
+                                        "width":  56,
+                                        "text":  "to",
+                                        "x":  34
+                                    },
+                                    {
+                                        "y":  187,
+                                        "height":  54,
+                                        "width":  323,
+                                        "text":  "distinguish",
+                                        "x":  197
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "intended",
+                      "words":  [
+                                    {
+                                        "y":  244,
+                                        "height":  43,
+                                        "width":  259,
+                                        "text":  "intended",
+                                        "x":  38
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "materials",
+                      "words":  [
+                                    {
+                                        "y":  302,
+                                        "height":  43,
+                                        "width":  277,
+                                        "text":  "materials",
+                                        "x":  37
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "INSTRUCTIONS",
+                      "words":  [
+                                    {
+                                        "y":  542,
+                                        "height":  9,
+                                        "width":  85,
+                                        "text":  "INSTRUCTIONS",
+                                        "x":  188
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "cd",
+                      "words":  [
+                                    {
+                                        "y":  839,
+                                        "height":  33,
+                                        "width":  37,
+                                        "text":  "cd",
+                                        "x":  213
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "CLASS A FIRES",
+                      "words":  [
+                                    {
+                                        "y":  1397,
+                                        "height":  19,
+                                        "width":  90,
+                                        "text":  "CLASS",
+                                        "x":  96
+                                    },
+                                    {
+                                        "y":  1397,
+                                        "height":  19,
+                                        "width":  15,
+                                        "text":  "A",
+                                        "x":  209
+                                    },
+                                    {
+                                        "y":  1397,
+                                        "height":  20,
+                                        "width":  88,
+                                        "text":  "FIRES",
+                                        "x":  249
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Ordinary Combustibles:",
+                      "words":  [
+                                    {
+                                        "y":  1447,
+                                        "height":  21,
+                                        "width":  100,
+                                        "text":  "Ordinary",
+                                        "x":  82
+                                    },
+                                    {
+                                        "y":  1447,
+                                        "height":  17,
+                                        "width":  161,
+                                        "text":  "Combustibles:",
+                                        "x":  187
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "paper",
+                      "words":  [
+                                    {
+                                        "y":  1515,
+                                        "height":  17,
+                                        "width":  63,
+                                        "text":  "paper",
+                                        "x":  184
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "rubber",
+                      "words":  [
+                                    {
+                                        "y":  1531,
+                                        "height":  17,
+                                        "width":  75,
+                                        "text":  "rubber",
+                                        "x":  178
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "fabrics",
+                      "words":  [
+                                    {
+                                        "y":  1552,
+                                        "height":  17,
+                                        "width":  73,
+                                        "text":  "fabrics",
+                                        "x":  178
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "many plastics",
+                      "words":  [
+                                    {
+                                        "y":  1577,
+                                        "height":  16,
+                                        "width":  60,
+                                        "text":  "many",
+                                        "x":  143
+                                    },
+                                    {
+                                        "y":  1572,
+                                        "height":  22,
+                                        "width":  79,
+                                        "text":  "plastics",
+                                        "x":  209
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "CLASS B FIRES",
+                      "words":  [
+                                    {
+                                        "y":  1749,
+                                        "height":  20,
+                                        "width":  86,
+                                        "text":  "CLASS",
+                                        "x":  105
+                                    },
+                                    {
+                                        "y":  1749,
+                                        "height":  20,
+                                        "width":  15,
+                                        "text":  "B",
+                                        "x":  213
+                                    },
+                                    {
+                                        "y":  1749,
+                                        "height":  20,
+                                        "width":  84,
+                                        "text":  "FIRES",
+                                        "x":  252
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Flamable Liquids:",
+                      "words":  [
+                                    {
+                                        "y":  1801,
+                                        "height":  18,
+                                        "width":  98,
+                                        "text":  "Flamable",
+                                        "x":  126
+                                    },
+                                    {
+                                        "y":  1801,
+                                        "height":  23,
+                                        "width":  85,
+                                        "text":  "Liquids:",
+                                        "x":  229
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "gasoline",
+                      "words":  [
+                                    {
+                                        "y":  1843,
+                                        "height":  21,
+                                        "width":  87,
+                                        "text":  "gasoline",
+                                        "x":  175
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Oils",
+                      "words":  [
+                                    {
+                                        "y":  1864,
+                                        "height":  17,
+                                        "width":  37,
+                                        "text":  "Oils",
+                                        "x":  200
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "paint",
+                      "words":  [
+                                    {
+                                        "y":  1885,
+                                        "height":  22,
+                                        "width":  55,
+                                        "text":  "paint",
+                                        "x":  192
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "lacquers",
+                      "words":  [
+                                    {
+                                        "y":  1905,
+                                        "height":  22,
+                                        "width":  88,
+                                        "text":  "lacquers",
+                                        "x":  175
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "CLASS C FIRES",
+                      "words":  [
+                                    {
+                                        "y":  2107,
+                                        "height":  20,
+                                        "width":  85,
+                                        "text":  "CLASS",
+                                        "x":  106
+                                    },
+                                    {
+                                        "y":  2108,
+                                        "height":  19,
+                                        "width":  14,
+                                        "text":  "C",
+                                        "x":  214
+                                    },
+                                    {
+                                        "y":  2108,
+                                        "height":  19,
+                                        "width":  84,
+                                        "text":  "FIRES",
+                                        "x":  252
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Electrical Equipment:",
+                      "words":  [
+                                    {
+                                        "y":  2161,
+                                        "height":  17,
+                                        "width":  96,
+                                        "text":  "Electrical",
+                                        "x":  108
+                                    },
+                                    {
+                                        "y":  2161,
+                                        "height":  23,
+                                        "width":  124,
+                                        "text":  "Equipment:",
+                                        "x":  209
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "wiring",
+                      "words":  [
+                                    {
+                                        "y":  2203,
+                                        "height":  20,
+                                        "width":  66,
+                                        "text":  "wiring",
+                                        "x":  186
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "fuse boxes",
+                      "words":  [
+                                    {
+                                        "y":  2224,
+                                        "height":  17,
+                                        "width":  43,
+                                        "text":  "fuse",
+                                        "x":  166
+                                    },
+                                    {
+                                        "y":  2224,
+                                        "height":  17,
+                                        "width":  61,
+                                        "text":  "boxes",
+                                        "x":  214
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "circuit breakers",
+                      "words":  [
+                                    {
+                                        "y":  2244,
+                                        "height":  18,
+                                        "width":  63,
+                                        "text":  "circuit",
+                                        "x":  141
+                                    },
+                                    {
+                                        "y":  2245,
+                                        "height":  17,
+                                        "width":  88,
+                                        "text":  "breakers",
+                                        "x":  211
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "appliances",
+                      "words":  [
+                                    {
+                                        "y":  2266,
+                                        "height":  21,
+                                        "width":  110,
+                                        "text":  "appliances",
+                                        "x":  165
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "for",
+                      "words":  [
+                                    {
+                                        "y":  244,
+                                        "height":  43,
+                                        "width":  80,
+                                        "text":  "for",
+                                        "x":  412
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "that",
+                      "words":  [
+                                    {
+                                        "y":  302,
+                                        "height":  43,
+                                        "width":  116,
+                                        "text":  "that",
+                                        "x":  424
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "their",
+                      "words":  [
+                                    {
+                                        "y":  187,
+                                        "height":  43,
+                                        "width":  136,
+                                        "text":  "their",
+                                        "x":  629
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "use",
+                      "words":  [
+                                    {
+                                        "y":  255,
+                                        "height":  32,
+                                        "width":  106,
+                                        "text":  "use",
+                                        "x":  604
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "are",
+                      "words":  [
+                                    {
+                                        "y":  312,
+                                        "height":  33,
+                                        "width":  97,
+                                        "text":  "are",
+                                        "x":  648
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "type. Each type is",
+                      "words":  [
+                                    {
+                                        "y":  189,
+                                        "height":  52,
+                                        "width":  143,
+                                        "text":  "type.",
+                                        "x":  868
+                                    },
+                                    {
+                                        "y":  187,
+                                        "height":  43,
+                                        "width":  150,
+                                        "text":  "Each",
+                                        "x":  1127
+                                    },
+                                    {
+                                        "y":  188,
+                                        "height":  53,
+                                        "width":  129,
+                                        "text":  "type",
+                                        "x":  1386
+                                    },
+                                    {
+                                        "y":  187,
+                                        "height":  43,
+                                        "width":  43,
+                                        "text":  "is",
+                                        "x":  1626
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "for specific flammable",
+                      "words":  [
+                                    {
+                                        "y":  244,
+                                        "height":  43,
+                                        "width":  81,
+                                        "text":  "for",
+                                        "x":  822
+                                    },
+                                    {
+                                        "y":  244,
+                                        "height":  54,
+                                        "width":  231,
+                                        "text":  "specific",
+                                        "x":  1011
+                                    },
+                                    {
+                                        "y":  244,
+                                        "height":  43,
+                                        "width":  318,
+                                        "text":  "flammable",
+                                        "x":  1351
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "C02",
+                      "words":  [
+                                    {
+                                        "y":  571,
+                                        "height":  24,
+                                        "width":  55,
+                                        "text":  "C02",
+                                        "x":  578
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "ggz",
+                      "words":  [
+                                    {
+                                        "y":  681,
+                                        "height":  25,
+                                        "width":  52,
+                                        "text":  "ggz",
+                                        "x":  573
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "CLASS B FIRES",
+                      "words":  [
+                                    {
+                                        "y":  1754,
+                                        "height":  20,
+                                        "width":  86,
+                                        "text":  "CLASS",
+                                        "x":  509
+                                    },
+                                    {
+                                        "y":  1754,
+                                        "height":  20,
+                                        "width":  15,
+                                        "text":  "B",
+                                        "x":  617
+                                    },
+                                    {
+                                        "y":  1754,
+                                        "height":  20,
+                                        "width":  84,
+                                        "text":  "FIRES",
+                                        "x":  655
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Flamable Liquids:",
+                      "words":  [
+                                    {
+                                        "y":  1806,
+                                        "height":  17,
+                                        "width":  98,
+                                        "text":  "Flamable",
+                                        "x":  530
+                                    },
+                                    {
+                                        "y":  1806,
+                                        "height":  23,
+                                        "width":  84,
+                                        "text":  "Liquids:",
+                                        "x":  633
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "gasoline",
+                      "words":  [
+                                    {
+                                        "y":  1848,
+                                        "height":  21,
+                                        "width":  87,
+                                        "text":  "gasoline",
+                                        "x":  579
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "oils",
+                      "words":  [
+                                    {
+                                        "y":  1869,
+                                        "height":  17,
+                                        "width":  37,
+                                        "text":  "oils",
+                                        "x":  604
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "paint",
+                      "words":  [
+                                    {
+                                        "y":  1890,
+                                        "height":  22,
+                                        "width":  53,
+                                        "text":  "paint",
+                                        "x":  596
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "lacquers",
+                      "words":  [
+                                    {
+                                        "y":  1910,
+                                        "height":  22,
+                                        "width":  87,
+                                        "text":  "lacquers",
+                                        "x":  579
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "tar",
+                      "words":  [
+                                    {
+                                        "y":  1934,
+                                        "height":  14,
+                                        "width":  29,
+                                        "text":  "tar",
+                                        "x":  608
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "CLASS C FIRES",
+                      "words":  [
+                                    {
+                                        "y":  2111,
+                                        "height":  19,
+                                        "width":  85,
+                                        "text":  "CLASS",
+                                        "x":  510
+                                    },
+                                    {
+                                        "y":  2111,
+                                        "height":  19,
+                                        "width":  14,
+                                        "text":  "C",
+                                        "x":  618
+                                    },
+                                    {
+                                        "y":  2111,
+                                        "height":  19,
+                                        "width":  84,
+                                        "text":  "FIRES",
+                                        "x":  655
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Electrical Equipment:",
+                      "words":  [
+                                    {
+                                        "y":  2164,
+                                        "height":  17,
+                                        "width":  96,
+                                        "text":  "Electrical",
+                                        "x":  512
+                                    },
+                                    {
+                                        "y":  2164,
+                                        "height":  23,
+                                        "width":  124,
+                                        "text":  "Equipment:",
+                                        "x":  613
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "wiring",
+                      "words":  [
+                                    {
+                                        "y":  2206,
+                                        "height":  21,
+                                        "width":  67,
+                                        "text":  "wiring",
+                                        "x":  589
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "fuse boxes",
+                      "words":  [
+                                    {
+                                        "y":  2227,
+                                        "height":  17,
+                                        "width":  42,
+                                        "text":  "fuse",
+                                        "x":  570
+                                    },
+                                    {
+                                        "y":  2227,
+                                        "height":  17,
+                                        "width":  61,
+                                        "text":  "boxes",
+                                        "x":  618
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "circuit breakers",
+                      "words":  [
+                                    {
+                                        "y":  2248,
+                                        "height":  17,
+                                        "width":  63,
+                                        "text":  "circuit",
+                                        "x":  545
+                                    },
+                                    {
+                                        "y":  2248,
+                                        "height":  17,
+                                        "width":  88,
+                                        "text":  "breakers",
+                                        "x":  615
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "appliances",
+                      "words":  [
+                                    {
+                                        "y":  2269,
+                                        "height":  22,
+                                        "width":  110,
+                                        "text":  "appliances",
+                                        "x":  569
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "classified",
+                      "words":  [
+                                    {
+                                        "y":  301,
+                                        "height":  44,
+                                        "width":  279,
+                                        "text":  "classified",
+                                        "x":  857
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "FOAM",
+                      "words":  [
+                                    {
+                                        "y":  525,
+                                        "height":  16,
+                                        "width":  71,
+                                        "text":  "FOAM",
+                                        "x":  1018
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "CLASS A FIRES",
+                      "words":  [
+                                    {
+                                        "y":  1404,
+                                        "height":  20,
+                                        "width":  90,
+                                        "text":  "CLASS",
+                                        "x":  917
+                                    },
+                                    {
+                                        "y":  1404,
+                                        "height":  19,
+                                        "width":  15,
+                                        "text":  "A",
+                                        "x":  1030
+                                    },
+                                    {
+                                        "y":  1404,
+                                        "height":  20,
+                                        "width":  88,
+                                        "text":  "FIRES",
+                                        "x":  1070
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Ordinary Combustibles:",
+                      "words":  [
+                                    {
+                                        "y":  1454,
+                                        "height":  22,
+                                        "width":  100,
+                                        "text":  "Ordinary",
+                                        "x":  903
+                                    },
+                                    {
+                                        "y":  1454,
+                                        "height":  18,
+                                        "width":  161,
+                                        "text":  "Combustibles:",
+                                        "x":  1008
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "paper",
+                      "words":  [
+                                    {
+                                        "y":  1522,
+                                        "height":  17,
+                                        "width":  63,
+                                        "text":  "paper",
+                                        "x":  1005
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "rubber",
+                      "words":  [
+                                    {
+                                        "y":  1538,
+                                        "height":  17,
+                                        "width":  75,
+                                        "text":  "rubber",
+                                        "x":  999
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "fabrics",
+                      "words":  [
+                                    {
+                                        "y":  1559,
+                                        "height":  17,
+                                        "width":  73,
+                                        "text":  "fabrics",
+                                        "x":  1000
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "many plastics",
+                      "words":  [
+                                    {
+                                        "y":  1584,
+                                        "height":  16,
+                                        "width":  60,
+                                        "text":  "many",
+                                        "x":  964
+                                    },
+                                    {
+                                        "y":  1579,
+                                        "height":  22,
+                                        "width":  79,
+                                        "text":  "plastics",
+                                        "x":  1030
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "CLASS B FIRES",
+                      "words":  [
+                                    {
+                                        "y":  1759,
+                                        "height":  20,
+                                        "width":  86,
+                                        "text":  "CLASS",
+                                        "x":  928
+                                    },
+                                    {
+                                        "y":  1759,
+                                        "height":  20,
+                                        "width":  15,
+                                        "text":  "B",
+                                        "x":  1036
+                                    },
+                                    {
+                                        "y":  1759,
+                                        "height":  20,
+                                        "width":  84,
+                                        "text":  "FIRES",
+                                        "x":  1074
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Flamable Liquids:",
+                      "words":  [
+                                    {
+                                        "y":  1811,
+                                        "height":  17,
+                                        "width":  97,
+                                        "text":  "Flamable",
+                                        "x":  949
+                                    },
+                                    {
+                                        "y":  1811,
+                                        "height":  22,
+                                        "width":  85,
+                                        "text":  "Liquids:",
+                                        "x":  1051
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "gasoline",
+                      "words":  [
+                                    {
+                                        "y":  1853,
+                                        "height":  20,
+                                        "width":  87,
+                                        "text":  "gasoline",
+                                        "x":  997
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "oils",
+                      "words":  [
+                                    {
+                                        "y":  1874,
+                                        "height":  16,
+                                        "width":  36,
+                                        "text":  "oils",
+                                        "x":  1023
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "paint",
+                      "words":  [
+                                    {
+                                        "y":  1895,
+                                        "height":  21,
+                                        "width":  54,
+                                        "text":  "paint",
+                                        "x":  1014
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "lacquers",
+                      "words":  [
+                                    {
+                                        "y":  1915,
+                                        "height":  22,
+                                        "width":  87,
+                                        "text":  "lacquers",
+                                        "x":  998
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "tar",
+                      "words":  [
+                                    {
+                                        "y":  1939,
+                                        "height":  14,
+                                        "width":  28,
+                                        "text":  "tar",
+                                        "x":  1027
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "into codes:",
+                      "words":  [
+                                    {
+                                        "y":  302,
+                                        "height":  43,
+                                        "width":  106,
+                                        "text":  "into",
+                                        "x":  1251
+                                    },
+                                    {
+                                        "y":  302,
+                                        "height":  43,
+                                        "width":  195,
+                                        "text":  "codes:",
+                                        "x":  1469
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "HALON",
+                      "words":  [
+                                    {
+                                        "y":  524,
+                                        "height":  16,
+                                        "width":  72,
+                                        "text":  "HALON",
+                                        "x":  1430
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "CLASS A FIRES",
+                      "words":  [
+                                    {
+                                        "y":  1408,
+                                        "height":  20,
+                                        "width":  90,
+                                        "text":  "CLASS",
+                                        "x":  1342
+                                    },
+                                    {
+                                        "y":  1408,
+                                        "height":  19,
+                                        "width":  16,
+                                        "text":  "A",
+                                        "x":  1454
+                                    },
+                                    {
+                                        "y":  1408,
+                                        "height":  20,
+                                        "width":  88,
+                                        "text":  "FIRES",
+                                        "x":  1495
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Ordinary Combustibles:",
+                      "words":  [
+                                    {
+                                        "y":  1458,
+                                        "height":  22,
+                                        "width":  101,
+                                        "text":  "Ordinary",
+                                        "x":  1327
+                                    },
+                                    {
+                                        "y":  1458,
+                                        "height":  18,
+                                        "width":  161,
+                                        "text":  "Combustibles:",
+                                        "x":  1433
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "paper",
+                      "words":  [
+                                    {
+                                        "y":  1526,
+                                        "height":  17,
+                                        "width":  64,
+                                        "text":  "paper",
+                                        "x":  1429
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "rubber",
+                      "words":  [
+                                    {
+                                        "y":  1542,
+                                        "height":  17,
+                                        "width":  75,
+                                        "text":  "rubber",
+                                        "x":  1424
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "fabrics",
+                      "words":  [
+                                    {
+                                        "y":  1563,
+                                        "height":  17,
+                                        "width":  73,
+                                        "text":  "fabrics",
+                                        "x":  1424
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "many plastics",
+                      "words":  [
+                                    {
+                                        "y":  1588,
+                                        "height":  16,
+                                        "width":  60,
+                                        "text":  "many",
+                                        "x":  1388
+                                    },
+                                    {
+                                        "y":  1583,
+                                        "height":  22,
+                                        "width":  80,
+                                        "text":  "plastics",
+                                        "x":  1454
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "CLASS B FIRES",
+                      "words":  [
+                                    {
+                                        "y":  1761,
+                                        "height":  20,
+                                        "width":  85,
+                                        "text":  "CLASS",
+                                        "x":  1352
+                                    },
+                                    {
+                                        "y":  1761,
+                                        "height":  20,
+                                        "width":  15,
+                                        "text":  "B",
+                                        "x":  1459
+                                    },
+                                    {
+                                        "y":  1761,
+                                        "height":  20,
+                                        "width":  84,
+                                        "text":  "FIRES",
+                                        "x":  1498
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Flamable Liquids:",
+                      "words":  [
+                                    {
+                                        "y":  1813,
+                                        "height":  17,
+                                        "width":  98,
+                                        "text":  "Flamable",
+                                        "x":  1372
+                                    },
+                                    {
+                                        "y":  1813,
+                                        "height":  22,
+                                        "width":  84,
+                                        "text":  "Liquids:",
+                                        "x":  1475
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "gasoline",
+                      "words":  [
+                                    {
+                                        "y":  1855,
+                                        "height":  21,
+                                        "width":  88,
+                                        "text":  "gasoline",
+                                        "x":  1421
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "oils",
+                      "words":  [
+                                    {
+                                        "y":  1876,
+                                        "height":  17,
+                                        "width":  36,
+                                        "text":  "oils",
+                                        "x":  1447
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "paint",
+                      "words":  [
+                                    {
+                                        "y":  1897,
+                                        "height":  22,
+                                        "width":  54,
+                                        "text":  "paint",
+                                        "x":  1438
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "lacquers",
+                      "words":  [
+                                    {
+                                        "y":  1917,
+                                        "height":  22,
+                                        "width":  87,
+                                        "text":  "lacquers",
+                                        "x":  1422
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "CLASS C FIRES",
+                      "words":  [
+                                    {
+                                        "y":  2117,
+                                        "height":  20,
+                                        "width":  85,
+                                        "text":  "CLASS",
+                                        "x":  1352
+                                    },
+                                    {
+                                        "y":  2117,
+                                        "height":  19,
+                                        "width":  13,
+                                        "text":  "C",
+                                        "x":  1460
+                                    },
+                                    {
+                                        "y":  2117,
+                                        "height":  19,
+                                        "width":  83,
+                                        "text":  "FIRES",
+                                        "x":  1498
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "Electrical Equipment:",
+                      "words":  [
+                                    {
+                                        "y":  2171,
+                                        "height":  17,
+                                        "width":  95,
+                                        "text":  "Electrical",
+                                        "x":  1354
+                                    },
+                                    {
+                                        "y":  2171,
+                                        "height":  22,
+                                        "width":  124,
+                                        "text":  "Equipment:",
+                                        "x":  1455
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "wiring",
+                      "words":  [
+                                    {
+                                        "y":  2213,
+                                        "height":  20,
+                                        "width":  66,
+                                        "text":  "wiring",
+                                        "x":  1432
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "fuse boxes",
+                      "words":  [
+                                    {
+                                        "y":  2233,
+                                        "height":  17,
+                                        "width":  42,
+                                        "text":  "fuse",
+                                        "x":  1412
+                                    },
+                                    {
+                                        "y":  2234,
+                                        "height":  16,
+                                        "width":  60,
+                                        "text":  "boxes",
+                                        "x":  1460
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "circuit breakers",
+                      "words":  [
+                                    {
+                                        "y":  2254,
+                                        "height":  17,
+                                        "width":  63,
+                                        "text":  "circuit",
+                                        "x":  1387
+                                    },
+                                    {
+                                        "y":  2254,
+                                        "height":  17,
+                                        "width":  87,
+                                        "text":  "breakers",
+                                        "x":  1457
+                                    }
+                                ]
+                  },
+                  {
+                      "text":  "appliances",
+                      "words":  [
+                                    {
+                                        "y":  2275,
+                                        "height":  22,
+                                        "width":  109,
+                                        "text":  "appliances",
+                                        "x":  1411
+                                    }
+                                ]
+                  }
+              ],
+    "engine":  "Windows.Media.Ocr",
+    "language":  "en-US",
+    "text":  "Know your product Every fire extinguisher type has different color bands to distinguish intended materials INSTRUCTIONS cd CLASS A FIRES Ordinary Combustibles: paper rubber fabrics many plastics CLASS B FIRES Flamable Liquids: gasoline Oils paint lacquers CLASS C FIRES Electrical Equipment: wiring fuse boxes circuit breakers appliances for that their use are type. Each type is for specific flammable C02 ggz CLASS B FIRES Flamable Liquids: gasoline oils paint lacquers tar CLASS C FIRES Electrical Equipment: wiring fuse boxes circuit breakers appliances classified FOAM CLASS A FIRES Ordinary Combustibles: paper rubber fabrics many plastics CLASS B FIRES Flamable Liquids: gasoline oils paint lacquers tar into codes: HALON CLASS A FIRES Ordinary Combustibles: paper rubber fabrics many plastics CLASS B FIRES Flamable Liquids: gasoline oils paint lacquers CLASS C FIRES Electrical Equipment: wiring fuse boxes circuit breakers appliances"
+}

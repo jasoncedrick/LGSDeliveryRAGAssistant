@@ -1,0 +1,30 @@
+{
+  "status": "BASELINE_CHARACTERIZATION_NO_PROMPT_REVISION",
+  "cases": 24,
+  "automatic_passes": 14,
+  "automatic_flags": 10,
+  "interpretation": "These are diagnostic concept-check counts, not translation-accuracy scores. Exact English copy is a separate stability measure, not a claim that all paraphrases are wrong.",
+  "observations": [
+    "All three dictionary-conflict cases returned clarification without calling the translation API.",
+    "None of nine English questions was copied exactly.",
+    "Floor counts changed into counts of sites or buildings in NF05/NF06/NF17/NF18.",
+    "NF09 changed representative to spouse.",
+    "NF11/NF12 changed hog washing to slaughter.",
+    "NF01/NF02 changed receiving to submission; NF03 omitted encoding."
+  ],
+  "glossary_check": "Failure examples were inspected with injected terms. There is no evidence from this run that the dictionary contains an incorrect washing/slaughter or floor/site mapping; do not edit dictionary definitions on that assumption.",
+  "manual_review_required": [
+    "Validate assistant-authored Bislish/Taglish questions and reference translations before approving labels.",
+    "Review NF05/NF06/NF09/NF11/NF12/NF17/NF18 first, then action changes NF01/NF02/NF03.",
+    "Check semantic correctness of automatic passes too; regex checks can miss changed negation scope or invented details."
+  ],
+  "next_step": "Apply human corrections in a new fixture version before using this suite to select a revised normalization prompt. Preserve these baseline outputs.",
+  "unchanged": [
+    "Runtime prompt",
+    "Dictionary",
+    "Corpus and indices",
+    "Retrieval weights",
+    "App artifact default",
+    "Held-out benchmarks"
+  ]
+}

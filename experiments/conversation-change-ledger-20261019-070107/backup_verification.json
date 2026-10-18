@@ -1,0 +1,10 @@
+{
+  "status": "VERIFIED",
+  "zip": "D:\\thesis\\conversation-backups\\LGS-conversation-development-20261019-070107.zip",
+  "zip_sha256": "f3f5297331ae9f54548e634afe25d9ddf4e73acc831c2cedea836765c810e7ff",
+  "zip_bytes": 48349583,
+  "project_files_verified": 532,
+  "external_documents_verified": 2,
+  "archive_crc_check": "PASS",
+  "note": "This verification file is outside the ZIP to avoid recursive hashing."
+}

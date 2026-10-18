@@ -1,0 +1,477 @@
+[
+  {
+    "group_id": "SCENARIO-BB-001",
+    "pillar": "Business Bureau",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-BB-P041-C01",
+      "CHUNK-BB-P041-C02",
+      "CHUNK-BB-P041-C03",
+      "CHUNK-BB-P042-C01"
+    ],
+    "ground_truth_reference_answer": "For New Business Permit Pre-Assessment, applicants must submit: 1) Duly filled-out Unified Application Form (1 original); 2) Sketch / Google Map of business location with pictures of premises (1 original); 3) Notarized Certified List of Employees or Certification of No Employee (1 original); 4) Valid DTI Registration for Sole Proprietorship, SEC Registration/Articles of Incorporation for Corporation/Partnership, or CDA Registration for Cooperatives (1 photocopy); and 5) Contract of Lease with Lessor's proof of ownership if rented, or proof of ownership if owned (1 photocopy). Applications can be filed online at appbts.davaocity.gov.ph or onsite.",
+    "queries": {
+      "english": "What are the required documents for the pre-assessment of a new business permit in Davao City?",
+      "taglish": "Ano ang mga kailangang dokumento para sa pre-assessment ng bagong business permit sa Davao City?",
+      "bislish": "Unsa ang mga papeles nga kailangan i-submit para sa pre-assessment sa bag-ong business permit diri sa Davao?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-BB-002",
+    "pillar": "Business Bureau",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-BB-P042-C03",
+      "CHUNK-BB-P042-C04",
+      "CHUNK-BB-P043-C01",
+      "CHUNK-BB-P078-C02"
+    ],
+    "ground_truth_reference_answer": "To amend a business permit due to a Change of Business Address, the applicant must provide: 1) Current Original Mayor's Permit or Application for Renewal (or Certified True Copy with Affidavit of Loss); 2) Notarized Application Affidavit of Change of Business Address; 3) Notarized SPA (Sole Proprietorship), Partnership Resolution, or Secretary's Certificate (Corporation); 4) Valid ID of representative; 5) Sketch / Google map of new location with pictures; 6) Tax Declaration or proof of ownership and Lease Contract if rented; 7) Valid FSIC for Occupancy Permit within last 9 months; and 8) Notarized Affidavit of Undertaking of no substantial building changes. A service fee of PHP 50.00 is charged at the CTO.",
+    "queries": {
+      "english": "What are the requirements and service fees to change my registered business address at the Business Bureau?",
+      "taglish": "Ano ang mga requirements at service fee kapag magpapalit ng registered business address sa Business Bureau?",
+      "bislish": "Unsa ang mga rekisitos ug service fee kung mag-amend ko sa address sa akong negosyo sa Business Bureau?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-BB-003",
+    "pillar": "Business Bureau",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-BB-P054-C01",
+      "CHUNK-BB-P054-C02",
+      "CHUNK-BB-P055-C04",
+      "CHUNK-BB-P056-C01"
+    ],
+    "ground_truth_reference_answer": "A Mayor's Business Permit in Davao City is valid for not more than one (1) year and expires on December 31 following issuance. Renewal must be filed within the month of January. Mandatory renewal requirements are: 1) List of Employees stating names and positions (1 copy); 2) Notarized Special Power of Attorney (Sole Proprietorship), Partnership Resolution, or Board Resolution/Secretary's Certificate (Corporation/Cooperative) if represented; 3) Valid ID of representative; 4) Valid Fire Safety Inspection Certificate (FSIC) (1 photocopy); and 5) Specific clearances for regulated business lines.",
+    "queries": {
+      "english": "When does a Davao City business permit expire and what are the basic requirements to renew it in January?",
+      "taglish": "Kailan nag-eexpire ang business permit sa Davao at ano ang basic requirements para mag-renew sa January?",
+      "bislish": "Kanus-a ga-expire ang business permit sa Davao ug unsa ang mga requirements para mag-renew karong Enero?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-BB-004",
+    "pillar": "Business Bureau",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-BB-P104-C01",
+      "CHUNK-BB-P104-C03",
+      "CHUNK-BB-P104-C05",
+      "CHUNK-BB-P106-C03"
+    ],
+    "ground_truth_reference_answer": "An Occupational Permit is required for workers not holding a Professional Tax Receipt (PTR). It must be renewed annually on or before January 31; late renewal incurs a statutory 25% penalty. Fees are PHP 125.00 for new applications and timely renewals, and PHP 156.25 for late renewals. Requirements include: 1) Application form; 2) Certificate of Employment; 3) Official Receipt from CTO; 4) Notarized Affidavit of Consent for minors below 18 (or ages 18-20 for amusement places/bars); and 5) PSA Birth Certificate, Health ID, and interview for entertainers, masseurs, and bar attendants.",
+    "queries": {
+      "english": "Who is required to secure an Occupational Permit, how much is the fee, and what is the penalty for late renewal?",
+      "taglish": "Sino ang kailangang kumuha ng Occupational Permit, magkano ang bayad, at magkano ang penalty kapag late nag-renew?",
+      "bislish": "Kinsa ang kailangan mukuha ug Occupational Permit, pila ang bayad, ug pila ang multa kung ma-late ug renew pagkahuman sa January 31?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-BB-005",
+    "pillar": "Business Bureau",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-BB-P111-C01",
+      "CHUNK-BB-P111-C02",
+      "CHUNK-BB-P111-C04",
+      "CHUNK-BB-P114-C01"
+    ],
+    "ground_truth_reference_answer": "For Full Retirement of a Business Permit upon cessation of operations, applicants must submit: 1) Latest original Business Permit or certified copy; 2) Notarized Affidavit of Full Retirement stating the reason and exact effective date of retirement (Single Proprietorship), or Partnership/Board Resolution; 3) Valid ID and SPA if represented; and 4) Physical surrender of the Business Identification Plate. Late filing fees range from PHP 1,000.00 to PHP 5,000.00 if the retirement application is submitted more than 30 days from actual business cessation, in addition to gross sales tax obligations assessed by the CTO.",
+    "queries": {
+      "english": "What is the procedure to permanently close a business in Davao City and what is the penalty for filing after 30 days?",
+      "taglish": "Paano ang proseso ng full retirement ng business permit at magkano ang multa kung lumampas ng 30 days bago mag-file?",
+      "bislish": "Unsaon pag-process sa full retirement sa business permit kung manira na ang tindahan ug pila ang multa kung lapas na 30 days?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-BB-006",
+    "pillar": "Business Bureau",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-BB-P118-C01",
+      "CHUNK-BB-P118-C04",
+      "CHUNK-BB-P119-C01",
+      "CHUNK-BB-P120-C02"
+    ],
+    "ground_truth_reference_answer": "Under ICAB regulations for Internet Cafes and Pisonet operations, operators must comply with mandatory ocular standards: 1) ISP contract/receipt; 2) Half-closed cubicles not exceeding 5 feet from the floor; 3) Lighting of at least 25 Lux (fluorescent/LED) or 50 Lux (incandescent); 4) Permanently fixed webcams; 5) Content filtering systems blocking pornography; 6) 12x18 inch warning sign prohibiting minors prior to 6:00 AM and beyond 9:00 PM; and 7) Separate toilets for over 30 units. The ICAB accreditation fee is PHP 100.00 for the first 10 computer units plus PHP 10.00 for each additional unit.",
+    "queries": {
+      "english": "What are the physical facility requirements and fees to obtain ICAB accreditation for an internet cafe or pisonet business?",
+      "taglish": "Ano ang mga kailangang sundin sa pwesto at magkano ang babayarang ICAB fee para sa internet cafe o pisonet?",
+      "bislish": "Unsa ang mga facility requirements ug pila ang bayad sa ICAB accreditation para sa pisonet o internet cafe?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-CTO-001",
+    "pillar": "City Treasurer's Office",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-CTO-P185-C01",
+      "CHUNK-CTO-P186-C01",
+      "CHUNK-CTO-P186-C02"
+    ],
+    "ground_truth_reference_answer": "Pursuant to Section 422 of the 2017 Revenue Code of Davao City (Ordinance No. 0291-17), all businesses must register their books of accounts, records of transactions, official receipts, cash sales invoices, and delivery receipts with the City Treasurer's Office within fifteen (15) working days from the date of filing the application for a new or renewal business permit. Failure to register within this 15-day period incurs a mandatory administrative fine of Five Thousand Pesos (PHP 5,000.00).",
+    "queries": {
+      "english": "Within how many days must business books of accounts and receipts be registered with the City Treasurer, and what is the late fine?",
+      "taglish": "Ilang araw dapat iparehistro ang books of accounts at resibo sa City Treasurer, at magkano ang multa kapag nahuli?",
+      "bislish": "Pila ka adlaw dapat marehistro ang books of accounts ug resibo sa City Treasurer human mag-file, ug pila ang multa kung ma-late?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-CTO-002",
+    "pillar": "City Treasurer's Office",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-CTO-P034-C01",
+      "CHUNK-CTO-P166-C01",
+      "CHUNK-CTO-P166-C02"
+    ],
+    "ground_truth_reference_answer": "Under Section 34 of the 2017 Revenue Code of Davao City, the Tax on Transfer of Real Property Ownership is imposed at the rate of 0.75% (or up to 1%) based on the total consideration or the fair market value of the real property, whichever is higher. In addition, a Transfer Tax Certification fee of PHP 50.00 is charged (plus PHP 20.00 for every additional page). Requirements include the original notarized Deed of Transfer, photocopy of Title from the Registry of Deeds, and original Tax Declaration (DRPV).",
+    "queries": {
+      "english": "How is the Real Property Transfer Tax computed in Davao City and what is the fee for the transfer certification?",
+      "taglish": "Paano kinukwenta ang Transfer Tax sa lupa sa Davao City at magkano ang bayad sa certification fee?",
+      "bislish": "Unsaon pagkwenta sa Transfer Tax sa yuta sa City Treasurer ug pila ang bayad sa certification?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-CTO-003",
+    "pillar": "City Treasurer's Office",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-CTO-P190-C01",
+      "CHUNK-CTO-P191-C01",
+      "CHUNK-CTO-P191-C02"
+    ],
+    "ground_truth_reference_answer": "Real Property Tax in Davao City consists of two statutory components under Ordinance No. 0291-17: 1) Section 7 imposes the Basic Real Property Tax as an annual ad valorem levy of one and one-half percent (1.5%) of the assessed value of real property (land, buildings, and machinery); and 2) Section 8 imposes an Additional Levy for the Special Education Fund (SEF) of one percent (1%) of the assessed value. The total annual levy is 2.5% of assessed property valuation.",
+    "queries": {
+      "english": "What are the tax rates for the Basic Real Property Tax and Special Education Fund levy in Davao City?",
+      "taglish": "Magkano ang porsyento ng Basic Real Property Tax at Special Education Fund sa Davao City?",
+      "bislish": "Pila ang porsyento sa amilyar sa Basic Real Property Tax ug SEF nga gasingilin sa City Treasurer?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-CTO-004",
+    "pillar": "City Treasurer's Office",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-CTO-P207-C01",
+      "CHUNK-CTO-P210-C01",
+      "CHUNK-CTO-P210-C02"
+    ],
+    "ground_truth_reference_answer": "Under Section 72 of Ordinance No. 0291-17, an annual fixed tax is imposed on delivery vehicles used by manufacturers, producers, wholesalers, dealers, or retailers distributing products within Davao City: a) Motorcycle and motorized tricycle: PHP 240.00; b) Delivery jeepney and utility vehicles: PHP 600.00; c) Trucks, vans, or vehicles with six wheels and above: PHP 1,000.00; d) Water vessels, barges, and tugboats: PHP 2,000.00; and e) Airplanes/aircraft: PHP 5,000.00.",
+    "queries": {
+      "english": "What is the annual fixed tax schedule for commercial delivery trucks, vans, and motorcycles in Davao City?",
+      "taglish": "Magkano ang annual fixed tax para sa mga delivery truck, van, at motor na ginagamit sa negosyo sa Davao?",
+      "bislish": "Pila ang bayad sa annual fixed tax sa City Treasurer para sa delivery van, truck, o motor nga ginagamit sa negosyo?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-CTO-005",
+    "pillar": "City Treasurer's Office",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-CTO-P192-C01",
+      "CHUNK-CTO-P192-C02",
+      "CHUNK-CTO-P193-C01"
+    ],
+    "ground_truth_reference_answer": "Under Section 58 of the 2017 Revenue Code, the Professional Tax is PHP 300.00 per annum for individuals legally authorized to practice their profession. Applicants can register and generate an Order of Payment online via ptr.davaocity.gov.ph or pay at CTO counters. Requirements are: 1) Unexpired PRC ID or IBP ID (1 original); 2) Certification from PRC/IBP for new passers; and 3) Current Davao City address and contact details.",
+    "queries": {
+      "english": "How much is the Professional Tax Receipt (PTR) in Davao City and what are the requirements to secure it?",
+      "taglish": "Magkano ang bayad sa Professional Tax Receipt (PTR) sa Davao at ano ang kailangang dalhin para makakuha?",
+      "bislish": "Pila ang bayad sa PTR sa City Treasurer ug unsa ang mga kinahanglanon para makakuha ug resibo sa professional tax?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-CTO-006",
+    "pillar": "City Treasurer's Office",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-CTO-P202-C01",
+      "CHUNK-CTO-P203-C01",
+      "CHUNK-CTO-P203-C02",
+      "CHUNK-CTO-P203-C03",
+      "CHUNK-CTO-P203-C04"
+    ],
+    "ground_truth_reference_answer": "Under Section 393 and 394 of Ordinance No. 0291-17, Community Tax (Cedula) is assessed as follows: For Individuals: Basic tax of PHP 5.00 plus an additional tax of PHP 1.00 for every PHP 1,000.00 of income derived from business, profession, or property, capped at a maximum of PHP 5,000.00. For Corporations: Basic annual tax of PHP 500.00 plus an additional tax of PHP 2.00 for every PHP 5,000.00 worth of real property owned in the Philippines and PHP 2.00 for every PHP 5,000.00 of gross receipts, capped at a maximum of PHP 10,000.00.",
+    "queries": {
+      "english": "What is the formula and statutory ceiling for computing individual and corporate Community Tax (Cedula) in Davao City?",
+      "taglish": "Paano kinukwenta ang Cedula para sa indibidwal at korporasyon sa Davao at magkano ang maximum limit?",
+      "bislish": "Unsaon pagkwenta sa sedula para sa tao ug sa korporasyon diri sa Davao ug pila ang kinadak-ang limit sa bayad?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-OCBO-001",
+    "pillar": "Office of the City Building Official",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-OCBO-P490-C01",
+      "CHUNK-OCBO-P490-C02",
+      "CHUNK-OCBO-P490-C03",
+      "CHUNK-OCBO-P491-C02"
+    ],
+    "ground_truth_reference_answer": "To secure a Building Permit under PD 1096, applicants must submit: 1) Notarized Application Letter; 2) Accomplished Unified Building Permit Form (5 copies); 3) Complete sets of Architectural, Civil/Structural, Sanitary/Plumbing, Electrical, and Mechanical Permit forms and plans (5 sets each), all duly signed and sealed by licensed professionals (Architect, Civil Engineer, Sanitary Engineer/Master Plumber, Professional Electrical Engineer, Professional Mechanical Engineer); 4) Certified true copies of Land Title (LRA), Tax Declaration, and Current Real Property Tax Receipt; 5) CPDO Zoning Locational Clearance; and 6) BFP Fire Safety Evaluation Clearance (FSEC).",
+    "queries": {
+      "english": "What plans, clearances, and professional seals are mandatory to apply for a Building Permit at OCBO?",
+      "taglish": "Anong mga plano, clearance, at pirma ng inhinyero ang kailangan para makakuha ng Building Permit sa OCBO?",
+      "bislish": "Unsa ang mga plano, pirma sa inhinyero ug clearances nga kailangan i-submit para makakuha ug building permit sa OCBO?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-OCBO-002",
+    "pillar": "Office of the City Building Official",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-OCBO-P492-C02",
+      "CHUNK-OCBO-P492-C03"
+    ],
+    "ground_truth_reference_answer": "For construction, addition, or minor repair of structures that are three (3) storeys and above, OCBO enforces mandatory conditional safety submittals: 1) Construction Safety & Health Program (CSHP) approved by the Department of Labor and Employment (DOLE) (1 original, 1 photocopy); and 2) Boring and Plate Load Soil Test Report (2 copies) signed and sealed by a licensed Civil/Geotechnical Engineer. If applying for an additional storey, an Affidavit manifesting that the existing foundation can support the proposed additional floors is required.",
+    "queries": {
+      "english": "What additional engineering and safety requirements are imposed by OCBO for buildings that are 3 storeys and above?",
+      "taglish": "Ano ang karagdagang requirements ng OCBO kapag ang itatayong gusali ay may 3 floors pataas?",
+      "bislish": "Unsa ang dugang requirements sa OCBO kung 3-storey pataas ang building nga itukod?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-OCBO-003",
+    "pillar": "Office of the City Building Official",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-OCBO-P501-C01",
+      "CHUNK-OCBO-P501-C02"
+    ],
+    "ground_truth_reference_answer": "Before any building can be used or occupied, an Occupancy Permit must be secured from OCBO. Documentary requirements are: 1) Application Letter; 2) Duly accomplished Certificate of Occupancy (1 original) and Certificate of Completion (1 original); 3) Fire Safety Inspection Certificate (FSIC) from the BFP (1 original); 4) Project photographs showing four elevations (Front, Back, Left, Right); 5) Approved Building, Architectural, Structural, Sanitary, Electrical, and Mechanical Permits (1 photocopy); and 6) As-built plans if alterations were introduced.",
+    "queries": {
+      "english": "What are the required documents to apply for an Occupancy Permit after completing building construction?",
+      "taglish": "Ano ang mga requirements para makakuha ng Occupancy Permit kapag tapos na ang construction ng building?",
+      "bislish": "Unsa ang mga rekisitos para makakuha ug Occupancy Permit sa OCBO human mahuman ang pagtukod sa edipisyo?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-OCBO-004",
+    "pillar": "Office of the City Building Official",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-OCBO-P524-C01",
+      "CHUNK-OCBO-P530-C01"
+    ],
+    "ground_truth_reference_answer": "While a main Building Permit is undergoing evaluation, the Building Official may issue a Ground Preparation and Excavation Permit (GP&EP) for foundation work, valid for thirty (30) days or until superseded by the building permit. Statutory fees are: 1) Inspection and Verification Fee of PHP 200.00; 2) Issuance fee of PHP 50.00; 3) Excavation fee of PHP 3.00 per cubic meter (or PHP 4.00 per cubic meter for foundations with basements); and 4) PHP 250.00 per square meter for authorized foundation encroachments into public areas.",
+    "queries": {
+      "english": "What is the validity period and fee schedule for a Ground Preparation and Excavation Permit (GP&EP)?",
+      "taglish": "Gaano katagal valid ang Excavation Permit at magkano ang bayad kada cubic meter ng hukay?",
+      "bislish": "Pila ka adlaw valid ang excavation permit ug pila ang bayad sa inspection ug kada cubic meter sa pagkalot sa pundasyon?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-OCBO-005",
+    "pillar": "Office of the City Building Official",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-OCBO-P517-C01",
+      "CHUNK-OCBO-P517-C02",
+      "CHUNK-OCBO-P523-C01"
+    ],
+    "ground_truth_reference_answer": "A Fencing Permit is required prior to constructing a fence. Requirements include: 1) Fencing Permit form with 3 sets of Civil/Architectural plans signed and sealed by a licensed Civil Engineer/Architect; 2) Certified True Copy of Land Title (LRA/CASSO) and Tax Declaration; 3) Barangay Clearance; 4) Lot/Vicinity plan; and 5) Bill of Materials and Cost Estimates. The fee schedule under PD 1096 IRR is: PHP 3.00 per linear meter for fences made of masonry, metal, or concrete up to 1.80 meters in height; PHP 4.00 per linear meter for heights exceeding 1.80 meters; and PHP 2.40 per linear meter for fences made of indigenous materials, barbed, or hog wire.",
+    "queries": {
+      "english": "What are the requirements and fee rates per linear meter to secure a Fencing Permit from OCBO?",
+      "taglish": "Ano ang requirements at magkano ang bayad kada linear meter para kumuha ng Fencing Permit sa OCBO?",
+      "bislish": "Unsa ang mga papeles nga kailangan ug pila ang bayad kada linear meter para sa Fencing Permit kung magpader?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-OCBO-006",
+    "pillar": "Office of the City Building Official",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-OCBO-P591-C01",
+      "CHUNK-OCBO-P592-C01"
+    ],
+    "ground_truth_reference_answer": "To secure a Certified True Copy (CTC) of a Building Permit or related building documents from the OCBO Records Division, the applicant must submit: 1) Request Letter; 2) Photocopy of the Building Permit or reference details; 3) Photocopy of valid ID of owner with 3 specimen signatures; 4) Notarized SPA and processor's valid ID if represented; and 5) Original Affidavit of Loss if the original permit was lost. The statutory fee is PHP 50.00 per document (1 copy), paid at the City Treasurer's Office, with a standard turnaround time of 2 Days, 1 Hour, and 19 Minutes.",
+    "queries": {
+      "english": "What is the fee and requirement checklist to request a Certified True Copy of a lost Building Permit at OCBO?",
+      "taglish": "Magkano ang bayad at ano ang requirements para kumuha ng Certified True Copy ng nawalang Building Permit sa OCBO?",
+      "bislish": "Pila ang bayad ug unsa ang mga requirements para makakuha ug Certified True Copy sa nawala nga Building Permit sa OCBO?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-CPDO-001",
+    "pillar": "City Planning and Development Office",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-CPDO-P631-C01",
+      "CHUNK-CPDO-P631-C02",
+      "CHUNK-CPDO-P633-C01"
+    ],
+    "ground_truth_reference_answer": "A Zoning Certification is issued by the CPDO Zoning Enforcement Division based on the Integrated Zoning Ordinance (2019–2028) to certify land-use classification. Requirements are: 1) Accomplished application form (1 original); 2) Certified True Copy of Title from the Registry of Deeds (1 photocopy); 3) Subdivision / Sketch Plan by a Geodetic Engineer (1 original); and 4) CTO Official Receipt. The fee is PHP 750.00 per hectare, and total administrative processing time is 3 Days, 6 Hours, and 50 Minutes.",
+    "queries": {
+      "english": "What are the requirements, fee per hectare, and processing time for a CPDO Zoning Certification in Davao City?",
+      "taglish": "Ano ang requirements, magkano ang bayad kada hektarya, at gaano katagal ang processing ng Zoning Certification sa CPDO?",
+      "bislish": "Unsa ang mga requirements, pila ang bayad kada hektarya, ug pila ka adlaw makuha ang Zoning Certification sa CPDO?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-CPDO-002",
+    "pillar": "City Planning and Development Office",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-CPDO-P634-C01",
+      "CHUNK-CPDO-P634-C02",
+      "CHUNK-CPDO-P636-C01"
+    ],
+    "ground_truth_reference_answer": "Under the Integrated Zoning Ordinance (2019–2028), CPDO executes mandatory Validation of Occupancy Permits for structures that are 3-storeys and above OR possess a building floor area of 1,500 square meters and above. Requirements are: 1) Approved Building Plans (1 original); 2) Approved Building Permit from OBO (1 original); 3) Certificate of Occupancy Form (1 original); 4) Locational Clearance photocopy; and 5) Actual pictures of the building (1 original). The filing fee is PHP 150.00, and processing time is 3 Days, 2 Hours, and 10 Minutes.",
+    "queries": {
+      "english": "When is CPDO validation required for an Occupancy Permit and how much is the filing fee for 3-storey buildings?",
+      "taglish": "Kailan kailangan ng CPDO validation para sa Occupancy Permit at magkano ang filing fee para sa 3-storey na gusali?",
+      "bislish": "Kanus-a kinahanglan ang CPDO validation sa Occupancy Permit ug pila ang filing fee kung 3-storey pataas o 1,500 sqm ang building?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-CPDO-003",
+    "pillar": "City Planning and Development Office",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-CPDO-P648-C01",
+      "CHUNK-CPDO-P651-C01",
+      "CHUNK-CPDO-P654-C01"
+    ],
+    "ground_truth_reference_answer": "To obtain a Locational Clearance (LC) for Building Permit for structures 2-storeys and below, applicants must submit: 7 complete sets of signed/sealed building plans, certified true copy of title, accomplished building permit form, sketch plan with vicinity map, bill of materials, and notarized deed of sale or contract of lease. Fees consist of: 1) GIS Map Plotting fee of PHP 300.00; 2) Filing fee of PHP 150.00 for agricultural/residential, or PHP 300.00 for commercial/industrial; and 3) Zoning fee equivalent to 1/10 of 1% of the total building cost. Processing turnaround is 4 Days, 2 Hours, and 25 Minutes.",
+    "queries": {
+      "english": "How are zoning fees and filing charges calculated for a Locational Clearance for 2-storey buildings at CPDO?",
+      "taglish": "Paano kinukwenta ang zoning fee at filing fee para sa Locational Clearance ng 2-storey building sa CPDO?",
+      "bislish": "Pila ang bayad sa filing fee ug unsaon pagkwenta sa zoning fee sa Locational Clearance sa CPDO para sa 2-storey nga building?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-CPDO-004",
+    "pillar": "City Planning and Development Office",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-CPDO-P655-C01",
+      "CHUNK-CPDO-P656-C01",
+      "CHUNK-CPDO-P661-C01"
+    ],
+    "ground_truth_reference_answer": "If a Locational Clearance is denied by the Zoning Administrator, an applicant may file a Motion for Reconsideration before the Local Zoning Board of Adjustment and Appeals (LZBAA). Requirements are: 1) Letter of Reconsideration; 2) Denial Letter; 3) Title/Lease Contract; 4) Site sketch plan with vicinity landmarks; 5) Barangay Council Resolution of No Objection; 6) Locational mapping of neighbor's consent signatories; and 7) Notarized Affidavit of Non-Objection from adjoining property owners. The processing fee is PHP 600.00, and evaluation involves TWG site inspection, committee deliberation, and LZBAA board resolution.",
+    "queries": {
+      "english": "What is the procedure, fee, and requirement checklist to appeal a denied Locational Clearance before the LZBAA?",
+      "taglish": "Ano ang proseso, magkano ang processing fee, at ano ang kailangang ipasa kapag na-deny ang Locational Clearance at mag-aapela sa LZBAA?",
+      "bislish": "Unsaon pag-apela sa LZBAA kung gibalibaran ang Locational Clearance sa CPDO ug unsa ang mga requirements ug bayad sa processing fee?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-CPDO-005",
+    "pillar": "City Planning and Development Office",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-CPDO-P699-C01",
+      "CHUNK-CPDO-P699-C02",
+      "CHUNK-CPDO-P701-C01"
+    ],
+    "ground_truth_reference_answer": "Under CPDO Service 12, Locational Clearance for Business (Online Application via appbts.davaocity.gov.ph) evaluates land-use compatibility under the Integrated ZO 2019-2028. Requirements uploaded to the portal are: 1) Filled-up application form; 2) Affidavit of Undertaking for neighbor's consent with sketch map; 3) Homeowners Association Certificate of No Objection (if inside a subdivision); 4) Proof of business working area pictures and road access; and 5) Certificate of Actual Land Occupancy (if inside ancestral land under RA 8371). There are no direct filing fees (None), and approval or issuance of a denial letter takes 1 Day and 50 Minutes.",
+    "queries": {
+      "english": "What are the required documents and processing fees for online business locational clearance evaluated by CPDO?",
+      "taglish": "Ano ang mga kailangang i-upload at magkano ang bayad para sa online business locational clearance sa CPDO?",
+      "bislish": "Unsa ang mga i-upload nga dokumento ug pila ang bayad para sa online Locational Clearance sa negosyo sa CPDO?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-CPDO-006",
+    "pillar": "City Planning and Development Office",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-CPDO-P702-C01",
+      "CHUNK-CPDO-P702-C02",
+      "CHUNK-CPDO-P703-C01"
+    ],
+    "ground_truth_reference_answer": "A Certificate of Compatibility is issued by the CPDO Zoning Enforcement Division to certify that proposed land activities are capable of co-existing harmoniously with adjacent zoning classifications. Requirements include: 1) Application Letter; 2) Zoning Certificate from CPDO; and 3) CTO Official Receipt. The filing fee is PHP 300.00, and the total administrative processing time is 1 Hour and 20 Minutes.",
+    "queries": {
+      "english": "What is the purpose, filing fee, and processing time of a CPDO Certificate of Compatibility?",
+      "taglish": "Para saan ang Certificate of Compatibility sa CPDO, magkano ang bayad, at gaano kabilis makuha?",
+      "bislish": "Para asa ang Certificate of Compatibility sa CPDO, pila ang filing fee, ug unsa kadugay ang pag-release?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-BFP-001",
+    "pillar": "Bureau of Fire Protection",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-BFP-P001-C19"
+    ],
+    "ground_truth_reference_answer": "The Fire Safety Evaluation Clearance (FSEC) is required prior to securing an OCBO building permit to certify design plan compliance with the Fire Code of the Philippines (RA 9514). Applicants must submit three (3) complete sets of architectural, civil, electrical, mechanical, plumbing, electronics, sanitary, and fire protection design plans signed and sealed by professionals, along with the PRC licenses and estimated building values. Fees are: 1) Application Fee of PHP 200.00; and 2) Fire Code Construction Tax (FCCT) of 0.1% of the verified estimated value of materials and labor, capped at a maximum of PHP 50,000.00.",
+    "queries": {
+      "english": "What are the required blueprint submittals and fee formulas to secure an FSEC from the Bureau of Fire Protection?",
+      "taglish": "Ano ang requirements at paano kinukwenta ang bayad sa FSEC sa BFP bago makakuha ng building permit?",
+      "bislish": "Unsa ang mga plano nga kailangan i-submit sa bombero ug pila ang bayad sa FCCT para makakuha ug FSEC sa BFP?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-BFP-002",
+    "pillar": "Bureau of Fire Protection",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-BFP-P001-C10"
+    ],
+    "ground_truth_reference_answer": "Under the BFP Citizen's Charter and RA 9514, the Fire Safety Inspection Certificate (FSIC) for Occupancy Permit requires: 1) Endorsement from the Office of the Building Official (OBO); 2) Certificate of Completion; 3) As-built plans (if changes occurred); 4) Certified true copy of the assessment fee from OBO; and 5) Fire insurance policy (if any). The Fire Safety Inspection Fee (FSIF) is assessed at 15% of all regulatory fees charged by the LGU, but in no case shall the fee be lower than Five Hundred Pesos (PHP 500.00).",
+    "queries": {
+      "english": "How is the Fire Safety Inspection Fee (FSIF) calculated for an Occupancy Permit FSIC and what is the minimum fee?",
+      "taglish": "Paano kinukwenta ang Fire Safety Inspection Fee (FSIF) para sa FSIC ng Occupancy at magkano ang minimum na bayad?",
+      "bislish": "Pila ang minimum nga bayad ug unsaon pagkwenta sa Fire Safety Inspection Fee (FSIF) para sa FSIC sa Occupancy Permit?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-BFP-003",
+    "pillar": "Bureau of Fire Protection",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-BFP-P001-C11",
+      "CHUNK-BFP-P001-C12"
+    ],
+    "ground_truth_reference_answer": "Under the BFP Citizen's Charter and Joint Memorandum Circular (JMC) No. 2021-01, frontline transactions in Fire Stations, OSCP, and eBOSS are classified into three strict processing times: 1) Simple Transactions are processed within One (1) working day; 2) Complex Transactions are processed within Three (3) working days; and 3) Highly Technical Transactions are processed within Seven (7) working days.",
+    "queries": {
+      "english": "What are the statutory processing turnaround times for Simple, Complex, and Highly Technical BFP frontline applications?",
+      "taglish": "Ilang araw ang processing time sa BFP para sa Simple, Complex, at Highly Technical na mga transaksyon?",
+      "bislish": "Pila ka adlaw ang gitagal sa BFP Citizens Charter para sa Simple, Complex, ug Highly Technical nga mga application?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-BFP-004",
+    "pillar": "Bureau of Fire Protection",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-BFP-P001-C02",
+      "CHUNK-BFP-P001-C16"
+    ],
+    "ground_truth_reference_answer": "Under RA 9514 regulations, specialized fire safety technical reports are mandatory if a building or establishment is required to install any or a combination of: 1) Wet standpipe systems; 2) Automatic fire suppression systems (AFSS); or 3) Automatic fire detection and alarm systems (FDAS). The required reports are: Fire Safety Compliance Report (FSCR) prepared by the Engineer/Architect of record and Fire Safety Practitioner during design; Fire Safety Compliance and Commissioning Report (FSCCR) by the contractor upon turnover; and Fire Safety Maintenance Report (FSMR) by the building administrator during annual inspections.",
+    "queries": {
+      "english": "Under what structural conditions are FSCR, FSCCR, and FSMR required by the BFP, and who prepares them?",
+      "taglish": "Kailan kailangang mag-submit ng FSCR, FSCCR, at FSMR sa bombero at sinong practitioner ang dapat pumirma nito?",
+      "bislish": "Kanus-a required magpasa ug FSCR, FSCCR, ug FSMR sa BFP ug kinsa ang licensed practitioner nga pwede magpirma?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-BFP-005",
+    "pillar": "Bureau of Fire Protection",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-BFP-P001-C24"
+    ],
+    "ground_truth_reference_answer": "Under the BFP Citizen's Charter, a Fire Safety Clearance for welding, cutting, and other hot work operations must be secured under two operational categories: 1) Per Project Duration for new construction or renovation projects, applied during construction after conducting a fire safety inspection; or 2) Annual Fire Safety Clearance for business establishments requiring daily repair, fabrication, or hot work maintenance due to the routine nature of their business operations.",
+    "queries": {
+      "english": "When must a business or contractor secure a BFP Fire Safety Clearance for welding, cutting, and hot works?",
+      "taglish": "Kailan kailangang kumuha ng Fire Safety Clearance para sa welding o hot works at paano ang validity nito?",
+      "bislish": "Kanus-a kinahanglan mukuha ug clearance sa bombero para sa welding o hot works ug unsa ang kalainan sa project-based ug annual?"
+    }
+  },
+  {
+    "group_id": "SCENARIO-BFP-006",
+    "pillar": "Bureau of Fire Protection",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "CHUNK-BFP-P001-C27"
+    ],
+    "ground_truth_reference_answer": "Under BFP Memorandum Circular No. 2016-016 and public anti-corruption warnings, the Bureau of Fire Protection does not accredit, endorse, or recommend any specific brand, store, or distributor of fire extinguishers or fire fighting equipment. BFP personnel are strictly prohibited from selling or recommending fire extinguishers. Portable fire extinguishers are regulated by the Department of Trade and Industry (DTI) through the Bureau of Product Standards (BPS), and establishments may purchase any brand that complies with Philippine National Standards (PNS).",
+    "queries": {
+      "english": "Does the BFP require a specific accredited brand of fire extinguisher, and can BFP inspectors sell equipment?",
+      "taglish": "Kailangan ba na accredited brand ng BFP ang bibilhing fire extinguisher, at pwede bang magbenta ang inspector ng bombero?",
+      "bislish": "Tinuod ba nga kailangan accredited sa BFP ang brand sa fire extinguisher o pwede ba mamaligya ang inspector sa bombero?"
+    }
+  }
+]

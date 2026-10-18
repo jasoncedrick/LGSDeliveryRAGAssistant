@@ -1,0 +1,5 @@
+Development commands (repository root; previous output directories cannot be reused):
+D:/thesis/venv/Scripts/python.exe -B scripts/batch_generate_development.py --output-name NEW_GENERATION_DIR --ids DEV-EVID-01,DEV-EVID-06
+D:/thesis/venv/Scripts/python.exe -B scripts/score_development_ragas.py --input-name NEW_GENERATION_DIR --output-name NEW_SCORE_DIR --record-id DEV-EVID-06-normalized-K3 --metrics faithfulness context_precision answer_relevancy context_recall --strict-recall-json
+Omit --ids to generate all saved development records. Omit --record-id to score the archive; non-scorable records receive explicit status and remain retained.
+These are development diagnostics, not Config A/B/C final benchmark runs.

@@ -1,0 +1,98 @@
+BFP PDF page 1: documentary applicability matrix.
+Editorial convention: dot shown means marked in this source; blank does not establish exemption.
+
+DOCUMENT: 1)Architectural documents
+CONDITION: Three (3) set of the following documents
+CONDITION: Note: Documents refers to design plans, calculations and specifications signed and sealed by the Professional Engineer/ Architect
+DOT SHOWN FOR: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION
+
+DOCUMENT: 2) Civil documents
+CONDITION: Three (3) set of the following documents
+CONDITION: Note: Documents refers to design plans, calculations and specifications signed and sealed by the Professional Engineer/ Architect
+DOT SHOWN FOR: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION
+
+DOCUMENT: 3) Electrical documents
+CONDITION: Three (3) set of the following documents
+CONDITION: Note: Documents refers to design plans, calculations and specifications signed and sealed by the Professional Engineer/ Architect
+DOT SHOWN FOR: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION
+
+DOCUMENT: 4) Mechanical documents
+CONDITION: Three (3) set of the following documents
+CONDITION: Note: Documents refers to design plans, calculations and specifications signed and sealed by the Professional Engineer/ Architect
+DOT SHOWN FOR: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION
+
+DOCUMENT: 5) Plumbing documents
+CONDITION: Three (3) set of the following documents
+CONDITION: Note: Documents refers to design plans, calculations and specifications signed and sealed by the Professional Engineer/ Architect
+DOT SHOWN FOR: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION
+
+DOCUMENT: 6) Electronics documents
+CONDITION: Three (3) set of the following documents
+CONDITION: Note: Documents refers to design plans, calculations and specifications signed and sealed by the Professional Engineer/ Architect
+DOT SHOWN FOR: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION
+
+DOCUMENT: 7) Sanitary documents
+CONDITION: Three (3) set of the following documents
+CONDITION: Note: Documents refers to design plans, calculations and specifications signed and sealed by the Professional Engineer/ Architect
+DOT SHOWN FOR: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION
+
+DOCUMENT: 8) Fire Protection documents
+CONDITION: Three (3) set of the following documents
+CONDITION: Note: Documents refers to design plans, calculations and specifications signed and sealed by the Professional Engineer/ Architect
+DOT SHOWN FOR: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION
+
+DOCUMENT: As-built plan together with the building permit (If there is changes/
+CONDITION: Source condition is visibly truncated; no missing text supplied.
+DOT SHOWN FOR: FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION / CERTIFICATE OF OCCUPANCY; FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION / NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION / NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION / RENEWAL OF BUSINESS PERMIT; FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION / RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST
+
+DOCUMENT: Copy of Fire Insurance, if any
+
+DOT SHOWN FOR: FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION / NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION / NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION / RENEWAL OF BUSINESS PERMIT; FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION / RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST
+
+DOCUMENT: One (1) set of the estimate value of the building/structure or facilities (materials and labor cost) signed and sealed
+
+DOT SHOWN FOR: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION
+
+DOCUMENT: Copy of valid PRC Professional License of all involved professionals
+
+DOT SHOWN FOR: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION
+
+DOCUMENT: Endorsement from the Office of Building Official (OBO)
+CONDITION: If applied in Fire Station/Lone District Fire Office)
+DOT SHOWN FOR: FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION / CERTIFICATE OF OCCUPANCY
+
+DOCUMENT: Certificate of Completion
+CONDITION: If applied in Fire Station/Lone District Fire Office)
+DOT SHOWN FOR: FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION / CERTIFICATE OF OCCUPANCY
+
+DOCUMENT: Certified true copy of assessment fee for securing Certificate of Occupancy from OBO
+CONDITION: If applied in Fire Station/Lone District Fire Office)
+DOT SHOWN FOR: FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION / CERTIFICATE OF OCCUPANCY
+
+DOCUMENT: Certified True Copy of Valid Certificate of Occupancy
+CONDITION: If applied in Fire Station/Lone District Fire Office)
+DOT SHOWN FOR: FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION / NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE
+
+DOCUMENT: Assessment of Business Permit Fee/ Tax Assessment Bill from Business Processing and Licensing Office (BPLO)
+CONDITION: If applied in Fire Station/Lone District Fire Office)
+DOT SHOWN FOR: FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION / NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION / NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION / RENEWAL OF BUSINESS PERMIT; FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION / RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST
+
+DOCUMENT: NOTE (1) Fire Safety Compliance Report (FSCR)
+CONDITION: Note: FSCR/FSCCR/FSMR is required if the building/facilities/structures are required to install any or combination of the following: 1) Wet standpipe system; 2) Automatic fire suppression system; and 3) Automatic fire detection and alarm system.
+DOT SHOWN FOR: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION
+
+DOCUMENT: NOTE (2) Fire Safety Compliance and Commissioning Report (FSCCR)
+CONDITION: Note: FSCR/FSCCR/FSMR is required if the building/facilities/structures are required to install any or combination of the following: 1) Wet standpipe system; 2) Automatic fire suppression system; and 3) Automatic fire detection and alarm system.
+DOT SHOWN FOR: FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION / CERTIFICATE OF OCCUPANCY
+
+DOCUMENT: NOTE (3) Fire Safety Maintenance Report (FSMR)
+CONDITION: Note: FSCR/FSCCR/FSMR is required if the building/facilities/structures are required to install any or combination of the following: 1) Wet standpipe system; 2) Automatic fire suppression system; and 3) Automatic fire detection and alarm system.
+DOT SHOWN FOR: FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION / NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION / RENEWAL OF BUSINESS PERMIT; FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION / RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST
+
+DOCUMENT: 1) Per Project Duration – for new construction or renovation (during construction) This clearance should be applied during construction after the conduct of fire safety inspection
+CONDITION: Fire Safety Clearance for welding, cutting, and other hot work operations (if required), shall be secured:
+DOT SHOWN FOR: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION
+
+DOCUMENT: 2) Annual – for business establishments requiring almost daily repair or maintenance due to its nature of business or operations.
+CONDITION: Fire Safety Clearance for welding, cutting, and other hot work operations (if required), shall be secured:
+DOT SHOWN FOR: FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION / RENEWAL OF BUSINESS PERMIT; FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION / RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST

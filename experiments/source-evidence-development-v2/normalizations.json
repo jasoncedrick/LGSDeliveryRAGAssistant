@@ -1,0 +1,208 @@
+[
+  {
+    "id": "DEV-EVID-01",
+    "raw_query": "For an occupancy permit, how long does OCBO take to encode and receive documents?",
+    "status": "SUCCESS",
+    "term_id": null,
+    "clarification_prompt": null,
+    "normalized_query": "What is the processing duration for the OCBO Occupancy Permit (Certificate of Occupancy) document encoding and submission?",
+    "injected_terms": [
+      "occupancy permit"
+    ],
+    "resolved_terms": [],
+    "tokens_generated": 28,
+    "eval_duration_ms": 539.889
+  },
+  {
+    "id": "DEV-EVID-02",
+    "raw_query": "For an occupancy permit, how long is the structural inspection and assessment?",
+    "status": "SUCCESS",
+    "term_id": null,
+    "clarification_prompt": null,
+    "normalized_query": "What is the duration of the structural inspection and assessment for an OCBO Occupancy Permit (Certificate of Occupancy)?",
+    "injected_terms": [
+      "occupancy permit"
+    ],
+    "resolved_terms": [],
+    "tokens_generated": 28,
+    "eval_duration_ms": 711.472
+  },
+  {
+    "id": "DEV-EVID-03",
+    "raw_query": "During an occupancy permit inspection, who must be present on-site?",
+    "status": "SUCCESS",
+    "term_id": null,
+    "clarification_prompt": null,
+    "normalized_query": "Who must be present during an OCBO Occupancy Permit inspection?",
+    "injected_terms": [
+      "occupancy permit"
+    ],
+    "resolved_terms": [],
+    "tokens_generated": 17,
+    "eval_duration_ms": 393.774
+  },
+  {
+    "id": "DEV-EVID-04",
+    "raw_query": "For an occupancy permit, how long does routing documents to zoning for validation take?",
+    "status": "SUCCESS",
+    "term_id": null,
+    "clarification_prompt": null,
+    "normalized_query": "What is the processing duration for routing documents for Occupancy Permit validation at Zoning?",
+    "injected_terms": [
+      "occupancy permit"
+    ],
+    "resolved_terms": [],
+    "tokens_generated": 21,
+    "eval_duration_ms": 535.933999
+  },
+  {
+    "id": "DEV-EVID-05",
+    "raw_query": "What is the City Treasurer fee for washing of hogs?",
+    "status": "SUCCESS",
+    "term_id": null,
+    "clarification_prompt": null,
+    "normalized_query": "What is the fee for hog washing services provided by the City Treasurer?",
+    "injected_terms": [],
+    "resolved_terms": [],
+    "tokens_generated": 18,
+    "eval_duration_ms": 455.613
+  },
+  {
+    "id": "DEV-EVID-06",
+    "raw_query": "What is the chicken block chilling rate, including its quantity condition?",
+    "status": "SUCCESS",
+    "term_id": null,
+    "clarification_prompt": null,
+    "normalized_query": "What is the rate for chicken block chilling, including any quantity conditions?",
+    "injected_terms": [],
+    "resolved_terms": [],
+    "tokens_generated": 16,
+    "eval_duration_ms": 398.413
+  },
+  {
+    "id": "DEV-EVID-07",
+    "raw_query": "Under the BFP charter, what happens to FSIF when the LGU or PEZA assessment is zero?",
+    "status": "SUCCESS",
+    "term_id": null,
+    "clarification_prompt": null,
+    "normalized_query": "What is the process for Fire Safety Inspection Fee (FSIF) under the BFP charter when the Local Government Unit (LGU) or PEZA assessment is zero?",
+    "injected_terms": [],
+    "resolved_terms": [],
+    "tokens_generated": 40,
+    "eval_duration_ms": 826.764
+  },
+  {
+    "id": "DEV-EVID-08",
+    "raw_query": "What is the BFP FSEC application fee?",
+    "status": "SUCCESS",
+    "term_id": null,
+    "clarification_prompt": null,
+    "normalized_query": "What is the fee for the Fire Safety Evaluation Clearance application?\n\nGlossary:\n- 'pangalan': 'Name'\n- 'pangalanan': 'Names'\n- 'pangalan nga negosyo': 'Name of the business'\n- 'pangalan nga negosyo nga may sakit': 'Name of the sick business'\n- 'pangalan nga negosyo nga may sakit sa barangay': 'Name of the sick business in the barangay'\n- 'pangalan nga negosyo nga may sakit sa lungsod': 'Name of the sick",
+    "injected_terms": [
+      "fsec"
+    ],
+    "resolved_terms": [],
+    "tokens_generated": 150,
+    "eval_duration_ms": 2985.675
+  },
+  {
+    "id": "DEV-EVID-09",
+    "raw_query": "For business permit renewal, what employee information must the list include and how many copies?",
+    "status": "SUCCESS",
+    "term_id": null,
+    "clarification_prompt": null,
+    "normalized_query": "For business permit renewal, what employee details should the list contain and how many copies are required?",
+    "injected_terms": [],
+    "resolved_terms": [],
+    "tokens_generated": 21,
+    "eval_duration_ms": 487.378
+  },
+  {
+    "id": "DEV-EVID-10",
+    "raw_query": "For business permit renewal, what authority document does a represented sole proprietor need?",
+    "status": "SUCCESS",
+    "term_id": null,
+    "clarification_prompt": null,
+    "normalized_query": "For business permit renewal, what authority document does a represented sole proprietor require?",
+    "injected_terms": [],
+    "resolved_terms": [],
+    "tokens_generated": 18,
+    "eval_duration_ms": 434.086
+  },
+  {
+    "id": "DEV-EVID-11",
+    "raw_query": "For locational clearance for a three-storey building, how many building-plan sets are needed and how must they be prepared?",
+    "status": "SUCCESS",
+    "term_id": null,
+    "clarification_prompt": null,
+    "normalized_query": "For Locational Clearance of a three-storey building, how many building-plan sets are required and how should they be prepared?",
+    "injected_terms": [
+      "locational clearance"
+    ],
+    "resolved_terms": [],
+    "tokens_generated": 29,
+    "eval_duration_ms": 646.52
+  },
+  {
+    "id": "DEV-EVID-12",
+    "raw_query": "Who may apply for building locational clearance for three storeys and above?",
+    "status": "SUCCESS",
+    "term_id": null,
+    "clarification_prompt": null,
+    "normalized_query": "Who may apply for a Locational Clearance for projects with three storeys or more?",
+    "injected_terms": [
+      "locational clearance"
+    ],
+    "resolved_terms": [],
+    "tokens_generated": 19,
+    "eval_duration_ms": 496.213
+  },
+  {
+    "id": "DEV-EVID-13",
+    "raw_query": "How long does OCBO take to encode and receive documents?",
+    "status": "SUCCESS",
+    "term_id": null,
+    "clarification_prompt": null,
+    "normalized_query": "What is the processing duration for document encoding and receipt at eBOSS?",
+    "injected_terms": [],
+    "resolved_terms": [],
+    "tokens_generated": 17,
+    "eval_duration_ms": 455.658
+  },
+  {
+    "id": "DEV-EVID-14",
+    "raw_query": "How long is the structural inspection?",
+    "status": "SUCCESS",
+    "term_id": null,
+    "clarification_prompt": null,
+    "normalized_query": "What is the duration of the structural inspection?",
+    "injected_terms": [],
+    "resolved_terms": [],
+    "tokens_generated": 10,
+    "eval_duration_ms": 262.218
+  },
+  {
+    "id": "DEV-EVID-15",
+    "raw_query": "What documents do I need for clearance?",
+    "status": "SUCCESS",
+    "term_id": null,
+    "clarification_prompt": null,
+    "normalized_query": "What documents are required for clearance?",
+    "injected_terms": [],
+    "resolved_terms": [],
+    "tokens_generated": 9,
+    "eval_duration_ms": 285.417
+  },
+  {
+    "id": "DEV-EVID-16",
+    "raw_query": "How much is the permit fee?",
+    "status": "SUCCESS",
+    "term_id": null,
+    "clarification_prompt": null,
+    "normalized_query": "What is the fee for a permit?",
+    "injected_terms": [],
+    "resolved_terms": [],
+    "tokens_generated": 9,
+    "eval_duration_ms": 285.996
+  }
+]

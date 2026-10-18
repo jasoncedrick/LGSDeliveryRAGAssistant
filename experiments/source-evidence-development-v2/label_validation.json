@@ -1,0 +1,166 @@
+[
+  {
+    "id": "DEV-EVID-01",
+    "page": "OCBO-PDF0014",
+    "printed_page": 502,
+    "all_fragments_found": true,
+    "evidence_groups": [
+      [
+        "2.1 Encode and receive documents",
+        "PROCESSING TIME: 5 Minutes"
+      ]
+    ],
+    "scope_validation": "Source and prior visual reviews support label; row association and independent review remain separate from substring validation."
+  },
+  {
+    "id": "DEV-EVID-02",
+    "page": "OCBO-PDF0015",
+    "printed_page": 503,
+    "all_fragments_found": true,
+    "evidence_groups": [
+      [
+        "Structural",
+        "PROCESSING TIME: 2 Days"
+      ]
+    ],
+    "scope_validation": "Source and prior visual reviews support label; row association and independent review remain separate from substring validation."
+  },
+  {
+    "id": "DEV-EVID-03",
+    "page": "OCBO-PDF0015",
+    "printed_page": 503,
+    "all_fragments_found": true,
+    "evidence_groups": [
+      [
+        "During the inspection",
+        "client and/or authorized representative",
+        "architect or engineer",
+        "must be present on-site"
+      ]
+    ],
+    "scope_validation": "Source and prior visual reviews support label; row association and independent review remain separate from substring validation."
+  },
+  {
+    "id": "DEV-EVID-04",
+    "page": "OCBO-PDF0014",
+    "printed_page": 502,
+    "all_fragments_found": true,
+    "evidence_groups": [
+      [
+        "2.4 Route to zoning for validation",
+        "PROCESSING TIME: 1 Day"
+      ]
+    ],
+    "scope_validation": "Source and prior visual reviews support label; row association and independent review remain separate from substring validation."
+  },
+  {
+    "id": "DEV-EVID-05",
+    "page": "CTO-PDF0006",
+    "printed_page": 161,
+    "all_fragments_found": true,
+    "evidence_groups": [
+      [
+        "Washing of Hogs",
+        "10.00 per head"
+      ]
+    ],
+    "scope_validation": "Source and prior visual reviews support label; row association and independent review remain separate from substring validation."
+  },
+  {
+    "id": "DEV-EVID-06",
+    "page": "CTO-PDF0006",
+    "printed_page": 161,
+    "all_fragments_found": true,
+    "evidence_groups": [
+      [
+        "Chicken",
+        "500.00per 1,000 heads or a fraction thereof"
+      ]
+    ],
+    "scope_validation": "Source and prior visual reviews support label; row association and independent review remain separate from substring validation."
+  },
+  {
+    "id": "DEV-EVID-07",
+    "page": "BFP-PDF0001",
+    "printed_page": null,
+    "all_fragments_found": true,
+    "evidence_groups": [
+      [
+        "If assessment from LGUs/PEZA = 0, then",
+        "FSIF = 0"
+      ]
+    ],
+    "scope_validation": "Source and prior visual reviews support label; row association and independent review remain separate from substring validation."
+  },
+  {
+    "id": "DEV-EVID-08",
+    "page": "BFP-PDF0001",
+    "printed_page": null,
+    "all_fragments_found": true,
+    "evidence_groups": [
+      [
+        "For FSEC",
+        "Application Fee: Php 200.00"
+      ]
+    ],
+    "scope_validation": "Source and prior visual reviews support label; row association and independent review remain separate from substring validation."
+  },
+  {
+    "id": "DEV-EVID-09",
+    "page": "BB-PDF0016",
+    "printed_page": 55,
+    "all_fragments_found": true,
+    "evidence_groups": [
+      [
+        "RENEWAL",
+        "List of Employees stating the Name and Position of the Employees (1 copy)"
+      ]
+    ],
+    "scope_validation": "Source and prior visual reviews support label; row association and independent review remain separate from substring validation."
+  },
+  {
+    "id": "DEV-EVID-10",
+    "page": "BB-PDF0016",
+    "printed_page": 55,
+    "all_fragments_found": true,
+    "evidence_groups": [
+      [
+        "For Sole Proprietorship, if represented",
+        "Special Power of Attorney",
+        "specific authority and capacity"
+      ],
+      [
+        "Special Power of Attorney",
+        "notarized by any Notary Public"
+      ]
+    ],
+    "scope_validation": "Source and prior visual reviews support label; row association and independent review remain separate from substring validation."
+  },
+  {
+    "id": "DEV-EVID-11",
+    "page": "CPDO-PDF0011",
+    "printed_page": 640,
+    "all_fragments_found": true,
+    "evidence_groups": [
+      [
+        "Seven (7) complete sets of Building Plans (original copy)",
+        "Filled-up title blocks",
+        "Signed and sealed by CE / Architect"
+      ]
+    ],
+    "scope_validation": "Source and prior visual reviews support label; row association and independent review remain separate from substring validation."
+  },
+  {
+    "id": "DEV-EVID-12",
+    "page": "CPDO-PDF0011",
+    "printed_page": 640,
+    "all_fragments_found": true,
+    "evidence_groups": [
+      [
+        "Who may avail",
+        "Building Owner or Authorized Representative"
+      ]
+    ],
+    "scope_validation": "Source and prior visual reviews support label; row association and independent review remain separate from substring validation."
+  }
+]

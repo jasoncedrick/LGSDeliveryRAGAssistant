@@ -1,0 +1,11 @@
+test_currency_negation_figures_preserved (test_methodology_data.CorpusTests) ... ok
+test_exact_token_windows_overlap_and_terminal (test_methodology_data.CorpusTests) ... ok
+test_hash_bound_source_correction (test_methodology_data.CorpusTests) ... ok
+test_no_unattributed_reconstruction (test_methodology_data.CorpusTests) ... ok
+test_reencoding_guard_keeps_twenty_source_token_overlap (test_methodology_data.CorpusTests) ... ok
+test_short_page_remains_short (test_methodology_data.CorpusTests) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.000s
+
+OK

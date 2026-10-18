@@ -1,0 +1,45 @@
+{
+  "model": [
+    {
+      "name": "eboss-mistral:latest",
+      "model": "eboss-mistral:latest",
+      "modified_at": "2026-09-26T11:36:13.0600617+08:00",
+      "size": 4372824053,
+      "digest": "39d9f435aeed825a340db73dfba9e7ce346664aa00727c9066bb1f0352406a6f",
+      "details": {
+        "parent_model": "mistral:7b-instruct",
+        "format": "gguf",
+        "family": "llama",
+        "families": [
+          "llama"
+        ],
+        "parameter_size": "7.2B",
+        "quantization_level": "Q4_K_M",
+        "context_length": 32768,
+        "embedding_length": 4096,
+        "runner": "ggml"
+      },
+      "capabilities": [
+        "completion",
+        "tools"
+      ]
+    }
+  ],
+  "packages": {
+    "ragas": "0.1.5",
+    "langchain-community": "0.3.27",
+    "langchain-core": "0.3.86",
+    "datasets": "2.18.0",
+    "sentence-transformers": "2.5.1"
+  },
+  "scorer_sha256": "f9ae2baa659d7214281dc4d9bc5c9492fe812afdbc7dc5dfb8aef5ccab2f3de7",
+  "evaluation_only": true,
+  "generation_k": 5,
+  "temperature": 0,
+  "top_p": 0,
+  "num_ctx": 8192,
+  "num_predict": 1024,
+  "timeout_seconds": 90,
+  "max_workers": 1,
+  "max_retries": 0
+}

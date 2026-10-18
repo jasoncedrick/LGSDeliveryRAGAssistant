@@ -1,0 +1,50 @@
+{
+  "status": "OFFLINE_CANDIDATE_NOT_PROMOTED",
+  "baseline_automatic_passes": 14,
+  "candidate_automatic_passes": 21,
+  "total_cases": 24,
+  "confirmed_source_review_checkpoint": "experiments/normalization-reviewed-checkpoint-v1/review_checkpoint.json",
+  "assistant_semantic_findings": [
+    {
+      "id": "NF-02",
+      "verdict": "meaning_changed",
+      "reason": "Duration question changed into action-order question despite all lexical concepts matching."
+    },
+    {
+      "id": "NF-01",
+      "verdict": "review_required",
+      "reason": "Correct office expansion is retained but acronym omitted; regex office check fails. Expansion alone is not a wrong-office error."
+    },
+    {
+      "id": "NF-08",
+      "verdict": "review_required",
+      "reason": "Authority document becomes document from the authority; may change representation authorization into issuing-office requirement."
+    },
+    {
+      "id": "NF-09",
+      "verdict": "review_required",
+      "reason": "Representative corrected, but authority document becomes document the authority requires."
+    },
+    {
+      "id": "NF-11",
+      "verdict": "review_required",
+      "reason": "Washing corrected. Monetary settlement paraphrase fails narrow fee regex; requires semantic assessment, not automatic declaration of incorrectness."
+    },
+    {
+      "id": "NF-12",
+      "verdict": "review_required",
+      "reason": "Same monetary settlement issue as NF11."
+    }
+  ],
+  "observed_improvements": [
+    "Storey counts preserved in NF05/NF06/NF17/NF18.",
+    "Representative no longer translated as spouse in NF09.",
+    "Washing no longer translated as slaughter in NF11/NF12.",
+    "NF23 office expansion corrected.",
+    "All three dictionary conflicts still return clarification before translation."
+  ],
+  "suite_gap": "Duration versus sequence must be checked explicitly in a future version; do not rewrite this run to conceal a missed failure.",
+  "methodology": "Two few-shot examples, dictionary injection, 150-token ceiling, temperature/top_p=0, no contextual sense guessing; reviewed lexical guidance added only to offline candidate.",
+  "promotion": "No app prompt, dictionary, corpus, retrieval weight or artifact-default changes. No retrieval scores measured for candidate.",
+  "next_action": "Use semantic review findings to strengthen fixture acceptance criteria before selecting any production prompt; no need to repeat the old human reviews."
+}

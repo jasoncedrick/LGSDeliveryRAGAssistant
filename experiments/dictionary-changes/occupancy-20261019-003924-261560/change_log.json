@@ -1,0 +1,35 @@
+{
+  "status": "APPLIED_AND_VERIFIED",
+  "created_utc": "2026-10-18T16:39:24.262559+00:00",
+  "target": "D:\\thesis\\LGSDeliveryRAGAssistant-main\\data\\municipal_dictionary_v1.json",
+  "backup": "D:\\thesis\\LGSDeliveryRAGAssistant-main\\backups\\occupancy-dictionary-20261019-003924-261560\\municipal_dictionary_v1.json",
+  "entry": "occupancy permit",
+  "term_id": "DICT-OCBO-052",
+  "before_file_sha256": "5ab79c879066da851dc9355e8dd177609727d43f8c31cb1b5b26b970ef475b15",
+  "after_file_sha256": "fc2d68af72565ae4aef224bb212bf800c4e9cfa51ebebf0f7db71deb7354167f",
+  "changes": {
+    "verified_english_definition": {
+      "before": "Certificate of Occupancy",
+      "after": "OCBO Occupancy Permit (Certificate of Occupancy), required before a building or structure, or a portion thereof, is used or occupied, or when its existing use or occupancy classification changes."
+    },
+    "polysemy_flag": {
+      "before": true,
+      "after": false
+    },
+    "disambiguation_rule": {
+      "before": "Did you mean [Option A: OCBO Certificate of Occupancy for structural safety] or [Option B: Contract of Lease proving authority to occupy business space]?",
+      "after": ""
+    },
+    "curation_source": {
+      "before": "manual",
+      "after": "manual; Davao City Citizens Charter 2026, OCBO, Issuance of Occupancy Permit, printed pages 501-504, PDF-relative pages 13-16"
+    }
+  },
+  "reason": "The supplied OCBO service definition supports one occupancy-permit meaning; Contract of Lease is a distinct document, not an evidenced alternate meaning of this term.",
+  "source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf; printed pages 501-504, PDF-relative pages 13-16",
+  "review_basis": "User-supplied source screenshots and matching PDF text; no independent domain-review approval asserted.",
+  "other_dictionary_entries_changed": false,
+  "corpus_changed": false,
+  "indexes_rebuilt": false,
+  "benchmarks_changed": false
+}

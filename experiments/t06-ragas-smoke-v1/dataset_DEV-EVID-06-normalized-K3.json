@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What is the chicken block chilling rate, including its quantity condition?"
+  ],
+  "answer": [
+    "The chicken block chilling rate is 500.00 per 1,000 heads or a fraction thereof, as stated in [S1] under the Chicken item heading. The quantity condition is that the fee applies to 1,000 heads or a fraction thereof."
+  ],
+  "contexts": [
+    [
+      "FEE: P 10.00 per\n\nITEM OR HEADING: Block Chilling Facilities:\nFEE: [blank source cell]\n\nITEM OR HEADING: Large Cattle\nFEE: 200.00 per head\n\nITEM OR HEADING: Hog\nFEE: 100.00 per head\n\nITEM OR HEADING: Goat/Sheep\nFEE: 50.00 per head\n\nITEM OR HEADING: Chicken\nFEE: 500.00per 1,000 heads or a fraction thereof\n\nITEM OR HEADING: Washing of Hogs\nFEE: 10.00 per",
+      "ITEM: Carabaos/Buffaloes\nFEE: 70.00\n\nITEM: Hogs: a. Lechon\nFEE: 50.00\n\nITEM: b. Others\nFEE: 50.00\n\nITEM: Goats, Sheep/Deer\nFEE: 20.00\n\nITEM: Poultry\nFEE: 1.00\n\nITEM OR HEADING: Other Fees and Charges\nFEE: [blank source cell]\n\nITEM OR HEADING: Ice Crusher\nFEE: P 10.00 per\n\nITEM OR HEADING: Block Chilling Facilities:",
+      "required herein shall subject the \nLessee/Occupant to a surcharge of twenty-five percent (25%) of the amount of the rental \nfee plus an interest of two percent (2%) per month but not to exceed thirty-six (36) \nmonths.\nSection 351\nOCCUPANCY FEE FOR AWARDEE\nOccupancy Fee per Stall/Booth Depending on Market\nClassification\nClass A \nClass B \nClass C \nClass D\nMeat Section \nP 4,000.00 \nP 2,900.00 \nP 1,700.00 \n1,400.00\nDressed Chicken \n4,000.00 \n2,900.00"
+    ]
+  ],
+  "ground_truth": [
+    "Chicken 500.00per 1,000 heads or a fraction thereof"
+  ]
+}

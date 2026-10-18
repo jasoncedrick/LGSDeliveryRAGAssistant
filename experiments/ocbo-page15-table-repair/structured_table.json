@@ -1,0 +1,556 @@
+{
+  "source_pdf": "D:\\thesis\\LGSDeliveryRAGAssistant-main\\data\\raw_charters\\OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+  "pdf_sha256": "6f081dde0a63ade8aaa3f4dc5a26ceb0c7fde85f896951931d8222eaa86b3093",
+  "pdf_relative_page": 15,
+  "printed_page": 503,
+  "columns": [
+    "CLIENT STEPS",
+    "AGENCY ACTION",
+    "FEES TO BE PAID",
+    "PROCESSING TIME",
+    "PERSON RESPONSIBLE"
+  ],
+  "headers_from": "PDF page 13, printed 501",
+  "rows": [
+    {
+      "source_cells": [
+        {
+          "text": "3. During the\ninspection, the client\nand/or authorized\nrepresentative, such\nas an architect or\nengineer must be\npresent on-site",
+          "bbox": [
+            40.02399826049805,
+            72.22001139322917,
+            166.1500015258789,
+            210.7900390625
+          ]
+        },
+        {
+          "text": "3. Conduct inspection\nand assessment\n· Line & Grade\n· Architectural\n· Structural\n· Plumbing\n· Mechanical\n· Electrical",
+          "bbox": [
+            166.1500015258789,
+            72.22001139322917,
+            292.6800079345703,
+            210.7900390625
+          ]
+        },
+        {
+          "text": "None",
+          "bbox": [
+            292.6800079345703,
+            72.22001139322917,
+            359.1800079345703,
+            210.7900390625
+          ]
+        },
+        {
+          "text": "2 Days\n2 Days\n2 Days\n2 Days\n2 Days\n2 Days",
+          "bbox": [
+            359.1800079345703,
+            72.22001139322917,
+            456.65000915527344,
+            210.7900390625
+          ]
+        },
+        {
+          "text": "Civil Engineer\nCivil Engineer\nIED Chief\nPlumbing\nMechanical\nEngineer – OCBO",
+          "bbox": [
+            456.65000915527344,
+            72.22001139322917,
+            571.9799601236979,
+            210.7900390625
+          ]
+        }
+      ],
+      "heading": [
+        {
+          "text": "3. Conduct inspection",
+          "bbox": [
+            171.6699981689453,
+            70.63997650146484,
+            290.31396484375,
+            87.12797546386719
+          ]
+        },
+        {
+          "text": "and assessment",
+          "bbox": [
+            171.6699981689453,
+            84.56002044677734,
+            262.39599609375,
+            101.04801940917969
+          ]
+        }
+      ],
+      "pairs": [
+        {
+          "action": "· Line & Grade",
+          "processing_time": "2 Days",
+          "action_lines": [
+            {
+              "text": "· Line & Grade",
+              "bbox": [
+                171.6699981689453,
+                98.2400131225586,
+                253.03599548339844,
+                114.72801208496094
+              ]
+            }
+          ],
+          "time_line": {
+            "text": "2 Days",
+            "bbox": [
+              389.17999267578125,
+              98.2400131225586,
+              429.9859924316406,
+              114.72801208496094
+            ]
+          }
+        },
+        {
+          "action": "· Architectural",
+          "processing_time": "2 Days",
+          "action_lines": [
+            {
+              "text": "· Architectural",
+              "bbox": [
+                171.6699981689453,
+                112.19002532958984,
+                248.95599365234375,
+                128.6780242919922
+              ]
+            }
+          ],
+          "time_line": {
+            "text": "2 Days",
+            "bbox": [
+              389.17999267578125,
+              112.19002532958984,
+              429.9859924316406,
+              128.6780242919922
+            ]
+          }
+        },
+        {
+          "action": "· Structural",
+          "processing_time": "2 Days",
+          "action_lines": [
+            {
+              "text": "· Structural",
+              "bbox": [
+                171.6699981689453,
+                125.8700180053711,
+                233.5959930419922,
+                142.35801696777344
+              ]
+            }
+          ],
+          "time_line": {
+            "text": "2 Days",
+            "bbox": [
+              389.17999267578125,
+              125.8700180053711,
+              429.9859924316406,
+              142.35801696777344
+            ]
+          }
+        },
+        {
+          "action": "· Plumbing",
+          "processing_time": "2 Days",
+          "action_lines": [
+            {
+              "text": "· Plumbing",
+              "bbox": [
+                171.6699981689453,
+                139.79000854492188,
+                232.39599609375,
+                156.2779998779297
+              ]
+            }
+          ],
+          "time_line": {
+            "text": "2 Days",
+            "bbox": [
+              389.17999267578125,
+              139.79000854492188,
+              429.9859924316406,
+              156.2779998779297
+            ]
+          }
+        },
+        {
+          "action": "· Mechanical",
+          "processing_time": "2 Days",
+          "action_lines": [
+            {
+              "text": "· Mechanical",
+              "bbox": [
+                171.6699981689453,
+                153.47000122070312,
+                242.95599365234375,
+                169.95799255371094
+              ]
+            }
+          ],
+          "time_line": {
+            "text": "2 Days",
+            "bbox": [
+              389.17999267578125,
+              153.47000122070312,
+              429.9859924316406,
+              169.95799255371094
+            ]
+          }
+        },
+        {
+          "action": "· Electrical",
+          "processing_time": "2 Days",
+          "action_lines": [
+            {
+              "text": "· Electrical",
+              "bbox": [
+                171.6699981689453,
+                167.38998413085938,
+                230.95599365234375,
+                183.8779754638672
+              ]
+            }
+          ],
+          "time_line": {
+            "text": "2 Days",
+            "bbox": [
+              389.17999267578125,
+              167.38998413085938,
+              429.9859924316406,
+              183.8779754638672
+            ]
+          }
+        }
+      ],
+      "personnel_substep_assignment": "not_inferred"
+    },
+    {
+      "source_cells": [
+        {
+          "text": "4. Wait for\nnotification for OP\nand endorsement to\nBFP",
+          "bbox": [
+            40.02399826049805,
+            210.7900390625,
+            166.1500015258789,
+            694.5520222981771
+          ]
+        },
+        {
+          "text": "4.1 Assess\napplication for OP\n4.2 Release OP (for\nOccupancy and\nZoning), plans and\ndocuments to be\nendorsed with BFP\n4.3 Receive plans,\ndocuments, FSEC,\nZoning clearance\n4.4 Evaluate plans\ndocuments\n4.5 Forward to\nBuilding Inspector for\ninitial signature\n4.6 Forward to\nInspection and\nEnforcement Chief\nDivision (IED) for\nsigning",
+          "bbox": [
+            166.1500015258789,
+            210.7900390625,
+            292.6800079345703,
+            694.5520222981771
+          ]
+        },
+        {
+          "text": "None",
+          "bbox": [
+            292.6800079345703,
+            210.7900390625,
+            359.1800079345703,
+            694.5520222981771
+          ]
+        },
+        {
+          "text": "1 Day\n5 Minutes\n5 Minutes\n1 Day\n4 Hours\n4 Hours",
+          "bbox": [
+            359.1800079345703,
+            210.7900390625,
+            456.65000915527344,
+            694.5520222981771
+          ]
+        },
+        {
+          "text": "Civil Engineer –\nOCBO\nInformation\nSystems Operator\n– OCBO\nTechnical Assistant\non Planning and\nDevelopment,\nCivil Engineer –\nOCBO\nCivil Engineer –\nOCBO\nIED Chief – OCBO\nAdministrative\nService Officer –\nOCBO\nInformation\nSystems Officer –\nOCBO\nRecords Personnel\n– OCBO",
+          "bbox": [
+            456.65000915527344,
+            210.7900390625,
+            571.9799601236979,
+            694.5520222981771
+          ]
+        }
+      ],
+      "heading": [],
+      "pairs": [
+        {
+          "action": "4.1 Assess application for OP",
+          "processing_time": "1 Day",
+          "action_lines": [
+            {
+              "text": "4.1 Assess",
+              "bbox": [
+                171.6699981689453,
+                209.17001342773438,
+                233.7699737548828,
+                225.6580047607422
+              ]
+            },
+            {
+              "text": "application for OP",
+              "bbox": [
+                171.6699981689453,
+                223.08999633789062,
+                270.3160095214844,
+                239.57798767089844
+              ]
+            }
+          ],
+          "time_line": {
+            "text": "1 Day",
+            "bbox": [
+              392.29998779296875,
+              209.17001342773438,
+              427.1059875488281,
+              225.6580047607422
+            ]
+          }
+        },
+        {
+          "action": "4.2 Release OP (for Occupancy and Zoning), plans and documents to be endorsed with BFP",
+          "processing_time": "5 Minutes",
+          "action_lines": [
+            {
+              "text": "4.2 Release OP (for",
+              "bbox": [
+                171.6699981689453,
+                278.32000732421875,
+                281.2059020996094,
+                294.8080139160156
+              ]
+            },
+            {
+              "text": "Occupancy and",
+              "bbox": [
+                171.6699981689453,
+                292.0,
+                258.4539489746094,
+                308.4880065917969
+              ]
+            },
+            {
+              "text": "Zoning), plans and",
+              "bbox": [
+                171.6699981689453,
+                305.9200134277344,
+                274.4619445800781,
+                322.40802001953125
+              ]
+            },
+            {
+              "text": "documents to be",
+              "bbox": [
+                171.6699981689453,
+                319.6000061035156,
+                263.6979675292969,
+                336.0880126953125
+              ]
+            },
+            {
+              "text": "endorsed with BFP",
+              "bbox": [
+                171.6699981689453,
+                333.52001953125,
+                276.3160095214844,
+                350.0080261230469
+              ]
+            }
+          ],
+          "time_line": {
+            "text": "5 Minutes",
+            "bbox": [
+              381.9800109863281,
+              278.32000732421875,
+              437.4259948730469,
+              294.8080139160156
+            ]
+          }
+        },
+        {
+          "action": "4.3 Receive plans, documents, FSEC, Zoning clearance",
+          "processing_time": "5 Minutes",
+          "action_lines": [
+            {
+              "text": "4.3 Receive plans,",
+              "bbox": [
+                171.6699981689453,
+                374.82000732421875,
+                273.7779541015625,
+                391.3080139160156
+              ]
+            },
+            {
+              "text": "documents, FSEC,",
+              "bbox": [
+                171.6699981689453,
+                388.7400207519531,
+                275.48193359375,
+                405.22802734375
+              ]
+            },
+            {
+              "text": "Zoning clearance",
+              "bbox": [
+                171.6699981689453,
+                402.4200134277344,
+                267.19598388671875,
+                418.90802001953125
+              ]
+            }
+          ],
+          "time_line": {
+            "text": "5 Minutes",
+            "bbox": [
+              381.9800109863281,
+              374.82000732421875,
+              437.4259948730469,
+              391.3080139160156
+            ]
+          }
+        },
+        {
+          "action": "4.4 Evaluate plans documents",
+          "processing_time": "1 Day",
+          "action_lines": [
+            {
+              "text": "4.4 Evaluate plans",
+              "bbox": [
+                171.6699981689453,
+                499.1600036621094,
+                273.8019714355469,
+                515.6480102539062
+              ]
+            },
+            {
+              "text": "documents",
+              "bbox": [
+                171.6699981689453,
+                512.8399658203125,
+                233.83599853515625,
+                529.3280029296875
+              ]
+            }
+          ],
+          "time_line": {
+            "text": "1 Day",
+            "bbox": [
+              392.29998779296875,
+              512.8399658203125,
+              427.1059875488281,
+              529.3280029296875
+            ]
+          }
+        },
+        {
+          "action": "4.5 Forward to Building Inspector for initial signature",
+          "processing_time": "4 Hours",
+          "action_lines": [
+            {
+              "text": "4.5 Forward to",
+              "bbox": [
+                171.6699981689453,
+                540.469970703125,
+                252.41795349121094,
+                556.9580078125
+              ]
+            },
+            {
+              "text": "Building Inspector for",
+              "bbox": [
+                171.6699981689453,
+                554.1499633789062,
+                287.9019470214844,
+                570.6380004882812
+              ]
+            },
+            {
+              "text": "initial signature",
+              "bbox": [
+                171.6699981689453,
+                568.0699462890625,
+                254.95599365234375,
+                584.5579833984375
+              ]
+            }
+          ],
+          "time_line": {
+            "text": "4 Hours",
+            "bbox": [
+              387.0199890136719,
+              554.1499633789062,
+              432.385986328125,
+              570.6380004882812
+            ]
+          }
+        },
+        {
+          "action": "4.6 Forward to Inspection and Enforcement Chief Division (IED) for signing",
+          "processing_time": "4 Hours",
+          "action_lines": [
+            {
+              "text": "4.6 Forward to",
+              "bbox": [
+                171.6699981689453,
+                609.3499755859375,
+                252.41795349121094,
+                625.8380126953125
+              ]
+            },
+            {
+              "text": "Inspection and",
+              "bbox": [
+                171.6699981689453,
+                623.2899780273438,
+                253.14993286132812,
+                639.7780151367188
+              ]
+            },
+            {
+              "text": "Enforcement Chief",
+              "bbox": [
+                171.6699981689453,
+                636.969970703125,
+                274.4739685058594,
+                653.4580078125
+              ]
+            },
+            {
+              "text": "Division (IED) for",
+              "bbox": [
+                171.6699981689453,
+                650.8899536132812,
+                265.85797119140625,
+                667.3779907226562
+              ]
+            },
+            {
+              "text": "signing",
+              "bbox": [
+                171.6699981689453,
+                664.5699462890625,
+                212.92599487304688,
+                681.0579833984375
+              ]
+            }
+          ],
+          "time_line": {
+            "text": "4 Hours",
+            "bbox": [
+              387.0199890136719,
+              623.2899780273438,
+              432.385986328125,
+              639.7780151367188
+            ]
+          }
+        }
+      ],
+      "personnel_substep_assignment": "not_inferred"
+    }
+  ],
+  "editorial_labels": "Shared-cell and inspection-category labels describe representation only."
+}

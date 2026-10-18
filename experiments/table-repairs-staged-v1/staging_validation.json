@@ -1,0 +1,55 @@
+{
+  "status": "DEVELOPMENT_SOURCE_STAGING_NOT_INDEXED",
+  "source_pages": 358,
+  "changed_pages": [
+    "CTO-PDF0006",
+    "OCBO-PDF0014",
+    "OCBO-PDF0015",
+    "BFP-PDF0001"
+  ],
+  "unchanged_pages": 354,
+  "bfp_original_text_exactly_recoverable": true,
+  "annotations": 26,
+  "source_text_deleted_or_repeated": false,
+  "application_form_mappings": 4,
+  "reviewer_interpretation_in_retrieval_text": false,
+  "protected_file_hashes": {
+    "data\\raw_charters\\BFP-CITIZENS-CHARTER-2022.pdf": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+    "app\\pipeline.py": "c773ede0be8a7f31ca53124a5ed9d9cad29ccf3726634b25c162a0321ac84cd2",
+    "data\\municipal_dictionary_v1.json": "5ecbcc99538d9a88c7905378abe8a3712831afdfe8e9647cfdf2698600bdab62",
+    "experiments\\chapter3-step2-development\\bm25_index.pkl": "5a822a0b9719d4a021e7d65dcc179f3dc91b15ce5621875346fce757377e016e",
+    "experiments\\chapter3-step2-development\\corpus.json": "e5c5ff0d20df1c8a29af0f36c584c4a358d7da745b31bfb3292c80e736b886b5",
+    "experiments\\chapter3-step2-development\\faiss_index.bin": "f97d0f6a4b5d7d525c6b3514635b4384c94719ff5c428d4f23fa700e29fc45fd",
+    "experiments\\chapter3-step2-development\\index_provenance.json": "6fdb23262c6c1d5bec3ce5e92800c25c4d853e4a008c1ae7c101bc46c2981710",
+    "experiments\\chapter3-step2-development\\pipeline_manifest.json": "9c6b9e68fe2f5646ce37455c91b59639b61ec25155ba9a3f63efcefec08f2bf6",
+    "experiments\\chapter3-step2-development\\readback_validation.json": "4525a78319434c8b91910d0a4e87de3449de33ad7a44557630b825d34a57126b",
+    "experiments\\chapter3-step2-development\\smoke_checks.json": "f01c6f2ed2209a1676922e20d852522b9338a8251ec604f7733b8bacf45ff1f2",
+    "experiments\\chapter3-step2-development\\source_pages.json": "7d995513e7b869f78680db624c98bee95ff6867b38295ef4a61697b64c12210a",
+    "experiments\\chapter3-step2-development\\step2_changes.patch": "564c0ecbbf572503734f6e916d58a373dd6c8b9d4c609a53b60e13a4f8bd914c",
+    "experiments\\chapter3-step2-development\\step2_change_log.json": "c5975968c0a9524b52acebef7e2bf4d3f4bf4d5105ea5b3bb8477770d063717b",
+    "experiments\\chapter3-step2-development\\test_results.txt": "f081c32e5c745c62f5edef7ad8cd0038014cacf95785cbb53c31ea425194bd18",
+    "experiments\\chapter3-step2-development\\validation.json": "56bbe6781445e0477ee1808def627a30edcb01c91755dd1ab8b54f1682e319ec"
+  },
+  "repair_input_hashes": {
+    "experiments\\ocbo-page14-table-repair\\after_source_page.json": "ee317a77d18ea78047943a0e42b32acc11dc23ef67cc90f181a46647535e27f6",
+    "experiments\\ocbo-page15-table-repair\\after_source_page.json": "69849bd08dc97b58c7f620d87334fac6d45514590fe79f38f10049a68b0e85b3",
+    "experiments\\cto-page6-table-repair\\after_source_page.json": "31938fc436a992c785397548e5f0c454a7615cce45ee5bce3e902acc9bd2681d"
+  },
+  "indices_rebuilt": false,
+  "app_modified": false,
+  "benchmark_accessed": false,
+  "remaining_review": [
+    "Image-only poster content is preserved visually but not fully transcribed into retrieval text; complete visual coverage cannot be certified.",
+    "Non-matrix procedure table text is preserved, but its row relationships have not been newly certified.",
+    "Final human source sign-off and CTO Ice Crusher unit clarification remain pending."
+  ],
+  "next_build_constraints": {
+    "window_tokens": 120,
+    "overlap_tokens": 20,
+    "scoring": "chunk-level BM25-FAISS-dictionary",
+    "allowed_k": [
+      3,
+      5
+    ]
+  }
+}

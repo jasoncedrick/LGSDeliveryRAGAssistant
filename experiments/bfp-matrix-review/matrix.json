@@ -1,0 +1,672 @@
+{
+  "source_pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+  "pdf_relative_page": 1,
+  "columns": [
+    {
+      "id": "S1",
+      "label": "FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION",
+      "parent_heading": null,
+      "x_range": [
+        956.2284960476858,
+        1201.5052602667558
+      ]
+    },
+    {
+      "id": "S2",
+      "label": "CERTIFICATE OF OCCUPANCY",
+      "parent_heading": "FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION",
+      "x_range": [
+        1201.5052602667558,
+        1451.8954253325592
+      ]
+    },
+    {
+      "id": "S3",
+      "label": "NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE",
+      "parent_heading": "FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION",
+      "x_range": [
+        1451.8954253325592,
+        1707.1102797564338
+      ]
+    },
+    {
+      "id": "S4",
+      "label": "NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE",
+      "parent_heading": "FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION",
+      "x_range": [
+        1707.1102797564338,
+        1992.1091021369484
+      ]
+    },
+    {
+      "id": "S5",
+      "label": "RENEWAL OF BUSINESS PERMIT",
+      "parent_heading": "FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION",
+      "x_range": [
+        1992.1091021369484,
+        2265.004710477941
+      ]
+    },
+    {
+      "id": "S6",
+      "label": "RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST",
+      "parent_heading": "FIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION",
+      "x_range": [
+        2265.004710477941,
+        2574.606028965541
+      ]
+    }
+  ],
+  "rows": [
+    {
+      "text": "1)Architectural documents",
+      "y_range": [
+        1220,
+        1264
+      ],
+      "conditions": [
+        "Three (3) set of the following documents",
+        "Note: Documents refers to design plans, calculations and specifications signed and sealed by the Professional Engineer/ Architect"
+      ],
+      "cells": {
+        "S1": "dot shown",
+        "S2": "blank in source",
+        "S3": "blank in source",
+        "S4": "blank in source",
+        "S5": "blank in source",
+        "S6": "blank in source"
+      }
+    },
+    {
+      "text": "2) Civil documents",
+      "y_range": [
+        1264,
+        1311
+      ],
+      "conditions": [
+        "Three (3) set of the following documents",
+        "Note: Documents refers to design plans, calculations and specifications signed and sealed by the Professional Engineer/ Architect"
+      ],
+      "cells": {
+        "S1": "dot shown",
+        "S2": "blank in source",
+        "S3": "blank in source",
+        "S4": "blank in source",
+        "S5": "blank in source",
+        "S6": "blank in source"
+      }
+    },
+    {
+      "text": "3) Electrical documents",
+      "y_range": [
+        1311,
+        1356
+      ],
+      "conditions": [
+        "Three (3) set of the following documents",
+        "Note: Documents refers to design plans, calculations and specifications signed and sealed by the Professional Engineer/ Architect"
+      ],
+      "cells": {
+        "S1": "dot shown",
+        "S2": "blank in source",
+        "S3": "blank in source",
+        "S4": "blank in source",
+        "S5": "blank in source",
+        "S6": "blank in source"
+      }
+    },
+    {
+      "text": "4) Mechanical documents",
+      "y_range": [
+        1356,
+        1400
+      ],
+      "conditions": [
+        "Three (3) set of the following documents",
+        "Note: Documents refers to design plans, calculations and specifications signed and sealed by the Professional Engineer/ Architect"
+      ],
+      "cells": {
+        "S1": "dot shown",
+        "S2": "blank in source",
+        "S3": "blank in source",
+        "S4": "blank in source",
+        "S5": "blank in source",
+        "S6": "blank in source"
+      }
+    },
+    {
+      "text": "5) Plumbing documents",
+      "y_range": [
+        1400,
+        1447
+      ],
+      "conditions": [
+        "Three (3) set of the following documents",
+        "Note: Documents refers to design plans, calculations and specifications signed and sealed by the Professional Engineer/ Architect"
+      ],
+      "cells": {
+        "S1": "dot shown",
+        "S2": "blank in source",
+        "S3": "blank in source",
+        "S4": "blank in source",
+        "S5": "blank in source",
+        "S6": "blank in source"
+      }
+    },
+    {
+      "text": "6) Electronics documents",
+      "y_range": [
+        1447,
+        1492
+      ],
+      "conditions": [
+        "Three (3) set of the following documents",
+        "Note: Documents refers to design plans, calculations and specifications signed and sealed by the Professional Engineer/ Architect"
+      ],
+      "cells": {
+        "S1": "dot shown",
+        "S2": "blank in source",
+        "S3": "blank in source",
+        "S4": "blank in source",
+        "S5": "blank in source",
+        "S6": "blank in source"
+      }
+    },
+    {
+      "text": "7) Sanitary documents",
+      "y_range": [
+        1492,
+        1537
+      ],
+      "conditions": [
+        "Three (3) set of the following documents",
+        "Note: Documents refers to design plans, calculations and specifications signed and sealed by the Professional Engineer/ Architect"
+      ],
+      "cells": {
+        "S1": "dot shown",
+        "S2": "blank in source",
+        "S3": "blank in source",
+        "S4": "blank in source",
+        "S5": "blank in source",
+        "S6": "blank in source"
+      }
+    },
+    {
+      "text": "8) Fire Protection documents",
+      "y_range": [
+        1537,
+        1585
+      ],
+      "conditions": [
+        "Three (3) set of the following documents",
+        "Note: Documents refers to design plans, calculations and specifications signed and sealed by the Professional Engineer/ Architect"
+      ],
+      "cells": {
+        "S1": "dot shown",
+        "S2": "blank in source",
+        "S3": "blank in source",
+        "S4": "blank in source",
+        "S5": "blank in source",
+        "S6": "blank in source"
+      }
+    },
+    {
+      "text": "As-built plan together with the building permit (If there is changes/",
+      "y_range": [
+        1680,
+        1753.0888815487133
+      ],
+      "conditions": [
+        "Source condition is visibly truncated; no missing text supplied."
+      ],
+      "cells": {
+        "S1": "blank in source",
+        "S2": "dot shown",
+        "S3": "dot shown",
+        "S4": "dot shown",
+        "S5": "dot shown",
+        "S6": "dot shown"
+      }
+    },
+    {
+      "text": "Copy of Fire Insurance, if any",
+      "y_range": [
+        1753.0888815487133,
+        1794.332597212358
+      ],
+      "conditions": [],
+      "cells": {
+        "S1": "blank in source",
+        "S2": "blank in source",
+        "S3": "dot shown",
+        "S4": "dot shown",
+        "S5": "dot shown",
+        "S6": "dot shown"
+      }
+    },
+    {
+      "text": "One (1) set of the estimate value of the building/structure or facilities (materials and labor cost) signed and sealed",
+      "y_range": [
+        1794.332597212358,
+        1848.3263244628906
+      ],
+      "conditions": [],
+      "cells": {
+        "S1": "dot shown",
+        "S2": "blank in source",
+        "S3": "blank in source",
+        "S4": "blank in source",
+        "S5": "blank in source",
+        "S6": "blank in source"
+      }
+    },
+    {
+      "text": "Copy of valid PRC Professional License of all involved professionals",
+      "y_range": [
+        1848.3263244628906,
+        1889.5822466681984
+      ],
+      "conditions": [],
+      "cells": {
+        "S1": "dot shown",
+        "S2": "blank in source",
+        "S3": "blank in source",
+        "S4": "blank in source",
+        "S5": "blank in source",
+        "S6": "blank in source"
+      }
+    },
+    {
+      "text": "Endorsement from the Office of Building Official (OBO)",
+      "y_range": [
+        1889.5822466681984,
+        1944.4332682291667
+      ],
+      "conditions": [
+        "If applied in Fire Station/Lone District Fire Office)"
+      ],
+      "cells": {
+        "S1": "blank in source",
+        "S2": "dot shown",
+        "S3": "blank in source",
+        "S4": "blank in source",
+        "S5": "blank in source",
+        "S6": "blank in source"
+      }
+    },
+    {
+      "text": "Certificate of Completion",
+      "y_range": [
+        1944.4332682291667,
+        1995.283251953125
+      ],
+      "conditions": [
+        "If applied in Fire Station/Lone District Fire Office)"
+      ],
+      "cells": {
+        "S1": "blank in source",
+        "S2": "dot shown",
+        "S3": "blank in source",
+        "S4": "blank in source",
+        "S5": "blank in source",
+        "S6": "blank in source"
+      }
+    },
+    {
+      "text": "Certified true copy of assessment fee for securing Certificate of Occupancy from OBO",
+      "y_range": [
+        1995.283251953125,
+        2061.8832275390623
+      ],
+      "conditions": [
+        "If applied in Fire Station/Lone District Fire Office)"
+      ],
+      "cells": {
+        "S1": "blank in source",
+        "S2": "dot shown",
+        "S3": "blank in source",
+        "S4": "blank in source",
+        "S5": "blank in source",
+        "S6": "blank in source"
+      }
+    },
+    {
+      "text": "Certified True Copy of Valid Certificate of Occupancy",
+      "y_range": [
+        2061.8832275390623,
+        2110.485595703125
+      ],
+      "conditions": [
+        "If applied in Fire Station/Lone District Fire Office)"
+      ],
+      "cells": {
+        "S1": "blank in source",
+        "S2": "blank in source",
+        "S3": "dot shown",
+        "S4": "blank in source",
+        "S5": "blank in source",
+        "S6": "blank in source"
+      }
+    },
+    {
+      "text": "Assessment of Business Permit Fee/ Tax Assessment Bill from Business Processing and Licensing Office (BPLO)",
+      "y_range": [
+        2110.485595703125,
+        2164.2042846679688
+      ],
+      "conditions": [
+        "If applied in Fire Station/Lone District Fire Office)"
+      ],
+      "cells": {
+        "S1": "blank in source",
+        "S2": "blank in source",
+        "S3": "dot shown",
+        "S4": "dot shown",
+        "S5": "dot shown",
+        "S6": "dot shown"
+      }
+    },
+    {
+      "text": "NOTE (1) Fire Safety Compliance Report (FSCR)",
+      "y_range": [
+        2202.0189751519097,
+        2243.272696940104
+      ],
+      "conditions": [
+        "Note: FSCR/FSCCR/FSMR is required if the building/facilities/structures are required to install any or combination of the following: 1) Wet standpipe system; 2) Automatic fire suppression system; and 3) Automatic fire detection and alarm system."
+      ],
+      "cells": {
+        "S1": "dot shown",
+        "S2": "blank in source",
+        "S3": "blank in source",
+        "S4": "blank in source",
+        "S5": "blank in source",
+        "S6": "blank in source"
+      }
+    },
+    {
+      "text": "NOTE (2) Fire Safety Compliance and Commissioning Report (FSCCR)",
+      "y_range": [
+        2243.272696940104,
+        2284.734025065104
+      ],
+      "conditions": [
+        "Note: FSCR/FSCCR/FSMR is required if the building/facilities/structures are required to install any or combination of the following: 1) Wet standpipe system; 2) Automatic fire suppression system; and 3) Automatic fire detection and alarm system."
+      ],
+      "cells": {
+        "S1": "blank in source",
+        "S2": "dot shown",
+        "S3": "blank in source",
+        "S4": "blank in source",
+        "S5": "blank in source",
+        "S6": "blank in source"
+      }
+    },
+    {
+      "text": "NOTE (3) Fire Safety Maintenance Report (FSMR)",
+      "y_range": [
+        2284.734025065104,
+        2325.992781575521
+      ],
+      "conditions": [
+        "Note: FSCR/FSCCR/FSMR is required if the building/facilities/structures are required to install any or combination of the following: 1) Wet standpipe system; 2) Automatic fire suppression system; and 3) Automatic fire detection and alarm system."
+      ],
+      "cells": {
+        "S1": "blank in source",
+        "S2": "blank in source",
+        "S3": "blank in source",
+        "S4": "dot shown",
+        "S5": "dot shown",
+        "S6": "dot shown"
+      }
+    },
+    {
+      "text": "1) Per Project Duration – for new construction or renovation (during construction) This clearance should be applied during construction after the conduct of fire safety inspection",
+      "y_range": [
+        2480.1127685546876,
+        2656
+      ],
+      "conditions": [
+        "Fire Safety Clearance for welding, cutting, and other hot work operations (if required), shall be secured:"
+      ],
+      "cells": {
+        "S1": "dot shown",
+        "S2": "blank in source",
+        "S3": "blank in source",
+        "S4": "blank in source",
+        "S5": "blank in source",
+        "S6": "blank in source"
+      }
+    },
+    {
+      "text": "2) Annual – for business establishments requiring almost daily repair or maintenance due to its nature of business or operations.",
+      "y_range": [
+        2656,
+        2715.189995659722
+      ],
+      "conditions": [
+        "Fire Safety Clearance for welding, cutting, and other hot work operations (if required), shall be secured:"
+      ],
+      "cells": {
+        "S1": "blank in source",
+        "S2": "blank in source",
+        "S3": "blank in source",
+        "S4": "blank in source",
+        "S5": "dot shown",
+        "S6": "dot shown"
+      }
+    }
+  ],
+  "dot_rectangles": [
+    [
+      1067.25,
+      1227.27978515625,
+      1096.25,
+      1254.27978515625
+    ],
+    [
+      1067.25,
+      1273.77978515625,
+      1096.25,
+      1300.77978515625
+    ],
+    [
+      1067.25,
+      1320.27978515625,
+      1096.25,
+      1347.27978515625
+    ],
+    [
+      1067.25,
+      1363.77978515625,
+      1096.25,
+      1390.780029296875
+    ],
+    [
+      1067.25,
+      1410.280029296875,
+      1096.25,
+      1437.280029296875
+    ],
+    [
+      1067.25,
+      1455.280029296875,
+      1096.25,
+      1482.280029296875
+    ],
+    [
+      1067.25,
+      1500.280029296875,
+      1096.25,
+      1527.280029296875
+    ],
+    [
+      1067.25,
+      1545.280029296875,
+      1096.25,
+      1572.280029296875
+    ],
+    [
+      1067.010009765625,
+      1807.550048828125,
+      1096.010009765625,
+      1834.550048828125
+    ],
+    [
+      1067.010009765625,
+      1856.64990234375,
+      1096.010009765625,
+      1883.64990234375
+    ],
+    [
+      1305.75,
+      1902.760009765625,
+      1334.75,
+      1929.760009765625
+    ],
+    [
+      1567.8599853515625,
+      2072.64990234375,
+      1596.8499755859375,
+      2099.64990234375
+    ],
+    [
+      1567.8599853515625,
+      2125.469970703125,
+      1596.8499755859375,
+      2152.469970703125
+    ],
+    [
+      1841.25,
+      2125.469970703125,
+      1870.25,
+      2152.469970703125
+    ],
+    [
+      2124.75,
+      2123.570068359375,
+      2153.75,
+      2150.570068359375
+    ],
+    [
+      2418.75,
+      2123.570068359375,
+      2447.75,
+      2150.570068359375
+    ],
+    [
+      1841.25,
+      2291.489990234375,
+      1870.25,
+      2318.489990234375
+    ],
+    [
+      2124.75,
+      2291.489990234375,
+      2153.75,
+      2318.489990234375
+    ],
+    [
+      2418.75,
+      2291.489990234375,
+      2447.75,
+      2318.489990234375
+    ],
+    [
+      1067.25,
+      2207.489990234375,
+      1096.25,
+      2234.489990234375
+    ],
+    [
+      1305.75,
+      2249.489990234375,
+      1334.75,
+      2276.489990234375
+    ],
+    [
+      1067.25,
+      2582.02001953125,
+      1096.25,
+      2609.02001953125
+    ],
+    [
+      2124.75,
+      2672.10009765625,
+      2153.75,
+      2699.10009765625
+    ],
+    [
+      2418.75,
+      2672.10009765625,
+      2447.75,
+      2699.10009765625
+    ],
+    [
+      1305.510009765625,
+      1711.550048828125,
+      1334.510009765625,
+      1738.550048828125
+    ],
+    [
+      1570.300048828125,
+      1711.070068359375,
+      1599.300048828125,
+      1738.070068359375
+    ],
+    [
+      1840.780029296875,
+      1710.60009765625,
+      1869.780029296875,
+      1737.60009765625
+    ],
+    [
+      1569.280029296875,
+      1759.31005859375,
+      1598.280029296875,
+      1786.31005859375
+    ],
+    [
+      1840.780029296875,
+      1759.31005859375,
+      1869.780029296875,
+      1786.31005859375
+    ],
+    [
+      2124.280029296875,
+      1759.31005859375,
+      2153.280029296875,
+      1786.31005859375
+    ],
+    [
+      2418.280029296875,
+      1759.31005859375,
+      2447.280029296875,
+      1786.31005859375
+    ],
+    [
+      1305.280029296875,
+      1955.340087890625,
+      1334.280029296875,
+      1982.340087890625
+    ],
+    [
+      1306.699951171875,
+      2013.60009765625,
+      1335.699951171875,
+      2040.60009765625
+    ],
+    [
+      2124.989990234375,
+      1710.60009765625,
+      2153.989990234375,
+      1737.60009765625
+    ],
+    [
+      2418.199951171875,
+      1710.1298828125,
+      2447.199951171875,
+      1737.1298828125
+    ]
+  ]
+}

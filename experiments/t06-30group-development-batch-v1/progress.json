@@ -1,0 +1,8 @@
+{
+  "processed": 90,
+  "expected": 90,
+  "statuses": {
+    "ANSWERED": 84,
+    "CLARIFICATION_REQUIRED": 6
+  }
+}

@@ -1,0 +1,48 @@
+CONVERSATION CHANGE RECORD AND SAVE GUIDE
+
+Project: D:\thesis\LGSDeliveryRAGAssistant-main
+Branch: fix/section-aware-ingestion
+HEAD: bcd0ecdd0085c6f2b70d5615e2d80bcdb1912249
+Created UTC: 2026-10-18T23:01:09.545437+00:00
+
+This is a reconstruction from visible conversation history, current files, backups, manifests and Git. It is not an exact turn-by-turn filesystem journal. Git reports only two tracked modifications; many conversation-created artifacts remain untracked. Untracked does not prove creation by this conversation, and unchanged dependencies are not claimed as edits. Exact historical differences are available only where preserved backups/diffs exist.
+
+Current authoritative development evidence:
+- Corpus and matching indices: experiments/chapter3-table-repaired-development-v1/
+- Reviewed offline normalization candidate: config/normalization_intent_candidate.txt and experiments/normalization-fidelity-suite-v3-intent-prompt/
+- Corrected references and saved retrieval rescore: experiments/t06-formal-development-validation-v3/
+- RAGAS: experiments/t06-ragas-90query-development-v1/
+- T06 report: experiments/t06-validation-report-v1/
+
+App status: app/pipeline.py still defaults to experiments/chapter3-step2-development. EBOSS_ARTIFACT_DIR or explicit artifacts_dir can select another artifact directory, but this ledger does not change defaults. src/query_normalizer.py fidelity contract defaults False. Offline prompt override is not app promotion.
+
+Important historical boundary: config/pipeline_manifest.json says frozen and contains older metrics. It is archived for provenance, not treated as a freeze certificate for the repaired development corpus. Older section-retrieval scripts/pilots and unrelated T07 files remain in the working repository; they are not resumed or endorsed as the active methodology implementation.
+
+Work phases reconstructed from this conversation:
+1. Initial inspection and dictionary verification: project/Git/source checks; inspect DICT-OCBO-052 and DICT-OCBO-055. Existing patch backups/logs preserved.
+2. Chapter 3 retrieval development: source-linked 120/20 token windows, chunk-level retrieval and validation scripts; initial development corpus; optional app integration.
+3. Source fidelity: OCBO PDF14 and15, CTO PDF6, separate BFP matrix and OCR image-panel review. Preserve original extraction, rendered pages, after text, diffs and reviewer interpretation.
+4. Staging and rebuild: staged-v1/v2 pages, new matching development corpus and indices; source coverage/token overlap/index alignment checks. No app default switch or freeze.
+5. Retrieval diagnosis: OCBO misses, service-context and paraphrasing investigations; source-evidence-development v1-v4; saved user case reviews.
+6. Normalization fidelity: optional contract, reviewed prompt v2 and intent prompt v3; NF-02 correction, NF-08/NF-09 human review, and dictionary ambiguity mechanism/wording distinction. Keep all review templates and semantic reviews.
+7. Candidate retrieval comparison: K3/K5 archived rankings; existing candidate weights retained; no section-retrieval repair pilots resumed.
+8. T06 batch/scorer engineering: saved context-to-generation bridge, local offline RAGAS smoke tests and explicit recall JSON-schema experiment; original failures preserved.
+9. Formal development run: 30 groups/90 queries; 84 answers/6 clarifications; 25 provisional mappings and five source-review cases.
+10. Reference corrections: v3 derived answers and chunk IDs for BB006, CPDO001, BFP001/004/005; 26 claim links; unchanged 90-query rankings rescored at K3/K5. Two incomplete script attempts retained as non-authoritative history.
+11. Full offline RAGAS: 81 fully scored, 3 partially scored, 6 skipped; evaluator protocol/model/version, judge traces and metric-specific denominators retained.
+12. T06 report: completed development-harness checkpoint with limitations, task boundaries and remaining work. No runtime inference required.
+13. This ledger: current file inventory, Git patch/status, task-file map and verified backup bundle; no commit, push, promotion or freeze.
+
+Files to open:
+- file_inventory.csv: one row per inventoried file with Git state, role, inclusion flag, size and SHA256 for included files.
+- task_file_map.csv: tracker task, purpose, required file groups and limitations.
+- git-status.txt: complete current Git status; tracked-changes.patch: current tracked differences against HEAD.
+- save_manifest.json: selected file hashes, authoritative document hashes, exclusions and archive path.
+
+Save/restore scope: the ZIP is a development-work backup, not a full machine image or complete Git repository. It preserves selected source code, reviews, intermediate evidence, before-change backups, development data, matched indices and original charter PDFs. It also contains the instructed manuscript and tracker. Extract to a separate directory first; verify hashes before restoring selected paths. Do not blindly overwrite the existing repository.
+
+Excluded from ZIP: held-out benchmarks (contents not read or hashed), credentials/.env, virtual environment, model weights, caches, .git, unrelated old pilots, existing ZIP archives, and temporary editor preview files. Inventory metadata alone may name excluded files. The external temporary ingest_eboss_corpus_v2_fixed.py tab is not treated as saved repository code; no content from it was accessed or applied. Keep your existing held-out and runtime assets separately.
+
+Tracker interpretation: main Thesis Tracker tab remains authoritative and unchanged. T01-T07 recorded Complete does not certify new corpus/results; T06 engineering is demonstrated, while final tuning, A/B/C comparison, reference/source checks and expert audit retain their documented limits.
+
+Next save step: the verified ZIP protects this snapshot. Git commit/push has not been performed. Before committing, use file_inventory.csv to stage current implementation deliberately and decide where large evidence bundles belong; do not use a blanket git add of unrelated experiments or restricted benchmarks.

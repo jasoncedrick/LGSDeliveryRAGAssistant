@@ -1,0 +1,1158 @@
+[
+  {
+    "id": "DEV-EVID-01",
+    "k": 3,
+    "kind": "answerable",
+    "query": "For an occupancy permit, how long does OCBO take to encode and receive documents?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-OCBO-PDF0076-C001",
+        "source_page_id": "OCBO-PDF0076",
+        "text": "1. Submit Application \nform and all necessary \nrequirements\n1.1 Receive and \ncheck documents \nand forms \n \n \n \n \n \n1.2 Encode \ndocuments \n \n \n \n1.3 Designate for \ninspection \n \n \n \n1.4 Conduct \ninspection \n \n \n \n \n \n \n \n \n1.5 Assess \napplication for OP\nNone \n10 Minutes\n5 Minutes\n2 Hours\n5 Days\n1 Day\nLaborer\nGeodetic Engineer –\nOCBO\nRecords Custodian\n– OCBO\nRecords Custodian\n– OCBO\nTechnical\nAssessment II\nGeodetic Engineer –\nOCBO\nInformation Systems\nDesigner – OCBO\n2. Pay OP at City \nTreasurer’s Office\n2. Release OP \nand documents \nfor client for \npayment\nNone \n5 Minute"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0056-C001",
+        "source_page_id": "OCBO-PDF0056",
+        "text": "Official Receipt (OR) \ndocuments, OP \nand OR \n  \n \n \n \n5.2 Forward to \nPED Chief for \nFinal \nRecommendation \n  \n5.3 Forward to \nBuilding Official \n(BO) for signing \nand approval \n  \n5.4 Stamp \nSidewalk \nOccupancy \nPermit number on \nplans and \ndocuments \n     \n \n \n5.5 Notify client \nthat approved \nplans and \ndocuments are \nready for claiming\n4 Hours\n1 Day\n4 Hours\n10 Minutes\nPlanning and \nDevelopment\nOCBO\nPED Chief –\nOCBO\nBuilding Official –\nOCBO\nEngineering Staff\nRecords\nCustodian –\nOCBO\nRecords\nManagement \nAssistant –\nOCBO\n6. Claim the approved plans \nand"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0056-C002",
+        "source_page_id": "OCBO-PDF0056",
+        "text": "Records\nCustodian –\nOCBO\nRecords\nManagement \nAssistant –\nOCBO\n6. Claim the approved plans \nand documents with Sidewalk \nOccupancy Permit Number\n6. Release \napproved plans \nand documents to \nclient\nNone \n5 Minutes \nRecords\nManagement \nAssistant –\nOCBO\nTOTAL: \n*Please\nrefer \nbelow\n10 Days,\n2 Hours, and \n23 Minutes"
+      }
+    ],
+    "page_hit": false,
+    "evidence_group_chunk_ids": [
+      []
+    ],
+    "all_evidence_groups_covered": false,
+    "groups_available_in_any_corpus_chunk": [
+      true
+    ],
+    "semantic_service_scope_review": "pending; same-page lexical matches are not semantic proof"
+  },
+  {
+    "id": "DEV-EVID-01",
+    "k": 5,
+    "kind": "answerable",
+    "query": "For an occupancy permit, how long does OCBO take to encode and receive documents?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-OCBO-PDF0076-C001",
+        "source_page_id": "OCBO-PDF0076",
+        "text": "1. Submit Application \nform and all necessary \nrequirements\n1.1 Receive and \ncheck documents \nand forms \n \n \n \n \n \n1.2 Encode \ndocuments \n \n \n \n1.3 Designate for \ninspection \n \n \n \n1.4 Conduct \ninspection \n \n \n \n \n \n \n \n \n1.5 Assess \napplication for OP\nNone \n10 Minutes\n5 Minutes\n2 Hours\n5 Days\n1 Day\nLaborer\nGeodetic Engineer –\nOCBO\nRecords Custodian\n– OCBO\nRecords Custodian\n– OCBO\nTechnical\nAssessment II\nGeodetic Engineer –\nOCBO\nInformation Systems\nDesigner – OCBO\n2. Pay OP at City \nTreasurer’s Office\n2. Release OP \nand documents \nfor client for \npayment\nNone \n5 Minute"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0056-C001",
+        "source_page_id": "OCBO-PDF0056",
+        "text": "Official Receipt (OR) \ndocuments, OP \nand OR \n  \n \n \n \n5.2 Forward to \nPED Chief for \nFinal \nRecommendation \n  \n5.3 Forward to \nBuilding Official \n(BO) for signing \nand approval \n  \n5.4 Stamp \nSidewalk \nOccupancy \nPermit number on \nplans and \ndocuments \n     \n \n \n5.5 Notify client \nthat approved \nplans and \ndocuments are \nready for claiming\n4 Hours\n1 Day\n4 Hours\n10 Minutes\nPlanning and \nDevelopment\nOCBO\nPED Chief –\nOCBO\nBuilding Official –\nOCBO\nEngineering Staff\nRecords\nCustodian –\nOCBO\nRecords\nManagement \nAssistant –\nOCBO\n6. Claim the approved plans \nand"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0056-C002",
+        "source_page_id": "OCBO-PDF0056",
+        "text": "Records\nCustodian –\nOCBO\nRecords\nManagement \nAssistant –\nOCBO\n6. Claim the approved plans \nand documents with Sidewalk \nOccupancy Permit Number\n6. Release \napproved plans \nand documents to \nclient\nNone \n5 Minutes \nRecords\nManagement \nAssistant –\nOCBO\nTOTAL: \n*Please\nrefer \nbelow\n10 Days,\n2 Hours, and \n23 Minutes"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0015-C003",
+        "source_page_id": "OCBO-PDF0015",
+        "text": "OCBO\n\nCLIENT STEPS: 4. Wait for notification for OP and endorsement to BFP\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 4.1 Assess application for OP\nPROCESSING TIME: 1 Day\n\nAGENCY ACTION: 4.2 Release OP (for Occupancy and Zoning), plans and documents to be endorsed with BFP\nPROCESSING TIME: 5 Minutes\n\nAGENCY ACTION: 4.3 Receive plans, documents, FSEC, Zoning clearance\nPROCESSING TIME: 5"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0077-C001",
+        "source_page_id": "OCBO-PDF0077",
+        "text": "3. Resubmit plans and \ndocuments with OP \nand OR\n3.1 Create \nCertificate for \nSignage Permit \n \n \n3.2 Forward to \nDistrict Head for \ninitial signature \n \n3.3 Forward to \nBO for approval \n \n \n3.4 Forward to \nCity \nAdministrator’s \nOffice (CAO) for \napproval \n \n3.5 Receive from \nCAO \n \n \n3.6 Stamp \napproved Sign \nPermit number\nNone \n1 Day\n5 Hours\n1 Day\n1 Day\n5 Minutes\n4 Hours\nRecords Custodian\n– OCBO\nCivil Engineer\nBuilding Official –\nOCBO\nRecords Custodian\n– OCBO\nRecords Custodian\n– OCBO\nEngineering\nAssistant – OCBO\n4. Rece"
+      }
+    ],
+    "page_hit": false,
+    "evidence_group_chunk_ids": [
+      []
+    ],
+    "all_evidence_groups_covered": false,
+    "groups_available_in_any_corpus_chunk": [
+      true
+    ],
+    "semantic_service_scope_review": "pending; same-page lexical matches are not semantic proof"
+  },
+  {
+    "id": "DEV-EVID-02",
+    "k": 3,
+    "kind": "answerable",
+    "query": "For an occupancy permit, how long is the structural inspection and assessment?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-OCBO-PDF0098-C001",
+        "source_page_id": "OCBO-PDF0098",
+        "text": "15. Issuance of Certificate of Annual Inspection of Buildings\nA Certificate of Annual Electrical Inspection is issued after conducting an annual inspection of a \nbuilding/structure to ensure that the architectural well-being, structural stability, electrical, \nmechanical sanitation, plumbing, electronics, interior design, and fire protective properties are \nproperly maintained and that the building/structure is not occupied or used for purposes other than \nits intended use.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHigh"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0015-C001",
+        "source_page_id": "OCBO-PDF0015",
+        "text": "CLIENT STEPS: 3. During the inspection, the client and/or authorized representative, such as an architect or engineer must be present on-site\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 3. Conduct inspection and assessment\n\nINSPECTION CATEGORY: · Line & Grade\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Architectural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CAT"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0100-C001",
+        "source_page_id": "OCBO-PDF0100",
+        "text": "5.3 Forward to \nsignatories \nInspectors \nSanitary/ \nPlumbing \nStructural \nArchitectural \n \n \n \n5.4 Forward to \nBO for approval\n5 Days\n1 Day\nCivil Engineer\nIED Chief\nPlumbing\nMechanical Engineer –\nOCBO\nBuilding Official –\nOCBO\n6. Claim approved \nCertificate of Annual \nInspection\n6. Release \nApproved \nCertificate of \nAnnual Inspection\nNone \n4 Hours \n– OCBO\nTOTAL:\n*Please\nrefer \nbelow\n19 Days and \n30 Minutes"
+      }
+    ],
+    "page_hit": true,
+    "evidence_group_chunk_ids": [
+      [
+        "DEV120-OCBO-PDF0015-C001"
+      ]
+    ],
+    "all_evidence_groups_covered": true,
+    "groups_available_in_any_corpus_chunk": [
+      true
+    ],
+    "semantic_service_scope_review": "pending; same-page lexical matches are not semantic proof"
+  },
+  {
+    "id": "DEV-EVID-02",
+    "k": 5,
+    "kind": "answerable",
+    "query": "For an occupancy permit, how long is the structural inspection and assessment?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-OCBO-PDF0098-C001",
+        "source_page_id": "OCBO-PDF0098",
+        "text": "15. Issuance of Certificate of Annual Inspection of Buildings\nA Certificate of Annual Electrical Inspection is issued after conducting an annual inspection of a \nbuilding/structure to ensure that the architectural well-being, structural stability, electrical, \nmechanical sanitation, plumbing, electronics, interior design, and fire protective properties are \nproperly maintained and that the building/structure is not occupied or used for purposes other than \nits intended use.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHigh"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0015-C001",
+        "source_page_id": "OCBO-PDF0015",
+        "text": "CLIENT STEPS: 3. During the inspection, the client and/or authorized representative, such as an architect or engineer must be present on-site\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 3. Conduct inspection and assessment\n\nINSPECTION CATEGORY: · Line & Grade\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Architectural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CAT"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0100-C001",
+        "source_page_id": "OCBO-PDF0100",
+        "text": "5.3 Forward to \nsignatories \nInspectors \nSanitary/ \nPlumbing \nStructural \nArchitectural \n \n \n \n5.4 Forward to \nBO for approval\n5 Days\n1 Day\nCivil Engineer\nIED Chief\nPlumbing\nMechanical Engineer –\nOCBO\nBuilding Official –\nOCBO\n6. Claim approved \nCertificate of Annual \nInspection\n6. Release \nApproved \nCertificate of \nAnnual Inspection\nNone \n4 Hours \n– OCBO\nTOTAL:\n*Please\nrefer \nbelow\n19 Days and \n30 Minutes"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0092-C001",
+        "source_page_id": "OCBO-PDF0092",
+        "text": "14. Issuance of Certificate of Annual Mechanical Inspection\nA Certificate of Annual Mechanical Inspection is issued after conducting an annual inspection of a \nbuilding/structure to ensure that mechanical systems coincide with the approved plans and conform \nwith the safety standards and other provisions of the Code and its Revised Implementing Rules and \nRegulations\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; G2G – \nGovernment"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0042-C001",
+        "source_page_id": "OCBO-PDF0042",
+        "text": "EXCAVATION PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\nWhile the application for Building Permit is still being processed, the Building Official \nmay issue Ground Preparation and Excavation Permit (GP&EP) for foundation, subject \nto the verification, inspection and review by the Line and Grade Section of the \nInspection and Enforcement Division"
+      }
+    ],
+    "page_hit": true,
+    "evidence_group_chunk_ids": [
+      [
+        "DEV120-OCBO-PDF0015-C001"
+      ]
+    ],
+    "all_evidence_groups_covered": true,
+    "groups_available_in_any_corpus_chunk": [
+      true
+    ],
+    "semantic_service_scope_review": "pending; same-page lexical matches are not semantic proof"
+  },
+  {
+    "id": "DEV-EVID-03",
+    "k": 3,
+    "kind": "answerable",
+    "query": "During an occupancy permit inspection, who must be present on-site?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-OCBO-PDF0015-C001",
+        "source_page_id": "OCBO-PDF0015",
+        "text": "CLIENT STEPS: 3. During the inspection, the client and/or authorized representative, such as an architect or engineer must be present on-site\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 3. Conduct inspection and assessment\n\nINSPECTION CATEGORY: · Line & Grade\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Architectural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CAT"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0092-C003",
+        "source_page_id": "OCBO-PDF0092",
+        "text": "FEES TO\nBE PAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\n1. Submit Request \nLetter\n1. Receive and \nEncode Request\nNone \n10 Minutes \nAdministrative Officer\nTechnical Assistant –\nOCBO\n2. Clients and/or \nauthorized \nrepresentatives \nsuch as architect or \nengineer must be \npresent on-site \nduring inspection\n2.1 Issue Notice of \nInspection\nNone \n1 Hour\nAdministrative Officer"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0087-C003",
+        "source_page_id": "OCBO-PDF0087",
+        "text": "None \n10 Minutes \nTechnical Assistant on\nPlanning and \nDevelopment\nElectrical Engineer –\nOCBO\n2. Clients and/or \nauthorized \nrepresentatives such \nas architect or \nengineer must be \npresent on-site during \ninspection\n2.1 Issue Notice \nof Inspection \n \n \n2.2 Furnish and \ndeliver Notice of \nInspection to \nclient\nNone \n1 Hour\n1 Day\nTechnical Assistant –\nOCBO\nTechnical Assistant on\nPlanning and \nDevelopment\n– OCBO"
+      }
+    ],
+    "page_hit": true,
+    "evidence_group_chunk_ids": [
+      [
+        "DEV120-OCBO-PDF0015-C001"
+      ]
+    ],
+    "all_evidence_groups_covered": true,
+    "groups_available_in_any_corpus_chunk": [
+      true
+    ],
+    "semantic_service_scope_review": "pending; same-page lexical matches are not semantic proof"
+  },
+  {
+    "id": "DEV-EVID-03",
+    "k": 5,
+    "kind": "answerable",
+    "query": "During an occupancy permit inspection, who must be present on-site?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-OCBO-PDF0015-C001",
+        "source_page_id": "OCBO-PDF0015",
+        "text": "CLIENT STEPS: 3. During the inspection, the client and/or authorized representative, such as an architect or engineer must be present on-site\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 3. Conduct inspection and assessment\n\nINSPECTION CATEGORY: · Line & Grade\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Architectural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CAT"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0092-C003",
+        "source_page_id": "OCBO-PDF0092",
+        "text": "FEES TO\nBE PAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\n1. Submit Request \nLetter\n1. Receive and \nEncode Request\nNone \n10 Minutes \nAdministrative Officer\nTechnical Assistant –\nOCBO\n2. Clients and/or \nauthorized \nrepresentatives \nsuch as architect or \nengineer must be \npresent on-site \nduring inspection\n2.1 Issue Notice of \nInspection\nNone \n1 Hour\nAdministrative Officer"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0087-C003",
+        "source_page_id": "OCBO-PDF0087",
+        "text": "None \n10 Minutes \nTechnical Assistant on\nPlanning and \nDevelopment\nElectrical Engineer –\nOCBO\n2. Clients and/or \nauthorized \nrepresentatives such \nas architect or \nengineer must be \npresent on-site during \ninspection\n2.1 Issue Notice \nof Inspection \n \n \n2.2 Furnish and \ndeliver Notice of \nInspection to \nclient\nNone \n1 Hour\n1 Day\nTechnical Assistant –\nOCBO\nTechnical Assistant on\nPlanning and \nDevelopment\n– OCBO"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0031-C003",
+        "source_page_id": "OCBO-PDF0031",
+        "text": "None \n20 Minutes\n5 Minutes\n1 Day\nTechnical\nAssessment 1\nOCBO\nTechnical \nAssistant –\nOCBO\nTechnical \nAssistant –\nOCBO\n3. Upon inspection, any \nauthorized representative \nmust be on-site\n3.1 Conduct \nInspection\nNone \n5 Days\nGeodetic \nEngineer"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0013-C001",
+        "source_page_id": "OCBO-PDF0013",
+        "text": "2. Issuance of Occupancy Permit \nAn Occupancy Permit shall be required before any building or structure or portion thereof is used \nor occupied, or the existing use or occupancy classification thereof is changed. \nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; G2G \n– Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Application Letter  \n   1 original"
+      }
+    ],
+    "page_hit": true,
+    "evidence_group_chunk_ids": [
+      [
+        "DEV120-OCBO-PDF0015-C001"
+      ]
+    ],
+    "all_evidence_groups_covered": true,
+    "groups_available_in_any_corpus_chunk": [
+      true
+    ],
+    "semantic_service_scope_review": "pending; same-page lexical matches are not semantic proof"
+  },
+  {
+    "id": "DEV-EVID-04",
+    "k": 3,
+    "kind": "answerable",
+    "query": "For an occupancy permit, how long does routing documents to zoning for validation take?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-CPDO-PDF0005-C001",
+        "source_page_id": "CPDO-PDF0005",
+        "text": "2. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (3-Storey Buildings and Above and \n1,500 Building Floor Area and Above) \nFor 3-storey buildings and above and for building floor area of 1,500 square meters \nand above only.  \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nComplex\nType of Trans"
+      },
+      {
+        "chunk_id": "DEV120-CPDO-PDF0008-C001",
+        "source_page_id": "CPDO-PDF0008",
+        "text": "3. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (2-Storey Buildings and Below and \n1,500 Building Floor Area and Below) \nFor 2-storey buildings and below and for building floor area of 1,500 square meters \nand below only. \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator.  \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nSimple\nType of Trans"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0016-C001",
+        "source_page_id": "OCBO-PDF0016",
+        "text": "4.7 Forward to \nBuilding Official (BO) \nfor approval \n \n \n \n4.8 Forward to \nElectrical for \nstamping \n \n \n4.9 Stamp \nOccupancy Permit \nnumber and \nsegregate documents\n5 Minutes\n5. Claim Order of \nPayment and \napproved documents \nthen resubmit plans \nand documents with \nFire Certificate with \nOrder of Payment \nand Official Receipt. \nFinally, claim \nApproved Certificate \nof Occupancy\n5. Release approved \nCertificate of \nOccupancy (COC), \napproved plans and \ndocuments\nNone \nRecords Personnel\n– OCBO\nTOTAL: \n*Please\nrefer \nbelow\n17 Days"
+      }
+    ],
+    "page_hit": false,
+    "evidence_group_chunk_ids": [
+      []
+    ],
+    "all_evidence_groups_covered": false,
+    "groups_available_in_any_corpus_chunk": [
+      true
+    ],
+    "semantic_service_scope_review": "pending; same-page lexical matches are not semantic proof"
+  },
+  {
+    "id": "DEV-EVID-04",
+    "k": 5,
+    "kind": "answerable",
+    "query": "For an occupancy permit, how long does routing documents to zoning for validation take?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-CPDO-PDF0005-C001",
+        "source_page_id": "CPDO-PDF0005",
+        "text": "2. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (3-Storey Buildings and Above and \n1,500 Building Floor Area and Above) \nFor 3-storey buildings and above and for building floor area of 1,500 square meters \nand above only.  \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nComplex\nType of Trans"
+      },
+      {
+        "chunk_id": "DEV120-CPDO-PDF0008-C001",
+        "source_page_id": "CPDO-PDF0008",
+        "text": "3. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (2-Storey Buildings and Below and \n1,500 Building Floor Area and Below) \nFor 2-storey buildings and below and for building floor area of 1,500 square meters \nand below only. \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator.  \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nSimple\nType of Trans"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0016-C001",
+        "source_page_id": "OCBO-PDF0016",
+        "text": "4.7 Forward to \nBuilding Official (BO) \nfor approval \n \n \n \n4.8 Forward to \nElectrical for \nstamping \n \n \n4.9 Stamp \nOccupancy Permit \nnumber and \nsegregate documents\n5 Minutes\n5. Claim Order of \nPayment and \napproved documents \nthen resubmit plans \nand documents with \nFire Certificate with \nOrder of Payment \nand Official Receipt. \nFinally, claim \nApproved Certificate \nof Occupancy\n5. Release approved \nCertificate of \nOccupancy (COC), \napproved plans and \ndocuments\nNone \nRecords Personnel\n– OCBO\nTOTAL: \n*Please\nrefer \nbelow\n17 Days"
+      },
+      {
+        "chunk_id": "DEV120-CPDO-PDF0010-C001",
+        "source_page_id": "CPDO-PDF0010",
+        "text": "1.6 Initial Approval\nNone \n1 Day \n \nZoning Officer\nIV\nCPDO\n1.7 Final Approval \nNone \n3 Hours \n \nActing Zoning \nAdministrator\nCPDO\n1.8 Forwards \ndocuments to CPDO \nAdmin for releasing\nNone \n5 Minutes \n \nZoning Officer\nIV\nCPDO\n2. Claims the\nvalidated \noccupancy permit\n2. Releases \ndocuments\nNone \n5 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\nTOTAL: None\n1 Day, 4\nHours, and 25\nMinutes"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0056-C001",
+        "source_page_id": "OCBO-PDF0056",
+        "text": "Official Receipt (OR) \ndocuments, OP \nand OR \n  \n \n \n \n5.2 Forward to \nPED Chief for \nFinal \nRecommendation \n  \n5.3 Forward to \nBuilding Official \n(BO) for signing \nand approval \n  \n5.4 Stamp \nSidewalk \nOccupancy \nPermit number on \nplans and \ndocuments \n     \n \n \n5.5 Notify client \nthat approved \nplans and \ndocuments are \nready for claiming\n4 Hours\n1 Day\n4 Hours\n10 Minutes\nPlanning and \nDevelopment\nOCBO\nPED Chief –\nOCBO\nBuilding Official –\nOCBO\nEngineering Staff\nRecords\nCustodian –\nOCBO\nRecords\nManagement \nAssistant –\nOCBO\n6. Claim the approved plans \nand"
+      }
+    ],
+    "page_hit": false,
+    "evidence_group_chunk_ids": [
+      []
+    ],
+    "all_evidence_groups_covered": false,
+    "groups_available_in_any_corpus_chunk": [
+      true
+    ],
+    "semantic_service_scope_review": "pending; same-page lexical matches are not semantic proof"
+  },
+  {
+    "id": "DEV-EVID-05",
+    "k": 3,
+    "kind": "answerable",
+    "query": "What is the City Treasurer fee for washing of hogs?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-CTO-PDF0006-C003",
+        "source_page_id": "CTO-PDF0006",
+        "text": "fraction thereof\n\nITEM OR HEADING: Washing of Hogs\nFEE: 10.00 per head"
+      },
+      {
+        "chunk_id": "DEV120-CTO-PDF0004-C001",
+        "source_page_id": "CTO-PDF0004",
+        "text": "2. Slaughter and Corral Fees\nPayment of Slaughter Fees, Ante-Mortem, Post-Mortem, Corral fees, and the like. \nOffice or Division \nOffice of the City Treasurer (CTO)/ Maa and Malagos \nSlaughterhouse Collection Unit\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail \nAll\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Tax Order of Payment – 1 original  \nEconomic Enterprise Unit / City Veterinarian’s \nOffice at the Slaughterhouse of Maa"
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0037-C001",
+        "source_page_id": "BB-PDF0037",
+        "text": "further information. \nClient may still proceed \nto the City Treasurer’s \nOffice for assessment \nand payment of dues. \nSTEP 2: PAYMENT\n2.Proceed to the City \nTreasurer’s Office for \npayment.\n2. Process \nunder City \nTreasurer’s \nOffice\nMayor’s\nPermit Fee is \nbased on the \nasset size and\nnature of \nbusiness\n(paid at the\nCity\nTreasurer’s\nOffice). Taxes\nis based on \nthe Gross \nIncome of \nBusiness\nEstablishment \n(refer the City \nTreasurer’s\nOffice’s \nCitizen’s \nCharter)\nPls. See\nSchedule of\nFe"
+      }
+    ],
+    "page_hit": true,
+    "evidence_group_chunk_ids": [
+      [
+        "DEV120-CTO-PDF0006-C003"
+      ]
+    ],
+    "all_evidence_groups_covered": true,
+    "groups_available_in_any_corpus_chunk": [
+      true
+    ],
+    "semantic_service_scope_review": "pending; same-page lexical matches are not semantic proof"
+  },
+  {
+    "id": "DEV-EVID-05",
+    "k": 5,
+    "kind": "answerable",
+    "query": "What is the City Treasurer fee for washing of hogs?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-CTO-PDF0006-C003",
+        "source_page_id": "CTO-PDF0006",
+        "text": "fraction thereof\n\nITEM OR HEADING: Washing of Hogs\nFEE: 10.00 per head"
+      },
+      {
+        "chunk_id": "DEV120-CTO-PDF0004-C001",
+        "source_page_id": "CTO-PDF0004",
+        "text": "2. Slaughter and Corral Fees\nPayment of Slaughter Fees, Ante-Mortem, Post-Mortem, Corral fees, and the like. \nOffice or Division \nOffice of the City Treasurer (CTO)/ Maa and Malagos \nSlaughterhouse Collection Unit\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail \nAll\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Tax Order of Payment – 1 original  \nEconomic Enterprise Unit / City Veterinarian’s \nOffice at the Slaughterhouse of Maa"
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0037-C001",
+        "source_page_id": "BB-PDF0037",
+        "text": "further information. \nClient may still proceed \nto the City Treasurer’s \nOffice for assessment \nand payment of dues. \nSTEP 2: PAYMENT\n2.Proceed to the City \nTreasurer’s Office for \npayment.\n2. Process \nunder City \nTreasurer’s \nOffice\nMayor’s\nPermit Fee is \nbased on the \nasset size and\nnature of \nbusiness\n(paid at the\nCity\nTreasurer’s\nOffice). Taxes\nis based on \nthe Gross \nIncome of \nBusiness\nEstablishment \n(refer the City \nTreasurer’s\nOffice’s \nCitizen’s \nCharter)\nPls. See\nSchedule of\nFe"
+      },
+      {
+        "chunk_id": "DEV120-CTO-PDF0044-C003",
+        "source_page_id": "CTO-PDF0044",
+        "text": "suppliers parked or displayed at or within the \nvicinities of the public markets or in other places within the territorial jurisdiction of the City \nof Davao, the following rates: \n \n \nRate of Fees\na. For rice, corn, sugar, or similar commodities placed in sacks,\nper sack \nP 4.00\nb. For “mongos”, beans and ginger placed in sacks, per sack \n8.00\nc. For pigs (large) 80 kilos or more, per head \n20.50\nd. For pigs (medium) size 50 kilo"
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0048-C001",
+        "source_page_id": "BB-PDF0048",
+        "text": "paid at the City \nTreasurer’s Office\nSTEP 2: PAYMENT\n2.Proceed to the \nCity Treasurer’s \nOffice for \npayment.\n2. Process under \nCity Treasurer’s \nOffice\nService fee  \nis Php50.00\nfor\nAmendment\nof\nBusiness\nPermit.\n9 Minutes \nCity Treasurer’s\nOffice\nEmployees\nSTEP 3: RELEASE\nSubmit \nApplications for \nChange of Name \nand / or \nCorrection of \nBusiness Name, \nofficial receipts \nand pertinent \ndocuments. Claim \nBusiness Permit \nat the Business \nBureau office and \nSign Logbook\n3.1 Receive \nApplication for \nChange of Name \nand"
+      }
+    ],
+    "page_hit": true,
+    "evidence_group_chunk_ids": [
+      [
+        "DEV120-CTO-PDF0006-C003"
+      ]
+    ],
+    "all_evidence_groups_covered": true,
+    "groups_available_in_any_corpus_chunk": [
+      true
+    ],
+    "semantic_service_scope_review": "pending; same-page lexical matches are not semantic proof"
+  },
+  {
+    "id": "DEV-EVID-06",
+    "k": 3,
+    "kind": "answerable",
+    "query": "What is the chicken block chilling rate, including its quantity condition?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-CTO-PDF0006-C002",
+        "source_page_id": "CTO-PDF0006",
+        "text": "FEE: P 10.00 per\n\nITEM OR HEADING: Block Chilling Facilities:\nFEE: [blank source cell]\n\nITEM OR HEADING: Large Cattle\nFEE: 200.00 per head\n\nITEM OR HEADING: Hog\nFEE: 100.00 per head\n\nITEM OR HEADING: Goat/Sheep\nFEE: 50.00 per head\n\nITEM OR HEADING: Chicken\nFEE: 500.00per 1,000 heads or a fraction thereof\n\nITEM OR HEADING: Washing of Hogs\nFEE: 10.00 per"
+      },
+      {
+        "chunk_id": "DEV120-CTO-PDF0006-C001",
+        "source_page_id": "CTO-PDF0006",
+        "text": "ITEM: Carabaos/Buffaloes\nFEE: 70.00\n\nITEM: Hogs: a. Lechon\nFEE: 50.00\n\nITEM: b. Others\nFEE: 50.00\n\nITEM: Goats, Sheep/Deer\nFEE: 20.00\n\nITEM: Poultry\nFEE: 1.00\n\nITEM OR HEADING: Other Fees and Charges\nFEE: [blank source cell]\n\nITEM OR HEADING: Ice Crusher\nFEE: P 10.00 per\n\nITEM OR HEADING: Block Chilling Facilities:"
+      },
+      {
+        "chunk_id": "DEV120-CTO-PDF0045-C002",
+        "source_page_id": "CTO-PDF0045",
+        "text": "required herein shall subject the \nLessee/Occupant to a surcharge of twenty-five percent (25%) of the amount of the rental \nfee plus an interest of two percent (2%) per month but not to exceed thirty-six (36) \nmonths.\nSection 351\nOCCUPANCY FEE FOR AWARDEE\nOccupancy Fee per Stall/Booth Depending on Market\nClassification\nClass A \nClass B \nClass C \nClass D\nMeat Section \nP 4,000.00 \nP 2,900.00 \nP 1,700.00 \n1,400.00\nDressed Chicken \n4,000.00 \n2,900.00"
+      }
+    ],
+    "page_hit": true,
+    "evidence_group_chunk_ids": [
+      [
+        "DEV120-CTO-PDF0006-C002"
+      ]
+    ],
+    "all_evidence_groups_covered": true,
+    "groups_available_in_any_corpus_chunk": [
+      true
+    ],
+    "semantic_service_scope_review": "pending; same-page lexical matches are not semantic proof"
+  },
+  {
+    "id": "DEV-EVID-06",
+    "k": 5,
+    "kind": "answerable",
+    "query": "What is the chicken block chilling rate, including its quantity condition?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-CTO-PDF0006-C002",
+        "source_page_id": "CTO-PDF0006",
+        "text": "FEE: P 10.00 per\n\nITEM OR HEADING: Block Chilling Facilities:\nFEE: [blank source cell]\n\nITEM OR HEADING: Large Cattle\nFEE: 200.00 per head\n\nITEM OR HEADING: Hog\nFEE: 100.00 per head\n\nITEM OR HEADING: Goat/Sheep\nFEE: 50.00 per head\n\nITEM OR HEADING: Chicken\nFEE: 500.00per 1,000 heads or a fraction thereof\n\nITEM OR HEADING: Washing of Hogs\nFEE: 10.00 per"
+      },
+      {
+        "chunk_id": "DEV120-CTO-PDF0006-C001",
+        "source_page_id": "CTO-PDF0006",
+        "text": "ITEM: Carabaos/Buffaloes\nFEE: 70.00\n\nITEM: Hogs: a. Lechon\nFEE: 50.00\n\nITEM: b. Others\nFEE: 50.00\n\nITEM: Goats, Sheep/Deer\nFEE: 20.00\n\nITEM: Poultry\nFEE: 1.00\n\nITEM OR HEADING: Other Fees and Charges\nFEE: [blank source cell]\n\nITEM OR HEADING: Ice Crusher\nFEE: P 10.00 per\n\nITEM OR HEADING: Block Chilling Facilities:"
+      },
+      {
+        "chunk_id": "DEV120-CTO-PDF0045-C002",
+        "source_page_id": "CTO-PDF0045",
+        "text": "required herein shall subject the \nLessee/Occupant to a surcharge of twenty-five percent (25%) of the amount of the rental \nfee plus an interest of two percent (2%) per month but not to exceed thirty-six (36) \nmonths.\nSection 351\nOCCUPANCY FEE FOR AWARDEE\nOccupancy Fee per Stall/Booth Depending on Market\nClassification\nClass A \nClass B \nClass C \nClass D\nMeat Section \nP 4,000.00 \nP 2,900.00 \nP 1,700.00 \n1,400.00\nDressed Chicken \n4,000.00 \n2,900.00"
+      },
+      {
+        "chunk_id": "DEV120-CTO-PDF0045-C003",
+        "source_page_id": "CTO-PDF0045",
+        "text": "P 2,900.00 \nP 1,700.00 \n1,400.00\nDressed Chicken \n4,000.00 \n2,900.00 \n1,700.00 \n1,400.00\nFish Section \n3,200.00 \n2,300.00 \n1,360.00 \n1,100.00\nVegetables and Fruits \n2,800.00 \n2,000.00 \n1,200.00 \n960.00\nVariety or Groceries \n2,800.00 \n2,000.00 \n1,200.00 \n960.00\nRice and Corn \n2,800.00 \n2,000.00 \n1,200.00 \n960.00\nFood Court/Eatery \n2,800.00 \n2,000.00 \n1,200.00 \n960.00\nDry Goods \n2,800.00 \n2,000.00 \n1,200.00 \n960.00\nCold Storage \n2,800.00 \n2,000.00 \n1,200.00 \n960.00\nMiscellaneous \n2,8"
+      },
+      {
+        "chunk_id": "DEV120-CTO-PDF0043-C004",
+        "source_page_id": "CTO-PDF0043",
+        "text": "Fees\nPer Square Meter Per Day\nClass A \nClass B \nClass C \nClass D\n1. Meat \nP 40.00 \nP 28.50 \nP 17.00 \nP 13.50\n2. Dressed Chicken and other\npoultry products \n36.00 \n26.50 \n16.00 \n13.00\n3. Fish \n38.00 \n25.50 \n15.50 \n12.00"
+      }
+    ],
+    "page_hit": true,
+    "evidence_group_chunk_ids": [
+      [
+        "DEV120-CTO-PDF0006-C002"
+      ]
+    ],
+    "all_evidence_groups_covered": true,
+    "groups_available_in_any_corpus_chunk": [
+      true
+    ],
+    "semantic_service_scope_review": "pending; same-page lexical matches are not semantic proof"
+  },
+  {
+    "id": "DEV-EVID-07",
+    "k": 3,
+    "kind": "answerable",
+    "query": "Under the BFP charter, what happens to FSIF when the LGU or PEZA assessment is zero?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C020",
+        "source_page_id": "BFP-PDF0001",
+        "text": "500.00\nSample computation:\nFSIF = (All fees charged by the LGU/PEZA) x\n(15%) = ______ Php but in no case shall be lower\nthan Php 500.00\nNote: If assessment from LGUs/PEZA = 0, then\nFSIF = 0\nOther fees\nIf applicable compute the appropriate fees in\naccordance with Section 12.0.0.4 of the RIRR\nof RA 9514 (e.g. storage, conveyance,\nhotworks, etc.) as a prerequisite for the\nissuance of appropriate permits"
+      },
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C019",
+        "source_page_id": "BFP-PDF0001",
+        "text": "nt\nin the UAF from current acceptable market\nconstruction cost per square meter or as indicated\nin Table II.G.1 of PD 1096, the higher the value will\nbe adopted\nFor FSIC (Certificate of Occupancy)/FSIC (New\nBusiness and Renewal of Business) Applica-\ntion\nFSIF = 15% of all fees charge by LGU/Philippine\nEconomic Zone Authority (PEZA) but in no case\nshall be lower than Php 500.00\nSample computation:\nFSIF = (All fees charged by the LGU/"
+      },
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C059",
+        "source_page_id": "BFP-PDF0001",
+        "text": "is replaced every 5 years during the periodic hydrostatic test and the teardown is done at that time.\nSource Table 7.3.1.1.2, NFPA 10-Standard for Portable Fire Extinguishers, 2007 Edition.\n\nThis product is one of the critical products that are required to undergo product certification under the BPS Product Certification Scheme. The list is downloadable at http://www.bps.dti.gov.ph\nUnder this scheme, the manufacturers and importers of these products are required to apply from the BPS for the:\nPhilippine Standard (PS"
+      }
+    ],
+    "page_hit": true,
+    "evidence_group_chunk_ids": [
+      [
+        "DEV120-BFP-PDF0001-C020"
+      ]
+    ],
+    "all_evidence_groups_covered": true,
+    "groups_available_in_any_corpus_chunk": [
+      true
+    ],
+    "semantic_service_scope_review": "pending; same-page lexical matches are not semantic proof"
+  },
+  {
+    "id": "DEV-EVID-07",
+    "k": 5,
+    "kind": "answerable",
+    "query": "Under the BFP charter, what happens to FSIF when the LGU or PEZA assessment is zero?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C020",
+        "source_page_id": "BFP-PDF0001",
+        "text": "500.00\nSample computation:\nFSIF = (All fees charged by the LGU/PEZA) x\n(15%) = ______ Php but in no case shall be lower\nthan Php 500.00\nNote: If assessment from LGUs/PEZA = 0, then\nFSIF = 0\nOther fees\nIf applicable compute the appropriate fees in\naccordance with Section 12.0.0.4 of the RIRR\nof RA 9514 (e.g. storage, conveyance,\nhotworks, etc.) as a prerequisite for the\nissuance of appropriate permits"
+      },
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C019",
+        "source_page_id": "BFP-PDF0001",
+        "text": "nt\nin the UAF from current acceptable market\nconstruction cost per square meter or as indicated\nin Table II.G.1 of PD 1096, the higher the value will\nbe adopted\nFor FSIC (Certificate of Occupancy)/FSIC (New\nBusiness and Renewal of Business) Applica-\ntion\nFSIF = 15% of all fees charge by LGU/Philippine\nEconomic Zone Authority (PEZA) but in no case\nshall be lower than Php 500.00\nSample computation:\nFSIF = (All fees charged by the LGU/"
+      },
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C059",
+        "source_page_id": "BFP-PDF0001",
+        "text": "is replaced every 5 years during the periodic hydrostatic test and the teardown is done at that time.\nSource Table 7.3.1.1.2, NFPA 10-Standard for Portable Fire Extinguishers, 2007 Edition.\n\nThis product is one of the critical products that are required to undergo product certification under the BPS Product Certification Scheme. The list is downloadable at http://www.bps.dti.gov.ph\nUnder this scheme, the manufacturers and importers of these products are required to apply from the BPS for the:\nPhilippine Standard (PS"
+      },
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C008",
+        "source_page_id": "BFP-PDF0001",
+        "text": "9.1.4 of JMC No. 01 Series of 2021—To address the lack of personnel of inspection departments and agencies compared to the number of establishments, LGUs are encouraged to use a system of risk classification of various \nbusinesses and adopt an inspection prioritization scheme on this basis, in close coordination with the Department of Health for Sanitary Permits, the BFP for the Fire Safety Inspection Certificate for the issuance of uniform guidelines on \nrisk inspection for specific sectors. (BOSS)\nAGENCY ROW 1\n\nCLIENTS"
+      },
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C007",
+        "source_page_id": "BFP-PDF0001",
+        "text": "te and other  permits or licenses being issued by other government agencies.\nNOTE (4) Section 9.1.2 of JMC No. 01 Series of 2021—To limit the face-to-face interaction between the applicant and the LGU officials, joint inspection teams (‗JITs‖) shall be organized to conduct inspection of the applicant‘s office/\npremises, in relation to an application for new business permit or renewal. (BOSS)\nSection 9.1.4 of JMC No. 01 Series of 2021—To address the lack of personnel of inspect"
+      }
+    ],
+    "page_hit": true,
+    "evidence_group_chunk_ids": [
+      [
+        "DEV120-BFP-PDF0001-C020"
+      ]
+    ],
+    "all_evidence_groups_covered": true,
+    "groups_available_in_any_corpus_chunk": [
+      true
+    ],
+    "semantic_service_scope_review": "pending; same-page lexical matches are not semantic proof"
+  },
+  {
+    "id": "DEV-EVID-08",
+    "k": 3,
+    "kind": "answerable",
+    "query": "What is the BFP FSEC application fee?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C023",
+        "source_page_id": "BFP-PDF0001",
+        "text": "UDED \nIN THE NEGATIVE LIST\nA   P   P   L   I   C   A   T   I   O   N      F   O   R   M\nApplied in Fire Station/Lone District Fire Office \nBFP FSEC\nApplication Form\n(DCN No. BFP-QSF-\nFSED-001 REV.02\n(08.24.20))\n[REPRESENTATION: Application-form cell spans: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION.]\n\nBFP FSIC Application Form (DCN No. BFP-QSF-FSED-002 RE"
+      },
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C017",
+        "source_page_id": "BFP-PDF0001",
+        "text": "Issuance of FSEC/NOD/\nFSIC for Certificate of Occupancy/FSIC for\nBusiness Permit (new/renewal) is thru OSCP/\nBOSS Releasing Officer\n\nPROCESSING TIME: maximum of five (5) minutes\n\nPERSON RESPONSIBLE: CRO\n\nFEES TO BE PAID [shared cell spanning all six agency rows]:\nFor FSEC\nApplication Fee: Php 200.00\nFCCT = 0.1% of the verified estimated value\n(materials and labor) of the building/structure or\nfacility but not more"
+      },
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C019",
+        "source_page_id": "BFP-PDF0001",
+        "text": "nt\nin the UAF from current acceptable market\nconstruction cost per square meter or as indicated\nin Table II.G.1 of PD 1096, the higher the value will\nbe adopted\nFor FSIC (Certificate of Occupancy)/FSIC (New\nBusiness and Renewal of Business) Applica-\ntion\nFSIF = 15% of all fees charge by LGU/Philippine\nEconomic Zone Authority (PEZA) but in no case\nshall be lower than Php 500.00\nSample computation:\nFSIF = (All fees charged by the LGU/"
+      }
+    ],
+    "page_hit": true,
+    "evidence_group_chunk_ids": [
+      [
+        "DEV120-BFP-PDF0001-C017"
+      ]
+    ],
+    "all_evidence_groups_covered": true,
+    "groups_available_in_any_corpus_chunk": [
+      true
+    ],
+    "semantic_service_scope_review": "pending; same-page lexical matches are not semantic proof"
+  },
+  {
+    "id": "DEV-EVID-08",
+    "k": 5,
+    "kind": "answerable",
+    "query": "What is the BFP FSEC application fee?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C023",
+        "source_page_id": "BFP-PDF0001",
+        "text": "UDED \nIN THE NEGATIVE LIST\nA   P   P   L   I   C   A   T   I   O   N      F   O   R   M\nApplied in Fire Station/Lone District Fire Office \nBFP FSEC\nApplication Form\n(DCN No. BFP-QSF-\nFSED-001 REV.02\n(08.24.20))\n[REPRESENTATION: Application-form cell spans: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION.]\n\nBFP FSIC Application Form (DCN No. BFP-QSF-FSED-002 RE"
+      },
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C017",
+        "source_page_id": "BFP-PDF0001",
+        "text": "Issuance of FSEC/NOD/\nFSIC for Certificate of Occupancy/FSIC for\nBusiness Permit (new/renewal) is thru OSCP/\nBOSS Releasing Officer\n\nPROCESSING TIME: maximum of five (5) minutes\n\nPERSON RESPONSIBLE: CRO\n\nFEES TO BE PAID [shared cell spanning all six agency rows]:\nFor FSEC\nApplication Fee: Php 200.00\nFCCT = 0.1% of the verified estimated value\n(materials and labor) of the building/structure or\nfacility but not more"
+      },
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C019",
+        "source_page_id": "BFP-PDF0001",
+        "text": "nt\nin the UAF from current acceptable market\nconstruction cost per square meter or as indicated\nin Table II.G.1 of PD 1096, the higher the value will\nbe adopted\nFor FSIC (Certificate of Occupancy)/FSIC (New\nBusiness and Renewal of Business) Applica-\ntion\nFSIF = 15% of all fees charge by LGU/Philippine\nEconomic Zone Authority (PEZA) but in no case\nshall be lower than Php 500.00\nSample computation:\nFSIF = (All fees charged by the LGU/"
+      },
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C012",
+        "source_page_id": "BFP-PDF0001",
+        "text": "proceed to releasing\nwindow to claim the stub by presenting the OR.\nNote: Releasing date and time of FSEC is\nindicated in the claim stub.\n\nAGENCY ACTION: 3. Collect the payment and issue Official\nReceipt (OR)\nFor OSCP/BOSS : Backroom operation with\nOSCP/BOSS for one-time payment thru\nco-location\nFor Local Stations with MOA with the LGUs, fire\ncode fees/taxes shall be collected by the LGUs\n\nPROCESSING TIME: maximum of ten (10) minutes\n\nPERSON"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0015-C003",
+        "source_page_id": "OCBO-PDF0015",
+        "text": "OCBO\n\nCLIENT STEPS: 4. Wait for notification for OP and endorsement to BFP\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 4.1 Assess application for OP\nPROCESSING TIME: 1 Day\n\nAGENCY ACTION: 4.2 Release OP (for Occupancy and Zoning), plans and documents to be endorsed with BFP\nPROCESSING TIME: 5 Minutes\n\nAGENCY ACTION: 4.3 Receive plans, documents, FSEC, Zoning clearance\nPROCESSING TIME: 5"
+      }
+    ],
+    "page_hit": true,
+    "evidence_group_chunk_ids": [
+      [
+        "DEV120-BFP-PDF0001-C017"
+      ]
+    ],
+    "all_evidence_groups_covered": true,
+    "groups_available_in_any_corpus_chunk": [
+      true
+    ],
+    "semantic_service_scope_review": "pending; same-page lexical matches are not semantic proof"
+  },
+  {
+    "id": "DEV-EVID-09",
+    "k": 3,
+    "kind": "answerable",
+    "query": "For business permit renewal, what employee information must the list include and how many copies?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-BB-PDF0078-C002",
+        "source_page_id": "BB-PDF0078",
+        "text": "other documents\n4. CITC Employee \nCancels Business \nPermit record from the \ndatabase and returns \nthe attached documents \nand application form \ncopy to Business \nBureau.\nCITC Employee\n5. If recommended \nfor retirement, \nreceive application \nand other \ndocuments for re- \nprocessing \napplication under \nretirement service\n5. EDP Head Receives \nthe attached documents \nand application form \ncopy from CITC. \nContacts Client upon \nsuccessful cancellation \nof Business Permit \nApplication, and \nreleases duly canceled \napplication and other \ndocuments or Returns \napplication and other \ndocuments and give a \nchecklist for retirement \nservice if recommended \nfor"
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0066-C002",
+        "source_page_id": "BB-PDF0066",
+        "text": "city.gov.p\nh/, select Create \nApplication for New \nor Occupational \nPermit Renewal for \nRenewal, Fill out \nOnline Application \nForm and upload the \nrequired documents \nenumerated in the \nchecklist.\nNote: \n   If the applicant is an \nentertainer, masseur, \nor bar attendant 18-20 \nyears old, or the \napplicant is below 18 \nyears old, he or she \nmust present \nhimself/herself for an \ninterview.\nProcess Proper:\n2.1Receive application \nform and supporting \ndocuments including \nofficial receipt, and \nverify applicant \ninformation.\n2.2. Conduct interview"
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0078-C001",
+        "source_page_id": "BB-PDF0078",
+        "text": "applicant, and will be \nadvised to process the \ntransaction under the \nRetirement of Business \nPermit service.\n3. Client receives \napproval or \ndisapproval of \ncancellation\n3. EDP Head Endorses \napplication form and \nrequired documents to \nthe City Information \nTechnology Center\nNone\n5 Hours\nEDP Head -\nBusiness Bureau\n(Window 8 or 9)\n(c/o Mrs. Helen C.\nPore)\n4. If approved to be \ncanceled, Client \nclaims duly \ncanceled \napplication and \nother documents\n4. CITC Employee \nCancels Business \nPermit record from the \ndatabase and return"
+      }
+    ],
+    "page_hit": false,
+    "evidence_group_chunk_ids": [
+      []
+    ],
+    "all_evidence_groups_covered": false,
+    "groups_available_in_any_corpus_chunk": [
+      true
+    ],
+    "semantic_service_scope_review": "pending; same-page lexical matches are not semantic proof"
+  },
+  {
+    "id": "DEV-EVID-09",
+    "k": 5,
+    "kind": "answerable",
+    "query": "For business permit renewal, what employee information must the list include and how many copies?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-BB-PDF0078-C002",
+        "source_page_id": "BB-PDF0078",
+        "text": "other documents\n4. CITC Employee \nCancels Business \nPermit record from the \ndatabase and returns \nthe attached documents \nand application form \ncopy to Business \nBureau.\nCITC Employee\n5. If recommended \nfor retirement, \nreceive application \nand other \ndocuments for re- \nprocessing \napplication under \nretirement service\n5. EDP Head Receives \nthe attached documents \nand application form \ncopy from CITC. \nContacts Client upon \nsuccessful cancellation \nof Business Permit \nApplication, and \nreleases duly canceled \napplication and other \ndocuments or Returns \napplication and other \ndocuments and give a \nchecklist for retirement \nservice if recommended \nfor"
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0066-C002",
+        "source_page_id": "BB-PDF0066",
+        "text": "city.gov.p\nh/, select Create \nApplication for New \nor Occupational \nPermit Renewal for \nRenewal, Fill out \nOnline Application \nForm and upload the \nrequired documents \nenumerated in the \nchecklist.\nNote: \n   If the applicant is an \nentertainer, masseur, \nor bar attendant 18-20 \nyears old, or the \napplicant is below 18 \nyears old, he or she \nmust present \nhimself/herself for an \ninterview.\nProcess Proper:\n2.1Receive application \nform and supporting \ndocuments including \nofficial receipt, and \nverify applicant \ninformation.\n2.2. Conduct interview"
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0078-C001",
+        "source_page_id": "BB-PDF0078",
+        "text": "applicant, and will be \nadvised to process the \ntransaction under the \nRetirement of Business \nPermit service.\n3. Client receives \napproval or \ndisapproval of \ncancellation\n3. EDP Head Endorses \napplication form and \nrequired documents to \nthe City Information \nTechnology Center\nNone\n5 Hours\nEDP Head -\nBusiness Bureau\n(Window 8 or 9)\n(c/o Mrs. Helen C.\nPore)\n4. If approved to be \ncanceled, Client \nclaims duly \ncanceled \napplication and \nother documents\n4. CITC Employee \nCancels Business \nPermit record from the \ndatabase and return"
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0045-C003",
+        "source_page_id": "BB-PDF0045",
+        "text": "Business Permit at the\n3.1 Receive \nApplications \nfor Transfer of \nOwnership \nand Complete \nAttachments / \nDocuments\nNone \n10 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau"
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0060-C002",
+        "source_page_id": "BB-PDF0060",
+        "text": "Business \nBureau \nEmployee \nshall \ncheck the \nspecial \npermit \nportal for \npaid \napplication\ns, check \nthe \nreceipts \nand \nuploaded \ndocuments\n, encode \nevent \ndetails and \ntag “For \nSupervisor\n’s \nApproval” \n(or cancel \nupon \nrequest of \nclient).\nNone\n30 Minutes\nLicensing \nOfficer I /\nSMP\nPersonnel, \nBusiness \nBureau\n2.2 \nSupervisor \nApproves \nthe \nSpecial\nNone\n20 Minutes\nBusiness \nBureau \nChief,"
+      }
+    ],
+    "page_hit": false,
+    "evidence_group_chunk_ids": [
+      []
+    ],
+    "all_evidence_groups_covered": false,
+    "groups_available_in_any_corpus_chunk": [
+      true
+    ],
+    "semantic_service_scope_review": "pending; same-page lexical matches are not semantic proof"
+  },
+  {
+    "id": "DEV-EVID-10",
+    "k": 3,
+    "kind": "answerable",
+    "query": "For business permit renewal, what authority document does a represented sole proprietor need?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-BB-PDF0002-C004",
+        "source_page_id": "BB-PDF0002",
+        "text": "and Exchange \nCommission\n6. Certificate of Cooperation, Articles of \nCooperation for Cooperative (1 photocopy).\nCooperative Development \nAuthority\n7. DOLE / POEA Certificate of Registration, if \napplicable.\nDepartment of Labor and \nEmployment\n8. DHSUD Certificate of Registration, if \napplicable.\nDepartment of Human Settlement \nand Urban Development\n9. Special Power of Attorney (1 current and \noriginal) for represented – Sole Proprietorship\nApplicant, notarized by any \nNotary Public\n10. Partnership Resolution (1 current and \noriginal) for represented – Partnership\nAppli"
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0016-C001",
+        "source_page_id": "BB-PDF0016",
+        "text": "8. DHSUD Certificate of Registration, if \napplicable.\nDepartment of Human Settlement \nand Urban Development\n9. Special Power of Attorney (1 current \nand original) for represented - Sole \nProprietorship\nApplicant, notarized by any Notary \nPublic\n10.Partnership Resolution (1 current and \noriginal) for represented – Partnership\nApplicant, notarized by any Notary \nPublic\n11. Secretary’s Certificate or Board \nResolution for other form of ownership (1 \ncurrent and original) - Corporation and \nCooperative\nApplicant, notarized by any Notary \nPublic\n12. Valid"
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0072-C004",
+        "source_page_id": "BB-PDF0072",
+        "text": "6. Special Power of Attorney for \nSingle Proprietorship if \nrepresented (1 original)\nAny Notary Public / Applicant\n7. Business Identification Plate \n Applicant"
+      }
+    ],
+    "page_hit": true,
+    "evidence_group_chunk_ids": [
+      [],
+      [
+        "DEV120-BB-PDF0016-C001"
+      ]
+    ],
+    "all_evidence_groups_covered": false,
+    "groups_available_in_any_corpus_chunk": [
+      true,
+      true
+    ],
+    "semantic_service_scope_review": "pending; same-page lexical matches are not semantic proof"
+  },
+  {
+    "id": "DEV-EVID-10",
+    "k": 5,
+    "kind": "answerable",
+    "query": "For business permit renewal, what authority document does a represented sole proprietor need?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-BB-PDF0002-C004",
+        "source_page_id": "BB-PDF0002",
+        "text": "and Exchange \nCommission\n6. Certificate of Cooperation, Articles of \nCooperation for Cooperative (1 photocopy).\nCooperative Development \nAuthority\n7. DOLE / POEA Certificate of Registration, if \napplicable.\nDepartment of Labor and \nEmployment\n8. DHSUD Certificate of Registration, if \napplicable.\nDepartment of Human Settlement \nand Urban Development\n9. Special Power of Attorney (1 current and \noriginal) for represented – Sole Proprietorship\nApplicant, notarized by any \nNotary Public\n10. Partnership Resolution (1 current and \noriginal) for represented – Partnership\nAppli"
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0016-C001",
+        "source_page_id": "BB-PDF0016",
+        "text": "8. DHSUD Certificate of Registration, if \napplicable.\nDepartment of Human Settlement \nand Urban Development\n9. Special Power of Attorney (1 current \nand original) for represented - Sole \nProprietorship\nApplicant, notarized by any Notary \nPublic\n10.Partnership Resolution (1 current and \noriginal) for represented – Partnership\nApplicant, notarized by any Notary \nPublic\n11. Secretary’s Certificate or Board \nResolution for other form of ownership (1 \ncurrent and original) - Corporation and \nCooperative\nApplicant, notarized by any Notary \nPublic\n12. Valid"
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0072-C004",
+        "source_page_id": "BB-PDF0072",
+        "text": "6. Special Power of Attorney for \nSingle Proprietorship if \nrepresented (1 original)\nAny Notary Public / Applicant\n7. Business Identification Plate \n Applicant"
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0018-C002",
+        "source_page_id": "BB-PDF0018",
+        "text": "itional Line of\nBusiness (notarized) stating the business \nline to be added and additional capital - \nSingle Proprietorship Only\nApplicant, notarized by any Notary \nPublic\n3. For Sole Proprietorship, if \nrepresented, Special Power of Attorney, \nindicating specific authority and capacity \ngranted to representative.\nApplicant, notarized by any Notary \nPublic\n4. For Partnership, Partnership \nResolution indicating specific authority \nand capacity granted to representative, \nand stating the business line to be \nadded and additional capital\nApplicant, notarized"
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0068-C003",
+        "source_page_id": "BB-PDF0068",
+        "text": "Special Power\nof \nAttorney \nif\nrepresented \nfor\nindividual \nor \nsole\nproprietorship \n(1\noriginal)\nApplicant, notarized by any Notary Public\n3. \nPartnership \nResolution\nindicating \nthe \nreason \nand\nauthorized representative for \nPartnership (1 original)\nApplicant, notarized by any Notary Public\n4. \nSecretary’s \nCertificate\nindicating the reason and the \nauthorized representative. (1 \noriginal)\nApplicant, notarized by any Notary Public\n5. \nValid \nI.D. \nof \nthe\nrequisitioner (1 photocopy)\nApplicant\n6. \nData \nUse \nPrivacy\nAgreement, if applicable\nApp"
+      }
+    ],
+    "page_hit": true,
+    "evidence_group_chunk_ids": [
+      [],
+      [
+        "DEV120-BB-PDF0016-C001"
+      ]
+    ],
+    "all_evidence_groups_covered": false,
+    "groups_available_in_any_corpus_chunk": [
+      true,
+      true
+    ],
+    "semantic_service_scope_review": "pending; same-page lexical matches are not semantic proof"
+  },
+  {
+    "id": "DEV-EVID-11",
+    "k": 3,
+    "kind": "answerable",
+    "query": "For locational clearance for a three-storey building, how many building-plan sets are needed and how must they be prepared?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-CPDO-PDF0011-C003",
+        "source_page_id": "CPDO-PDF0011",
+        "text": "DO\n4. SPA from the building owner to \nprocess application for Locational \nClearance\nApplicant\n5. Seven (7) complete sets of Building \nPlans (original copy) \na. Filled-up title blocks \nb. Signed and sealed by CE / Architect\nApplicant\n6. Certified True Copy of Title issued \nby the Registry of Deeds (ROD) or \nshow original copy of title for validation \n(1 original for validation, 1 photocopy)\nRegistry of Deeds\n7. Locational Clearance Application \nduly notarized and signed by the \napplicant (1 photocopy)"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0018-C002",
+        "source_page_id": "OCBO-PDF0018",
+        "text": "5,000 sq.meters \nPhp \n200.00\nWith floor area above 10,000.00 \nsq.meters\nPhp   2,400.00\ne. Division J-2 structures\nGarages, carports, balconies, terraces, lanais and the like: 50% of the rate of the \nprincipal building, of which they are accessories.\nAviaries, aquariums, zoo structures and the like: same rates as for Section 10.d. above.\nTowers such a for Radio and TV transmissions, cell site, sigh (ground of roof type) and \nwater tank supporting"
+      },
+      {
+        "chunk_id": "DEV120-CPDO-PDF0085-C001",
+        "source_page_id": "CPDO-PDF0085",
+        "text": "15. Preliminary Subdivision Development Plan (PSDP) and \nDevelopment Permit (DP) for Mall, Condominium, Hotel and \nApartment \nArticle XI Section 1 of the Zoning Ordinance states that the projects that listed below \nare required to secure Preliminary Approval and Locational Clearance (PALC) and \nDevelopment Permit (DP) from the Sangguniang Panlungsod which shall be granted \nthrough a resolution by majority votes of all its members. \n \n(For Mall, Condominium, Warehouse, Hotel, Apartment) \nOffice or Division \nCity"
+      }
+    ],
+    "page_hit": true,
+    "evidence_group_chunk_ids": [
+      [
+        "DEV120-CPDO-PDF0011-C003"
+      ]
+    ],
+    "all_evidence_groups_covered": true,
+    "groups_available_in_any_corpus_chunk": [
+      true
+    ],
+    "semantic_service_scope_review": "pending; same-page lexical matches are not semantic proof"
+  },
+  {
+    "id": "DEV-EVID-11",
+    "k": 5,
+    "kind": "answerable",
+    "query": "For locational clearance for a three-storey building, how many building-plan sets are needed and how must they be prepared?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-CPDO-PDF0011-C003",
+        "source_page_id": "CPDO-PDF0011",
+        "text": "DO\n4. SPA from the building owner to \nprocess application for Locational \nClearance\nApplicant\n5. Seven (7) complete sets of Building \nPlans (original copy) \na. Filled-up title blocks \nb. Signed and sealed by CE / Architect\nApplicant\n6. Certified True Copy of Title issued \nby the Registry of Deeds (ROD) or \nshow original copy of title for validation \n(1 original for validation, 1 photocopy)\nRegistry of Deeds\n7. Locational Clearance Application \nduly notarized and signed by the \napplicant (1 photocopy)"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0018-C002",
+        "source_page_id": "OCBO-PDF0018",
+        "text": "5,000 sq.meters \nPhp \n200.00\nWith floor area above 10,000.00 \nsq.meters\nPhp   2,400.00\ne. Division J-2 structures\nGarages, carports, balconies, terraces, lanais and the like: 50% of the rate of the \nprincipal building, of which they are accessories.\nAviaries, aquariums, zoo structures and the like: same rates as for Section 10.d. above.\nTowers such a for Radio and TV transmissions, cell site, sigh (ground of roof type) and \nwater tank supporting"
+      },
+      {
+        "chunk_id": "DEV120-CPDO-PDF0085-C001",
+        "source_page_id": "CPDO-PDF0085",
+        "text": "15. Preliminary Subdivision Development Plan (PSDP) and \nDevelopment Permit (DP) for Mall, Condominium, Hotel and \nApartment \nArticle XI Section 1 of the Zoning Ordinance states that the projects that listed below \nare required to secure Preliminary Approval and Locational Clearance (PALC) and \nDevelopment Permit (DP) from the Sangguniang Panlungsod which shall be granted \nthrough a resolution by majority votes of all its members. \n \n(For Mall, Condominium, Warehouse, Hotel, Apartment) \nOffice or Division \nCity"
+      },
+      {
+        "chunk_id": "DEV120-CPDO-PDF0019-C003",
+        "source_page_id": "CPDO-PDF0019",
+        "text": ") \nCPDO\n4. SPA from the building owner to \nprocess application for Locational \nClearance\nApplicant\n5. Seven (7) complete sets of Building \nPlans (original) \na. Filled-up title blocks \nb. Signed and sealed by CE / Architect\nApplicant\n6. Certified True Copy of Title issued \nby the Registry of Deeds (ROD) or \nshow original copy of title for validation \n(1 original for validation, 1 photocopy)\nRegistry of Deeds\n7. Locational Clearance Application \nduly notarized and signed by the \napplicant (1 photocopy"
+      },
+      {
+        "chunk_id": "DEV120-CPDO-PDF0008-C001",
+        "source_page_id": "CPDO-PDF0008",
+        "text": "3. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (2-Storey Buildings and Below and \n1,500 Building Floor Area and Below) \nFor 2-storey buildings and below and for building floor area of 1,500 square meters \nand below only. \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator.  \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nSimple\nType of Trans"
+      }
+    ],
+    "page_hit": true,
+    "evidence_group_chunk_ids": [
+      [
+        "DEV120-CPDO-PDF0011-C003"
+      ]
+    ],
+    "all_evidence_groups_covered": true,
+    "groups_available_in_any_corpus_chunk": [
+      true
+    ],
+    "semantic_service_scope_review": "pending; same-page lexical matches are not semantic proof"
+  },
+  {
+    "id": "DEV-EVID-12",
+    "k": 3,
+    "kind": "answerable",
+    "query": "Who may apply for building locational clearance for three storeys and above?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-CPDO-PDF0008-C001",
+        "source_page_id": "CPDO-PDF0008",
+        "text": "3. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (2-Storey Buildings and Below and \n1,500 Building Floor Area and Below) \nFor 2-storey buildings and below and for building floor area of 1,500 square meters \nand below only. \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator.  \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nSimple\nType of Trans"
+      },
+      {
+        "chunk_id": "DEV120-CPDO-PDF0005-C001",
+        "source_page_id": "CPDO-PDF0005",
+        "text": "2. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (3-Storey Buildings and Above and \n1,500 Building Floor Area and Above) \nFor 3-storey buildings and above and for building floor area of 1,500 square meters \nand above only.  \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nComplex\nType of Trans"
+      },
+      {
+        "chunk_id": "DEV120-CPDO-PDF0011-C003",
+        "source_page_id": "CPDO-PDF0011",
+        "text": "DO\n4. SPA from the building owner to \nprocess application for Locational \nClearance\nApplicant\n5. Seven (7) complete sets of Building \nPlans (original copy) \na. Filled-up title blocks \nb. Signed and sealed by CE / Architect\nApplicant\n6. Certified True Copy of Title issued \nby the Registry of Deeds (ROD) or \nshow original copy of title for validation \n(1 original for validation, 1 photocopy)\nRegistry of Deeds\n7. Locational Clearance Application \nduly notarized and signed by the \napplicant (1 photocopy)"
+      }
+    ],
+    "page_hit": true,
+    "evidence_group_chunk_ids": [
+      []
+    ],
+    "all_evidence_groups_covered": false,
+    "groups_available_in_any_corpus_chunk": [
+      true
+    ],
+    "semantic_service_scope_review": "pending; same-page lexical matches are not semantic proof"
+  },
+  {
+    "id": "DEV-EVID-12",
+    "k": 5,
+    "kind": "answerable",
+    "query": "Who may apply for building locational clearance for three storeys and above?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-CPDO-PDF0008-C001",
+        "source_page_id": "CPDO-PDF0008",
+        "text": "3. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (2-Storey Buildings and Below and \n1,500 Building Floor Area and Below) \nFor 2-storey buildings and below and for building floor area of 1,500 square meters \nand below only. \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator.  \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nSimple\nType of Trans"
+      },
+      {
+        "chunk_id": "DEV120-CPDO-PDF0005-C001",
+        "source_page_id": "CPDO-PDF0005",
+        "text": "2. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (3-Storey Buildings and Above and \n1,500 Building Floor Area and Above) \nFor 3-storey buildings and above and for building floor area of 1,500 square meters \nand above only.  \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nComplex\nType of Trans"
+      },
+      {
+        "chunk_id": "DEV120-CPDO-PDF0011-C003",
+        "source_page_id": "CPDO-PDF0011",
+        "text": "DO\n4. SPA from the building owner to \nprocess application for Locational \nClearance\nApplicant\n5. Seven (7) complete sets of Building \nPlans (original copy) \na. Filled-up title blocks \nb. Signed and sealed by CE / Architect\nApplicant\n6. Certified True Copy of Title issued \nby the Registry of Deeds (ROD) or \nshow original copy of title for validation \n(1 original for validation, 1 photocopy)\nRegistry of Deeds\n7. Locational Clearance Application \nduly notarized and signed by the \napplicant (1 photocopy)"
+      },
+      {
+        "chunk_id": "DEV120-CPDO-PDF0019-C003",
+        "source_page_id": "CPDO-PDF0019",
+        "text": ") \nCPDO\n4. SPA from the building owner to \nprocess application for Locational \nClearance\nApplicant\n5. Seven (7) complete sets of Building \nPlans (original) \na. Filled-up title blocks \nb. Signed and sealed by CE / Architect\nApplicant\n6. Certified True Copy of Title issued \nby the Registry of Deeds (ROD) or \nshow original copy of title for validation \n(1 original for validation, 1 photocopy)\nRegistry of Deeds\n7. Locational Clearance Application \nduly notarized and signed by the \napplicant (1 photocopy"
+      },
+      {
+        "chunk_id": "DEV120-CPDO-PDF0011-C001",
+        "source_page_id": "CPDO-PDF0011",
+        "text": "4. Issuance of Locational Clearance (LC) for Building based on the \nIntegrated Zoning Ordinance (2019-2028) (for 3-storey and above) \nA written authority / permit granted by the City Planning and Development Office \n(previously by the Board) pursuant to applicable laws on land use planning and zoning \nfor the establishment or operation of projects of national / local significance. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nComplex\nType of Transaction \nG2G – Government to Government"
+      }
+    ],
+    "page_hit": true,
+    "evidence_group_chunk_ids": [
+      []
+    ],
+    "all_evidence_groups_covered": false,
+    "groups_available_in_any_corpus_chunk": [
+      true
+    ],
+    "semantic_service_scope_review": "pending; same-page lexical matches are not semantic proof"
+  },
+  {
+    "id": "DEV-EVID-13",
+    "k": 3,
+    "kind": "ambiguous",
+    "query": "How long does OCBO take to encode and receive documents?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-OCBO-PDF0076-C001",
+        "source_page_id": "OCBO-PDF0076",
+        "text": "1. Submit Application \nform and all necessary \nrequirements\n1.1 Receive and \ncheck documents \nand forms \n \n \n \n \n \n1.2 Encode \ndocuments \n \n \n \n1.3 Designate for \ninspection \n \n \n \n1.4 Conduct \ninspection \n \n \n \n \n \n \n \n \n1.5 Assess \napplication for OP\nNone \n10 Minutes\n5 Minutes\n2 Hours\n5 Days\n1 Day\nLaborer\nGeodetic Engineer –\nOCBO\nRecords Custodian\n– OCBO\nRecords Custodian\n– OCBO\nTechnical\nAssessment II\nGeodetic Engineer –\nOCBO\nInformation Systems\nDesigner – OCBO\n2. Pay OP at City \nTreasurer’s Office\n2. Release OP \nand documents \nfor client for \npayment\nNone \n5 Minute"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0069-C001",
+        "source_page_id": "OCBO-PDF0069",
+        "text": "3.3 Encode \nEvaluation Sheet \n  \n \n \n \n \n \n \n \n \n3.4 Forward \napplication to \nPED Chief \n  \n3.5 Generate \nAssessment and \nIssue Order of \nPayment (OP) \n  \n  \n \n \n \n3.6 Forward \nplans, \ndocuments, and \nOP to Releasing\n15 Minutes\n4 Hours\n4 Hours\n10 Minutes\nCivil Engineer –\nOCBO\nRecords\nManagement\nAssistant – OCBO\n4. Claim Plans, Documents \nand OP for payment at City \nTreasurer’s Office\n4. Notify client \nthat plans, \ndocuments and \nOP is ready for \nclaiming\nNone \n10 Minutes \nRecords\nManagement\nAssistant – OCBO"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0082-C001",
+        "source_page_id": "OCBO-PDF0082",
+        "text": "plans and \ndocuments\n2.2 Encode \nBuilding Permit \nApplication \n \n \n \n \n \n \n2.3 Endorse to City \nPlanning & \nDevelopment \nOffice (CPDO) \n \n \n2.4 Receive plans \nwith Order of \nPayment from \nCPDO posted in \nthe system \n \n2.5 Forward and \nsegregate \napplication to \nProcessing & \nEvaluation’s \nInspector (PED) \n(Inspection and \nBureau of Fire \nProtection (BFP))\n5 Minutes\n1 Day \n(Note:\nProcessing\nTime Of CPDO\nIs Excluded)\n20 Minutes\n1 Day\nTechnical Assessment\n1\nOCBO\nTechnical Assistant –\nOCBO\nTechnical Assistant –\nOCBO\nTechnic"
+      }
+    ],
+    "clarification_behavior": "not evaluated: retrieval-only run; no generation call"
+  },
+  {
+    "id": "DEV-EVID-13",
+    "k": 5,
+    "kind": "ambiguous",
+    "query": "How long does OCBO take to encode and receive documents?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-OCBO-PDF0076-C001",
+        "source_page_id": "OCBO-PDF0076",
+        "text": "1. Submit Application \nform and all necessary \nrequirements\n1.1 Receive and \ncheck documents \nand forms \n \n \n \n \n \n1.2 Encode \ndocuments \n \n \n \n1.3 Designate for \ninspection \n \n \n \n1.4 Conduct \ninspection \n \n \n \n \n \n \n \n \n1.5 Assess \napplication for OP\nNone \n10 Minutes\n5 Minutes\n2 Hours\n5 Days\n1 Day\nLaborer\nGeodetic Engineer –\nOCBO\nRecords Custodian\n– OCBO\nRecords Custodian\n– OCBO\nTechnical\nAssessment II\nGeodetic Engineer –\nOCBO\nInformation Systems\nDesigner – OCBO\n2. Pay OP at City \nTreasurer’s Office\n2. Release OP \nand documents \nfor client for \npayment\nNone \n5 Minute"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0069-C001",
+        "source_page_id": "OCBO-PDF0069",
+        "text": "3.3 Encode \nEvaluation Sheet \n  \n \n \n \n \n \n \n \n \n3.4 Forward \napplication to \nPED Chief \n  \n3.5 Generate \nAssessment and \nIssue Order of \nPayment (OP) \n  \n  \n \n \n \n3.6 Forward \nplans, \ndocuments, and \nOP to Releasing\n15 Minutes\n4 Hours\n4 Hours\n10 Minutes\nCivil Engineer –\nOCBO\nRecords\nManagement\nAssistant – OCBO\n4. Claim Plans, Documents \nand OP for payment at City \nTreasurer’s Office\n4. Notify client \nthat plans, \ndocuments and \nOP is ready for \nclaiming\nNone \n10 Minutes \nRecords\nManagement\nAssistant – OCBO"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0082-C001",
+        "source_page_id": "OCBO-PDF0082",
+        "text": "plans and \ndocuments\n2.2 Encode \nBuilding Permit \nApplication \n \n \n \n \n \n \n2.3 Endorse to City \nPlanning & \nDevelopment \nOffice (CPDO) \n \n \n2.4 Receive plans \nwith Order of \nPayment from \nCPDO posted in \nthe system \n \n2.5 Forward and \nsegregate \napplication to \nProcessing & \nEvaluation’s \nInspector (PED) \n(Inspection and \nBureau of Fire \nProtection (BFP))\n5 Minutes\n1 Day \n(Note:\nProcessing\nTime Of CPDO\nIs Excluded)\n20 Minutes\n1 Day\nTechnical Assessment\n1\nOCBO\nTechnical Assistant –\nOCBO\nTechnical Assistant –\nOCBO\nTechnic"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0007-C001",
+        "source_page_id": "OCBO-PDF0007",
+        "text": "2.2 Encode \nBuilding Permit \nApplication \n2.3 Endorse to City \nPlanning & \nDevelopment \nOffice (CPDO) \n \n2.4 Receive plans \nwith Order of \nPayment from \nCPDO posted in \nthe system \n \n2.5 Forward and \nsegregate \napplication to \nProcessing & \nEvaluation’s \nInspector (PED) \n(Inspection and \nBureau of Fire \nProtection (BFP))\n5 Minutes\n1 Day \n(Note:\nProcessing\nTime Of CPDO\nIs Excluded)\n20 Minutes\n1 Day\nCivil Engineer –\nOCBO\nPrograms Assistant –\nOCBO\nPrograms Assistant –\nOCBO\nPrograms Assistant –"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0054-C001",
+        "source_page_id": "OCBO-PDF0054",
+        "text": "2.2 Encode \nPavement Permit \nApplication \n  \n  \n \n \n \n \n2.3 Forward and \nsegregate \napplication to \nProcessing & \nEvaluation’s \nInspector\n5 Minutes\n1 Day\nOCBO\nTechnical \nAssistant –\nOCBO\n3. Upon inspection, any \nauthorized representative \nmust be \n  on-site\n3.1 Conduct \nInspection \n \n \n \n \n \n \n \n \n3.2 Evaluate \nplans and \ndocuments \n·   Line & Grade \n·   Structural \n  \n \n \n \n3.3 Encode \nEvaluation Sheet\nNone \n5 Days\n1 Day\n15 Minutes\nEngineer\nTechnical\nAssessment 1 –\nOCBO\nLine and Grade\nPED Chief\nLine and Grade –\nOCBO\nPrograms Officer\nPrograms"
+      }
+    ],
+    "clarification_behavior": "not evaluated: retrieval-only run; no generation call"
+  },
+  {
+    "id": "DEV-EVID-14",
+    "k": 3,
+    "kind": "ambiguous",
+    "query": "How long is the structural inspection?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-OCBO-PDF0015-C001",
+        "source_page_id": "OCBO-PDF0015",
+        "text": "CLIENT STEPS: 3. During the inspection, the client and/or authorized representative, such as an architect or engineer must be present on-site\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 3. Conduct inspection and assessment\n\nINSPECTION CATEGORY: · Line & Grade\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Architectural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CAT"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0098-C001",
+        "source_page_id": "OCBO-PDF0098",
+        "text": "15. Issuance of Certificate of Annual Inspection of Buildings\nA Certificate of Annual Electrical Inspection is issued after conducting an annual inspection of a \nbuilding/structure to ensure that the architectural well-being, structural stability, electrical, \nmechanical sanitation, plumbing, electronics, interior design, and fire protective properties are \nproperly maintained and that the building/structure is not occupied or used for purposes other than \nits intended use.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHigh"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0015-C002",
+        "source_page_id": "OCBO-PDF0015",
+        "text": "SPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Plumbing\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Mechanical\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Electrical\nPROCESSING TIME: 2 Days\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nCivil Engineer\nCivil Engineer\nIED Chief\nPlumbing\nMechanical\nEngineer – OCBO\n\nCLIENT STEPS: 4. Wait for notification for OP and endorsement to B"
+      }
+    ],
+    "clarification_behavior": "not evaluated: retrieval-only run; no generation call"
+  },
+  {
+    "id": "DEV-EVID-14",
+    "k": 5,
+    "kind": "ambiguous",
+    "query": "How long is the structural inspection?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-OCBO-PDF0015-C001",
+        "source_page_id": "OCBO-PDF0015",
+        "text": "CLIENT STEPS: 3. During the inspection, the client and/or authorized representative, such as an architect or engineer must be present on-site\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 3. Conduct inspection and assessment\n\nINSPECTION CATEGORY: · Line & Grade\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Architectural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CAT"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0098-C001",
+        "source_page_id": "OCBO-PDF0098",
+        "text": "15. Issuance of Certificate of Annual Inspection of Buildings\nA Certificate of Annual Electrical Inspection is issued after conducting an annual inspection of a \nbuilding/structure to ensure that the architectural well-being, structural stability, electrical, \nmechanical sanitation, plumbing, electronics, interior design, and fire protective properties are \nproperly maintained and that the building/structure is not occupied or used for purposes other than \nits intended use.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHigh"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0015-C002",
+        "source_page_id": "OCBO-PDF0015",
+        "text": "SPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Plumbing\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Mechanical\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Electrical\nPROCESSING TIME: 2 Days\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nCivil Engineer\nCivil Engineer\nIED Chief\nPlumbing\nMechanical\nEngineer – OCBO\n\nCLIENT STEPS: 4. Wait for notification for OP and endorsement to B"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0100-C001",
+        "source_page_id": "OCBO-PDF0100",
+        "text": "5.3 Forward to \nsignatories \nInspectors \nSanitary/ \nPlumbing \nStructural \nArchitectural \n \n \n \n5.4 Forward to \nBO for approval\n5 Days\n1 Day\nCivil Engineer\nIED Chief\nPlumbing\nMechanical Engineer –\nOCBO\nBuilding Official –\nOCBO\n6. Claim approved \nCertificate of Annual \nInspection\n6. Release \nApproved \nCertificate of \nAnnual Inspection\nNone \n4 Hours \n– OCBO\nTOTAL:\n*Please\nrefer \nbelow\n19 Days and \n30 Minutes"
+      },
+      {
+        "chunk_id": "DEV120-OCBO-PDF0065-C002",
+        "source_page_id": "OCBO-PDF0065",
+        "text": "with 3 sets of \nCivil/Architectural Plans of the fence duly signed \nand sealed by a licensed Civil Engineer/Architect  \n  \nNote: Applicant may use an A3 size of paper for the \nstructural design plan signed and sealed by a \nlicensed Civil/Structural Engineer\nHired Professionals (All Engineers & \nArchitects)\n2. Sketch/Lot Plan with Vicinity Map drawn to scale, \nsigned sealed by a licensed Geodetic Engineer \n3 sets\nHired Professionals (All"
+      }
+    ],
+    "clarification_behavior": "not evaluated: retrieval-only run; no generation call"
+  },
+  {
+    "id": "DEV-EVID-15",
+    "k": 3,
+    "kind": "ambiguous",
+    "query": "What documents do I need for clearance?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-CPDO-PDF0073-C002",
+        "source_page_id": "CPDO-PDF0073",
+        "text": "DO\n3. \nOfficial Receipt \nCTO\nCLIENT STEPS \nAGENCY \nACTION\nFEES \nTO BE \nPAID\nPROCESSIN\nG\nTIME\nPERSON\nRESPONSIBL\nE\n1. Submits \nDocumentary \nRequirements\n1. Pre-evaluates \nSubmitted \nDocuments based \non the checklist\nNone \n10 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\n2. Secures order \nof payment for \nfiling fee\n2. Issues order of \npayment\nFiling \nFee: \nPhp \n300.0\n0\n10 Minutes\nZoning Officer\nIV\nCPDO\n3. Submits \ndocuments per \nchecklist of \nrequirements with \nOriginal Receip"
+      },
+      {
+        "chunk_id": "DEV120-CPDO-PDF0043-C001",
+        "source_page_id": "CPDO-PDF0043",
+        "text": "2.2 ZED \nCommunications \nIn-Charge \nendorses \ndocuments to the \nWRMC Secretariat\nNone \n20 Minutes \n \nZoning Officer\nIV\nCPDO\n2.3 Receives \nfolder/application\nNone \n1 Day \n \nZoning Officer\nIV\nCPDO\n2.4 Evaluates \ndocuments\nNone \n1 Day \n \nZoning Officer\nIV\nCPDO\n2.5 Endorses to \nthe Technical \nWorking Group \n(TWG) for \ntechnical \nevaluation\nNote: Clients will \nbe informed of \nthe TWG’s \nremarks / \nrecommendation\ns. If not \ncompliant, they \nneed to submit \nthe indicated \ncompliances.\nNone \n2 Days"
+      },
+      {
+        "chunk_id": "DEV120-CPDO-PDF0066-C004",
+        "source_page_id": "CPDO-PDF0066",
+        "text": "of Undertaking for Online\nBusiness / Booking Office / On-Job Site / \nOn-Call / Private Garage\nApplicant\n8. \nPictures (showing the business\nworking area including the road/s)\nApplicant\n9. \nSketch Map \nApplicant\nNote: Additional requirements may be required as the need arises.\nCLIENT STEPS \nAGENCY ACTION \nFEES\nTO \nBE \nPAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\n1. Submits \nDocumentary \nRequirements\n2.1 Pre-evaluates \nof submitted \ndocuments (once \ndocuments are\nNone \n5 Minutes \n \nZo"
+      }
+    ],
+    "clarification_behavior": "not evaluated: retrieval-only run; no generation call"
+  },
+  {
+    "id": "DEV-EVID-15",
+    "k": 5,
+    "kind": "ambiguous",
+    "query": "What documents do I need for clearance?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-CPDO-PDF0073-C002",
+        "source_page_id": "CPDO-PDF0073",
+        "text": "DO\n3. \nOfficial Receipt \nCTO\nCLIENT STEPS \nAGENCY \nACTION\nFEES \nTO BE \nPAID\nPROCESSIN\nG\nTIME\nPERSON\nRESPONSIBL\nE\n1. Submits \nDocumentary \nRequirements\n1. Pre-evaluates \nSubmitted \nDocuments based \non the checklist\nNone \n10 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\n2. Secures order \nof payment for \nfiling fee\n2. Issues order of \npayment\nFiling \nFee: \nPhp \n300.0\n0\n10 Minutes\nZoning Officer\nIV\nCPDO\n3. Submits \ndocuments per \nchecklist of \nrequirements with \nOriginal Receip"
+      },
+      {
+        "chunk_id": "DEV120-CPDO-PDF0043-C001",
+        "source_page_id": "CPDO-PDF0043",
+        "text": "2.2 ZED \nCommunications \nIn-Charge \nendorses \ndocuments to the \nWRMC Secretariat\nNone \n20 Minutes \n \nZoning Officer\nIV\nCPDO\n2.3 Receives \nfolder/application\nNone \n1 Day \n \nZoning Officer\nIV\nCPDO\n2.4 Evaluates \ndocuments\nNone \n1 Day \n \nZoning Officer\nIV\nCPDO\n2.5 Endorses to \nthe Technical \nWorking Group \n(TWG) for \ntechnical \nevaluation\nNote: Clients will \nbe informed of \nthe TWG’s \nremarks / \nrecommendation\ns. If not \ncompliant, they \nneed to submit \nthe indicated \ncompliances.\nNone \n2 Days"
+      },
+      {
+        "chunk_id": "DEV120-CPDO-PDF0066-C004",
+        "source_page_id": "CPDO-PDF0066",
+        "text": "of Undertaking for Online\nBusiness / Booking Office / On-Job Site / \nOn-Call / Private Garage\nApplicant\n8. \nPictures (showing the business\nworking area including the road/s)\nApplicant\n9. \nSketch Map \nApplicant\nNote: Additional requirements may be required as the need arises.\nCLIENT STEPS \nAGENCY ACTION \nFEES\nTO \nBE \nPAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\n1. Submits \nDocumentary \nRequirements\n2.1 Pre-evaluates \nof submitted \ndocuments (once \ndocuments are\nNone \n5 Minutes \n \nZo"
+      },
+      {
+        "chunk_id": "DEV120-CPDO-PDF0011-C003",
+        "source_page_id": "CPDO-PDF0011",
+        "text": "DO\n4. SPA from the building owner to \nprocess application for Locational \nClearance\nApplicant\n5. Seven (7) complete sets of Building \nPlans (original copy) \na. Filled-up title blocks \nb. Signed and sealed by CE / Architect\nApplicant\n6. Certified True Copy of Title issued \nby the Registry of Deeds (ROD) or \nshow original copy of title for validation \n(1 original for validation, 1 photocopy)\nRegistry of Deeds\n7. Locational Clearance Application \nduly notarized and signed by the \napplicant (1 photocopy)"
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0008-C001",
+        "source_page_id": "BB-PDF0008",
+        "text": "Requirements \n(no FSIC for \nOccupancy), tag \nPending with \nDeficiency Note \nto renew or \nretire, to comply \nwith inspection \nrecord, and for \nthe compliance \nof required \ndocuments. \nOnce complied, \nAccept and \nForward the \nApplication for \nthe approval by \nthe Regulatory \nOffices.\nTOTAL:\nNone \n20 Minutes\nB. Pre-Assessment for New Business Permit (Onsite)\nCLIENT STEPS \nAGENCY ACTION\nFEES\nTO \nBE \nPAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\n1. Submit pertinent\ndocuments"
+      }
+    ],
+    "clarification_behavior": "not evaluated: retrieval-only run; no generation call"
+  },
+  {
+    "id": "DEV-EVID-16",
+    "k": 3,
+    "kind": "ambiguous",
+    "query": "How much is the permit fee?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-BB-PDF0054-C001",
+        "source_page_id": "BB-PDF0054",
+        "text": "Service fee  \nis Php50.00\nfor\nAmendment\nof\nBusiness\nPermit.\n(paid at the\nCity\nTreasurer’s  \nOffice prior  \nto this step)"
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0033-C002",
+        "source_page_id": "BB-PDF0033",
+        "text": "status of the \napplication. If the permit \nis pending / blocked, \ncomply with Regulatory \nOffice requirements and \nregulations. If denied, \nproceed to ROs \ndenying the application \nfor further information. \nClient may still proceed \nto the City Treasurer’s \nOffice for assessment \nand payment of dues.\nand \nregulations.\nSTEP 2: PAYMENT\n2.Proceed to the City \nTreasurer’s Office for \npayment.\n2. Process \nunder City \nTreasurer’s \nOffice\nMayor’s\nPermit Fee is \nbased on the\nasset size\nand nature of\nbusiness\n9 Minutes \nCity Treasurer’s\nOffice"
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0035-C003",
+        "source_page_id": "BB-PDF0035",
+        "text": ".\n1.3. If the \npermit is \nblocked, \ninform the \nclient to \ncomply with \nRegulatory\nNone \n10 Minutes \nLicensing Officer \nBusiness Bureau"
+      }
+    ],
+    "clarification_behavior": "not evaluated: retrieval-only run; no generation call"
+  },
+  {
+    "id": "DEV-EVID-16",
+    "k": 5,
+    "kind": "ambiguous",
+    "query": "How much is the permit fee?",
+    "returned": [
+      {
+        "chunk_id": "DEV120-BB-PDF0054-C001",
+        "source_page_id": "BB-PDF0054",
+        "text": "Service fee  \nis Php50.00\nfor\nAmendment\nof\nBusiness\nPermit.\n(paid at the\nCity\nTreasurer’s  \nOffice prior  \nto this step)"
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0033-C002",
+        "source_page_id": "BB-PDF0033",
+        "text": "status of the \napplication. If the permit \nis pending / blocked, \ncomply with Regulatory \nOffice requirements and \nregulations. If denied, \nproceed to ROs \ndenying the application \nfor further information. \nClient may still proceed \nto the City Treasurer’s \nOffice for assessment \nand payment of dues.\nand \nregulations.\nSTEP 2: PAYMENT\n2.Proceed to the City \nTreasurer’s Office for \npayment.\n2. Process \nunder City \nTreasurer’s \nOffice\nMayor’s\nPermit Fee is \nbased on the\nasset size\nand nature of\nbusiness\n9 Minutes \nCity Treasurer’s\nOffice"
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0035-C003",
+        "source_page_id": "BB-PDF0035",
+        "text": ".\n1.3. If the \npermit is \nblocked, \ninform the \nclient to \ncomply with \nRegulatory\nNone \n10 Minutes \nLicensing Officer \nBusiness Bureau"
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0044-C001",
+        "source_page_id": "BB-PDF0044",
+        "text": "3.6. Release \nBusiness permit \nand documents \nto the client\nNone \n10 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau\n3.7. Request the \nclient to sign in \nthe logbook\nNone \n6 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau\nTOTAL:\nMayor’s\nPermit Fee\nis\nbased on\nthe\nasset size  \nand nature\nof\nbusiness.  \nService fee  \nis Php50.00\nfor\nAmendment\nof\nBusiness\nPermit.\n(paid at the\nCity\nTreasurer’s\nOffice)\nPls. See\nSchedule of\nFees and \nCharges\n1 Hour and \n55 Minutes\nG. Amendment of Business Per"
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0035-C001",
+        "source_page_id": "BB-PDF0035",
+        "text": "TOTAL:\nMayor’s\nPermit Fee is \nbased on the\nasset size\nand nature of\nbusiness.\nPls. See\nSchedule of\nFees and \nCharges\n1 Hour and \n45 Minutes\nD. Renewal of Business Permit (Onsite)\nCLIENT STEPS \nAGENCY \nACTION\nFEES TO BE\nPAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\nSTEP 1: APPLICATION\n1.Submit documentary \nrequirements for \nassessment and \nReceive application form \nand proceed to the City \nTreasurer’s Office for \nassessment and \npayment of dues. If the \npermit is pending / \nblocked,"
+      }
+    ],
+    "clarification_behavior": "not evaluated: retrieval-only run; no generation call"
+  }
+]

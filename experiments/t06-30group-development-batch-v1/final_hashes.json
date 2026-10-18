@@ -1,0 +1,13 @@
+{
+  "completion_report.json": "476d7fb9439f4e2e5018b756309736ced5a9ae4f1920b2a01a9929ddb2c3b81a",
+  "development_groups.snapshot.json": "a7c079ddadc41ec901fb8e8ef38f38e6f19693d4ac139704df4f1fa4765dfc86",
+  "interactions.jsonl": "9ad83c476e55d67324fbfd584d2f49d08e0ac623a9d9e22984c0d61984085809",
+  "metrics.csv": "0200cc3d668844747f1f376730b79b8dedac2f42644d350f51f96aa8abdc3957",
+  "normalization_prompt.txt": "34e929b5553a8bd3dc858ada874c0fac874cdc468b620e06ad730fdf05da192f",
+  "progress.json": "30f87f51b3773d1f2c1967c273d644f04bb04c3ac2a8a058beda7410a89f0510",
+  "protocol.json": "ab5149c18c00c6bbe23acf590c61efc80d03b943d54b2797e2d0404e48eb88c2",
+  "runtime_identity.json": "aa6a39ae9b423d46a401058b23c468d5d632fe05e411d56134b15ca67c463141",
+  "summary.json": "7c470443a939f1c775e069bde395508b5c439fae8048a28e0c9eb31d95eda288",
+  "complete_outcome_summary\\per_query_metrics.csv": "8691af7af4e10bb9e315e6eb725a79385381cd0bf10f75c9be7331eddc9573e9",
+  "complete_outcome_summary\\summary.json": "52511c24aaf14d4511d0ae162d2cc8e834f184f0729b6896ece6d28807d97493"
+}

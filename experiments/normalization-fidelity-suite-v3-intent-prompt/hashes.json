@@ -1,0 +1,10 @@
+{
+  "cases.json": "c2be49872781c8bc1defdbe1ccfc6138e6d07acc30a9c24d5e5de8b0b50af749",
+  "human_review_template.json": "ac9deb68804ca7ae4dbb55f17ece67a5069b18a11eed54f5a4febc83ad8da9eb",
+  "prompt.txt": "34e929b5553a8bd3dc858ada874c0fac874cdc468b620e06ad730fdf05da192f",
+  "prompt_before_after.diff": "3d2060c0bbb6fccdf2fd84d0348ee9abe90029eb2abe583f637d515087e1622f",
+  "protocol.json": "b3ca2483402d41761d87ca54b0a4660ca6e81dd85205be5d40ea40515559228f",
+  "results.json": "adaf3c07e8acf0493ceac596693ef900c7a594c8dcf594ed20978c133282ec96",
+  "semantic_review.json": "b24bb3f5d8a92891e84287913f8a7e18483cf60273fb1fbb86d1ecd9e3645623",
+  "summary.json": "bddfc3788568fa10f2d0d58ec2ed406527cea613525b63eb51ee90dfca91c84a"
+}

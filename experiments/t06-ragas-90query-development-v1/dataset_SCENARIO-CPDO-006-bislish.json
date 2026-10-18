@@ -1,0 +1,20 @@
+{
+  "question": [
+    "Para asa ang Certificate of Compatibility sa CPDO, pila ang filing fee, ug unsa kadugay ang pag-release?"
+  ],
+  "answer": [
+    "Ang Certificate of Compatibility ay maaayo sa CPDO (City Planning and Development Office). Ang filing fee wala nakit-an sa mga nakapag-aral sa Citizens' Charter. Ang pag-release sa Certificate of Compatibility ay maaari nga mag-iba basing sa pag-abot ng Zoning Administrator ([S4] DEV120-CPDO-PDF0007-C001, printed page 636)."
+  ],
+  "contexts": [
+    [
+      "4. Submits the \ndocuments with \nthe O.R. for \nZoning Fee\n4.1 Pre-\nevaluates \nsubmitted \ndocuments \n(once \ndocuments are \nlacking, it will \nimmediately \nreturned to client \nfor compliance)\nNone \n25 Minutes \n \nZoning Officer\nIV\nCPDO\n4.2 Documents \nwill be \nreceived   by the \nAdmin Division\n10 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\n4.3 Encodes in \nthe document \ntracking system \nand endorse \napplication to \nGIS\nNone \n20 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\n4.4 Plots the \ntechnical \ndescription of the \nproperty, prints \nmap and it will \nbe returned",
+      "1.7 Approval and \nInitial signing of \ndocuments of the \nDivision Chief \nassigned\nNone \n1 hour \nAssigned \nDivision  \nCPDO\n1.8 Final Approval \nand Signing of \ndocument requested\nNone \n30 minutes\nCity Planning\nand Dev’t \nCoordinator\nCPDO\n1.9 Call the sender \nwhen it is available \nfor pick-up.\nNone \n30 minutes \nAssigned \nDivision  \nCPDO\n1.10 Acted requests \nwill be updated in \nthe Document \nTracking System \nand forward to the \nAdmin Division for \nreleasing\nNone \n10 minutes \nAssigned \nDivision  \nCPDO\n2. Claim the \ndocument\nNote",
+      "division \nfor release\nNone \n5 Minutes\nZoning Officer\nIV\nCPDO\n3.8 Admin division \nroutes documents \nto \nreleasing/receivin\ng personnel\nNone \n5 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\n4. Claims the \nCertification of \nCompatibility\n4. Releases \ndocument\nNone \n5 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\nTOTAL:\nPhp \n300.0\n0\n1 Hour and 20\nMinutes",
+      "3.5 If application is \ncompliant with \nsubmitted technical \nplans, makes a \npositive \nrecommendation in \nthe action slip\nNone \n15 Minutes \n \nZoning Officer\nIV\nCPDO\n3.6 Stamps the \nCertificate of \nCompletion Form\nNone \n10 Minutes \n \nZoning Officer\nIV\nCPDO\n3.7 Initial Approval\nNone \n1 Day \nZoning Officer\nIV\nCPDO\n3.8 Final Approval \nNone \n2 Days\ndepending \nupon the\navailability of \nthe Zoning\nAdministrator\nActing Zoning \nAdministrator\nCPDO\n3.9 Forwards \ndocuments to \nCPDO Admin for \nreleasing\nNone \n5 Minute",
+      "CPDO\n4.4 Plots the \ntechnical \ndescription of the \nproperty, prints \nmap and it will \nbe returned the \ndocuments to \nZED\nNone \n1 Day \n \nDivision Chief of\nGIS\n4.5 Re-evaluates \nthe documents \nand prepares the \nZoning \nCertification\nNone \n5 Hours \n \nZoning Officer\nIV\nCPDO\n4.6 Signs the \ncertification \n(initial and final)\nNone \n2 Days\ndepending upon \nthe availability\nof Zoning\nAdministrator\nActing Zoning \nAdministrator\nCPDO"
+    ]
+  ],
+  "ground_truth": [
+    "A Certificate of Compatibility is issued by the CPDO Zoning Enforcement Division to certify that proposed land activities are capable of co-existing harmoniously with adjacent zoning classifications. Requirements include: 1) Application Letter; 2) Zoning Certificate from CPDO; and 3) CTO Official Receipt. The filing fee is PHP 300.00, and the total administrative processing time is 1 Hour and 20 Minutes."
+  ]
+}

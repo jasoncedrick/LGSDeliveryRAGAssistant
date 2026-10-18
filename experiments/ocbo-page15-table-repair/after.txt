@@ -1,0 +1,76 @@
+CLIENT STEPS: 3. During the inspection, the client and/or authorized representative, such as an architect or engineer must be present on-site
+
+FEES TO BE PAID (shared source cell for this client step): None
+
+AGENCY ACTION: 3. Conduct inspection and assessment
+
+INSPECTION CATEGORY: · Line & Grade
+PROCESSING TIME: 2 Days
+
+INSPECTION CATEGORY: · Architectural
+PROCESSING TIME: 2 Days
+
+INSPECTION CATEGORY: · Structural
+PROCESSING TIME: 2 Days
+
+INSPECTION CATEGORY: · Plumbing
+PROCESSING TIME: 2 Days
+
+INSPECTION CATEGORY: · Mechanical
+PROCESSING TIME: 2 Days
+
+INSPECTION CATEGORY: · Electrical
+PROCESSING TIME: 2 Days
+
+PERSON RESPONSIBLE (shared source cell; no individual substep assignment):
+Civil Engineer
+Civil Engineer
+IED Chief
+Plumbing
+Mechanical
+Engineer – OCBO
+
+CLIENT STEPS: 4. Wait for notification for OP and endorsement to BFP
+
+FEES TO BE PAID (shared source cell for this client step): None
+
+AGENCY ACTION: 4.1 Assess application for OP
+PROCESSING TIME: 1 Day
+
+AGENCY ACTION: 4.2 Release OP (for Occupancy and Zoning), plans and documents to be endorsed with BFP
+PROCESSING TIME: 5 Minutes
+
+AGENCY ACTION: 4.3 Receive plans, documents, FSEC, Zoning clearance
+PROCESSING TIME: 5 Minutes
+
+AGENCY ACTION: 4.4 Evaluate plans documents
+PROCESSING TIME: 1 Day
+
+AGENCY ACTION: 4.5 Forward to Building Inspector for initial signature
+PROCESSING TIME: 4 Hours
+
+AGENCY ACTION: 4.6 Forward to Inspection and Enforcement Chief Division (IED) for signing
+PROCESSING TIME: 4 Hours
+
+PERSON RESPONSIBLE (shared source cell; no individual substep assignment):
+Civil Engineer –
+OCBO
+Information
+Systems Operator
+– OCBO
+Technical Assistant
+on Planning and
+Development,
+Civil Engineer –
+OCBO
+Civil Engineer –
+OCBO
+IED Chief – OCBO
+Administrative
+Service Officer –
+OCBO
+Information
+Systems Officer –
+OCBO
+Records Personnel
+– OCBO

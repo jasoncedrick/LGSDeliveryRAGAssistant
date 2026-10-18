@@ -1,0 +1,20 @@
+{
+  "question": [
+    "What are the requirements, fee per hectare, and processing time for a CPDO Zoning Certification in Davao City?"
+  ],
+  "answer": [
+    "The requirements for a CPDO Zoning Certification in Davao City are as follows:\n\n1. Endorsement from the Zoning Officer [S2, DEV120-CPDO-PDF0004-C001]\n2. Claiming the Zoning Certification [S2, DEV120-CPDO-PDF0004-C001]\n3. Release of documents [S2, DEV120-CPDO-PDF0004-C001]\n\nThe fee for a CPDO Zoning Certification per hectare is PHP 750 [S2, DEV120-CPDO-PDF0004-C001]. The total processing time is 3 days, 6 hours, and 50 minutes.\n\nReference(s):\n- [S2] City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf | printed page 633 | chunk DEV120-CPDO-PDF0004-C001"
+  ],
+  "contexts": [
+    [
+      "Commission, Juna \nSubd., Matina, Davao City / Integrated Bar \nof the Philippines, Hall of Justice, \nCandelaria St., Ecoland, Davao City\n2. Certification from PRC/IBP for new\nregistrant/ passers – 1 original\nProfessional Regulatory Commission, Juna \nSubd., Matina, Davao City\n3. Current Davao City Address and valid\nContact number/email address\nRequestor\nCLIENT STEPS \nAGENCY \nACTIONS\nFEES TO \nBE PAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\n1. Visit\nhttps://ptr",
+      "4.7 Endorses the \nZoning \nCertification to \nCPDO \nAdministrative \nDivision for \nreleasing\nNone \n10 Minutes \n \nZoning Officer\nIV\nCPDO\n5. Claims the \nZoning \nCertification\n5. Releases \ndocuments\nNone \n5 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\nTOTAL:\nPHP \n750/\nHectare\n3 Days, 6 Hours, \nand 50 Minutes",
+      "the territorial jurisdiction of the City of Davao by \nProducers, Distributors or Wholesalers\nP 0.88 per kilo\nn. For one truckload of charcoal, scrapped iron, fire woods,\ncopra and all other similar goods/ commodities/merchandise \nnot subject to any particular fee above prescribed.\n418.00",
+      "pads)\nCivil Aviation Authority of the \nPhilippines / Philippine Air Force \nCommand Davao City Clearance\n26. \nPhilippine Ports Authority Clearance\n(for ports and harbors)\nPhilippine Ports Authority\nCLIENT STEPS \nAGENCY ACTION \nFEES \nTO BE \nPAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBL\nE\n1. Secures checklist \nof requirements and \nPre-evaluation\n1.1 Provides the \nchecklist of \nrequirements and \nanswer queries \nregarding \nprocess/application\nNone \n10 Minutes \n \nZoning Officer\nIV\nCPDO\n1.2 Pre-evaluates \nsubmitted \ndocuments (once \ndocuments are \nlacking, advise",
+      "to the\nassigned \npersonnel at \nthe SP Building \nor CTO District \nOffices and \nsubmit the \nrequired \ndocuments for \nthe registration \nof weights and \nmeasures at \nthe designated \nwindow \n(Poblacion) or \nassigned CTO \nDistrict Offices.\n1.1 Verify \nrequirements, \ninspect, \ncalibrate, and \nprepare the \ncalibration \nresults for \nweights and \nmeasure \ninstruments.\nBased on \nthe 2017 \nRevenue \nCode of \nthe City of\nDavao\nOrdinance \nNo. 0291- \n17, series\nof\n2017, \nsection\n186\n–\nImposition\nof Fees\n30 Minutes \n \nRevenue\nCollection Clerk I\n(CTO"
+    ]
+  ],
+  "ground_truth": [
+    "The CPDO Zoning Enforcement Division issues Zoning Certification based on the Integrated Zoning Ordinance (2019-2028). The checklist requires: Certified True Copy of Title(s), 1 photocopy, from the Registry of Deeds; duly accomplished application form, 1 original, from CPDO; Subdivision/Sketch Plan, 1 original, from Bureau of Land/private Geodetic Engineer; Order of Payment, 1 original, from CPDO; and Official Receipt, 1 original, from the City Treasurer's Office. The zoning fee is PHP 750 per hectare; the payment step depends on CTO processing time, described as uncontrollable time. The charter lists a TOTAL processing time of 3 Days, 6 Hours, and 50 Minutes."
+  ]
+}

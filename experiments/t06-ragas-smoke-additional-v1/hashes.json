@@ -1,0 +1,8 @@
+{
+  "dataset_DEV-EVID-06-normalized-K3.json": "2e62d2804bece25d1bcfff1d47c669496fabf5828cd155cc26b74451e98127fe",
+  "judge_calls.jsonl": "1da57ce780a0a94aeb958418011b7d4971722957233be9ca2988afb6c9d75a36",
+  "protocol.json": "07dce81c9ae4f8d618debcb1b909f0c41c29182dc60322a680d30b4d3b331250",
+  "scores.csv": "f6bc0fd052ea6fcd9c136fe646aa0fa2c148c4f2d471b99d8f70b0eaa845fa49",
+  "scores.json": "9d7a4b05935e1eb237a120d6b7266621ba9f1fead5eb2e5264c09c6f22fdad2b",
+  "summary.json": "64ccdf3ff170685acad071abb075da08afb550da3f932e2b212209cdfd05385b"
+}

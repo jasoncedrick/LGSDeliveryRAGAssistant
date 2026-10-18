@@ -1,0 +1,19 @@
+[
+  {
+    "name": "eboss-mistral:latest",
+    "digest": "39d9f435aeed825a340db73dfba9e7ce346664aa00727c9066bb1f0352406a6f",
+    "details": {
+      "parent_model": "mistral:7b-instruct",
+      "format": "gguf",
+      "family": "llama",
+      "families": [
+        "llama"
+      ],
+      "parameter_size": "7.2B",
+      "quantization_level": "Q4_K_M",
+      "context_length": 32768,
+      "embedding_length": 4096,
+      "runner": "ggml"
+    }
+  }
+]

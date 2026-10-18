@@ -1,0 +1,86 @@
+{
+  "completed_at": "2026-10-19T01:35:12.676194+08:00",
+  "status": "STEP2_TECHNICAL_VALIDATION_PASSED_DEVELOPMENT_ONLY",
+  "backup": "D:\\thesis\\LGSDeliveryRAGAssistant-main\\backups\\chapter3-step2-20261019-012905",
+  "references": [
+    {
+      "path": "C:\\Users\\User\\Downloads\\20260923.pdf",
+      "sha256": "628193ea55abc364c06dd3251a79126fa55ca2af2cb9d23e25cb584e7757f98a"
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\thesis_progress_tracker.xlsx",
+      "sha256": "74ae6a572885e54be360b13bd548e078e59c1a72d66c9180b52acbabcf6bf2ed"
+    }
+  ],
+  "tracker_sheet": "Thesis Tracker",
+  "tracker_modified": false,
+  "modified_code": [
+    "src/chunk_retriever.py",
+    "scripts/verify_chapter3_retrieval.py"
+  ],
+  "added_code": [
+    "src/token_windows.py",
+    "scripts/build_chapter3_development.py",
+    "tests/test_token_windows.py"
+  ],
+  "baseline_hash_checks": {
+    "src/chunk_retriever.py": false,
+    "tests/test_chunk_retriever.py": true,
+    "scripts/verify_chapter3_retrieval.py": false,
+    "app/pipeline.py": true,
+    "app/main.py": true,
+    "src/query_normalizer.py": true,
+    "config/pipeline_manifest.json": true,
+    "data/municipal_dictionary_v1.json": true,
+    "data/eboss_corpus_chunks_v1.json": true,
+    "data/bm25_index.pkl": true,
+    "data/faiss_index.bin": true,
+    "scripts/ingest_eboss_corpus.py": true
+  },
+  "before": {
+    "corpus_chunks": 1031,
+    "embedding_path": "decode token windows then re-tokenize text",
+    "serialized_text_over_120": 42,
+    "stored_token_count_mismatches": 86
+  },
+  "after": {
+    "corpus_chunks": 1042,
+    "source_pages": 358,
+    "embedding_path": "source token IDs directly forwarded through existing MiniLM transformer/pooling",
+    "window_tokens": 120,
+    "stride_tokens": 100,
+    "overlap_tokens": 20,
+    "verified_overlap_pairs": 684,
+    "max_model_input_positions": 122,
+    "display_text_retokenized_over_120": 54,
+    "special_tokens": 2,
+    "dimension": 384,
+    "source_ids": "DEV120- prefix; no benchmark remapping"
+  },
+  "source_extraction_changes": [
+    "Preserve Unicode and source block order; no LLM reconstruction.",
+    "Remove standalone edge page numbers; all 357 removed candidates were verified within top/bottom page margins.",
+    "Retain every nonempty page, including short final windows; store page text and token/character offsets.",
+    "Record BFP source edition as 2022."
+  ],
+  "weights": {
+    "alpha_bm25": 0.4,
+    "beta_dense": 0.6,
+    "gamma_dict": 0.0
+  },
+  "default_k": 5,
+  "allowed_k": [
+    3,
+    5
+  ],
+  "tests_passed": 13,
+  "smoke_checks": "smoke_checks.json",
+  "validation": "readback_validation.json",
+  "existing_app_runtime_changed": false,
+  "original_corpus_or_indices_changed": false,
+  "held_out_benchmarks_accessed": false,
+  "source_layout_review_complete": false,
+  "prior_metrics_revalidated": false,
+  "methodology_note": "120 source-token windows and exact 20-token overlap are preserved. Re-tokenizing display strings is diagnostic only; document embedding never uses that round trip. Tail windows may be shorter.",
+  "next_step": "Review source extraction fidelity, then integrate the validated development retriever into the app with chunk-level context; retain offline faithfulness evaluation."
+}
