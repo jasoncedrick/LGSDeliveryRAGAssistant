@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What are the required blueprint submittals and fee formulas to secure an FSEC from the Bureau of Fire Protection?"
+  ],
+  "answer": [
+    "To secure a Fire Safety Engineering Consultant (FSEC) from the Bureau of Fire Protection (BFP), the following blueprint submittals and fee formulas are required:\n\n1. Submittals:\n   - As per [S2], the blueprint submittals are not explicitly listed in the provided source. However, it is stated that for buildings/facilities/structures requiring any or a combination of the following, a Fire Safety Clearance (FSCR/FSCCR/FSMR) is necessary:\n     - Wet standpipe system\n     - Automatic fire suppression system\n     - Automatic fire detection and alarm system\n\n2. Fee Formulas:\n   - The fee formulas for FSEC services are not explicitly provided in the given sources. It is recommended to visit the BFP's official website or contact them directly for the most accurate and up-to-date fee information.\n\n[S1, S2]"
+  ],
+  "contexts": [
+    [
+      "is replaced every 5 years during the periodic hydrostatic test and the teardown is done at that time.\nSource Table 7.3.1.1.2, NFPA 10-Standard for Portable Fire Extinguishers, 2007 Edition.\n\nThis product is one of the critical products that are required to undergo product certification under the BPS Product Certification Scheme. The list is downloadable at http://www.bps.dti.gov.ph\nUnder this scheme, the manufacturers and importers of these products are required to apply from the BPS for the:\nPhilippine Standard (PS",
+      "LIST. Other service cells are blank in source; blank is not an exemption statement.]\n\nNote: FSCR/FSCCR/FSMR  is required if the building/facilities/structures are \nrequired to install any or combination of the following: \n       1) Wet standpipe system; \n       2) Automatic fire suppression system; and \n       3) Automatic fire detection and alarm system.\nFire Safety Clearance for welding, cutting, and other hot work operations\n(if   required), shall be secured:\n1) \nPer \nProject \nDuration \n– \nfor \nnew \nconstruction \nor \nrenovation\n(during construction)",
+      "BLE\n1. Client\nproceeds to \nthe Office of \nthe City \nTreasurer \n(CTO) and \npresent the \nrequired \ndocuments.\n1. Advise the\nclient to \nproceed to the \nverification \nsection of \nSAG.\nNone \n2 Minutes \nLocal Treasury\nOperations\nOfficer I\n–\nCity\nTreasurer’s\nOffice\n2. Present the\nOrder of \nPayment \nfrom the City \nEnvironment \nand Natural \nResources \nOffice \n(CENRO).\n2. Verify the\naccount from \nthe ledger, \ncheck \npayment \nhistory, and \nissue an \nOrder of \nPayment if \nthere are no \narrears.\nBased on \nthe 2017 \nRevenue \nCode of \nthe"
+    ]
+  ],
+  "ground_truth": [
+    "The documentary checklist specifies three (3) sets of the listed documents. The FSEC column marks architectural, civil, electrical, mechanical, plumbing, electronics, sanitary and fire protection documents. Documents mean design plans, calculations and specifications signed and sealed by the Professional Engineer/Architect. Also listed for FSEC are one signed-and-sealed set of the estimated value of the building/structure or facilities, including materials and labor cost, and copies of valid PRC Professional Licenses of all involved professionals. The FSEC application fee is PHP 200.00; FCCT is 0.1% of the verified estimated materials-and-labor value of the building/structure or facility, capped at PHP 50,000.00. The fee note states that, when the UAF declared estimate differs substantially from current acceptable market construction cost per square meter or the value indicated in Table II.G.1 of PD 1096, the higher value will be adopted."
+  ]
+}

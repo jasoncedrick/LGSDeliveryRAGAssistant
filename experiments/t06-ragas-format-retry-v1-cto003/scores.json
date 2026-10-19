@@ -1,0 +1,14 @@
+[
+  {
+    "record_id": "SCENARIO-CTO-003-english",
+    "generation_status": "ANSWERED",
+    "scores": {
+      "context_precision": 0.99999999998
+    },
+    "language": "english",
+    "group_id": "SCENARIO-CTO-003",
+    "pillar": "City Treasurer's Office",
+    "reference_status": "legacy_semantics_not_independently_certified",
+    "status": "SCORED"
+  }
+]

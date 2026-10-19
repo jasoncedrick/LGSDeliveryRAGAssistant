@@ -1,0 +1,25 @@
+[
+  {
+    "claim": "Annex15, Section72 lists annual fixed delivery-vehicle taxes: motorcycle/motorized tricycle PHP240; delivery jeepney/similar utility vehicle PHP600; truck, van, or any vehicle with six wheels and above PHP1,000; water vessel, barges, ferry boats, tugboats and similar watercraft PHP2,000; airplane/aircraft PHP5,000. The section applies to vehicles used by manufacturers, producers, wholesalers, dealers or retailers in delivery/distribution of the listed products and goods within the City. Preserve the six-wheel row wording when classifying a vehicle.",
+    "evidence": [
+      {
+        "source_page_id": "CTO-PDF0055",
+        "pdf_relative_page": 55,
+        "printed_page": 210,
+        "source_span": "Section 72. Imposition of Tax. - There is hereby imposed an annual fixed tax for every \ndelivery vehicle, truck, van, or any motor vehicle, vessels or watercraft used by \nmanufacturers, producers, wholesalers, dealers or retailers in the delivery or distribution \nof distilled spirits, fermented liquors, soft drinks, cigars and cigarettes and other essential \nproducts and sales of goods as may hereinafter be determined by the Sangguniang \nPanlungsod to sales outlets or consumers, whether directly or indirectly within the City, \nsubject to the following rates:\na. Motorcycle and motorized\ntricycle \nP 240.00\nb. Delivery \njeepney \nand\nsimilar utility vehicle \n600.00\nc. Truck, van, or any vehicle\nwith six wheels and above \n1,000.00\nd. Water vessel, barges, ferry\nboats, \ntug \nboats \nand\nsimilar watercrafts\n2,000.00\ne. Airplane or aircraft \n5,000.00\nArticle Ten",
+        "char_start": 11,
+        "char_end": 876,
+        "supporting_chunk_ids": [
+          "DEV120-CTO-PDF0055-C001",
+          "DEV120-CTO-PDF0055-C002",
+          "DEV120-CTO-PDF0055-C003"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-CTO-PDF0055-C001",
+      "DEV120-CTO-PDF0055-C002",
+      "DEV120-CTO-PDF0055-C003"
+    ]
+  }
+]

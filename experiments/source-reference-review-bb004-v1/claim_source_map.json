@@ -1,0 +1,167 @@
+[
+  {
+    "claim_id": "coverage",
+    "candidate_text": "The charter states that an Occupational Permit is issued to any worker or employee who is not a holder of validly issued Professional Tax Receipts, whether working on a temporary or permanent basis.",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0065-C001"
+    ],
+    "source_locations": [
+      {
+        "chunk_id": "DEV120-BB-PDF0065-C001",
+        "pdf_relative_page": 65,
+        "printed_page": 104
+      }
+    ],
+    "review_status": "assistant_visual_source_comparison_supported"
+  },
+  {
+    "claim_id": "eligibility",
+    "candidate_text": "Under Who may avail, it lists Filipino employees or workers aged 18 at application; foreigners may apply after securing an Alien Employment Permit from DOLE. Where the law allows a person below 18 to work, an Affidavit of Consent from the parent or guardian is required.",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0065-C002"
+    ],
+    "source_locations": [
+      {
+        "chunk_id": "DEV120-BB-PDF0065-C002",
+        "pdf_relative_page": 65,
+        "printed_page": 104
+      }
+    ],
+    "review_status": "assistant_visual_source_comparison_supported"
+  },
+  {
+    "claim_id": "renewal_penalty",
+    "candidate_text": "Renew annually on or before January 31. The charter states a 25% penalty for late renewal.",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0065-C001"
+    ],
+    "source_locations": [
+      {
+        "chunk_id": "DEV120-BB-PDF0065-C001",
+        "pdf_relative_page": 65,
+        "printed_page": 104
+      }
+    ],
+    "review_status": "assistant_visual_source_comparison_supported"
+  },
+  {
+    "claim_id": "fees",
+    "candidate_text": "The fee table and TOTAL row state PHP 125.00 for new and updated renewal, and PHP 156.25 for late renewal. Payment is to the City Treasurer’s Office.",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0065-C005",
+      "DEV120-BB-PDF0066-C001",
+      "DEV120-BB-PDF0067-C003"
+    ],
+    "source_locations": [
+      {
+        "chunk_id": "DEV120-BB-PDF0065-C005",
+        "pdf_relative_page": 65,
+        "printed_page": 104
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0066-C001",
+        "pdf_relative_page": 66,
+        "printed_page": 105
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0067-C003",
+        "pdf_relative_page": 67,
+        "printed_page": 106
+      }
+    ],
+    "review_status": "assistant_visual_source_comparison_supported"
+  },
+  {
+    "claim_id": "application",
+    "candidate_text": "Application Form: Business Bureau Office, Window 1 or Public Assistance Desk. Certificate of Employment: applicant.",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0065-C003"
+    ],
+    "source_locations": [
+      {
+        "chunk_id": "DEV120-BB-PDF0065-C003",
+        "pdf_relative_page": 65,
+        "printed_page": 104
+      }
+    ],
+    "review_status": "assistant_visual_source_comparison_supported"
+  },
+  {
+    "claim_id": "receipt",
+    "candidate_text": "Checklist item 3 specifies Official Receipt (for service crew), from the City Treasurer’s Office. Separately, the process instructs walk-in applicants to submit required documents including the official receipt.",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0065-C003",
+      "DEV120-BB-PDF0066-C001"
+    ],
+    "source_locations": [
+      {
+        "chunk_id": "DEV120-BB-PDF0065-C003",
+        "pdf_relative_page": 65,
+        "printed_page": 104
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0066-C001",
+        "pdf_relative_page": 66,
+        "printed_page": 105
+      }
+    ],
+    "review_status": "assistant_visual_source_comparison_supported"
+  },
+  {
+    "claim_id": "consent",
+    "candidate_text": "A notarized Affidavit of Consent is listed for minors below 18. For Night Clubs and related establishments and similar places of amusement, the affidavit is listed for ages 18 to 20.",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0065-C003",
+      "DEV120-BB-PDF0065-C004"
+    ],
+    "source_locations": [
+      {
+        "chunk_id": "DEV120-BB-PDF0065-C003",
+        "pdf_relative_page": 65,
+        "printed_page": 104
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0065-C004",
+        "pdf_relative_page": 65,
+        "printed_page": 104
+      }
+    ],
+    "review_status": "assistant_visual_source_comparison_supported"
+  },
+  {
+    "claim_id": "additional_documents",
+    "candidate_text": "Additional requirements for Entertainers, Masseurs, Bar Attendants: Birth Certificate (Philippine Statistics Authority); Valid ID of parent or qualified guardian for parent’s consent with appearance (Where to Secure: Any Notary public); Health ID (City Health).",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0065-C004"
+    ],
+    "source_locations": [
+      {
+        "chunk_id": "DEV120-BB-PDF0065-C004",
+        "pdf_relative_page": 65,
+        "printed_page": 104
+      }
+    ],
+    "review_status": "assistant_visual_source_comparison_supported"
+  },
+  {
+    "claim_id": "interview",
+    "candidate_text": "The process note states: If the applicant is an entertainer, masseur, or bar attendant 18-20 years old, or the applicant is below 18 years old, he or she must present himself/herself for an interview. Agency action 2.2 repeats these conditions.",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0066-C002",
+      "DEV120-BB-PDF0066-C003"
+    ],
+    "source_locations": [
+      {
+        "chunk_id": "DEV120-BB-PDF0066-C002",
+        "pdf_relative_page": 66,
+        "printed_page": 105
+      },
+      {
+        "chunk_id": "DEV120-BB-PDF0066-C003",
+        "pdf_relative_page": 66,
+        "printed_page": 105
+      }
+    ],
+    "review_status": "assistant_visual_source_comparison_supported"
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "version": "context-precision-exact-source-span-v4",
+  "settings": {
+    "temperature": 0,
+    "top_p": 0,
+    "num_ctx": 8192,
+    "num_predict": 1024,
+    "num_thread": 4
+  },
+  "model_digest": "39d9f435aeed825a340db73dfba9e7ce346664aa00727c9066bb1f0352406a6f",
+  "input_hashes": {
+    "experiments\\t06-formal-development-validation-v4\\methodology_and_tracker.json": "ee15440a4643968034d4a6451b999a4fadddb2399f6b882acd25943ff66d6281",
+    "experiments\\context-precision-calibration-v2\\controls.snapshot.json": "3c3248c706dc80c85e46a48cf925222cca960ffddd34c592f5ba6b1d7f3efdbb",
+    "experiments\\t07-paired-grid-evaluator-v2\\judge_verdicts.jsonl": "44918436d7c0c99f9914f08d425b7e3c01a145d3a74ce673643481f866ad8ca2",
+    "experiments\\t07-paired-grid-evaluator-v2\\records.snapshot.jsonl": "0ae03ce4d3fe9cc36a7b90d46416e5f69ddc4d2d22067496bd3c72d96104d411",
+    "experiments\\chapter3-table-repaired-development-v1\\corpus.json": "a0d996dd178eb681825880381741482001b72da5466b2effcf7b870a610017f3"
+  },
+  "implementation_hashes": {
+    "src/source_span_judge.py": "0c616a9ddd5e59559df1c95c8abedbc53592af6abc02d59dcfae2ef57ff56ce3",
+    "scripts/validate_source_span_judge.py": "a1cd99607a27f01641be3bc71ca5b444938891ebc3143e1089e31ab942c34ea7"
+  },
+  "selection_format": "NONE means verdict 0; a source ID means verdict 1. Text recovered only by exact character pointers into the existing actual context.",
+  "source_spans": "Deterministic adjacent groups of 32 whitespace words, preserving original character substrings. These are evaluator evidence pointers, NOT retrieval chunks. Corpus stays 120 tokenizer tokens /20 overlap.",
+  "criterion": "Same v2 partial requested fact usefulness criterion; examples changed only for ID output representation.",
+  "calibration_gate": "60 valid, >=55 correct, FP<=4, FN=0 after at most one format retry. These are necessary diagnostic criteria, not expert certification.",
+  "stress_policy": "Only after calibration gate passes: all 110 formerly invalid pairs plus 30 old valid pairs, two per office/language chosen by fixed SHA256 order. Register before any call.",
+  "stress_gate": "140 valid outputs; semantic disagreements with old valid judgments flagged, never treated as established errors or silently patched.",
+  "retry_policy": "One format-only retry per invalid output; no retry for valid wrong judgments or network errors.",
+  "metric": "RAGAS ranked average precision and manuscript 15-cell macro objective are unchanged; this experiment produces no grid objective.",
+  "limitations": "Adaptive assistant-labeled controls from five groups; old valid judgments are not gold; exact evidence selection cannot guarantee semantic correctness.",
+  "methodology": "20260923.pdf PDF33-34, development-only tuning and freeze before held-out. Main Thesis Tracker T06 is implementation; T07 is frozen A/B/C CSV comparison.",
+  "held_out_accessed": false,
+  "freeze": false,
+  "app_defaults_changed": false,
+  "automatic_full_grid": false
+}

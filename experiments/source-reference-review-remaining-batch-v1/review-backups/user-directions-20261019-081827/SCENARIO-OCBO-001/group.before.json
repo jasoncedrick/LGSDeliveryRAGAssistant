@@ -1,0 +1,27 @@
+{
+  "group_id": "SCENARIO-OCBO-001",
+  "pillar": "Office of the City Building Official",
+  "split": "development",
+  "ground_truth_chunk_ids": [
+    "DEV120-OCBO-PDF0002-C001",
+    "DEV120-OCBO-PDF0002-C002",
+    "DEV120-OCBO-PDF0002-C003",
+    "DEV120-OCBO-PDF0002-C004",
+    "DEV120-OCBO-PDF0003-C001",
+    "DEV120-OCBO-PDF0003-C002",
+    "DEV120-OCBO-PDF0003-C003"
+  ],
+  "ground_truth_reference_answer": "To secure a Building Permit under PD 1096, applicants must submit: 1) Notarized Application Letter; 2) Accomplished Unified Building Permit Form (5 copies); 3) Complete sets of Architectural, Civil/Structural, Sanitary/Plumbing, Electrical, and Mechanical Permit forms and plans (5 sets each), all duly signed and sealed by licensed professionals (Architect, Civil Engineer, Sanitary Engineer/Master Plumber, Professional Electrical Engineer, Professional Mechanical Engineer); 4) Certified true copies of Land Title (LRA), Tax Declaration, and Current Real Property Tax Receipt; 5) CPDO Zoning Locational Clearance; and 6) BFP Fire Safety Evaluation Clearance (FSEC).",
+  "queries": {
+    "english": "What plans, clearances, and professional seals are mandatory to apply for a Building Permit at OCBO?",
+    "taglish": "Anong mga plano, clearance, at pirma ng inhinyero ang kailangan para makakuha ng Building Permit sa OCBO?",
+    "bislish": "Unsa ang mga plano, pirma sa inhinyero ug clearances nga kailangan i-submit para makakuha ug building permit sa OCBO?"
+  },
+  "legacy_ground_truth_chunk_ids": [
+    "CHUNK-OCBO-P490-C01",
+    "CHUNK-OCBO-P490-C02",
+    "CHUNK-OCBO-P490-C03",
+    "CHUNK-OCBO-P491-C02"
+  ],
+  "mapping_status": "PROVISIONAL_EXACT_SPAN_MAPPING"
+}

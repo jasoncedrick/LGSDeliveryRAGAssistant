@@ -1,0 +1,22 @@
+{
+  "group_id": "SCENARIO-CTO-002",
+  "pillar": "City Treasurer's Office",
+  "split": "development",
+  "ground_truth_chunk_ids": [
+    "DEV120-CTO-PDF0011-C002",
+    "DEV120-CTO-PDF0009-C001",
+    "DEV120-CTO-PDF0009-C002"
+  ],
+  "ground_truth_reference_answer": "The charter literally states: \"Transfer Tax is equal to 87% or 1% based on the consideration or the market value whichever is higher.\" This reports the printed wording; the intended applicable rate is not resolved by that statement. Do not silently replace it with 0.75%.\n\nThe certification fee table lists PHP50 plus PHP20 for each additional page. Requirements: title photocopy for verification only; notarized Deed of Transfer (1 original); Tax Declaration/Declaration of Real Property Tax Valuation (1 original).",
+  "queries": {
+    "english": "How is the Real Property Transfer Tax computed in Davao City and what is the fee for the transfer certification?",
+    "taglish": "Paano kinukwenta ang Transfer Tax sa lupa sa Davao City at magkano ang bayad sa certification fee?",
+    "bislish": "Unsaon pagkwenta sa Transfer Tax sa yuta sa City Treasurer ug pila ang bayad sa certification?"
+  },
+  "legacy_ground_truth_chunk_ids": [
+    "CHUNK-CTO-P034-C01",
+    "CHUNK-CTO-P166-C01",
+    "CHUNK-CTO-P166-C02"
+  ],
+  "mapping_status": "USER_REVIEWED_CANDIDATE_WITH_EXPLICIT_SOURCE_LIMITATIONS_NOT_APPLIED"
+}

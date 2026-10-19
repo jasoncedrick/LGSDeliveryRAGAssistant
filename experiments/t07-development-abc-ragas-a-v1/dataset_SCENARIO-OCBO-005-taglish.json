@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang requirements at magkano ang bayad kada linear meter para kumuha ng Fencing Permit sa OCBO?"
+  ],
+  "answer": [
+    "Sa pagkuha ng Fencing Permit sa OCBO (Office of the City Building Official), ang mga requirements sa inyong kailangan ay hindi nakalagay sa mga nakalampasan sa iyong katanungan. Ngunit, ang mga bayad para sa Fencing Permit ay nakalagay sa [S2] at [S3] ng Citizens' Charter.\n\nSa [S2], ang bayad para sa mga fencing na gawa sa masonry, metal, at concrete, makakarating ng Php 3.00 per linear meter kung ito ay hindi mas mataas sa 1.80 meters, at Php 4.00 per linear meter kung ito ay mas mataas pa sa 1.80 meters.\n\nSa [S3], ang bayad para sa mga fencing gawa sa indigenous materials, barbed, at chicken wire ay Php 2.40 per linear meter.\n\nWala akoy nakit-an nga impormasyon bahin sa mga ibang requirements para sa Fencing Permit sa OCBO."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "FENCING PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\nMade of masonry, metal, concrete up \nto1.80 meters in height\nPhp 3.00 per linear meter of fraction \nthereof\nIn excess of 1.80 meters in height \nPhp 4.00 per linear meter of fraction \nthereof\nMade of indigenous materials, barbed, \nChicken or",
+      "per linear meter of fraction \nthereof\nMade of indigenous materials, barbed, \nChicken or hog wire\nPhp 2.40 per linear meter"
+    ]
+  ],
+  "ground_truth": [
+    "Fencing checklist: permit form with 3 sets of Civil/Architectural plans signed/sealed by licensed Civil Engineer/Architect (A3 structural-plan option stated); certified land title and property tax declaration (1 original and 1 photocopy each); the next row repeats Certified True Copy of Tax Declaration of the Property with CTO as source; Barangay Clearance (1 original and 1 photocopy); scaled sketch/lot/vicinity plan signed/sealed by licensed Geodetic Engineer (3 sets); bill of materials/cost estimates signed/sealed by licensed Civil Engineer (3 sets); signing professionals PRC ID/current PTR (1 photocopy); owner/applicant ID with 3 specimen signatures (1 photocopy); conditional DPWH clearance along a National Highway.\n\nFor fencing made of masonry, metal or concrete: height <= 1.80 m costs PHP3.00 per linear meter; height > 1.80 m costs PHP4.00 per linear meter. Both printed source rows include \"of fraction thereof\". For indigenous materials, barbed, chicken or hog wire, the listed rate is PHP2.40 per linear meter. No additional height qualifier is stated in that row. The service introduction says not exceeding 1.80 m, while the fee table explicitly includes a higher-height rate; this candidate reproduces the fee table without resolving that scope discrepancy."
+  ]
+}

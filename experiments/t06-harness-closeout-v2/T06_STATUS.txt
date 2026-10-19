@@ -1,0 +1,34 @@
+T06 IMPLEMENTATION CLOSEOUT
+
+Status: COMPLETE IMPLEMENTATION WITH DOCUMENTED EVALUATOR LIMITATIONS
+
+What is complete
+The authoritative Thesis Tracker defines T06 as Code Automated Evaluation Harness Loop (Hit Rate, MRR, RAGAS), with a Python batch harness supporting paired runs. The repository now implements and exercises that deliverable: archived paired A/B/C development interactions; unchanged-query Hit/MRR scoring; offline RAGAS calls; versioned judge prompts; source/context/answer preservation; metric-specific denominators; explicit clarifications, incomplete generation, nulls and format errors; and reproducible validation.
+
+The original evaluator remains the default for legacy reproduction. A separated-evidence evaluator is available explicitly with --context-precision-v2. It delegates ranked average precision to installed RAGAS 0.1.5 and allows one audited format-only retry. A valid wrong judgment is never retried to improve agreement. Remaining invalid responses stay missing rather than becoming zero scores. This evaluator runs offline and does not filter or rewrite app responses.
+
+Evidence
+21 focused unit tests passed, including four tests of the RAGAS adapter, numerical calculation, missing-score behavior and bounded retry policy.
+The versioned template was tested on all 60 predeclared source controls across five offices and three languages. After one format-only retry for invalid outputs, 59/60 are valid and 55/60 agree with declared labels. Four false positives and one invalid output remain documented. This is adaptive development calibration, not independent expert validation.
+A real batch RAGAS integration run on SCENARIO-BFP-002-taglish returned Context Precision 0.0 for the unchanged wrong-context archive. The old score was not overwritten. This is an integration regression check, not a new full comparison.
+
+References
+20260923.pdf Chapter 3.1, PDF24-25: response generation and offline evaluation are separate stages.
+Sections 3.2.6-3.2.8, PDF31-34: archived interactions, offline RAGAS, Context Precision selection over 15 cells, development-only tuning, and freeze before held-out testing.
+Thesis Tracker main tab T06/T07 definitions archived in experiments/t06-formal-development-validation-v4/methodology_and_tracker.json. Workbook statuses were not changed.
+
+Read the results
+experiments/context-precision-calibration-v2/summary.json
+experiments/context-precision-calibration-v2-format-retry/summary.json
+experiments/t06-context-precision-v2-integration-smoke/summary.json
+known_limitations.json
+completion_assessment.json
+
+T07 remains open
+The next task is consistently rescoring baseline and punctuation-candidate contexts with the same explicitly registered evaluator, reviewing nulls and evidence coverage, then selecting/freezing the configuration before final held-out A/B/C evaluation. The revised evaluator has not yet rescored the complete 90-query grids. No claim that the earlier numeric objective improvements remain valid is made.
+
+The implemented T06 harness can be saved as a development Git checkpoint now. Remaining judge error rates, source-review caveats, expert auditing, corpus certification and final T07 testing remain explicit research limitations or later work. Completion is not conditional on obtaining favorable system results.
+
+Future CLI example for the tested evaluator (use a new output directory)
+D:\thesis\venv\Scripts\python.exe -B scripts/score_development_ragas.py --input-name t07-development-abc-v1 --input-subdir B --output-name NEW_UNIQUE_DEVELOPMENT_OUTPUT --metrics context_precision --context-precision-v2 --judge-output-tokens 1024 --judge-timeout 120
+Do not combine this version's values with original RAGAS means. Any comparison must rescore competing configurations consistently.

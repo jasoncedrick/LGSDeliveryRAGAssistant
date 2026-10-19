@@ -1,0 +1,11 @@
+BB-003 SOURCE REVIEW COMPLETE: NEEDS CORRECTION
+
+Compare reference_candidate.txt with pdf_page_15.png (printed 54, validity paragraph), pdf_page_16.png (printed 55, RENEWAL at bottom), and pdf_page_17.png (printed 56, first four rows only). Stop before CHANGE OF BUSINESS ADDRESS.
+
+Expiry and January renewal are supported. Restore earlier revocation/surrender and continuing-validity payment qualifications. Preserve seven renewal rows, representation wording, notarization, and ID condition if newly designated. Specific requirements are not limited to clearances.
+
+claim_source_map.json maps each claim. before_after.diff shows the exact candidate change. Remove three unrelated supporting IDs: PDF0015-C003, PDF0016-C003, PDF0017-C002 (all with DEV120-BB- prefix). Five supporting IDs remain. group.before.json preserves the original.
+
+No immediate manual action is needed. Assistant source review is not independent expert certification. Original labels and scores remain unchanged. No corpus/index rebuild or model call was made. Chapter 3 table-integrity and source-grounded development-reference requirements apply; main Thesis Tracker T06 validation remains separate from T07 frozen comparison. Retrieval remains 120/20, chunk-level scoring and K=3/5.
+
+Next: BB-004. Three of the 25 provisional groups reviewed; 22 remain. Consolidate candidates into a new evaluation version before rescoring.

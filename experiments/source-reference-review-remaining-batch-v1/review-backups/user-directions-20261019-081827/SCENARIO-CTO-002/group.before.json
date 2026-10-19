@@ -1,0 +1,23 @@
+{
+  "group_id": "SCENARIO-CTO-002",
+  "pillar": "City Treasurer's Office",
+  "split": "development",
+  "ground_truth_chunk_ids": [
+    "DEV120-CTO-PDF0010-C001",
+    "DEV120-CTO-PDF0010-C002",
+    "DEV120-CTO-PDF0011-C001",
+    "DEV120-CTO-PDF0011-C002"
+  ],
+  "ground_truth_reference_answer": "Under Section 34 of the 2017 Revenue Code of Davao City, the Tax on Transfer of Real Property Ownership is imposed at the rate of 0.75% (or up to 1%) based on the total consideration or the fair market value of the real property, whichever is higher. In addition, a Transfer Tax Certification fee of PHP 50.00 is charged (plus PHP 20.00 for every additional page). Requirements include the original notarized Deed of Transfer, photocopy of Title from the Registry of Deeds, and original Tax Declaration (DRPV).",
+  "queries": {
+    "english": "How is the Real Property Transfer Tax computed in Davao City and what is the fee for the transfer certification?",
+    "taglish": "Paano kinukwenta ang Transfer Tax sa lupa sa Davao City at magkano ang bayad sa certification fee?",
+    "bislish": "Unsaon pagkwenta sa Transfer Tax sa yuta sa City Treasurer ug pila ang bayad sa certification?"
+  },
+  "legacy_ground_truth_chunk_ids": [
+    "CHUNK-CTO-P034-C01",
+    "CHUNK-CTO-P166-C01",
+    "CHUNK-CTO-P166-C02"
+  ],
+  "mapping_status": "PROVISIONAL_EXACT_SPAN_MAPPING"
+}

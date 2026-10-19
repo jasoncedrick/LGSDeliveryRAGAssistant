@@ -1,0 +1,30 @@
+{
+  "overall": {
+    "total": 60,
+    "valid": 60,
+    "invalid": 0,
+    "correct": 46,
+    "FP": 14,
+    "FN": 0,
+    "failure_types": {}
+  },
+  "screening_gate_passed": false,
+  "disagreements": [
+    "SCENARIO-BB-001-bislish-CONTROL3",
+    "SCENARIO-BB-001-bislish-CONTROL4",
+    "SCENARIO-CTO-003-english-CONTROL3",
+    "SCENARIO-CTO-003-taglish-CONTROL3",
+    "SCENARIO-CTO-003-bislish-CONTROL3",
+    "SCENARIO-OCBO-006-english-CONTROL3",
+    "SCENARIO-OCBO-006-taglish-CONTROL3",
+    "SCENARIO-OCBO-006-taglish-CONTROL4",
+    "SCENARIO-OCBO-006-bislish-CONTROL3",
+    "SCENARIO-OCBO-006-bislish-CONTROL4",
+    "SCENARIO-CPDO-003-english-CONTROL3",
+    "SCENARIO-CPDO-003-taglish-CONTROL3",
+    "SCENARIO-CPDO-003-bislish-CONTROL3",
+    "SCENARIO-BFP-002-english-CONTROL3"
+  ],
+  "held_out_accessed": false,
+  "independent_validation": false
+}

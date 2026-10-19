@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga requirements, pila ang bayad kada hektarya, ug pila ka adlaw makuha ang Zoning Certification sa CPDO?"
+  ],
+  "answer": [
+    "Sa CPDO (City Planning and Development Office), ang mga requirements sa Zoning Certification ay hindi nakalistado sa mga nakapag-aralan namin. Ang bayad sa isang hektare ay PHP 750, na maaaring makakuha sa [S2]. Ang mga adlaw para makuha ang Zoning Certification ay maaaring makakuha sa [S2] (10 minutes), [S3] (1 day), [S3] (5 hours), at [S3] (2 days). Ang mga ito ay maaaring magpakita sa mga detalye sa proseso sa Zoning Certification sa CPDO."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "4.7 Endorses the \nZoning \nCertification to \nCPDO \nAdministrative \nDivision for \nreleasing\nNone \n10 Minutes \n \nZoning Officer\nIV\nCPDO\n5. Claims the \nZoning \nCertification\n5. Releases \ndocuments\nNone \n5 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\nTOTAL:\nPHP \n750/\nHectare\n3 Days, 6 Hours, \nand 50 Minutes",
+      "CPDO\n4.4 Plots the \ntechnical \ndescription of the \nproperty, prints \nmap and it will \nbe returned the \ndocuments to \nZED\nNone \n1 Day \n \nDivision Chief of\nGIS\n4.5 Re-evaluates \nthe documents \nand prepares the \nZoning \nCertification\nNone \n5 Hours \n \nZoning Officer\nIV\nCPDO\n4.6 Signs the \ncertification \n(initial and final)\nNone \n2 Days\ndepending upon \nthe availability\nof Zoning\nAdministrator\nActing Zoning \nAdministrator\nCPDO"
+    ]
+  ],
+  "ground_truth": [
+    "The CPDO Zoning Enforcement Division issues Zoning Certification based on the Integrated Zoning Ordinance (2019-2028). The checklist requires: Certified True Copy of Title(s), 1 photocopy, from the Registry of Deeds; duly accomplished application form, 1 original, from CPDO; Subdivision/Sketch Plan, 1 original, from Bureau of Land/private Geodetic Engineer; Order of Payment, 1 original, from CPDO; and Official Receipt, 1 original, from the City Treasurer's Office. The zoning fee is PHP 750 per hectare; the payment step depends on CTO processing time, described as uncontrollable time. The charter lists a TOTAL processing time of 3 Days, 6 Hours, and 50 Minutes."
+  ]
+}

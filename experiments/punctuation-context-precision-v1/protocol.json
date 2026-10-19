@@ -1,0 +1,133 @@
+{
+  "held_out_accessed": false,
+  "scope": "Punctuation BM25 candidate full development Context Precision grid; not frozen",
+  "weight_grid": [
+    [
+      0.0,
+      0.0,
+      1.0
+    ],
+    [
+      0.0,
+      0.25,
+      0.75
+    ],
+    [
+      0.0,
+      0.5,
+      0.5
+    ],
+    [
+      0.0,
+      0.75,
+      0.25
+    ],
+    [
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      0.25,
+      0.0,
+      0.75
+    ],
+    [
+      0.25,
+      0.25,
+      0.5
+    ],
+    [
+      0.25,
+      0.5,
+      0.25
+    ],
+    [
+      0.25,
+      0.75,
+      0.0
+    ],
+    [
+      0.5,
+      0.0,
+      0.5
+    ],
+    [
+      0.5,
+      0.25,
+      0.25
+    ],
+    [
+      0.5,
+      0.5,
+      0.0
+    ],
+    [
+      0.75,
+      0.0,
+      0.25
+    ],
+    [
+      0.75,
+      0.25,
+      0.0
+    ],
+    [
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.4,
+      0.6,
+      0
+    ],
+    [
+      0.4,
+      0.5,
+      0.1
+    ]
+  ],
+  "grid_step": 0.25,
+  "additional_candidates": [
+    [
+      0.4,
+      0.6,
+      0
+    ],
+    [
+      0.4,
+      0.5,
+      0.1
+    ]
+  ],
+  "k_values": [
+    3,
+    5
+  ],
+  "selection_objective": "RAGAS context precision macro-average across all 15 office-language cells; Hit/MRR diagnostics are not selection objective.",
+  "selection_status": "PENDING_CONTEXT_PRECISION_JUDGING",
+  "candidate_pool": "all corpus chunks",
+  "normalization": "Archived B normalization, unchanged. Rejected prompt candidate is not used.",
+  "stopped_query_policy": "Retain all 90 records; stopped queries have no contexts. Report coverage and conditional metric denominators, never silently omit.",
+  "configuration_A": "Raw citizen query, BM25 only, identical answer generator",
+  "configuration_B": "Dictionary-injected normalization and BM25/FAISS/dictionary fusion",
+  "configuration_C": "Same as B except glossary injection disabled; preserve ambiguity gate and dictionary retrieval boost.",
+  "tie_break": "Predeclared grid order, then K=3 before K=5 when objective exactly tied; no Hit/MRR tie-break",
+  "freeze": false,
+  "sparse_tokenizer": "unicode-word-decimal-dash-v1",
+  "sparse_candidate_sha256": "c0c44f5dda577892719ee4585c4f24441e9d8c39b6b597c35b06b1829cf8ab87",
+  "source_sha256": "0ae03ce4d3fe9cc36a7b90d46416e5f69ddc4d2d22067496bd3c72d96104d411",
+  "baseline_artifact_hashes": {
+    "corpus": "a0d996dd178eb681825880381741482001b72da5466b2effcf7b870a610017f3",
+    "dictionary": "5ecbcc99538d9a88c7905378abe8a3712831afdfe8e9647cfdf2698600bdab62",
+    "bm25": "3d4ec7020d117f47d59c4a8dbbcfb2b79f69e0471736bd8f2f4bf24af2e4a5c5",
+    "faiss": "19b7d1a025db7daa426afd513d0b20851491053f66d58d857edfb74008c07128",
+    "manifest": "6ac5aca9ffc311ae02945b76979f95ffa80da71af0afc20b15b7090b190fe9f5",
+    "source_pages": "d355eec5c7da652ef8d9a0fbdb914d3d63976be3a20f1b3614b1162984418cbf",
+    "provenance": "47420e8e98d07ad66741b88d7625aa4c0ad2b82c4ada7cedd15e714dde150f79"
+  },
+  "full_corpus_score_matrix": "Reuse hash-verified unchanged dense and boost columns; recompute sparse scores with consistent punctuation tokenizer.",
+  "grid_reference": "D:\\thesis\\LGSDeliveryRAGAssistant-clean\\experiments\\t07-development-grid-v1\\protocol.json",
+  "judge_cache_policy": "Reuse parsed valid verdicts only where prompt hash matches; exclude previous modified-prompt format retries. Retain judge errors as null."
+}

@@ -1,0 +1,26 @@
+{
+  "group_id": "SCENARIO-OCBO-005",
+  "review_status": "needs_correction_with_source_ambiguity",
+  "findings": [
+    "Restore omitted documents/quantities/professional conditions.",
+    "Do not silently substitute tax receipt for duplicated tax declaration.",
+    "Flag height-scope discrepancy."
+  ],
+  "manual_check": {
+    "type": "official_source_clarification",
+    "question": "Confirm duplicated Tax Declaration/CTO row and permit scope for fences above 1.80m; the introduction and fee table differ.",
+    "source": "OCBO PDF29/printed517 and PDF35/printed523",
+    "blocking": "Affected checklist/scope interpretations only."
+  },
+  "candidate_applied": false,
+  "limitations": [
+    "Fixed thesis sources, not present-day legal advice.",
+    "Assistant image review is not independent expert certification.",
+    "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+  ],
+  "human_review": {
+    "status": "unresolved",
+    "finding": "You can include both places where to secure the Tax Declaration of the Property. For the fencing permit fees, in accordance to national building code of the philippines (pd 1096): if it is made of masonry, metal, concrete and up to 1.80 meters in height, it is considered as a fence and the fee is based on the total length of the fence. If it is made of masonry, metal, concrete and above 1.80 meters in height, Php 3.00 per linear meter of fraction thereof. If more than 1.80 meters in height with the same made of materials, Php 4.00 per linear meter of fraction thereof. If it is made of indigenous materials, barbed, chicken or hog wire, regardless of height, Php 2.40 per linear meter",
+    "evidence": "OCBO PDF29/printed517 and PDF35/printed523"
+  }
+}

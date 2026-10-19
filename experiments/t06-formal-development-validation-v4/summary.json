@@ -1,0 +1,37 @@
+{
+  "held_out_accessed": false,
+  "app_defaults_changed": false,
+  "scope": "All 90 archived development outcomes retained; reference-only correction, not a new retrieval run.",
+  "groups": 30,
+  "queries": 90,
+  "generation_k": 5,
+  "ranking_k": [
+    3,
+    5
+  ],
+  "source_limits": "User interpretations and source conflicts remain explicit; these are reviewed development references, not independently certified gold. No exclusions to improve reported results.",
+  "freeze": false,
+  "status": "REVIEWED_REFERENCES_CONSOLIDATED_ARCHIVED_RANKINGS_RESCORED",
+  "changed_groups": 25,
+  "statuses": {
+    "ANSWERED": 84,
+    "CLARIFICATION_REQUIRED": 6
+  },
+  "ranking_metrics": [
+    {
+      "k": 3,
+      "queries": 90,
+      "hits": 66,
+      "hit_at_k": 0.7333333333333333,
+      "mrr_at_k": 0.6222222222222222
+    },
+    {
+      "k": 5,
+      "queries": 90,
+      "hits": 68,
+      "hit_at_k": 0.7555555555555555,
+      "mrr_at_k": 0.6272222222222222
+    }
+  ],
+  "offline_ragas": "pending new reference-dependent scores; earlier scores retained separately"
+}

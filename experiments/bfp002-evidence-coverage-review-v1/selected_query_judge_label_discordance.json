@@ -1,0 +1,443 @@
+[
+  {
+    "record_id": "SCENARIO-BB-005-english",
+    "positive_judge_count": 3,
+    "judge_positive_chunk_ids": [
+      "DEV120-BB-PDF0015-C001",
+      "DEV120-BB-PDF0042-C002",
+      "DEV120-BB-PDF0057-C001"
+    ],
+    "retrieved_ids": [
+      "DEV120-BB-PDF0015-C001",
+      "DEV120-BB-PDF0042-C002",
+      "DEV120-BB-PDF0057-C001"
+    ],
+    "reference_chunk_ids": [
+      "DEV120-BB-PDF0072-C001",
+      "DEV120-BB-PDF0072-C002",
+      "DEV120-BB-PDF0072-C003",
+      "DEV120-BB-PDF0072-C004",
+      "DEV120-BB-PDF0073-C001",
+      "DEV120-BB-PDF0074-C001",
+      "DEV120-BB-PDF0075-C001"
+    ],
+    "status": "JUDGE_LABEL_DISCORDANCE_REQUIRES_SOURCE_COMPARISON",
+    "policy": "Gold IDs can be incomplete or overlapping; this flag alone does not prove a judge error."
+  },
+  {
+    "record_id": "SCENARIO-CTO-002-bislish",
+    "positive_judge_count": 1,
+    "judge_positive_chunk_ids": [
+      "DEV120-BB-PDF0037-C001"
+    ],
+    "retrieved_ids": [
+      "DEV120-BB-PDF0045-C001",
+      "DEV120-BB-PDF0037-C001",
+      "DEV120-BB-PDF0045-C002"
+    ],
+    "reference_chunk_ids": [
+      "DEV120-CTO-PDF0011-C002",
+      "DEV120-CTO-PDF0009-C001",
+      "DEV120-CTO-PDF0009-C002"
+    ],
+    "status": "JUDGE_LABEL_DISCORDANCE_REQUIRES_SOURCE_COMPARISON",
+    "policy": "Gold IDs can be incomplete or overlapping; this flag alone does not prove a judge error."
+  },
+  {
+    "record_id": "SCENARIO-OCBO-001-english",
+    "positive_judge_count": 3,
+    "judge_positive_chunk_ids": [
+      "DEV120-OCBO-PDF0056-C001",
+      "DEV120-OCBO-PDF0033-C002",
+      "DEV120-OCBO-PDF0009-C001"
+    ],
+    "retrieved_ids": [
+      "DEV120-OCBO-PDF0056-C001",
+      "DEV120-OCBO-PDF0033-C002",
+      "DEV120-OCBO-PDF0009-C001"
+    ],
+    "reference_chunk_ids": [
+      "DEV120-OCBO-PDF0002-C001",
+      "DEV120-OCBO-PDF0002-C002",
+      "DEV120-OCBO-PDF0002-C003",
+      "DEV120-OCBO-PDF0003-C001",
+      "DEV120-OCBO-PDF0003-C002",
+      "DEV120-OCBO-PDF0003-C003",
+      "DEV120-OCBO-PDF0003-C004",
+      "DEV120-OCBO-PDF0004-C001",
+      "DEV120-OCBO-PDF0004-C002",
+      "DEV120-OCBO-PDF0004-C003",
+      "DEV120-OCBO-PDF0004-C004",
+      "DEV120-OCBO-PDF0005-C001",
+      "DEV120-OCBO-PDF0005-C002",
+      "DEV120-OCBO-PDF0005-C003"
+    ],
+    "status": "JUDGE_LABEL_DISCORDANCE_REQUIRES_SOURCE_COMPARISON",
+    "policy": "Gold IDs can be incomplete or overlapping; this flag alone does not prove a judge error."
+  },
+  {
+    "record_id": "SCENARIO-OCBO-001-taglish",
+    "positive_judge_count": 3,
+    "judge_positive_chunk_ids": [
+      "DEV120-OCBO-PDF0077-C001",
+      "DEV120-OCBO-PDF0056-C001",
+      "DEV120-OCBO-PDF0049-C001"
+    ],
+    "retrieved_ids": [
+      "DEV120-OCBO-PDF0077-C001",
+      "DEV120-OCBO-PDF0056-C001",
+      "DEV120-OCBO-PDF0049-C001"
+    ],
+    "reference_chunk_ids": [
+      "DEV120-OCBO-PDF0002-C001",
+      "DEV120-OCBO-PDF0002-C002",
+      "DEV120-OCBO-PDF0002-C003",
+      "DEV120-OCBO-PDF0003-C001",
+      "DEV120-OCBO-PDF0003-C002",
+      "DEV120-OCBO-PDF0003-C003",
+      "DEV120-OCBO-PDF0003-C004",
+      "DEV120-OCBO-PDF0004-C001",
+      "DEV120-OCBO-PDF0004-C002",
+      "DEV120-OCBO-PDF0004-C003",
+      "DEV120-OCBO-PDF0004-C004",
+      "DEV120-OCBO-PDF0005-C001",
+      "DEV120-OCBO-PDF0005-C002",
+      "DEV120-OCBO-PDF0005-C003"
+    ],
+    "status": "JUDGE_LABEL_DISCORDANCE_REQUIRES_SOURCE_COMPARISON",
+    "policy": "Gold IDs can be incomplete or overlapping; this flag alone does not prove a judge error."
+  },
+  {
+    "record_id": "SCENARIO-OCBO-001-bislish",
+    "positive_judge_count": 3,
+    "judge_positive_chunk_ids": [
+      "DEV120-OCBO-PDF0077-C001",
+      "DEV120-OCBO-PDF0056-C001",
+      "DEV120-OCBO-PDF0049-C001"
+    ],
+    "retrieved_ids": [
+      "DEV120-OCBO-PDF0077-C001",
+      "DEV120-OCBO-PDF0056-C001",
+      "DEV120-OCBO-PDF0049-C001"
+    ],
+    "reference_chunk_ids": [
+      "DEV120-OCBO-PDF0002-C001",
+      "DEV120-OCBO-PDF0002-C002",
+      "DEV120-OCBO-PDF0002-C003",
+      "DEV120-OCBO-PDF0003-C001",
+      "DEV120-OCBO-PDF0003-C002",
+      "DEV120-OCBO-PDF0003-C003",
+      "DEV120-OCBO-PDF0003-C004",
+      "DEV120-OCBO-PDF0004-C001",
+      "DEV120-OCBO-PDF0004-C002",
+      "DEV120-OCBO-PDF0004-C003",
+      "DEV120-OCBO-PDF0004-C004",
+      "DEV120-OCBO-PDF0005-C001",
+      "DEV120-OCBO-PDF0005-C002",
+      "DEV120-OCBO-PDF0005-C003"
+    ],
+    "status": "JUDGE_LABEL_DISCORDANCE_REQUIRES_SOURCE_COMPARISON",
+    "policy": "Gold IDs can be incomplete or overlapping; this flag alone does not prove a judge error."
+  },
+  {
+    "record_id": "SCENARIO-OCBO-002-taglish",
+    "positive_judge_count": 3,
+    "judge_positive_chunk_ids": [
+      "DEV120-OCBO-PDF0018-C002",
+      "DEV120-OCBO-PDF0011-C004",
+      "DEV120-OCBO-PDF0012-C003"
+    ],
+    "retrieved_ids": [
+      "DEV120-OCBO-PDF0018-C002",
+      "DEV120-OCBO-PDF0011-C004",
+      "DEV120-OCBO-PDF0012-C003"
+    ],
+    "reference_chunk_ids": [
+      "DEV120-OCBO-PDF0004-C002",
+      "DEV120-OCBO-PDF0004-C003",
+      "DEV120-OCBO-PDF0004-C004"
+    ],
+    "status": "JUDGE_LABEL_DISCORDANCE_REQUIRES_SOURCE_COMPARISON",
+    "policy": "Gold IDs can be incomplete or overlapping; this flag alone does not prove a judge error."
+  },
+  {
+    "record_id": "SCENARIO-OCBO-002-bislish",
+    "positive_judge_count": 3,
+    "judge_positive_chunk_ids": [
+      "DEV120-CPDO-PDF0005-C001",
+      "DEV120-CPDO-PDF0011-C001",
+      "DEV120-OCBO-PDF0001-C001"
+    ],
+    "retrieved_ids": [
+      "DEV120-CPDO-PDF0005-C001",
+      "DEV120-CPDO-PDF0011-C001",
+      "DEV120-OCBO-PDF0001-C001"
+    ],
+    "reference_chunk_ids": [
+      "DEV120-OCBO-PDF0004-C002",
+      "DEV120-OCBO-PDF0004-C003",
+      "DEV120-OCBO-PDF0004-C004"
+    ],
+    "status": "JUDGE_LABEL_DISCORDANCE_REQUIRES_SOURCE_COMPARISON",
+    "policy": "Gold IDs can be incomplete or overlapping; this flag alone does not prove a judge error."
+  },
+  {
+    "record_id": "SCENARIO-CPDO-001-english",
+    "positive_judge_count": 3,
+    "judge_positive_chunk_ids": [
+      "DEV120-CPDO-PDF0078-C003",
+      "DEV120-CPDO-PDF0096-C001",
+      "DEV120-CPDO-PDF0088-C002"
+    ],
+    "retrieved_ids": [
+      "DEV120-CPDO-PDF0078-C003",
+      "DEV120-CPDO-PDF0096-C001",
+      "DEV120-CPDO-PDF0088-C002"
+    ],
+    "reference_chunk_ids": [
+      "DEV120-CPDO-PDF0002-C001",
+      "DEV120-CPDO-PDF0002-C002",
+      "DEV120-CPDO-PDF0002-C004",
+      "DEV120-CPDO-PDF0004-C001"
+    ],
+    "status": "JUDGE_LABEL_DISCORDANCE_REQUIRES_SOURCE_COMPARISON",
+    "policy": "Gold IDs can be incomplete or overlapping; this flag alone does not prove a judge error."
+  },
+  {
+    "record_id": "SCENARIO-CPDO-001-taglish",
+    "positive_judge_count": 2,
+    "judge_positive_chunk_ids": [
+      "DEV120-CPDO-PDF0057-C002",
+      "DEV120-CPDO-PDF0056-C001"
+    ],
+    "retrieved_ids": [
+      "DEV120-CPDO-PDF0057-C002",
+      "DEV120-BFP-PDF0001-C059",
+      "DEV120-CPDO-PDF0056-C001"
+    ],
+    "reference_chunk_ids": [
+      "DEV120-CPDO-PDF0002-C001",
+      "DEV120-CPDO-PDF0002-C002",
+      "DEV120-CPDO-PDF0002-C004",
+      "DEV120-CPDO-PDF0004-C001"
+    ],
+    "status": "JUDGE_LABEL_DISCORDANCE_REQUIRES_SOURCE_COMPARISON",
+    "policy": "Gold IDs can be incomplete or overlapping; this flag alone does not prove a judge error."
+  },
+  {
+    "record_id": "SCENARIO-CPDO-004-taglish",
+    "positive_judge_count": 3,
+    "judge_positive_chunk_ids": [
+      "DEV120-CPDO-PDF0014-C002",
+      "DEV120-CTO-PDF0053-C003",
+      "DEV120-BB-PDF0033-C002"
+    ],
+    "retrieved_ids": [
+      "DEV120-CPDO-PDF0014-C002",
+      "DEV120-CTO-PDF0053-C003",
+      "DEV120-BB-PDF0033-C002"
+    ],
+    "reference_chunk_ids": [
+      "DEV120-CPDO-PDF0026-C001",
+      "DEV120-CPDO-PDF0026-C002",
+      "DEV120-CPDO-PDF0026-C003",
+      "DEV120-CPDO-PDF0026-C004",
+      "DEV120-CPDO-PDF0027-C001",
+      "DEV120-CPDO-PDF0027-C002",
+      "DEV120-CPDO-PDF0028-C001",
+      "DEV120-CPDO-PDF0028-C002",
+      "DEV120-CPDO-PDF0029-C001",
+      "DEV120-CPDO-PDF0030-C001",
+      "DEV120-CPDO-PDF0030-C002",
+      "DEV120-CPDO-PDF0032-C001",
+      "DEV120-CPDO-PDF0032-C002"
+    ],
+    "status": "JUDGE_LABEL_DISCORDANCE_REQUIRES_SOURCE_COMPARISON",
+    "policy": "Gold IDs can be incomplete or overlapping; this flag alone does not prove a judge error."
+  },
+  {
+    "record_id": "SCENARIO-CPDO-005-english",
+    "positive_judge_count": 2,
+    "judge_positive_chunk_ids": [
+      "DEV120-CPDO-PDF0068-C001",
+      "DEV120-CPDO-PDF0070-C001"
+    ],
+    "retrieved_ids": [
+      "DEV120-CPDO-PDF0068-C001",
+      "DEV120-CPDO-PDF0070-C001",
+      "DEV120-CPDO-PDF0019-C003"
+    ],
+    "reference_chunk_ids": [
+      "DEV120-CPDO-PDF0070-C002",
+      "DEV120-CPDO-PDF0070-C003",
+      "DEV120-CPDO-PDF0070-C004",
+      "DEV120-CPDO-PDF0071-C001",
+      "DEV120-CPDO-PDF0071-C002",
+      "DEV120-CPDO-PDF0072-C001"
+    ],
+    "status": "JUDGE_LABEL_DISCORDANCE_REQUIRES_SOURCE_COMPARISON",
+    "policy": "Gold IDs can be incomplete or overlapping; this flag alone does not prove a judge error."
+  },
+  {
+    "record_id": "SCENARIO-CPDO-005-taglish",
+    "positive_judge_count": 3,
+    "judge_positive_chunk_ids": [
+      "DEV120-BB-PDF0033-C001",
+      "DEV120-CPDO-PDF0070-C001",
+      "DEV120-BB-PDF0066-C002"
+    ],
+    "retrieved_ids": [
+      "DEV120-BB-PDF0033-C001",
+      "DEV120-CPDO-PDF0070-C001",
+      "DEV120-BB-PDF0066-C002"
+    ],
+    "reference_chunk_ids": [
+      "DEV120-CPDO-PDF0070-C002",
+      "DEV120-CPDO-PDF0070-C003",
+      "DEV120-CPDO-PDF0070-C004",
+      "DEV120-CPDO-PDF0071-C001",
+      "DEV120-CPDO-PDF0071-C002",
+      "DEV120-CPDO-PDF0072-C001"
+    ],
+    "status": "JUDGE_LABEL_DISCORDANCE_REQUIRES_SOURCE_COMPARISON",
+    "policy": "Gold IDs can be incomplete or overlapping; this flag alone does not prove a judge error."
+  },
+  {
+    "record_id": "SCENARIO-CPDO-005-bislish",
+    "positive_judge_count": 2,
+    "judge_positive_chunk_ids": [
+      "DEV120-CPDO-PDF0070-C001",
+      "DEV120-BB-PDF0008-C002"
+    ],
+    "retrieved_ids": [
+      "DEV120-CPDO-PDF0070-C001",
+      "DEV120-BB-PDF0008-C002",
+      "DEV120-CPDO-PDF0019-C003"
+    ],
+    "reference_chunk_ids": [
+      "DEV120-CPDO-PDF0070-C002",
+      "DEV120-CPDO-PDF0070-C003",
+      "DEV120-CPDO-PDF0070-C004",
+      "DEV120-CPDO-PDF0071-C001",
+      "DEV120-CPDO-PDF0071-C002",
+      "DEV120-CPDO-PDF0072-C001"
+    ],
+    "status": "JUDGE_LABEL_DISCORDANCE_REQUIRES_SOURCE_COMPARISON",
+    "policy": "Gold IDs can be incomplete or overlapping; this flag alone does not prove a judge error."
+  },
+  {
+    "record_id": "SCENARIO-CPDO-006-taglish",
+    "positive_judge_count": 3,
+    "judge_positive_chunk_ids": [
+      "DEV120-CPDO-PDF0003-C001",
+      "DEV120-CPDO-PDF0103-C001",
+      "DEV120-CPDO-PDF0003-C002"
+    ],
+    "retrieved_ids": [
+      "DEV120-CPDO-PDF0003-C001",
+      "DEV120-CPDO-PDF0103-C001",
+      "DEV120-CPDO-PDF0003-C002"
+    ],
+    "reference_chunk_ids": [
+      "DEV120-CPDO-PDF0073-C001",
+      "DEV120-CPDO-PDF0073-C002",
+      "DEV120-CPDO-PDF0073-C003",
+      "DEV120-CPDO-PDF0074-C001",
+      "DEV120-CPDO-PDF0074-C002"
+    ],
+    "status": "JUDGE_LABEL_DISCORDANCE_REQUIRES_SOURCE_COMPARISON",
+    "policy": "Gold IDs can be incomplete or overlapping; this flag alone does not prove a judge error."
+  },
+  {
+    "record_id": "SCENARIO-CPDO-006-bislish",
+    "positive_judge_count": 3,
+    "judge_positive_chunk_ids": [
+      "DEV120-CPDO-PDF0003-C001",
+      "DEV120-CPDO-PDF0103-C001",
+      "DEV120-CPDO-PDF0005-C004"
+    ],
+    "retrieved_ids": [
+      "DEV120-CPDO-PDF0003-C001",
+      "DEV120-CPDO-PDF0103-C001",
+      "DEV120-CPDO-PDF0005-C004"
+    ],
+    "reference_chunk_ids": [
+      "DEV120-CPDO-PDF0073-C001",
+      "DEV120-CPDO-PDF0073-C002",
+      "DEV120-CPDO-PDF0073-C003",
+      "DEV120-CPDO-PDF0074-C001",
+      "DEV120-CPDO-PDF0074-C002"
+    ],
+    "status": "JUDGE_LABEL_DISCORDANCE_REQUIRES_SOURCE_COMPARISON",
+    "policy": "Gold IDs can be incomplete or overlapping; this flag alone does not prove a judge error."
+  },
+  {
+    "record_id": "SCENARIO-BFP-001-bislish",
+    "positive_judge_count": 3,
+    "judge_positive_chunk_ids": [
+      "DEV120-BFP-PDF0001-C047",
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C023"
+    ],
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C047",
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C023"
+    ],
+    "reference_chunk_ids": [
+      "DEV120-BFP-PDF0001-C052",
+      "DEV120-BFP-PDF0001-C027",
+      "DEV120-BFP-PDF0001-C028",
+      "DEV120-BFP-PDF0001-C029",
+      "DEV120-BFP-PDF0001-C030",
+      "DEV120-BFP-PDF0001-C031",
+      "DEV120-BFP-PDF0001-C032",
+      "DEV120-BFP-PDF0001-C035",
+      "DEV120-BFP-PDF0001-C036",
+      "DEV120-BFP-PDF0001-C017",
+      "DEV120-BFP-PDF0001-C018",
+      "DEV120-BFP-PDF0001-C019"
+    ],
+    "status": "JUDGE_LABEL_DISCORDANCE_REQUIRES_SOURCE_COMPARISON",
+    "policy": "Gold IDs can be incomplete or overlapping; this flag alone does not prove a judge error."
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "positive_judge_count": 3,
+    "judge_positive_chunk_ids": [
+      "DEV120-BFP-PDF0001-C041",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C021"
+    ],
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C041",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C021"
+    ],
+    "reference_chunk_ids": [
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C020"
+    ],
+    "status": "JUDGE_LABEL_DISCORDANCE_REQUIRES_SOURCE_COMPARISON",
+    "policy": "Gold IDs can be incomplete or overlapping; this flag alone does not prove a judge error."
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "positive_judge_count": 2,
+    "judge_positive_chunk_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006"
+    ],
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C005"
+    ],
+    "reference_chunk_ids": [
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C020"
+    ],
+    "status": "JUDGE_LABEL_DISCORDANCE_REQUIRES_SOURCE_COMPARISON",
+    "policy": "Gold IDs can be incomplete or overlapping; this flag alone does not prove a judge error."
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "claim": "The Building Permit checklist lists a notarized application letter; notarized Unified Building Permit Form with Civil/Architectural plans signed/sealed by a licensed Civil Engineer/Architect (5 accomplished form copies); Architectural, Civil/Structural, and Sanitary/Plumbing forms (3 form copies and 5 plan sets each). Civil/Structural plans identify a licensed Civil Engineer; Sanitary/Plumbing identifies a licensed Sanitary Engineer/Master Plumber. Architectural plans must be signed/sealed by the hired licensed professional.",
+    "evidence": [
+      {
+        "source_page_id": "OCBO-PDF0002",
+        "pdf_relative_page": 2,
+        "printed_page": 490,
+        "source_span": "CHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1.  Notarized Application Letter \nOwner/Applicant\n2.  Notarized Unified Building Permit Form with \nCivil/Architectural Plans. Plans must be duly \nsigned and sealed by the hired professional \n(licensed Civil Engineer/Architect) \n5 copies of accomplished Form\nOwner/Applicant\n3. Architectural Permit Form with Architectural \nPlans. Plans must be duly signed and sealed by \nthe hired professional (licensed) \n3 copies of accomplished Form \n5 sets of plans",
+        "char_start": 394,
+        "char_end": 889,
+        "supporting_chunk_ids": [
+          "DEV120-OCBO-PDF0002-C001",
+          "DEV120-OCBO-PDF0002-C002",
+          "DEV120-OCBO-PDF0002-C003"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-OCBO-PDF0002-C001",
+      "DEV120-OCBO-PDF0002-C002",
+      "DEV120-OCBO-PDF0002-C003"
+    ]
+  },
+  {
+    "claim": "Electrical: 3 accomplished form copies and 5 plan sets, signed/sealed by a Licensed Professional Electrical Engineer. Electronics: 2 form copies and 5 plan sets, signed/sealed by a Licensed Electronics Engineer. Mechanical row is internally inconsistent: it says 6-7 sets Mechanical Plans, then 2 form copies and 5 plan sets, and names Licensed Electronics Engineer. These mechanical quantities/professional designation require official clarification rather than replacement with an assumed rule.",
+    "evidence": [
+      {
+        "source_page_id": "OCBO-PDF0003",
+        "pdf_relative_page": 3,
+        "printed_page": 491,
+        "source_span": "6. Electrical Permit Form with Electrical Plans. \nPlans must be duly signed and sealed by hired \nprofessional (Licensed Professional Electrical \nEngineer) \n3 copies of accomplished Form \n5 sets of plans\nOwner/Applicant\n7. Electronics Permit Form with Electronic Plans. \nPlans must be duly signed and sealed by hired \nprofessional (Licensed Electronics Engineer) \n2 copies of filled-up form, 5 sets of plans\nOwner/Applicant\n8. Mechanical Permit Form with 6-7 sets \nMechanical Plans. Plans must be duly signed \nand sealed by hired professional (Licensed \nElectronics Engineer) \n2 copies of accomplished Form \n5 sets of plans\nOwner/Applicant\n9. Zoning",
+        "char_start": 0,
+        "char_end": 648,
+        "supporting_chunk_ids": [
+          "DEV120-OCBO-PDF0003-C001",
+          "DEV120-OCBO-PDF0003-C002"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-OCBO-PDF0003-C001",
+      "DEV120-OCBO-PDF0003-C002"
+    ]
+  },
+  {
+    "claim": "The checklist also lists Zoning Location Clearance and BFP Fire Safety Evaluation Certificate (1 original and 1 photocopy each); certified true copies of land title, property tax declaration and current real-property-tax receipt (1 original and 1 photocopy each); owner/applicant ID with 3 specimen signatures (1 photocopy); PRC IDs, current PTR and TIN of signing professionals (1 photocopy per professional).",
+    "evidence": [
+      {
+        "source_page_id": "OCBO-PDF0003",
+        "pdf_relative_page": 3,
+        "printed_page": 491,
+        "source_span": "9. Zoning Location Clearance  \n1 original, 1 photocopy\nCity Planning & Development Office (CPDO)\n10.  BFP Fire Safety Evaluation Certificate \n1 original, 1 photocopy\nBureau of Fire Protection (BFP)\n11. Certified True Copy of Land Title  \n 1 original, 1 photocopy\nLand Registration Authority (LRA)\n12. Certified True Copy of Tax Declaration   of \nthe Property \n  1 original, 1 photocopy\nCity Assessor’s Office (CASSO)\n13. Certified True Copy of Current Real Property \nTax Receipt \n1 original, 1 photocopy\nCity Treasurer’s Office (CTO)\n14. Owner’s/Applicant’s valid I.D. with three (3) \nspecimen signatures \n1 photocopy\nOwner/Applicant\n15. PRC IDs and current PTR and TIN of all the \nsigning professionals \n1 photocopy per signing professional",
+        "char_start": 639,
+        "char_end": 1380,
+        "supporting_chunk_ids": [
+          "DEV120-OCBO-PDF0003-C002",
+          "DEV120-OCBO-PDF0003-C003",
+          "DEV120-OCBO-PDF0003-C004"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-OCBO-PDF0003-C002",
+      "DEV120-OCBO-PDF0003-C003",
+      "DEV120-OCBO-PDF0003-C004"
+    ]
+  },
+  {
+    "claim": "Other listed technical submissions include scaled sketch/lot and vicinity plans, relocation survey plans/reports signed/sealed by a licensed Geodetic Engineer (4 copies); technical specifications signed/sealed by a licensed Architect (2 copies); bill of materials/cost estimates signed/sealed by a licensed Architect (4 copies); seismic analysis; clear detailed location photographs with landmarks or Google Maps image.",
+    "evidence": [
+      {
+        "source_page_id": "OCBO-PDF0004",
+        "pdf_relative_page": 4,
+        "printed_page": 492,
+        "source_span": "16. Sketch/Lot Plan with Vicinity Map, Relocation \nSurvey Plan and Reports, drawn to scale.  Plans \nmust be duly signed and sealed by hired \nprofessional (Licensed Geodetic Engineer) \n4 copies\nOwner/Applicant\n17. Project Technical Specifications duly signed \nand sealed by hired professional (licensed \nArchitect)  \n2 copies\nOwner/Applicant\n18. Bill of materials and cost estimates duly \nsigned and sealed by hired professional \n(licensed Architect) \n4 copies\nOwner/Applicant\n19. Seismic Analysis \nHired Professionals (All Engineers & Architect)\n20. Photographs of Location with Landmarks or \nImage of the location taken from Google Maps \n(Clear and Detailed)\nOwner/Applicant\nConditional Requirements",
+        "char_start": 0,
+        "char_end": 700,
+        "supporting_chunk_ids": [
+          "DEV120-OCBO-PDF0004-C001",
+          "DEV120-OCBO-PDF0004-C002"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-OCBO-PDF0004-C001",
+      "DEV120-OCBO-PDF0004-C002"
+    ]
+  },
+  {
+    "claim": "Additional clearances are conditional: DPWH for structures along a National Highway; CAAP for tall structures; DENR ECC for environmentally critical projects; drainage clearance where stated; traffic impact assessment with site development/parking plans for major development; and RROW clearance for structures along City/Barangay/Subdivision roads. These rows list 1 original and 1 photocopy and preserve their stated conditions.",
+    "evidence": [
+      {
+        "source_page_id": "OCBO-PDF0004",
+        "pdf_relative_page": 4,
+        "printed_page": 492,
+        "source_span": "c.     Structures located along a National \nHighway – DPWH Clearance \n1 original, 1 photocopy\nDepartment of Public Works and Highways \n(DPWH)\nd.     Tall structures – CAAP (ATO) Clearance \n1 original, 1 photocopy\nCivil Aviation Authority of the Philippines",
+        "char_start": 1234,
+        "char_end": 1490,
+        "supporting_chunk_ids": [
+          "DEV120-OCBO-PDF0004-C003",
+          "DEV120-OCBO-PDF0004-C004"
+        ]
+      },
+      {
+        "source_page_id": "OCBO-PDF0005",
+        "pdf_relative_page": 5,
+        "printed_page": 493,
+        "source_span": "e.     Environmentally critical projects – DENR \nEnvironmental Compliance Certificate \n1 original, 1 photocopy\nDepartment of Environment and Natural \nResources (DENR)\nf.      ECCs requiring drainage clearance and for \naffected drainage line/waterway – Drainage \nClearance \n1 original, 1 photocopy\nDPWH or City Engineer’s Office (CEO)\ng.     Major development (such as malls, \nconvention centers, Sports Complex, etc.)- \nTraffic Impact Assessment (TIA) with Site \nDevelopment Plan and Parking Layout & \nTabulation \n1 original, 1 photocopy\nCity Traffic & Transportation Mgt. Office \n(CTTMO) \nTIA must be duly approved by the Traffic \nManagement and Control Board (TMCB) \nSite Development Plan and Parking Layout & \nTabulation must be signed by TMCB Technical \nWorking Group\nh.     Structures along City, Barangay, or \nSubdivision Roads – Road Right of Way \n(RROW) Clearance \n1 original, 1 photocopy\nCity Engineer’s Office (CEO)\nIf the applicant is NOT",
+        "char_start": 0,
+        "char_end": 949,
+        "supporting_chunk_ids": [
+          "DEV120-OCBO-PDF0005-C001",
+          "DEV120-OCBO-PDF0005-C002",
+          "DEV120-OCBO-PDF0005-C003"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-OCBO-PDF0004-C003",
+      "DEV120-OCBO-PDF0004-C004",
+      "DEV120-OCBO-PDF0005-C001",
+      "DEV120-OCBO-PDF0005-C002",
+      "DEV120-OCBO-PDF0005-C003"
+    ]
+  }
+]

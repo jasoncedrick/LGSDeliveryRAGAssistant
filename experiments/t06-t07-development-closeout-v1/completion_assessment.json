@@ -1,0 +1,30 @@
+{
+  "T06": "COMPLETE_DEVELOPMENT_VALIDATED_HARNESS",
+  "T07_development": "COMPLETE_WITH_DOCUMENTED_LIMITATIONS",
+  "T07_full_manuscript": "NOT_COMPLETE_FREEZE_AND_HELD_OUT_COMPARISON_PENDING",
+  "held_out_accessed": false,
+  "app_defaults_changed": false,
+  "originals_preserved": true,
+  "coverage": {
+    "A": {
+      "ANSWERED": 90
+    },
+    "B": {
+      "ANSWERED": 83,
+      "CLARIFICATION_REQUIRED": 6,
+      "GENERATION_INCOMPLETE": 1
+    },
+    "C": {
+      "ANSWERED": 84,
+      "CLARIFICATION_REQUIRED": 6
+    }
+  },
+  "near_tie_grid_warning": "Numerical winner differs from other candidates at floating-point epsilon; no meaningful superiority claim.",
+  "C_limitation": "Query-specific glossary injection removed; shared static lexical guidance retained.",
+  "source_limitations": "Source wording ambiguities and BFP detached context associations remain documented, not independently certified.",
+  "branch_checkpoint": "Development comparison and evaluator recovery; do not name branch as final held-out T07 completion.",
+  "manual_review_required": [
+    "B SCENARIO-BFP-002-taglish: unsupported S3 local-fee-schedules claim accepted by judge; see manual_judge_check.json"
+  ],
+  "interpretation": "All supplemental scores are finite; finite evaluator output is not expert certification."
+}

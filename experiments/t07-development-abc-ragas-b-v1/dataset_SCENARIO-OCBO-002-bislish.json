@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang dugang requirements sa OCBO kung 3-storey pataas ang building nga itukod?"
+  ],
+  "answer": [
+    "Sa iyong kahibawan, para sa 3-storey pataas na building na itukod, ang mga requirements sa Office of the City Building Official (OCBO) sa pamamagitan ng mga nakalista sa [S3] ang nakalista sa chunk DEV120-OCBO-PDF0043-C001. Ang mga requirements sa pamamagitan ng OCBO sa iyong kaso ay:\n\n1. Pavement Permit form with 3 sets of Civil/Architectural drawings ([S3])."
+  ],
+  "contexts": [
+    [
+      "2. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (3-Storey Buildings and Above and \n1,500 Building Floor Area and Above) \nFor 3-storey buildings and above and for building floor area of 1,500 square meters \nand above only.  \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nComplex\nType of Trans",
+      "4. Issuance of Locational Clearance (LC) for Building based on the \nIntegrated Zoning Ordinance (2019-2028) (for 3-storey and above) \nA written authority / permit granted by the City Planning and Development Office \n(previously by the Board) pursuant to applicable laws on land use planning and zoning \nfor the establishment or operation of projects of national / local significance. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nComplex\nType of Transaction \nG2G – Government to Government",
+      "7. Issuance of Pavement Permit\nA Pavement Permit shall be required prior to or during the processing of the building permit and prior \nto the commencement of the proposed project and construction.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; \nG2G – Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Pavement Permit form with 3 sets of \nCivil/Arch"
+    ]
+  ],
+  "ground_truth": [
+    "Conditional requirements state: construction/minor repair of buildings 3 storeys and above requires Construction Safety & Health Program, 1 original and 1 photocopy, with DOLE listed under Where to Secure. Boring and Plate Load Test Result/Report is listed if the structure is at least three storeys, 2 copies, with a licensed Civil/Geotechnical Engineer listed. For an additional storey, submit an affidavit that the foundation can carry the proposed additional floors, 2 originals."
+  ]
+}

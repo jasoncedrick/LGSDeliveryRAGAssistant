@@ -1,0 +1,1801 @@
+configuration,normalization,sparse_tokenizer,record_id,pillar,language,status,fidelity_error_count,k,hit_at_k,mrr_at_k
+A,archived,whitespace,SCENARIO-BB-001-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+A,archived,whitespace,SCENARIO-BB-001-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+A,archived,punctuation,SCENARIO-BB-001-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+A,archived,punctuation,SCENARIO-BB-001-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+A,archived,whitespace,SCENARIO-BB-001-taglish,Business Bureau,taglish,SUCCESS,0,3,1,0.3333333333333333
+A,archived,whitespace,SCENARIO-BB-001-taglish,Business Bureau,taglish,SUCCESS,0,5,1,0.3333333333333333
+A,archived,punctuation,SCENARIO-BB-001-taglish,Business Bureau,taglish,SUCCESS,0,3,0,0.0
+A,archived,punctuation,SCENARIO-BB-001-taglish,Business Bureau,taglish,SUCCESS,0,5,1,0.25
+A,archived,whitespace,SCENARIO-BB-001-bislish,Business Bureau,bislish,SUCCESS,0,3,1,0.3333333333333333
+A,archived,whitespace,SCENARIO-BB-001-bislish,Business Bureau,bislish,SUCCESS,0,5,1,0.3333333333333333
+A,archived,punctuation,SCENARIO-BB-001-bislish,Business Bureau,bislish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-BB-001-bislish,Business Bureau,bislish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-BB-002-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+A,archived,whitespace,SCENARIO-BB-002-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+A,archived,punctuation,SCENARIO-BB-002-english,Business Bureau,english,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-BB-002-english,Business Bureau,english,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-BB-002-taglish,Business Bureau,taglish,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-BB-002-taglish,Business Bureau,taglish,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-BB-002-taglish,Business Bureau,taglish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-BB-002-taglish,Business Bureau,taglish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-BB-002-bislish,Business Bureau,bislish,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-BB-002-bislish,Business Bureau,bislish,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-BB-002-bislish,Business Bureau,bislish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-BB-002-bislish,Business Bureau,bislish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-BB-003-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+A,archived,whitespace,SCENARIO-BB-003-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+A,archived,punctuation,SCENARIO-BB-003-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+A,archived,punctuation,SCENARIO-BB-003-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+A,archived,whitespace,SCENARIO-BB-003-taglish,Business Bureau,taglish,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-BB-003-taglish,Business Bureau,taglish,SUCCESS,0,5,0,0.0
+A,archived,punctuation,SCENARIO-BB-003-taglish,Business Bureau,taglish,SUCCESS,0,3,0,0.0
+A,archived,punctuation,SCENARIO-BB-003-taglish,Business Bureau,taglish,SUCCESS,0,5,1,0.25
+A,archived,whitespace,SCENARIO-BB-003-bislish,Business Bureau,bislish,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-BB-003-bislish,Business Bureau,bislish,SUCCESS,0,5,0,0.0
+A,archived,punctuation,SCENARIO-BB-003-bislish,Business Bureau,bislish,SUCCESS,0,3,0,0.0
+A,archived,punctuation,SCENARIO-BB-003-bislish,Business Bureau,bislish,SUCCESS,0,5,0,0.0
+A,archived,whitespace,SCENARIO-BB-004-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+A,archived,whitespace,SCENARIO-BB-004-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+A,archived,punctuation,SCENARIO-BB-004-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+A,archived,punctuation,SCENARIO-BB-004-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+A,archived,whitespace,SCENARIO-BB-004-taglish,Business Bureau,taglish,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-BB-004-taglish,Business Bureau,taglish,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-BB-004-taglish,Business Bureau,taglish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-BB-004-taglish,Business Bureau,taglish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-BB-004-bislish,Business Bureau,bislish,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-BB-004-bislish,Business Bureau,bislish,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-BB-004-bislish,Business Bureau,bislish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-BB-004-bislish,Business Bureau,bislish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-BB-005-english,Business Bureau,english,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-BB-005-english,Business Bureau,english,SUCCESS,0,5,0,0.0
+A,archived,punctuation,SCENARIO-BB-005-english,Business Bureau,english,SUCCESS,0,3,0,0.0
+A,archived,punctuation,SCENARIO-BB-005-english,Business Bureau,english,SUCCESS,0,5,0,0.0
+A,archived,whitespace,SCENARIO-BB-005-taglish,Business Bureau,taglish,SUCCESS,0,3,1,0.3333333333333333
+A,archived,whitespace,SCENARIO-BB-005-taglish,Business Bureau,taglish,SUCCESS,0,5,1,0.3333333333333333
+A,archived,punctuation,SCENARIO-BB-005-taglish,Business Bureau,taglish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-BB-005-taglish,Business Bureau,taglish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-BB-005-bislish,Business Bureau,bislish,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-BB-005-bislish,Business Bureau,bislish,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-BB-005-bislish,Business Bureau,bislish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-BB-005-bislish,Business Bureau,bislish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-BB-006-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+A,archived,whitespace,SCENARIO-BB-006-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+A,archived,punctuation,SCENARIO-BB-006-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+A,archived,punctuation,SCENARIO-BB-006-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+A,archived,whitespace,SCENARIO-BB-006-taglish,Business Bureau,taglish,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-BB-006-taglish,Business Bureau,taglish,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-BB-006-taglish,Business Bureau,taglish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-BB-006-taglish,Business Bureau,taglish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-BB-006-bislish,Business Bureau,bislish,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-BB-006-bislish,Business Bureau,bislish,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-BB-006-bislish,Business Bureau,bislish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-BB-006-bislish,Business Bureau,bislish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-CTO-001-english,City Treasurer's Office,english,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-CTO-001-english,City Treasurer's Office,english,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-CTO-001-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+A,archived,punctuation,SCENARIO-CTO-001-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+A,archived,whitespace,SCENARIO-CTO-001-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-CTO-001-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-CTO-001-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-CTO-001-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-CTO-001-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-CTO-001-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-CTO-001-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-CTO-001-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-CTO-002-english,City Treasurer's Office,english,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-CTO-002-english,City Treasurer's Office,english,SUCCESS,0,5,0,0.0
+A,archived,punctuation,SCENARIO-CTO-002-english,City Treasurer's Office,english,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-CTO-002-english,City Treasurer's Office,english,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-CTO-002-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,0.3333333333333333
+A,archived,whitespace,SCENARIO-CTO-002-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,0.3333333333333333
+A,archived,punctuation,SCENARIO-CTO-002-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-CTO-002-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-CTO-002-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-CTO-002-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-CTO-002-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-CTO-002-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-CTO-003-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+A,archived,whitespace,SCENARIO-CTO-003-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+A,archived,punctuation,SCENARIO-CTO-003-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+A,archived,punctuation,SCENARIO-CTO-003-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+A,archived,whitespace,SCENARIO-CTO-003-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+A,archived,whitespace,SCENARIO-CTO-003-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+A,archived,punctuation,SCENARIO-CTO-003-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+A,archived,punctuation,SCENARIO-CTO-003-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+A,archived,whitespace,SCENARIO-CTO-003-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-CTO-003-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-CTO-003-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-CTO-003-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-CTO-004-english,City Treasurer's Office,english,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-CTO-004-english,City Treasurer's Office,english,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-CTO-004-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+A,archived,punctuation,SCENARIO-CTO-004-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+A,archived,whitespace,SCENARIO-CTO-004-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-CTO-004-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-CTO-004-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-CTO-004-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-CTO-004-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-CTO-004-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-CTO-004-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-CTO-004-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-CTO-005-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+A,archived,whitespace,SCENARIO-CTO-005-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+A,archived,punctuation,SCENARIO-CTO-005-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+A,archived,punctuation,SCENARIO-CTO-005-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+A,archived,whitespace,SCENARIO-CTO-005-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-CTO-005-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-CTO-005-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-CTO-005-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-CTO-005-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-CTO-005-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,1,0.25
+A,archived,punctuation,SCENARIO-CTO-005-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-CTO-005-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-CTO-006-english,City Treasurer's Office,english,SUCCESS,0,3,1,0.3333333333333333
+A,archived,whitespace,SCENARIO-CTO-006-english,City Treasurer's Office,english,SUCCESS,0,5,1,0.3333333333333333
+A,archived,punctuation,SCENARIO-CTO-006-english,City Treasurer's Office,english,SUCCESS,0,3,0,0.0
+A,archived,punctuation,SCENARIO-CTO-006-english,City Treasurer's Office,english,SUCCESS,0,5,1,0.2
+A,archived,whitespace,SCENARIO-CTO-006-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-CTO-006-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,0,0.0
+A,archived,punctuation,SCENARIO-CTO-006-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,0,0.0
+A,archived,punctuation,SCENARIO-CTO-006-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,0,0.0
+A,archived,whitespace,SCENARIO-CTO-006-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-CTO-006-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,0,0.0
+A,archived,punctuation,SCENARIO-CTO-006-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,0,0.0
+A,archived,punctuation,SCENARIO-CTO-006-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,0,0.0
+A,archived,whitespace,SCENARIO-OCBO-001-english,Office of the City Building Official,english,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-OCBO-001-english,Office of the City Building Official,english,SUCCESS,0,5,0,0.0
+A,archived,punctuation,SCENARIO-OCBO-001-english,Office of the City Building Official,english,SUCCESS,0,3,0,0.0
+A,archived,punctuation,SCENARIO-OCBO-001-english,Office of the City Building Official,english,SUCCESS,0,5,0,0.0
+A,archived,whitespace,SCENARIO-OCBO-001-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-OCBO-001-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,0,0.0
+A,archived,punctuation,SCENARIO-OCBO-001-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,0,0.0
+A,archived,punctuation,SCENARIO-OCBO-001-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,0,0.0
+A,archived,whitespace,SCENARIO-OCBO-001-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-OCBO-001-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,0.2
+A,archived,punctuation,SCENARIO-OCBO-001-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,0,0.0
+A,archived,punctuation,SCENARIO-OCBO-001-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,0,0.0
+A,archived,whitespace,SCENARIO-OCBO-002-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+A,archived,whitespace,SCENARIO-OCBO-002-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+A,archived,punctuation,SCENARIO-OCBO-002-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+A,archived,punctuation,SCENARIO-OCBO-002-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+A,archived,whitespace,SCENARIO-OCBO-002-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-OCBO-002-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,0,0.0
+A,archived,punctuation,SCENARIO-OCBO-002-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,0,0.0
+A,archived,punctuation,SCENARIO-OCBO-002-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,0,0.0
+A,archived,whitespace,SCENARIO-OCBO-002-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-OCBO-002-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,0,0.0
+A,archived,punctuation,SCENARIO-OCBO-002-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,0,0.0
+A,archived,punctuation,SCENARIO-OCBO-002-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,0,0.0
+A,archived,whitespace,SCENARIO-OCBO-003-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+A,archived,whitespace,SCENARIO-OCBO-003-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+A,archived,punctuation,SCENARIO-OCBO-003-english,Office of the City Building Official,english,SUCCESS,0,3,0,0.0
+A,archived,punctuation,SCENARIO-OCBO-003-english,Office of the City Building Official,english,SUCCESS,0,5,1,0.2
+A,archived,whitespace,SCENARIO-OCBO-003-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-OCBO-003-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,0,0.0
+A,archived,punctuation,SCENARIO-OCBO-003-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,0,0.0
+A,archived,punctuation,SCENARIO-OCBO-003-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,0,0.0
+A,archived,whitespace,SCENARIO-OCBO-003-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-OCBO-003-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,0,0.0
+A,archived,punctuation,SCENARIO-OCBO-003-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,0.3333333333333333
+A,archived,punctuation,SCENARIO-OCBO-003-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,0.3333333333333333
+A,archived,whitespace,SCENARIO-OCBO-004-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+A,archived,whitespace,SCENARIO-OCBO-004-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+A,archived,punctuation,SCENARIO-OCBO-004-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+A,archived,punctuation,SCENARIO-OCBO-004-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+A,archived,whitespace,SCENARIO-OCBO-004-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-OCBO-004-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-OCBO-004-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-OCBO-004-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-OCBO-004-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-OCBO-004-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-OCBO-004-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-OCBO-004-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-OCBO-005-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+A,archived,whitespace,SCENARIO-OCBO-005-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+A,archived,punctuation,SCENARIO-OCBO-005-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+A,archived,punctuation,SCENARIO-OCBO-005-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+A,archived,whitespace,SCENARIO-OCBO-005-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-OCBO-005-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-OCBO-005-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-OCBO-005-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-OCBO-005-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-OCBO-005-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-OCBO-005-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-OCBO-005-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-OCBO-006-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+A,archived,whitespace,SCENARIO-OCBO-006-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+A,archived,punctuation,SCENARIO-OCBO-006-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+A,archived,punctuation,SCENARIO-OCBO-006-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+A,archived,whitespace,SCENARIO-OCBO-006-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-OCBO-006-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-OCBO-006-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-OCBO-006-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-OCBO-006-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-OCBO-006-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-OCBO-006-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-OCBO-006-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-CPDO-001-english,City Planning and Development Office,english,SUCCESS,0,3,1,0.3333333333333333
+A,archived,whitespace,SCENARIO-CPDO-001-english,City Planning and Development Office,english,SUCCESS,0,5,1,0.3333333333333333
+A,archived,punctuation,SCENARIO-CPDO-001-english,City Planning and Development Office,english,SUCCESS,0,3,0,0.0
+A,archived,punctuation,SCENARIO-CPDO-001-english,City Planning and Development Office,english,SUCCESS,0,5,1,0.25
+A,archived,whitespace,SCENARIO-CPDO-001-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-CPDO-001-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,0.25
+A,archived,punctuation,SCENARIO-CPDO-001-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+A,archived,punctuation,SCENARIO-CPDO-001-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,0.25
+A,archived,whitespace,SCENARIO-CPDO-001-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-CPDO-001-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-CPDO-001-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-CPDO-001-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-CPDO-002-english,City Planning and Development Office,english,SUCCESS,0,3,1,1.0
+A,archived,whitespace,SCENARIO-CPDO-002-english,City Planning and Development Office,english,SUCCESS,0,5,1,1.0
+A,archived,punctuation,SCENARIO-CPDO-002-english,City Planning and Development Office,english,SUCCESS,0,3,1,1.0
+A,archived,punctuation,SCENARIO-CPDO-002-english,City Planning and Development Office,english,SUCCESS,0,5,1,1.0
+A,archived,whitespace,SCENARIO-CPDO-002-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-CPDO-002-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-CPDO-002-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-CPDO-002-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-CPDO-002-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-CPDO-002-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-CPDO-002-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-CPDO-002-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-CPDO-003-english,City Planning and Development Office,english,SUCCESS,0,3,1,0.3333333333333333
+A,archived,whitespace,SCENARIO-CPDO-003-english,City Planning and Development Office,english,SUCCESS,0,5,1,0.3333333333333333
+A,archived,punctuation,SCENARIO-CPDO-003-english,City Planning and Development Office,english,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-CPDO-003-english,City Planning and Development Office,english,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-CPDO-003-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,1,0.3333333333333333
+A,archived,whitespace,SCENARIO-CPDO-003-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,0.3333333333333333
+A,archived,punctuation,SCENARIO-CPDO-003-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+A,archived,punctuation,SCENARIO-CPDO-003-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,0.25
+A,archived,whitespace,SCENARIO-CPDO-003-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-CPDO-003-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,0.2
+A,archived,punctuation,SCENARIO-CPDO-003-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,0.3333333333333333
+A,archived,punctuation,SCENARIO-CPDO-003-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,0.3333333333333333
+A,archived,whitespace,SCENARIO-CPDO-004-english,City Planning and Development Office,english,SUCCESS,0,3,1,1.0
+A,archived,whitespace,SCENARIO-CPDO-004-english,City Planning and Development Office,english,SUCCESS,0,5,1,1.0
+A,archived,punctuation,SCENARIO-CPDO-004-english,City Planning and Development Office,english,SUCCESS,0,3,1,1.0
+A,archived,punctuation,SCENARIO-CPDO-004-english,City Planning and Development Office,english,SUCCESS,0,5,1,1.0
+A,archived,whitespace,SCENARIO-CPDO-004-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-CPDO-004-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+A,archived,punctuation,SCENARIO-CPDO-004-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+A,archived,punctuation,SCENARIO-CPDO-004-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+A,archived,whitespace,SCENARIO-CPDO-004-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-CPDO-004-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,0,0.0
+A,archived,punctuation,SCENARIO-CPDO-004-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+A,archived,punctuation,SCENARIO-CPDO-004-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,0,0.0
+A,archived,whitespace,SCENARIO-CPDO-005-english,City Planning and Development Office,english,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-CPDO-005-english,City Planning and Development Office,english,SUCCESS,0,5,0,0.0
+A,archived,punctuation,SCENARIO-CPDO-005-english,City Planning and Development Office,english,SUCCESS,0,3,0,0.0
+A,archived,punctuation,SCENARIO-CPDO-005-english,City Planning and Development Office,english,SUCCESS,0,5,0,0.0
+A,archived,whitespace,SCENARIO-CPDO-005-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,1,0.3333333333333333
+A,archived,whitespace,SCENARIO-CPDO-005-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,0.3333333333333333
+A,archived,punctuation,SCENARIO-CPDO-005-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+A,archived,punctuation,SCENARIO-CPDO-005-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,0.25
+A,archived,whitespace,SCENARIO-CPDO-005-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,0.3333333333333333
+A,archived,whitespace,SCENARIO-CPDO-005-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,0.3333333333333333
+A,archived,punctuation,SCENARIO-CPDO-005-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+A,archived,punctuation,SCENARIO-CPDO-005-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,0.2
+A,archived,whitespace,SCENARIO-CPDO-006-english,City Planning and Development Office,english,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-CPDO-006-english,City Planning and Development Office,english,SUCCESS,0,5,0,0.0
+A,archived,punctuation,SCENARIO-CPDO-006-english,City Planning and Development Office,english,SUCCESS,0,3,1,0.3333333333333333
+A,archived,punctuation,SCENARIO-CPDO-006-english,City Planning and Development Office,english,SUCCESS,0,5,1,0.3333333333333333
+A,archived,whitespace,SCENARIO-CPDO-006-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-CPDO-006-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-CPDO-006-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-CPDO-006-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-CPDO-006-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-CPDO-006-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,0.25
+A,archived,punctuation,SCENARIO-CPDO-006-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+A,archived,punctuation,SCENARIO-CPDO-006-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,0.25
+A,archived,whitespace,SCENARIO-BFP-001-english,Bureau of Fire Protection,english,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-BFP-001-english,Bureau of Fire Protection,english,SUCCESS,0,5,0,0.0
+A,archived,punctuation,SCENARIO-BFP-001-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+A,archived,punctuation,SCENARIO-BFP-001-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+A,archived,whitespace,SCENARIO-BFP-001-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-BFP-001-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,0,0.0
+A,archived,punctuation,SCENARIO-BFP-001-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,0,0.0
+A,archived,punctuation,SCENARIO-BFP-001-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,0,0.0
+A,archived,whitespace,SCENARIO-BFP-001-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-BFP-001-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-BFP-001-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,0.3333333333333333
+A,archived,punctuation,SCENARIO-BFP-001-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,0.3333333333333333
+A,archived,whitespace,SCENARIO-BFP-002-english,Bureau of Fire Protection,english,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-BFP-002-english,Bureau of Fire Protection,english,SUCCESS,0,5,0,0.0
+A,archived,punctuation,SCENARIO-BFP-002-english,Bureau of Fire Protection,english,SUCCESS,0,3,0,0.0
+A,archived,punctuation,SCENARIO-BFP-002-english,Bureau of Fire Protection,english,SUCCESS,0,5,0,0.0
+A,archived,whitespace,SCENARIO-BFP-002-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-BFP-002-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,0,0.0
+A,archived,punctuation,SCENARIO-BFP-002-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,0.3333333333333333
+A,archived,punctuation,SCENARIO-BFP-002-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,0.3333333333333333
+A,archived,whitespace,SCENARIO-BFP-002-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-BFP-002-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,0,0.0
+A,archived,punctuation,SCENARIO-BFP-002-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,0,0.0
+A,archived,punctuation,SCENARIO-BFP-002-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,0,0.0
+A,archived,whitespace,SCENARIO-BFP-003-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+A,archived,whitespace,SCENARIO-BFP-003-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+A,archived,punctuation,SCENARIO-BFP-003-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+A,archived,punctuation,SCENARIO-BFP-003-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+A,archived,whitespace,SCENARIO-BFP-003-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,1.0
+A,archived,whitespace,SCENARIO-BFP-003-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,1.0
+A,archived,punctuation,SCENARIO-BFP-003-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,1.0
+A,archived,punctuation,SCENARIO-BFP-003-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,1.0
+A,archived,whitespace,SCENARIO-BFP-003-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+A,archived,whitespace,SCENARIO-BFP-003-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+A,archived,punctuation,SCENARIO-BFP-003-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+A,archived,punctuation,SCENARIO-BFP-003-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+A,archived,whitespace,SCENARIO-BFP-004-english,Bureau of Fire Protection,english,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-BFP-004-english,Bureau of Fire Protection,english,SUCCESS,0,5,0,0.0
+A,archived,punctuation,SCENARIO-BFP-004-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+A,archived,punctuation,SCENARIO-BFP-004-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+A,archived,whitespace,SCENARIO-BFP-004-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-BFP-004-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-BFP-004-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-BFP-004-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-BFP-004-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-BFP-004-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-BFP-004-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+A,archived,punctuation,SCENARIO-BFP-004-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+A,archived,whitespace,SCENARIO-BFP-005-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+A,archived,whitespace,SCENARIO-BFP-005-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+A,archived,punctuation,SCENARIO-BFP-005-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+A,archived,punctuation,SCENARIO-BFP-005-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+A,archived,whitespace,SCENARIO-BFP-005-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-BFP-005-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,0.25
+A,archived,punctuation,SCENARIO-BFP-005-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-BFP-005-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-BFP-005-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,0,0.0
+A,archived,whitespace,SCENARIO-BFP-005-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,0,0.0
+A,archived,punctuation,SCENARIO-BFP-005-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-BFP-005-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-BFP-006-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+A,archived,whitespace,SCENARIO-BFP-006-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+A,archived,punctuation,SCENARIO-BFP-006-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+A,archived,punctuation,SCENARIO-BFP-006-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+A,archived,whitespace,SCENARIO-BFP-006-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,0.5
+A,archived,whitespace,SCENARIO-BFP-006-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,0.5
+A,archived,punctuation,SCENARIO-BFP-006-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-BFP-006-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,0.5
+A,archived,whitespace,SCENARIO-BFP-006-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,0.3333333333333333
+A,archived,whitespace,SCENARIO-BFP-006-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,0.3333333333333333
+A,archived,punctuation,SCENARIO-BFP-006-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,0.5
+A,archived,punctuation,SCENARIO-BFP-006-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,0.5
+B,archived,whitespace,SCENARIO-BB-001-english,Business Bureau,english,SUCCESS,0,3,1,0.5
+B,archived,whitespace,SCENARIO-BB-001-english,Business Bureau,english,SUCCESS,0,5,1,0.5
+B,archived,punctuation,SCENARIO-BB-001-english,Business Bureau,english,SUCCESS,0,3,1,0.5
+B,archived,punctuation,SCENARIO-BB-001-english,Business Bureau,english,SUCCESS,0,5,1,0.5
+B,candidate,whitespace,SCENARIO-BB-001-english,Business Bureau,english,SUCCESS,0,3,1,0.5
+B,candidate,whitespace,SCENARIO-BB-001-english,Business Bureau,english,SUCCESS,0,5,1,0.5
+B,candidate,punctuation,SCENARIO-BB-001-english,Business Bureau,english,SUCCESS,0,3,1,0.5
+B,candidate,punctuation,SCENARIO-BB-001-english,Business Bureau,english,SUCCESS,0,5,1,0.5
+B,archived,whitespace,SCENARIO-BB-001-taglish,Business Bureau,taglish,SUCCESS,0,3,1,0.5
+B,archived,whitespace,SCENARIO-BB-001-taglish,Business Bureau,taglish,SUCCESS,0,5,1,0.5
+B,archived,punctuation,SCENARIO-BB-001-taglish,Business Bureau,taglish,SUCCESS,0,3,1,0.5
+B,archived,punctuation,SCENARIO-BB-001-taglish,Business Bureau,taglish,SUCCESS,0,5,1,0.5
+B,candidate,whitespace,SCENARIO-BB-001-taglish,Business Bureau,taglish,SUCCESS,0,3,1,0.5
+B,candidate,whitespace,SCENARIO-BB-001-taglish,Business Bureau,taglish,SUCCESS,0,5,1,0.5
+B,candidate,punctuation,SCENARIO-BB-001-taglish,Business Bureau,taglish,SUCCESS,0,3,1,0.5
+B,candidate,punctuation,SCENARIO-BB-001-taglish,Business Bureau,taglish,SUCCESS,0,5,1,0.5
+B,archived,whitespace,SCENARIO-BB-001-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-BB-001-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-BB-001-bislish,Business Bureau,bislish,SUCCESS,0,3,1,0.5
+B,archived,punctuation,SCENARIO-BB-001-bislish,Business Bureau,bislish,SUCCESS,0,5,1,0.5
+B,candidate,whitespace,SCENARIO-BB-001-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-BB-001-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-BB-001-bislish,Business Bureau,bislish,SUCCESS,0,3,1,0.5
+B,candidate,punctuation,SCENARIO-BB-001-bislish,Business Bureau,bislish,SUCCESS,0,5,1,0.5
+B,archived,whitespace,SCENARIO-BB-002-english,Business Bureau,english,SUCCESS,0,3,1,0.5
+B,archived,whitespace,SCENARIO-BB-002-english,Business Bureau,english,SUCCESS,0,5,1,0.5
+B,archived,punctuation,SCENARIO-BB-002-english,Business Bureau,english,SUCCESS,0,3,1,0.5
+B,archived,punctuation,SCENARIO-BB-002-english,Business Bureau,english,SUCCESS,0,5,1,0.5
+B,candidate,whitespace,SCENARIO-BB-002-english,Business Bureau,english,SUCCESS,0,3,1,0.5
+B,candidate,whitespace,SCENARIO-BB-002-english,Business Bureau,english,SUCCESS,0,5,1,0.5
+B,candidate,punctuation,SCENARIO-BB-002-english,Business Bureau,english,SUCCESS,0,3,1,0.5
+B,candidate,punctuation,SCENARIO-BB-002-english,Business Bureau,english,SUCCESS,0,5,1,0.5
+B,archived,whitespace,SCENARIO-BB-002-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-BB-002-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-BB-002-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-BB-002-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-BB-002-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-BB-002-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-BB-002-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-BB-002-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-BB-002-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-BB-002-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-BB-002-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-BB-002-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-BB-002-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-BB-002-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-BB-002-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-BB-002-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-BB-003-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-BB-003-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-BB-003-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-BB-003-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-BB-003-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-BB-003-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-BB-003-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-BB-003-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-BB-003-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-BB-003-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-BB-003-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-BB-003-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-BB-003-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-BB-003-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-BB-003-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-BB-003-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-BB-003-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-BB-003-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-BB-003-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-BB-003-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-BB-003-bislish,Business Bureau,bislish,SUCCESS,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-BB-003-bislish,Business Bureau,bislish,SUCCESS,0,5,1,0.25
+B,candidate,punctuation,SCENARIO-BB-003-bislish,Business Bureau,bislish,SUCCESS,0,3,0,0.0
+B,candidate,punctuation,SCENARIO-BB-003-bislish,Business Bureau,bislish,SUCCESS,0,5,1,0.25
+B,archived,whitespace,SCENARIO-BB-004-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-BB-004-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-BB-004-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-BB-004-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-BB-004-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-BB-004-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-BB-004-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-BB-004-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-BB-004-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-BB-004-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-BB-004-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-BB-004-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-BB-004-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-BB-004-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-BB-004-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-BB-004-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-BB-004-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-BB-004-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-BB-004-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-BB-004-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-BB-004-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-BB-004-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-BB-004-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-BB-004-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-BB-005-english,Business Bureau,english,SUCCESS,0,3,0,0.0
+B,archived,whitespace,SCENARIO-BB-005-english,Business Bureau,english,SUCCESS,0,5,0,0.0
+B,archived,punctuation,SCENARIO-BB-005-english,Business Bureau,english,SUCCESS,0,3,0,0.0
+B,archived,punctuation,SCENARIO-BB-005-english,Business Bureau,english,SUCCESS,0,5,0,0.0
+B,candidate,whitespace,SCENARIO-BB-005-english,Business Bureau,english,SUCCESS,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-BB-005-english,Business Bureau,english,SUCCESS,0,5,0,0.0
+B,candidate,punctuation,SCENARIO-BB-005-english,Business Bureau,english,SUCCESS,0,3,0,0.0
+B,candidate,punctuation,SCENARIO-BB-005-english,Business Bureau,english,SUCCESS,0,5,0,0.0
+B,archived,whitespace,SCENARIO-BB-005-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-BB-005-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-BB-005-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-BB-005-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-BB-005-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-BB-005-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-BB-005-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-BB-005-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-BB-005-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-BB-005-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-BB-005-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-BB-005-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-BB-005-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-BB-005-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-BB-005-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-BB-005-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-BB-006-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-BB-006-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-BB-006-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-BB-006-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-BB-006-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-BB-006-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-BB-006-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-BB-006-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-BB-006-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-BB-006-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-BB-006-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-BB-006-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-BB-006-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-BB-006-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-BB-006-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-BB-006-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-BB-006-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-BB-006-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-BB-006-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-BB-006-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-BB-006-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-BB-006-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-BB-006-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-BB-006-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-CTO-001-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-CTO-001-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-CTO-001-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-CTO-001-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-CTO-001-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-CTO-001-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-CTO-001-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-CTO-001-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-CTO-001-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,3,0,0.0
+B,archived,whitespace,SCENARIO-CTO-001-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,5,0,0.0
+B,archived,punctuation,SCENARIO-CTO-001-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,3,0,0.0
+B,archived,punctuation,SCENARIO-CTO-001-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,5,0,0.0
+B,candidate,whitespace,SCENARIO-CTO-001-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-CTO-001-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,5,0,0.0
+B,candidate,punctuation,SCENARIO-CTO-001-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,3,0,0.0
+B,candidate,punctuation,SCENARIO-CTO-001-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,5,0,0.0
+B,archived,whitespace,SCENARIO-CTO-001-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,3,0,0.0
+B,archived,whitespace,SCENARIO-CTO-001-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,5,0,0.0
+B,archived,punctuation,SCENARIO-CTO-001-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,3,0,0.0
+B,archived,punctuation,SCENARIO-CTO-001-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,5,0,0.0
+B,candidate,whitespace,SCENARIO-CTO-001-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-CTO-001-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,5,0,0.0
+B,candidate,punctuation,SCENARIO-CTO-001-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,3,0,0.0
+B,candidate,punctuation,SCENARIO-CTO-001-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,5,0,0.0
+B,archived,whitespace,SCENARIO-CTO-002-english,City Treasurer's Office,english,SUCCESS,0,3,1,0.5
+B,archived,whitespace,SCENARIO-CTO-002-english,City Treasurer's Office,english,SUCCESS,0,5,1,0.5
+B,archived,punctuation,SCENARIO-CTO-002-english,City Treasurer's Office,english,SUCCESS,0,3,1,0.5
+B,archived,punctuation,SCENARIO-CTO-002-english,City Treasurer's Office,english,SUCCESS,0,5,1,0.5
+B,candidate,whitespace,SCENARIO-CTO-002-english,City Treasurer's Office,english,SUCCESS,0,3,1,0.5
+B,candidate,whitespace,SCENARIO-CTO-002-english,City Treasurer's Office,english,SUCCESS,0,5,1,0.5
+B,candidate,punctuation,SCENARIO-CTO-002-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-CTO-002-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-CTO-002-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-CTO-002-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-CTO-002-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-CTO-002-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-CTO-002-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-CTO-002-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-CTO-002-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-CTO-002-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-CTO-002-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,0,0.0
+B,archived,whitespace,SCENARIO-CTO-002-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,0,0.0
+B,archived,punctuation,SCENARIO-CTO-002-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,0,0.0
+B,archived,punctuation,SCENARIO-CTO-002-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,0,0.0
+B,candidate,whitespace,SCENARIO-CTO-002-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-CTO-002-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,0,0.0
+B,candidate,punctuation,SCENARIO-CTO-002-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,0,0.0
+B,candidate,punctuation,SCENARIO-CTO-002-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,0,0.0
+B,archived,whitespace,SCENARIO-CTO-003-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-CTO-003-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-CTO-003-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-CTO-003-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-CTO-003-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-CTO-003-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-CTO-003-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-CTO-003-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-CTO-003-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-CTO-003-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-CTO-003-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-CTO-003-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-CTO-003-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-CTO-003-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-CTO-003-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-CTO-003-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-CTO-003-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-CTO-003-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-CTO-003-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-CTO-003-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-CTO-003-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-CTO-003-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-CTO-003-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-CTO-003-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-CTO-004-english,City Treasurer's Office,english,SUCCESS,0,3,1,0.5
+B,archived,whitespace,SCENARIO-CTO-004-english,City Treasurer's Office,english,SUCCESS,0,5,1,0.5
+B,archived,punctuation,SCENARIO-CTO-004-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-CTO-004-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-CTO-004-english,City Treasurer's Office,english,SUCCESS,0,3,1,0.5
+B,candidate,whitespace,SCENARIO-CTO-004-english,City Treasurer's Office,english,SUCCESS,0,5,1,0.5
+B,candidate,punctuation,SCENARIO-CTO-004-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-CTO-004-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-CTO-004-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-CTO-004-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-CTO-004-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-CTO-004-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-CTO-004-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-CTO-004-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-CTO-004-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-CTO-004-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-CTO-004-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-CTO-004-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-CTO-004-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-CTO-004-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-CTO-004-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-CTO-004-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-CTO-004-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-CTO-004-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-CTO-005-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-CTO-005-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-CTO-005-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-CTO-005-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-CTO-005-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-CTO-005-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-CTO-005-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-CTO-005-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-CTO-005-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-CTO-005-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-CTO-005-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-CTO-005-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-CTO-005-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-CTO-005-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-CTO-005-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,0.5
+B,candidate,punctuation,SCENARIO-CTO-005-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,0.5
+B,archived,whitespace,SCENARIO-CTO-005-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,3,0,0.0
+B,archived,whitespace,SCENARIO-CTO-005-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,5,0,0.0
+B,archived,punctuation,SCENARIO-CTO-005-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,3,0,0.0
+B,archived,punctuation,SCENARIO-CTO-005-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,5,0,0.0
+B,candidate,whitespace,SCENARIO-CTO-005-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-CTO-005-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,5,0,0.0
+B,candidate,punctuation,SCENARIO-CTO-005-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,3,0,0.0
+B,candidate,punctuation,SCENARIO-CTO-005-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,5,0,0.0
+B,archived,whitespace,SCENARIO-CTO-006-english,City Treasurer's Office,english,FALLBACK_TRIGGERED,0,3,0,0.0
+B,archived,whitespace,SCENARIO-CTO-006-english,City Treasurer's Office,english,FALLBACK_TRIGGERED,0,5,0,0.0
+B,archived,punctuation,SCENARIO-CTO-006-english,City Treasurer's Office,english,FALLBACK_TRIGGERED,0,3,0,0.0
+B,archived,punctuation,SCENARIO-CTO-006-english,City Treasurer's Office,english,FALLBACK_TRIGGERED,0,5,0,0.0
+B,candidate,whitespace,SCENARIO-CTO-006-english,City Treasurer's Office,english,FALLBACK_TRIGGERED,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-CTO-006-english,City Treasurer's Office,english,FALLBACK_TRIGGERED,0,5,0,0.0
+B,candidate,punctuation,SCENARIO-CTO-006-english,City Treasurer's Office,english,FALLBACK_TRIGGERED,0,3,0,0.0
+B,candidate,punctuation,SCENARIO-CTO-006-english,City Treasurer's Office,english,FALLBACK_TRIGGERED,0,5,0,0.0
+B,archived,whitespace,SCENARIO-CTO-006-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,3,0,0.0
+B,archived,whitespace,SCENARIO-CTO-006-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,5,0,0.0
+B,archived,punctuation,SCENARIO-CTO-006-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,3,0,0.0
+B,archived,punctuation,SCENARIO-CTO-006-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,5,0,0.0
+B,candidate,whitespace,SCENARIO-CTO-006-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-CTO-006-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,5,0,0.0
+B,candidate,punctuation,SCENARIO-CTO-006-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,3,0,0.0
+B,candidate,punctuation,SCENARIO-CTO-006-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,5,0,0.0
+B,archived,whitespace,SCENARIO-CTO-006-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,3,0,0.0
+B,archived,whitespace,SCENARIO-CTO-006-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,5,0,0.0
+B,archived,punctuation,SCENARIO-CTO-006-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,3,0,0.0
+B,archived,punctuation,SCENARIO-CTO-006-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,5,0,0.0
+B,candidate,whitespace,SCENARIO-CTO-006-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-CTO-006-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,5,0,0.0
+B,candidate,punctuation,SCENARIO-CTO-006-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,3,0,0.0
+B,candidate,punctuation,SCENARIO-CTO-006-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,5,0,0.0
+B,archived,whitespace,SCENARIO-OCBO-001-english,Office of the City Building Official,english,SUCCESS,0,3,0,0.0
+B,archived,whitespace,SCENARIO-OCBO-001-english,Office of the City Building Official,english,SUCCESS,0,5,0,0.0
+B,archived,punctuation,SCENARIO-OCBO-001-english,Office of the City Building Official,english,SUCCESS,0,3,0,0.0
+B,archived,punctuation,SCENARIO-OCBO-001-english,Office of the City Building Official,english,SUCCESS,0,5,0,0.0
+B,candidate,whitespace,SCENARIO-OCBO-001-english,Office of the City Building Official,english,SUCCESS,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-OCBO-001-english,Office of the City Building Official,english,SUCCESS,0,5,0,0.0
+B,candidate,punctuation,SCENARIO-OCBO-001-english,Office of the City Building Official,english,SUCCESS,0,3,0,0.0
+B,candidate,punctuation,SCENARIO-OCBO-001-english,Office of the City Building Official,english,SUCCESS,0,5,0,0.0
+B,archived,whitespace,SCENARIO-OCBO-001-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,0,0.0
+B,archived,whitespace,SCENARIO-OCBO-001-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,0,0.0
+B,archived,punctuation,SCENARIO-OCBO-001-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,0,0.0
+B,archived,punctuation,SCENARIO-OCBO-001-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,0,0.0
+B,candidate,whitespace,SCENARIO-OCBO-001-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-OCBO-001-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,0,0.0
+B,candidate,punctuation,SCENARIO-OCBO-001-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,0,0.0
+B,candidate,punctuation,SCENARIO-OCBO-001-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,0,0.0
+B,archived,whitespace,SCENARIO-OCBO-001-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,0,0.0
+B,archived,whitespace,SCENARIO-OCBO-001-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,0,0.0
+B,archived,punctuation,SCENARIO-OCBO-001-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,0,0.0
+B,archived,punctuation,SCENARIO-OCBO-001-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,0,0.0
+B,candidate,whitespace,SCENARIO-OCBO-001-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-OCBO-001-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,0,0.0
+B,candidate,punctuation,SCENARIO-OCBO-001-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,0,0.0
+B,candidate,punctuation,SCENARIO-OCBO-001-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,0,0.0
+B,archived,whitespace,SCENARIO-OCBO-002-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-OCBO-002-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-OCBO-002-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-OCBO-002-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-OCBO-002-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-OCBO-002-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-OCBO-002-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-OCBO-002-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-OCBO-002-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,0,0.0
+B,archived,whitespace,SCENARIO-OCBO-002-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,0,0.0
+B,archived,punctuation,SCENARIO-OCBO-002-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,0,0.0
+B,archived,punctuation,SCENARIO-OCBO-002-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,0.25
+B,candidate,whitespace,SCENARIO-OCBO-002-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-OCBO-002-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,0,0.0
+B,candidate,punctuation,SCENARIO-OCBO-002-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,0.5
+B,candidate,punctuation,SCENARIO-OCBO-002-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,0.5
+B,archived,whitespace,SCENARIO-OCBO-002-bislish,Office of the City Building Official,bislish,SUCCESS,1,3,0,0.0
+B,archived,whitespace,SCENARIO-OCBO-002-bislish,Office of the City Building Official,bislish,SUCCESS,1,5,0,0.0
+B,archived,punctuation,SCENARIO-OCBO-002-bislish,Office of the City Building Official,bislish,SUCCESS,1,3,0,0.0
+B,archived,punctuation,SCENARIO-OCBO-002-bislish,Office of the City Building Official,bislish,SUCCESS,1,5,0,0.0
+B,candidate,whitespace,SCENARIO-OCBO-002-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-OCBO-002-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,0,0.0
+B,candidate,punctuation,SCENARIO-OCBO-002-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,0,0.0
+B,candidate,punctuation,SCENARIO-OCBO-002-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,0,0.0
+B,archived,whitespace,SCENARIO-OCBO-003-english,Office of the City Building Official,english,SUCCESS,0,3,1,0.5
+B,archived,whitespace,SCENARIO-OCBO-003-english,Office of the City Building Official,english,SUCCESS,0,5,1,0.5
+B,archived,punctuation,SCENARIO-OCBO-003-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-OCBO-003-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-OCBO-003-english,Office of the City Building Official,english,SUCCESS,0,3,1,0.5
+B,candidate,whitespace,SCENARIO-OCBO-003-english,Office of the City Building Official,english,SUCCESS,0,5,1,0.5
+B,candidate,punctuation,SCENARIO-OCBO-003-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-OCBO-003-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-OCBO-003-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-OCBO-003-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-OCBO-003-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-OCBO-003-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-OCBO-003-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-OCBO-003-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-OCBO-003-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-OCBO-003-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-OCBO-003-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-OCBO-003-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-OCBO-003-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-OCBO-003-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-OCBO-003-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-OCBO-003-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-OCBO-003-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-OCBO-003-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-OCBO-004-english,Office of the City Building Official,english,SUCCESS,0,3,1,0.5
+B,archived,whitespace,SCENARIO-OCBO-004-english,Office of the City Building Official,english,SUCCESS,0,5,1,0.5
+B,archived,punctuation,SCENARIO-OCBO-004-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-OCBO-004-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-OCBO-004-english,Office of the City Building Official,english,SUCCESS,0,3,1,0.5
+B,candidate,whitespace,SCENARIO-OCBO-004-english,Office of the City Building Official,english,SUCCESS,0,5,1,0.5
+B,candidate,punctuation,SCENARIO-OCBO-004-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-OCBO-004-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-OCBO-004-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-OCBO-004-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-OCBO-004-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-OCBO-004-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-OCBO-004-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-OCBO-004-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-OCBO-004-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-OCBO-004-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-OCBO-004-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-OCBO-004-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-OCBO-004-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-OCBO-004-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-OCBO-004-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-OCBO-004-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-OCBO-004-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-OCBO-004-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-OCBO-005-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-OCBO-005-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-OCBO-005-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-OCBO-005-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-OCBO-005-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-OCBO-005-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-OCBO-005-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-OCBO-005-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-OCBO-005-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-OCBO-005-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-OCBO-005-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-OCBO-005-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-OCBO-005-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-OCBO-005-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-OCBO-005-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-OCBO-005-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-OCBO-005-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-OCBO-005-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-OCBO-005-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-OCBO-005-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-OCBO-005-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-OCBO-005-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-OCBO-005-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-OCBO-005-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-OCBO-006-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-OCBO-006-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-OCBO-006-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-OCBO-006-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-OCBO-006-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-OCBO-006-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-OCBO-006-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-OCBO-006-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-OCBO-006-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-OCBO-006-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-OCBO-006-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-OCBO-006-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-OCBO-006-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-OCBO-006-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-OCBO-006-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-OCBO-006-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-OCBO-006-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,0.5
+B,archived,whitespace,SCENARIO-OCBO-006-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,0.5
+B,archived,punctuation,SCENARIO-OCBO-006-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-OCBO-006-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-OCBO-006-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,0.5
+B,candidate,whitespace,SCENARIO-OCBO-006-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,0.5
+B,candidate,punctuation,SCENARIO-OCBO-006-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-OCBO-006-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-CPDO-001-english,City Planning and Development Office,english,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-CPDO-001-english,City Planning and Development Office,english,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-CPDO-001-english,City Planning and Development Office,english,SUCCESS,0,3,0,0.0
+B,archived,punctuation,SCENARIO-CPDO-001-english,City Planning and Development Office,english,SUCCESS,0,5,1,0.25
+B,candidate,whitespace,SCENARIO-CPDO-001-english,City Planning and Development Office,english,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-CPDO-001-english,City Planning and Development Office,english,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-CPDO-001-english,City Planning and Development Office,english,SUCCESS,0,3,0,0.0
+B,candidate,punctuation,SCENARIO-CPDO-001-english,City Planning and Development Office,english,SUCCESS,0,5,1,0.25
+B,archived,whitespace,SCENARIO-CPDO-001-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+B,archived,whitespace,SCENARIO-CPDO-001-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+B,archived,punctuation,SCENARIO-CPDO-001-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+B,archived,punctuation,SCENARIO-CPDO-001-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,0.25
+B,candidate,whitespace,SCENARIO-CPDO-001-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-CPDO-001-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+B,candidate,punctuation,SCENARIO-CPDO-001-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+B,candidate,punctuation,SCENARIO-CPDO-001-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,0.25
+B,archived,whitespace,SCENARIO-CPDO-001-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+B,archived,whitespace,SCENARIO-CPDO-001-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,0,0.0
+B,archived,punctuation,SCENARIO-CPDO-001-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,0.5
+B,archived,punctuation,SCENARIO-CPDO-001-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,0.5
+B,candidate,whitespace,SCENARIO-CPDO-001-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-CPDO-001-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,0,0.0
+B,candidate,punctuation,SCENARIO-CPDO-001-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,0.5
+B,candidate,punctuation,SCENARIO-CPDO-001-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,0.5
+B,archived,whitespace,SCENARIO-CPDO-002-english,City Planning and Development Office,english,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-CPDO-002-english,City Planning and Development Office,english,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-CPDO-002-english,City Planning and Development Office,english,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-CPDO-002-english,City Planning and Development Office,english,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-CPDO-002-english,City Planning and Development Office,english,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-CPDO-002-english,City Planning and Development Office,english,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-CPDO-002-english,City Planning and Development Office,english,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-CPDO-002-english,City Planning and Development Office,english,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-CPDO-002-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-CPDO-002-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-CPDO-002-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-CPDO-002-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-CPDO-002-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-CPDO-002-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-CPDO-002-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-CPDO-002-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-CPDO-002-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-CPDO-002-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-CPDO-002-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-CPDO-002-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-CPDO-002-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-CPDO-002-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-CPDO-002-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-CPDO-002-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-CPDO-003-english,City Planning and Development Office,english,SUCCESS,0,3,1,0.3333333333333333
+B,archived,whitespace,SCENARIO-CPDO-003-english,City Planning and Development Office,english,SUCCESS,0,5,1,0.3333333333333333
+B,archived,punctuation,SCENARIO-CPDO-003-english,City Planning and Development Office,english,SUCCESS,0,3,1,0.5
+B,archived,punctuation,SCENARIO-CPDO-003-english,City Planning and Development Office,english,SUCCESS,0,5,1,0.5
+B,candidate,whitespace,SCENARIO-CPDO-003-english,City Planning and Development Office,english,SUCCESS,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-CPDO-003-english,City Planning and Development Office,english,SUCCESS,0,5,1,0.25
+B,candidate,punctuation,SCENARIO-CPDO-003-english,City Planning and Development Office,english,SUCCESS,0,3,0,0.0
+B,candidate,punctuation,SCENARIO-CPDO-003-english,City Planning and Development Office,english,SUCCESS,0,5,1,0.25
+B,archived,whitespace,SCENARIO-CPDO-003-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-CPDO-003-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-CPDO-003-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,1,0.5
+B,archived,punctuation,SCENARIO-CPDO-003-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,0.5
+B,candidate,whitespace,SCENARIO-CPDO-003-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-CPDO-003-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-CPDO-003-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,1,0.5
+B,candidate,punctuation,SCENARIO-CPDO-003-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,0.5
+B,archived,whitespace,SCENARIO-CPDO-003-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-CPDO-003-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-CPDO-003-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,0.5
+B,archived,punctuation,SCENARIO-CPDO-003-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,0.5
+B,candidate,whitespace,SCENARIO-CPDO-003-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-CPDO-003-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-CPDO-003-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,0.5
+B,candidate,punctuation,SCENARIO-CPDO-003-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,0.5
+B,archived,whitespace,SCENARIO-CPDO-004-english,City Planning and Development Office,english,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-CPDO-004-english,City Planning and Development Office,english,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-CPDO-004-english,City Planning and Development Office,english,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-CPDO-004-english,City Planning and Development Office,english,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-CPDO-004-english,City Planning and Development Office,english,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-CPDO-004-english,City Planning and Development Office,english,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-CPDO-004-english,City Planning and Development Office,english,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-CPDO-004-english,City Planning and Development Office,english,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-CPDO-004-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+B,archived,whitespace,SCENARIO-CPDO-004-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+B,archived,punctuation,SCENARIO-CPDO-004-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+B,archived,punctuation,SCENARIO-CPDO-004-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+B,candidate,whitespace,SCENARIO-CPDO-004-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-CPDO-004-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+B,candidate,punctuation,SCENARIO-CPDO-004-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+B,candidate,punctuation,SCENARIO-CPDO-004-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+B,archived,whitespace,SCENARIO-CPDO-004-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+B,archived,whitespace,SCENARIO-CPDO-004-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,0,0.0
+B,archived,punctuation,SCENARIO-CPDO-004-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,0.5
+B,archived,punctuation,SCENARIO-CPDO-004-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,0.5
+B,candidate,whitespace,SCENARIO-CPDO-004-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-CPDO-004-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,0,0.0
+B,candidate,punctuation,SCENARIO-CPDO-004-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+B,candidate,punctuation,SCENARIO-CPDO-004-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,0,0.0
+B,archived,whitespace,SCENARIO-CPDO-005-english,City Planning and Development Office,english,SUCCESS,0,3,0,0.0
+B,archived,whitespace,SCENARIO-CPDO-005-english,City Planning and Development Office,english,SUCCESS,0,5,0,0.0
+B,archived,punctuation,SCENARIO-CPDO-005-english,City Planning and Development Office,english,SUCCESS,0,3,0,0.0
+B,archived,punctuation,SCENARIO-CPDO-005-english,City Planning and Development Office,english,SUCCESS,0,5,0,0.0
+B,candidate,whitespace,SCENARIO-CPDO-005-english,City Planning and Development Office,english,SUCCESS,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-CPDO-005-english,City Planning and Development Office,english,SUCCESS,0,5,0,0.0
+B,candidate,punctuation,SCENARIO-CPDO-005-english,City Planning and Development Office,english,SUCCESS,0,3,0,0.0
+B,candidate,punctuation,SCENARIO-CPDO-005-english,City Planning and Development Office,english,SUCCESS,0,5,0,0.0
+B,archived,whitespace,SCENARIO-CPDO-005-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+B,archived,whitespace,SCENARIO-CPDO-005-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+B,archived,punctuation,SCENARIO-CPDO-005-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+B,archived,punctuation,SCENARIO-CPDO-005-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+B,candidate,whitespace,SCENARIO-CPDO-005-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-CPDO-005-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+B,candidate,punctuation,SCENARIO-CPDO-005-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+B,candidate,punctuation,SCENARIO-CPDO-005-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+B,archived,whitespace,SCENARIO-CPDO-005-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+B,archived,whitespace,SCENARIO-CPDO-005-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,0,0.0
+B,archived,punctuation,SCENARIO-CPDO-005-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+B,archived,punctuation,SCENARIO-CPDO-005-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,0,0.0
+B,candidate,whitespace,SCENARIO-CPDO-005-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-CPDO-005-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,0,0.0
+B,candidate,punctuation,SCENARIO-CPDO-005-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+B,candidate,punctuation,SCENARIO-CPDO-005-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,0,0.0
+B,archived,whitespace,SCENARIO-CPDO-006-english,City Planning and Development Office,english,SUCCESS,0,3,1,0.5
+B,archived,whitespace,SCENARIO-CPDO-006-english,City Planning and Development Office,english,SUCCESS,0,5,1,0.5
+B,archived,punctuation,SCENARIO-CPDO-006-english,City Planning and Development Office,english,SUCCESS,0,3,1,0.3333333333333333
+B,archived,punctuation,SCENARIO-CPDO-006-english,City Planning and Development Office,english,SUCCESS,0,5,1,0.3333333333333333
+B,candidate,whitespace,SCENARIO-CPDO-006-english,City Planning and Development Office,english,SUCCESS,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-CPDO-006-english,City Planning and Development Office,english,SUCCESS,0,5,0,0.0
+B,candidate,punctuation,SCENARIO-CPDO-006-english,City Planning and Development Office,english,SUCCESS,0,3,0,0.0
+B,candidate,punctuation,SCENARIO-CPDO-006-english,City Planning and Development Office,english,SUCCESS,0,5,1,0.25
+B,archived,whitespace,SCENARIO-CPDO-006-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+B,archived,whitespace,SCENARIO-CPDO-006-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+B,archived,punctuation,SCENARIO-CPDO-006-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+B,archived,punctuation,SCENARIO-CPDO-006-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+B,candidate,whitespace,SCENARIO-CPDO-006-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-CPDO-006-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+B,candidate,punctuation,SCENARIO-CPDO-006-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+B,candidate,punctuation,SCENARIO-CPDO-006-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+B,archived,whitespace,SCENARIO-CPDO-006-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+B,archived,whitespace,SCENARIO-CPDO-006-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,0,0.0
+B,archived,punctuation,SCENARIO-CPDO-006-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+B,archived,punctuation,SCENARIO-CPDO-006-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,0.2
+B,candidate,whitespace,SCENARIO-CPDO-006-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-CPDO-006-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,0,0.0
+B,candidate,punctuation,SCENARIO-CPDO-006-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+B,candidate,punctuation,SCENARIO-CPDO-006-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,0,0.0
+B,archived,whitespace,SCENARIO-BFP-001-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,0.3333333333333333
+B,archived,whitespace,SCENARIO-BFP-001-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,0.3333333333333333
+B,archived,punctuation,SCENARIO-BFP-001-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-BFP-001-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-BFP-001-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,0.5
+B,candidate,whitespace,SCENARIO-BFP-001-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,0.5
+B,candidate,punctuation,SCENARIO-BFP-001-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,0.5
+B,candidate,punctuation,SCENARIO-BFP-001-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,0.5
+B,archived,whitespace,SCENARIO-BFP-001-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,0.3333333333333333
+B,archived,whitespace,SCENARIO-BFP-001-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,0.3333333333333333
+B,archived,punctuation,SCENARIO-BFP-001-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,0.5
+B,archived,punctuation,SCENARIO-BFP-001-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,0.5
+B,candidate,whitespace,SCENARIO-BFP-001-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-BFP-001-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,0,0.0
+B,candidate,punctuation,SCENARIO-BFP-001-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,0,0.0
+B,candidate,punctuation,SCENARIO-BFP-001-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,0.2
+B,archived,whitespace,SCENARIO-BFP-001-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,0,0.0
+B,archived,whitespace,SCENARIO-BFP-001-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,0.25
+B,archived,punctuation,SCENARIO-BFP-001-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,0,0.0
+B,archived,punctuation,SCENARIO-BFP-001-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,0.2
+B,candidate,whitespace,SCENARIO-BFP-001-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,0.3333333333333333
+B,candidate,whitespace,SCENARIO-BFP-001-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,0.3333333333333333
+B,candidate,punctuation,SCENARIO-BFP-001-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-BFP-001-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-BFP-002-english,Bureau of Fire Protection,english,SUCCESS,0,3,0,0.0
+B,archived,whitespace,SCENARIO-BFP-002-english,Bureau of Fire Protection,english,SUCCESS,0,5,0,0.0
+B,archived,punctuation,SCENARIO-BFP-002-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-BFP-002-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-BFP-002-english,Bureau of Fire Protection,english,SUCCESS,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-BFP-002-english,Bureau of Fire Protection,english,SUCCESS,0,5,0,0.0
+B,candidate,punctuation,SCENARIO-BFP-002-english,Bureau of Fire Protection,english,SUCCESS,0,3,0,0.0
+B,candidate,punctuation,SCENARIO-BFP-002-english,Bureau of Fire Protection,english,SUCCESS,0,5,0,0.0
+B,archived,whitespace,SCENARIO-BFP-002-taglish,Bureau of Fire Protection,taglish,SUCCESS,1,3,0,0.0
+B,archived,whitespace,SCENARIO-BFP-002-taglish,Bureau of Fire Protection,taglish,SUCCESS,1,5,0,0.0
+B,archived,punctuation,SCENARIO-BFP-002-taglish,Bureau of Fire Protection,taglish,SUCCESS,1,3,0,0.0
+B,archived,punctuation,SCENARIO-BFP-002-taglish,Bureau of Fire Protection,taglish,SUCCESS,1,5,0,0.0
+B,candidate,whitespace,SCENARIO-BFP-002-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-BFP-002-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,0,0.0
+B,candidate,punctuation,SCENARIO-BFP-002-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,0.3333333333333333
+B,candidate,punctuation,SCENARIO-BFP-002-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,0.3333333333333333
+B,archived,whitespace,SCENARIO-BFP-002-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,0,0.0
+B,archived,whitespace,SCENARIO-BFP-002-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,0,0.0
+B,archived,punctuation,SCENARIO-BFP-002-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,0,0.0
+B,archived,punctuation,SCENARIO-BFP-002-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,0,0.0
+B,candidate,whitespace,SCENARIO-BFP-002-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-BFP-002-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,0,0.0
+B,candidate,punctuation,SCENARIO-BFP-002-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,0,0.0
+B,candidate,punctuation,SCENARIO-BFP-002-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,0,0.0
+B,archived,whitespace,SCENARIO-BFP-003-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-BFP-003-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-BFP-003-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,0.5
+B,archived,punctuation,SCENARIO-BFP-003-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,0.5
+B,candidate,whitespace,SCENARIO-BFP-003-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-BFP-003-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-BFP-003-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,0.5
+B,candidate,punctuation,SCENARIO-BFP-003-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,0.5
+B,archived,whitespace,SCENARIO-BFP-003-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-BFP-003-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-BFP-003-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-BFP-003-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-BFP-003-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-BFP-003-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-BFP-003-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-BFP-003-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-BFP-003-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-BFP-003-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-BFP-003-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-BFP-003-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-BFP-003-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-BFP-003-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-BFP-003-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-BFP-003-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-BFP-004-english,Bureau of Fire Protection,english,SUCCESS,0,3,0,0.0
+B,archived,whitespace,SCENARIO-BFP-004-english,Bureau of Fire Protection,english,SUCCESS,0,5,0,0.0
+B,archived,punctuation,SCENARIO-BFP-004-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-BFP-004-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-BFP-004-english,Bureau of Fire Protection,english,SUCCESS,0,3,0,0.0
+B,candidate,whitespace,SCENARIO-BFP-004-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,0.2
+B,candidate,punctuation,SCENARIO-BFP-004-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-BFP-004-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-BFP-004-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-BFP-004-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-BFP-004-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-BFP-004-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-BFP-004-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-BFP-004-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-BFP-004-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-BFP-004-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-BFP-004-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,0.5
+B,archived,whitespace,SCENARIO-BFP-004-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,0.5
+B,archived,punctuation,SCENARIO-BFP-004-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-BFP-004-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-BFP-004-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-BFP-004-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-BFP-004-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-BFP-004-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-BFP-005-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-BFP-005-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-BFP-005-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-BFP-005-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-BFP-005-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-BFP-005-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-BFP-005-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-BFP-005-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-BFP-005-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-BFP-005-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-BFP-005-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-BFP-005-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-BFP-005-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-BFP-005-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-BFP-005-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-BFP-005-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-BFP-005-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-BFP-005-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-BFP-005-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-BFP-005-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-BFP-005-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-BFP-005-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-BFP-005-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-BFP-005-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-BFP-006-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-BFP-006-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-BFP-006-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-BFP-006-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-BFP-006-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-BFP-006-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-BFP-006-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-BFP-006-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-BFP-006-taglish,Bureau of Fire Protection,taglish,SUCCESS,1,3,1,0.5
+B,archived,whitespace,SCENARIO-BFP-006-taglish,Bureau of Fire Protection,taglish,SUCCESS,1,5,1,0.5
+B,archived,punctuation,SCENARIO-BFP-006-taglish,Bureau of Fire Protection,taglish,SUCCESS,1,3,1,0.3333333333333333
+B,archived,punctuation,SCENARIO-BFP-006-taglish,Bureau of Fire Protection,taglish,SUCCESS,1,5,1,0.3333333333333333
+B,candidate,whitespace,SCENARIO-BFP-006-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,0.5
+B,candidate,whitespace,SCENARIO-BFP-006-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,0.5
+B,candidate,punctuation,SCENARIO-BFP-006-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-BFP-006-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,1.0
+B,archived,whitespace,SCENARIO-BFP-006-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+B,archived,whitespace,SCENARIO-BFP-006-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+B,archived,punctuation,SCENARIO-BFP-006-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+B,archived,punctuation,SCENARIO-BFP-006-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+B,candidate,whitespace,SCENARIO-BFP-006-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+B,candidate,whitespace,SCENARIO-BFP-006-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+B,candidate,punctuation,SCENARIO-BFP-006-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+B,candidate,punctuation,SCENARIO-BFP-006-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-BB-001-english,Business Bureau,english,SUCCESS,0,3,1,0.5
+C,archived,whitespace,SCENARIO-BB-001-english,Business Bureau,english,SUCCESS,0,5,1,0.5
+C,archived,punctuation,SCENARIO-BB-001-english,Business Bureau,english,SUCCESS,0,3,1,0.5
+C,archived,punctuation,SCENARIO-BB-001-english,Business Bureau,english,SUCCESS,0,5,1,0.5
+C,candidate,whitespace,SCENARIO-BB-001-english,Business Bureau,english,SUCCESS,0,3,1,0.5
+C,candidate,whitespace,SCENARIO-BB-001-english,Business Bureau,english,SUCCESS,0,5,1,0.5
+C,candidate,punctuation,SCENARIO-BB-001-english,Business Bureau,english,SUCCESS,0,3,1,0.5
+C,candidate,punctuation,SCENARIO-BB-001-english,Business Bureau,english,SUCCESS,0,5,1,0.5
+C,archived,whitespace,SCENARIO-BB-001-taglish,Business Bureau,taglish,SUCCESS,0,3,1,0.5
+C,archived,whitespace,SCENARIO-BB-001-taglish,Business Bureau,taglish,SUCCESS,0,5,1,0.5
+C,archived,punctuation,SCENARIO-BB-001-taglish,Business Bureau,taglish,SUCCESS,0,3,1,0.5
+C,archived,punctuation,SCENARIO-BB-001-taglish,Business Bureau,taglish,SUCCESS,0,5,1,0.5
+C,candidate,whitespace,SCENARIO-BB-001-taglish,Business Bureau,taglish,SUCCESS,0,3,1,0.5
+C,candidate,whitespace,SCENARIO-BB-001-taglish,Business Bureau,taglish,SUCCESS,0,5,1,0.5
+C,candidate,punctuation,SCENARIO-BB-001-taglish,Business Bureau,taglish,SUCCESS,0,3,1,0.5
+C,candidate,punctuation,SCENARIO-BB-001-taglish,Business Bureau,taglish,SUCCESS,0,5,1,0.5
+C,archived,whitespace,SCENARIO-BB-001-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-BB-001-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-BB-001-bislish,Business Bureau,bislish,SUCCESS,0,3,1,0.5
+C,archived,punctuation,SCENARIO-BB-001-bislish,Business Bureau,bislish,SUCCESS,0,5,1,0.5
+C,candidate,whitespace,SCENARIO-BB-001-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-BB-001-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-BB-001-bislish,Business Bureau,bislish,SUCCESS,0,3,1,0.5
+C,candidate,punctuation,SCENARIO-BB-001-bislish,Business Bureau,bislish,SUCCESS,0,5,1,0.5
+C,archived,whitespace,SCENARIO-BB-002-english,Business Bureau,english,SUCCESS,0,3,1,0.5
+C,archived,whitespace,SCENARIO-BB-002-english,Business Bureau,english,SUCCESS,0,5,1,0.5
+C,archived,punctuation,SCENARIO-BB-002-english,Business Bureau,english,SUCCESS,0,3,1,0.3333333333333333
+C,archived,punctuation,SCENARIO-BB-002-english,Business Bureau,english,SUCCESS,0,5,1,0.3333333333333333
+C,candidate,whitespace,SCENARIO-BB-002-english,Business Bureau,english,SUCCESS,0,3,1,0.5
+C,candidate,whitespace,SCENARIO-BB-002-english,Business Bureau,english,SUCCESS,0,5,1,0.5
+C,candidate,punctuation,SCENARIO-BB-002-english,Business Bureau,english,SUCCESS,0,3,1,0.3333333333333333
+C,candidate,punctuation,SCENARIO-BB-002-english,Business Bureau,english,SUCCESS,0,5,1,0.3333333333333333
+C,archived,whitespace,SCENARIO-BB-002-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-BB-002-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-BB-002-taglish,Business Bureau,taglish,SUCCESS,0,3,1,0.5
+C,archived,punctuation,SCENARIO-BB-002-taglish,Business Bureau,taglish,SUCCESS,0,5,1,0.5
+C,candidate,whitespace,SCENARIO-BB-002-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-BB-002-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-BB-002-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-BB-002-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-BB-002-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-BB-002-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-BB-002-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-BB-002-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-BB-002-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-BB-002-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-BB-002-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-BB-002-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-BB-003-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-BB-003-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-BB-003-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-BB-003-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-BB-003-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-BB-003-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-BB-003-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-BB-003-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-BB-003-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-BB-003-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-BB-003-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-BB-003-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-BB-003-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-BB-003-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-BB-003-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-BB-003-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-BB-003-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-BB-003-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-BB-003-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-BB-003-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-BB-003-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-BB-003-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-BB-003-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-BB-003-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-BB-004-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-BB-004-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-BB-004-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-BB-004-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-BB-004-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-BB-004-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-BB-004-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-BB-004-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-BB-004-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-BB-004-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-BB-004-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-BB-004-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-BB-004-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-BB-004-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-BB-004-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-BB-004-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-BB-004-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-BB-004-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-BB-004-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-BB-004-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-BB-004-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-BB-004-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-BB-004-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-BB-004-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-BB-005-english,Business Bureau,english,SUCCESS,0,3,0,0.0
+C,archived,whitespace,SCENARIO-BB-005-english,Business Bureau,english,SUCCESS,0,5,0,0.0
+C,archived,punctuation,SCENARIO-BB-005-english,Business Bureau,english,SUCCESS,0,3,0,0.0
+C,archived,punctuation,SCENARIO-BB-005-english,Business Bureau,english,SUCCESS,0,5,0,0.0
+C,candidate,whitespace,SCENARIO-BB-005-english,Business Bureau,english,SUCCESS,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-BB-005-english,Business Bureau,english,SUCCESS,0,5,0,0.0
+C,candidate,punctuation,SCENARIO-BB-005-english,Business Bureau,english,SUCCESS,0,3,0,0.0
+C,candidate,punctuation,SCENARIO-BB-005-english,Business Bureau,english,SUCCESS,0,5,0,0.0
+C,archived,whitespace,SCENARIO-BB-005-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-BB-005-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-BB-005-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-BB-005-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-BB-005-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-BB-005-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-BB-005-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-BB-005-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-BB-005-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-BB-005-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-BB-005-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-BB-005-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-BB-005-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-BB-005-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-BB-005-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-BB-005-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-BB-006-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-BB-006-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-BB-006-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-BB-006-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-BB-006-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-BB-006-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-BB-006-english,Business Bureau,english,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-BB-006-english,Business Bureau,english,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-BB-006-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-BB-006-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-BB-006-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-BB-006-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-BB-006-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-BB-006-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-BB-006-taglish,Business Bureau,taglish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-BB-006-taglish,Business Bureau,taglish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-BB-006-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-BB-006-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-BB-006-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-BB-006-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-BB-006-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-BB-006-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-BB-006-bislish,Business Bureau,bislish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-BB-006-bislish,Business Bureau,bislish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-CTO-001-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-CTO-001-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-CTO-001-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-CTO-001-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-CTO-001-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-CTO-001-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-CTO-001-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-CTO-001-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-CTO-001-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,3,0,0.0
+C,archived,whitespace,SCENARIO-CTO-001-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,5,0,0.0
+C,archived,punctuation,SCENARIO-CTO-001-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,3,0,0.0
+C,archived,punctuation,SCENARIO-CTO-001-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,5,0,0.0
+C,candidate,whitespace,SCENARIO-CTO-001-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-CTO-001-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,5,0,0.0
+C,candidate,punctuation,SCENARIO-CTO-001-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,3,0,0.0
+C,candidate,punctuation,SCENARIO-CTO-001-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,5,0,0.0
+C,archived,whitespace,SCENARIO-CTO-001-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,3,0,0.0
+C,archived,whitespace,SCENARIO-CTO-001-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,5,0,0.0
+C,archived,punctuation,SCENARIO-CTO-001-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,3,0,0.0
+C,archived,punctuation,SCENARIO-CTO-001-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,5,0,0.0
+C,candidate,whitespace,SCENARIO-CTO-001-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-CTO-001-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,5,0,0.0
+C,candidate,punctuation,SCENARIO-CTO-001-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,3,0,0.0
+C,candidate,punctuation,SCENARIO-CTO-001-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,5,0,0.0
+C,archived,whitespace,SCENARIO-CTO-002-english,City Treasurer's Office,english,SUCCESS,0,3,1,0.5
+C,archived,whitespace,SCENARIO-CTO-002-english,City Treasurer's Office,english,SUCCESS,0,5,1,0.5
+C,archived,punctuation,SCENARIO-CTO-002-english,City Treasurer's Office,english,SUCCESS,0,3,1,0.5
+C,archived,punctuation,SCENARIO-CTO-002-english,City Treasurer's Office,english,SUCCESS,0,5,1,0.5
+C,candidate,whitespace,SCENARIO-CTO-002-english,City Treasurer's Office,english,SUCCESS,0,3,1,0.5
+C,candidate,whitespace,SCENARIO-CTO-002-english,City Treasurer's Office,english,SUCCESS,0,5,1,0.5
+C,candidate,punctuation,SCENARIO-CTO-002-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-CTO-002-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-CTO-002-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-CTO-002-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-CTO-002-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-CTO-002-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-CTO-002-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-CTO-002-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-CTO-002-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-CTO-002-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-CTO-002-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,0,0.0
+C,archived,whitespace,SCENARIO-CTO-002-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,0,0.0
+C,archived,punctuation,SCENARIO-CTO-002-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,0,0.0
+C,archived,punctuation,SCENARIO-CTO-002-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,0,0.0
+C,candidate,whitespace,SCENARIO-CTO-002-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-CTO-002-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,0,0.0
+C,candidate,punctuation,SCENARIO-CTO-002-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,0,0.0
+C,candidate,punctuation,SCENARIO-CTO-002-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,0,0.0
+C,archived,whitespace,SCENARIO-CTO-003-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-CTO-003-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-CTO-003-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-CTO-003-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-CTO-003-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-CTO-003-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-CTO-003-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-CTO-003-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-CTO-003-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-CTO-003-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-CTO-003-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-CTO-003-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-CTO-003-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-CTO-003-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-CTO-003-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-CTO-003-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-CTO-003-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-CTO-003-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-CTO-003-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-CTO-003-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-CTO-003-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-CTO-003-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-CTO-003-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-CTO-003-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-CTO-004-english,City Treasurer's Office,english,SUCCESS,0,3,1,0.5
+C,archived,whitespace,SCENARIO-CTO-004-english,City Treasurer's Office,english,SUCCESS,0,5,1,0.5
+C,archived,punctuation,SCENARIO-CTO-004-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-CTO-004-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-CTO-004-english,City Treasurer's Office,english,SUCCESS,0,3,1,0.5
+C,candidate,whitespace,SCENARIO-CTO-004-english,City Treasurer's Office,english,SUCCESS,0,5,1,0.5
+C,candidate,punctuation,SCENARIO-CTO-004-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-CTO-004-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-CTO-004-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-CTO-004-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-CTO-004-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-CTO-004-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-CTO-004-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-CTO-004-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-CTO-004-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-CTO-004-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-CTO-004-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-CTO-004-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-CTO-004-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-CTO-004-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-CTO-004-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-CTO-004-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-CTO-004-bislish,City Treasurer's Office,bislish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-CTO-004-bislish,City Treasurer's Office,bislish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-CTO-005-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-CTO-005-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-CTO-005-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-CTO-005-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-CTO-005-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-CTO-005-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-CTO-005-english,City Treasurer's Office,english,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-CTO-005-english,City Treasurer's Office,english,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-CTO-005-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-CTO-005-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-CTO-005-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-CTO-005-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-CTO-005-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-CTO-005-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-CTO-005-taglish,City Treasurer's Office,taglish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-CTO-005-taglish,City Treasurer's Office,taglish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-CTO-005-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,3,0,0.0
+C,archived,whitespace,SCENARIO-CTO-005-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,5,0,0.0
+C,archived,punctuation,SCENARIO-CTO-005-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,3,0,0.0
+C,archived,punctuation,SCENARIO-CTO-005-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,5,0,0.0
+C,candidate,whitespace,SCENARIO-CTO-005-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-CTO-005-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,5,0,0.0
+C,candidate,punctuation,SCENARIO-CTO-005-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,3,0,0.0
+C,candidate,punctuation,SCENARIO-CTO-005-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,5,0,0.0
+C,archived,whitespace,SCENARIO-CTO-006-english,City Treasurer's Office,english,FALLBACK_TRIGGERED,0,3,0,0.0
+C,archived,whitespace,SCENARIO-CTO-006-english,City Treasurer's Office,english,FALLBACK_TRIGGERED,0,5,0,0.0
+C,archived,punctuation,SCENARIO-CTO-006-english,City Treasurer's Office,english,FALLBACK_TRIGGERED,0,3,0,0.0
+C,archived,punctuation,SCENARIO-CTO-006-english,City Treasurer's Office,english,FALLBACK_TRIGGERED,0,5,0,0.0
+C,candidate,whitespace,SCENARIO-CTO-006-english,City Treasurer's Office,english,FALLBACK_TRIGGERED,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-CTO-006-english,City Treasurer's Office,english,FALLBACK_TRIGGERED,0,5,0,0.0
+C,candidate,punctuation,SCENARIO-CTO-006-english,City Treasurer's Office,english,FALLBACK_TRIGGERED,0,3,0,0.0
+C,candidate,punctuation,SCENARIO-CTO-006-english,City Treasurer's Office,english,FALLBACK_TRIGGERED,0,5,0,0.0
+C,archived,whitespace,SCENARIO-CTO-006-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,3,0,0.0
+C,archived,whitespace,SCENARIO-CTO-006-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,5,0,0.0
+C,archived,punctuation,SCENARIO-CTO-006-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,3,0,0.0
+C,archived,punctuation,SCENARIO-CTO-006-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,5,0,0.0
+C,candidate,whitespace,SCENARIO-CTO-006-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-CTO-006-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,5,0,0.0
+C,candidate,punctuation,SCENARIO-CTO-006-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,3,0,0.0
+C,candidate,punctuation,SCENARIO-CTO-006-taglish,City Treasurer's Office,taglish,FALLBACK_TRIGGERED,0,5,0,0.0
+C,archived,whitespace,SCENARIO-CTO-006-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,3,0,0.0
+C,archived,whitespace,SCENARIO-CTO-006-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,5,0,0.0
+C,archived,punctuation,SCENARIO-CTO-006-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,3,0,0.0
+C,archived,punctuation,SCENARIO-CTO-006-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,5,0,0.0
+C,candidate,whitespace,SCENARIO-CTO-006-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-CTO-006-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,5,0,0.0
+C,candidate,punctuation,SCENARIO-CTO-006-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,3,0,0.0
+C,candidate,punctuation,SCENARIO-CTO-006-bislish,City Treasurer's Office,bislish,FALLBACK_TRIGGERED,0,5,0,0.0
+C,archived,whitespace,SCENARIO-OCBO-001-english,Office of the City Building Official,english,SUCCESS,0,3,0,0.0
+C,archived,whitespace,SCENARIO-OCBO-001-english,Office of the City Building Official,english,SUCCESS,0,5,0,0.0
+C,archived,punctuation,SCENARIO-OCBO-001-english,Office of the City Building Official,english,SUCCESS,0,3,0,0.0
+C,archived,punctuation,SCENARIO-OCBO-001-english,Office of the City Building Official,english,SUCCESS,0,5,0,0.0
+C,candidate,whitespace,SCENARIO-OCBO-001-english,Office of the City Building Official,english,SUCCESS,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-OCBO-001-english,Office of the City Building Official,english,SUCCESS,0,5,0,0.0
+C,candidate,punctuation,SCENARIO-OCBO-001-english,Office of the City Building Official,english,SUCCESS,0,3,0,0.0
+C,candidate,punctuation,SCENARIO-OCBO-001-english,Office of the City Building Official,english,SUCCESS,0,5,0,0.0
+C,archived,whitespace,SCENARIO-OCBO-001-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,0,0.0
+C,archived,whitespace,SCENARIO-OCBO-001-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,0,0.0
+C,archived,punctuation,SCENARIO-OCBO-001-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,0,0.0
+C,archived,punctuation,SCENARIO-OCBO-001-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,0,0.0
+C,candidate,whitespace,SCENARIO-OCBO-001-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-OCBO-001-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,0,0.0
+C,candidate,punctuation,SCENARIO-OCBO-001-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,0,0.0
+C,candidate,punctuation,SCENARIO-OCBO-001-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,0,0.0
+C,archived,whitespace,SCENARIO-OCBO-001-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,0,0.0
+C,archived,whitespace,SCENARIO-OCBO-001-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,0,0.0
+C,archived,punctuation,SCENARIO-OCBO-001-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,0,0.0
+C,archived,punctuation,SCENARIO-OCBO-001-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,0,0.0
+C,candidate,whitespace,SCENARIO-OCBO-001-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-OCBO-001-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,0,0.0
+C,candidate,punctuation,SCENARIO-OCBO-001-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,0,0.0
+C,candidate,punctuation,SCENARIO-OCBO-001-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,0.25
+C,archived,whitespace,SCENARIO-OCBO-002-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-OCBO-002-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-OCBO-002-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-OCBO-002-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-OCBO-002-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-OCBO-002-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-OCBO-002-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-OCBO-002-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-OCBO-002-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,0,0.0
+C,archived,whitespace,SCENARIO-OCBO-002-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,0,0.0
+C,archived,punctuation,SCENARIO-OCBO-002-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,0,0.0
+C,archived,punctuation,SCENARIO-OCBO-002-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,0.25
+C,candidate,whitespace,SCENARIO-OCBO-002-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-OCBO-002-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,0,0.0
+C,candidate,punctuation,SCENARIO-OCBO-002-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,0.5
+C,candidate,punctuation,SCENARIO-OCBO-002-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,0.5
+C,archived,whitespace,SCENARIO-OCBO-002-bislish,Office of the City Building Official,bislish,SUCCESS,1,3,0,0.0
+C,archived,whitespace,SCENARIO-OCBO-002-bislish,Office of the City Building Official,bislish,SUCCESS,1,5,0,0.0
+C,archived,punctuation,SCENARIO-OCBO-002-bislish,Office of the City Building Official,bislish,SUCCESS,1,3,0,0.0
+C,archived,punctuation,SCENARIO-OCBO-002-bislish,Office of the City Building Official,bislish,SUCCESS,1,5,0,0.0
+C,candidate,whitespace,SCENARIO-OCBO-002-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-OCBO-002-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,0,0.0
+C,candidate,punctuation,SCENARIO-OCBO-002-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,0,0.0
+C,candidate,punctuation,SCENARIO-OCBO-002-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,0,0.0
+C,archived,whitespace,SCENARIO-OCBO-003-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-OCBO-003-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-OCBO-003-english,Office of the City Building Official,english,SUCCESS,0,3,0,0.0
+C,archived,punctuation,SCENARIO-OCBO-003-english,Office of the City Building Official,english,SUCCESS,0,5,0,0.0
+C,candidate,whitespace,SCENARIO-OCBO-003-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-OCBO-003-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-OCBO-003-english,Office of the City Building Official,english,SUCCESS,0,3,1,0.3333333333333333
+C,candidate,punctuation,SCENARIO-OCBO-003-english,Office of the City Building Official,english,SUCCESS,0,5,1,0.3333333333333333
+C,archived,whitespace,SCENARIO-OCBO-003-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-OCBO-003-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-OCBO-003-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-OCBO-003-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-OCBO-003-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-OCBO-003-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-OCBO-003-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-OCBO-003-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-OCBO-003-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,0,0.0
+C,archived,whitespace,SCENARIO-OCBO-003-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,0.25
+C,archived,punctuation,SCENARIO-OCBO-003-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,0.3333333333333333
+C,archived,punctuation,SCENARIO-OCBO-003-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,0.3333333333333333
+C,candidate,whitespace,SCENARIO-OCBO-003-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-OCBO-003-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-OCBO-003-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-OCBO-003-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-OCBO-004-english,Office of the City Building Official,english,SUCCESS,0,3,1,0.5
+C,archived,whitespace,SCENARIO-OCBO-004-english,Office of the City Building Official,english,SUCCESS,0,5,1,0.5
+C,archived,punctuation,SCENARIO-OCBO-004-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-OCBO-004-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-OCBO-004-english,Office of the City Building Official,english,SUCCESS,0,3,1,0.5
+C,candidate,whitespace,SCENARIO-OCBO-004-english,Office of the City Building Official,english,SUCCESS,0,5,1,0.5
+C,candidate,punctuation,SCENARIO-OCBO-004-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-OCBO-004-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-OCBO-004-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-OCBO-004-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-OCBO-004-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-OCBO-004-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-OCBO-004-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-OCBO-004-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-OCBO-004-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-OCBO-004-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-OCBO-004-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-OCBO-004-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-OCBO-004-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-OCBO-004-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-OCBO-004-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-OCBO-004-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-OCBO-004-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-OCBO-004-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-OCBO-005-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-OCBO-005-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-OCBO-005-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-OCBO-005-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-OCBO-005-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-OCBO-005-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-OCBO-005-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-OCBO-005-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-OCBO-005-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-OCBO-005-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-OCBO-005-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-OCBO-005-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-OCBO-005-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-OCBO-005-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-OCBO-005-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-OCBO-005-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-OCBO-005-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-OCBO-005-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-OCBO-005-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-OCBO-005-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-OCBO-005-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-OCBO-005-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-OCBO-005-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-OCBO-005-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-OCBO-006-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-OCBO-006-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-OCBO-006-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-OCBO-006-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-OCBO-006-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-OCBO-006-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-OCBO-006-english,Office of the City Building Official,english,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-OCBO-006-english,Office of the City Building Official,english,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-OCBO-006-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-OCBO-006-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-OCBO-006-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-OCBO-006-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-OCBO-006-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-OCBO-006-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-OCBO-006-taglish,Office of the City Building Official,taglish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-OCBO-006-taglish,Office of the City Building Official,taglish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-OCBO-006-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,0.5
+C,archived,whitespace,SCENARIO-OCBO-006-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,0.5
+C,archived,punctuation,SCENARIO-OCBO-006-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-OCBO-006-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-OCBO-006-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,0.5
+C,candidate,whitespace,SCENARIO-OCBO-006-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,0.5
+C,candidate,punctuation,SCENARIO-OCBO-006-bislish,Office of the City Building Official,bislish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-OCBO-006-bislish,Office of the City Building Official,bislish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-CPDO-001-english,City Planning and Development Office,english,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-CPDO-001-english,City Planning and Development Office,english,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-CPDO-001-english,City Planning and Development Office,english,SUCCESS,0,3,0,0.0
+C,archived,punctuation,SCENARIO-CPDO-001-english,City Planning and Development Office,english,SUCCESS,0,5,1,0.25
+C,candidate,whitespace,SCENARIO-CPDO-001-english,City Planning and Development Office,english,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-CPDO-001-english,City Planning and Development Office,english,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-CPDO-001-english,City Planning and Development Office,english,SUCCESS,0,3,0,0.0
+C,candidate,punctuation,SCENARIO-CPDO-001-english,City Planning and Development Office,english,SUCCESS,0,5,1,0.25
+C,archived,whitespace,SCENARIO-CPDO-001-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+C,archived,whitespace,SCENARIO-CPDO-001-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+C,archived,punctuation,SCENARIO-CPDO-001-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-CPDO-001-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-CPDO-001-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-CPDO-001-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+C,candidate,punctuation,SCENARIO-CPDO-001-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-CPDO-001-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-CPDO-001-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+C,archived,whitespace,SCENARIO-CPDO-001-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,0,0.0
+C,archived,punctuation,SCENARIO-CPDO-001-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,0.5
+C,archived,punctuation,SCENARIO-CPDO-001-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,0.5
+C,candidate,whitespace,SCENARIO-CPDO-001-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-CPDO-001-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,0,0.0
+C,candidate,punctuation,SCENARIO-CPDO-001-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,0.5
+C,candidate,punctuation,SCENARIO-CPDO-001-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,0.5
+C,archived,whitespace,SCENARIO-CPDO-002-english,City Planning and Development Office,english,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-CPDO-002-english,City Planning and Development Office,english,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-CPDO-002-english,City Planning and Development Office,english,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-CPDO-002-english,City Planning and Development Office,english,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-CPDO-002-english,City Planning and Development Office,english,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-CPDO-002-english,City Planning and Development Office,english,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-CPDO-002-english,City Planning and Development Office,english,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-CPDO-002-english,City Planning and Development Office,english,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-CPDO-002-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-CPDO-002-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-CPDO-002-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-CPDO-002-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-CPDO-002-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-CPDO-002-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-CPDO-002-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-CPDO-002-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-CPDO-002-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-CPDO-002-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-CPDO-002-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-CPDO-002-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-CPDO-002-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-CPDO-002-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-CPDO-002-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-CPDO-002-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-CPDO-003-english,City Planning and Development Office,english,SUCCESS,0,3,1,0.3333333333333333
+C,archived,whitespace,SCENARIO-CPDO-003-english,City Planning and Development Office,english,SUCCESS,0,5,1,0.3333333333333333
+C,archived,punctuation,SCENARIO-CPDO-003-english,City Planning and Development Office,english,SUCCESS,0,3,1,0.5
+C,archived,punctuation,SCENARIO-CPDO-003-english,City Planning and Development Office,english,SUCCESS,0,5,1,0.5
+C,candidate,whitespace,SCENARIO-CPDO-003-english,City Planning and Development Office,english,SUCCESS,0,3,1,0.3333333333333333
+C,candidate,whitespace,SCENARIO-CPDO-003-english,City Planning and Development Office,english,SUCCESS,0,5,1,0.3333333333333333
+C,candidate,punctuation,SCENARIO-CPDO-003-english,City Planning and Development Office,english,SUCCESS,0,3,1,0.5
+C,candidate,punctuation,SCENARIO-CPDO-003-english,City Planning and Development Office,english,SUCCESS,0,5,1,0.5
+C,archived,whitespace,SCENARIO-CPDO-003-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-CPDO-003-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-CPDO-003-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,1,0.5
+C,archived,punctuation,SCENARIO-CPDO-003-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,0.5
+C,candidate,whitespace,SCENARIO-CPDO-003-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-CPDO-003-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-CPDO-003-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,1,0.5
+C,candidate,punctuation,SCENARIO-CPDO-003-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,1,0.5
+C,archived,whitespace,SCENARIO-CPDO-003-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-CPDO-003-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-CPDO-003-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,0.5
+C,archived,punctuation,SCENARIO-CPDO-003-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,0.5
+C,candidate,whitespace,SCENARIO-CPDO-003-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-CPDO-003-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-CPDO-003-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,0.5
+C,candidate,punctuation,SCENARIO-CPDO-003-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,0.5
+C,archived,whitespace,SCENARIO-CPDO-004-english,City Planning and Development Office,english,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-CPDO-004-english,City Planning and Development Office,english,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-CPDO-004-english,City Planning and Development Office,english,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-CPDO-004-english,City Planning and Development Office,english,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-CPDO-004-english,City Planning and Development Office,english,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-CPDO-004-english,City Planning and Development Office,english,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-CPDO-004-english,City Planning and Development Office,english,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-CPDO-004-english,City Planning and Development Office,english,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-CPDO-004-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+C,archived,whitespace,SCENARIO-CPDO-004-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+C,archived,punctuation,SCENARIO-CPDO-004-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+C,archived,punctuation,SCENARIO-CPDO-004-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+C,candidate,whitespace,SCENARIO-CPDO-004-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-CPDO-004-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+C,candidate,punctuation,SCENARIO-CPDO-004-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+C,candidate,punctuation,SCENARIO-CPDO-004-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+C,archived,whitespace,SCENARIO-CPDO-004-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,0.3333333333333333
+C,archived,whitespace,SCENARIO-CPDO-004-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,0.3333333333333333
+C,archived,punctuation,SCENARIO-CPDO-004-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-CPDO-004-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-CPDO-004-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-CPDO-004-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,0,0.0
+C,candidate,punctuation,SCENARIO-CPDO-004-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+C,candidate,punctuation,SCENARIO-CPDO-004-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,0.25
+C,archived,whitespace,SCENARIO-CPDO-005-english,City Planning and Development Office,english,SUCCESS,0,3,0,0.0
+C,archived,whitespace,SCENARIO-CPDO-005-english,City Planning and Development Office,english,SUCCESS,0,5,0,0.0
+C,archived,punctuation,SCENARIO-CPDO-005-english,City Planning and Development Office,english,SUCCESS,0,3,0,0.0
+C,archived,punctuation,SCENARIO-CPDO-005-english,City Planning and Development Office,english,SUCCESS,0,5,0,0.0
+C,candidate,whitespace,SCENARIO-CPDO-005-english,City Planning and Development Office,english,SUCCESS,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-CPDO-005-english,City Planning and Development Office,english,SUCCESS,0,5,0,0.0
+C,candidate,punctuation,SCENARIO-CPDO-005-english,City Planning and Development Office,english,SUCCESS,0,3,0,0.0
+C,candidate,punctuation,SCENARIO-CPDO-005-english,City Planning and Development Office,english,SUCCESS,0,5,0,0.0
+C,archived,whitespace,SCENARIO-CPDO-005-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+C,archived,whitespace,SCENARIO-CPDO-005-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+C,archived,punctuation,SCENARIO-CPDO-005-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+C,archived,punctuation,SCENARIO-CPDO-005-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+C,candidate,whitespace,SCENARIO-CPDO-005-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-CPDO-005-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+C,candidate,punctuation,SCENARIO-CPDO-005-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+C,candidate,punctuation,SCENARIO-CPDO-005-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+C,archived,whitespace,SCENARIO-CPDO-005-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+C,archived,whitespace,SCENARIO-CPDO-005-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,0,0.0
+C,archived,punctuation,SCENARIO-CPDO-005-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+C,archived,punctuation,SCENARIO-CPDO-005-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,0,0.0
+C,candidate,whitespace,SCENARIO-CPDO-005-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-CPDO-005-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,0,0.0
+C,candidate,punctuation,SCENARIO-CPDO-005-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+C,candidate,punctuation,SCENARIO-CPDO-005-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,0,0.0
+C,archived,whitespace,SCENARIO-CPDO-006-english,City Planning and Development Office,english,SUCCESS,0,3,1,0.5
+C,archived,whitespace,SCENARIO-CPDO-006-english,City Planning and Development Office,english,SUCCESS,0,5,1,0.5
+C,archived,punctuation,SCENARIO-CPDO-006-english,City Planning and Development Office,english,SUCCESS,0,3,1,0.3333333333333333
+C,archived,punctuation,SCENARIO-CPDO-006-english,City Planning and Development Office,english,SUCCESS,0,5,1,0.3333333333333333
+C,candidate,whitespace,SCENARIO-CPDO-006-english,City Planning and Development Office,english,SUCCESS,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-CPDO-006-english,City Planning and Development Office,english,SUCCESS,0,5,0,0.0
+C,candidate,punctuation,SCENARIO-CPDO-006-english,City Planning and Development Office,english,SUCCESS,0,3,0,0.0
+C,candidate,punctuation,SCENARIO-CPDO-006-english,City Planning and Development Office,english,SUCCESS,0,5,1,0.25
+C,archived,whitespace,SCENARIO-CPDO-006-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+C,archived,whitespace,SCENARIO-CPDO-006-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+C,archived,punctuation,SCENARIO-CPDO-006-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+C,archived,punctuation,SCENARIO-CPDO-006-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+C,candidate,whitespace,SCENARIO-CPDO-006-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-CPDO-006-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+C,candidate,punctuation,SCENARIO-CPDO-006-taglish,City Planning and Development Office,taglish,SUCCESS,0,3,0,0.0
+C,candidate,punctuation,SCENARIO-CPDO-006-taglish,City Planning and Development Office,taglish,SUCCESS,0,5,0,0.0
+C,archived,whitespace,SCENARIO-CPDO-006-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+C,archived,whitespace,SCENARIO-CPDO-006-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,0,0.0
+C,archived,punctuation,SCENARIO-CPDO-006-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+C,archived,punctuation,SCENARIO-CPDO-006-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,1,0.2
+C,candidate,whitespace,SCENARIO-CPDO-006-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-CPDO-006-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,0,0.0
+C,candidate,punctuation,SCENARIO-CPDO-006-bislish,City Planning and Development Office,bislish,SUCCESS,0,3,0,0.0
+C,candidate,punctuation,SCENARIO-CPDO-006-bislish,City Planning and Development Office,bislish,SUCCESS,0,5,0,0.0
+C,archived,whitespace,SCENARIO-BFP-001-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,0.3333333333333333
+C,archived,whitespace,SCENARIO-BFP-001-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,0.3333333333333333
+C,archived,punctuation,SCENARIO-BFP-001-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-BFP-001-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-BFP-001-english,Bureau of Fire Protection,english,SUCCESS,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-BFP-001-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,0.25
+C,candidate,punctuation,SCENARIO-BFP-001-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-BFP-001-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-BFP-001-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,0,0.0
+C,archived,whitespace,SCENARIO-BFP-001-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,0,0.0
+C,archived,punctuation,SCENARIO-BFP-001-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,0.3333333333333333
+C,archived,punctuation,SCENARIO-BFP-001-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,0.3333333333333333
+C,candidate,whitespace,SCENARIO-BFP-001-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-BFP-001-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,0,0.0
+C,candidate,punctuation,SCENARIO-BFP-001-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,0.3333333333333333
+C,candidate,punctuation,SCENARIO-BFP-001-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,0.3333333333333333
+C,archived,whitespace,SCENARIO-BFP-001-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-BFP-001-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-BFP-001-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,0.5
+C,archived,punctuation,SCENARIO-BFP-001-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,0.5
+C,candidate,whitespace,SCENARIO-BFP-001-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-BFP-001-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,0.25
+C,candidate,punctuation,SCENARIO-BFP-001-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,0,0.0
+C,candidate,punctuation,SCENARIO-BFP-001-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,0,0.0
+C,archived,whitespace,SCENARIO-BFP-002-english,Bureau of Fire Protection,english,SUCCESS,0,3,0,0.0
+C,archived,whitespace,SCENARIO-BFP-002-english,Bureau of Fire Protection,english,SUCCESS,0,5,0,0.0
+C,archived,punctuation,SCENARIO-BFP-002-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-BFP-002-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-BFP-002-english,Bureau of Fire Protection,english,SUCCESS,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-BFP-002-english,Bureau of Fire Protection,english,SUCCESS,0,5,0,0.0
+C,candidate,punctuation,SCENARIO-BFP-002-english,Bureau of Fire Protection,english,SUCCESS,0,3,0,0.0
+C,candidate,punctuation,SCENARIO-BFP-002-english,Bureau of Fire Protection,english,SUCCESS,0,5,0,0.0
+C,archived,whitespace,SCENARIO-BFP-002-taglish,Bureau of Fire Protection,taglish,SUCCESS,1,3,0,0.0
+C,archived,whitespace,SCENARIO-BFP-002-taglish,Bureau of Fire Protection,taglish,SUCCESS,1,5,0,0.0
+C,archived,punctuation,SCENARIO-BFP-002-taglish,Bureau of Fire Protection,taglish,SUCCESS,1,3,0,0.0
+C,archived,punctuation,SCENARIO-BFP-002-taglish,Bureau of Fire Protection,taglish,SUCCESS,1,5,0,0.0
+C,candidate,whitespace,SCENARIO-BFP-002-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-BFP-002-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,0,0.0
+C,candidate,punctuation,SCENARIO-BFP-002-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,0.3333333333333333
+C,candidate,punctuation,SCENARIO-BFP-002-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,0.3333333333333333
+C,archived,whitespace,SCENARIO-BFP-002-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,0,0.0
+C,archived,whitespace,SCENARIO-BFP-002-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,0,0.0
+C,archived,punctuation,SCENARIO-BFP-002-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,0.3333333333333333
+C,archived,punctuation,SCENARIO-BFP-002-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,0.3333333333333333
+C,candidate,whitespace,SCENARIO-BFP-002-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-BFP-002-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,0,0.0
+C,candidate,punctuation,SCENARIO-BFP-002-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,0.3333333333333333
+C,candidate,punctuation,SCENARIO-BFP-002-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,0.3333333333333333
+C,archived,whitespace,SCENARIO-BFP-003-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-BFP-003-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-BFP-003-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,0.5
+C,archived,punctuation,SCENARIO-BFP-003-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,0.5
+C,candidate,whitespace,SCENARIO-BFP-003-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-BFP-003-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-BFP-003-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,0.5
+C,candidate,punctuation,SCENARIO-BFP-003-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,0.5
+C,archived,whitespace,SCENARIO-BFP-003-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-BFP-003-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-BFP-003-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-BFP-003-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-BFP-003-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-BFP-003-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-BFP-003-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-BFP-003-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-BFP-003-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-BFP-003-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-BFP-003-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-BFP-003-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-BFP-003-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-BFP-003-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-BFP-003-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-BFP-003-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-BFP-004-english,Bureau of Fire Protection,english,SUCCESS,0,3,0,0.0
+C,archived,whitespace,SCENARIO-BFP-004-english,Bureau of Fire Protection,english,SUCCESS,0,5,0,0.0
+C,archived,punctuation,SCENARIO-BFP-004-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-BFP-004-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-BFP-004-english,Bureau of Fire Protection,english,SUCCESS,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-BFP-004-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,0.2
+C,candidate,punctuation,SCENARIO-BFP-004-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-BFP-004-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-BFP-004-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,0.5
+C,archived,whitespace,SCENARIO-BFP-004-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,0.5
+C,archived,punctuation,SCENARIO-BFP-004-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-BFP-004-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-BFP-004-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,0,0.0
+C,candidate,whitespace,SCENARIO-BFP-004-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,0.2
+C,candidate,punctuation,SCENARIO-BFP-004-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-BFP-004-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-BFP-004-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,0.5
+C,archived,whitespace,SCENARIO-BFP-004-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,0.5
+C,archived,punctuation,SCENARIO-BFP-004-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-BFP-004-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-BFP-004-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-BFP-004-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-BFP-004-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-BFP-004-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-BFP-005-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-BFP-005-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-BFP-005-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-BFP-005-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-BFP-005-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-BFP-005-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-BFP-005-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-BFP-005-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-BFP-005-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-BFP-005-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-BFP-005-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-BFP-005-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-BFP-005-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-BFP-005-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-BFP-005-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-BFP-005-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-BFP-005-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-BFP-005-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-BFP-005-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-BFP-005-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-BFP-005-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-BFP-005-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-BFP-005-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-BFP-005-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-BFP-006-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-BFP-006-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-BFP-006-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-BFP-006-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-BFP-006-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-BFP-006-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-BFP-006-english,Bureau of Fire Protection,english,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-BFP-006-english,Bureau of Fire Protection,english,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-BFP-006-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,1.0
+C,archived,whitespace,SCENARIO-BFP-006-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,1.0
+C,archived,punctuation,SCENARIO-BFP-006-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-BFP-006-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-BFP-006-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,0.5
+C,candidate,whitespace,SCENARIO-BFP-006-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,0.5
+C,candidate,punctuation,SCENARIO-BFP-006-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-BFP-006-taglish,Bureau of Fire Protection,taglish,SUCCESS,0,5,1,1.0
+C,archived,whitespace,SCENARIO-BFP-006-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,0.5
+C,archived,whitespace,SCENARIO-BFP-006-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,0.5
+C,archived,punctuation,SCENARIO-BFP-006-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+C,archived,punctuation,SCENARIO-BFP-006-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+C,candidate,whitespace,SCENARIO-BFP-006-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+C,candidate,whitespace,SCENARIO-BFP-006-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0
+C,candidate,punctuation,SCENARIO-BFP-006-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,3,1,1.0
+C,candidate,punctuation,SCENARIO-BFP-006-bislish,Bureau of Fire Protection,bislish,SUCCESS,0,5,1,1.0

@@ -1,0 +1,16 @@
+{
+  "candidate_instruction.txt": "51652db2c4ada7eff20515a3f7343a4df5850afeb7c43e459c174499112b09ce",
+  "console.log": "a15b1726fac80a8371114d12b64412faf01b8ebce2428d86a77747946322460f",
+  "controls.json": "3c3248c706dc80c85e46a48cf925222cca960ffddd34c592f5ba6b1d7f3efdbb",
+  "judge_instructions.json": "dd90091e896c8f33367666ba8c7257dea99e76d4f2b216a91fcce81d6ba65603",
+  "model_configuration_inspection.json": "f7271044c22314475edbf0fe16bf740a210d6a9f20e6e37a69b83ec5918863d3",
+  "progress.json": "71d5aabb1df5bbca4ecf40eac87883abc13ce9cf1ab3f0d681907b8558ae98b8",
+  "protocol.json": "566f6a8f1603ca77370812efe6a92a9635ed0c19c0ee03ee23e26c737c73fc73",
+  "READ_THIS_FIRST.txt": "1699080c974f0c3b2b6e974f00dea9d7567df55a79cf561f9e22f4ddb6b00aec",
+  "results.jsonl": "510fe41dd3e10a4bc96e5c41bdbd78bc6fea6953c859cc279acd1de42d5c503a",
+  "review_decision.json": "3eef2698a55eee2bcdc973b9f333fa3e9a390428ea05a81d565e4c0336f09b30",
+  "REVIEW_DECISION.txt": "2dc2b87d22c93b72f2867e8041bd47a12c1f884eb3c9ec095fc34313333d6ead",
+  "runtime_provenance.json": "e5c6ecc7380ff50c4446efd236b9b2dda5daf406bd00da5108ba51a71f2b827f",
+  "summary.json": "a6143ae1cbc5b1ff121474d15e8e4672cdc250a44739f7f4f5d8b58c7edc4db3",
+  "validation.json": "60653b148e1df98d1b5dd9664e3a00e0e7baae5213a8e23032dabe44dedfc19e"
+}

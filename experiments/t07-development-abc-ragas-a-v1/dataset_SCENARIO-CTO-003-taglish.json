@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Magkano ang porsyento ng Basic Real Property Tax at Special Education Fund sa Davao City?"
+  ],
+  "answer": [
+    "Sa Davao City, ang Basic Real Property Tax ay ina-levy sa isang anu-anong real property, grasslands, buildings, machinery at iba pang mga improvements na nasa loob ng lungsod na may 1.5% (isang porsyento at walo katawo) ng assessed value. Ang Special Education Fund (SEF) ay mayroon pang isang porsyento (1%) na additional levy sa assessed value ng real property, na ito ay magpapatuloy sa basic real property tax [S1, S2, S3]."
+  ],
+  "contexts": [
+    [
+      "(1.5%) of the assessed \nvalue of real property, grasslands, buildings, machinery and other improvements affixed \nor attached to real property located in this City.\nSection 8. Additional Levy on Real Property for the Special Education Fund \n(SEF) – This is hereby levied a one percent (1%) tax on the assessed value of real \nproperty which shall be in addition in the basic real property tax. The proceeds thereof \nshall accrue exclusively to the Special Education Fund (SEF).",
+      "-\neservices.com/\negps/portal/Mer\nchants.jsp\n–\nImposition \nof the Basic\nReal\nProperty\nTax\nSection 8\n–\nAdditional \nLevy on\nReal\nProperty for \nthe Special \nEducation \nfund (SEF)\nTOTAL: \nAttached \nAnnex - 11 \n25 Minutes\nANNEX – 11\nSection 7. Imposition of the Basic Real Property Tax. – There is hereby levied \nan annual ad valorem tax at the rate of one and one-half percent (1.5%) of the assessed \nvalue of real property, grasslands, buildings, machine",
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -"
+    ]
+  ],
+  "ground_truth": [
+    "Annex11 states Basic Real Property Tax is 1.5% of assessed value and the additional Special Education Fund levy is 1% of assessed value. Their arithmetic sum is 2.5% of assessed value; this sum is derived from the two stated rates."
+  ]
+}

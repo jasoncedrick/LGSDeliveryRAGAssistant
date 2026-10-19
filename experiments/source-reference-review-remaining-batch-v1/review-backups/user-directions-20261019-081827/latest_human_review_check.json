@@ -1,0 +1,37 @@
+{
+  "backup_directory": "experiments/source-reference-review-remaining-batch-v1/review-backups/20261019-081208",
+  "checks": [
+    {
+      "group_id": "SCENARIO-CTO-002",
+      "valid_json": true,
+      "reviewer_fields_removed": true,
+      "human_review_content_and_status_preserved": true
+    },
+    {
+      "group_id": "SCENARIO-OCBO-001",
+      "valid_json": true,
+      "reviewer_fields_removed": true,
+      "human_review_content_and_status_preserved": true
+    },
+    {
+      "group_id": "SCENARIO-CPDO-002",
+      "valid_json": true,
+      "reviewer_fields_removed": true,
+      "human_review_content_and_status_preserved": true
+    },
+    {
+      "group_id": "SCENARIO-OCBO-005",
+      "valid_json": true,
+      "reviewer_fields_removed": true,
+      "human_review_content_and_status_preserved": true
+    }
+  ],
+  "findings": {
+    "SCENARIO-CTO-002": "New note confirms literal 87% or 1% wording, not intended or applicable tax rate. Source-conflict status remains appropriate.",
+    "SCENARIO-OCBO-001": "Unresolved: note omits conflicting 6-7 plan sets in same source row.",
+    "SCENARIO-CPDO-002": "OR interpretation is not established by cited page, which uses AND. Separate official clarification evidence still needed.",
+    "SCENARIO-OCBO-005": "Note still assigns PHP3 and PHP4 to above 1.80m; printed schedule says PHP3 up to 1.80m and PHP4 above. Regardless of height is not expressly printed for indigenous/wire row."
+  },
+  "candidate_labels_applied": false,
+  "user_findings_rewritten": false
+}

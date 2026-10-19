@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Tinuod ba nga kailangan accredited sa BFP ang brand sa fire extinguisher o pwede ba mamaligya ang inspector sa bombero?"
+  ],
+  "answer": [
+    "Wala nga nakit-an nga kailangan ang accredited ang brand sa fire extinguisher sa BFP. Ang mga kawani sa BFP ay hindi pinapayagang magbenta o magrekomenda ng anumang brand ng fire extinguisher [S1]. (Wala nga nakit-an nga mamaligya ang inspector sa bombero ang brand sa fire extinguisher.) [S1]"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "UDED \nIN THE NEGATIVE LIST\nA   P   P   L   I   C   A   T   I   O   N      F   O   R   M\nApplied in Fire Station/Lone District Fire Office \nBFP FSEC\nApplication Form\n(DCN No. BFP-QSF-\nFSED-001 REV.02\n(08.24.20))\n[REPRESENTATION: Application-form cell spans: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION.]\n\nBFP FSIC Application Form (DCN No. BFP-QSF-FSED-002 RE",
+      "applied in Fire\nStation/Lone District\nFire Office)\nThree (3) set of the  following documents\n\n[IMAGE PANEL TRANSCRIPTION — BFP PDF page 1]\nWARNING: BFP PERSONNEL ARE PROHIBITED FROM SELLING OR RECOMMENDING SPECIFIC BRAND OF FIRE EXTINGUISHER.\nREPORT SUCH IRREGULARITY AT THE FOLLOWING CONTACT NUMBERS:\nOFFICE OF THE CHIEF, BFP\nDirect line 426-43-99 Trunk line 426-02-19/426-02-46 Local 7"
+    ]
+  ],
+  "ground_truth": [
+    "The BFP public warning says it does not accredit or recommend any brand, store or distributor of fire extinguishers/fire-fighting equipment. Its warning prohibits personnel from selling or recommending a specific fire-extinguisher brand.\n\nThe image panel says portable fire extinguishers are regulated by DTI through BPS and that each type must comply with appropriate Philippine National Standards for product safety/reliability. This supports no BFP brand accreditation; it should not be expanded into a claim that any product is suitable regardless of type or hazard."
+  ]
+}

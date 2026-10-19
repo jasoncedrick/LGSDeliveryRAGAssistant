@@ -1,0 +1,22 @@
+{
+  "group_id": "SCENARIO-OCBO-006",
+  "review_status": "needs_correction",
+  "reviewer": "assistant",
+  "findings": [
+    "Restore processor three-signature requirement and original SPA.",
+    "Remove unsupported reference-details substitute and notarized adjective absent from this checklist.",
+    "Flag inconsistent processing total rather than silently recalculate."
+  ],
+  "manual_check": {
+    "type": "conditional_source_clarification",
+    "question": "If using exact turnaround as a validated performance target, confirm printed TOTAL against listed step durations.",
+    "source": "OCBO PDF103-104/printed591-592",
+    "blocking": "No block to clearly labeling it as printed TOTAL."
+  },
+  "candidate_applied": false,
+  "limitations": [
+    "Fixed thesis sources, not present-day legal advice.",
+    "Assistant image review is not independent expert certification.",
+    "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+  ]
+}

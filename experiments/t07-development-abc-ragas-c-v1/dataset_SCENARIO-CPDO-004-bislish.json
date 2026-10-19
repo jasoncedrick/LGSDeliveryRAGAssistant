@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsaon pag-apela sa LZBAA kung gibalibaran ang Locational Clearance sa CPDO ug unsa ang mga requirements ug bayad sa processing fee?"
+  ],
+  "answer": [
+    "Wala nga akong impormasyon bahin sa Citizens' Charter tungod sa pag-apela sa LZBAA kung gibalibaran ang Locational Clearance sa CPDO, at wala rin ang mga requirements at bayad sa processing fee. [S2] ang nakahusay sa Claims Denial Letter, pero wala didto ang mga detalye tungod sa pag-apela sa LZBAA. Ang mga detalye sa pag-apela sa LZBAA ay hindi nakalagay sa Citizens' Charter."
+  ],
+  "contexts": [
+    [
+      ") \nCPDO\n4. SPA from the building owner to \nprocess application for Locational \nClearance\nApplicant\n5. Seven (7) complete sets of Building \nPlans (original) \na. Filled-up title blocks \nb. Signed and sealed by CE / Architect\nApplicant\n6. Certified True Copy of Title issued \nby the Registry of Deeds (ROD) or \nshow original copy of title for validation \n(1 original for validation, 1 photocopy)\nRegistry of Deeds\n7. Locational Clearance Application \nduly notarized and signed by the \napplicant (1 photocopy",
+      "2.7 Updates \ndocument tracking \nsystem for release\nNone \n5 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\n3. Claims Denial \nLetter\n3. Releases Denial \nLetter to clients \n \nNote: Denied \napplications are \nadvised to appeal \nthrough the Local \nZoning Board of \nAdjustments and \nAppeals \n- Denial Letters \nare either \ndelivered by this \noffice or may be \nclaimed at the \noffice.\nNone \n5 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\nTOTAL: None \n1 Day and 50\nMinutes",
+      "5. Claims \nendorsement letter \nwith attached \nresolution from the \nLZBAA Secretariat \n \nNote: Client/s is \nfurnished with the \nendorsement to \nOBO/BB, signed \nresolution and their \ndocumentary \nrequirements \nsubmitted in the \nOffice.\n5. Endorses \napplication to \nOffice of the \nBuilding Official \n(for building \npermit) or \nBusiness Bureau \n(for business \npermit)  \n \nNote: \n \n- If not \napproved/deferre\nd due to further \nevaluation and \nvalidation, drafts \nand finalizes \nNotice of \nCompliance \n(NOC) / Notice of \nDeficiency (NOD"
+    ]
+  ],
+  "ground_truth": [
+    "Motion for Reconsideration is an appeal against denial of Locational Clearance by the Zoning Administrator. The checklist lists: Letter of Reconsideration; Denial Letter; Order of Payment; Official Receipt; Business Permit Application Form/Building Permit Application Form (for building permit); certified true copy of title(s)/Contract of Lease/Deed of Sale; site sketch with vicinity map and landmarks; Barangay Council Resolution Interposing No Objection; affidavit of non-objection of adjoining property owners; locational mapping of neighbor consent signatories; Affidavit of Undertaking; and Building Permit for a business-permit application.\n\nSecure checklist and pre-evaluation; once documents are complete, obtain the order for the PHP600 processing fee. Submit original and photocopied official receipt with one complete set of documents. The process includes TWG site inspection/evaluation, TWG meeting with the applicant, committee deliberation, and, if approved, resolution and endorsement to OBO or Business Bureau. Claim the endorsement with attached resolution. Non-approved/deferred cases may receive NOC, NOD or disapproval."
+  ]
+}

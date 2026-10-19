@@ -1,0 +1,84 @@
+[
+  {
+    "claim_id": "validity_and_renewal",
+    "pdf_relative_page": 15,
+    "printed_page": 54,
+    "source_wording": "The Business Permit is granted for a period of not more than one (1) year and shall expire on the thirty-first (31st) of December following the date of issuance unless revoked or surrendered earlier. The Business Permit issued shall be renewed within the month of January. It shall have a continuing validity only upon renewal thereof and payment of the corresponding fee.",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0015-C001",
+      "DEV120-BB-PDF0015-C002"
+    ],
+    "review_status": "assistant_visual_source_comparison_supported"
+  },
+  {
+    "item": 1,
+    "pdf_relative_page": 16,
+    "printed_page": 55,
+    "source_row_with_where_to_secure": "List of Employees stating the Name and Position of the Employees (1 copy) Applicant",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0016-C004"
+    ],
+    "review_status": "assistant_visual_source_comparison_supported"
+  },
+  {
+    "item": 2,
+    "pdf_relative_page": 16,
+    "printed_page": 55,
+    "source_row_with_where_to_secure": "For Sole Proprietorship, if represented, Special Power of Attorney, indicating specific authority and capacity granted to representative. Applicant, notarized by any Notary Public",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0016-C004"
+    ],
+    "review_status": "assistant_visual_source_comparison_supported"
+  },
+  {
+    "item": 3,
+    "pdf_relative_page": 16,
+    "printed_page": 55,
+    "source_row_with_where_to_secure": "For Partnership, Partnership Resolution, indicating specific authority and capacity granted to representative. Applicant, notarized by any Notary Public",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0016-C004",
+      "DEV120-BB-PDF0016-C005"
+    ],
+    "review_status": "assistant_visual_source_comparison_supported"
+  },
+  {
+    "item": 4,
+    "pdf_relative_page": 17,
+    "printed_page": 56,
+    "source_row_with_where_to_secure": "For other form of ownership, Board Resolution or Secretary’s Certificate, indicating specific authority and capacity granted to representative. Applicant, notarized by any Notary Public",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0017-C001"
+    ],
+    "review_status": "assistant_visual_source_comparison_supported"
+  },
+  {
+    "item": 5,
+    "pdf_relative_page": 17,
+    "printed_page": 56,
+    "source_row_with_where_to_secure": "Valid I.D. of the representative (1 photocopy), if newly designated Applicant",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0017-C001"
+    ],
+    "review_status": "assistant_visual_source_comparison_supported"
+  },
+  {
+    "item": 6,
+    "pdf_relative_page": 17,
+    "printed_page": 56,
+    "source_row_with_where_to_secure": "Valid Fire Safety Inspection Certificate (1 photocopy) Applicant or Bureau of Fire Protection",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0017-C001"
+    ],
+    "review_status": "assistant_visual_source_comparison_supported"
+  },
+  {
+    "item": 7,
+    "pdf_relative_page": 17,
+    "printed_page": 56,
+    "source_row_with_where_to_secure": "Specific requirements for specific line of business Concerned Agency",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0017-C001"
+    ],
+    "review_status": "assistant_visual_source_comparison_supported"
+  }
+]

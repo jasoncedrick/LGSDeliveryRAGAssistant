@@ -1,0 +1,19 @@
+{
+  "cases": 60,
+  "valid_after_retries": 59,
+  "invalid_remaining": 1,
+  "correct_over_all_controls": 0.9166666666666666,
+  "FP": 4,
+  "FN": 0,
+  "false_positive_cases": [
+    "SCENARIO-OCBO-006-bislish-CONTROL4",
+    "SCENARIO-CPDO-003-english-CONTROL4",
+    "SCENARIO-CPDO-003-taglish-CONTROL4",
+    "SCENARIO-CPDO-003-bislish-CONTROL4"
+  ],
+  "false_negative_cases": [],
+  "valid_disagreements_not_retried": true,
+  "original_results_preserved": true,
+  "held_out_accessed": false,
+  "interpretation": "Development sanity-check evidence only; report residual judge errors and repeated-control limitation. Not expert certification."
+}

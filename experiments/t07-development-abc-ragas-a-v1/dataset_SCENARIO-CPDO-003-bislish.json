@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ang bayad sa filing fee ug unsaon pagkwenta sa zoning fee sa Locational Clearance sa CPDO para sa 2-storey nga building?"
+  ],
+  "answer": [
+    "Sa iyong tanong, ang bayad sa filing fee sa Locational Clearance sa CPDO para sa 2-storey na building ay nasa PHP 150.00 bilang nakalabas sa [S2]. Wala nga didto nga nakit-an nga zoning fee."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "mitted \nDocuments based \non the checklist \nissued by Office of \nthe Building Official \n(OBO)\nNone \n20 Minutes \nZoning Officer\nIV\nCPDO\n2. Secures order \nof payment for \nfiling fee\n2. Issuance of \norder  payment\nFilling Fee\nPHP \n150.00\n10 Minutes \nZoning Officer\nIV\nCPDO\n3. Submits \ndocuments per \nchecklist of \nrequirements with \nOriginal Receipt\n3.1 Re-evaluation \nof documents by \nthe ZED Technical \npersonnel and \nafter it will be \nforwarded/received\nNone \n15 Minutes \n \nZoning Officer\nIV\nCPDO",
+      "DO\n3. \nOfficial Receipt \nCTO\nCLIENT STEPS \nAGENCY \nACTION\nFEES \nTO BE \nPAID\nPROCESSIN\nG\nTIME\nPERSON\nRESPONSIBL\nE\n1. Submits \nDocumentary \nRequirements\n1. Pre-evaluates \nSubmitted \nDocuments based \non the checklist\nNone \n10 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\n2. Secures order \nof payment for \nfiling fee\n2. Issues order of \npayment\nFiling \nFee: \nPhp \n300.0\n0\n10 Minutes\nZoning Officer\nIV\nCPDO\n3. Submits \ndocuments per \nchecklist of \nrequirements with \nOriginal Receip"
+    ]
+  ],
+  "ground_truth": [
+    "For Locational Clearance for Building Permit for 2-storey and below, the zoning fee is 1/10 of 1% of building cost for agricultural/residential and commercial/industrial/institutional categories. Filing fees are PHP150 per application for agricultural/residential and PHP300 per application for commercial/industrial.\n\nThe Map Plotting step separately lists a PHP300 filing fee, with order of payment issued by OBO. The TOTAL row lists 4 Days, 2 Hours, and 25 Minutes. The source does not explicitly list an institutional filing fee or explain aggregation of the map-plotting charge in the TOTAL row."
+  ]
+}

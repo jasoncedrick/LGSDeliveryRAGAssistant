@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Para asa ang Certificate of Compatibility sa CPDO, pila ang filing fee, ug unsa kadugay ang pag-release?"
+  ],
+  "answer": [
+    "Ang Certificate of Compatibility sa CPDO ay maaaring makakuha sa City Planning and Development Office (CPDO) [S2, S3]. Ang filing fee para sa Certificate of Compatibility ay hindi nakalalaman sa mga nakalampasan na source blocks. Ang pag-release ng Certificate of Compatibility ay hindi rin nakalalaman sa mga nakalampasan na source blocks."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "solution of No \nObjection \nc. GIS plotting with 1km radius / zoning \nclassification \nd. Certificate of Compatibility\na. Department of Environment & Natural \nResources – Environment and \nManagement Bureau \nb. Barangay Council \nc. City Planning and Development Office\nd. City Planning and Development \nOffice\n17. If application is for processing, \nsecure the following for zoning and \nfiling fees: \n(1 original) \na. Order of payment \nb. Official Receipt for zoning and filing \nfees\na. City Planning and Development Office\nb.",
+      "y \napplications: \n(1 photocopy) \na. Environmental Compliance \nCertificate \nb. Barangay Council Resolution of No \nObjection \nc. GIS plotting with 1km radius / zoning \nclassification \nd. Certificate of Compatibility\na. Department of Environment & Natural \nResources – Environment and \nManagement Bureau \nb. Barangay Council \nc. City Planning and Development Office\nd. City Planning and Development \nOffice\n17. If application is for processing, \nsecure the following for zoning and \nfiling fees: \n(1 original) \na. Order of payment \nb. Official"
+    ]
+  ],
+  "ground_truth": [
+    "The Certificate of Compatibility certifies uses or land activities capable of existing together harmoniously. Checklist: Application Letter, Zoning Certificate from CPDO, and Official Receipt from CTO.\n\nFiling fee is PHP300. The stated TOTAL is 1 Hour and 20 Minutes. The initial/final signature step is 15 minutes depending on availability of the Acting Zoning Administrator."
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "group_id": "SCENARIO-BFP-002",
+  "pillar": "Bureau of Fire Protection",
+  "split": "development",
+  "ground_truth_chunk_ids": [
+    "DEV120-BFP-PDF0001-C017",
+    "DEV120-BFP-PDF0001-C018",
+    "DEV120-BFP-PDF0001-C019"
+  ],
+  "ground_truth_reference_answer": "Under the BFP Citizen's Charter and RA 9514, the Fire Safety Inspection Certificate (FSIC) for Occupancy Permit requires: 1) Endorsement from the Office of the Building Official (OBO); 2) Certificate of Completion; 3) As-built plans (if changes occurred); 4) Certified true copy of the assessment fee from OBO; and 5) Fire insurance policy (if any). The Fire Safety Inspection Fee (FSIF) is assessed at 15% of all regulatory fees charged by the LGU, but in no case shall the fee be lower than Five Hundred Pesos (PHP 500.00).",
+  "queries": {
+    "english": "How is the Fire Safety Inspection Fee (FSIF) calculated for an Occupancy Permit FSIC and what is the minimum fee?",
+    "taglish": "Paano kinukwenta ang Fire Safety Inspection Fee (FSIF) para sa FSIC ng Occupancy at magkano ang minimum na bayad?",
+    "bislish": "Pila ang minimum nga bayad ug unsaon pagkwenta sa Fire Safety Inspection Fee (FSIF) para sa FSIC sa Occupancy Permit?"
+  },
+  "legacy_ground_truth_chunk_ids": [
+    "CHUNK-BFP-P001-C10"
+  ],
+  "mapping_status": "PROVISIONAL_EXACT_SPAN_MAPPING"
+}

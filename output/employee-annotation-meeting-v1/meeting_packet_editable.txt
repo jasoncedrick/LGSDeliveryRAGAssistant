@@ -1,0 +1,101 @@
+Research annotation partnership
+
+ We are requesting your service expertise to check whether a research assistant gives useful answers that are supported by Davao City Citizens' Charter documents. 
+  Study  Dictionary-Assisted Hybrid Retrieval-Augmented Generation Assistant for Code-Switched Local Government Services Inquiries in Davao City 
+  Researchers  Christian Mari B. Civiles, Juniel Francis Lae A. Portillo, and Jason Cedrick P. Rabanes Ateneo de Davao University 
+ What the assistant does 
+ A citizen asks a service question in English, Tagalog or Bislish. The assistant searches a prepared collection of official charter passages and uses the retrieved evidence to generate a cited answer. We are studying whether it understands these questions and answers them accurately. This is a research prototype. 
+ The help we are requesting 
+  Help identify qualified domain experts familiar with the services covered by the study and fluent in the three study languages. 
+ Review prepared reference passages and flag unclear wording, table relationships, or source-version issues through a documented source-review process. 
+ Independently rate anonymous answers for  Answer Relevance  and  Factual Faithfulness , using the supplied rubric.  
+ Services covered 
+ Business Bureau; City Treasurer's Office; Office of the City Building Official; City Planning and Development Office; and Bureau of Fire Protection. 
+ Please help us confirm the correct office contacts, including whether a separate referral is needed for BFP. We should also confirm that each proposed expert can assess the full range of services required by the study. 
+ What we hope to agree on today 
+ An appropriate contact or endorsement route, possible expert participants, access to the correct public charter versions, and a practical schedule for orientation and independent review. Participation and any institutional requirements will be discussed before formal collection. 
+ Meeting date and venue __________________________ Researcher contact ______________________________ 
+
+
+What expert review involves
+
+ You will score each anonymous answer independently. We are evaluating the assistant's output, not employee performance. 
+ Planned workload in the manuscript 
+   Review unit  Planned amount  
+  Scenario groups selected for expert audit  20 groups, four per service category  
+  Language variants  Three per group, giving 60 questions  
+  Anonymous answers  Two per question, giving 120 answers per expert  
+  Panel  Three independent experts, each reviewing all 120 answers  
+  Scores  Two scores per answer, each from 1 to 4   
+ Across three experts this gives 360 answer reviews and 720 score values when complete. We will measure the time needed in a pilot before committing to a formal session duration. Separate blocks and breaks can be arranged. 
+ What you will receive 
+  The original citizen question and verified reference material with official page citations. 
+ Anonymous system answers and the source passages actually retrieved for each answer. 
+ Two separate scoring controls, space for an evidence note, and an option to flag an item that cannot be judged from the supplied evidence.  
+ How to review 
+ Read the question, compare each answer with the evidence, and score the two dimensions separately. Identify the claim or source passage behind an error flag. Equal scores for the two answers are allowed. 
+ During formal scoring, work independently. System identities, automated scores, and other experts' scores will be hidden. Please do not try to infer a system's identity. 
+ If the source is unclear 
+ Flag the specific passage rather than guessing. If current office practice differs from the archived charter, record that difference and identify a separately documented source if available. A source clarification and an answer-quality rating are different records. 
+ The team will agree on procedures for contradictory evidence, clarification responses, incomplete answers, and missing ratings before formal collection. 
+
+
+Scoring guide and practice
+
+ Give each answer two separate scores. Fluency, length, or a printed citation alone does not establish correctness. 
+   Score  Answer Relevance  Factual Faithfulness  
+  1  Does not address the inquiry or answers a different question.  Main answer is unsupported or contradicts the official charter.  
+  2  Addresses part of the inquiry but misses the primary procedural need.  Some claims are supported, but there is a major error in a fee, requirement, or office.  
+  3  Addresses the main inquiry with limited minor omissions.  Main claims are supported, with minor imprecisions that do not alter the procedure.  
+  4  Directly and comprehensively addresses all parts of the inquiry.  All factual claims are supported and traceable to official documents.   
+ Condensed from manuscript Table 2, printed page 30, PDF page 35. 
+ Fictional practice only 
+  This example is invented. It is not a Davao City service or an actual system output. Practice scores will not enter the study dataset.  
+  Question  Where do I submit a new vendor-registration application, what documents do I need, and what is the fee? 
+  Training source  Submit a completed application form and one photocopy of a valid ID to the Vendor Services Desk. The application fee is PHP 120. [Training Charter, page 1] 
+  Anonymous answer X  Submit to the Vendor Services Desk. Bring a completed application form and one photocopy of a valid ID. The fee is PHP 120. [Training Charter, page 1] 
+  Anonymous answer Y  Submit to the Vendor Services Desk. Bring a completed application form and one photocopy of a valid ID. The fee is PHP 500. [Training Charter, page 1] 
+  Circle one value for each dimension  X relevance: 1 / 2 / 3 / 4    X faithfulness: 1 / 2 / 3 / 4 Y relevance: 1 / 2 / 3 / 4    Y faithfulness: 1 / 2 / 3 / 4 
+ Evidence note ___________________________________________________ ________________________________________________________________ 
+
+
+How to lead the first meeting
+
+ Use this meeting to explain the task and establish cooperation. Schedule formal blind rating after the study pipeline and review instructions are ready. 
+ A simple opening you can read 
+ “Good morning, and thank you for meeting with us. We are developing a research assistant for questions about local government services, including questions written in English, Tagalog and Bislish. It searches Citizens' Charter passages before producing an answer. We need service experts to help us check whether its answers address the citizen's question and are supported by the documents. Today, we would like to explain the review task, demonstrate one fictional example, and ask about the appropriate participants and process for working with your office.” 
+ Suggested first meeting agenda 
+   Time  What to present  
+  0 to 3 minutes  Research purpose and the specific request for expert help  
+  3 to 7 minutes  Citizen question, source evidence, and anonymous answer example  
+  7 to 12 minutes  Two scoring dimensions and independent fictional practice  
+  12 to 20 minutes  Participants, office coverage, workload, source versions and access route  
+  20 to 25 minutes  Confirm the next contact, required documents and tentative schedule   
+ What to bring 
+  Employee pages 1 to 3 of this packet and the manuscript rubric. 
+ A short school or adviser introduction and any request letter your institution requires. Fill in verified contacts before sharing. 
+ A readable public charter page to explain what source evidence looks like. 
+ A way to take meeting notes. A static fictional demonstration works even without the model server.  
+ After the independent practice 
+ Discuss the evidence rather than asking participants to match a preferred score. Suggested training anchors: X relevance 4 and faithfulness 4; Y relevance 4 and faithfulness 2 because the fee is wrong. Confirm this distinction during orientation before freezing the scoring instructions. 
+ Keep this page separate from the employee handout. Do not show suggested scores before independent practice. Actual formal ratings must not be coached. 
+
+
+Decisions and follow through
+
+ Questions to settle with the office 
+  Who can authorize or coordinate participation, and is a formal endorsement needed? 
+ Which experts have service-domain knowledge and fluency in all three study languages? Can each cover the full audit, or is an adviser-approved panel adjustment needed? 
+ Which public charter versions should support the reference evidence, and who can provide documented clarification for ambiguous wording? 
+ What session format, equipment, location, breaks and availability are practical? 
+ What participant information, permission, confidentiality and acknowledgement arrangements should be settled through the institution before formal rating?  
+ Record before leaving 
+ Office or contact channel __________________________________________ Required endorsement or introduction _______________________________ Possible panel and service coverage __________________________________ Preferred schedule and session format _______________________________ Source documents or clarification follow-up __________________________ Next action and responsible person __________________________________ 
+ Before formal annotation begins 
+ Complete development evaluation, register the frozen pipeline, and generate the final held-out outputs. Preselect the balanced expert-audit subset without choosing cases by answer quality. Prepare verified references, actual retrieved evidence, anonymous answer IDs and randomized presentation. 
+ Keep the identity mapping separate. Document who is blinded in practice. Agree on missing-evidence and failed-output handling, pilot the workload, and finalize participant arrangements and the rubric before collecting independent ratings. Include all scheduled cases and retain unfavorable outcomes. 
+ Methodology and task alignment 
+ Chapter 3.2.9, PDF pages 34 to 36, establishes the evidence records, expert panel, blinded review, two 1 to 4 scores, and inter-rater reliability assessment. Its reliability threshold is a target to evaluate, not a result to promise. 
+ The existing T08 to T12 preparation materials map the next work to audit-packet preparation, rubric/interface preparation, independent sessions, agreement analysis and paired comparison. This meeting supports recruitment and preparation; it does not complete those tasks. 
+ The meeting agenda, time blocks and administrative questions in this packet are preparation suggestions. The source-review role should be documented separately from final blind scoring. If the same employees perform both roles, record that overlap and any implications for independence with the adviser. 
+ Sources: 20260923.pdf, PDF pages 1 and 34 to 36; existing FACILITATOR_GUIDE.txt and MOCK_RATER_HANDOUT.txt in experiments/t08-t12-rater-preparation. The facilitator guide records alignment to the Thesis Tracker main tab, T08 to T12. No tracker status has been changed. Prepared 19 October 2026. 

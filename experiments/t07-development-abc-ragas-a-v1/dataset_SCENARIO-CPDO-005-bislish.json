@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga i-upload nga dokumento ug pila ang bayad para sa online Locational Clearance sa negosyo sa CPDO?"
+  ],
+  "answer": [
+    "Wala akong impormasyon bahin sa Citizens' Charter tungod sa mga dokumento na i-upload ug bayad para sa online Locational Clearance sa negosyo sa CPDO. Ang mga detalye sa mga dokumento at bayad ay hindi nakalagay sa mga nakalunsod na source blocks. [S2, S3]"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "owners Association\nCertificate of No Objection\nApplicant\n4. \nCertificate of Actual Land\nOccupancy for Migrant (based on RA \n8371)\nApplicant\n5. \nLocational Clearance for Building\nPermit (if applicable)\nApplicant/ City Planning and \nDevelopment Office\n6. \nPRC ID (for license Broker) /\nLicense to Sell / Affidavit of Undertaking \nas not to engage in selling raw lots \n(based PD 957)\nApplicant\n7. \nAffidavit of Undertaking for Online\nBusiness / Booking Office / On-Job Site / \nOn-Call",
+      "of No Objection\nApplicant\n4. \nCertificate of Actual Land\nOccupancy for Migrant (based on RA \n8371)\nApplicant\n5. \nLocational Clearance for Building\nPermit (if applicable)\nApplicant/ City Planning and \nDevelopment Office\n6. \nPRC ID (for license Broker) /\nLicense to Sell / Affidavit of Undertaking \nas not to engage in selling raw lots \n(based PD 957)\nApplicant\n7. \nAffidavit of Undertaking for Online\nBusiness / Booking Office / On-Job Site / \nOn-Call / Private Garage\nAppli"
+    ]
+  ],
+  "ground_truth": [
+    "For online business locational clearance, the checklist lists: uploaded application form; Affidavit of Undertaking for neighbor consent with sketch map showing neighbor location (1 photocopy); Homeowners Association Certificate of No Objection; Certificate of Actual Land Occupancy for Migrant (based on RA8371); Locational Clearance for Building Permit, if applicable; PRC ID for licensed broker/License to Sell/Affidavit of Undertaking not to sell raw lots (PD957); Affidavit of Undertaking for Online Business/Booking Office/On-Job Site/On-Call/Private Garage; pictures showing working area including roads; and sketch map. Additional requirements may be required as the need arises.\n\nThe fee columns and TOTAL state None. The TOTAL is 1 Day and 50 Minutes. This includes denial-letter steps, with signature time dependent on administrator availability; it is not a guaranteed approval deadline. Approved/conditionally approved cases have their BPLS status updated and other offices then evaluate the application."
+  ]
+}

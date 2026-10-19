@@ -1,0 +1,11 @@
+BB-002 SOURCE REVIEW COMPLETE: NEEDS CORRECTION
+
+Compare reference_candidate.txt with pdf_page_3.png (printed 42), pdf_page_4.png (printed 43), and pdf_page_39.png (printed 78). On page 42 start at CHANGE OF BUSINESS ADDRESS; on page 43 stop before ADDITIONAL BUSINESS LINE. On page 78 check STEP 2 PAYMENT and its fee column.
+
+The proposed answer preserves all 10 checklist rows, their conditions and Where to Secure associations. PHP50 service fee is supported, but the payment row also lists a variable Mayor’s Permit Fee. Do not treat PHP50 as the total.
+
+claim_source_map.json maps every row and fee to existing chunks. before_after.diff shows exact proposed changes. Exclude DEV120-BB-PDF0003-C002, which mainly belongs to the preceding NEW checklist. Original group is preserved in group.before.json; proposed labels remain separate.
+
+No manual action is required immediately. This is assistant visual review, not the later independent expert audit. No labels/scores, corpus/indices, app defaults or held-out files changed. Chapter 3 source-table integrity and source-cited development reference requirements guide this work; main Thesis Tracker T06 harness validation is separate from T07 frozen comparison. 120/20 chunking and K=3/5 remain unchanged.
+
+Next: BB-003. Two of the 25 provisional groups reviewed; 23 remain. Consolidate candidates in a new evaluation version before rescoring.

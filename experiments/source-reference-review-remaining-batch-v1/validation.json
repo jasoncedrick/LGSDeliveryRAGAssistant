@@ -1,0 +1,16 @@
+{
+  "batch_groups_inspected": 20,
+  "previous_BB_provisional_groups_inspected": 5,
+  "original_provisional_group_count": 25,
+  "all_25_have_review_artifacts": true,
+  "uninspected_provisional_groups": 0,
+  "batch_claims": 37,
+  "batch_source_spans": 61,
+  "all_mapped_ids_exist": true,
+  "before_snapshots_match_original_references": true,
+  "queries_and_development_split_preserved": true,
+  "candidate_labels_applied": false,
+  "scores_recomputed": false,
+  "all_groups_certified": false,
+  "note": "Inspection complete is not unconditional source validation: conflicts/ambiguities and independent expert audit remain."
+}

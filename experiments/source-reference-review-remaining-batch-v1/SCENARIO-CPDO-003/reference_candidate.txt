@@ -1,0 +1,3 @@
+For Locational Clearance for Building Permit for 2-storey and below, the zoning fee is 1/10 of 1% of building cost for agricultural/residential and commercial/industrial/institutional categories. Filing fees are PHP150 per application for agricultural/residential and PHP300 per application for commercial/industrial.
+
+The Map Plotting step separately lists a PHP300 filing fee, with order of payment issued by OBO. The TOTAL row lists 4 Days, 2 Hours, and 25 Minutes. The source does not explicitly list an institutional filing fee or explain aggregation of the map-plotting charge in the TOTAL row.

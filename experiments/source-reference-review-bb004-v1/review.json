@@ -1,0 +1,32 @@
+{
+  "group_id": "SCENARIO-BB-004",
+  "review_status": "needs_correction",
+  "reviewer": "assistant",
+  "candidate_status": "not_applied",
+  "findings": [
+    "Fee amounts and 25% penalty supported; avoid unsupported statutory characterization beyond the charter statement.",
+    "Restore temporary/permanent scope and Who may avail qualifications without implying consent alone authorizes all under-18 employment.",
+    "Preserve receipt for service crew in checklist; separate walk-in receipt instruction in process.",
+    "Restore parent/guardian valid ID and appearance wording omitted from reference.",
+    "Interview is age-conditioned in the source, not an unconditional requirement for all listed occupations.",
+    "Add PDF66 evidence for payment and interview. Remove PDF67-C002, which concerns approval/release/denial rather than reference claims."
+  ],
+  "added_supporting_ids": [
+    "DEV120-BB-PDF0066-C001",
+    "DEV120-BB-PDF0066-C002",
+    "DEV120-BB-PDF0066-C003"
+  ],
+  "removed_supporting_ids": [
+    "DEV120-BB-PDF0067-C002"
+  ],
+  "manual_action_required_now": false,
+  "limitations": [
+    "Assistant visual comparison is not independent expert certification.",
+    "The unusual Any Notary public Where to Secure entry for parent/guardian ID is preserved, not silently corrected.",
+    "Age and occupation wording is preserved; no extra legal interpretation is supplied.",
+    "Current-law verification is outside this fixed-source thesis review.",
+    "Reference includes additional checklist detail already present in the old answer, although the query primarily asks coverage, fees and penalty."
+  ],
+  "progress": "4 of 25 provisional groups reviewed; 21 remain. Separate BFP context and BB ICAB fee issues remain open.",
+  "unchanged": "Original references and scores, corpus and indices, app defaults and held-out benchmarks."
+}

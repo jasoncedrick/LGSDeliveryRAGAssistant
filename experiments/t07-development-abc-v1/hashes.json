@@ -1,0 +1,15 @@
+{
+  "console.log": "6c7cfc45086ab35534cde46f670172d05bfe96354929558000021e19b2d7bb13",
+  "progress.json": "4333ad08b080c2cbe5892985d8576809dfe5ce8cb3ed73e3e4a772aa015ecdba",
+  "protocol.json": "fdc7560da6c43e7f61c02c43a6517ad3fa5d7067203d97dfd7d0c66a6f364ee2",
+  "queue.lock": "6f4b4a2e418c2e6e9ec0fa67bda62314f21257a61952fe0adb80c0ee560b051d",
+  "queue_status.json": "5c72b43842e0742688d5d0a45195f30e3b7099d4fbd0fd5dd3f368c2055b68ce",
+  "retrieval_comparison.csv": "717b2aecb257fac869dd9d26f1850ebba61ae3dbe928b61a8efb6c200b75a4a7",
+  "summary.json": "57f56585add362d0eacf16185a97457b70c6b683ca57fe87f52a2fe1c04f42ce",
+  "A\\interactions.jsonl": "6038a9e4610b9094a8f17474e728b00f7fd85a6954bbb1cae7af37137922baca",
+  "A\\protocol.json": "320e7239c0661390288dddc934c1428e3d39c0030e0dbbb4b211f52deb4618e2",
+  "B\\interactions.jsonl": "f1e397d637ad87885736aac21e274a115477e84c35dac3abe478ce430152dd8f",
+  "B\\protocol.json": "f249960e637d2371999e3e4baddc656dff6252e1a5e98e2509b51d7fc8de116c",
+  "C\\interactions.jsonl": "44bf343c4b1d2ed793eb62e2e717c43a6fbd02874b467b31515b8a6c48510963",
+  "C\\protocol.json": "29b3b4d5becd184fb19b626081dd7afec6b67f00c39393a1d55a66cb766b7894"
+}

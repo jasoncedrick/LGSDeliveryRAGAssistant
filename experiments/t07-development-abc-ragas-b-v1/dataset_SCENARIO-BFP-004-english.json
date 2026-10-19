@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Under what structural conditions are FSCR, FSCCR, and FSMR required by the BFP, and who prepares them?"
+  ],
+  "answer": [
+    "The structural conditions for FSCR (Fire Safety Clearance Report), FSCCR (Fire Safety Clearance Certificate Renewal), and FSMR (Fire Safety Measures Plan Review) are required by the Bureau of Fire Protection (BFP) under the City Planning Citizen's Charter 2026.\n\n- FSCR is required when applying for a building permit [S1]. The Zoning Officer IV of the CPDO prepares it.\n- FSCCR is required for the renewal of a fire safety clearance certificate [S1]. The Zoning Officer IV of the CPDO prepares it.\n- FSMR is required during the presentation of the application to the CHLURU Members [S3]. The proponent presents the application to the CHLURU members and answers queries during deliberation. The TWG members' recommendations are also presented during the meeting. The Zoning Officer IV of the CPDO prepares it."
+  ],
+  "contexts": [
+    [
+      "justments and \nAppeals \n \n-If conditional \napproval clients \nare required to \nsubmit additional \nrequirements for \nthe sufficiency of \nthe application and \nthe conditions \nshould be \ncomplied with \nduring the \nbusiness \noperations \ncommence.\nNone \n5 Minutes\nActing\nAdministrative\nOfficer  \nCPDO",
+      "s \n \nNote: During the \nmeeting, applicants \nare provided with \nrecommendations in \npreparation with the \nLZBA members \nmeeting\nNone \n1 Day \nLZBA TWG \nMembers\nAnd\nSecretariats\n3.2 Schedules \nmeeting with LZBA \ncommittee members, \nprepares invitation to \nmembers and \ninforms applicants\nNone Depends upon\nthe applicant’s\ndiscretion\nZoning Officer\nIV\nCPDO\n4. Presents the \napplication to the \nJoint CDC-LZBA \nMembers\nNote:  Proponent \nwill answer queries \nduring the\n4.1 If approved, the \nSecretariat \nprepares \nresolutions for the \nfavorable action of \nthe",
+      "LURU members \nmeeting\n4. Schedules \nmeeting with \nCHLURU \ncommittee \nmembers, \nprepares \ninvitation to \nmembers and \ninforms \napplicants\nNone \nDepends \nupon the \napplicant’s \ndiscretion\nZoning\nOfficer IV\nCPDO\n5. Presents the \napplication to the \nCHLURU Members\nNote: Proponent \npresents the \napplication to the \nCHLURU members \nand answer queries \nduring deliberation; \nTWG members \nrecommendations \nare also presented \nduring the meeting\n5.1 If approved, \nthe Secretariat \ndrafts and \nfinalizes the \nresolution for \nthe favorable \naction of the \nCHLURU \nMembers to the \nCity Council for"
+    ]
+  ],
+  "ground_truth": [
+    "FSCR/FSCCR/FSMR are required if the building/facilities/structures are required to install any or a combination of wet standpipe, automatic fire suppression, or automatic fire detection and alarm systems. FSCR consists of plans, specifications and design analysis per building, prepared and duly signed by the Engineer/Architect-of-Record and his/her Fire Safety Practitioner. FSCCR compiles approved submittals, test and acceptance forms for fire protection and life safety features as part of as-built documents turned over by the contractor to the owner; it is duly signed by the Contractor/Construction Manager and his/her Fire Safety Practitioner. FSMR is prepared by the building owner, his/her fire safety practitioner or authorized representative, and duly signed by the Building Administrator and his/her Fire Safety Practitioner during regular annual fire safety inspection. The matrix associates FSCR with FSEC, FSCCR with occupancy FSIC, and FSMR with new business without valid occupancy-stage FSIC and the two renewal columns; blank cells are not exemption statements."
+  ]
+}

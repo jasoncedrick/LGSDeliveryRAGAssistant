@@ -1,0 +1,26 @@
+--- group.before.json
++++ group.candidate.json
+@@ -3,7 +3,6 @@
+   "pillar": "Business Bureau",
+   "split": "development",
+   "ground_truth_chunk_ids": [
+-    "DEV120-BB-PDF0003-C002",
+     "DEV120-BB-PDF0003-C003",
+     "DEV120-BB-PDF0003-C004",
+     "DEV120-BB-PDF0003-C005",
+@@ -13,7 +12,7 @@
+     "DEV120-BB-PDF0039-C002",
+     "DEV120-BB-PDF0039-C003"
+   ],
+-  "ground_truth_reference_answer": "To amend a business permit due to a Change of Business Address, the applicant must provide: 1) Current Original Mayor's Permit or Application for Renewal (or Certified True Copy with Affidavit of Loss); 2) Notarized Application Affidavit of Change of Business Address; 3) Notarized SPA (Sole Proprietorship), Partnership Resolution, or Secretary's Certificate (Corporation); 4) Valid ID of representative; 5) Sketch / Google map of new location with pictures; 6) Tax Declaration or proof of ownership and Lease Contract if rented; 7) Valid FSIC for Occupancy Permit within last 9 months; and 8) Notarized Affidavit of Undertaking of no substantial building changes. A service fee of PHP 50.00 is charged at the CTO.",
++  "ground_truth_reference_answer": "For Amendment of Business Permit - Change of Business Address, the charter lists the following requirements (printed pages 42-43; PDF pages 3-4). Preserve the stated business-form and representation conditions. Each row below includes its Where to Secure entry.\n\n1. Current Original Mayor’s Permit, Application for Renewal of Business Permit, or Certified True Copy of Business Permit w/ Affidavit of Loss in case of lost permits Applicant or Records Section, Business Bureau or Any Notary Public for affidavit of loss.\n2. Application Affidavit of Change of Business Address (notarized) stating the new location of the business-Single Proprietorship Applicant, notarized by any Notary Public\n3. For Sole Proprietorship, if represented, Special Power of Attorney, indicating specific authority and capacity granted to representative. Applicant, notarized by any Notary Public\n4. For Partnership, Partnership Resolution indicating specific authority and capacity granted to representative, and stating the new location of the business Applicant, notarized by any Notary Public\n5. For Corporation / Cooperative, Board Resolution or Secretary’s Certificate, indicating specific authority and capacity granted to representative, and stating the new location of the business Applicant, notarized by any Notary Public\n6. Valid ID of the representative (1 photocopy), if newly designated Applicant\n7. Sketch / Google map of Business location (1 original) with pictures of the premise location Applicant\n8. Tax Declaration of the Property or any proof of property ownership (owned, rented and not rented) and Lease Contract if rented or Consent from Property Owner if not rented Applicant, notarized by any Notary Public\n9. FSIC for Occupancy Permit valid in the last 9 months Bureau of Fire Protection\n10. Affidavit of Undertaking that there had been no substantial changes made on the building Applicant, notarized by any Notary Public\n\nFees (printed page 78; PDF page 39): Step 1 application lists None. For Step 2 payment at the City Treasurer’s Office, the charter states: Mayor’s Permit Fee is based on the asset size and nature of business. Service fee is Php50.00. The PHP 50.00 service fee is not a quoted total inclusive of the variable Mayor’s Permit Fee.\n",
+   "queries": {
+     "english": "What are the requirements and service fees to change my registered business address at the Business Bureau?",
+     "taglish": "Ano ang mga requirements at service fee kapag magpapalit ng registered business address sa Business Bureau?",
+@@ -25,5 +24,5 @@
+     "CHUNK-BB-P043-C01",
+     "CHUNK-BB-P078-C02"
+   ],
+-  "mapping_status": "PROVISIONAL_EXACT_SPAN_MAPPING"
++  "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED"
+ }

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga rekisitos para makakuha ug Occupancy Permit sa OCBO human mahuman ang pagtukod sa edipisyo?"
+  ],
+  "answer": [
+    "Ang mga rekisito para makakuha ug Occupancy Permit sa OCBO sa pagtukod sa edipisyo ay nakalistado sa mga source blocks S2 at S3.\n\nSa S2, ang rekisito nga nakalistado sa chunk DEV120-OCBO-PDF0056-C002 ay:\n1. Approved plans and documents with Sidewalk Occupancy Permit Number\n\nSa S3, ang rekisito nga nakalistado sa chunk DEV120-OCBO-PDF0016-C001 ay:\n4. Fire Certificate\n5. Order of Payment\n6. Official Receipt\n\nSa S2 at S3, ang rekisito nga nakalistado sa chunk DEV120-OCBO-PDF0056-C002 at DEV120-OCBO-PDF0016-C001 ay ang approved plans and documents."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "Records\nCustodian –\nOCBO\nRecords\nManagement \nAssistant –\nOCBO\n6. Claim the approved plans \nand documents with Sidewalk \nOccupancy Permit Number\n6. Release \napproved plans \nand documents to \nclient\nNone \n5 Minutes \nRecords\nManagement \nAssistant –\nOCBO\nTOTAL: \n*Please\nrefer \nbelow\n10 Days,\n2 Hours, and \n23 Minutes",
+      "4.7 Forward to \nBuilding Official (BO) \nfor approval \n \n \n \n4.8 Forward to \nElectrical for \nstamping \n \n \n4.9 Stamp \nOccupancy Permit \nnumber and \nsegregate documents\n5 Minutes\n5. Claim Order of \nPayment and \napproved documents \nthen resubmit plans \nand documents with \nFire Certificate with \nOrder of Payment \nand Official Receipt. \nFinally, claim \nApproved Certificate \nof Occupancy\n5. Release approved \nCertificate of \nOccupancy (COC), \napproved plans and \ndocuments\nNone \nRecords Personnel\n– OCBO\nTOTAL: \n*Please\nrefer \nbelow\n17 Days"
+    ]
+  ],
+  "ground_truth": [
+    "Occupancy checklist: application letter (1 original); authorization letter if applicant is not owner (1 original); owner ID with 3 specimen signatures (1 photocopy); Certificate of Occupancy (1 original); Certificate of Completion (1 original); BFP Fire Safety Inspection Certificate (1 original); four-elevation project pictures (front/back/left/right); approved Building Construction, Architectural, Civil/Structural, Sanitary/Plumbing, Electrical and Mechanical installation permits (1 photocopy); approved building-permit plan (1 original).\n\nIf a different professional undertook/was assigned the project, the checklist requires a signed, notarized waiver from the previous professional in charge (1 original). It also lists Structure Images with CAAP clearance and structural survey for actual building height, signed/sealed by a licensed Geodetic Engineer. The authorization-letter source cell says CPDO and the picture source cell says Hired Geodetic Engineer; those unusual source associations are preserved."
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "question": [
+    "Ano ang karagdagang requirements ng OCBO kapag ang itatayong gusali ay may 3 floors pataas?"
+  ],
+  "answer": [
+    "For a building with 3 floors or more, the additional requirement from the Office of the City Building Official (OCBO) is the validation of the Occupancy Permit based on the Integrated Zoning Ordinance (2019-2028) for 3-storey buildings and above and building floor area of 1,500 square meters and above. [S1]\n\nThe validation of the Locational Clearance issued by the Office of the City Planning & Development Coordinator is also required. [S1]\n\nFor the Demolition Permit, the requirements are:\n1. Demolition Form with 3 sets of Civil/Architectural Plans of the building duly signed. [S2]\n\nFor the building fee computation, refer to the schedule in [S3].\n\nFor Division J-2 structures such as garages, carports, balconies, terraces, lanais, and the like, they shall be assessed 50% of the rate of the principal building, of which they are accessories. [S4]\n\nFor the Pavement Permit, a requirement is the Pavement Permit form with 3 sets of Civil/Architectural plans. [S5]"
+  ],
+  "contexts": [
+    [
+      "2. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (3-Storey Buildings and Above and \n1,500 Building Floor Area and Above) \nFor 3-storey buildings and above and for building floor area of 1,500 square meters \nand above only.  \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nComplex\nType of Trans",
+      "10. Issuance of Demolition Permit\nA Demolition Permit shall be required prior to the demolition of any building or structure.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; \nG2G – Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1.     Demolition Form with 3 sets of \nCivil/Architectural Plans of the fence duly signed",
+      "20\nAbove 1,500 to 2,000 \nPhp \n  6.60\nAbove 2,000 to 3,000 \nPhp \n  6.00\nAbove 3,000 \nPhp \n  5.00\nNOTE: Computation of the building fee in item 3.d. follows the example of Section 3.c. \nof this Schedule.\n3.e Division J-2 structures shall be assessed 50% of the rate of the principal \nbuilding of which they are accessories (Sections 3.a. to 3.d.)",
+      "5,000 sq.meters \nPhp \n200.00\nWith floor area above 10,000.00 \nsq.meters\nPhp   2,400.00\ne. Division J-2 structures\nGarages, carports, balconies, terraces, lanais and the like: 50% of the rate of the \nprincipal building, of which they are accessories.\nAviaries, aquariums, zoo structures and the like: same rates as for Section 10.d. above.\nTowers such a for Radio and TV transmissions, cell site, sigh (ground of roof type) and \nwater tank supporting",
+      "7. Issuance of Pavement Permit\nA Pavement Permit shall be required prior to or during the processing of the building permit and prior \nto the commencement of the proposed project and construction.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; \nG2G – Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Pavement Permit form with 3 sets of \nCivil/Arch"
+    ]
+  ],
+  "ground_truth": [
+    "Conditional requirements state: construction/minor repair of buildings 3 storeys and above requires Construction Safety & Health Program, 1 original and 1 photocopy, with DOLE listed under Where to Secure. Boring and Plate Load Test Result/Report is listed if the structure is at least three storeys, 2 copies, with a licensed Civil/Geotechnical Engineer listed. For an additional storey, submit an affidavit that the foundation can carry the proposed additional floors, 2 originals."
+  ]
+}

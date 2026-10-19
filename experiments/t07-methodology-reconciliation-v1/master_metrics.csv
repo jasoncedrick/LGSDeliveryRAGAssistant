@@ -1,0 +1,31 @@
+configuration,split,version,metric,mean,valid_queries,eligible_missing,not_scored,all_queries,k,interpretation
+A,development,archived_retrieval,hit_at_k,0.6777777777777778,90,0,0,90,3,All-query retrieval diagnostic; not the weight-selection objective.
+A,development,archived_retrieval,mrr_at_k,0.4296296296296296,90,0,0,90,3,All-query retrieval diagnostic; not the weight-selection objective.
+A,development,legacy_original,faithfulness,0.7481872294372295,88,2,0,90,3,"Mean on valid saved scores; unequal denominators, known judge errors, not final held-out evidence."
+A,development,legacy_original,context_precision,0.937962962924398,90,0,0,90,3,"Mean on valid saved scores; unequal denominators, known judge errors, not final held-out evidence."
+A,development,legacy_original,context_recall,0.9154592321258989,90,0,0,90,3,"Mean on valid saved scores; unequal denominators, known judge errors, not final held-out evidence."
+A,development,legacy_original,answer_relevancy,0.5819483582835054,90,0,0,90,3,"Mean on valid saved scores; unequal denominators, known judge errors, not final held-out evidence."
+A,development,legacy_supplemental_retries,faithfulness,0.738968253968254,90,0,0,90,3,"Mean on valid saved scores; unequal denominators, known judge errors, not final held-out evidence."
+A,development,legacy_supplemental_retries,context_precision,0.937962962924398,90,0,0,90,3,"Mean on valid saved scores; unequal denominators, known judge errors, not final held-out evidence."
+A,development,legacy_supplemental_retries,context_recall,0.9154592321258989,90,0,0,90,3,"Mean on valid saved scores; unequal denominators, known judge errors, not final held-out evidence."
+A,development,legacy_supplemental_retries,answer_relevancy,0.5819483582835054,90,0,0,90,3,"Mean on valid saved scores; unequal denominators, known judge errors, not final held-out evidence."
+B,development,archived_retrieval,hit_at_k,0.7,90,0,0,90,3,All-query retrieval diagnostic; not the weight-selection objective.
+B,development,archived_retrieval,mrr_at_k,0.6166666666666667,90,0,0,90,3,All-query retrieval diagnostic; not the weight-selection objective.
+B,development,legacy_original,faithfulness,0.8152095871608065,82,1,7,90,3,"Mean on valid saved scores; unequal denominators, known judge errors, not final held-out evidence."
+B,development,legacy_original,context_precision,0.9407630521699303,83,0,7,90,3,"Mean on valid saved scores; unequal denominators, known judge errors, not final held-out evidence."
+B,development,legacy_original,context_recall,0.912516733601071,83,0,7,90,3,"Mean on valid saved scores; unequal denominators, known judge errors, not final held-out evidence."
+B,development,legacy_original,answer_relevancy,0.5779448897503179,83,0,7,90,3,"Mean on valid saved scores; unequal denominators, known judge errors, not final held-out evidence."
+B,development,legacy_supplemental_retries,faithfulness,0.8174359776769414,83,0,7,90,3,"Mean on valid saved scores; unequal denominators, known judge errors, not final held-out evidence."
+B,development,legacy_supplemental_retries,context_precision,0.9407630521699303,83,0,7,90,3,"Mean on valid saved scores; unequal denominators, known judge errors, not final held-out evidence."
+B,development,legacy_supplemental_retries,context_recall,0.912516733601071,83,0,7,90,3,"Mean on valid saved scores; unequal denominators, known judge errors, not final held-out evidence."
+B,development,legacy_supplemental_retries,answer_relevancy,0.5779448897503179,83,0,7,90,3,"Mean on valid saved scores; unequal denominators, known judge errors, not final held-out evidence."
+C,development,archived_retrieval,hit_at_k,0.7,90,0,0,90,3,All-query retrieval diagnostic; not the weight-selection objective.
+C,development,archived_retrieval,mrr_at_k,0.6166666666666667,90,0,0,90,3,All-query retrieval diagnostic; not the weight-selection objective.
+C,development,legacy_original,faithfulness,0.7773384353741497,84,0,6,90,3,"Mean on valid saved scores; unequal denominators, known judge errors, not final held-out evidence."
+C,development,legacy_original,context_precision,0.9374999999600698,84,0,6,90,3,"Mean on valid saved scores; unequal denominators, known judge errors, not final held-out evidence."
+C,development,legacy_original,context_recall,0.9198412698412698,84,0,6,90,3,"Mean on valid saved scores; unequal denominators, known judge errors, not final held-out evidence."
+C,development,legacy_original,answer_relevancy,0.5824110740693047,84,0,6,90,3,"Mean on valid saved scores; unequal denominators, known judge errors, not final held-out evidence."
+C,development,legacy_supplemental_retries,faithfulness,0.7773384353741497,84,0,6,90,3,"Mean on valid saved scores; unequal denominators, known judge errors, not final held-out evidence."
+C,development,legacy_supplemental_retries,context_precision,0.9374999999600698,84,0,6,90,3,"Mean on valid saved scores; unequal denominators, known judge errors, not final held-out evidence."
+C,development,legacy_supplemental_retries,context_recall,0.9198412698412698,84,0,6,90,3,"Mean on valid saved scores; unequal denominators, known judge errors, not final held-out evidence."
+C,development,legacy_supplemental_retries,answer_relevancy,0.5824110740693047,84,0,6,90,3,"Mean on valid saved scores; unequal denominators, known judge errors, not final held-out evidence."

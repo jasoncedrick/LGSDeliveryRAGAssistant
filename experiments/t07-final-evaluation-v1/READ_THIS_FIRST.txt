@@ -1,0 +1,49 @@
+CURRENT UPDATE: FINAL A/B/C EXECUTION IS RUNNING
+The source-span crosswalk transfers 77/87 spans; all 70 groups retained, 59 groups have complete retrieval labels. See EXECUTION_GUIDE.txt for active stages, CLI progress and explicit missing-label policy. Earlier preflight report below is preserved history, not current run status.
+
+T07 FINAL EVALUATION PREFLIGHT: SOURCE-ID ALIGNMENT BLOCKER
+
+Actions executed
+Verified the manuscript SHA256, authoritative main Thesis Tracker evidence, completed 17-candidate development grid, source corpus validation and local Mistral model identity.
+Registered the historical development candidate and sealed its file hashes BEFORE reading held-out structure. Preserved weights [0.75, 0.25, 0.0], K=3, whitespace BM25, 120-token corpus windows with 20-token overlap, Mistral and identical A/B/C generator settings. Punctuation, Qwen and rejected evaluator candidates were not adopted.
+The legacy RAGAS evaluator is explicitly recorded with its known semantic errors; the later quote-perfectness experiments and extra independent review are not mandatory gates for this registration.
+Validated the actual held-out file after registration. It contains 70 groups, 210 queries, 14 groups per office and no development group-ID overlap.
+Four preflight unit tests passed. Benchmark bytes were hash-verified unchanged.
+
+Concrete blocker
+All 70 groups reference legacy CHUNK-... IDs; the frozen rebuilt corpus uses DEV120-... IDs. There are 87 distinct legacy gold IDs absent from the active index. Treating these as ordinary retrieval misses would produce misleading Hit/MRR values.
+The exact source-identity audit found six old spans completely contained in current same-file/same-PDF-page chunks. Eighty-one did not pass that strict identity check. Only three groups have every old span exactly resolvable by this check. These are diagnostic candidate matches, not applied replacement labels.
+Failure to match a whole old span does NOT establish absence of the substantive policy from the corpus. The new tokenizer windows and corrected extraction can change span boundaries/wording. Matching a whole page, using fuzzy similarity, or selecting chunks based on the held-out answers would silently change relevance labels; none was done.
+
+Split-tag clarification
+The benchmark uses split="held_out_test". The initial strict parser did not include that spelling and reported WRONG_SPLIT entries. This is a parser spelling mismatch, not evidence of leakage. legacy_gold_identity_audit.json documents the actual value. The substantive blocker remains the relevance/source-ID compatibility, independent of this spelling.
+The original preflight report and registered code are preserved rather than rewritten after reading test metadata.
+
+Required next data step
+A source-validated relevance-ID crosswalk for the existing benchmark and this rebuilt corpus is needed before valid final Hit/MRR scoring. Preserve benchmark questions, reference answers, original IDs and group allocation. Record any crosswalk separately with source evidence and provenance; do not silently overwrite the held-out benchmark or count unmapped labels as zero scores.
+This is distinct from the optional 60-control judge review. That form need not be filled to resolve this issue.
+No generation, final RAGAS or final results CSV was fabricated while the source-ID alignment is unresolved. The runtime candidate must not be tuned using held-out queries or outcomes. Any data/protocol resolution must be versioned and disclosed before a subsequent final execution.
+
+Files
+candidate_registration.json: registered historical settings, file hashes, package/model identity and disclosed limitations.
+registration_seal.json: hash of the registration written before test structural access.
+preflight.json: original partition/ID checks and unchanged test hash.
+legacy_gold_identity_audit.json: exact text-identity audit, normalization rule, source hashes and candidate matches; no labels applied.
+gold_id_compatibility.csv: one row per legacy ID with diagnostic exact candidates.
+
+Existing completed A/B/C metrics
+../t07-methodology-reconciliation-v1/master_metrics.csv
+These cover 270 DEVELOPMENT interactions. They are preserved and must not be labeled final held-out metrics.
+
+Methodology grounding
+20260923.pdf PDF28: source-linked tokenizer windows of 120 tokens, overlap20.
+PDF30: chunk-level BM25/dense/dictionary fusion.
+PDF33: development-only Context Precision selection and three A/B/C architectures.
+PDF34: register all components before final held-out evaluation and retain unfavorable results without tuning on test errors.
+Main Thesis Tracker T07: execute the three frozen architectures and export their metrics CSV. This registration/preflight alone does not complete that final execution.
+
+Status
+T06 implementation: complete with documented evaluator limitations.
+T07 development A/B/C execution and CSV: complete with documented limitations.
+Final T07: blocked before inference by incompatible benchmark relevance IDs. This is a concrete data-alignment issue, not a new requirement for perfect judge quotes or another 60-item review.
+Held-out structure/IDs were accessed after candidate registration; no held-out question text was printed or used for tuning. No benchmark, model/prompt, app default, original score or corpus was changed. No new model inference was launched.

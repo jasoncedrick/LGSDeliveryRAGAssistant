@@ -1,0 +1,27 @@
+{
+  "scope": "Offline archived development evaluation; no runtime filtering or final benchmark claims",
+  "ragas_version": "0.1.5",
+  "judge_model": "eboss-mistral",
+  "metrics": [
+    "faithfulness"
+  ],
+  "input_archive": "D:\\thesis\\LGSDeliveryRAGAssistant-clean\\experiments\\t07-development-abc-v1\\A\\interactions.jsonl",
+  "input_sha256": "6038a9e4610b9094a8f17474e728b00f7fd85a6954bbb1cae7af37137922baca",
+  "record_ids": [
+    "SCENARIO-BFP-005-bislish"
+  ],
+  "generation_failures_retained_in_original_archive": true,
+  "reference": "Archived reference answer if available, otherwise source evidence fragments; preserve declared reference status.",
+  "same_generator_and_judge_model": true,
+  "max_workers": 1,
+  "max_retries": 0,
+  "held_out_accessed": false,
+  "judge_output_tokens": 4096,
+  "judge_timeout": 600,
+  "faithfulness_schema_instruction": {
+    "statements": "Return exactly one JSON object with the single key \"statements\", containing a nonempty array of strings. Decompose only the supplied answer. Stop after that object. Do not continue examples or add unrelated questions.",
+    "verdicts": "Return only a JSON array with exactly one object per supplied statement in its original order. Each object must include the original statement, a reason, and \"verdict\" as the string \"0\" or \"1\". Do not use fractional verdicts. Do not change or negate the statement being judged. Stop after the array."
+  },
+  "context_recall_schema_instruction": null,
+  "metric_output_contract": null
+}

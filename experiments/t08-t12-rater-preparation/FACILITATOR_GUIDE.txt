@@ -1,0 +1,205 @@
+FACILITATOR GUIDE - KEEP SEPARATE FROM THE RATER HANDOUT
+Preparation advice and fictional training anchors; not study results
+
+PURPOSE
+
+Explain the expert task before formal blind scoring. Use the separate
+MOCK_RATER_HANDOUT.txt for the demonstration. Do not reveal this guide's
+suggested scores until raters have completed the practice independently.
+
+The local manuscript specifies:
+  - 20 held-out scenario groups, four per each of five service categories.
+  - Three language variants per group: 60 query pairs.
+  - Configurations A and B: 120 answers.
+  - Three independent experts, each rating all 120 answers: 360 reviews.
+  - Two 1-4 scores per review: 720 individual score values when complete.
+  - Separate Answer Relevance and Factual Faithfulness dimensions.
+
+The mock items are fictional and are not drawn from the held-out set. They
+are English examples only; add separately checked Tagalog and Bislish practice
+items before training the actual multilingual panel.
+
+SUGGESTED 25-30 MINUTE ORIENTATION
+
+0-5 min: Explain the task, independence, anonymity and evidence panels.
+5-10 min: Explain the four-point rubric and score dimensions separately.
+10-18 min: Raters score the two practice pairs independently.
+18-25 min: Discuss evidence and rubric boundaries using the anchors below.
+25-30 min: Resolve procedural questions and explain flags, breaks and saving.
+
+Suggested opening script:
+"You will see a citizen's question, source evidence and two anonymous answers.
+Please score each answer independently for relevance and factual faithfulness.
+We are evaluating the answers, not your performance. Equal scores are allowed.
+Please identify unsupported claims and missing information. Do not guess the
+system identity or discuss formal scores with another rater. If a source is
+unclear, flag it so we can preserve the problem rather than invent an answer."
+
+PRACTICE DISCUSSION ANCHORS
+
+Item M-014, Response X
+  Suggested relevance: 4. It answers where, what documents, and the fee.
+  Suggested faithfulness: 4. Every claim matches the fictional source.
+
+Item M-014, Response Y
+  Suggested relevance: 4. It addresses all requested parts of the question.
+  Suggested faithfulness: 2. The office and documents match, but PHP 500
+  contradicts the source's PHP 120. Table 2 places a major fee error at 2.
+  Lesson: addressing a question is separate from factual correctness.
+
+Item M-027, Response X
+  Suggested relevance: 1. It answers a different service question.
+  Suggested faithfulness: 4. Its library statement is supported by the source.
+  Lesson: a true statement can be irrelevant to the citizen's inquiry.
+
+Item M-027, Response Y
+  Suggested relevance: 3. It answers the main location question but omits hours.
+  Suggested faithfulness: 4. Its actual claim is fully supported.
+  Lesson: omission is different from making an unsupported assertion.
+
+These are proposed training anchors, not expert ratings. Confirm the relevance
+versus correctness distinction and the minor-omission boundary with the panel
+before freezing instructions. If a reasonable disagreement exposes an unclear
+rule, clarify it during practice. Never reveal preferred formal scores.
+Add further practice anchors for relevance 2 and faithfulness 1 and 3 before
+the final orientation; these two pairs intentionally focus on common mistakes.
+
+T08 - BUILD THE BLINDED AUDIT PACKAGE
+
+The inspected local status says the development comparison is not yet frozen.
+Prepare the interface now, but populate final packets only from archived
+outputs of the frozen held-out evaluation. Preselect the 20 groups without
+looking at answer quality. Preserve both systems' failures and abstentions.
+
+Keep a private mapping from opaque answer IDs to configuration A or B.
+Randomize query order and counterbalance left/right placement across each
+rater's packet. Preserve stable answer IDs so ratings can be aligned later.
+With three raters exact 50/50 placement is impossible for each single pair;
+balance placements across the full packet. Archive the seed and mapping.
+
+Keep answers verbatim. Remove system-identifying interface metadata and file
+paths, not substantive answer errors. Store normalized queries, settings and
+raw records in the research archive; these need not appear in the rater view
+because they may expose which pipeline generated the answer.
+
+Distinguish:
+  1. Common verified official reference and page images for the query.
+  2. Actual evidence retrieved for each anonymous answer.
+The human rubric checks official-source support. RAGAS faithfulness checks
+retrieved-context support; preserve this distinction in the analysis.
+
+T09 - FREEZE THE SCORING INSTRUCTIONS AND INTERFACE
+
+Display the original question, common source reference, unedited answer,
+answer-specific retrieved evidence, and two separate 1-4 controls per answer.
+Include evidence notes, error flags, save/resume and an explicit unscorable
+flag with a reason. An unscorable flag is not a fifth ordinal score.
+Do not show model names, A/B mappings, RAGAS scores, or other raters' scores.
+Equal scores are valid. A forced winner does not replace the rubric.
+
+Decide before formal scoring how to handle ambiguous sources, clarification
+requests, abstentions, no generated answer, missing evidence and source-version
+conflicts. Retain every scheduled case; report any missing ratings and their
+denominators instead of silently dropping difficult cases.
+
+For actual double blinding, document exactly who is blinded. A separate data
+custodian can hold the mapping while raters and the session facilitator are
+blind. If researchers running the session know identities, describe the actual
+masking honestly instead of claiming an unqualified double-blind design.
+
+T10 - RUN INDEPENDENT FORMAL SESSIONS
+
+Use three qualified service-domain experts fluent in all three study languages.
+Every expert rates all 120 answers. Do not divide 120 answers among the three.
+Consider three blocks of 20 query pairs per expert (40 answers per block),
+with breaks or separate appointments. Measure time in the pilot before
+promising a duration. Do not show practice scores during formal rating.
+
+Suggested scoring record fields:
+rater_id, opaque_answer_id, opaque_query_id, displayed_side, relevance_score,
+faithfulness_score, evidence_note, error_flags, unscorable_reason, timestamp,
+rubric_version, packet_version.
+
+Keep the configuration mapping in a separate restricted researcher file.
+Preserve original independent ratings even if later adjudication is needed.
+
+T11 - MEASURE AGREEMENT
+
+Calculate ordinal Krippendorff's alpha separately for relevance and
+faithfulness, using a rater-by-answer matrix (3 by 120 when complete).
+Align by stable answer ID, never by left/right position or presentation order.
+Report uncertainty, score distributions, exact agreement and missingness.
+If bootstrapping uncertainty, resample whole scenario groups so languages
+and both configurations remain together.
+
+Alpha >= 0.80 is the manuscript's reliability target. It is not a p-value,
+proof of factual truth, or a guaranteed outcome. Do not overwrite independent
+scores to reach the target. Low or undefined alpha must be reported and
+investigated; uniform scores can make chance-corrected reliability undefined.
+
+T12 - TEST PAIRED SYSTEM DIFFERENCES
+
+Predeclare the hypotheses, test, primary outcomes, missing-data treatment and
+multiple-testing policy before unblinding. The manuscript pages inspected
+specify alpha for reliability but do not specify a significance test for T12.
+
+A proposed analysis to review with the thesis statistician:
+For each dimension, compare B and A within the same query and rater, summarize
+within each scenario group, and use a paired test that keeps each group's
+three languages and repeated ratings together. A group-level permutation
+analysis requires an explicitly justified exchangeability/symmetry assumption.
+If averaging ordinal scores, state the numerical-score interpretation and
+also report paired wins/ties/losses and the full score distributions.
+Use confidence intervals that resample scenario groups; account for the
+category-balanced sample. The audit has 20 scenario groups, not 360
+independent experimental units. Conclusions concern this expert panel.
+
+Report the direction and size of the difference, uncertainty and p-value,
+including nonsignificant or unfavorable findings. If both score dimensions
+are confirmatory endpoints, predeclare a multiplicity adjustment such as Holm.
+Keep automated A/B/C tests on the full held-out benchmark separate from this
+20-group A/B expert audit.
+
+A versus B tests the combined proposed pipeline. B versus C is the relevant
+ablation for pre-translation dictionary injection. The current development
+ablation retains static lexical guidance, which limits the dictionary claim.
+The current development candidate has dictionary boost weight zero; that does
+not by itself establish that pre-translation dictionary injection has no effect.
+
+TRACKER CLEANUP TO PROPOSE (NO TRACKER CHANGES MADE)
+
+T10: One description says four auditors but still says 360 reviews. The
+manuscript and task title specify three. Four full raters would yield 480.
+T11: Use "Estimate inter-rater reliability and report whether alpha >= 0.80."
+T12: Use "Estimate paired performance differences and test significance."
+Completion must not depend on obtaining favorable findings.
+
+SOURCE LIMITATIONS TO RESOLVE IN THE PROTOCOL
+
+Existing development reviews flag unresolved CTO transfer-tax wording and
+OCBO mechanical-plan requirements. These are not clean training anchors.
+Do not use expert memory to silently repair a frozen reference. Log a source
+conflict, seek a separately documented authoritative clarification where
+needed, and preserve the distinction between source fidelity and real-world
+correctness. Formal cases must follow the predeclared scoring policy.
+
+SOURCES INSPECTED
+
+Local tracker: C:/Users/User/Downloads/thesis_progress_tracker.xlsx
+  Thesis Tracker rows 18-22 (T08-T12).
+Local manuscript: D:/thesis/20260923.pdf
+  PDF pages 35-36 / printed pages 30-31: audit design, rubric and reliability.
+Local status: experiments/t06-t07-current-status/READ_THIS_FIRST.txt
+Local reviews: experiments/source-reference-review-remaining-batch-v1/
+  SCENARIO-CTO-002/review.json and SCENARIO-OCBO-001/review.json
+
+Krippendorff, Computing Krippendorff's Alpha-Reliability:
+https://www.asc.upenn.edu/sites/default/files/2021-03/Computing%20Krippendorff%27s%20Alpha-Reliability.pdf
+Dror et al., The Hitchhiker's Guide to Testing Statistical Significance in NLP:
+https://aclanthology.org/P18-1128/
+Bestgen, Please, Don't Forget the Difference and the Confidence Interval:
+https://aclanthology.org/2022.lrec-1.640/
+
+The scheduling, interface controls and detailed analysis suggestions above
+are preparation recommendations, not claims that they already appear in the
+approved methodology. Confirm and freeze additions before formal collection.

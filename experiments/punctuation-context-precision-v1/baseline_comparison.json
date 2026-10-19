@@ -1,0 +1,54 @@
+{
+  "candidate_selection_status": "INCOMPLETE_JUDGING_NO_FINAL_SELECTION",
+  "candidate_best": {
+    "grid_id": 10,
+    "k": 3,
+    "J": 0.8685185184848149,
+    "cell_means": {
+      "Business Bureau|english": 0.9999999999666667,
+      "Business Bureau|taglish": 0.9999999999666667,
+      "Business Bureau|bislish": 0.9999999999666667,
+      "City Treasurer's Office|english": 0.6666666666416666,
+      "City Treasurer's Office|taglish": 0.47222222220138893,
+      "City Treasurer's Office|bislish": 0.41666666664722224,
+      "Office of the City Building Official|english": 0.9305555555201389,
+      "Office of the City Building Official|taglish": 0.8055555555236111,
+      "Office of the City Building Official|bislish": 0.9305555555229166,
+      "City Planning and Development Office|english": 0.9166666666291666,
+      "City Planning and Development Office|taglish": 0.9722222221763889,
+      "City Planning and Development Office|bislish": 0.9444444444083334,
+      "Bureau of Fire Protection|english": 0.9999999999611111,
+      "Bureau of Fire Protection|taglish": 0.9999999999555556,
+      "Bureau of Fire Protection|bislish": 0.9722222221847222
+    },
+    "judge_failed_queries": 0
+  },
+  "baseline_best": {
+    "grid_id": 13,
+    "k": 3,
+    "J": 0.8685185184830554,
+    "cell_means": {
+      "Business Bureau|english": 0.9999999999666667,
+      "Business Bureau|taglish": 0.9999999999666667,
+      "Business Bureau|bislish": 0.9999999999666667,
+      "City Treasurer's Office|english": 0.6666666666333333,
+      "City Treasurer's Office|taglish": 0.4999999999722222,
+      "City Treasurer's Office|bislish": 0.41666666664722224,
+      "Office of the City Building Official|english": 0.8472222221868057,
+      "Office of the City Building Official|taglish": 0.8888888888527777,
+      "Office of the City Building Official|bislish": 0.9305555555201389,
+      "City Planning and Development Office|english": 0.99999999995,
+      "City Planning and Development Office|taglish": 0.8749999999618056,
+      "City Planning and Development Office|bislish": 0.9722222221847222,
+      "Bureau of Fire Protection|english": 0.9305555555201389,
+      "Bureau of Fire Protection|taglish": 0.9999999999527778,
+      "Bureau of Fire Protection|bislish": 0.9999999999638889
+    },
+    "judge_failed_queries": 0
+  },
+  "held_out_accessed": false,
+  "freeze": false,
+  "app_defaults_changed": false,
+  "decision": "Review candidate coverage, judge failures and framework limitations before any promotion or paired answer regeneration.",
+  "J_difference": 1.759481449425948e-12
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What is the formula and statutory ceiling for computing individual and corporate Community Tax (Cedula) in Davao City?"
+  ],
+  "answer": [
+    "The formula for computing individual Community Tax (Cedula) in Davao City is based on the total property owned by the individual, as stated in [S3]. The additional tax imposed is not exceeding Five Thousand Pesos (P5,000.00).\n\nFor corporations, the statutory ceiling for Community Tax (Cedula) is not explicitly provided in the given sources. However, it is mentioned that those who are required by law to file an income tax return shall pay an annual community tax of Five (P5.00) Pesos and an annual additional tax of One Peso (P1.00) for every One Thousand Pesos (P1,000.00) of income, with no case exceeding Five Thousand Pesos (P5,000.00) [S3]."
+  ],
+  "contexts": [
+    [
+      "2.3. Encode the\ndetails in \nthe \nBusiness \nPermit and \nLicensing \nSystem \n(BPLS) \nand \ngenerate \nthe Tax \nOrder of \nPayment.\n2.4. Submit the\napplication \nfor approval \nto the \napproving \nofficer.\n5 Minutes\n2 Minutes\n3. Pay the\nBusiness \nTax at \nCounters 1-\n4, \nPoblacion, \nor assigned \nwindows at \nCTO District \nOffices.\n3. Assess and\nprocess \npayments, \nissue Official \nReceipts, and \nsecure the \nCommunity \nTax \nCertificate \n(Cedula) at \nthe Business \nTax \nAssessment \nDivision, City \nTreasurer’s \nOffice, \nSangguniang \nPan",
+      "Assessment \nDivision, City \nTreasurer’s \nOffice, \nSangguniang \nPanlungsod, to \nassess and \npay fees, and \nsecure an \nOfficial Receipt \nand \nCommunity \nTax Certificate \n(Cedula).\nReceipts, \nand process \nthe Cedula.\nCode of\nthe City of\nDavao\nOrdinance \nNo. 0291- \n17, series \nof 2017, \nsection 72\n–\nImposition \nof Tax on\nAnnual\nFixed Tax\nfor\nDelivery \nVehicle;\nSection 76\n–\nGraduated\nTax on \nBusiness\nLocal Treasury\nOperations\nOfficer I/Local\nRevenue\nCollection Officer \nI/Local Revenue \nCollection Officer \nI/Local Revenue",
+      "Pesos or more, or who is required by law to file an income tax \nreturn shall pay an annual community tax of Five (P5.00) Pesos and an annual additional \ntax of One Peso (P1.00) for every One Thousand Pesos (P1,000.00) of income \nregardless of whether from business, exercise of profession or from property which in no \ncase shall exceed Five Thousand Pesos (P5,000.00).\nIn the case of husband and wife, the additional tax herein imposed shall be based \nupon the total property owned by them and the total gross receip"
+    ]
+  ],
+  "ground_truth": [
+    "Annex14 states an annual basic community tax of PHP5 for liable individuals plus an annual additional tax of PHP1 per PHP1,000 of income, with the additional tax capped at PHP5,000. For husband and wife the additional tax is based on their total property and total gross receipts/earnings. The cap is on additional tax, not the basic-plus-additional total.\n\nFor liable corporations, the basic annual tax is PHP500 plus additional tax capped at PHP10,000. The additional schedule is PHP2 per PHP5,000 of Philippine real-property value during the preceding year using the stated real-property-tax valuation, plus PHP2 per PHP5,000 of Philippine business gross receipts/earnings during the preceding year. Intercorporate dividends are included in gross receipts/earnings for this additional tax. The cap is on additional tax."
+  ]
+}

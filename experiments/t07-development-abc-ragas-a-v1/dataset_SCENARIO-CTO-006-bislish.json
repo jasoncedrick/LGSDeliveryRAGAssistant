@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsaon pagkwenta sa sedula para sa tao ug sa korporasyon diri sa Davao ug pila ang kinadak-ang limit sa bayad?"
+  ],
+  "answer": [
+    "Sa Davao, ang sedula para sa tao ay maaayos sa BFP (Bureau of Fire Protection) sa Php 100. Para sa korporasyon, wala nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa iyang pag-aral sa mga nakapag-aral sa BFP-CITIZENS-CHARTER-2022.pdf [S1].\n\nSa pag-apil sa bazaar o exhibit, ang bayad para sa event organizer mula sa Davao ay Php 500 per day per location. Para sa event organizer mula sa ibang lugar na may mas mababa sa 30 exhibitors, ang bayad ay Php 1,000 per day per activity. Para sa event organizer mula sa ibang lugar na may 31 hanggang 60 exhibitors, ang bayad ay Php 2,000 per day per activity. Para sa event organizer mula sa ibang lugar na may 61 hanggang 100 exhibitors, ang bayad ay Php 3,000 per day per activity. Ang mga ito maaayos sa Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf [S3].\n\nWala nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa iyang pag-aral sa mga limit sa bayad para sa korporasyon."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "te and other  permits or licenses being issued by other government agencies.\nNOTE (4) Section 9.1.2 of JMC No. 01 Series of 2021—To limit the face-to-face interaction between the applicant and the LGU officials, joint inspection teams (‗JITs‖) shall be organized to conduct inspection of the applicant‘s office/\npremises, in relation to an application for new business permit or renewal. (BOSS)\nSection 9.1.4 of JMC No. 01 Series of 2021—To address the lack of personnel of inspect",
+      "gallery and other similar \ncontrivances – Php300 for the first 5 Days and Php50 per Day thereafter\nBazaar/Exhibit:\n  Event Organizer from Davao - Php500 per Day per location\n Event Organizer Outside Davao (less than 30 exhibitors)- Php1,000/Day per\nactivity exhibitors\n Event Organizer Outside Davao (31-60 exhibitors)- Php2,000/Day per activity\nexhibitors\n Event Organizer Outside Davao (61-100 exhibitors)- Php3,000/Day per activity\nexhibitors"
+    ]
+  ],
+  "ground_truth": [
+    "Annex14 states an annual basic community tax of PHP5 for liable individuals plus an annual additional tax of PHP1 per PHP1,000 of income, with the additional tax capped at PHP5,000. For husband and wife the additional tax is based on their total property and total gross receipts/earnings. The cap is on additional tax, not the basic-plus-additional total.\n\nFor liable corporations, the basic annual tax is PHP500 plus additional tax capped at PHP10,000. The additional schedule is PHP2 per PHP5,000 of Philippine real-property value during the preceding year using the stated real-property-tax valuation, plus PHP2 per PHP5,000 of Philippine business gross receipts/earnings during the preceding year. Intercorporate dividends are included in gross receipts/earnings for this additional tax. The cap is on additional tax."
+  ]
+}

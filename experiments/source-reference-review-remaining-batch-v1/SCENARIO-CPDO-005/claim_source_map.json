@@ -1,0 +1,70 @@
+[
+  {
+    "claim": "For online business locational clearance, the checklist lists: uploaded application form; Affidavit of Undertaking for neighbor consent with sketch map showing neighbor location (1 photocopy); Homeowners Association Certificate of No Objection; Certificate of Actual Land Occupancy for Migrant (based on RA8371); Locational Clearance for Building Permit, if applicable; PRC ID for licensed broker/License to Sell/Affidavit of Undertaking not to sell raw lots (PD957); Affidavit of Undertaking for Online Business/Booking Office/On-Job Site/On-Call/Private Garage; pictures showing working area including roads; and sketch map. Additional requirements may be required as the need arises.",
+    "evidence": [
+      {
+        "source_page_id": "CPDO-PDF0070",
+        "pdf_relative_page": 70,
+        "printed_page": 699,
+        "source_span": "CHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Uploaded Application Form \nBusiness Bureau/Online Website\n2. \nAffidavit of Undertaking for\nneighbor’s consent with Sketch Map \n(showing the neighbor’s location (1 \nphotocopy)\nApplicant\n3. \nHomeowners Association\nCertificate of No Objection\nApplicant\n4. \nCertificate of Actual Land\nOccupancy for Migrant (based on RA \n8371)\nApplicant\n5. \nLocational Clearance for Building\nPermit (if applicable)\nApplicant/ City Planning and \nDevelopment Office\n6. \nPRC ID (for license Broker) /\nLicense to Sell / Affidavit of Undertaking \nas not to engage in selling raw lots \n(based PD 957)\nApplicant\n7. \nAffidavit of Undertaking for Online\nBusiness / Booking Office / On-Job Site / \nOn-Call / Private Garage\nApplicant\n8. \nPictures (showing the business\nworking area including the road/s)\nApplicant\n9. \nSketch Map \nApplicant\nNote: Additional requirements may be required as the need arises.\nCLIENT STEPS",
+        "char_start": 635,
+        "char_end": 1567,
+        "supporting_chunk_ids": [
+          "DEV120-CPDO-PDF0070-C002",
+          "DEV120-CPDO-PDF0070-C003",
+          "DEV120-CPDO-PDF0070-C004"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-CPDO-PDF0070-C002",
+      "DEV120-CPDO-PDF0070-C003",
+      "DEV120-CPDO-PDF0070-C004"
+    ]
+  },
+  {
+    "claim": "The fee columns and TOTAL state None. The TOTAL is 1 Day and 50 Minutes. This includes denial-letter steps, with signature time dependent on administrator availability; it is not a guaranteed approval deadline. Approved/conditionally approved cases have their BPLS status updated and other offices then evaluate the application.",
+    "evidence": [
+      {
+        "source_page_id": "CPDO-PDF0070",
+        "pdf_relative_page": 70,
+        "printed_page": 699,
+        "source_span": "1. Fill-Up \nApplication Form \n(online website)\n1. Review the \napplication\nNone \n5 Minutes",
+        "char_start": 1636,
+        "char_end": 1725,
+        "supporting_chunk_ids": [
+          "DEV120-CPDO-PDF0070-C004"
+        ]
+      },
+      {
+        "source_page_id": "CPDO-PDF0071",
+        "pdf_relative_page": 71,
+        "printed_page": 700,
+        "source_span": "2.2 For Approval \nand Conditional \nApproval, updates \nthe BPLS system \nof the status of \napplication and \nstipulates \nconditions if \nnecessary.  \n \nNote: Once \napproved, other \noffices will \nevaluate \napplication through \nthe system\nNone \n5 Minutes \n \nZoning Officer\nIV\nCPDO\n2.3 For Denied \napplications, \nupdates BPLS \nsystem of the \nstatus of the \napplication.\nNone \n5 Minutes \n \nZoning Officer\nIV\nCPDO\n2.4 Drafts the \nDenial Letter\nNone \n15 Minutes \n \nZoning Officer\nIV\nCPDO\n2.5 Initial and Final \nsignature of the \nDenial Letter\nNone \n1 Day\ndepending \nupon the\navailability of\nthe Acting\nZoning\nAdministrator\nZoning Officer\nIV\nCPDO\n2.6 Routes",
+        "char_start": 107,
+        "char_end": 753,
+        "supporting_chunk_ids": [
+          "DEV120-CPDO-PDF0071-C001",
+          "DEV120-CPDO-PDF0071-C002"
+        ]
+      },
+      {
+        "source_page_id": "CPDO-PDF0072",
+        "pdf_relative_page": 72,
+        "printed_page": 701,
+        "source_span": "3. Claims Denial \nLetter\n3. Releases Denial \nLetter to clients \n \nNote: Denied \napplications are \nadvised to appeal \nthrough the Local \nZoning Board of \nAdjustments and \nAppeals \n- Denial Letters \nare either \ndelivered by this \noffice or may be \nclaimed at the \noffice.\nNone \n5 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\nTOTAL: None \n1 Day and 50\nMinutes",
+        "char_start": 104,
+        "char_end": 460,
+        "supporting_chunk_ids": [
+          "DEV120-CPDO-PDF0072-C001"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-CPDO-PDF0070-C004",
+      "DEV120-CPDO-PDF0071-C001",
+      "DEV120-CPDO-PDF0071-C002",
+      "DEV120-CPDO-PDF0072-C001"
+    ]
+  }
+]

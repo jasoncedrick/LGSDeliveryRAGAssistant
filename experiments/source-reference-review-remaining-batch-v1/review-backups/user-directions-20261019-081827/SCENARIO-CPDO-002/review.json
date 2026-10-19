@@ -1,0 +1,26 @@
+{
+  "group_id": "SCENARIO-CPDO-002",
+  "review_status": "needs_correction_with_source_ambiguity",
+  "findings": [
+    "Replace unsupported OR interpretation with exact source wording.",
+    "Restore if applicable and missing payment documents.",
+    "Qualify processing time."
+  ],
+  "manual_check": {
+    "type": "official_interpretation",
+    "question": "Do both the 3-storey and 1,500-sqm criteria apply together, or are they alternative triggers?",
+    "source": "CPDO PDF5/printed634",
+    "blocking": "Definitive eligibility interpretation only; preserve source wording meanwhile."
+  },
+  "candidate_applied": false,
+  "limitations": [
+    "Fixed thesis sources, not present-day legal advice.",
+    "Assistant image review is not independent expert certification.",
+    "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+  ],
+  "human_review": {
+    "status": "confirmed_with_evidence",
+    "finding": "The official CPDO interpretation is that the 3-storey and 1,500-sqm criteria are alternative triggers for the requirement; the checklist should reflect this. Either trigger is sufficient to require the checklist item.",
+    "evidence": "CPDO PDF5/printed634"
+  }
+}

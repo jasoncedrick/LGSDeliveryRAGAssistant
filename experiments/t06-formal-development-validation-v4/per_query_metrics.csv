@@ -1,0 +1,181 @@
+record_id,group_id,pillar,language,status,k,hit_at_k,mrr_at_k
+SCENARIO-BB-001-english,SCENARIO-BB-001,Business Bureau,english,ANSWERED,3,1,0.3333333333333333
+SCENARIO-BB-001-english,SCENARIO-BB-001,Business Bureau,english,ANSWERED,5,1,0.3333333333333333
+SCENARIO-BB-001-taglish,SCENARIO-BB-001,Business Bureau,taglish,ANSWERED,3,1,0.3333333333333333
+SCENARIO-BB-001-taglish,SCENARIO-BB-001,Business Bureau,taglish,ANSWERED,5,1,0.3333333333333333
+SCENARIO-BB-001-bislish,SCENARIO-BB-001,Business Bureau,bislish,ANSWERED,3,1,0.5
+SCENARIO-BB-001-bislish,SCENARIO-BB-001,Business Bureau,bislish,ANSWERED,5,1,0.5
+SCENARIO-BB-002-english,SCENARIO-BB-002,Business Bureau,english,ANSWERED,3,1,1.0
+SCENARIO-BB-002-english,SCENARIO-BB-002,Business Bureau,english,ANSWERED,5,1,1.0
+SCENARIO-BB-002-taglish,SCENARIO-BB-002,Business Bureau,taglish,ANSWERED,3,1,1.0
+SCENARIO-BB-002-taglish,SCENARIO-BB-002,Business Bureau,taglish,ANSWERED,5,1,1.0
+SCENARIO-BB-002-bislish,SCENARIO-BB-002,Business Bureau,bislish,ANSWERED,3,1,1.0
+SCENARIO-BB-002-bislish,SCENARIO-BB-002,Business Bureau,bislish,ANSWERED,5,1,1.0
+SCENARIO-BB-003-english,SCENARIO-BB-003,Business Bureau,english,ANSWERED,3,1,1.0
+SCENARIO-BB-003-english,SCENARIO-BB-003,Business Bureau,english,ANSWERED,5,1,1.0
+SCENARIO-BB-003-taglish,SCENARIO-BB-003,Business Bureau,taglish,ANSWERED,3,1,1.0
+SCENARIO-BB-003-taglish,SCENARIO-BB-003,Business Bureau,taglish,ANSWERED,5,1,1.0
+SCENARIO-BB-003-bislish,SCENARIO-BB-003,Business Bureau,bislish,ANSWERED,3,1,1.0
+SCENARIO-BB-003-bislish,SCENARIO-BB-003,Business Bureau,bislish,ANSWERED,5,1,1.0
+SCENARIO-BB-004-english,SCENARIO-BB-004,Business Bureau,english,ANSWERED,3,1,1.0
+SCENARIO-BB-004-english,SCENARIO-BB-004,Business Bureau,english,ANSWERED,5,1,1.0
+SCENARIO-BB-004-taglish,SCENARIO-BB-004,Business Bureau,taglish,ANSWERED,3,1,1.0
+SCENARIO-BB-004-taglish,SCENARIO-BB-004,Business Bureau,taglish,ANSWERED,5,1,1.0
+SCENARIO-BB-004-bislish,SCENARIO-BB-004,Business Bureau,bislish,ANSWERED,3,1,1.0
+SCENARIO-BB-004-bislish,SCENARIO-BB-004,Business Bureau,bislish,ANSWERED,5,1,1.0
+SCENARIO-BB-005-english,SCENARIO-BB-005,Business Bureau,english,ANSWERED,3,0,0.0
+SCENARIO-BB-005-english,SCENARIO-BB-005,Business Bureau,english,ANSWERED,5,0,0.0
+SCENARIO-BB-005-taglish,SCENARIO-BB-005,Business Bureau,taglish,ANSWERED,3,1,1.0
+SCENARIO-BB-005-taglish,SCENARIO-BB-005,Business Bureau,taglish,ANSWERED,5,1,1.0
+SCENARIO-BB-005-bislish,SCENARIO-BB-005,Business Bureau,bislish,ANSWERED,3,1,1.0
+SCENARIO-BB-005-bislish,SCENARIO-BB-005,Business Bureau,bislish,ANSWERED,5,1,1.0
+SCENARIO-BB-006-english,SCENARIO-BB-006,Business Bureau,english,ANSWERED,3,1,1.0
+SCENARIO-BB-006-english,SCENARIO-BB-006,Business Bureau,english,ANSWERED,5,1,1.0
+SCENARIO-BB-006-taglish,SCENARIO-BB-006,Business Bureau,taglish,ANSWERED,3,1,1.0
+SCENARIO-BB-006-taglish,SCENARIO-BB-006,Business Bureau,taglish,ANSWERED,5,1,1.0
+SCENARIO-BB-006-bislish,SCENARIO-BB-006,Business Bureau,bislish,ANSWERED,3,1,1.0
+SCENARIO-BB-006-bislish,SCENARIO-BB-006,Business Bureau,bislish,ANSWERED,5,1,1.0
+SCENARIO-CTO-001-english,SCENARIO-CTO-001,City Treasurer's Office,english,ANSWERED,3,1,1.0
+SCENARIO-CTO-001-english,SCENARIO-CTO-001,City Treasurer's Office,english,ANSWERED,5,1,1.0
+SCENARIO-CTO-001-taglish,SCENARIO-CTO-001,City Treasurer's Office,taglish,CLARIFICATION_REQUIRED,3,0,0.0
+SCENARIO-CTO-001-taglish,SCENARIO-CTO-001,City Treasurer's Office,taglish,CLARIFICATION_REQUIRED,5,0,0.0
+SCENARIO-CTO-001-bislish,SCENARIO-CTO-001,City Treasurer's Office,bislish,CLARIFICATION_REQUIRED,3,0,0.0
+SCENARIO-CTO-001-bislish,SCENARIO-CTO-001,City Treasurer's Office,bislish,CLARIFICATION_REQUIRED,5,0,0.0
+SCENARIO-CTO-002-english,SCENARIO-CTO-002,City Treasurer's Office,english,ANSWERED,3,1,1.0
+SCENARIO-CTO-002-english,SCENARIO-CTO-002,City Treasurer's Office,english,ANSWERED,5,1,1.0
+SCENARIO-CTO-002-taglish,SCENARIO-CTO-002,City Treasurer's Office,taglish,ANSWERED,3,1,1.0
+SCENARIO-CTO-002-taglish,SCENARIO-CTO-002,City Treasurer's Office,taglish,ANSWERED,5,1,1.0
+SCENARIO-CTO-002-bislish,SCENARIO-CTO-002,City Treasurer's Office,bislish,ANSWERED,3,0,0.0
+SCENARIO-CTO-002-bislish,SCENARIO-CTO-002,City Treasurer's Office,bislish,ANSWERED,5,0,0.0
+SCENARIO-CTO-003-english,SCENARIO-CTO-003,City Treasurer's Office,english,ANSWERED,3,1,1.0
+SCENARIO-CTO-003-english,SCENARIO-CTO-003,City Treasurer's Office,english,ANSWERED,5,1,1.0
+SCENARIO-CTO-003-taglish,SCENARIO-CTO-003,City Treasurer's Office,taglish,ANSWERED,3,1,1.0
+SCENARIO-CTO-003-taglish,SCENARIO-CTO-003,City Treasurer's Office,taglish,ANSWERED,5,1,1.0
+SCENARIO-CTO-003-bislish,SCENARIO-CTO-003,City Treasurer's Office,bislish,ANSWERED,3,1,1.0
+SCENARIO-CTO-003-bislish,SCENARIO-CTO-003,City Treasurer's Office,bislish,ANSWERED,5,1,1.0
+SCENARIO-CTO-004-english,SCENARIO-CTO-004,City Treasurer's Office,english,ANSWERED,3,1,0.3333333333333333
+SCENARIO-CTO-004-english,SCENARIO-CTO-004,City Treasurer's Office,english,ANSWERED,5,1,0.3333333333333333
+SCENARIO-CTO-004-taglish,SCENARIO-CTO-004,City Treasurer's Office,taglish,ANSWERED,3,1,1.0
+SCENARIO-CTO-004-taglish,SCENARIO-CTO-004,City Treasurer's Office,taglish,ANSWERED,5,1,1.0
+SCENARIO-CTO-004-bislish,SCENARIO-CTO-004,City Treasurer's Office,bislish,ANSWERED,3,1,1.0
+SCENARIO-CTO-004-bislish,SCENARIO-CTO-004,City Treasurer's Office,bislish,ANSWERED,5,1,1.0
+SCENARIO-CTO-005-english,SCENARIO-CTO-005,City Treasurer's Office,english,ANSWERED,3,1,1.0
+SCENARIO-CTO-005-english,SCENARIO-CTO-005,City Treasurer's Office,english,ANSWERED,5,1,1.0
+SCENARIO-CTO-005-taglish,SCENARIO-CTO-005,City Treasurer's Office,taglish,ANSWERED,3,1,0.5
+SCENARIO-CTO-005-taglish,SCENARIO-CTO-005,City Treasurer's Office,taglish,ANSWERED,5,1,0.5
+SCENARIO-CTO-005-bislish,SCENARIO-CTO-005,City Treasurer's Office,bislish,CLARIFICATION_REQUIRED,3,0,0.0
+SCENARIO-CTO-005-bislish,SCENARIO-CTO-005,City Treasurer's Office,bislish,CLARIFICATION_REQUIRED,5,0,0.0
+SCENARIO-CTO-006-english,SCENARIO-CTO-006,City Treasurer's Office,english,CLARIFICATION_REQUIRED,3,0,0.0
+SCENARIO-CTO-006-english,SCENARIO-CTO-006,City Treasurer's Office,english,CLARIFICATION_REQUIRED,5,0,0.0
+SCENARIO-CTO-006-taglish,SCENARIO-CTO-006,City Treasurer's Office,taglish,CLARIFICATION_REQUIRED,3,0,0.0
+SCENARIO-CTO-006-taglish,SCENARIO-CTO-006,City Treasurer's Office,taglish,CLARIFICATION_REQUIRED,5,0,0.0
+SCENARIO-CTO-006-bislish,SCENARIO-CTO-006,City Treasurer's Office,bislish,CLARIFICATION_REQUIRED,3,0,0.0
+SCENARIO-CTO-006-bislish,SCENARIO-CTO-006,City Treasurer's Office,bislish,CLARIFICATION_REQUIRED,5,0,0.0
+SCENARIO-OCBO-001-english,SCENARIO-OCBO-001,Office of the City Building Official,english,ANSWERED,3,0,0.0
+SCENARIO-OCBO-001-english,SCENARIO-OCBO-001,Office of the City Building Official,english,ANSWERED,5,0,0.0
+SCENARIO-OCBO-001-taglish,SCENARIO-OCBO-001,Office of the City Building Official,taglish,ANSWERED,3,1,0.3333333333333333
+SCENARIO-OCBO-001-taglish,SCENARIO-OCBO-001,Office of the City Building Official,taglish,ANSWERED,5,1,0.3333333333333333
+SCENARIO-OCBO-001-bislish,SCENARIO-OCBO-001,Office of the City Building Official,bislish,ANSWERED,3,0,0.0
+SCENARIO-OCBO-001-bislish,SCENARIO-OCBO-001,Office of the City Building Official,bislish,ANSWERED,5,0,0.0
+SCENARIO-OCBO-002-english,SCENARIO-OCBO-002,Office of the City Building Official,english,ANSWERED,3,1,1.0
+SCENARIO-OCBO-002-english,SCENARIO-OCBO-002,Office of the City Building Official,english,ANSWERED,5,1,1.0
+SCENARIO-OCBO-002-taglish,SCENARIO-OCBO-002,Office of the City Building Official,taglish,ANSWERED,3,0,0.0
+SCENARIO-OCBO-002-taglish,SCENARIO-OCBO-002,Office of the City Building Official,taglish,ANSWERED,5,0,0.0
+SCENARIO-OCBO-002-bislish,SCENARIO-OCBO-002,Office of the City Building Official,bislish,ANSWERED,3,0,0.0
+SCENARIO-OCBO-002-bislish,SCENARIO-OCBO-002,Office of the City Building Official,bislish,ANSWERED,5,0,0.0
+SCENARIO-OCBO-003-english,SCENARIO-OCBO-003,Office of the City Building Official,english,ANSWERED,3,1,1.0
+SCENARIO-OCBO-003-english,SCENARIO-OCBO-003,Office of the City Building Official,english,ANSWERED,5,1,1.0
+SCENARIO-OCBO-003-taglish,SCENARIO-OCBO-003,Office of the City Building Official,taglish,ANSWERED,3,1,1.0
+SCENARIO-OCBO-003-taglish,SCENARIO-OCBO-003,Office of the City Building Official,taglish,ANSWERED,5,1,1.0
+SCENARIO-OCBO-003-bislish,SCENARIO-OCBO-003,Office of the City Building Official,bislish,ANSWERED,3,1,1.0
+SCENARIO-OCBO-003-bislish,SCENARIO-OCBO-003,Office of the City Building Official,bislish,ANSWERED,5,1,1.0
+SCENARIO-OCBO-004-english,SCENARIO-OCBO-004,Office of the City Building Official,english,ANSWERED,3,1,0.5
+SCENARIO-OCBO-004-english,SCENARIO-OCBO-004,Office of the City Building Official,english,ANSWERED,5,1,0.5
+SCENARIO-OCBO-004-taglish,SCENARIO-OCBO-004,Office of the City Building Official,taglish,ANSWERED,3,1,1.0
+SCENARIO-OCBO-004-taglish,SCENARIO-OCBO-004,Office of the City Building Official,taglish,ANSWERED,5,1,1.0
+SCENARIO-OCBO-004-bislish,SCENARIO-OCBO-004,Office of the City Building Official,bislish,ANSWERED,3,1,1.0
+SCENARIO-OCBO-004-bislish,SCENARIO-OCBO-004,Office of the City Building Official,bislish,ANSWERED,5,1,1.0
+SCENARIO-OCBO-005-english,SCENARIO-OCBO-005,Office of the City Building Official,english,ANSWERED,3,1,1.0
+SCENARIO-OCBO-005-english,SCENARIO-OCBO-005,Office of the City Building Official,english,ANSWERED,5,1,1.0
+SCENARIO-OCBO-005-taglish,SCENARIO-OCBO-005,Office of the City Building Official,taglish,ANSWERED,3,1,1.0
+SCENARIO-OCBO-005-taglish,SCENARIO-OCBO-005,Office of the City Building Official,taglish,ANSWERED,5,1,1.0
+SCENARIO-OCBO-005-bislish,SCENARIO-OCBO-005,Office of the City Building Official,bislish,ANSWERED,3,1,1.0
+SCENARIO-OCBO-005-bislish,SCENARIO-OCBO-005,Office of the City Building Official,bislish,ANSWERED,5,1,1.0
+SCENARIO-OCBO-006-english,SCENARIO-OCBO-006,Office of the City Building Official,english,ANSWERED,3,1,1.0
+SCENARIO-OCBO-006-english,SCENARIO-OCBO-006,Office of the City Building Official,english,ANSWERED,5,1,1.0
+SCENARIO-OCBO-006-taglish,SCENARIO-OCBO-006,Office of the City Building Official,taglish,ANSWERED,3,1,0.5
+SCENARIO-OCBO-006-taglish,SCENARIO-OCBO-006,Office of the City Building Official,taglish,ANSWERED,5,1,0.5
+SCENARIO-OCBO-006-bislish,SCENARIO-OCBO-006,Office of the City Building Official,bislish,ANSWERED,3,1,0.5
+SCENARIO-OCBO-006-bislish,SCENARIO-OCBO-006,Office of the City Building Official,bislish,ANSWERED,5,1,0.5
+SCENARIO-CPDO-001-english,SCENARIO-CPDO-001,City Planning and Development Office,english,ANSWERED,3,1,0.5
+SCENARIO-CPDO-001-english,SCENARIO-CPDO-001,City Planning and Development Office,english,ANSWERED,5,1,0.5
+SCENARIO-CPDO-001-taglish,SCENARIO-CPDO-001,City Planning and Development Office,taglish,ANSWERED,3,0,0.0
+SCENARIO-CPDO-001-taglish,SCENARIO-CPDO-001,City Planning and Development Office,taglish,ANSWERED,5,1,0.2
+SCENARIO-CPDO-001-bislish,SCENARIO-CPDO-001,City Planning and Development Office,bislish,ANSWERED,3,1,0.5
+SCENARIO-CPDO-001-bislish,SCENARIO-CPDO-001,City Planning and Development Office,bislish,ANSWERED,5,1,0.5
+SCENARIO-CPDO-002-english,SCENARIO-CPDO-002,City Planning and Development Office,english,ANSWERED,3,1,1.0
+SCENARIO-CPDO-002-english,SCENARIO-CPDO-002,City Planning and Development Office,english,ANSWERED,5,1,1.0
+SCENARIO-CPDO-002-taglish,SCENARIO-CPDO-002,City Planning and Development Office,taglish,ANSWERED,3,1,1.0
+SCENARIO-CPDO-002-taglish,SCENARIO-CPDO-002,City Planning and Development Office,taglish,ANSWERED,5,1,1.0
+SCENARIO-CPDO-002-bislish,SCENARIO-CPDO-002,City Planning and Development Office,bislish,ANSWERED,3,1,1.0
+SCENARIO-CPDO-002-bislish,SCENARIO-CPDO-002,City Planning and Development Office,bislish,ANSWERED,5,1,1.0
+SCENARIO-CPDO-003-english,SCENARIO-CPDO-003,City Planning and Development Office,english,ANSWERED,3,1,0.3333333333333333
+SCENARIO-CPDO-003-english,SCENARIO-CPDO-003,City Planning and Development Office,english,ANSWERED,5,1,0.3333333333333333
+SCENARIO-CPDO-003-taglish,SCENARIO-CPDO-003,City Planning and Development Office,taglish,ANSWERED,3,1,0.5
+SCENARIO-CPDO-003-taglish,SCENARIO-CPDO-003,City Planning and Development Office,taglish,ANSWERED,5,1,0.5
+SCENARIO-CPDO-003-bislish,SCENARIO-CPDO-003,City Planning and Development Office,bislish,ANSWERED,3,1,1.0
+SCENARIO-CPDO-003-bislish,SCENARIO-CPDO-003,City Planning and Development Office,bislish,ANSWERED,5,1,1.0
+SCENARIO-CPDO-004-english,SCENARIO-CPDO-004,City Planning and Development Office,english,ANSWERED,3,1,1.0
+SCENARIO-CPDO-004-english,SCENARIO-CPDO-004,City Planning and Development Office,english,ANSWERED,5,1,1.0
+SCENARIO-CPDO-004-taglish,SCENARIO-CPDO-004,City Planning and Development Office,taglish,ANSWERED,3,1,0.5
+SCENARIO-CPDO-004-taglish,SCENARIO-CPDO-004,City Planning and Development Office,taglish,ANSWERED,5,1,0.5
+SCENARIO-CPDO-004-bislish,SCENARIO-CPDO-004,City Planning and Development Office,bislish,ANSWERED,3,0,0.0
+SCENARIO-CPDO-004-bislish,SCENARIO-CPDO-004,City Planning and Development Office,bislish,ANSWERED,5,0,0.0
+SCENARIO-CPDO-005-english,SCENARIO-CPDO-005,City Planning and Development Office,english,ANSWERED,3,0,0.0
+SCENARIO-CPDO-005-english,SCENARIO-CPDO-005,City Planning and Development Office,english,ANSWERED,5,0,0.0
+SCENARIO-CPDO-005-taglish,SCENARIO-CPDO-005,City Planning and Development Office,taglish,ANSWERED,3,0,0.0
+SCENARIO-CPDO-005-taglish,SCENARIO-CPDO-005,City Planning and Development Office,taglish,ANSWERED,5,0,0.0
+SCENARIO-CPDO-005-bislish,SCENARIO-CPDO-005,City Planning and Development Office,bislish,ANSWERED,3,0,0.0
+SCENARIO-CPDO-005-bislish,SCENARIO-CPDO-005,City Planning and Development Office,bislish,ANSWERED,5,0,0.0
+SCENARIO-CPDO-006-english,SCENARIO-CPDO-006,City Planning and Development Office,english,ANSWERED,3,0,0.0
+SCENARIO-CPDO-006-english,SCENARIO-CPDO-006,City Planning and Development Office,english,ANSWERED,5,1,0.25
+SCENARIO-CPDO-006-taglish,SCENARIO-CPDO-006,City Planning and Development Office,taglish,ANSWERED,3,1,0.5
+SCENARIO-CPDO-006-taglish,SCENARIO-CPDO-006,City Planning and Development Office,taglish,ANSWERED,5,1,0.5
+SCENARIO-CPDO-006-bislish,SCENARIO-CPDO-006,City Planning and Development Office,bislish,ANSWERED,3,1,0.3333333333333333
+SCENARIO-CPDO-006-bislish,SCENARIO-CPDO-006,City Planning and Development Office,bislish,ANSWERED,5,1,0.3333333333333333
+SCENARIO-BFP-001-english,SCENARIO-BFP-001,Bureau of Fire Protection,english,ANSWERED,3,0,0.0
+SCENARIO-BFP-001-english,SCENARIO-BFP-001,Bureau of Fire Protection,english,ANSWERED,5,0,0.0
+SCENARIO-BFP-001-taglish,SCENARIO-BFP-001,Bureau of Fire Protection,taglish,ANSWERED,3,0,0.0
+SCENARIO-BFP-001-taglish,SCENARIO-BFP-001,Bureau of Fire Protection,taglish,ANSWERED,5,0,0.0
+SCENARIO-BFP-001-bislish,SCENARIO-BFP-001,Bureau of Fire Protection,bislish,ANSWERED,3,0,0.0
+SCENARIO-BFP-001-bislish,SCENARIO-BFP-001,Bureau of Fire Protection,bislish,ANSWERED,5,0,0.0
+SCENARIO-BFP-002-english,SCENARIO-BFP-002,Bureau of Fire Protection,english,ANSWERED,3,0,0.0
+SCENARIO-BFP-002-english,SCENARIO-BFP-002,Bureau of Fire Protection,english,ANSWERED,5,0,0.0
+SCENARIO-BFP-002-taglish,SCENARIO-BFP-002,Bureau of Fire Protection,taglish,ANSWERED,3,0,0.0
+SCENARIO-BFP-002-taglish,SCENARIO-BFP-002,Bureau of Fire Protection,taglish,ANSWERED,5,0,0.0
+SCENARIO-BFP-002-bislish,SCENARIO-BFP-002,Bureau of Fire Protection,bislish,ANSWERED,3,0,0.0
+SCENARIO-BFP-002-bislish,SCENARIO-BFP-002,Bureau of Fire Protection,bislish,ANSWERED,5,0,0.0
+SCENARIO-BFP-003-english,SCENARIO-BFP-003,Bureau of Fire Protection,english,ANSWERED,3,1,1.0
+SCENARIO-BFP-003-english,SCENARIO-BFP-003,Bureau of Fire Protection,english,ANSWERED,5,1,1.0
+SCENARIO-BFP-003-taglish,SCENARIO-BFP-003,Bureau of Fire Protection,taglish,ANSWERED,3,1,1.0
+SCENARIO-BFP-003-taglish,SCENARIO-BFP-003,Bureau of Fire Protection,taglish,ANSWERED,5,1,1.0
+SCENARIO-BFP-003-bislish,SCENARIO-BFP-003,Bureau of Fire Protection,bislish,ANSWERED,3,1,1.0
+SCENARIO-BFP-003-bislish,SCENARIO-BFP-003,Bureau of Fire Protection,bislish,ANSWERED,5,1,1.0
+SCENARIO-BFP-004-english,SCENARIO-BFP-004,Bureau of Fire Protection,english,ANSWERED,3,1,1.0
+SCENARIO-BFP-004-english,SCENARIO-BFP-004,Bureau of Fire Protection,english,ANSWERED,5,1,1.0
+SCENARIO-BFP-004-taglish,SCENARIO-BFP-004,Bureau of Fire Protection,taglish,ANSWERED,3,1,1.0
+SCENARIO-BFP-004-taglish,SCENARIO-BFP-004,Bureau of Fire Protection,taglish,ANSWERED,5,1,1.0
+SCENARIO-BFP-004-bislish,SCENARIO-BFP-004,Bureau of Fire Protection,bislish,ANSWERED,3,1,1.0
+SCENARIO-BFP-004-bislish,SCENARIO-BFP-004,Bureau of Fire Protection,bislish,ANSWERED,5,1,1.0
+SCENARIO-BFP-005-english,SCENARIO-BFP-005,Bureau of Fire Protection,english,ANSWERED,3,1,0.5
+SCENARIO-BFP-005-english,SCENARIO-BFP-005,Bureau of Fire Protection,english,ANSWERED,5,1,0.5
+SCENARIO-BFP-005-taglish,SCENARIO-BFP-005,Bureau of Fire Protection,taglish,ANSWERED,3,1,1.0
+SCENARIO-BFP-005-taglish,SCENARIO-BFP-005,Bureau of Fire Protection,taglish,ANSWERED,5,1,1.0
+SCENARIO-BFP-005-bislish,SCENARIO-BFP-005,Bureau of Fire Protection,bislish,ANSWERED,3,1,0.5
+SCENARIO-BFP-005-bislish,SCENARIO-BFP-005,Bureau of Fire Protection,bislish,ANSWERED,5,1,0.5
+SCENARIO-BFP-006-english,SCENARIO-BFP-006,Bureau of Fire Protection,english,ANSWERED,3,1,1.0
+SCENARIO-BFP-006-english,SCENARIO-BFP-006,Bureau of Fire Protection,english,ANSWERED,5,1,1.0
+SCENARIO-BFP-006-taglish,SCENARIO-BFP-006,Bureau of Fire Protection,taglish,ANSWERED,3,1,1.0
+SCENARIO-BFP-006-taglish,SCENARIO-BFP-006,Bureau of Fire Protection,taglish,ANSWERED,5,1,1.0
+SCENARIO-BFP-006-bislish,SCENARIO-BFP-006,Bureau of Fire Protection,bislish,ANSWERED,3,1,1.0
+SCENARIO-BFP-006-bislish,SCENARIO-BFP-006,Bureau of Fire Protection,bislish,ANSWERED,5,1,1.0

@@ -1,0 +1,301 @@
+configuration,normalization,sparse_tokenizer,k,cell,n,hit_at_k,mrr_at_k
+A,archived,punctuation,3,Business Bureau|english,6,0.8333333333333334,0.75
+A,archived,punctuation,3,Business Bureau|taglish,6,0.6666666666666666,0.3333333333333333
+A,archived,punctuation,3,Business Bureau|bislish,6,0.8333333333333334,0.4166666666666667
+A,archived,punctuation,3,City Treasurer's Office|english,6,0.8333333333333334,0.75
+A,archived,punctuation,3,City Treasurer's Office|taglish,6,0.8333333333333334,0.5
+A,archived,punctuation,3,City Treasurer's Office|bislish,6,0.8333333333333334,0.4166666666666667
+A,archived,punctuation,3,Office of the City Building Official|english,6,0.6666666666666666,0.6666666666666666
+A,archived,punctuation,3,Office of the City Building Official|taglish,6,0.5,0.25
+A,archived,punctuation,3,Office of the City Building Official|bislish,6,0.6666666666666666,0.3055555555555555
+A,archived,punctuation,3,City Planning and Development Office|english,6,0.6666666666666666,0.47222222222222227
+A,archived,punctuation,3,City Planning and Development Office|taglish,6,0.3333333333333333,0.16666666666666666
+A,archived,punctuation,3,City Planning and Development Office|bislish,6,0.5,0.2222222222222222
+A,archived,punctuation,3,Bureau of Fire Protection|english,6,0.8333333333333334,0.8333333333333334
+A,archived,punctuation,3,Bureau of Fire Protection|taglish,6,0.8333333333333334,0.47222222222222215
+A,archived,punctuation,3,Bureau of Fire Protection|bislish,6,0.8333333333333334,0.5555555555555555
+A,archived,punctuation,5,Business Bureau|english,6,0.8333333333333334,0.75
+A,archived,punctuation,5,Business Bureau|taglish,6,1.0,0.4166666666666667
+A,archived,punctuation,5,Business Bureau|bislish,6,0.8333333333333334,0.4166666666666667
+A,archived,punctuation,5,City Treasurer's Office|english,6,1.0,0.7833333333333333
+A,archived,punctuation,5,City Treasurer's Office|taglish,6,0.8333333333333334,0.5
+A,archived,punctuation,5,City Treasurer's Office|bislish,6,0.8333333333333334,0.4166666666666667
+A,archived,punctuation,5,Office of the City Building Official|english,6,0.8333333333333334,0.7000000000000001
+A,archived,punctuation,5,Office of the City Building Official|taglish,6,0.5,0.25
+A,archived,punctuation,5,Office of the City Building Official|bislish,6,0.6666666666666666,0.3055555555555555
+A,archived,punctuation,5,City Planning and Development Office|english,6,0.8333333333333334,0.513888888888889
+A,archived,punctuation,5,City Planning and Development Office|taglish,6,0.8333333333333334,0.2916666666666667
+A,archived,punctuation,5,City Planning and Development Office|bislish,6,0.8333333333333334,0.2972222222222222
+A,archived,punctuation,5,Bureau of Fire Protection|english,6,0.8333333333333334,0.8333333333333334
+A,archived,punctuation,5,Bureau of Fire Protection|taglish,6,0.8333333333333334,0.47222222222222215
+A,archived,punctuation,5,Bureau of Fire Protection|bislish,6,0.8333333333333334,0.5555555555555555
+A,archived,whitespace,3,Business Bureau|english,6,0.8333333333333334,0.8333333333333334
+A,archived,whitespace,3,Business Bureau|taglish,6,0.8333333333333334,0.3611111111111111
+A,archived,whitespace,3,Business Bureau|bislish,6,0.8333333333333334,0.38888888888888884
+A,archived,whitespace,3,City Treasurer's Office|english,6,0.8333333333333334,0.5555555555555556
+A,archived,whitespace,3,City Treasurer's Office|taglish,6,0.8333333333333334,0.47222222222222215
+A,archived,whitespace,3,City Treasurer's Office|bislish,6,0.6666666666666666,0.3333333333333333
+A,archived,whitespace,3,Office of the City Building Official|english,6,0.8333333333333334,0.8333333333333334
+A,archived,whitespace,3,Office of the City Building Official|taglish,6,0.5,0.25
+A,archived,whitespace,3,Office of the City Building Official|bislish,6,0.5,0.25
+A,archived,whitespace,3,City Planning and Development Office|english,6,0.6666666666666666,0.4444444444444444
+A,archived,whitespace,3,City Planning and Development Office|taglish,6,0.6666666666666666,0.27777777777777773
+A,archived,whitespace,3,City Planning and Development Office|bislish,6,0.5,0.2222222222222222
+A,archived,whitespace,3,Bureau of Fire Protection|english,6,0.5,0.5
+A,archived,whitespace,3,Bureau of Fire Protection|taglish,6,0.5,0.3333333333333333
+A,archived,whitespace,3,Bureau of Fire Protection|bislish,6,0.6666666666666666,0.3888888888888889
+A,archived,whitespace,5,Business Bureau|english,6,0.8333333333333334,0.8333333333333334
+A,archived,whitespace,5,Business Bureau|taglish,6,0.8333333333333334,0.3611111111111111
+A,archived,whitespace,5,Business Bureau|bislish,6,0.8333333333333334,0.38888888888888884
+A,archived,whitespace,5,City Treasurer's Office|english,6,0.8333333333333334,0.5555555555555556
+A,archived,whitespace,5,City Treasurer's Office|taglish,6,0.8333333333333334,0.47222222222222215
+A,archived,whitespace,5,City Treasurer's Office|bislish,6,0.8333333333333334,0.375
+A,archived,whitespace,5,Office of the City Building Official|english,6,0.8333333333333334,0.8333333333333334
+A,archived,whitespace,5,Office of the City Building Official|taglish,6,0.5,0.25
+A,archived,whitespace,5,Office of the City Building Official|bislish,6,0.6666666666666666,0.2833333333333333
+A,archived,whitespace,5,City Planning and Development Office|english,6,0.6666666666666666,0.4444444444444444
+A,archived,whitespace,5,City Planning and Development Office|taglish,6,0.8333333333333334,0.3194444444444444
+A,archived,whitespace,5,City Planning and Development Office|bislish,6,0.8333333333333334,0.2972222222222222
+A,archived,whitespace,5,Bureau of Fire Protection|english,6,0.5,0.5
+A,archived,whitespace,5,Bureau of Fire Protection|taglish,6,0.6666666666666666,0.375
+A,archived,whitespace,5,Bureau of Fire Protection|bislish,6,0.6666666666666666,0.3888888888888889
+B,archived,punctuation,3,Business Bureau|english,6,0.8333333333333334,0.6666666666666666
+B,archived,punctuation,3,Business Bureau|taglish,6,1.0,0.9166666666666666
+B,archived,punctuation,3,Business Bureau|bislish,6,1.0,0.9166666666666666
+B,archived,punctuation,3,City Treasurer's Office|english,6,0.8333333333333334,0.75
+B,archived,punctuation,3,City Treasurer's Office|taglish,6,0.6666666666666666,0.6666666666666666
+B,archived,punctuation,3,City Treasurer's Office|bislish,6,0.3333333333333333,0.3333333333333333
+B,archived,punctuation,3,Office of the City Building Official|english,6,0.8333333333333334,0.8333333333333334
+B,archived,punctuation,3,Office of the City Building Official|taglish,6,0.6666666666666666,0.6666666666666666
+B,archived,punctuation,3,Office of the City Building Official|bislish,6,0.6666666666666666,0.6666666666666666
+B,archived,punctuation,3,City Planning and Development Office|english,6,0.6666666666666666,0.47222222222222227
+B,archived,punctuation,3,City Planning and Development Office|taglish,6,0.3333333333333333,0.25
+B,archived,punctuation,3,City Planning and Development Office|bislish,6,0.6666666666666666,0.4166666666666667
+B,archived,punctuation,3,Bureau of Fire Protection|english,6,1.0,0.9166666666666666
+B,archived,punctuation,3,Bureau of Fire Protection|taglish,6,0.8333333333333334,0.638888888888889
+B,archived,punctuation,3,Bureau of Fire Protection|bislish,6,0.6666666666666666,0.6666666666666666
+B,archived,punctuation,5,Business Bureau|english,6,0.8333333333333334,0.6666666666666666
+B,archived,punctuation,5,Business Bureau|taglish,6,1.0,0.9166666666666666
+B,archived,punctuation,5,Business Bureau|bislish,6,1.0,0.9166666666666666
+B,archived,punctuation,5,City Treasurer's Office|english,6,0.8333333333333334,0.75
+B,archived,punctuation,5,City Treasurer's Office|taglish,6,0.6666666666666666,0.6666666666666666
+B,archived,punctuation,5,City Treasurer's Office|bislish,6,0.3333333333333333,0.3333333333333333
+B,archived,punctuation,5,Office of the City Building Official|english,6,0.8333333333333334,0.8333333333333334
+B,archived,punctuation,5,Office of the City Building Official|taglish,6,0.8333333333333334,0.7083333333333334
+B,archived,punctuation,5,Office of the City Building Official|bislish,6,0.6666666666666666,0.6666666666666666
+B,archived,punctuation,5,City Planning and Development Office|english,6,0.8333333333333334,0.513888888888889
+B,archived,punctuation,5,City Planning and Development Office|taglish,6,0.5,0.2916666666666667
+B,archived,punctuation,5,City Planning and Development Office|bislish,6,0.8333333333333334,0.45
+B,archived,punctuation,5,Bureau of Fire Protection|english,6,1.0,0.9166666666666666
+B,archived,punctuation,5,Bureau of Fire Protection|taglish,6,0.8333333333333334,0.638888888888889
+B,archived,punctuation,5,Bureau of Fire Protection|bislish,6,0.8333333333333334,0.7000000000000001
+B,archived,whitespace,3,Business Bureau|english,6,0.8333333333333334,0.6666666666666666
+B,archived,whitespace,3,Business Bureau|taglish,6,1.0,0.9166666666666666
+B,archived,whitespace,3,Business Bureau|bislish,6,1.0,1.0
+B,archived,whitespace,3,City Treasurer's Office|english,6,0.8333333333333334,0.6666666666666666
+B,archived,whitespace,3,City Treasurer's Office|taglish,6,0.6666666666666666,0.6666666666666666
+B,archived,whitespace,3,City Treasurer's Office|bislish,6,0.3333333333333333,0.3333333333333333
+B,archived,whitespace,3,Office of the City Building Official|english,6,0.8333333333333334,0.6666666666666666
+B,archived,whitespace,3,Office of the City Building Official|taglish,6,0.6666666666666666,0.6666666666666666
+B,archived,whitespace,3,Office of the City Building Official|bislish,6,0.6666666666666666,0.5833333333333334
+B,archived,whitespace,3,City Planning and Development Office|english,6,0.8333333333333334,0.638888888888889
+B,archived,whitespace,3,City Planning and Development Office|taglish,6,0.3333333333333333,0.3333333333333333
+B,archived,whitespace,3,City Planning and Development Office|bislish,6,0.3333333333333333,0.3333333333333333
+B,archived,whitespace,3,Bureau of Fire Protection|english,6,0.6666666666666666,0.5555555555555555
+B,archived,whitespace,3,Bureau of Fire Protection|taglish,6,0.8333333333333334,0.6388888888888888
+B,archived,whitespace,3,Bureau of Fire Protection|bislish,6,0.6666666666666666,0.5833333333333334
+B,archived,whitespace,5,Business Bureau|english,6,0.8333333333333334,0.6666666666666666
+B,archived,whitespace,5,Business Bureau|taglish,6,1.0,0.9166666666666666
+B,archived,whitespace,5,Business Bureau|bislish,6,1.0,1.0
+B,archived,whitespace,5,City Treasurer's Office|english,6,0.8333333333333334,0.6666666666666666
+B,archived,whitespace,5,City Treasurer's Office|taglish,6,0.6666666666666666,0.6666666666666666
+B,archived,whitespace,5,City Treasurer's Office|bislish,6,0.3333333333333333,0.3333333333333333
+B,archived,whitespace,5,Office of the City Building Official|english,6,0.8333333333333334,0.6666666666666666
+B,archived,whitespace,5,Office of the City Building Official|taglish,6,0.6666666666666666,0.6666666666666666
+B,archived,whitespace,5,Office of the City Building Official|bislish,6,0.6666666666666666,0.5833333333333334
+B,archived,whitespace,5,City Planning and Development Office|english,6,0.8333333333333334,0.638888888888889
+B,archived,whitespace,5,City Planning and Development Office|taglish,6,0.3333333333333333,0.3333333333333333
+B,archived,whitespace,5,City Planning and Development Office|bislish,6,0.3333333333333333,0.3333333333333333
+B,archived,whitespace,5,Bureau of Fire Protection|english,6,0.6666666666666666,0.5555555555555555
+B,archived,whitespace,5,Bureau of Fire Protection|taglish,6,0.8333333333333334,0.6388888888888888
+B,archived,whitespace,5,Bureau of Fire Protection|bislish,6,0.8333333333333334,0.625
+B,candidate,punctuation,3,Business Bureau|english,6,0.8333333333333334,0.6666666666666666
+B,candidate,punctuation,3,Business Bureau|taglish,6,1.0,0.9166666666666666
+B,candidate,punctuation,3,Business Bureau|bislish,6,0.8333333333333334,0.75
+B,candidate,punctuation,3,City Treasurer's Office|english,6,0.8333333333333334,0.8333333333333334
+B,candidate,punctuation,3,City Treasurer's Office|taglish,6,0.6666666666666666,0.5833333333333334
+B,candidate,punctuation,3,City Treasurer's Office|bislish,6,0.3333333333333333,0.3333333333333333
+B,candidate,punctuation,3,Office of the City Building Official|english,6,0.8333333333333334,0.8333333333333334
+B,candidate,punctuation,3,Office of the City Building Official|taglish,6,0.8333333333333334,0.75
+B,candidate,punctuation,3,Office of the City Building Official|bislish,6,0.6666666666666666,0.6666666666666666
+B,candidate,punctuation,3,City Planning and Development Office|english,6,0.3333333333333333,0.3333333333333333
+B,candidate,punctuation,3,City Planning and Development Office|taglish,6,0.3333333333333333,0.25
+B,candidate,punctuation,3,City Planning and Development Office|bislish,6,0.5,0.3333333333333333
+B,candidate,punctuation,3,Bureau of Fire Protection|english,6,0.8333333333333334,0.6666666666666666
+B,candidate,punctuation,3,Bureau of Fire Protection|taglish,6,0.8333333333333334,0.7222222222222222
+B,candidate,punctuation,3,Bureau of Fire Protection|bislish,6,0.8333333333333334,0.8333333333333334
+B,candidate,punctuation,5,Business Bureau|english,6,0.8333333333333334,0.6666666666666666
+B,candidate,punctuation,5,Business Bureau|taglish,6,1.0,0.9166666666666666
+B,candidate,punctuation,5,Business Bureau|bislish,6,1.0,0.7916666666666666
+B,candidate,punctuation,5,City Treasurer's Office|english,6,0.8333333333333334,0.8333333333333334
+B,candidate,punctuation,5,City Treasurer's Office|taglish,6,0.6666666666666666,0.5833333333333334
+B,candidate,punctuation,5,City Treasurer's Office|bislish,6,0.3333333333333333,0.3333333333333333
+B,candidate,punctuation,5,Office of the City Building Official|english,6,0.8333333333333334,0.8333333333333334
+B,candidate,punctuation,5,Office of the City Building Official|taglish,6,0.8333333333333334,0.75
+B,candidate,punctuation,5,Office of the City Building Official|bislish,6,0.6666666666666666,0.6666666666666666
+B,candidate,punctuation,5,City Planning and Development Office|english,6,0.8333333333333334,0.4583333333333333
+B,candidate,punctuation,5,City Planning and Development Office|taglish,6,0.5,0.2916666666666667
+B,candidate,punctuation,5,City Planning and Development Office|bislish,6,0.5,0.3333333333333333
+B,candidate,punctuation,5,Bureau of Fire Protection|english,6,0.8333333333333334,0.6666666666666666
+B,candidate,punctuation,5,Bureau of Fire Protection|taglish,6,1.0,0.7555555555555555
+B,candidate,punctuation,5,Bureau of Fire Protection|bislish,6,0.8333333333333334,0.8333333333333334
+B,candidate,whitespace,3,Business Bureau|english,6,0.8333333333333334,0.6666666666666666
+B,candidate,whitespace,3,Business Bureau|taglish,6,1.0,0.9166666666666666
+B,candidate,whitespace,3,Business Bureau|bislish,6,0.8333333333333334,0.8333333333333334
+B,candidate,whitespace,3,City Treasurer's Office|english,6,0.8333333333333334,0.6666666666666666
+B,candidate,whitespace,3,City Treasurer's Office|taglish,6,0.6666666666666666,0.6666666666666666
+B,candidate,whitespace,3,City Treasurer's Office|bislish,6,0.3333333333333333,0.3333333333333333
+B,candidate,whitespace,3,Office of the City Building Official|english,6,0.8333333333333334,0.6666666666666666
+B,candidate,whitespace,3,Office of the City Building Official|taglish,6,0.6666666666666666,0.6666666666666666
+B,candidate,whitespace,3,Office of the City Building Official|bislish,6,0.6666666666666666,0.5833333333333334
+B,candidate,whitespace,3,City Planning and Development Office|english,6,0.5,0.5
+B,candidate,whitespace,3,City Planning and Development Office|taglish,6,0.3333333333333333,0.3333333333333333
+B,candidate,whitespace,3,City Planning and Development Office|bislish,6,0.3333333333333333,0.3333333333333333
+B,candidate,whitespace,3,Bureau of Fire Protection|english,6,0.6666666666666666,0.5833333333333334
+B,candidate,whitespace,3,Bureau of Fire Protection|taglish,6,0.6666666666666666,0.5833333333333334
+B,candidate,whitespace,3,Bureau of Fire Protection|bislish,6,0.8333333333333334,0.7222222222222222
+B,candidate,whitespace,5,Business Bureau|english,6,0.8333333333333334,0.6666666666666666
+B,candidate,whitespace,5,Business Bureau|taglish,6,1.0,0.9166666666666666
+B,candidate,whitespace,5,Business Bureau|bislish,6,1.0,0.875
+B,candidate,whitespace,5,City Treasurer's Office|english,6,0.8333333333333334,0.6666666666666666
+B,candidate,whitespace,5,City Treasurer's Office|taglish,6,0.6666666666666666,0.6666666666666666
+B,candidate,whitespace,5,City Treasurer's Office|bislish,6,0.3333333333333333,0.3333333333333333
+B,candidate,whitespace,5,Office of the City Building Official|english,6,0.8333333333333334,0.6666666666666666
+B,candidate,whitespace,5,Office of the City Building Official|taglish,6,0.6666666666666666,0.6666666666666666
+B,candidate,whitespace,5,Office of the City Building Official|bislish,6,0.6666666666666666,0.5833333333333334
+B,candidate,whitespace,5,City Planning and Development Office|english,6,0.6666666666666666,0.5416666666666666
+B,candidate,whitespace,5,City Planning and Development Office|taglish,6,0.3333333333333333,0.3333333333333333
+B,candidate,whitespace,5,City Planning and Development Office|bislish,6,0.3333333333333333,0.3333333333333333
+B,candidate,whitespace,5,Bureau of Fire Protection|english,6,0.8333333333333334,0.6166666666666667
+B,candidate,whitespace,5,Bureau of Fire Protection|taglish,6,0.6666666666666666,0.5833333333333334
+B,candidate,whitespace,5,Bureau of Fire Protection|bislish,6,0.8333333333333334,0.7222222222222222
+C,archived,punctuation,3,Business Bureau|english,6,0.8333333333333334,0.6388888888888888
+C,archived,punctuation,3,Business Bureau|taglish,6,1.0,0.8333333333333334
+C,archived,punctuation,3,Business Bureau|bislish,6,1.0,0.9166666666666666
+C,archived,punctuation,3,City Treasurer's Office|english,6,0.8333333333333334,0.75
+C,archived,punctuation,3,City Treasurer's Office|taglish,6,0.6666666666666666,0.6666666666666666
+C,archived,punctuation,3,City Treasurer's Office|bislish,6,0.3333333333333333,0.3333333333333333
+C,archived,punctuation,3,Office of the City Building Official|english,6,0.6666666666666666,0.6666666666666666
+C,archived,punctuation,3,Office of the City Building Official|taglish,6,0.6666666666666666,0.6666666666666666
+C,archived,punctuation,3,Office of the City Building Official|bislish,6,0.6666666666666666,0.5555555555555555
+C,archived,punctuation,3,City Planning and Development Office|english,6,0.6666666666666666,0.47222222222222227
+C,archived,punctuation,3,City Planning and Development Office|taglish,6,0.5,0.4166666666666667
+C,archived,punctuation,3,City Planning and Development Office|bislish,6,0.6666666666666666,0.5
+C,archived,punctuation,3,Bureau of Fire Protection|english,6,1.0,0.9166666666666666
+C,archived,punctuation,3,Bureau of Fire Protection|taglish,6,0.8333333333333334,0.7222222222222222
+C,archived,punctuation,3,Bureau of Fire Protection|bislish,6,1.0,0.8055555555555555
+C,archived,punctuation,5,Business Bureau|english,6,0.8333333333333334,0.6388888888888888
+C,archived,punctuation,5,Business Bureau|taglish,6,1.0,0.8333333333333334
+C,archived,punctuation,5,Business Bureau|bislish,6,1.0,0.9166666666666666
+C,archived,punctuation,5,City Treasurer's Office|english,6,0.8333333333333334,0.75
+C,archived,punctuation,5,City Treasurer's Office|taglish,6,0.6666666666666666,0.6666666666666666
+C,archived,punctuation,5,City Treasurer's Office|bislish,6,0.3333333333333333,0.3333333333333333
+C,archived,punctuation,5,Office of the City Building Official|english,6,0.6666666666666666,0.6666666666666666
+C,archived,punctuation,5,Office of the City Building Official|taglish,6,0.8333333333333334,0.7083333333333334
+C,archived,punctuation,5,Office of the City Building Official|bislish,6,0.6666666666666666,0.5555555555555555
+C,archived,punctuation,5,City Planning and Development Office|english,6,0.8333333333333334,0.513888888888889
+C,archived,punctuation,5,City Planning and Development Office|taglish,6,0.5,0.4166666666666667
+C,archived,punctuation,5,City Planning and Development Office|bislish,6,0.8333333333333334,0.5333333333333333
+C,archived,punctuation,5,Bureau of Fire Protection|english,6,1.0,0.9166666666666666
+C,archived,punctuation,5,Bureau of Fire Protection|taglish,6,0.8333333333333334,0.7222222222222222
+C,archived,punctuation,5,Bureau of Fire Protection|bislish,6,1.0,0.8055555555555555
+C,archived,whitespace,3,Business Bureau|english,6,0.8333333333333334,0.6666666666666666
+C,archived,whitespace,3,Business Bureau|taglish,6,1.0,0.9166666666666666
+C,archived,whitespace,3,Business Bureau|bislish,6,1.0,1.0
+C,archived,whitespace,3,City Treasurer's Office|english,6,0.8333333333333334,0.6666666666666666
+C,archived,whitespace,3,City Treasurer's Office|taglish,6,0.6666666666666666,0.6666666666666666
+C,archived,whitespace,3,City Treasurer's Office|bislish,6,0.3333333333333333,0.3333333333333333
+C,archived,whitespace,3,Office of the City Building Official|english,6,0.8333333333333334,0.75
+C,archived,whitespace,3,Office of the City Building Official|taglish,6,0.6666666666666666,0.6666666666666666
+C,archived,whitespace,3,Office of the City Building Official|bislish,6,0.5,0.4166666666666667
+C,archived,whitespace,3,City Planning and Development Office|english,6,0.8333333333333334,0.638888888888889
+C,archived,whitespace,3,City Planning and Development Office|taglish,6,0.3333333333333333,0.3333333333333333
+C,archived,whitespace,3,City Planning and Development Office|bislish,6,0.5,0.3888888888888889
+C,archived,whitespace,3,Bureau of Fire Protection|english,6,0.6666666666666666,0.5555555555555555
+C,archived,whitespace,3,Bureau of Fire Protection|taglish,6,0.6666666666666666,0.5833333333333334
+C,archived,whitespace,3,Bureau of Fire Protection|bislish,6,0.8333333333333334,0.6666666666666666
+C,archived,whitespace,5,Business Bureau|english,6,0.8333333333333334,0.6666666666666666
+C,archived,whitespace,5,Business Bureau|taglish,6,1.0,0.9166666666666666
+C,archived,whitespace,5,Business Bureau|bislish,6,1.0,1.0
+C,archived,whitespace,5,City Treasurer's Office|english,6,0.8333333333333334,0.6666666666666666
+C,archived,whitespace,5,City Treasurer's Office|taglish,6,0.6666666666666666,0.6666666666666666
+C,archived,whitespace,5,City Treasurer's Office|bislish,6,0.3333333333333333,0.3333333333333333
+C,archived,whitespace,5,Office of the City Building Official|english,6,0.8333333333333334,0.75
+C,archived,whitespace,5,Office of the City Building Official|taglish,6,0.6666666666666666,0.6666666666666666
+C,archived,whitespace,5,Office of the City Building Official|bislish,6,0.6666666666666666,0.4583333333333333
+C,archived,whitespace,5,City Planning and Development Office|english,6,0.8333333333333334,0.638888888888889
+C,archived,whitespace,5,City Planning and Development Office|taglish,6,0.3333333333333333,0.3333333333333333
+C,archived,whitespace,5,City Planning and Development Office|bislish,6,0.5,0.3888888888888889
+C,archived,whitespace,5,Bureau of Fire Protection|english,6,0.6666666666666666,0.5555555555555555
+C,archived,whitespace,5,Bureau of Fire Protection|taglish,6,0.6666666666666666,0.5833333333333334
+C,archived,whitespace,5,Bureau of Fire Protection|bislish,6,0.8333333333333334,0.6666666666666666
+C,candidate,punctuation,3,Business Bureau|english,6,0.8333333333333334,0.6388888888888888
+C,candidate,punctuation,3,Business Bureau|taglish,6,1.0,0.9166666666666666
+C,candidate,punctuation,3,Business Bureau|bislish,6,1.0,0.9166666666666666
+C,candidate,punctuation,3,City Treasurer's Office|english,6,0.8333333333333334,0.8333333333333334
+C,candidate,punctuation,3,City Treasurer's Office|taglish,6,0.6666666666666666,0.6666666666666666
+C,candidate,punctuation,3,City Treasurer's Office|bislish,6,0.3333333333333333,0.3333333333333333
+C,candidate,punctuation,3,Office of the City Building Official|english,6,0.8333333333333334,0.7222222222222222
+C,candidate,punctuation,3,Office of the City Building Official|taglish,6,0.8333333333333334,0.75
+C,candidate,punctuation,3,Office of the City Building Official|bislish,6,0.6666666666666666,0.6666666666666666
+C,candidate,punctuation,3,City Planning and Development Office|english,6,0.5,0.4166666666666667
+C,candidate,punctuation,3,City Planning and Development Office|taglish,6,0.5,0.4166666666666667
+C,candidate,punctuation,3,City Planning and Development Office|bislish,6,0.5,0.3333333333333333
+C,candidate,punctuation,3,Bureau of Fire Protection|english,6,0.8333333333333334,0.75
+C,candidate,punctuation,3,Bureau of Fire Protection|taglish,6,1.0,0.7777777777777777
+C,candidate,punctuation,3,Bureau of Fire Protection|bislish,6,0.8333333333333334,0.7222222222222222
+C,candidate,punctuation,5,Business Bureau|english,6,0.8333333333333334,0.6388888888888888
+C,candidate,punctuation,5,Business Bureau|taglish,6,1.0,0.9166666666666666
+C,candidate,punctuation,5,Business Bureau|bislish,6,1.0,0.9166666666666666
+C,candidate,punctuation,5,City Treasurer's Office|english,6,0.8333333333333334,0.8333333333333334
+C,candidate,punctuation,5,City Treasurer's Office|taglish,6,0.6666666666666666,0.6666666666666666
+C,candidate,punctuation,5,City Treasurer's Office|bislish,6,0.3333333333333333,0.3333333333333333
+C,candidate,punctuation,5,Office of the City Building Official|english,6,0.8333333333333334,0.7222222222222222
+C,candidate,punctuation,5,Office of the City Building Official|taglish,6,0.8333333333333334,0.75
+C,candidate,punctuation,5,Office of the City Building Official|bislish,6,0.8333333333333334,0.7083333333333334
+C,candidate,punctuation,5,City Planning and Development Office|english,6,0.8333333333333334,0.5
+C,candidate,punctuation,5,City Planning and Development Office|taglish,6,0.5,0.4166666666666667
+C,candidate,punctuation,5,City Planning and Development Office|bislish,6,0.6666666666666666,0.375
+C,candidate,punctuation,5,Bureau of Fire Protection|english,6,0.8333333333333334,0.75
+C,candidate,punctuation,5,Bureau of Fire Protection|taglish,6,1.0,0.7777777777777777
+C,candidate,punctuation,5,Bureau of Fire Protection|bislish,6,0.8333333333333334,0.7222222222222222
+C,candidate,whitespace,3,Business Bureau|english,6,0.8333333333333334,0.6666666666666666
+C,candidate,whitespace,3,Business Bureau|taglish,6,1.0,0.9166666666666666
+C,candidate,whitespace,3,Business Bureau|bislish,6,1.0,1.0
+C,candidate,whitespace,3,City Treasurer's Office|english,6,0.8333333333333334,0.6666666666666666
+C,candidate,whitespace,3,City Treasurer's Office|taglish,6,0.6666666666666666,0.6666666666666666
+C,candidate,whitespace,3,City Treasurer's Office|bislish,6,0.3333333333333333,0.3333333333333333
+C,candidate,whitespace,3,Office of the City Building Official|english,6,0.8333333333333334,0.75
+C,candidate,whitespace,3,Office of the City Building Official|taglish,6,0.6666666666666666,0.6666666666666666
+C,candidate,whitespace,3,Office of the City Building Official|bislish,6,0.6666666666666666,0.5833333333333334
+C,candidate,whitespace,3,City Planning and Development Office|english,6,0.6666666666666666,0.5555555555555556
+C,candidate,whitespace,3,City Planning and Development Office|taglish,6,0.3333333333333333,0.3333333333333333
+C,candidate,whitespace,3,City Planning and Development Office|bislish,6,0.3333333333333333,0.3333333333333333
+C,candidate,whitespace,3,Bureau of Fire Protection|english,6,0.5,0.5
+C,candidate,whitespace,3,Bureau of Fire Protection|taglish,6,0.5,0.4166666666666667
+C,candidate,whitespace,3,Bureau of Fire Protection|bislish,6,0.6666666666666666,0.6666666666666666
+C,candidate,whitespace,5,Business Bureau|english,6,0.8333333333333334,0.6666666666666666
+C,candidate,whitespace,5,Business Bureau|taglish,6,1.0,0.9166666666666666
+C,candidate,whitespace,5,Business Bureau|bislish,6,1.0,1.0
+C,candidate,whitespace,5,City Treasurer's Office|english,6,0.8333333333333334,0.6666666666666666
+C,candidate,whitespace,5,City Treasurer's Office|taglish,6,0.6666666666666666,0.6666666666666666
+C,candidate,whitespace,5,City Treasurer's Office|bislish,6,0.3333333333333333,0.3333333333333333
+C,candidate,whitespace,5,Office of the City Building Official|english,6,0.8333333333333334,0.75
+C,candidate,whitespace,5,Office of the City Building Official|taglish,6,0.6666666666666666,0.6666666666666666
+C,candidate,whitespace,5,Office of the City Building Official|bislish,6,0.6666666666666666,0.5833333333333334
+C,candidate,whitespace,5,City Planning and Development Office|english,6,0.6666666666666666,0.5555555555555556
+C,candidate,whitespace,5,City Planning and Development Office|taglish,6,0.3333333333333333,0.3333333333333333
+C,candidate,whitespace,5,City Planning and Development Office|bislish,6,0.3333333333333333,0.3333333333333333
+C,candidate,whitespace,5,Bureau of Fire Protection|english,6,0.8333333333333334,0.5750000000000001
+C,candidate,whitespace,5,Bureau of Fire Protection|taglish,6,0.6666666666666666,0.45
+C,candidate,whitespace,5,Bureau of Fire Protection|bislish,6,0.8333333333333334,0.7083333333333334

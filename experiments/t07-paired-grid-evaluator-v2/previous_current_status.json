@@ -1,0 +1,14 @@
+{
+  "updated": "2026-10-19T18:11:43.649696",
+  "t06": "COMPLETE_IMPLEMENTATION_WITH_DOCUMENTED_EVALUATOR_LIMITATIONS",
+  "t07": "PENDING_CONSISTENT_RESCORE_AND_FREEZE_THEN_HELD_OUT_COMPARISON",
+  "review_report": "D:\\thesis\\LGSDeliveryRAGAssistant-clean\\experiments\\normalization-sparse-development-regression-v1\\REVIEW_RESULTS.txt",
+  "held_out_accessed": false,
+  "app_defaults_changed": false,
+  "framework_alignment": "experiments/punctuation-context-precision-v1/METHOD_ALIGNMENT.txt",
+  "objective_review": "D:\\thesis\\LGSDeliveryRAGAssistant-clean\\experiments\\punctuation-context-precision-format-retry-v2\\REVIEW_RESULTS.txt",
+  "evidence_review": "D:\\thesis\\LGSDeliveryRAGAssistant-clean\\experiments\\bfp002-evidence-coverage-review-v1\\READ_THIS_FIRST.txt",
+  "calibration_report": "experiments\\context-precision-calibration-v1\\REVIEW_DECISION.txt",
+  "t06_closeout": "experiments\\t06-harness-closeout-v2\\T06_STATUS.txt",
+  "evaluator": "v2 opt-in implemented; 55/60 calibration agreement, four FP and one invalid retained"
+}

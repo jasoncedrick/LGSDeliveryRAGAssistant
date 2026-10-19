@@ -1,0 +1,25 @@
+[
+  {
+    "claim": "Conditional requirements state: construction/minor repair of buildings 3 storeys and above requires Construction Safety & Health Program, 1 original and 1 photocopy, with DOLE listed under Where to Secure. Boring and Plate Load Test Result/Report is listed if the structure is at least three storeys, 2 copies, with a licensed Civil/Geotechnical Engineer listed. For an additional storey, submit an affidavit that the foundation can carry the proposed additional floors, 2 originals.",
+    "evidence": [
+      {
+        "source_page_id": "OCBO-PDF0004",
+        "pdf_relative_page": 4,
+        "printed_page": 492,
+        "source_span": "Conditional Requirements\na.       Construction/minor repair of buildings 3- \nstoreys and above - Construction Safety & \nHealth Program (CSHP)  \n1 original, 1 photocopy\nDepartment of Labor and Employment (DOLE)\nb.     Boring and Plate Load Test Result/Report \n(if the structure is at least three storeys)  \n2 copies  \nTRANSFERRED TO CONDITIONAL \n \nNote: If applying for an additional storey; submit \nan Affidavit manifesting that the foundation can \ncarry the proposed additional floors. \n2 original\nHired professional (licensed Civil/Geotechnical \nEngineer)\nc.     Structures",
+        "char_start": 676,
+        "char_end": 1251,
+        "supporting_chunk_ids": [
+          "DEV120-OCBO-PDF0004-C002",
+          "DEV120-OCBO-PDF0004-C003",
+          "DEV120-OCBO-PDF0004-C004"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-OCBO-PDF0004-C002",
+      "DEV120-OCBO-PDF0004-C003",
+      "DEV120-OCBO-PDF0004-C004"
+    ]
+  }
+]

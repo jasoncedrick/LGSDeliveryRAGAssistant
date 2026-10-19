@@ -1,0 +1,65 @@
+{
+  "reviewer": "assistant",
+  "visual_sources": [
+    "BFP_matrix.png",
+    "BFP_fees.png",
+    "BFP_notes.png",
+    "BFP_class.png",
+    "BFP_warning.png"
+  ],
+  "status": "context_associations_checked_with_limitations",
+  "associations": [
+    {
+      "row": "Application form",
+      "mapping": "Fire Station: FSEC form for FSEC, FSIC form across FSIC columns. Unified form OSCP spans FSEC and Occupancy; BOSS spans business columns."
+    },
+    {
+      "row": "Architectural through Fire Protection documents",
+      "mapping": "Eight dots under FSEC. Three-set side label covers documentary block including as-built row; label is separated from its context in corpus C052/C053."
+    },
+    {
+      "row": "As-built plan together with building permit (If there is changes/",
+      "mapping": "Dots under Occupancy and all four business columns, not FSEC. Preserve exact truncated wording and prior reviewer interpretation separately."
+    },
+    {
+      "row": "Copy of Fire Insurance, if any",
+      "mapping": "Dots under four business columns only; occupancy cell blank, not an exemption statement."
+    },
+    {
+      "row": "Estimated value and valid PRC licenses",
+      "mapping": "FSEC only."
+    },
+    {
+      "row": "OBO endorsement, completion certificate, occupancy assessment fee",
+      "mapping": "Occupancy column only. Side label If applied in Fire Station/Lone District Fire Office applies to this grouped section, which also includes subsequent business-document rows."
+    },
+    {
+      "row": "Valid occupancy certificate",
+      "mapping": "New business WITH valid occupancy-stage FSIC only."
+    },
+    {
+      "row": "BPLO assessment",
+      "mapping": "Four business columns."
+    },
+    {
+      "row": "FSCR/FSCCR/FSMR",
+      "mapping": "FSCR FSEC; FSCCR Occupancy; FSMR new business WITHOUT valid occupancy-stage FSIC and both renewal columns. Conditional system-installation note applies."
+    },
+    {
+      "row": "Hot works",
+      "mapping": "Per-project dot FSEC; annual dots both renewal columns. Preserve if required and accompanying timing text."
+    }
+  ],
+  "already_corrected_groups": [
+    "SCENARIO-BFP-001",
+    "SCENARIO-BFP-004",
+    "SCENARIO-BFP-005"
+  ],
+  "limitations": [
+    "Blank cells must not be converted into exemption statements.",
+    "Detached side labels at end of corpus page mean some retrieved chunks lack their applicability context; review confirmation does not certify retrieval completeness.",
+    "Any future source-representation repair must be versioned and rebuilt with matching indices. No corpus change in this batch.",
+    "Assistant comparison is not independent expert audit."
+  ],
+  "manual_action_required_now": false
+}

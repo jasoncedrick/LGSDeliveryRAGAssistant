@@ -1,0 +1,34 @@
+CALIBRATION REVIEW DECISION
+
+Do not promote either evaluator or freeze the retrieval candidate on these scores.
+
+Original judge
+60/60 valid JSON outputs; 32/60 agree with declared controls (53.3%).
+29 true positives, 1 false negative, 3 true negatives, 27 false positives.
+Thus 27/30 known negative controls were accepted as useful.
+
+Evidence-grounded candidate
+3/60 contract-valid outputs (5% coverage); all three are supported CTO positives.
+57 invalid outputs: 53 missing/invalid schema and 4 quotes absent from context.
+The 100% accuracy-on-valid figure concerns only three positive examples and must not be presented as overall accuracy. No negative control received a valid candidate classification. Raw verdicts still include 24 false positives against the declared negative labels.
+
+The controls were source-compared, labeled and hashed before new judge calls. They cover five offices and three languages using existing development queries and unchanged source chunks. They are assistant-labeled diagnostics from five scenario groups, not independent expert gold or held-out evidence.
+
+The current prompt contains the actual retrieved context and the separate reference answer correctly. In a verified false positive the context is only an office heading, while the rationale asserts that it lists required documents. Input wiring does not explain that specific error. Exact quote verification checks provenance only, not semantic relevance.
+
+Next engineering work
+Prepare a separate prompt/template version that places clear boundaries around reference information and retrieved evidence and provides examples matching the required output schema. Run the same complete controls, retaining every result. No new evaluator will be promoted solely because it emits JSON. If it cannot discriminate supported from unsupported contexts, evaluate an alternative judge.
+Any accepted evaluator revision must then score both baseline and candidate consistently across the development set before selecting weights by the manuscript objective. No metric substitution, final-test tuning, or live response-filter chain is introduced.
+
+Status
+T06 batch harness is implemented and operational. Context Precision judge reliability remains unresolved; earlier 'complete' wording refers to implementation, not certification of judge outputs.
+Full T07 remains incomplete. No app defaults, source text, dictionary, retrieval parameters or original RAGAS scores were changed. No held-out data was accessed.
+No additional source clarification is requested from the user for the confirmed BFP fee panel. Independent expert auditing remains a separate manuscript requirement.
+
+Traceability
+controls.json: predeclared labels, source pages and rationales
+results.jsonl: complete original/candidate prompts, raw outputs and validation errors
+summary.json: all 15 office-language cells and explicit denominators
+model_configuration_inspection.json: installed model configurations
+protocol.json: scope, hashes and methodology grounding
+review_decision.json: machine-readable completion and promotion assessment

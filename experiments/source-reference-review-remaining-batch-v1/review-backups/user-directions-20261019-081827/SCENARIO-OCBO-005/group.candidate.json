@@ -1,0 +1,26 @@
+{
+  "group_id": "SCENARIO-OCBO-005",
+  "pillar": "Office of the City Building Official",
+  "split": "development",
+  "ground_truth_chunk_ids": [
+    "DEV120-OCBO-PDF0029-C001",
+    "DEV120-OCBO-PDF0029-C002",
+    "DEV120-OCBO-PDF0029-C003",
+    "DEV120-OCBO-PDF0029-C004",
+    "DEV120-OCBO-PDF0029-C005",
+    "DEV120-OCBO-PDF0035-C001",
+    "DEV120-OCBO-PDF0035-C002"
+  ],
+  "ground_truth_reference_answer": "Fencing checklist: permit form with 3 sets of Civil/Architectural plans signed/sealed by licensed Civil Engineer/Architect (A3 structural-plan option stated); certified land title and property tax declaration (1 original and 1 photocopy each); the next row repeats Certified True Copy of Tax Declaration of the Property with CTO as source; Barangay Clearance (1 original and 1 photocopy); scaled sketch/lot/vicinity plan signed/sealed by licensed Geodetic Engineer (3 sets); bill of materials/cost estimates signed/sealed by licensed Civil Engineer (3 sets); signing professionals PRC ID/current PTR (1 photocopy); owner/applicant ID with 3 specimen signatures (1 photocopy); conditional DPWH clearance along a National Highway.\n\nFee schedule: masonry/metal/concrete up to 1.80m PHP3 per linear meter; over 1.80m PHP4 per linear meter. Both source rows print \"of fraction thereof\". Indigenous materials, barbed, chicken or hog wire: PHP2.40 per linear meter. The service introduction says a fence not exceeding 1.80m, while the fee table includes over-1.80m; preserve both rather than infer an eligibility rule.",
+  "queries": {
+    "english": "What are the requirements and fee rates per linear meter to secure a Fencing Permit from OCBO?",
+    "taglish": "Ano ang requirements at magkano ang bayad kada linear meter para kumuha ng Fencing Permit sa OCBO?",
+    "bislish": "Unsa ang mga papeles nga kailangan ug pila ang bayad kada linear meter para sa Fencing Permit kung magpader?"
+  },
+  "legacy_ground_truth_chunk_ids": [
+    "CHUNK-OCBO-P517-C01",
+    "CHUNK-OCBO-P517-C02",
+    "CHUNK-OCBO-P523-C01"
+  ],
+  "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED"
+}

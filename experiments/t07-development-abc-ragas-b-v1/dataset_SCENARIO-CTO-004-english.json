@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What is the annual fixed tax schedule for commercial delivery trucks, vans, and motorcycles in Davao City?"
+  ],
+  "answer": [
+    "The annual fixed tax for commercial delivery trucks, vans, and motorcycles in Davao City is not explicitly specified in the provided sources for all types of vehicles. However, the sources [S1] and [S2] provide information for delivery vehicles, trucks, and vans. Specifically, [S2] mentions an annual fixed tax for delivery vehicles, trucks, vans, or any motor vehicle, vessels, or watercraft used by manufacturers, producers, wholesalers, dealers, or retailers. The exact amount for this tax is not specified in the provided sources. For more detailed information about the tax rates, it is recommended to refer to the City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf or consult with the City Treasurer’s Office or CTO District Offices."
+  ],
+  "contexts": [
+    [
+      "Assessment \nDivision, City \nTreasurer’s \nOffice, \nSangguniang \nPanlungsod, to \nassess and \npay fees, and \nsecure an \nOfficial Receipt \nand \nCommunity \nTax Certificate \n(Cedula).\nReceipts, \nand process \nthe Cedula.\nCode of\nthe City of\nDavao\nOrdinance \nNo. 0291- \n17, series \nof 2017, \nsection 72\n–\nImposition \nof Tax on\nAnnual\nFixed Tax\nfor\nDelivery \nVehicle;\nSection 76\n–\nGraduated\nTax on \nBusiness\nLocal Treasury\nOperations\nOfficer I/Local\nRevenue\nCollection Officer \nI/Local Revenue \nCollection Officer \nI/Local Revenue",
+      "ANNEX – 15\nSection 72. Imposition of Tax. - There is hereby imposed an annual fixed tax for every \ndelivery vehicle, truck, van, or any motor vehicle, vessels or watercraft used by \nmanufacturers, producers, wholesalers, dealers or retailers in the delivery or distribution \nof distilled spirits, fermented liquors, soft drinks, cigars and cigarettes and other essential \nproducts and sales of goods as may hereinafter be determined by the Sangguniang \nPanlungsod to sales outlets or consumer",
+      ") at \nthe Business \nTax \nAssessment \nDivision, City \nTreasurer’s \nOffice, \nSangguniang \nPanlungsod, \nor CTO \nDistrict \nOffices.\nBased on \nthe 2017 \nRevenue\nCode of the\nCity of \nDavao\nOrdinance \nNo. 0291- \n17, series \nof 2017, \nsection 72\n–\nImposition \nof Tax on\nAnnual\nFixed Tax \nfor Delivery\nVehicle; \nsection 76\n–\nGraduated\nTax on \nBusiness\n3 Minutes \nWindow 1-4,\nLocal Treasury\nOperations\nOfficer I/ Local\nRevenue \nCollection \nOfficer I –\nCity\nTreasurer’s\nOffice\n-or-\nAssigned\nCollectors at \nCTO"
+    ]
+  ],
+  "ground_truth": [
+    "Annex15, Section72 lists annual fixed delivery-vehicle taxes: motorcycle/motorized tricycle PHP240; delivery jeepney/similar utility vehicle PHP600; truck, van, or any vehicle with six wheels and above PHP1,000; water vessel, barges, ferry boats, tugboats and similar watercraft PHP2,000; airplane/aircraft PHP5,000. The section applies to vehicles used by manufacturers, producers, wholesalers, dealers or retailers in delivery/distribution of the listed products and goods within the City. Preserve the six-wheel row wording when classifying a vehicle."
+  ]
+}

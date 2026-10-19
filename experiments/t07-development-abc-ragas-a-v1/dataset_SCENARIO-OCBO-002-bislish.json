@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang dugang requirements sa OCBO kung 3-storey pataas ang building nga itukod?"
+  ],
+  "answer": [
+    "Sa iyong tanong, ang dugang requirements sa City Planning and Development Office (CPDO) kung 3-storey pataas ang building nga itukod ay nakatanggap ka nga validation ng Occupancy Permit based on the Integrated Zoning Ordinance (2019-2028) [S2]. Ang validation na ito ay gikan sa Office or Division ng CPDO, kasama ang City Planning and Development Office (CPDO) – Zoning Enforcement Division [S2].\n\nSa iba pang detalye, maaoy nga makita sa chunk DEV120-CPDO-PDF0005-C001 sa City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf [S2]."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "2. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (3-Storey Buildings and Above and \n1,500 Building Floor Area and Above) \nFor 3-storey buildings and above and for building floor area of 1,500 square meters \nand above only.  \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nComplex\nType of Trans",
+      "Recommendation \n  \n5.3 Forward to \nBuilding Official \n(BO) for signing \nand approval\nNone \n30 Minutes\n4 Hours\n1 Day\nTechnical Assistant\non Planning and\nDevelopment\nRecords Personnel\n– OCBO\nPED Chief – OCBO\nBuilding Official –\nOCBO\nEngineering Staff\nRecords Custodian\n– OCBO"
+    ]
+  ],
+  "ground_truth": [
+    "Conditional requirements state: construction/minor repair of buildings 3 storeys and above requires Construction Safety & Health Program, 1 original and 1 photocopy, with DOLE listed under Where to Secure. Boring and Plate Load Test Result/Report is listed if the structure is at least three storeys, 2 copies, with a licensed Civil/Geotechnical Engineer listed. For an additional storey, submit an affidavit that the foundation can carry the proposed additional floors, 2 originals."
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "group_id": "SCENARIO-OCBO-006",
+  "pillar": "Office of the City Building Official",
+  "split": "development",
+  "ground_truth_chunk_ids": [
+    "DEV120-OCBO-PDF0103-C001",
+    "DEV120-OCBO-PDF0103-C002",
+    "DEV120-OCBO-PDF0104-C001",
+    "DEV120-OCBO-PDF0104-C002"
+  ],
+  "ground_truth_reference_answer": "To secure a Certified True Copy (CTC) of a Building Permit or related building documents from the OCBO Records Division, the applicant must submit: 1) Request Letter; 2) Photocopy of the Building Permit or reference details; 3) Photocopy of valid ID of owner with 3 specimen signatures; 4) Notarized SPA and processor's valid ID if represented; and 5) Original Affidavit of Loss if the original permit was lost. The statutory fee is PHP 50.00 per document (1 copy), paid at the City Treasurer's Office, with a standard turnaround time of 2 Days, 1 Hour, and 19 Minutes.",
+  "queries": {
+    "english": "What is the fee and requirement checklist to request a Certified True Copy of a lost Building Permit at OCBO?",
+    "taglish": "Magkano ang bayad at ano ang requirements para kumuha ng Certified True Copy ng nawalang Building Permit sa OCBO?",
+    "bislish": "Pila ang bayad ug unsa ang mga requirements para makakuha ug Certified True Copy sa nawala nga Building Permit sa OCBO?"
+  },
+  "legacy_ground_truth_chunk_ids": [
+    "CHUNK-OCBO-P591-C01",
+    "CHUNK-OCBO-P592-C01"
+  ],
+  "mapping_status": "PROVISIONAL_EXACT_SPAN_MAPPING"
+}

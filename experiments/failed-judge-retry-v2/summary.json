@@ -1,0 +1,45 @@
+{
+  "retry_results": [
+    {
+      "record_id": "SCENARIO-BB-001-english",
+      "metric": "context_recall",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BB-001-taglish",
+      "metric": "context_recall",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BB-001-bislish",
+      "metric": "context_recall",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BFP-006-english",
+      "metric": "context_precision",
+      "status": "SCORED"
+    }
+  ],
+  "metric_aggregates": {
+    "faithfulness": {
+      "valid": 84,
+      "mean": 0.8454034391534391
+    },
+    "context_precision": {
+      "valid": 84,
+      "mean": 0.9032903438928886
+    },
+    "context_recall": {
+      "valid": 84,
+      "mean": 0.9151737151737154
+    },
+    "answer_relevancy": {
+      "valid": 84,
+      "mean": 0.617692361611897
+    }
+  },
+  "originals_preserved": true,
+  "held_out_accessed": false,
+  "note": "Supplemental retry-adjusted scores; original run retained. Recall output ceiling 4096; precision one-object format suffix. No answer/reference/context edits."
+}

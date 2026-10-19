@@ -1,0 +1,20 @@
+{
+  "question": [
+    "How is the Fire Safety Inspection Fee (FSIF) calculated for an Occupancy Permit FSIC and what is the minimum fee?"
+  ],
+  "answer": [
+    "The Fire Safety Inspection Fee (FSIF) for an Occupancy Permit FSIC is not explicitly stated in the provided sources. However, the fee for other services related to Fire Safety Evaluation Clearance (FSEC) and Fire Safety Compliance Report (FSCR) are mentioned in [S1] and [S5] respectively. The sources do not provide information about the minimum fee for FSIF specifically for an Occupancy Permit FSIC."
+  ],
+  "contexts": [
+    [
+      "s, etc.) as a prerequisite for the\nissuance of appropriate permits and licenses\nfrom the local and other government agencies\nconcerned.\n\nCHECKLIST OF\nREQUIREMENTS/\nDOCUMENTS\nBFP FRONT LINE SERVICES\nFIRE SAFETY  \nEVALUATION \nCLEARANCE\n(FSEC)\nAPPLICATION\nFIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION\nCERTIFICATE OF\nOCCUPANCY\nNEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPAN",
+      "Building Administrator and his/her Fire Safety Practitioner\nduring the regular annual fire safety inspection. This  is a compilation of the maintenance and testing records kept by the building‘s engineering and maintenance department, as a prerequisite for the issuance of FSIC for Business or \nMayor‘s Permit renewal, Certificate of Annual Inspection , Permit to Operate, PHILHEALTH Accreditation for Hospitals, DOH License to Operate and other  permits or licenses being issued by other government agencies.\nNOTE (4) Section 9.",
+      "FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST. Other service cells are blank in source; blank is not an exemption statement.]\n\nCopy of Fire Insurance, if any\n[REPRESENTATION: Matrix dot shown for: NEW BUSINESS PERMIT WITH",
+      "WAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST. Other service cells are blank in source; blank is not an exemption statement.]\n\nO   T   H   E   R     D   O   C   U   M   E   N   T   S\nFire Safety Compliance Report (FSCR) NOTE (1)\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION",
+      "test and acceptance forms of all fire protection and life safety features, which shall form part of the ―as-built‖\ndocuments turned over by the contractor to the building owner duly signed by the Contractor/Construction Manager and his/her Fire Safety Practitioner.\nNOTE (3) Fire Safety Maintenance Report (FSMR) - A written report prepared by the building owner, his/her fire safety practitioner or authorized representative duly signed by the Building Administrator and his/her Fire Safety Practitioner\nduring the regular annual fire safety inspection."
+    ]
+  ],
+  "ground_truth": [
+    "For FSIC for Certificate of Occupancy and new/renewal business applications, the fee panel states FSIF is 15% of all fees charged by LGU/PEZA, not less than PHP500. It explicitly adds: if assessment from LGUs/PEZA is zero, FSIF is zero. Other fees apply if applicable under the cited RIRR provision. Do not omit the zero-assessment exception or narrow the base to LGU-only regulatory fees."
+  ]
+}

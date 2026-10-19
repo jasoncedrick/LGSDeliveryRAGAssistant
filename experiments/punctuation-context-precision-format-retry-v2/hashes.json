@@ -1,0 +1,13 @@
+{
+  "baseline_comparison.json": "ad7f27cdf146af53047bbd94dc4a5560ff1ad016d0ad77bd046aff3859fbc447",
+  "console.log": "7ed03386662bd4441d3dd707050ea075a3513cbd9996187ab5ac9167fcc1922f",
+  "context_precision_grid.json": "d69e5bc890f40fc261f79c7af020120f6405054f16ffdbc24631aa1cf5a8f1b5",
+  "judge_progress.json": "ae00fc42a0f9506817c3a0ee80ee05fbedef4deed24439973d14b34f21ba4826",
+  "judge_verdicts.jsonl": "321c1124f5bfa11a031be0a829c906d902c688490859d3e9e723b8fce0ccfefe",
+  "METHOD_ALIGNMENT.txt": "45120b4c2af6e5cba49fb63848a8b5009d8a9cf4bba170d952b2412ed72b2af7",
+  "protocol.json": "aee81a1a78ddae9ac4faa16a6d4f847c5775f0bd0daa68acb3783c673fa8f177",
+  "rankings.jsonl": "af30e1eb9de8ba3f1ee566e1f6f618e4c6ec2faedb4549c3229300fdab18cad0",
+  "retry_0.json": "147bd49fef7535df90afa2e47aa69a384db08d1d8b15932b817e1bba93256d10",
+  "REVIEW_RESULTS.txt": "72f4e52bfc66951f670dfc816990cea8199e627e3dddfeca2d9cdd6323806e85",
+  "validation.json": "5c6b43f528108e1047c128ae3d23574ba5e76acccf5a63c673ad702c48243408"
+}

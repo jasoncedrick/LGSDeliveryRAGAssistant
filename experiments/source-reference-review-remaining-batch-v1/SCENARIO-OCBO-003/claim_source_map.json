@@ -1,0 +1,73 @@
+[
+  {
+    "claim": "Occupancy checklist: application letter (1 original); authorization letter if applicant is not owner (1 original); owner ID with 3 specimen signatures (1 photocopy); Certificate of Occupancy (1 original); Certificate of Completion (1 original); BFP Fire Safety Inspection Certificate (1 original); four-elevation project pictures (front/back/left/right); approved Building Construction, Architectural, Civil/Structural, Sanitary/Plumbing, Electrical and Mechanical installation permits (1 photocopy); approved building-permit plan (1 original).",
+    "evidence": [
+      {
+        "source_page_id": "OCBO-PDF0013",
+        "pdf_relative_page": 13,
+        "printed_page": 501,
+        "source_span": "1. Application Letter  \n   1 original\nOwner/Applicant\n2. Authorization letter (if the applicant is not the \nowner)  \n1 original\nCity Planning and Development Office \n(CPDO)\n3. Owner’s valid ID with 3 specimen signatures  \n1 photocopy\nOwner/Applicant\n4. Certificate of Occupancy  \n1 original\nOffice of the City Building Official (OCBO)\n5. Certificate of Completion  \n1 original\nOffice of the City Building Official (OCBO)\n6. Fire Safety Inspection Certificate  \n1 original\nBureau of Fire Protection (BFP)\n7. Pictures of the project showing four (4) \nelevations (Front, Back, Left and Right Side)\nHired Geodetic Engineer\n8. Approved Permits (Building Construction, \nArchitectural, Civil/Structural, Sanitary/Plumbing \nInstallation, Electrical Installation and Mechanical \nInstallation)  \n1 photocopy\nOwner/Applicant\n9. Approved plan of Building Permit  \n1 original\nOwner/Applicant\n10. If the project",
+        "char_start": 473,
+        "char_end": 1370,
+        "supporting_chunk_ids": [
+          "DEV120-OCBO-PDF0013-C001",
+          "DEV120-OCBO-PDF0013-C002",
+          "DEV120-OCBO-PDF0013-C003",
+          "DEV120-OCBO-PDF0013-C004"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-OCBO-PDF0013-C001",
+      "DEV120-OCBO-PDF0013-C002",
+      "DEV120-OCBO-PDF0013-C003",
+      "DEV120-OCBO-PDF0013-C004"
+    ]
+  },
+  {
+    "claim": "If a different professional undertook/was assigned the project, the checklist requires a signed, notarized waiver from the previous professional in charge (1 original). It also lists Structure Images with CAAP clearance and structural survey for actual building height, signed/sealed by a licensed Geodetic Engineer. The authorization-letter source cell says CPDO and the picture source cell says Hired Geodetic Engineer; those unusual source associations are preserved.",
+    "evidence": [
+      {
+        "source_page_id": "OCBO-PDF0013",
+        "pdf_relative_page": 13,
+        "printed_page": 501,
+        "source_span": "10. If the project has been undertaken/assigned \nto a professional other than the professional-in-\ncharge upon application of building permit, \nsigned and duly notarized waiver from previous \nprofessional in-charge \n     1 original\nWaiving Party\n11. Structure Images with CAAP \nclearance(Submit structural survey for the actual \nbuilding height) signed and sealed by a duly \nlicensed Geodetic Engineer\nCAAP & Hired Geodetic Engineer\nCLIENT STEPS",
+        "char_start": 1352,
+        "char_end": 1797,
+        "supporting_chunk_ids": [
+          "DEV120-OCBO-PDF0013-C003",
+          "DEV120-OCBO-PDF0013-C004",
+          "DEV120-OCBO-PDF0013-C005"
+        ]
+      },
+      {
+        "source_page_id": "OCBO-PDF0013",
+        "pdf_relative_page": 13,
+        "printed_page": 501,
+        "source_span": "2. Authorization letter (if the applicant is not the \nowner)  \n1 original\nCity Planning and Development Office \n(CPDO)\n3. Owner’s valid ID with 3 specimen signatures  \n1 photocopy\nOwner/Applicant\n4. Certificate",
+        "char_start": 527,
+        "char_end": 737,
+        "supporting_chunk_ids": [
+          "DEV120-OCBO-PDF0013-C002"
+        ]
+      },
+      {
+        "source_page_id": "OCBO-PDF0013",
+        "pdf_relative_page": 13,
+        "printed_page": 501,
+        "source_span": "7. Pictures of the project showing four (4) \nelevations (Front, Back, Left and Right Side)\nHired Geodetic Engineer\n8. Approved",
+        "char_start": 977,
+        "char_end": 1103,
+        "supporting_chunk_ids": [
+          "DEV120-OCBO-PDF0013-C003"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-OCBO-PDF0013-C003",
+      "DEV120-OCBO-PDF0013-C004",
+      "DEV120-OCBO-PDF0013-C005",
+      "DEV120-OCBO-PDF0013-C002"
+    ]
+  }
+]

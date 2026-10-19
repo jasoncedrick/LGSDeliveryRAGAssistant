@@ -1,0 +1,8 @@
+{
+  "before_after.diff": "34ab2990e98d23028190257dd96c799e3dd82fed9957b0b463550bbc103610bb",
+  "claim_source_map.json": "cd02fd69aae5a04cd768e6c4866e44f1807f961c7bbdcaa5a1824b50d5fb2092",
+  "group.before.json": "97d9edf97dc03df558ff1c8ddc2e30e3b01a71b5591af402269c7f8666287638",
+  "group.candidate.json": "92c406c8977675b3998eddf85e863f13b079482aa13f079eaff3406e47e666af",
+  "reference_candidate.txt": "b16d422b1e9b74872e822aeff6d7206a052bbaec464a4c5499dd57569943e104",
+  "review.json": "8a7c12e770bae8335cda45f4b15d55667ace8164fd22add65ae058c698bf3b75"
+}

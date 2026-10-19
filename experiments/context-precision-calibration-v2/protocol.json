@@ -1,0 +1,21 @@
+{
+  "version": "context-precision-separated-evidence-v2",
+  "controls_sha256": "3c3248c706dc80c85e46a48cf925222cca960ffddd34c592f5ba6b1d7f3efdbb",
+  "template_sha256": "117cfe70470686b991bf8847d92dc8d0a72d304277d6ce4c8c83367724d0d972",
+  "model_digest": "39d9f435aeed825a340db73dfba9e7ce346664aa00727c9066bb1f0352406a6f",
+  "settings": {
+    "temperature": 0,
+    "top_p": 0,
+    "num_ctx": 8192,
+    "num_predict": 1024,
+    "num_thread": 4
+  },
+  "scope": "Adaptive development evaluator calibration; not final or independent validation",
+  "examples": "Three fictional library-format examples, not official-source reconstructions or benchmark scenarios",
+  "reference_grounding": "20260923.pdf PDF25 and31-34, offline RAGAS and development-only tuning; main Thesis Tracker archived T06 harness requirement",
+  "mathematics": "RAGAS 0.1.5 ranked average precision unchanged; evidence/format errors remain missing",
+  "held_out_accessed": false,
+  "app_defaults_changed": false,
+  "original_scores_changed": false,
+  "promotion_policy": "No automatic acceptance from JSON validity. Report confusion matrix and failures across every office/language; preserve original evaluator alongside revision."
+}

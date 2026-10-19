@@ -1,0 +1,27 @@
+{
+  "scope": "Offline archived development evaluation; no runtime filtering or final benchmark claims",
+  "ragas_version": "0.1.5",
+  "judge_model": "eboss-mistral",
+  "metrics": [
+    "context_precision"
+  ],
+  "input_archive": "D:\\thesis\\LGSDeliveryRAGAssistant-clean\\experiments\\t06-formal-development-validation-v3\\interactions.corrected_references.jsonl",
+  "input_sha256": "81e62fef6ea3939195737a2649dd94a98bcbb719f4c430237024c3a4c40f92aa",
+  "record_ids": [
+    "SCENARIO-CTO-003-english"
+  ],
+  "generation_failures_retained_in_original_archive": true,
+  "reference": "Archived reference answer if available, otherwise source evidence fragments; preserve declared reference status.",
+  "same_generator_and_judge_model": true,
+  "max_workers": 1,
+  "max_retries": 0,
+  "held_out_accessed": false,
+  "context_recall_schema_instruction": null,
+  "metric_output_contract": {
+    "version": "ragas-output-contract-v1",
+    "instructions": {
+      "context_precision": "Return exactly ONE top-level JSON object with exactly two fields: \"reason\" (a string) and \"verdict\" (the string \"0\" or \"1\"). Do not nest these fields under verification or another field. Do not return an array, multiple objects, markdown, or extra prose. Apply the original usefulness criterion; this instruction changes output format only.",
+      "answer_relevancy": "Return exactly ONE top-level JSON object for this invocation with exactly two fields: \"question\" (one generated question as a string) and \"noncommittal\" (the integer 0 or 1). Use the key question, not answer. Do not copy the context or provide an answer. Do not return an array, multiple objects, markdown, or extra prose. The evaluator requests multiple generations separately; produce only one object here. Apply the original question-generation and noncommittal criteria; change output format only."
+    }
+  }
+}

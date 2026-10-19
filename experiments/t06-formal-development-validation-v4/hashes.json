@@ -1,0 +1,13 @@
+{
+  "development_groups.before.json": "f3d7977af7372f14df90230b399d41073fe6f3dd80b52a2c706cde230b80e91d",
+  "development_groups.derived.json": "5fd1d4d9f86ccc1f7f3cbf8bd5018c9b88e0085bdd3935b20214eac9445ddfaf",
+  "input_hashes.json": "ef57d52d6c425e58085bd755aafd5f0d94a7ae1327fcefa58135fe33cf96abc4",
+  "interactions.corrected_references.jsonl": "0ae03ce4d3fe9cc36a7b90d46416e5f69ddc4d2d22067496bd3c72d96104d411",
+  "methodology_and_tracker.json": "ee15440a4643968034d4a6451b999a4fadddb2399f6b882acd25943ff66d6281",
+  "per_query_metrics.csv": "c41fda2132e881fd817d8d2b87e04a317ef1395c94fa763c1d5dc02aa18892f8",
+  "protocol.json": "4f68c537b89dc0f5981ba380183c026686fccefac9283692e346dd550671665f",
+  "READ_THIS_FIRST.txt": "7bff63282803f06de27a933753c48b17c46ab0092e1b125ce6a8dea4983323c4",
+  "reference_changes.json": "e8b43114782e6841e3f187f0a88923e58d15bdc559911541d86e668bf169d024",
+  "summary.json": "8a94276fd26b0fc95989607e39a55ef23bcf8ddfc5ee38d987cbf5ef590df21e",
+  "validation.json": "03d56f9afb606f67d7d6e1ff83447cb2e1196a6f83b8f0611277ec9753daec12"
+}

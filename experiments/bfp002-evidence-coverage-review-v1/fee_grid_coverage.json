@@ -1,0 +1,2042 @@
+[
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 0,
+    "weights": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "k": 3,
+    "J": 0.8657407407045833,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BB-PDF0003-C002",
+      "DEV120-BB-PDF0004-C001",
+      "DEV120-BFP-PDF0001-C024"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 0,
+    "weights": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "k": 5,
+    "J": 0.8614351851608392,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BB-PDF0003-C002",
+      "DEV120-BB-PDF0004-C001",
+      "DEV120-BFP-PDF0001-C024",
+      "DEV120-BFP-PDF0001-C026",
+      "DEV120-BFP-PDF0001-C032"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 1,
+    "weights": [
+      0.0,
+      0.25,
+      0.75
+    ],
+    "k": 3,
+    "J": 0.8546296295940278,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C042",
+      "DEV120-BB-PDF0003-C002"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 1,
+    "weights": [
+      0.0,
+      0.25,
+      0.75
+    ],
+    "k": 5,
+    "J": 0.8327006172626262,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C042",
+      "DEV120-BB-PDF0003-C002",
+      "DEV120-BFP-PDF0001-C034",
+      "DEV120-BFP-PDF0001-C039"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 2,
+    "weights": [
+      0.0,
+      0.5,
+      0.5
+    ],
+    "k": 3,
+    "J": 0.8546296295940278,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C042",
+      "DEV120-BB-PDF0003-C002"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 2,
+    "weights": [
+      0.0,
+      0.5,
+      0.5
+    ],
+    "k": 5,
+    "J": 0.8327006172626262,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C042",
+      "DEV120-BB-PDF0003-C002",
+      "DEV120-BFP-PDF0001-C034",
+      "DEV120-BFP-PDF0001-C039"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 3,
+    "weights": [
+      0.0,
+      0.75,
+      0.25
+    ],
+    "k": 3,
+    "J": 0.8527777777428242,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 3,
+    "weights": [
+      0.0,
+      0.75,
+      0.25
+    ],
+    "k": 5,
+    "J": 0.8305401234362786,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C040"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 4,
+    "weights": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "k": 3,
+    "J": 0.8546296295945832,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C004",
+      "DEV120-BFP-PDF0001-C006"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 4,
+    "weights": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "k": 5,
+    "J": 0.8330864197330623,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C004",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C005"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 5,
+    "weights": [
+      0.25,
+      0.0,
+      0.75
+    ],
+    "k": 3,
+    "J": 0.845370370334676,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C042",
+      "DEV120-BFP-PDF0001-C038"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 5,
+    "weights": [
+      0.25,
+      0.0,
+      0.75
+    ],
+    "k": 5,
+    "J": 0.8218364197326736,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C042",
+      "DEV120-BFP-PDF0001-C038",
+      "DEV120-BFP-PDF0001-C032",
+      "DEV120-BFP-PDF0001-C034"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 6,
+    "weights": [
+      0.25,
+      0.25,
+      0.5
+    ],
+    "k": 3,
+    "J": 0.8685185184840741,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C042",
+      "DEV120-BFP-PDF0001-C034"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 6,
+    "weights": [
+      0.25,
+      0.25,
+      0.5
+    ],
+    "k": 5,
+    "J": 0.8557253086202479,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C042",
+      "DEV120-BFP-PDF0001-C034",
+      "DEV120-BFP-PDF0001-C039",
+      "DEV120-BB-PDF0003-C002"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 7,
+    "weights": [
+      0.25,
+      0.5,
+      0.25
+    ],
+    "k": 3,
+    "J": 0.8601851851518056,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C019"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 7,
+    "weights": [
+      0.25,
+      0.5,
+      0.25
+    ],
+    "k": 5,
+    "J": 0.8509567901025744,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C042"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 8,
+    "weights": [
+      0.25,
+      0.75,
+      0.0
+    ],
+    "k": 3,
+    "J": 0.8583333333002316,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C006"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 8,
+    "weights": [
+      0.25,
+      0.75,
+      0.0
+    ],
+    "k": 5,
+    "J": 0.8494444444236658,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C040",
+      "DEV120-BFP-PDF0001-C033"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 9,
+    "weights": [
+      0.5,
+      0.0,
+      0.5
+    ],
+    "k": 3,
+    "J": 0.845370370334676,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C042",
+      "DEV120-BFP-PDF0001-C038"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 9,
+    "weights": [
+      0.5,
+      0.0,
+      0.5
+    ],
+    "k": 5,
+    "J": 0.8218364197326736,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C042",
+      "DEV120-BFP-PDF0001-C038",
+      "DEV120-BFP-PDF0001-C032",
+      "DEV120-BFP-PDF0001-C034"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 10,
+    "weights": [
+      0.5,
+      0.25,
+      0.25
+    ],
+    "k": 3,
+    "J": 0.8685185184848149,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C021"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 10,
+    "weights": [
+      0.5,
+      0.25,
+      0.25
+    ],
+    "k": 5,
+    "J": 0.8547530863986155,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C042",
+      "DEV120-BFP-PDF0001-C006"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 11,
+    "weights": [
+      0.5,
+      0.5,
+      0.0
+    ],
+    "k": 3,
+    "J": 0.8694444444101389,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 11,
+    "weights": [
+      0.5,
+      0.5,
+      0.0
+    ],
+    "k": 5,
+    "J": 0.8521296296089313,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C040"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 12,
+    "weights": [
+      0.75,
+      0.0,
+      0.25
+    ],
+    "k": 3,
+    "J": 0.8490740740381945,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C042"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 12,
+    "weights": [
+      0.75,
+      0.0,
+      0.25
+    ],
+    "k": 5,
+    "J": 0.8234413580043193,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C042",
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 13,
+    "weights": [
+      0.75,
+      0.25,
+      0.0
+    ],
+    "k": 3,
+    "J": 0.8703703703360186,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 13,
+    "weights": [
+      0.75,
+      0.25,
+      0.0
+    ],
+    "k": 5,
+    "J": 0.8535802468927934,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C040"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 14,
+    "weights": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "k": 3,
+    "J": 0.8416666666326388,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 14,
+    "weights": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "k": 5,
+    "J": 0.8313888888677091,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C040"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 15,
+    "weights": [
+      0.4,
+      0.6,
+      0
+    ],
+    "k": 3,
+    "J": 0.8611111110770371,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C006"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 15,
+    "weights": [
+      0.4,
+      0.6,
+      0
+    ],
+    "k": 5,
+    "J": 0.8441666666460486,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C040",
+      "DEV120-BFP-PDF0001-C033"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 16,
+    "weights": [
+      0.4,
+      0.5,
+      0.1
+    ],
+    "k": 3,
+    "J": 0.8629629629300926,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C033"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "grid_id": 16,
+    "weights": [
+      0.4,
+      0.5,
+      0.1
+    ],
+    "k": 5,
+    "J": 0.8547376542999535,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C040"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 0,
+    "weights": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "k": 3,
+    "J": 0.8657407407045833,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BB-PDF0001-C001",
+      "DEV120-BB-PDF0002-C001",
+      "DEV120-BB-PDF0002-C002"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 0,
+    "weights": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "k": 5,
+    "J": 0.8614351851608392,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BB-PDF0001-C001",
+      "DEV120-BB-PDF0002-C001",
+      "DEV120-BB-PDF0002-C002",
+      "DEV120-BB-PDF0002-C003",
+      "DEV120-BB-PDF0002-C004"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 1,
+    "weights": [
+      0.0,
+      0.25,
+      0.75
+    ],
+    "k": 3,
+    "J": 0.8546296295940278,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C004",
+      "DEV120-BFP-PDF0001-C021"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 1,
+    "weights": [
+      0.0,
+      0.25,
+      0.75
+    ],
+    "k": 5,
+    "J": 0.8327006172626262,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C004",
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C005",
+      "DEV120-BFP-PDF0001-C006"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 2,
+    "weights": [
+      0.0,
+      0.5,
+      0.5
+    ],
+    "k": 3,
+    "J": 0.8546296295940278,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C004",
+      "DEV120-BFP-PDF0001-C021"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 2,
+    "weights": [
+      0.0,
+      0.5,
+      0.5
+    ],
+    "k": 5,
+    "J": 0.8327006172626262,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C004",
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C005",
+      "DEV120-BFP-PDF0001-C006"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 3,
+    "weights": [
+      0.0,
+      0.75,
+      0.25
+    ],
+    "k": 3,
+    "J": 0.8527777777428242,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C004",
+      "DEV120-BFP-PDF0001-C021"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 3,
+    "weights": [
+      0.0,
+      0.75,
+      0.25
+    ],
+    "k": 5,
+    "J": 0.8305401234362786,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C004",
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C005",
+      "DEV120-BFP-PDF0001-C006"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 4,
+    "weights": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "k": 3,
+    "J": 0.8546296295945832,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C004",
+      "DEV120-BFP-PDF0001-C021"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 4,
+    "weights": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "k": 5,
+    "J": 0.8330864197330623,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C004",
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C005",
+      "DEV120-BFP-PDF0001-C006"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 5,
+    "weights": [
+      0.25,
+      0.0,
+      0.75
+    ],
+    "k": 3,
+    "J": 0.845370370334676,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C041",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C035"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 5,
+    "weights": [
+      0.25,
+      0.0,
+      0.75
+    ],
+    "k": 5,
+    "J": 0.8218364197326736,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C041",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C035",
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C005"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 6,
+    "weights": [
+      0.25,
+      0.25,
+      0.5
+    ],
+    "k": 3,
+    "J": 0.8685185184840741,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C005"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 6,
+    "weights": [
+      0.25,
+      0.25,
+      0.5
+    ],
+    "k": 5,
+    "J": 0.8557253086202479,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C005",
+      "DEV120-BFP-PDF0001-C041",
+      "DEV120-BFP-PDF0001-C019"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 7,
+    "weights": [
+      0.25,
+      0.5,
+      0.25
+    ],
+    "k": 3,
+    "J": 0.8601851851518056,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C005"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 7,
+    "weights": [
+      0.25,
+      0.5,
+      0.25
+    ],
+    "k": 5,
+    "J": 0.8509567901025744,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C005",
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C004"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 8,
+    "weights": [
+      0.25,
+      0.75,
+      0.0
+    ],
+    "k": 3,
+    "J": 0.8583333333002316,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C006"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 8,
+    "weights": [
+      0.25,
+      0.75,
+      0.0
+    ],
+    "k": 5,
+    "J": 0.8494444444236658,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C005",
+      "DEV120-BFP-PDF0001-C004"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 9,
+    "weights": [
+      0.5,
+      0.0,
+      0.5
+    ],
+    "k": 3,
+    "J": 0.845370370334676,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C041",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C035"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 9,
+    "weights": [
+      0.5,
+      0.0,
+      0.5
+    ],
+    "k": 5,
+    "J": 0.8218364197326736,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C041",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C035",
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C005"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 10,
+    "weights": [
+      0.5,
+      0.25,
+      0.25
+    ],
+    "k": 3,
+    "J": 0.8685185184848149,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C041"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 10,
+    "weights": [
+      0.5,
+      0.25,
+      0.25
+    ],
+    "k": 5,
+    "J": 0.8547530863986155,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C041",
+      "DEV120-BFP-PDF0001-C005",
+      "DEV120-BFP-PDF0001-C044"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 11,
+    "weights": [
+      0.5,
+      0.5,
+      0.0
+    ],
+    "k": 3,
+    "J": 0.8694444444101389,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C005"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 11,
+    "weights": [
+      0.5,
+      0.5,
+      0.0
+    ],
+    "k": 5,
+    "J": 0.8521296296089313,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C005",
+      "DEV120-BFP-PDF0001-C041",
+      "DEV120-BFP-PDF0001-C019"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 12,
+    "weights": [
+      0.75,
+      0.0,
+      0.25
+    ],
+    "k": 3,
+    "J": 0.8490740740381945,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C041",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C035"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 12,
+    "weights": [
+      0.75,
+      0.0,
+      0.25
+    ],
+    "k": 5,
+    "J": 0.8234413580043193,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C041",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C035",
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C005"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 13,
+    "weights": [
+      0.75,
+      0.25,
+      0.0
+    ],
+    "k": 3,
+    "J": 0.8703703703360186,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C041",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C021"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 13,
+    "weights": [
+      0.75,
+      0.25,
+      0.0
+    ],
+    "k": 5,
+    "J": 0.8535802468927934,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C041",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C005",
+      "DEV120-BFP-PDF0001-C035"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 14,
+    "weights": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "k": 3,
+    "J": 0.8416666666326388,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C041",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C035"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 14,
+    "weights": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "k": 5,
+    "J": 0.8313888888677091,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C041",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C035",
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C005"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 15,
+    "weights": [
+      0.4,
+      0.6,
+      0
+    ],
+    "k": 3,
+    "J": 0.8611111110770371,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C005"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 15,
+    "weights": [
+      0.4,
+      0.6,
+      0
+    ],
+    "k": 5,
+    "J": 0.8441666666460486,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C005",
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C041"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 16,
+    "weights": [
+      0.4,
+      0.5,
+      0.1
+    ],
+    "k": 3,
+    "J": 0.8629629629300926,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C005"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "grid_id": 16,
+    "weights": [
+      0.4,
+      0.5,
+      0.1
+    ],
+    "k": 5,
+    "J": 0.8547376542999535,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C005",
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C041"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 0,
+    "weights": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "k": 3,
+    "J": 0.8657407407045833,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BB-PDF0003-C002",
+      "DEV120-BB-PDF0004-C001",
+      "DEV120-BFP-PDF0001-C021"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 0,
+    "weights": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "k": 5,
+    "J": 0.8614351851608392,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BB-PDF0003-C002",
+      "DEV120-BB-PDF0004-C001",
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C024",
+      "DEV120-BFP-PDF0001-C026"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 1,
+    "weights": [
+      0.0,
+      0.25,
+      0.75
+    ],
+    "k": 3,
+    "J": 0.8546296295940278,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C042"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 1,
+    "weights": [
+      0.0,
+      0.25,
+      0.75
+    ],
+    "k": 5,
+    "J": 0.8327006172626262,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C042",
+      "DEV120-BB-PDF0003-C002",
+      "DEV120-BFP-PDF0001-C034"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 2,
+    "weights": [
+      0.0,
+      0.5,
+      0.5
+    ],
+    "k": 3,
+    "J": 0.8546296295940278,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C042"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 2,
+    "weights": [
+      0.0,
+      0.5,
+      0.5
+    ],
+    "k": 5,
+    "J": 0.8327006172626262,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C042",
+      "DEV120-BB-PDF0003-C002",
+      "DEV120-BFP-PDF0001-C034"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 3,
+    "weights": [
+      0.0,
+      0.75,
+      0.25
+    ],
+    "k": 3,
+    "J": 0.8527777777428242,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C019"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 3,
+    "weights": [
+      0.0,
+      0.75,
+      0.25
+    ],
+    "k": 5,
+    "J": 0.8305401234362786,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C015",
+      "DEV120-BB-PDF0016-C004"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 4,
+    "weights": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "k": 3,
+    "J": 0.8546296295945832,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C015",
+      "DEV120-BFP-PDF0001-C004"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 4,
+    "weights": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "k": 5,
+    "J": 0.8330864197330623,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C015",
+      "DEV120-BFP-PDF0001-C004",
+      "DEV120-BFP-PDF0001-C053",
+      "DEV120-BFP-PDF0001-C021"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 5,
+    "weights": [
+      0.25,
+      0.0,
+      0.75
+    ],
+    "k": 3,
+    "J": 0.845370370334676,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C042"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 5,
+    "weights": [
+      0.25,
+      0.0,
+      0.75
+    ],
+    "k": 5,
+    "J": 0.8218364197326736,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C042",
+      "DEV120-BFP-PDF0001-C034",
+      "DEV120-BFP-PDF0001-C032"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 6,
+    "weights": [
+      0.25,
+      0.25,
+      0.5
+    ],
+    "k": 3,
+    "J": 0.8685185184840741,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C042"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 6,
+    "weights": [
+      0.25,
+      0.25,
+      0.5
+    ],
+    "k": 5,
+    "J": 0.8557253086202479,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C042",
+      "DEV120-BFP-PDF0001-C034",
+      "DEV120-BB-PDF0003-C002"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 7,
+    "weights": [
+      0.25,
+      0.5,
+      0.25
+    ],
+    "k": 3,
+    "J": 0.8601851851518056,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C019"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 7,
+    "weights": [
+      0.25,
+      0.5,
+      0.25
+    ],
+    "k": 5,
+    "J": 0.8509567901025744,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C015"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 8,
+    "weights": [
+      0.25,
+      0.75,
+      0.0
+    ],
+    "k": 3,
+    "J": 0.8583333333002316,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C005"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 8,
+    "weights": [
+      0.25,
+      0.75,
+      0.0
+    ],
+    "k": 5,
+    "J": 0.8494444444236658,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C005",
+      "DEV120-BFP-PDF0001-C015",
+      "DEV120-BFP-PDF0001-C004"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 9,
+    "weights": [
+      0.5,
+      0.0,
+      0.5
+    ],
+    "k": 3,
+    "J": 0.845370370334676,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C042"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 9,
+    "weights": [
+      0.5,
+      0.0,
+      0.5
+    ],
+    "k": 5,
+    "J": 0.8218364197326736,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C042",
+      "DEV120-BFP-PDF0001-C034",
+      "DEV120-BFP-PDF0001-C032"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 10,
+    "weights": [
+      0.5,
+      0.25,
+      0.25
+    ],
+    "k": 3,
+    "J": 0.8685185184848149,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C006"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 10,
+    "weights": [
+      0.5,
+      0.25,
+      0.25
+    ],
+    "k": 5,
+    "J": 0.8547530863986155,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C042",
+      "DEV120-BFP-PDF0001-C040"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 11,
+    "weights": [
+      0.5,
+      0.5,
+      0.0
+    ],
+    "k": 3,
+    "J": 0.8694444444101389,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C005",
+      "DEV120-BFP-PDF0001-C006"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 11,
+    "weights": [
+      0.5,
+      0.5,
+      0.0
+    ],
+    "k": 5,
+    "J": 0.8521296296089313,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C005",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C040"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 12,
+    "weights": [
+      0.75,
+      0.0,
+      0.25
+    ],
+    "k": 3,
+    "J": 0.8490740740381945,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C033"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 12,
+    "weights": [
+      0.75,
+      0.0,
+      0.25
+    ],
+    "k": 5,
+    "J": 0.8234413580043193,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C042",
+      "DEV120-BFP-PDF0001-C034"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 13,
+    "weights": [
+      0.75,
+      0.25,
+      0.0
+    ],
+    "k": 3,
+    "J": 0.8703703703360186,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C005"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 13,
+    "weights": [
+      0.75,
+      0.25,
+      0.0
+    ],
+    "k": 5,
+    "J": 0.8535802468927934,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C005",
+      "DEV120-BFP-PDF0001-C040",
+      "DEV120-BFP-PDF0001-C008"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 14,
+    "weights": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "k": 3,
+    "J": 0.8416666666326388,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C005"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 14,
+    "weights": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "k": 5,
+    "J": 0.8313888888677091,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C005",
+      "DEV120-BFP-PDF0001-C040",
+      "DEV120-BFP-PDF0001-C008"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 15,
+    "weights": [
+      0.4,
+      0.6,
+      0
+    ],
+    "k": 3,
+    "J": 0.8611111110770371,
+    "formula_found": false,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C005",
+      "DEV120-BFP-PDF0001-C006"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 15,
+    "weights": [
+      0.4,
+      0.6,
+      0
+    ],
+    "k": 5,
+    "J": 0.8441666666460486,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C005",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C015"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 16,
+    "weights": [
+      0.4,
+      0.5,
+      0.1
+    ],
+    "k": 3,
+    "J": 0.8629629629300926,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C019"
+    ]
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "grid_id": 16,
+    "weights": [
+      0.4,
+      0.5,
+      0.1
+    ],
+    "k": 5,
+    "J": 0.8547376542999535,
+    "formula_found": true,
+    "zero_exception_found": false,
+    "both_evidence_chunks_found": false,
+    "retrieved_ids": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C033",
+      "DEV120-BFP-PDF0001-C005"
+    ]
+  }
+]

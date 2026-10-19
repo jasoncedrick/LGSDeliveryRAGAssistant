@@ -1,0 +1,23 @@
+{
+  "group_id": "SCENARIO-OCBO-003",
+  "pillar": "Office of the City Building Official",
+  "split": "development",
+  "ground_truth_chunk_ids": [
+    "DEV120-OCBO-PDF0013-C001",
+    "DEV120-OCBO-PDF0013-C002",
+    "DEV120-OCBO-PDF0013-C003",
+    "DEV120-OCBO-PDF0013-C004",
+    "DEV120-OCBO-PDF0013-C005"
+  ],
+  "ground_truth_reference_answer": "Occupancy checklist: application letter (1 original); authorization letter if applicant is not owner (1 original); owner ID with 3 specimen signatures (1 photocopy); Certificate of Occupancy (1 original); Certificate of Completion (1 original); BFP Fire Safety Inspection Certificate (1 original); four-elevation project pictures (front/back/left/right); approved Building Construction, Architectural, Civil/Structural, Sanitary/Plumbing, Electrical and Mechanical installation permits (1 photocopy); approved building-permit plan (1 original).\n\nIf a different professional undertook/was assigned the project, the checklist requires a signed, notarized waiver from the previous professional in charge (1 original). It also lists Structure Images with CAAP clearance and structural survey for actual building height, signed/sealed by a licensed Geodetic Engineer. The authorization-letter source cell says CPDO and the picture source cell says Hired Geodetic Engineer; those unusual source associations are preserved.",
+  "queries": {
+    "english": "What are the required documents to apply for an Occupancy Permit after completing building construction?",
+    "taglish": "Ano ang mga requirements para makakuha ng Occupancy Permit kapag tapos na ang construction ng building?",
+    "bislish": "Unsa ang mga rekisitos para makakuha ug Occupancy Permit sa OCBO human mahuman ang pagtukod sa edipisyo?"
+  },
+  "legacy_ground_truth_chunk_ids": [
+    "CHUNK-OCBO-P501-C01",
+    "CHUNK-OCBO-P501-C02"
+  ],
+  "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED"
+}

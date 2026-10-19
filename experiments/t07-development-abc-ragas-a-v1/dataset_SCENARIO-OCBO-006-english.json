@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What is the fee and requirement checklist to request a Certified True Copy of a lost Building Permit at OCBO?"
+  ],
+  "answer": [
+    "To request a Certified True Copy of a lost Building Permit at the Office of the City Building Official (OCBO), the following are the requirements and fee:\n\n1. Request Letter [S1]\n2. Photocopy of Valid ID of the Owner with three (3) signatures [S1]\n3. Photocopy of the lost Building Permit and related documents [S1]\n4. Certified True Copy of Land Title (1 original, 1 photocopy) [S3]\n\nAs for the fee, the source does not provide specific information about the fee for requesting a Certified True Copy of a lost Building Permit. You may need to contact OCBO directly for the latest fee information. [S1, S3]"
+  ],
+  "contexts": [
+    [
+      "16. Issuance of Certified True Copy of Documents\nCertified True Copy of documents may be issued upon request.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; G2G \n– Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Request Letter \nApplicant\n2. Photocopy of Building Permit and other \nrelated documents\nApplicant\n3. Photocopy of Valid ID of the Owner with \nthree (3) Sig",
+      "5. Issuance of Certifications / Certified True Copy\nCertifications or Certified True Copy is issued to any natural or juridical entity, \ngovernment agencies or offices who wish to secure any copy of Business Permit or \nwho wish to know any status or record of a Taxpayer. \nOffice or \nDivision\nCity Mayor's Office – Permits & Licenses Division\nClassificati\non\nSimple (Certification, Certified True Copy and Master List without \nmodified parameters and formats), Highly Technical (Master List requiring \ntechnical parameters and format modification)\nType of",
+      "ence Permit form with 3 sets of \n  Civil/Architectural Plans of the fence duly signed \nand sealed by a licensed Civil Engineer/Architect  \n  \nNote: Applicant may use an A3 size of paper for \nthe structural design plan signed and sealed by a \nlicensed Civil/Structural Engineer\nHired Professionals (All Engineers & \nArchitects)\n2.     Certified True Copy of Land Title  \n1 original, 1 photocopy\nRegistry of Deeds/ City Assessor’s Office \n(CASSO)\n3.     Certified True Copy"
+    ]
+  ],
+  "ground_truth": [
+    "For a Certified True Copy, submit request letter; photocopy of Building Permit and other related documents; owner valid-ID photocopy with 3 signatures; if not owner, processor valid-ID photocopy with 3 signatures and original SPA; if lost, original Affidavit of Loss. The checklist does not offer reference details as a substitute for the photocopy.\n\nPay PHP50 per document (1 copy) at the City Treasurer’s Office. The printed TOTAL is 2 Days, 1 Hour, and 19 Minutes. Preserve this as the source-listed total, not an independently verified sum: listed steps include two separate 3-hour entries plus 2 days and other minutes."
+  ]
+}

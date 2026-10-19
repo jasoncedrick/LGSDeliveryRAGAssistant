@@ -1,0 +1,34 @@
+{
+  "group_id": "SCENARIO-OCBO-001",
+  "pillar": "Office of the City Building Official",
+  "split": "development",
+  "ground_truth_chunk_ids": [
+    "DEV120-OCBO-PDF0002-C001",
+    "DEV120-OCBO-PDF0002-C002",
+    "DEV120-OCBO-PDF0002-C003",
+    "DEV120-OCBO-PDF0003-C001",
+    "DEV120-OCBO-PDF0003-C002",
+    "DEV120-OCBO-PDF0003-C003",
+    "DEV120-OCBO-PDF0003-C004",
+    "DEV120-OCBO-PDF0004-C001",
+    "DEV120-OCBO-PDF0004-C002",
+    "DEV120-OCBO-PDF0004-C003",
+    "DEV120-OCBO-PDF0004-C004",
+    "DEV120-OCBO-PDF0005-C001",
+    "DEV120-OCBO-PDF0005-C002",
+    "DEV120-OCBO-PDF0005-C003"
+  ],
+  "ground_truth_reference_answer": "The Building Permit checklist lists a notarized application letter; notarized Unified Building Permit Form with Civil/Architectural plans signed/sealed by a licensed Civil Engineer/Architect (5 accomplished form copies); Architectural, Civil/Structural, and Sanitary/Plumbing forms (3 form copies and 5 plan sets each). Civil/Structural plans identify a licensed Civil Engineer; Sanitary/Plumbing identifies a licensed Sanitary Engineer/Master Plumber. Architectural plans must be signed/sealed by the hired licensed professional.\n\nElectrical: 3 accomplished form copies and 5 plan sets, signed/sealed by a Licensed Professional Electrical Engineer. Electronics: 2 form copies and 5 plan sets, signed/sealed by a Licensed Electronics Engineer. Mechanical row is internally inconsistent: it says 6-7 sets Mechanical Plans, then 2 form copies and 5 plan sets, and names Licensed Electronics Engineer. These mechanical quantities/professional designation require official clarification rather than replacement with an assumed rule.\n\nThe checklist also lists Zoning Location Clearance and BFP Fire Safety Evaluation Certificate (1 original and 1 photocopy each); certified true copies of land title, property tax declaration and current real-property-tax receipt (1 original and 1 photocopy each); owner/applicant ID with 3 specimen signatures (1 photocopy); PRC IDs, current PTR and TIN of signing professionals (1 photocopy per professional).\n\nOther listed technical submissions include scaled sketch/lot and vicinity plans, relocation survey plans/reports signed/sealed by a licensed Geodetic Engineer (4 copies); technical specifications signed/sealed by a licensed Architect (2 copies); bill of materials/cost estimates signed/sealed by a licensed Architect (4 copies); seismic analysis; clear detailed location photographs with landmarks or Google Maps image.\n\nAdditional clearances are conditional: DPWH for structures along a National Highway; CAAP for tall structures; DENR ECC for environmentally critical projects; drainage clearance where stated; traffic impact assessment with site development/parking plans for major development; and RROW clearance for structures along City/Barangay/Subdivision roads. These rows list 1 original and 1 photocopy and preserve their stated conditions.",
+  "queries": {
+    "english": "What plans, clearances, and professional seals are mandatory to apply for a Building Permit at OCBO?",
+    "taglish": "Anong mga plano, clearance, at pirma ng inhinyero ang kailangan para makakuha ng Building Permit sa OCBO?",
+    "bislish": "Unsa ang mga plano, pirma sa inhinyero ug clearances nga kailangan i-submit para makakuha ug building permit sa OCBO?"
+  },
+  "legacy_ground_truth_chunk_ids": [
+    "CHUNK-OCBO-P490-C01",
+    "CHUNK-OCBO-P490-C02",
+    "CHUNK-OCBO-P490-C03",
+    "CHUNK-OCBO-P491-C02"
+  ],
+  "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED"
+}

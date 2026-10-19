@@ -1,0 +1,25 @@
+--- group.before.json
++++ group.candidate.json
+@@ -3,12 +3,11 @@
+   "pillar": "Office of the City Building Official",
+   "split": "development",
+   "ground_truth_chunk_ids": [
+-    "DEV120-OCBO-PDF0036-C001",
+-    "DEV120-OCBO-PDF0036-C002",
+     "DEV120-OCBO-PDF0042-C001",
+-    "DEV120-OCBO-PDF0042-C002"
++    "DEV120-OCBO-PDF0042-C002",
++    "DEV120-OCBO-PDF0042-C003"
+   ],
+-  "ground_truth_reference_answer": "While a main Building Permit is undergoing evaluation, the Building Official may issue a Ground Preparation and Excavation Permit (GP&EP) for foundation work, valid for thirty (30) days or until superseded by the building permit. Statutory fees are: 1) Inspection and Verification Fee of PHP 200.00; 2) Issuance fee of PHP 50.00; 3) Excavation fee of PHP 3.00 per cubic meter (or PHP 4.00 per cubic meter for foundations with basements); and 4) PHP 250.00 per square meter for authorized foundation encroachments into public areas.",
++  "ground_truth_reference_answer": "While the Building Permit is being processed, the Building Official may issue GP&EP for foundation subject to line-and-grade verification, inspection and review. It is valid only for 30 days or superseded upon Building Permit issuance. Fees: inspection/verification PHP200; excavation PHP3 per cubic meter; GP&EP issuance PHP50; foundation excavation with basement PHP4 per cubic meter; excavation other than foundation/basement PHP3 per cubic meter; permitted footing/foundation encroachment into public areas PHP250 per square meter or fraction thereof.",
+   "queries": {
+     "english": "What is the validity period and fee schedule for a Ground Preparation and Excavation Permit (GP&EP)?",
+     "taglish": "Gaano katagal valid ang Excavation Permit at magkano ang bayad kada cubic meter ng hukay?",
+@@ -18,5 +17,5 @@
+     "CHUNK-OCBO-P524-C01",
+     "CHUNK-OCBO-P530-C01"
+   ],
+-  "mapping_status": "PROVISIONAL_EXACT_SPAN_MAPPING"
++  "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED"
+ }

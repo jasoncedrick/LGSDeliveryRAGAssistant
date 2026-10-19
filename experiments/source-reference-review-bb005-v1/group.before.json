@@ -1,0 +1,25 @@
+{
+  "group_id": "SCENARIO-BB-005",
+  "pillar": "Business Bureau",
+  "split": "development",
+  "ground_truth_chunk_ids": [
+    "DEV120-BB-PDF0072-C001",
+    "DEV120-BB-PDF0072-C002",
+    "DEV120-BB-PDF0072-C003",
+    "DEV120-BB-PDF0072-C004",
+    "DEV120-BB-PDF0075-C001"
+  ],
+  "ground_truth_reference_answer": "For Full Retirement of a Business Permit upon cessation of operations, applicants must submit: 1) Latest original Business Permit or certified copy; 2) Notarized Affidavit of Full Retirement stating the reason and exact effective date of retirement (Single Proprietorship), or Partnership/Board Resolution; 3) Valid ID and SPA if represented; and 4) Physical surrender of the Business Identification Plate. Late filing fees range from PHP 1,000.00 to PHP 5,000.00 if the retirement application is submitted more than 30 days from actual business cessation, in addition to gross sales tax obligations assessed by the CTO.",
+  "queries": {
+    "english": "What is the procedure to permanently close a business in Davao City and what is the penalty for filing after 30 days?",
+    "taglish": "Paano ang proseso ng full retirement ng business permit at magkano ang multa kung lumampas ng 30 days bago mag-file?",
+    "bislish": "Unsaon pag-process sa full retirement sa business permit kung manira na ang tindahan ug pila ang multa kung lapas na 30 days?"
+  },
+  "legacy_ground_truth_chunk_ids": [
+    "CHUNK-BB-P111-C01",
+    "CHUNK-BB-P111-C02",
+    "CHUNK-BB-P111-C04",
+    "CHUNK-BB-P114-C01"
+  ],
+  "mapping_status": "PROVISIONAL_EXACT_SPAN_MAPPING"
+}

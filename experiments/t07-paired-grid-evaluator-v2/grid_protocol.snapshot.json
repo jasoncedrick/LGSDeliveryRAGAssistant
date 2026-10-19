@@ -1,0 +1,118 @@
+{
+  "held_out_accessed": false,
+  "scope": "Development tuning preparation; not selected or frozen",
+  "weight_grid": [
+    [
+      0.0,
+      0.0,
+      1.0
+    ],
+    [
+      0.0,
+      0.25,
+      0.75
+    ],
+    [
+      0.0,
+      0.5,
+      0.5
+    ],
+    [
+      0.0,
+      0.75,
+      0.25
+    ],
+    [
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      0.25,
+      0.0,
+      0.75
+    ],
+    [
+      0.25,
+      0.25,
+      0.5
+    ],
+    [
+      0.25,
+      0.5,
+      0.25
+    ],
+    [
+      0.25,
+      0.75,
+      0.0
+    ],
+    [
+      0.5,
+      0.0,
+      0.5
+    ],
+    [
+      0.5,
+      0.25,
+      0.25
+    ],
+    [
+      0.5,
+      0.5,
+      0.0
+    ],
+    [
+      0.75,
+      0.0,
+      0.25
+    ],
+    [
+      0.75,
+      0.25,
+      0.0
+    ],
+    [
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.4,
+      0.6,
+      0
+    ],
+    [
+      0.4,
+      0.5,
+      0.1
+    ]
+  ],
+  "grid_step": 0.25,
+  "additional_candidates": [
+    [
+      0.4,
+      0.6,
+      0
+    ],
+    [
+      0.4,
+      0.5,
+      0.1
+    ]
+  ],
+  "k_values": [
+    3,
+    5
+  ],
+  "selection_objective": "RAGAS context precision macro-average across all 15 office-language cells; Hit/MRR diagnostics are not selection objective.",
+  "selection_status": "PENDING_CONTEXT_PRECISION_JUDGING",
+  "candidate_pool": "all corpus chunks",
+  "normalization": "Reuse archived B normalization only after artifact/prompt hash verification. C requires new normalization without lexical injection.",
+  "stopped_query_policy": "Retain all 90 records; stopped queries have no contexts. Report coverage and conditional metric denominators, never silently omit.",
+  "configuration_A": "Raw citizen query, BM25 only, identical answer generator",
+  "configuration_B": "Dictionary-injected normalization and BM25/FAISS/dictionary fusion",
+  "configuration_C": "Same as B except glossary injection disabled; preserve ambiguity gate and dictionary retrieval boost.",
+  "tie_break": "Predeclared grid order, then K=3 before K=5 when objective exactly tied; no Hit/MRR tie-break",
+  "freeze": false
+}

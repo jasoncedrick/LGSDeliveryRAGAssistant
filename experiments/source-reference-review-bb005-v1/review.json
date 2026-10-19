@@ -1,0 +1,20 @@
+{
+  "group_id": "SCENARIO-BB-005",
+  "review_status": "needs_correction",
+  "reviewer": "assistant",
+  "candidate_applied": false,
+  "findings": [
+    "Add actual client procedure asked by all three queries.",
+    "Preserve all seven document rows and copy quantities.",
+    "Restore all-partner signatures and authorized-representative clauses, Secretary’s Certificate alternative, newly designated ID condition, and single-proprietorship scope of SPA.",
+    "Physical submission of Business Identification Plate is confirmed by client step 2.",
+    "Late fee range and more-than-30-days threshold are supported; specific amount within range is not provided."
+  ],
+  "manual_action_required_now": false,
+  "conditional_manual_check": "Official clarification needed only if an exact late fee for a specific case is required; do not invent a range-selection formula.",
+  "limitations": [
+    "Assistant review is not independent expert audit.",
+    "Source wording authorized represented in item 4 preserved rather than silently rewritten."
+  ],
+  "progress": "5 of original 25 provisional groups reviewed; 20 remain."
+}

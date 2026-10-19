@@ -1,0 +1,28 @@
+{
+  "group_id": "SCENARIO-BB-003",
+  "pillar": "Business Bureau",
+  "split": "development",
+  "ground_truth_chunk_ids": [
+    "DEV120-BB-PDF0015-C001",
+    "DEV120-BB-PDF0015-C002",
+    "DEV120-BB-PDF0015-C003",
+    "DEV120-BB-PDF0016-C003",
+    "DEV120-BB-PDF0016-C004",
+    "DEV120-BB-PDF0016-C005",
+    "DEV120-BB-PDF0017-C001",
+    "DEV120-BB-PDF0017-C002"
+  ],
+  "ground_truth_reference_answer": "A Mayor's Business Permit in Davao City is valid for not more than one (1) year and expires on December 31 following issuance. Renewal must be filed within the month of January. Mandatory renewal requirements are: 1) List of Employees stating names and positions (1 copy); 2) Notarized Special Power of Attorney (Sole Proprietorship), Partnership Resolution, or Board Resolution/Secretary's Certificate (Corporation/Cooperative) if represented; 3) Valid ID of representative; 4) Valid Fire Safety Inspection Certificate (FSIC) (1 photocopy); and 5) Specific clearances for regulated business lines.",
+  "queries": {
+    "english": "When does a Davao City business permit expire and what are the basic requirements to renew it in January?",
+    "taglish": "Kailan nag-eexpire ang business permit sa Davao at ano ang basic requirements para mag-renew sa January?",
+    "bislish": "Kanus-a ga-expire ang business permit sa Davao ug unsa ang mga requirements para mag-renew karong Enero?"
+  },
+  "legacy_ground_truth_chunk_ids": [
+    "CHUNK-BB-P054-C01",
+    "CHUNK-BB-P054-C02",
+    "CHUNK-BB-P055-C04",
+    "CHUNK-BB-P056-C01"
+  ],
+  "mapping_status": "PROVISIONAL_EXACT_SPAN_MAPPING"
+}

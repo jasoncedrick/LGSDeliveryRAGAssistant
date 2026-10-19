@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Para saan ang Certificate of Compatibility sa CPDO, magkano ang bayad, at gaano kabilis makuha?"
+  ],
+  "answer": [
+    "Sa CPDO (City Planning and Development Office), ang Certificate of Compatibility ay maaaring makukuha mo sa kaniyang Zoning Enforcement Division. Ang bayad para dito ay hindi na-indikado sa mga nakalampasan naming source blocks. Ang mabilis na pagpapahanda ng Certificate of Compatibility ay hindi din na-indikado sa mga nakalampasan naming source blocks.\n\n[S2] City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf | printed page 702 | chunk DEV120-CPDO-PDF0073-C001\n[S3] City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf | printed page 641 | chunk DEV120-CPDO-PDF0012-C003"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "13. Certificate of Compatibility\nA certification issued to applications which uses or land activities are capable of \nexisting together harmoniously.  \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nSimple\nType of Transaction \nG2B – Government to Business\nWho may avail \nBusiness Proponent or Authorized Representative\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Application Letter \nApplicant\n2. \nZoning Certificate \nCPDO\n3. \nOfficial Receipt \nCTO\nCLIENT STEPS \nAGENCY \nACTION\nFEES",
+      "y \napplications: \n(1 photocopy) \na. Environmental Compliance \nCertificate \nb. Barangay Council Resolution of No \nObjection \nc. GIS plotting with 1km radius / zoning \nclassification \nd. Certificate of Compatibility\na. Department of Environment & Natural \nResources – Environment and \nManagement Bureau \nb. Barangay Council \nc. City Planning and Development Office\nd. City Planning and Development \nOffice\n17. If application is for processing, \nsecure the following for zoning and \nfiling fees: \n(1 original) \na. Order of payment \nb. Official"
+    ]
+  ],
+  "ground_truth": [
+    "The Certificate of Compatibility certifies uses or land activities capable of existing together harmoniously. Checklist: Application Letter, Zoning Certificate from CPDO, and Official Receipt from CTO.\n\nFiling fee is PHP300. The stated TOTAL is 1 Hour and 20 Minutes. The initial/final signature step is 15 minutes depending on availability of the Acting Zoning Administrator."
+  ]
+}

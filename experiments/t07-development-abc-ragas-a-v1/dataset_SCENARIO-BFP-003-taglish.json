@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ilang araw ang processing time sa BFP para sa Simple, Complex, at Highly Technical na mga transaksyon?"
+  ],
+  "answer": [
+    "Sa BFP (Bureau of Fire Protection), ang processing time para sa mga Simple, Complex, at Highly Technical na mga transaksyon ay nasa:\n\n- Simple Transactions: ang processing time ay isang araw [S1]\n- Complex Transactions: ang processing time ay tatlong araw [S1]\n- Highly Technical Transactions: ang processing time ay sampung araw [S2]\n\nAng mga ito ay nasa Joint Memorandum Circular (JMC) No. 2021-01 Series of 2021 [S2]."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION - TRANSACTION PROCESSED WITHIN ONE (1) DAY \n2. COMPLEX TRANSACTION - TRANSACTION PROCESSED WITHIN THREE (3) DAYS \n3. HIGHLY TECHNICAL TRANSACTION - TRANSACTION PROCESSED WITHIN SEVEN (7) DAYS\nNOTE: For the coverage of Simple, Complex and Highly Technical Transactions refer to Joint Memorandum Circular (JMC) No. 2021-01  \nSeries of 2021 “Amending the DILG",
+      "applied in Fire\nStation/Lone District\nFire Office)\nThree (3) set of the  following documents\n\n[IMAGE PANEL TRANSCRIPTION — BFP PDF page 1]\nWARNING: BFP PERSONNEL ARE PROHIBITED FROM SELLING OR RECOMMENDING SPECIFIC BRAND OF FIRE EXTINGUISHER.\nREPORT SUCH IRREGULARITY AT THE FOLLOWING CONTACT NUMBERS:\nOFFICE OF THE CHIEF, BFP\nDirect line 426-43-99 Trunk line 426-02-19/426-02-46 Local 7"
+    ]
+  ],
+  "ground_truth": [
+    "The BFP charter classifies Simple transactions as processed within 1 day, Complex within 3 days, and Highly Technical within 7 days. It directs readers to JMC2021-01 for classification coverage. The source says days, not working days, and identifies FIRE STATION/OSCP/BOSS."
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "version": "context-precision-v2-prompt-with-structured-format-v3",
+  "sole_intervention": "Ollama format JSON schema; same v2 usefulness prompt, model, options, controls, quote validator and single format retry.",
+  "schema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "reason": {
+        "type": "string"
+      },
+      "verdict": {
+        "type": "string",
+        "enum": [
+          "0",
+          "1"
+        ]
+      },
+      "evidence_quotes": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      }
+    },
+    "required": [
+      "reason",
+      "verdict",
+      "evidence_quotes"
+    ]
+  },
+  "model_digest": "39d9f435aeed825a340db73dfba9e7ce346664aa00727c9066bb1f0352406a6f",
+  "settings": {
+    "temperature": 0,
+    "top_p": 0,
+    "num_ctx": 8192,
+    "num_predict": 1024,
+    "num_thread": 4
+  },
+  "template_sha256": "117cfe70470686b991bf8847d92dc8d0a72d304277d6ce4c8c83367724d0d972",
+  "controls_sha256": "3c3248c706dc80c85e46a48cf925222cca960ffddd34c592f5ba6b1d7f3efdbb",
+  "reference_evidence_sha256": "ee15440a4643968034d4a6451b999a4fadddb2399f6b882acd25943ff66d6281",
+  "implementation_sha256": "b3a0279411ac09e129437ae3a0cfa598232d58e6ac930d0e6210d147b534656e",
+  "docs": "https://docs.ollama.com/capabilities/structured-outputs",
+  "calibration_gate": "All 60 valid after at most one format retry; at least 55 correct; FP <=4, FN=0. Necessary screening only; not automatic acceptance.",
+  "next_gate": "If screening passes, predeclare a stress test covering previous invalid and valid grid outputs before any full rescore. Review semantic errors independently of JSON validity.",
+  "retry_policy": "One format-only retry only after invalid output; no retry of valid disagreements or network errors.",
+  "limitations": "Same assistant-labeled controls reused adaptively; five groups, not 60 independent groups. Not independent expert validation.",
+  "methodology": "20260923.pdf PDF33-34: development-only evaluator work, select using Context Precision, freeze before held-out. Main Thesis Tracker T07 archived in references.",
+  "held_out_accessed": false,
+  "app_defaults_changed": false,
+  "full_grid_started": false
+}

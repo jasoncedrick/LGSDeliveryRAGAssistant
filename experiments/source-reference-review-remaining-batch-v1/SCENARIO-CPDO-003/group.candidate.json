@@ -1,0 +1,24 @@
+{
+  "group_id": "SCENARIO-CPDO-003",
+  "pillar": "City Planning and Development Office",
+  "split": "development",
+  "ground_truth_chunk_ids": [
+    "DEV120-CPDO-PDF0019-C001",
+    "DEV120-CPDO-PDF0022-C001",
+    "DEV120-CPDO-PDF0022-C002",
+    "DEV120-CPDO-PDF0021-C001",
+    "DEV120-CPDO-PDF0025-C001"
+  ],
+  "ground_truth_reference_answer": "For Locational Clearance for Building Permit for 2-storey and below, the zoning fee is 1/10 of 1% of building cost for agricultural/residential and commercial/industrial/institutional categories. Filing fees are PHP150 per application for agricultural/residential and PHP300 per application for commercial/industrial.\n\nThe Map Plotting step separately lists a PHP300 filing fee, with order of payment issued by OBO. The TOTAL row lists 4 Days, 2 Hours, and 25 Minutes. The source does not explicitly list an institutional filing fee or explain aggregation of the map-plotting charge in the TOTAL row.",
+  "queries": {
+    "english": "How are zoning fees and filing charges calculated for a Locational Clearance for 2-storey buildings at CPDO?",
+    "taglish": "Paano kinukwenta ang zoning fee at filing fee para sa Locational Clearance ng 2-storey building sa CPDO?",
+    "bislish": "Pila ang bayad sa filing fee ug unsaon pagkwenta sa zoning fee sa Locational Clearance sa CPDO para sa 2-storey nga building?"
+  },
+  "legacy_ground_truth_chunk_ids": [
+    "CHUNK-CPDO-P648-C01",
+    "CHUNK-CPDO-P651-C01",
+    "CHUNK-CPDO-P654-C01"
+  ],
+  "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED"
+}

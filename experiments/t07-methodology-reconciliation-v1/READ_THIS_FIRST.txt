@@ -1,0 +1,44 @@
+T07 METHODOLOGY RECONCILIATION AND CONSOLIDATED RESULTS
+
+Outcome
+The existing DEVELOPMENT A/B/C execution and CSV export are complete with documented limitations: 30 groups, 90 identical queries per architecture, 270 archived interactions. This folder consolidates the existing evidence with zero new model calls and no duplicate human review.
+FULL T07 UNDER THE MANUSCRIPT IS NOT COMPLETE: no registered final freeze and no 70-group held-out A/B/C comparison exist in this clean project. The development CSV must not be renamed or presented as final held-out results.
+
+Read the results
+master_metrics.csv: all-query Hit/MRR and separate original/supplemental-retry RAGAS aggregates, with valid, missing and skipped denominators. Historical evaluator values are not mixed with v2/v3/v4 experiments.
+all_query_records.csv: all 270 generation outcomes, independently checked retrieval metrics, original and supplemental scores, context/answer hashes, and the known BFP-002 Taglish flag.
+coverage.json: all-query status counts, including six B/C clarification cases and B's incomplete answer.
+matched_complete_case_metrics.csv: archived paired descriptive means on the shared score-eligible cases. This is not all-query effectiveness, confidence-interval or significance evidence.
+provenance.json: exact source hashes and historical A/B/C settings.
+completion_assessment.json: development versus full-manuscript completion, explicit limitations and remaining requirement.
+
+What Chapter 3 actually requires
+20260923.pdf PDF33: use only the 30-group development split to select fusion parameters using mean Context Precision across the five offices and three languages.
+PDF34: keep the 70 held-out groups isolated, completely freeze dictionary, indices, prompts, K and weights under a registered manifest, then retain and report the single-pass test outcomes. No tuning based on held-out errors.
+PDF32-33: A uses raw BM25-only queries; B uses dictionary-assisted normalization and fusion; C disables pre-translation injection while keeping B's other settings.
+The main Thesis Tracker T07 calls for executing the three frozen architectures and exporting their comparison CSV.
+The manuscript hash was verified against the archived methodology_and_tracker.json before this work. The workbook was not modified.
+
+Corrections to the workflow
+The additional 60-control independent review is OPTIONAL, not a mandatory manuscript requirement. Leave its form unfilled if you do not want that additional audit. Your earlier normalization and source/reference reviews are preserved and do not need to be repeated for this reconciliation.
+The verbatim-quote schema, zero-invalid screening rule and particular retry ceilings are versioned experimental safeguards, NOT literal manuscript requirements. Their failed experiments do not redefine the thesis deliverables or require endless prompt changes.
+No new perfection requirement is introduced. Judge errors must be disclosed. However, relaxing an old experiment's rules after seeing outcomes cannot be silently presented as the same experiment, and known unsupported judgments cannot be asserted to be validated facts.
+The historical grid selected weights [0.75, 0.25, 0.0], K=3 under its legacy judge. Its numerical objective and near-tie are preserved as historical evidence. Subsequent diagnostics found judge errors. This export does not claim that the historical winner is independently validated, does not promote punctuation, and does not manufacture a winner from incomplete v2 objectives.
+
+What cannot be completed from the saved evidence
+The available A/B/C answers are explicitly development-only and not frozen final test results. Computing additional CSVs cannot turn them into a held-out run. A historical test-file name exists in the old project, but its content has not been opened or copied here; the clean project has no registered restricted-access held-out manifest.
+Full T07 necessarily requires the actual frozen final A/B/C evaluation. That is a required new model run, not a duplicate development grid. It cannot be honestly completed while restricting this work to saved outputs and no further expensive inference.
+
+Minimum remaining route, without extra review or another development prompt loop
+1. Document the final evaluator protocol and judge limitations explicitly; do not silently blend experimental versions or substitute reference facts for retrieved evidence.
+2. Finalize and verify the exact A/B/C candidate bundle and register an immutable freeze, including code, corpus/indices, dictionary, prompts, model/settings, weights, K and scoring protocol. Confirm the authoritative held-out file location without reading its questions during development tuning.
+3. Only after the freeze, load the held-out data, validate the declared 70-group/210-query partition and source-label compatibility without rewriting benchmark content, execute A/B/C once, preserve all outputs and failures, and export final metrics with explicit denominators.
+If preflight exposes an incompatible held-out manifest or gold references, report that problem; do not silently modify tests or count them as misses.
+
+Verification completed here
+All three configurations share the same 90 IDs, raw questions and reference answers; all use K=3. All 270 Hit/MRR values were recomputed from archived rankings and gold IDs and match saved values. All source files remained hash-identical after export. Three focused summary tests passed, covering zero, missing and nonfinite values. No new server/model run, source change, benchmark modification, freeze, commit or push occurred.
+
+Status
+T06: implementation complete with documented evaluator limitations.
+T07 development execution/export: complete with documented limitations.
+T07 full manuscript evaluation: incomplete; cannot claim completion without the registered freeze and held-out comparison.

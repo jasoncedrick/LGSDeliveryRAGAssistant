@@ -1,0 +1,13 @@
+{
+  "queries": 90,
+  "groups": 30,
+  "grid_candidates": 17,
+  "grid_K_conditions": 34,
+  "all_15_cells_have_6_queries": true,
+  "unique_context_pairs": 1369,
+  "potential_pair_cache_hits": 1223,
+  "potential_new_judge_calls": 146,
+  "context_precision_status": "PENDING",
+  "all_inputs_hash_verified": true,
+  "baseline_corpus_and_FAISS_unchanged": true
+}

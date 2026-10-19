@@ -1,0 +1,26 @@
+--- group.before.json
++++ group.candidate.json
+@@ -5,14 +5,11 @@
+   "ground_truth_chunk_ids": [
+     "DEV120-BB-PDF0015-C001",
+     "DEV120-BB-PDF0015-C002",
+-    "DEV120-BB-PDF0015-C003",
+-    "DEV120-BB-PDF0016-C003",
+     "DEV120-BB-PDF0016-C004",
+     "DEV120-BB-PDF0016-C005",
+-    "DEV120-BB-PDF0017-C001",
+-    "DEV120-BB-PDF0017-C002"
++    "DEV120-BB-PDF0017-C001"
+   ],
+-  "ground_truth_reference_answer": "A Mayor's Business Permit in Davao City is valid for not more than one (1) year and expires on December 31 following issuance. Renewal must be filed within the month of January. Mandatory renewal requirements are: 1) List of Employees stating names and positions (1 copy); 2) Notarized Special Power of Attorney (Sole Proprietorship), Partnership Resolution, or Board Resolution/Secretary's Certificate (Corporation/Cooperative) if represented; 3) Valid ID of representative; 4) Valid Fire Safety Inspection Certificate (FSIC) (1 photocopy); and 5) Specific clearances for regulated business lines.",
++  "ground_truth_reference_answer": "Business permit validity and renewal (printed page 54; PDF page 15): The Business Permit is granted for a period of not more than one (1) year and shall expire on the thirty-first (31st) of December following the date of issuance unless revoked or surrendered earlier. The Business Permit issued shall be renewed within the month of January. It shall have a continuing validity only upon renewal thereof and payment of the corresponding fee.\n\nThe RENEWAL checklist (printed pages 55-56; PDF pages 16-17) lists the following seven rows. Each transcribed row includes its Where to Secure entry; preserve the conditions and document quantities as stated.\n\n1. List of Employees stating the Name and Position of the Employees (1 copy) Applicant\n2. For Sole Proprietorship, if represented, Special Power of Attorney, indicating specific authority and capacity granted to representative. Applicant, notarized by any Notary Public\n3. For Partnership, Partnership Resolution, indicating specific authority and capacity granted to representative. Applicant, notarized by any Notary Public\n4. For other form of ownership, Board Resolution or Secretary’s Certificate, indicating specific authority and capacity granted to representative. Applicant, notarized by any Notary Public\n5. Valid I.D. of the representative (1 photocopy), if newly designated Applicant\n6. Valid Fire Safety Inspection Certificate (1 photocopy) Applicant or Bureau of Fire Protection\n7. Specific requirements for specific line of business Concerned Agency\n",
+   "queries": {
+     "english": "When does a Davao City business permit expire and what are the basic requirements to renew it in January?",
+     "taglish": "Kailan nag-eexpire ang business permit sa Davao at ano ang basic requirements para mag-renew sa January?",
+@@ -24,5 +21,5 @@
+     "CHUNK-BB-P055-C04",
+     "CHUNK-BB-P056-C01"
+   ],
+-  "mapping_status": "PROVISIONAL_EXACT_SPAN_MAPPING"
++  "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED"
+ }

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "How much is the Professional Tax Receipt (PTR) in Davao City and what are the requirements to secure it?"
+  ],
+  "answer": [
+    "The Professional Tax Receipt (PTR) in Davao City is assessed by the Office of the City Treasurer (CTO) – Business Tax Assessment Division/ District Offices. The amount is not specified in the provided sources.\n\nTo secure a Professional Tax Receipt, the following requirements are needed:\n\n1. An unexpired Professional Regulatory Commission ID or Integrated Bar of the Philippines ID - 1 original (Source: [S1])\n\nYou can obtain these requirements from the Professional Regulatory Commission, Juna Subd., Matina, Davao City for the Professional Regulatory Commission ID, and from the Integrated Bar of the Philippines for the Integrated Bar of the Philippines ID."
+  ],
+  "contexts": [
+    [
+      "15. Professional Tax \nAssessment issued to taxpayers / clients for payment of Professional Tax Receipt. \nOffice or Division \nOffice of the City Treasurer (CTO) – Business Tax \nAssessment Division/ District Offices\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail \nAll\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Unexpired Professional\nRegulatory Commission ID/ \nIntegrated Bar of the Philippines \nID – 1 original\nProfessional Regulatory Commission, Juna \nSubd., Matina, Davao City / Integrated Bar \nof the",
+      "Assessment \nDivision, City \nTreasurer’s \nOffice, \nSangguniang \nPanlungsod, to \nassess and \npay fees, and \nsecure an \nOfficial Receipt \nand \nCommunity \nTax Certificate \n(Cedula).\nReceipts, \nand process \nthe Cedula.\nCode of\nthe City of\nDavao\nOrdinance \nNo. 0291- \n17, series \nof 2017, \nsection 72\n–\nImposition \nof Tax on\nAnnual\nFixed Tax\nfor\nDelivery \nVehicle;\nSection 76\n–\nGraduated\nTax on \nBusiness\nLocal Treasury\nOperations\nOfficer I/Local\nRevenue\nCollection Officer \nI/Local Revenue \nCollection Officer \nI/Local Revenue",
+      "in imposed shall be based \nupon the total property owned by them and the total gross receipts or earnings derived \nby them.\nJuridical Persons Liable to Community Tax\nEvery corporation no matter how created or organized, whether domestic or resident-\nforeign, engaged in or doing business in the Philippines whose principal office is located \nin this city shall pay an annual Community Tax of Five Hundred Pesos (P500.00) and an \nadditional tax, which in no case, shall exceed Ten Thousand Pesos (P10,000.00) in \naccordance with the following"
+    ]
+  ],
+  "ground_truth": [
+    "The Professional Tax service lists a TOTAL fee of PHP300. Requirements: unexpired PRC/IBP ID (1 original); PRC/IBP certification for new registrants/passers (1 original); current Davao City address and valid contact number/email address.\n\nRegister/log in at ptr.davaocity.gov.ph, generate an Order of Payment, then pay at a Miscellaneous Fees counter or the listed Landbank payment portal."
+  ]
+}

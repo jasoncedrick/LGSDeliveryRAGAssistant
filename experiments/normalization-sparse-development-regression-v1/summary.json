@@ -1,0 +1,284 @@
+{
+  "results": [
+    {
+      "configuration": "A",
+      "normalization": "archived",
+      "sparse_tokenizer": "punctuation",
+      "k": 3,
+      "queries": 90,
+      "hit_at_k": 0.7111111111111111,
+      "mrr_at_k": 0.47407407407407415,
+      "statuses": {
+        "SUCCESS": 90
+      },
+      "queries_with_fidelity_errors": 0
+    },
+    {
+      "configuration": "A",
+      "normalization": "archived",
+      "sparse_tokenizer": "punctuation",
+      "k": 5,
+      "queries": 90,
+      "hit_at_k": 0.8222222222222222,
+      "mrr_at_k": 0.5001851851851853,
+      "statuses": {
+        "SUCCESS": 90
+      },
+      "queries_with_fidelity_errors": 0
+    },
+    {
+      "configuration": "A",
+      "normalization": "archived",
+      "sparse_tokenizer": "whitespace",
+      "k": 3,
+      "queries": 90,
+      "hit_at_k": 0.6777777777777778,
+      "mrr_at_k": 0.4296296296296296,
+      "statuses": {
+        "SUCCESS": 90
+      },
+      "queries_with_fidelity_errors": 0
+    },
+    {
+      "configuration": "A",
+      "normalization": "archived",
+      "sparse_tokenizer": "whitespace",
+      "k": 5,
+      "queries": 90,
+      "hit_at_k": 0.7444444444444445,
+      "mrr_at_k": 0.44518518518518513,
+      "statuses": {
+        "SUCCESS": 90
+      },
+      "queries_with_fidelity_errors": 0
+    },
+    {
+      "configuration": "B",
+      "normalization": "archived",
+      "sparse_tokenizer": "punctuation",
+      "k": 3,
+      "queries": 90,
+      "hit_at_k": 0.7333333333333333,
+      "mrr_at_k": 0.6518518518518519,
+      "statuses": {
+        "SUCCESS": 84,
+        "FALLBACK_TRIGGERED": 6
+      },
+      "queries_with_fidelity_errors": 3
+    },
+    {
+      "configuration": "B",
+      "normalization": "archived",
+      "sparse_tokenizer": "punctuation",
+      "k": 5,
+      "queries": 90,
+      "hit_at_k": 0.7888888888888889,
+      "mrr_at_k": 0.6646296296296298,
+      "statuses": {
+        "SUCCESS": 84,
+        "FALLBACK_TRIGGERED": 6
+      },
+      "queries_with_fidelity_errors": 3
+    },
+    {
+      "configuration": "B",
+      "normalization": "archived",
+      "sparse_tokenizer": "whitespace",
+      "k": 3,
+      "queries": 90,
+      "hit_at_k": 0.7,
+      "mrr_at_k": 0.6166666666666667,
+      "statuses": {
+        "SUCCESS": 84,
+        "FALLBACK_TRIGGERED": 6
+      },
+      "queries_with_fidelity_errors": 3
+    },
+    {
+      "configuration": "B",
+      "normalization": "archived",
+      "sparse_tokenizer": "whitespace",
+      "k": 5,
+      "queries": 90,
+      "hit_at_k": 0.7111111111111111,
+      "mrr_at_k": 0.6194444444444446,
+      "statuses": {
+        "SUCCESS": 84,
+        "FALLBACK_TRIGGERED": 6
+      },
+      "queries_with_fidelity_errors": 3
+    },
+    {
+      "configuration": "B",
+      "normalization": "candidate",
+      "sparse_tokenizer": "punctuation",
+      "k": 3,
+      "queries": 90,
+      "hit_at_k": 0.7,
+      "mrr_at_k": 0.6314814814814815,
+      "statuses": {
+        "SUCCESS": 84,
+        "FALLBACK_TRIGGERED": 6
+      },
+      "queries_with_fidelity_errors": 0
+    },
+    {
+      "configuration": "B",
+      "normalization": "candidate",
+      "sparse_tokenizer": "punctuation",
+      "k": 5,
+      "queries": 90,
+      "hit_at_k": 0.7666666666666667,
+      "mrr_at_k": 0.6475925925925926,
+      "statuses": {
+        "SUCCESS": 84,
+        "FALLBACK_TRIGGERED": 6
+      },
+      "queries_with_fidelity_errors": 0
+    },
+    {
+      "configuration": "B",
+      "normalization": "candidate",
+      "sparse_tokenizer": "whitespace",
+      "k": 3,
+      "queries": 90,
+      "hit_at_k": 0.6666666666666666,
+      "mrr_at_k": 0.6037037037037037,
+      "statuses": {
+        "SUCCESS": 84,
+        "FALLBACK_TRIGGERED": 6
+      },
+      "queries_with_fidelity_errors": 0
+    },
+    {
+      "configuration": "B",
+      "normalization": "candidate",
+      "sparse_tokenizer": "whitespace",
+      "k": 5,
+      "queries": 90,
+      "hit_at_k": 0.7,
+      "mrr_at_k": 0.6114814814814815,
+      "statuses": {
+        "SUCCESS": 84,
+        "FALLBACK_TRIGGERED": 6
+      },
+      "queries_with_fidelity_errors": 0
+    },
+    {
+      "configuration": "C",
+      "normalization": "archived",
+      "sparse_tokenizer": "punctuation",
+      "k": 3,
+      "queries": 90,
+      "hit_at_k": 0.7555555555555555,
+      "mrr_at_k": 0.6574074074074074,
+      "statuses": {
+        "SUCCESS": 84,
+        "FALLBACK_TRIGGERED": 6
+      },
+      "queries_with_fidelity_errors": 2
+    },
+    {
+      "configuration": "C",
+      "normalization": "archived",
+      "sparse_tokenizer": "punctuation",
+      "k": 5,
+      "queries": 90,
+      "hit_at_k": 0.7888888888888889,
+      "mrr_at_k": 0.6651851851851853,
+      "statuses": {
+        "SUCCESS": 84,
+        "FALLBACK_TRIGGERED": 6
+      },
+      "queries_with_fidelity_errors": 2
+    },
+    {
+      "configuration": "C",
+      "normalization": "archived",
+      "sparse_tokenizer": "whitespace",
+      "k": 3,
+      "queries": 90,
+      "hit_at_k": 0.7,
+      "mrr_at_k": 0.6166666666666667,
+      "statuses": {
+        "SUCCESS": 84,
+        "FALLBACK_TRIGGERED": 6
+      },
+      "queries_with_fidelity_errors": 2
+    },
+    {
+      "configuration": "C",
+      "normalization": "archived",
+      "sparse_tokenizer": "whitespace",
+      "k": 5,
+      "queries": 90,
+      "hit_at_k": 0.7111111111111111,
+      "mrr_at_k": 0.6194444444444446,
+      "statuses": {
+        "SUCCESS": 84,
+        "FALLBACK_TRIGGERED": 6
+      },
+      "queries_with_fidelity_errors": 2
+    },
+    {
+      "configuration": "C",
+      "normalization": "candidate",
+      "sparse_tokenizer": "punctuation",
+      "k": 3,
+      "queries": 90,
+      "hit_at_k": 0.7444444444444445,
+      "mrr_at_k": 0.6574074074074074,
+      "statuses": {
+        "SUCCESS": 84,
+        "FALLBACK_TRIGGERED": 6
+      },
+      "queries_with_fidelity_errors": 0
+    },
+    {
+      "configuration": "C",
+      "normalization": "candidate",
+      "sparse_tokenizer": "punctuation",
+      "k": 5,
+      "queries": 90,
+      "hit_at_k": 0.7888888888888889,
+      "mrr_at_k": 0.6685185185185186,
+      "statuses": {
+        "SUCCESS": 84,
+        "FALLBACK_TRIGGERED": 6
+      },
+      "queries_with_fidelity_errors": 0
+    },
+    {
+      "configuration": "C",
+      "normalization": "candidate",
+      "sparse_tokenizer": "whitespace",
+      "k": 3,
+      "queries": 90,
+      "hit_at_k": 0.6555555555555556,
+      "mrr_at_k": 0.6037037037037037,
+      "statuses": {
+        "SUCCESS": 84,
+        "FALLBACK_TRIGGERED": 6
+      },
+      "queries_with_fidelity_errors": 0
+    },
+    {
+      "configuration": "C",
+      "normalization": "candidate",
+      "sparse_tokenizer": "whitespace",
+      "k": 5,
+      "queries": 90,
+      "hit_at_k": 0.7,
+      "mrr_at_k": 0.6137037037037038,
+      "statuses": {
+        "SUCCESS": 84,
+        "FALLBACK_TRIGGERED": 6
+      },
+      "queries_with_fidelity_errors": 0
+    }
+  ],
+  "held_out_accessed": false,
+  "freeze": false,
+  "original_rankings_reproduced": true,
+  "ragas_context_precision_status": "Not scored for new rankings; no promotion or final selection justified yet"
+}

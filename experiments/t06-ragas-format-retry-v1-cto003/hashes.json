@@ -1,0 +1,8 @@
+{
+  "dataset_SCENARIO-CTO-003-english.json": "bfc7acf61116f39095d87c43fa4cbd1209572b9e8dfc3a940e2e0dba19dc7c65",
+  "judge_calls.jsonl": "9112181d4204a5c63da370c03adb0353ed1e128c5ba50495f60feeccb507bf33",
+  "protocol.json": "5ad293af5cdb03ac3ff5f30b8cbf99da90923d7f71b2732cf6a0d4d323f23662",
+  "scores.csv": "c02821dd43905507db12c47721f83c00d01ae08d9365412d35cee1ef058c7fe5",
+  "scores.json": "21fd8659c7c0275f65f4225df1c7ba89209231dc6223ebdfd7315581c339de67",
+  "summary.json": "73628342e483d92b313db1cb7f42d2e4cf4f817683f4c79823c56218f6dd83bb"
+}

@@ -1,0 +1,30 @@
+{
+  "group_id": "SCENARIO-BB-003",
+  "review_status": "needs_correction",
+  "reviewer": "assistant",
+  "candidate_status": "not_applied",
+  "findings": [
+    "Restore unless revoked or surrendered earlier qualification to December 31 expiry.",
+    "Preserve renewed within January and continuing validity only upon renewal and payment; filing alone is not the exact source rule.",
+    "Keep all seven renewal rows and authority/capacity clauses.",
+    "Preserve if represented specifically in sole-proprietorship row; do not extend that literal qualifier to all rows.",
+    "Use other form of ownership as stated in renewal row 4 rather than import a narrower list from NEW requirements.",
+    "Representative ID: 1 photocopy, if newly designated.",
+    "Use specific requirements for specific line of business; do not narrow requirements to clearances.",
+    "Notarization belongs to renewal rows 2-4, as shown in Where to Secure."
+  ],
+  "removed_supporting_ids": {
+    "DEV120-BB-PDF0015-C003": "NEW application checklist, not renewal evidence.",
+    "DEV120-BB-PDF0016-C003": "NEW ownership/vehicle/FSIC checklist, preceding RENEWAL heading.",
+    "DEV120-BB-PDF0017-C002": "CHANGE OF BUSINESS ADDRESS amendment requirements, not renewal evidence."
+  },
+  "manual_action_required_now": false,
+  "limitations": [
+    "Assistant visual review is not independent expert certification.",
+    "Mixed-service chunks remain in the corpus: C004 includes NEW tail before RENEWAL; C001 of PDF17 includes following amendment heading. Claim maps delimit the relevant spans.",
+    "No present-day regulatory verification is claimed: review is of the fixed thesis source PDF.",
+    "No scores recalculated; hits from removed IDs may change when corrected labels are consolidated."
+  ],
+  "progress": "3 of 25 provisional groups reviewed; 22 remain. Separate BFP context and BB ambiguous-fee review remain open.",
+  "unchanged": "Original labels, scores, corpus, indices, app defaults and held-out benchmarks."
+}

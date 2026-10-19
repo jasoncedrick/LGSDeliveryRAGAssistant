@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Paano kinukwenta ang Fire Safety Inspection Fee (FSIF) para sa FSIC ng Occupancy at magkano ang minimum na bayad?"
+  ],
+  "answer": [
+    "The Fire Safety Inspection Fee (FSIF) for a Fire Safety Inspection Certificate (FSIC) for Occupancy is not explicitly stated in the provided sources. However, the fee for FSIC is mentioned in [S1] but it does not specify the fee for Occupancy. For more detailed information about the FSIF, you may need to refer to the official fee schedule of the Bureau of Fire Protection (BFP) or contact them directly. [S1] BFP-CITIZENS-CHARTER-2022.pdf | printed page None | chunk DEV120-BFP-PDF0001-C021"
+  ],
+  "contexts": [
+    [
+      "s, etc.) as a prerequisite for the\nissuance of appropriate permits and licenses\nfrom the local and other government agencies\nconcerned.\n\nCHECKLIST OF\nREQUIREMENTS/\nDOCUMENTS\nBFP FRONT LINE SERVICES\nFIRE SAFETY  \nEVALUATION \nCLEARANCE\n(FSEC)\nAPPLICATION\nFIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION\nCERTIFICATE OF\nOCCUPANCY\nNEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPAN",
+      "Building Administrator and his/her Fire Safety Practitioner\nduring the regular annual fire safety inspection. This  is a compilation of the maintenance and testing records kept by the building‘s engineering and maintenance department, as a prerequisite for the issuance of FSIC for Business or \nMayor‘s Permit renewal, Certificate of Annual Inspection , Permit to Operate, PHILHEALTH Accreditation for Hospitals, DOH License to Operate and other  permits or licenses being issued by other government agencies.\nNOTE (4) Section 9.",
+      "9.1.4 of JMC No. 01 Series of 2021—To address the lack of personnel of inspection departments and agencies compared to the number of establishments, LGUs are encouraged to use a system of risk classification of various \nbusinesses and adopt an inspection prioritization scheme on this basis, in close coordination with the Department of Health for Sanitary Permits, the BFP for the Fire Safety Inspection Certificate for the issuance of uniform guidelines on \nrisk inspection for specific sectors. (BOSS)\nAGENCY ROW 1\n\nCLIENTS"
+    ]
+  ],
+  "ground_truth": [
+    "For FSIC for Certificate of Occupancy and new/renewal business applications, the fee panel states FSIF is 15% of all fees charged by LGU/PEZA, not less than PHP500. It explicitly adds: if assessment from LGUs/PEZA is zero, FSIF is zero. Other fees apply if applicable under the cited RIRR provision. Do not omit the zero-assessment exception or narrow the base to LGU-only regulatory fees."
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "group_id": "SCENARIO-BFP-002",
+  "review_status": "needs_correction",
+  "reviewer": "assistant",
+  "findings": [
+    "Correct incomplete fee rule and include PEZA.",
+    "Old supporting IDs largely FSEC; map actual FSIF span including zero exception.",
+    "Remove unsolicited incomplete checklist from fee-focused answer. Matrix inspection separately confirms fire-insurance row not marked for Occupancy."
+  ],
+  "manual_check": null,
+  "candidate_applied": false,
+  "limitations": [
+    "Fixed thesis sources, not present-day legal advice.",
+    "Assistant image review is not independent expert certification.",
+    "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+  ]
+}
