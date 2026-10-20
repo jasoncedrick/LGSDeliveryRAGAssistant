@@ -1,0 +1,23 @@
+--- group.before.json
++++ group.candidate.json
+@@ -6,10 +6,12 @@
+     "DEV120-OCBO-PDF0029-C001",
+     "DEV120-OCBO-PDF0029-C002",
+     "DEV120-OCBO-PDF0029-C003",
++    "DEV120-OCBO-PDF0029-C004",
++    "DEV120-OCBO-PDF0029-C005",
+     "DEV120-OCBO-PDF0035-C001",
+     "DEV120-OCBO-PDF0035-C002"
+   ],
+-  "ground_truth_reference_answer": "A Fencing Permit is required prior to constructing a fence. Requirements include: 1) Fencing Permit form with 3 sets of Civil/Architectural plans signed and sealed by a licensed Civil Engineer/Architect; 2) Certified True Copy of Land Title (LRA/CASSO) and Tax Declaration; 3) Barangay Clearance; 4) Lot/Vicinity plan; and 5) Bill of Materials and Cost Estimates. The fee schedule under PD 1096 IRR is: PHP 3.00 per linear meter for fences made of masonry, metal, or concrete up to 1.80 meters in height; PHP 4.00 per linear meter for heights exceeding 1.80 meters; and PHP 2.40 per linear meter for fences made of indigenous materials, barbed, or hog wire.",
++  "ground_truth_reference_answer": "Fencing checklist: permit form with 3 sets of Civil/Architectural plans signed/sealed by licensed Civil Engineer/Architect (A3 structural-plan option stated); certified land title and property tax declaration (1 original and 1 photocopy each); the next row repeats Certified True Copy of Tax Declaration of the Property with CTO as source; Barangay Clearance (1 original and 1 photocopy); scaled sketch/lot/vicinity plan signed/sealed by licensed Geodetic Engineer (3 sets); bill of materials/cost estimates signed/sealed by licensed Civil Engineer (3 sets); signing professionals PRC ID/current PTR (1 photocopy); owner/applicant ID with 3 specimen signatures (1 photocopy); conditional DPWH clearance along a National Highway.\n\nFee schedule: masonry/metal/concrete up to 1.80m PHP3 per linear meter; over 1.80m PHP4 per linear meter. Both source rows print \"of fraction thereof\". Indigenous materials, barbed, chicken or hog wire: PHP2.40 per linear meter. The service introduction says a fence not exceeding 1.80m, while the fee table includes over-1.80m; preserve both rather than infer an eligibility rule.",
+   "queries": {
+     "english": "What are the requirements and fee rates per linear meter to secure a Fencing Permit from OCBO?",
+     "taglish": "Ano ang requirements at magkano ang bayad kada linear meter para kumuha ng Fencing Permit sa OCBO?",
+@@ -20,5 +22,5 @@
+     "CHUNK-OCBO-P517-C02",
+     "CHUNK-OCBO-P523-C01"
+   ],
+-  "mapping_status": "PROVISIONAL_EXACT_SPAN_MAPPING"
++  "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED"
+ }

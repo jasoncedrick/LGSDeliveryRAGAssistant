@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Paano nakikipagtulungan ang BFP sa backroom operations ng eBOSS para sa one-time assessment at bayaran?"
+  ],
+  "answer": [
+    "Ang BFP ay nakikipagtulungan sa backroom operations ng eBOSS para sa isang-isang pag-aaralan at bayaran sa pamamagitan ng pag-share ng impormasyon. Ito ay maaaring makita sa Citizens' Charter ng BFP sa mga chunk DEV120-BFP-PDF0001-C011 at DEV120-BFP-PDF0001-C012. Sa chunk DEV120-BFP-PDF0001-C011, nakakita tayo ng isang proseso na may maximum processing time ng ten (10) minutes at ang kasalukuyang tao na kasalukuyang nakatutok dito ay ang Fire Code Assessor. Sa chunk DEV120-BFP-PDF0001-C012, nakakita tayo ng isang proseso na may maximum processing time ng ten (10) minutes at ang kasalukuyang tao na kasalukuyang nakatutok dito ay ang kasalukuyang nagbibigay ng Official Receipt (OR)."
+  ],
+  "contexts": [
+    [
+      "applicant queuing number and issue OPS.\nFor OSCP/BOSS : Backroom operation with\nOSCP/BOSS for one-time assessment thru\nsharing of information\n\nPROCESSING TIME: maximum of ten (10) minutes\n\nPERSON RESPONSIBLE: Fire Code Assessor\n(FCA)\n\nAGENCY ROW 3\n\nCLIENTS STEP: 3. Present the OPS and pay the corresponding\nFire Code Fees indicated in the OPS.\nUpon receipt of the OR, proceed to releasing\nwindow to claim the stub by presenting the OR.\nNote: Re",
+      "proceed to releasing\nwindow to claim the stub by presenting the OR.\nNote: Releasing date and time of FSEC is\nindicated in the claim stub.\n\nAGENCY ACTION: 3. Collect the payment and issue Official\nReceipt (OR)\nFor OSCP/BOSS : Backroom operation with\nOSCP/BOSS for one-time payment thru\nco-location\nFor Local Stations with MOA with the LGUs, fire\ncode fees/taxes shall be collected by the LGUs\n\nPROCESSING TIME: maximum of ten (10) minutes\n\nPERSON",
+      "REDIT” nor Recommend any Brand, Store or Distributor of Fire\nExtinguisher and Fire Fighting Equipment\nAs per BFP Memorandum Circular No. 2016-016\nProhibition of BFP Personnel from Engaging in any act of impropriety and/or corruption pertaining to the enforce-\nment and implementation of the Fire Code and providing sanction thereof.\nHow to file a complaint\nTo file a complaint against the BFP or any of its personnel, the Client/Customer should provide the  following details via \nemail or other form of"
+    ]
+  ],
+  "ground_truth": [
+    "Under the eBOSS backroom framework, BFP coordinates with the LGU via automated information sharing for one-time assessment within a maximum of 10 minutes, and co-located one-time payment within 10 minutes."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What is the official procedure for reclassifying agricultural land to commercial use under the Davao City Comprehensive Land Use Plan?"
+  ],
+  "answer": [
+    "The official procedure for reclassifying agricultural land to commercial use under the Davao City Comprehensive Land Use Plan is not explicitly stated in the provided sources. However, the process for a Preliminary Subdivision Development Plan (PSDP) and Development Permit (DP) for High End, Low End, Farm Lot, and Memorial Park [S1] might be relevant, as it involves subdivision approval based on BP 220, PD 957, and other related laws.\n\nThe process begins with an application for subdivision approval, which is then approved by the City Housing Land Use and Regulatory Unit, acting as the technical arm of the Sangguniang Panlungsod (City Council) [S1]. The application is evaluated based on the proposed land use [S4].\n\nHowever, the specific steps for reclassifying agricultural land to commercial use are not detailed in the provided sources. For more accurate information, it is recommended to consult the Davao City Comprehensive Land Use Plan or contact the City Planning and Development Office directly."
+  ],
+  "contexts": [
+    [
+      "14. Preliminary Subdivision Development Plan (PSDP) and \nDevelopment Permit (DP) for High End, Low End, Farm Lot and \nMemorial Park \nAn application for subdivision approval based on BP 220, PD 957, and other related \nlaws. Executive Order No. 71, Series of 1993, pursuant to RA 7160, was signed into \nlaw to devolve the powers of the Housing Land Use Regulatory Board to approve \nsubdivision plans to the cities through the City Housing Land Use and Regulatory \nUnit as the technical arm of the Sang",
+      "lacking, advised \nclient to comply)\n2.2 Encodes \napplication in the \ndocument tracking \nsystem and routes \nto GIS for map \nlocation\nNone \n5 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\n2.3 Locates \nbusiness address \nand encodes \nbusiness \nIdentification on \nthe Davao City \nMap and routes \ndocument to the \nbusiness \nevaluators\nNone \n15 Minutes\nDivision Chief\nof GIS\n2.4 Evaluates \napplication and \nmakes \nrecommendations \n(based on the \nIntegrated ZO \n2019-2028, Art. 5 \n– Zone \nRegulations) \n \nNote: Applications \nare evaluated \nbased on the \nproposed land use",
+      "ANNUAL INSPECTION NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\na. Divisions A-1 and A-2:\ni. Single detached dwelling units and duplexes are not subject to annual inspections.\nii. If the owner request inspections, the fee for each of the services enumerated below is \nP 120.00\nLand Use Conformity\nArchitect"
+    ]
+  ],
+  "ground_truth": [
+    "Reclassification specifies how agricultural lands shall be utilized for non-agricultural uses (residential, commercial, industrial) under the CLUP. It requires CPDO evaluation, Barangay endorsement, City Development Council review, and Sangguniang Panlungsod ordinance approval."
+  ]
+}

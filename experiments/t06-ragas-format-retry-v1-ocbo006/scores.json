@@ -1,0 +1,14 @@
+[
+  {
+    "record_id": "SCENARIO-OCBO-006-english",
+    "generation_status": "ANSWERED",
+    "scores": {
+      "answer_relevancy": 0.9175673311761628
+    },
+    "language": "english",
+    "group_id": "SCENARIO-OCBO-006",
+    "pillar": "Office of the City Building Official",
+    "reference_status": "legacy_semantics_not_independently_certified",
+    "status": "SCORED"
+  }
+]

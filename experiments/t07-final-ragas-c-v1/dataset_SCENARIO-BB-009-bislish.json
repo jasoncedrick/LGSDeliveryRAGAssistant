@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsaon pag-apply ug partial retirement sa usa ka linya sa negosyo ug unsa ang mga kinahanglan i-pass?"
+  ],
+  "answer": [
+    "Sa pag-apply sa partial retirement sa isa ka linya sa negosyo, ang mga kinahanglan nga dokumento nimo sa Business Bureau sa Davao City ang:\n\n1. Affidavit of Partial Retirement (notarized) stating the reason, effective date of retirement and line of business to retire - [S3]\n2. Secretary Certificate / Board or Partnership Resolution (notarized) stating the retirement of the business - [S3]\n3. Submit pertinent documents and application form for Partial Retirement sa District Treasurer’s Office - [S1]\n4. Proceed to the City Treasurer’s Office for payment - [S2]\n5. Submit Application for Partial Retirement, official receipts if applicable and pertinent documents sa Business Bureau office - [S3]\n\nWala nako nakit-an nga kinahanglan nga dokumento kabuhi sa City Treasurer’s Office kung wala pa kang outstanding unpaid taxes and charges. (Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa pag-require sa outstanding unpaid taxes and charges.)"
+  ],
+  "contexts": [
+    [
+      "Amendment\nof\nBusiness\nPermit.\n1 Hour and \n55 Minutes\nI. Amendment of Business Permit (Partial Retirement)\nCLIENT \nSTEPS\nAGENCY ACTION\nFEES TO BE\nPAID\nPROCESSIN\nG TIME\nPERSON\nRESPONSIBLE\nSTEP 1: APPLICATION\n1.Submit \npertinent \ndocuments \nand Receive \npertinent \ndocuments \nand \napplication \nform \nfor\nPartial \nRetirement \nthen proceed \nto the District \nTreasurer’s \nOffice for the \napproval \nof\n1.1 Assess \nApplication for \nPartial Retirement.\n1.2 Verify and \nEncode Application \nfor Partial \nRetirement.",
+      "Partial \nRetirement\napplication form for \nPartial Retirement\nSTEP 2: CTO ASSESSMENT\n2.Proceed to \nthe City \nTreasurer’s \nOffice for \npayment.\n2. Process under \nCity Treasurer’s \nOffice\nNone unless there\nare outstanding \nunpaid taxes and\ncharges\n2 Days, 4 \nHours and \n10 Minutes\nCity Treasurer’s\nOffice\nEmployees\nSTEP 3: RELEASE\n3.Submit \nApplication for \nPartial \nRetirement, \nofficial \nreceipts if \napplicable and \npertinent \ndocuments. \nClaim \nBusiness \nPermit at the \nBusiness \nBureau office \nand Sign \nLogbook\n3.1 Receive \napproved",
+      "’s Permit,\nApplication for Renewal of Business Permit, \nor Certified True Copy of Business Permit \nw/ Affidavit of Loss in case of lost permits\nApplicant\nAMENDMENT OF BUSINESS PERMIT – PARTIAL RETIREMENT \n1. Affidavit of Partial Retirement (notarized)\nstating the reason, effective date of \nretirement and line of business to retire-\nSingle Proprietorship\nApplicant, notarized by any Notary \nPublic\n2. \nSecretary Certificate / Board or\nPartnership Resolution (notarized) stat"
+    ]
+  ],
+  "ground_truth": [
+    "Partial retirement requires a notarized Affidavit of Partial Retirement stating the reason, effective date, and business line to retire (or Board/Partnership Resolution), SPA if represented, representative ID, and latest business permit. Approval and tax reassessment by the City Treasurer are required."
+  ]
+}

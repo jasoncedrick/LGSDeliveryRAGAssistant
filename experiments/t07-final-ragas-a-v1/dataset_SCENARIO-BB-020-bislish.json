@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa nga mga clearance gikan sa Bangko Sentral ang kinahanglan i-presentar sa mga bangko ug pawnshop para sa business permit?"
+  ],
+  "answer": [
+    "Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa inyong tanong tungkol sa mga clearance gikan sa Bangko Sentral ang kinahanglan i-presentar sa mga bangko ug pawnshop para sa business permit. [S1, S2, S3] ang mga source na nakahimo sa Citizens' Charter, pero wala didto nga nakit-an ang mga requirement sa Bangko Sentral tungod sa business permit."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "ALUATION CLEARANCE (FSEC) APPLICATION; CERTIFICATE OF OCCUPANCY.]\n \nUnified Application Form (BOSS)\n[REPRESENTATION: Application-form cell spans: NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT",
+      "jurisdiction of Davao City.\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\nGENERAL REQUIREMENTS\n1. Security Clearance from Public Safety and \nSecurity Office\nPublic Safety and Security \nCommand Center\n2. Business Permit (private agency) (organizer) \nBusiness Bureau\n3. Affidavit of Undertaking to strictly follow \nrecommendations.\nClient\nCONCERTS, SHOWS OR EVENTS IN OPEN AREAS\n1. Barangay Resolution \nBarangay Hall\nMAHJONG\n1. Barangay Clearance \nBarangay Hall\n2. Cedula \nCity Treasurer’s Office\nREC"
+    ]
+  ],
+  "ground_truth": [
+    "Banks require a Bangko Sentral ng Pilipinas (BSP) Authority to Operate for new applications and renewals. Pawnshops, forex dealers, and money remittance entities must submit proof of registration application with the BSP prior to commencement of operations."
+  ]
+}

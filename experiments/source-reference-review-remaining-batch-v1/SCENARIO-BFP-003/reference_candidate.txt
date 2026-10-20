@@ -1,0 +1,1 @@
+The BFP charter classifies Simple transactions as processed within 1 day, Complex within 3 days, and Highly Technical within 7 days. It directs readers to JMC2021-01 for classification coverage. The source says days, not working days, and identifies FIRE STATION/OSCP/BOSS.

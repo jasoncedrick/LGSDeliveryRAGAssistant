@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga technical structural analysis ug CAAP clearance nga kinahanglan para makatukod ug dako nga billboard?"
+  ],
+  "answer": [
+    "Ang mga technical structural analysis ug CAAP clearance ang kinahanglan para makatukod ug dako nga billboard. Ang mga technical structural analysis ay kinakailangan nga mag-aral sa kahibaw-an sa kalidad at kasanayan ng kalayo ug kalibutan sa dako nga billboard. Ang CAAP clearance, sa iba't-ibang pangalan, ang Air Transportation Office (ATO) Clearance, ay kinahanglan para makatukod sa dako nga billboard sa kalibutan ng Davao City.\n\n[S1, S3]"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      ".5 Structural Design Analysis (Signed and \nsealed by a duly licensed Civil Engineer)  \n– 2 original  \n \nA.6 Locational Clearance  \n– 1 original, 1 photocopy \n \nA.7. Tax Declaration of Land \n – 1 original and 1 photocopy\nOwner/Applicant \n \n \nHired Civil/Structural Engineer \n \n \n \nHired Designer \n \n \n \n \nLicensed Architect/Civil Engineer \n \n \n \nHired Civil Engineer \n \n \n \nCPDO \n \n \nCity Assessor’s Office",
+      ": \nA.1 Notarized Application Letter \n – 1 original, 1 photocopy \n \nA.2 Structural Plan (Signed & sealed by duly \nlicensed Civil/Structural Engineer) \n – 3 original  \n \nA.3 Project Technical Specification (Signed \nand sealed by a duly licensed designer \n – 1 original \n \nA.4 Bill of Materials (Signed and sealed by a \nduly licensed Architect/Civil Engineer) \n – 1 original \n \nA.5 Structural Design Analysis (Signed and \nsealed by a duly licensed"
+    ]
+  ],
+  "ground_truth": [
+    "New Billboard applications require structural plans, design analysis signed by a civil/structural engineer, CPDO locational clearance, Certificate of Structural Stability, insurance policy, DPWH clearance (if along national highway), and CAAP clearance if within 2km of the airport."
+  ]
+}

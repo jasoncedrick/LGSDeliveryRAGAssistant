@@ -1,0 +1,23 @@
+[
+  {
+    "claim": "The charter Annex 9 states that failure to register books of accounts, books of records, official receipts, cash sales, cash invoices, delivery receipts and other collection receipts within fifteen (15) working days from filing a new or renewal business-permit application incurs an administrative fine of PHP5,000.",
+    "evidence": [
+      {
+        "source_page_id": "CTO-PDF0031",
+        "pdf_relative_page": 31,
+        "printed_page": 186,
+        "source_span": "Annex - 9 \n39 Minutes\nANNEX – 9\nFailure on the part of any person (natural or juridical) to register in the City Treasurer \ntheir book of accounts, book of records and official receipts, cash sales, cash invoice, \ndelivery receipt and other receipts used in the collection within fifteen (15) working days \nfrom time of filling the application for new or renewal of business permit shall be \nadministratively fined Five Thousand Pesos (P 5,000.00",
+        "char_start": 307,
+        "char_end": 753,
+        "supporting_chunk_ids": [
+          "DEV120-CTO-PDF0031-C001",
+          "DEV120-CTO-PDF0031-C002"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-CTO-PDF0031-C001",
+      "DEV120-CTO-PDF0031-C002"
+    ]
+  }
+]

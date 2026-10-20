@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang trabaho ng Fire Code Assessor (FCA) at ilang minuto ang itinakdang oras sa pag-isyu ng Order of Payment?"
+  ],
+  "answer": [
+    "Ang trabaho ng Fire Code Assessor (FCA) ay magpapatupad ng Fire Code at magbibigay ng assessment sa mga establishment tungkol sa kanilang fire safety requirements. Ang itinakdang oras sa pag-isyu ng Order of Payment (OPS) ay maximum of ten (10) minutes, bilang nabasa sa [S1] at [S3]."
+  ],
+  "contexts": [
+    [
+      "applicant queuing number and issue OPS.\nFor OSCP/BOSS : Backroom operation with\nOSCP/BOSS for one-time assessment thru\nsharing of information\n\nPROCESSING TIME: maximum of ten (10) minutes\n\nPERSON RESPONSIBLE: Fire Code Assessor\n(FCA)\n\nAGENCY ROW 3\n\nCLIENTS STEP: 3. Present the OPS and pay the corresponding\nFire Code Fees indicated in the OPS.\nUpon receipt of the OR, proceed to releasing\nwindow to claim the stub by presenting the OR.\nNote: Re",
+      "REDIT” nor Recommend any Brand, Store or Distributor of Fire\nExtinguisher and Fire Fighting Equipment\nAs per BFP Memorandum Circular No. 2016-016\nProhibition of BFP Personnel from Engaging in any act of impropriety and/or corruption pertaining to the enforce-\nment and implementation of the Fire Code and providing sanction thereof.\nHow to file a complaint\nTo file a complaint against the BFP or any of its personnel, the Client/Customer should provide the  following details via \nemail or other form of",
+      "proceed to releasing\nwindow to claim the stub by presenting the OR.\nNote: Releasing date and time of FSEC is\nindicated in the claim stub.\n\nAGENCY ACTION: 3. Collect the payment and issue Official\nReceipt (OR)\nFor OSCP/BOSS : Backroom operation with\nOSCP/BOSS for one-time payment thru\nco-location\nFor Local Stations with MOA with the LGUs, fire\ncode fees/taxes shall be collected by the LGUs\n\nPROCESSING TIME: maximum of ten (10) minutes\n\nPERSON"
+    ]
+  ],
+  "ground_truth": [
+    "The Fire Code Assessor (FCA) verifies documents, computes applicable fire code taxes and fees, and releases the Order of Payment Slip (OPS) to the applicant within a prescribed processing time of not more than 10 minutes."
+  ]
+}

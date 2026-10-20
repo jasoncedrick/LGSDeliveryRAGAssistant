@@ -1,0 +1,22 @@
+{
+  "group_id": "SCENARIO-BFP-006",
+  "pillar": "Bureau of Fire Protection",
+  "split": "development",
+  "ground_truth_chunk_ids": [
+    "DEV120-BFP-PDF0001-C046",
+    "DEV120-BFP-PDF0001-C047",
+    "DEV120-BFP-PDF0001-C053",
+    "DEV120-BFP-PDF0001-C055",
+    "DEV120-BFP-PDF0001-C056"
+  ],
+  "ground_truth_reference_answer": "The BFP public warning says it does not accredit or recommend any brand, store or distributor of fire extinguishers/fire-fighting equipment. Its warning prohibits personnel from selling or recommending a specific fire-extinguisher brand.\n\nThe image panel says portable fire extinguishers are regulated by DTI through BPS and that each type must comply with appropriate Philippine National Standards for product safety/reliability. This supports no BFP brand accreditation; it should not be expanded into a claim that any product is suitable regardless of type or hazard.",
+  "queries": {
+    "english": "Does the BFP require a specific accredited brand of fire extinguisher, and can BFP inspectors sell equipment?",
+    "taglish": "Kailangan ba na accredited brand ng BFP ang bibilhing fire extinguisher, at pwede bang magbenta ang inspector ng bombero?",
+    "bislish": "Tinuod ba nga kailangan accredited sa BFP ang brand sa fire extinguisher o pwede ba mamaligya ang inspector sa bombero?"
+  },
+  "legacy_ground_truth_chunk_ids": [
+    "CHUNK-BFP-P001-C27"
+  ],
+  "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED"
+}

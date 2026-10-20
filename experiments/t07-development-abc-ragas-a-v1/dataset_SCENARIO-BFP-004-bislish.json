@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Kanus-a required magpasa ug FSCR, FSCCR, ug FSMR sa BFP ug kinsa ang licensed practitioner nga pwede magpirma?"
+  ],
+  "answer": [
+    "Sa BFP (Bureau of Fire Protection), ang mga dokumento na FSCR (Fire Safety Compliance Report), FSCCR (Fire Safety Compliance Certificate), ug FSMR (Fire Safety Maintenance Report) ay magpapahimong i-submit sa kanilang opisina. Ang licensed practitioner na pwede magpirma sa mga itaas na dokumento ay ang Fire Safety Practitioner ng building owner o ang authorized representative nito ([S2] BFP-CITIZENS-CHARTER-2022.pdf, chunk DEV120-BFP-PDF0001-C005)."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "test and acceptance forms of all fire protection and life safety features, which shall form part of the ―as-built‖\ndocuments turned over by the contractor to the building owner duly signed by the Contractor/Construction Manager and his/her Fire Safety Practitioner.\nNOTE (3) Fire Safety Maintenance Report (FSMR) - A written report prepared by the building owner, his/her fire safety practitioner or authorized representative duly signed by the Building Administrator and his/her Fire Safety Practitioner\nduring the regular annual fire safety inspection.",
+      "applied in Fire\nStation/Lone District\nFire Office)\nThree (3) set of the  following documents\n\n[IMAGE PANEL TRANSCRIPTION — BFP PDF page 1]\nWARNING: BFP PERSONNEL ARE PROHIBITED FROM SELLING OR RECOMMENDING SPECIFIC BRAND OF FIRE EXTINGUISHER.\nREPORT SUCH IRREGULARITY AT THE FOLLOWING CONTACT NUMBERS:\nOFFICE OF THE CHIEF, BFP\nDirect line 426-43-99 Trunk line 426-02-19/426-02-46 Local 7"
+    ]
+  ],
+  "ground_truth": [
+    "FSCR/FSCCR/FSMR are required if the building/facilities/structures are required to install any or a combination of wet standpipe, automatic fire suppression, or automatic fire detection and alarm systems. FSCR consists of plans, specifications and design analysis per building, prepared and duly signed by the Engineer/Architect-of-Record and his/her Fire Safety Practitioner. FSCCR compiles approved submittals, test and acceptance forms for fire protection and life safety features as part of as-built documents turned over by the contractor to the owner; it is duly signed by the Contractor/Construction Manager and his/her Fire Safety Practitioner. FSMR is prepared by the building owner, his/her fire safety practitioner or authorized representative, and duly signed by the Building Administrator and his/her Fire Safety Practitioner during regular annual fire safety inspection. The matrix associates FSCR with FSEC, FSCCR with occupancy FSIC, and FSMR with new business without valid occupancy-stage FSIC and the two renewal columns; blank cells are not exemption statements."
+  ]
+}

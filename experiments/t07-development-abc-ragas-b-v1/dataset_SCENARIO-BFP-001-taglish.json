@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang requirements at paano kinukwenta ang bayad sa FSEC sa BFP bago makakuha ng building permit?"
+  ],
+  "answer": [
+    "Ang mga requirements sa Fire Safety Evaluation Clearance (FSEC) sa BFP bago makakuha ng building permit ay nakalistado sa Citizens' Charter ng BFP sa 2022. Ang mga requirements ay nakalistado sa mga chunk DEV120-BFP-PDF0001-C021, DEV120-BFP-PDF0001-C023, at DEV120-BFP-PDF0001-C028.\n\nAng mga requirements sa FSEC ay:\n\n1. BFP FSEC Application Form (DCN No. BFP-QSF-FSED-001 REV.02) [S2]\n2. BFP FSIC Application Form (DCN No. BFP-QSF-FSED-002 RE) [S2]\n3. Certificate of Occupancy (kung mayroon) [S1]\n4. New Business Permit with a valid FSIC issued during occupation [S1]\n5. Civil documents (hindi nakalistado ang mga kailangan na civil documents) [S3]\n6. Electrical documents (hindi nakalistado ang mga kailangan na electrical documents) [S3]\n\nAng bayad sa FSEC ay hindi nakalalaman sa mga nakalistang requirements. Ang mga citizen na gustong makakuha ng FSEC ay kailangan mag-apply sa Fire Station/Lone District Fire Office.\n\nSa iba't-ibang mga local at iba't-ibang government agencies, ang mga requirements at bayad ay maaaring magpapahiwatig ng iba't-ibang halaga. Ang mga citizen ay kailangan mag-check sa mga local na government agency nila para sa mga kailangan na requirements at bayad."
+  ],
+  "contexts": [
+    [
+      "s, etc.) as a prerequisite for the\nissuance of appropriate permits and licenses\nfrom the local and other government agencies\nconcerned.\n\nCHECKLIST OF\nREQUIREMENTS/\nDOCUMENTS\nBFP FRONT LINE SERVICES\nFIRE SAFETY  \nEVALUATION \nCLEARANCE\n(FSEC)\nAPPLICATION\nFIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION\nCERTIFICATE OF\nOCCUPANCY\nNEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPAN",
+      "UDED \nIN THE NEGATIVE LIST\nA   P   P   L   I   C   A   T   I   O   N      F   O   R   M\nApplied in Fire Station/Lone District Fire Office \nBFP FSEC\nApplication Form\n(DCN No. BFP-QSF-\nFSED-001 REV.02\n(08.24.20))\n[REPRESENTATION: Application-form cell spans: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION.]\n\nBFP FSIC Application Form (DCN No. BFP-QSF-FSED-002 RE",
+      "IRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n\n2) Civil documents\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n\n3) Electrical documents\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION"
+    ]
+  ],
+  "ground_truth": [
+    "The documentary checklist specifies three (3) sets of the listed documents. The FSEC column marks architectural, civil, electrical, mechanical, plumbing, electronics, sanitary and fire protection documents. Documents mean design plans, calculations and specifications signed and sealed by the Professional Engineer/Architect. Also listed for FSEC are one signed-and-sealed set of the estimated value of the building/structure or facilities, including materials and labor cost, and copies of valid PRC Professional Licenses of all involved professionals. The FSEC application fee is PHP 200.00; FCCT is 0.1% of the verified estimated materials-and-labor value of the building/structure or facility, capped at PHP 50,000.00. The fee note states that, when the UAF declared estimate differs substantially from current acceptable market construction cost per square meter or the value indicated in Table II.G.1 of PD 1096, the higher value will be adopted."
+  ]
+}

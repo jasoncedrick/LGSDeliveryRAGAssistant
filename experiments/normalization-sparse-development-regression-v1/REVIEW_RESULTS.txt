@@ -1,0 +1,73 @@
+NORMALIZATION AND BM25 DEVELOPMENT REGRESSION REVIEW
+
+Completed 2026-10-19T17:32:33.866174
+Scope: unchanged 30 development groups, 90 original queries per configuration; no held-out access.
+
+Diagnosis: BFP formula chunk is dense rank 1, sparse rank 470, fused rank 177 under archived B. The exception is dense rank 15, sparse rank 606, fused rank 315. Only stopword-like query tokens match the formula under whitespace BM25. Acronym punctuation, wording variation and the missing FSIC reduce lexical evidence; full source phrases are not present in each chunk.
+
+Four conditions isolate archived/candidate normalization and whitespace/punctuation BM25. B and C both use .75/.25/0 fusion at K=3 and K=5. A uses raw queries and sparse retrieval only. Original archived top-3 rankings were reproduced for all configurations before comparisons. Numeric BM25 parameters and corpus windows remain unchanged.
+
+FULL 90-QUERY DIAGNOSTICS
+A archived punctuation K=3: Hit=0.7111 MRR=0.4741; statuses={'SUCCESS': 90}; fidelity-error queries=0
+A archived punctuation K=5: Hit=0.8222 MRR=0.5002; statuses={'SUCCESS': 90}; fidelity-error queries=0
+A archived whitespace K=3: Hit=0.6778 MRR=0.4296; statuses={'SUCCESS': 90}; fidelity-error queries=0
+A archived whitespace K=5: Hit=0.7444 MRR=0.4452; statuses={'SUCCESS': 90}; fidelity-error queries=0
+B archived punctuation K=3: Hit=0.7333 MRR=0.6519; statuses={'SUCCESS': 84, 'FALLBACK_TRIGGERED': 6}; fidelity-error queries=3
+B archived punctuation K=5: Hit=0.7889 MRR=0.6646; statuses={'SUCCESS': 84, 'FALLBACK_TRIGGERED': 6}; fidelity-error queries=3
+B archived whitespace K=3: Hit=0.7000 MRR=0.6167; statuses={'SUCCESS': 84, 'FALLBACK_TRIGGERED': 6}; fidelity-error queries=3
+B archived whitespace K=5: Hit=0.7111 MRR=0.6194; statuses={'SUCCESS': 84, 'FALLBACK_TRIGGERED': 6}; fidelity-error queries=3
+B candidate punctuation K=3: Hit=0.7000 MRR=0.6315; statuses={'SUCCESS': 84, 'FALLBACK_TRIGGERED': 6}; fidelity-error queries=0
+B candidate punctuation K=5: Hit=0.7667 MRR=0.6476; statuses={'SUCCESS': 84, 'FALLBACK_TRIGGERED': 6}; fidelity-error queries=0
+B candidate whitespace K=3: Hit=0.6667 MRR=0.6037; statuses={'SUCCESS': 84, 'FALLBACK_TRIGGERED': 6}; fidelity-error queries=0
+B candidate whitespace K=5: Hit=0.7000 MRR=0.6115; statuses={'SUCCESS': 84, 'FALLBACK_TRIGGERED': 6}; fidelity-error queries=0
+C archived punctuation K=3: Hit=0.7556 MRR=0.6574; statuses={'SUCCESS': 84, 'FALLBACK_TRIGGERED': 6}; fidelity-error queries=2
+C archived punctuation K=5: Hit=0.7889 MRR=0.6652; statuses={'SUCCESS': 84, 'FALLBACK_TRIGGERED': 6}; fidelity-error queries=2
+C archived whitespace K=3: Hit=0.7000 MRR=0.6167; statuses={'SUCCESS': 84, 'FALLBACK_TRIGGERED': 6}; fidelity-error queries=2
+C archived whitespace K=5: Hit=0.7111 MRR=0.6194; statuses={'SUCCESS': 84, 'FALLBACK_TRIGGERED': 6}; fidelity-error queries=2
+C candidate punctuation K=3: Hit=0.7444 MRR=0.6574; statuses={'SUCCESS': 84, 'FALLBACK_TRIGGERED': 6}; fidelity-error queries=0
+C candidate punctuation K=5: Hit=0.7889 MRR=0.6685; statuses={'SUCCESS': 84, 'FALLBACK_TRIGGERED': 6}; fidelity-error queries=0
+C candidate whitespace K=3: Hit=0.6556 MRR=0.6037; statuses={'SUCCESS': 84, 'FALLBACK_TRIGGERED': 6}; fidelity-error queries=0
+C candidate whitespace K=5: Hit=0.7000 MRR=0.6137; statuses={'SUCCESS': 84, 'FALLBACK_TRIGGERED': 6}; fidelity-error queries=0
+
+BFP-002 TAGLISH FEE-PANEL RANKS
+A archived whitespace: SUCCESS; query=Paano kinukwenta ang Fire Safety Inspection Fee (FSIF) para sa FSIC ng Occupancy at magkano ang minimum na bayad?; ranks={'DEV120-BFP-PDF0001-C019': 175, 'DEV120-BFP-PDF0001-C020': 1078}
+A archived punctuation: SUCCESS; query=Paano kinukwenta ang Fire Safety Inspection Fee (FSIF) para sa FSIC ng Occupancy at magkano ang minimum na bayad?; ranks={'DEV120-BFP-PDF0001-C019': 3, 'DEV120-BFP-PDF0001-C020': 45}
+B archived whitespace: SUCCESS; query=How is the Fire Safety Inspection Fee (FSIF) calculated for an Occupancy and what is the minimum monetary settlement?; ranks={'DEV120-BFP-PDF0001-C019': 177, 'DEV120-BFP-PDF0001-C020': 315}
+B archived punctuation: SUCCESS; query=How is the Fire Safety Inspection Fee (FSIF) calculated for an Occupancy and what is the minimum monetary settlement?; ranks={'DEV120-BFP-PDF0001-C019': 11, 'DEV120-BFP-PDF0001-C020': 34}
+B candidate whitespace: SUCCESS; query=How is the Fire Safety Inspection Fee (FSIF) for an Occupancy calculated and what is the minimum monetary settlement for the FSIC?; ranks={'DEV120-BFP-PDF0001-C019': 135, 'DEV120-BFP-PDF0001-C020': 230}
+B candidate punctuation: SUCCESS; query=How is the Fire Safety Inspection Fee (FSIF) for an Occupancy calculated and what is the minimum monetary settlement for the FSIC?; ranks={'DEV120-BFP-PDF0001-C019': 3, 'DEV120-BFP-PDF0001-C020': 42}
+C archived whitespace: SUCCESS; query=How is the Fire Safety Inspection Fee (FSIF) calculated for an Occupancy and what is the minimum payment?; ranks={'DEV120-BFP-PDF0001-C019': 187, 'DEV120-BFP-PDF0001-C020': 311}
+C archived punctuation: SUCCESS; query=How is the Fire Safety Inspection Fee (FSIF) calculated for an Occupancy and what is the minimum payment?; ranks={'DEV120-BFP-PDF0001-C019': 13, 'DEV120-BFP-PDF0001-C020': 39}
+C candidate whitespace: SUCCESS; query=How is the Fire Safety Inspection Fee (FSIF) for the FSIC of Occupancy calculated and what is the minimum payment?; ranks={'DEV120-BFP-PDF0001-C019': 49, 'DEV120-BFP-PDF0001-C020': 182}
+C candidate punctuation: SUCCESS; query=How is the Fire Safety Inspection Fee (FSIF) for the FSIC of Occupancy calculated and what is the minimum payment?; ranks={'DEV120-BFP-PDF0001-C019': 3, 'DEV120-BFP-PDF0001-C020': 35}
+
+REVIEW DECISION
+No candidate is promoted or frozen. Hit/MRR are diagnostics, not the manuscript weight-selection objective. New rankings require RAGAS Context Precision across all 15 office-language cells before weight selection.
+If the retrieval candidate is retained, build a separately versioned matching sparse index and protocol, validate corpus/index alignment and app integration, then repeat paired development answer generation and offline scoring. Current app and baseline artifacts were not changed.
+A higher Hit score does not show that every fee condition or exception is retrieved. Check C019 (formula) and C020 (zero-assessment exception) separately; ranking either one alone does not establish complete answer evidence.
+Fidelity checks cover output shape, truncation and supplied acronyms. They do not certify semantic equivalence, role direction or every numerical qualifier. Candidate errors are retained and counted as no retrieval, distinct from the unchanged ambiguity gate.
+Archived normalizations are the baseline; candidate normalizations were freshly generated. Differences are not proof of a causal prompt effect or statistical significance. Shared static lexical guidance remains in C.
+No new source transcription check is needed for this BFP fee panel: the user image and corpus wording agree. Human review remains necessary before claiming expert certification.
+
+FILES
+summary.csv: all conditions and both K values
+query_deltas.csv: wins/losses for every query versus its archived baseline
+office_language_metrics.csv: all 15 cells, six records per cell
+candidate_normalizations.jsonl: original model outputs and explicit fidelity failures
+rankings.jsonl: actual ranked chunk IDs
+protocol.json and hashes.json: configuration and input provenance
+
+ENGLISH COPY FIDELITY
+B archived: 18 changed of 29 successful English queries. Exact changes are not necessarily semantic errors, but violate the current exact-copy prompt instruction.
+B candidate: 23 changed of 29 successful English queries. Exact changes are not necessarily semantic errors, but violate the current exact-copy prompt instruction.
+C archived: 18 changed of 29 successful English queries. Exact changes are not necessarily semantic errors, but violate the current exact-copy prompt instruction.
+C candidate: 21 changed of 29 successful English queries. Exact changes are not necessarily semantic errors, but violate the current exact-copy prompt instruction.
+
+CANDIDATE DECISION
+normalization_prompt_revision: REJECT_FOR_PROMOTION: B Hit@3 declines, exact English-copy compliance worsens; acronym retention alone is insufficient.
+sparse_punctuation_candidate: RETAIN_FOR_CONTEXT_PRECISION_EVALUATION_ONLY: all-query Hit/MRR improve with archived normalization, but no final objective-based selection has occurred.
+BFP_fee_case: NOT_FULLY_RESOLVED: combined candidate formula rank3, exception rank42. With punctuation only, archived B formula rank11, exception rank34.
+next_step: Evaluate the punctuation candidate using Chapter 3 Context Precision across all 15 office-language cells; investigate remaining normalization and evidence-coverage limitations before any freeze.
+held_out_accessed: False
+app_defaults_changed: False
+freeze: False

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What are the fees and processing timelines when requesting an official master list of registered businesses from the Business Bureau?"
+  ],
+  "answer": [
+    "Based on the provided sources, there are no explicit fees mentioned for requesting an official master list of registered businesses from the Business Bureau. However, the processing time for this service is not specified in the given sources. [S1]\n\nFor the City Planning Office, there are no fees mentioned for the issuance of a Certification or Certified True Copy of a document or Master List. The processing time for this service is also not specified in the given sources. [S2]\n\nRegarding the BFP, there are no specific fees or processing times mentioned for the request of an official master list of businesses. The BFP encourages Local Government Units (LGUs) to use a risk classification system and inspection prioritization scheme for businesses, but the details of this system are not provided in the given source. [S3]\n\nIn summary, the provided sources do not contain information about the fees and processing times for requesting an official master list of registered businesses from the Business Bureau, City Planning Office, or BFP.\n\n[S1] Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf | printed page 108 | chunk DEV120-BB-PDF0069-C002\n[S2] City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf | printed page 662 | chunk DEV120-CPDO-PDF0033-C002\n[S3] BFP-CITIZENS-CHARTER-2022.pdf | printed page None | chunk DEV120-BFP-PDF0001-C008"
+  ],
+  "contexts": [
+    [
+      "Records Staff\nBusiness Bureau\n2. Submits \nOfficial  \nReceipt, \nOrder of \nPayment, and \npertinent \ndocuments\n2. \nReceives \nOfficial \nReceipt, \nOrder of \nPayment, \nand \npertinent \ndocument\ns\nNone \n3 Minutes\nRecords/ EDP Personnel\nBusiness Bureau\n(c/o Ms. Marygel Babia\nfor Records and Mrs. Helen C.\nPore for EDP)\n1. Receives\nCertificate \nor \nCertified \nTrue Copy\n3.1 \nVerifies \nRecord / \nGenerates \nMaster \nList Data\nNone \n4 Minutes\n3.2 \nPrepares \nCertificatio\nn / \nCertified \nTrue Copy \n/ Master \nList\nNone \n30 Minute",
+      "conditions   of the   property. \n2.) Exception - a form of deviation which grants a property owner relief from certain \nprovisions of these rules when strict enforcement thereof would result in an \nunnecessary hardship or difficulty upon the owner. \n \nArticle XI Section 42 of the Integrated Zoning Ordinance states that the uses \nenumerated in the proceeding articles on general zone and all sub-zones are not \nexhaustive nor all-inclusive. The Sangguniang Panlungsod; upon application of \nproject proponent and upon favorable recommendation by Local Zoning Board of",
+      "9.1.4 of JMC No. 01 Series of 2021—To address the lack of personnel of inspection departments and agencies compared to the number of establishments, LGUs are encouraged to use a system of risk classification of various \nbusinesses and adopt an inspection prioritization scheme on this basis, in close coordination with the Department of Health for Sanitary Permits, the BFP for the Fire Safety Inspection Certificate for the issuance of uniform guidelines on \nrisk inspection for specific sectors. (BOSS)\nAGENCY ROW 1\n\nCLIENTS"
+    ]
+  ],
+  "ground_truth": [
+    "Requesting a master list of registered businesses costs PHP 50.00 plus PHP 20.00 per page. Processing takes 2 days without format modifications, and up to 13 days if technical parameters or formatting must be modified."
+  ]
+}

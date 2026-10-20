@@ -1,0 +1,9 @@
+BB-001: SOURCE REVIEW COMPLETE; REFERENCE NEEDS CORRECTION
+
+Compared rendered PDF pages 2-3 (printed 41-42) with the reference and existing chunks. Charter contains 20 NEW checklist rows; current answer omits items 7-12 and 15-20, simplifies cooperative document names, and invents a quantity for owned-premises proof.
+
+Read reference_candidate.txt and claim_source_map.json. before_after.diff shows exact proposed changes; group.before.json preserves the original. Add DEV120-BB-PDF0002-C005 for items 10-12. No extraction repair is needed for these rows.
+
+Assistant source review is not independent expert certification. No immediate manual action is required. Preserve source wording Cooperation and valid in the last 9 months.
+
+Candidate is saved separately: original labels and evaluation scores remain unchanged. One of the remaining 25 groups reviewed, 24 remain. Next: BB-002. Consolidate corrections into a new evaluation version before rescoring. T06 source validation remains open.

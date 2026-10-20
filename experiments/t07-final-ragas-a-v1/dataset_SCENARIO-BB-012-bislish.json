@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga clearances ug bayad para sa mga agency gawas sa Davao nga magpahigayon ug recruitment activity?"
+  ],
+  "answer": [
+    "Sa mga agency gawas sa Davao City na magpahigayon ug recruitment activity, ang mga clearances ug bayad nga kailangon sa ilahang pag-apply sa Business Bureau sa ilang recruitment activity sa Davao City ay nakatanggap sa mga susunod na mga dokumento:\n\n1. Certificate of Good Standing (1 original) - (From Department of Labor and Employment for Local and Philippine Overseas Employment Administration for Overseas) [S2, S3]\n2. Job Order Balances Report duly authenticated by POEA [S3]\n\nAng mga bayad sa ilahang mga dokumento ay hindi nakalalaman sa mga nakalagay na source blocks. Ako, eBOSS, ay hindi maaaring magbigay ng impormasyon tungkol sa mga bayad sa mga dokumento kundi sa mga nakalagay na source blocks. Wala akoy nakit-an nga impormasyon bahin niini sa Citizens' Charter tungkol sa mga bayad."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "JONG\n1. Barangay Clearance \nBarangay Hall\n2. Cedula \nCity Treasurer’s Office\nRECRUITMENT ACTIVITY FOR RECRUITER AND/OR RECRUITMENT AGENCIES \nNOT BASED IN DAVAO CITY\n1. Certificate of Good Standing (1 original)  \n(From Department of Labor and \nEmployment for Local and \nPhilippine Overseas \nEmployment Administration for \nOverseas)",
+      "PERTINENT DOCUMENTS TO BE SUBMITTED SPECIAL PERMIT\nAPPLICATION TO BUSINESS BUREAU\n1. Specific requirements:\n1. Barangay Resolution for concerts, shows or events in open areas (1 original)\n2. Barangay Clearance and cedula for Mahjong (1 original)\n3. Recruitment Activity for recruiter and/or recruitment agencies not based in\nDavao City:\n1.  Certificate of Good Standing (1 original) - (From DOLE for local and POEA\nfor overseas)\n2. Job Order Balances Report duly authenticated by POEA,"
+    ]
+  ],
+  "ground_truth": [
+    "Recruitment activities by agencies not based in Davao City require a Certificate of Good Standing from DOLE/POEA, POEA-authenticated Job Order Balances Report, PESO No Objection Certificate, and POEA Special Recruitment Authority. The fee is PHP 1,000.00 (overseas) or PHP 1,200.00 (local) per schedule."
+  ]
+}

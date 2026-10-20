@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Tagpila ang processing fee ug inspection fee matag ektarya para sa Preliminary Subdivision Development Plan (PSDP)?"
+  ],
+  "answer": [
+    "Wala akong impormasyon bahin sa Citizens' Charter tungkol sa Preliminary Subdivision Development Plan (PSDP) tungkol sa pagpapatupad ng processing fee at inspection fee matag ektarya.\n\nSa mga source na nabigyan ng pagpapahayag, wala nakit-an ang impormasyon tungkol sa processing fee at inspection fee matag ektarya para sa PSDP.\n\n[S1] City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf | printed page 714 | chunk DEV120-CPDO-PDF0085-C001\n[S2] City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf | printed page 704 | chunk DEV120-CPDO-PDF0075-C001\n[S3] BFP-CITIZENS-CHARTER-2022.pdf | printed page None | chunk DEV120-BFP-PDF0001-C001\n\nSa mga ito, ang impormasyon tungkol sa PSDP ay nakalagay sa ilalim ng Preliminary Approval at Locational Clearance (PALC) at Development Permit (DP), pero wala nakit-an ang impormasyon tungkol sa processing fee at inspection fee matag ektarya."
+  ],
+  "contexts": [
+    [
+      "15. Preliminary Subdivision Development Plan (PSDP) and \nDevelopment Permit (DP) for Mall, Condominium, Hotel and \nApartment \nArticle XI Section 1 of the Zoning Ordinance states that the projects that listed below \nare required to secure Preliminary Approval and Locational Clearance (PALC) and \nDevelopment Permit (DP) from the Sangguniang Panlungsod which shall be granted \nthrough a resolution by majority votes of all its members. \n \n(For Mall, Condominium, Warehouse, Hotel, Apartment) \nOffice or Division \nCity",
+      "14. Preliminary Subdivision Development Plan (PSDP) and \nDevelopment Permit (DP) for High End, Low End, Farm Lot and \nMemorial Park \nAn application for subdivision approval based on BP 220, PD 957, and other related \nlaws. Executive Order No. 71, Series of 1993, pursuant to RA 7160, was signed into \nlaw to devolve the powers of the Housing Land Use Regulatory Board to approve \nsubdivision plans to the cities through the City Housing Land Use and Regulatory \nUnit as the technical arm of the Sang",
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -"
+    ]
+  ],
+  "ground_truth": [
+    "Applying for a Preliminary Subdivision Development Plan (PSDP) incurs a processing fee of PHP 360.00 per hectare, and an inspection fee of PHP 1,500.00 per hectare."
+  ]
+}

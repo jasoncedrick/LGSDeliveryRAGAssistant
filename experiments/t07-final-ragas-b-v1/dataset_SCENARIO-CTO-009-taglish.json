@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang mga kailangang dalhin at magkano ang bayad para kumuha ng Tax Clearance sa amilyar sa City Treasurer?"
+  ],
+  "answer": [
+    "Ang mga kailangang dalhin para kumuha ng Tax Clearance sa City Treasurer ay:\n\n1. Tax Declaration / Declaration of Real Property Tax Valuation (makakuha sa Office ng City Treasurer (CTO) – Real Property Tax Division at iba pang CTO District Offices) [S1, S2]\n2. Tax Order of Payment (magkukuha sa Real Property Tax Division, CTO Sangguniang Panlungsod (CTO Poblacion) o sa iba pang CTO District Offices) [S3]\n\nAng bayad para sa Tax Clearance ay hindi nakalaman sa mga nabanggit na source blocks. Ako'y hindi nakakita ng impormasyon tungkol dito sa Citizens' Charter. (Wala akoy nakit-an nga impormasyon bahin niini sa Citizens' Charter.)"
+  ],
+  "contexts": [
+    [
+      "14. Payment for Real Property Tax (RPT) Clearance\nStatement of Account issued to clients for payment/ issuance of Tax Clearance (Local \nRevenue Code of Davao City). \nOffice or Division \nOffice of the City Treasurer (CTO) – Real Property Tax \nDivision and CTO District Offices\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail \nAll real property owners in Davao City\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Tax Declaration /Declaration of \nReal Property Tax Valuation",
+      "5.  Real Property Tax (RPT) Certification\nOrder of Payment (SOA), Payment, and issuance of Tax Clearance (Local Revenue Code of \nDavao City). \nOffice or Division \nOffice of the City Treasurer (CTO) – Real Property Tax Division \nand Other CTO District Offices\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail \nAll\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Tax Declaration/Declaration of Real\nProperty Tax Valuation (DRPV) – 1 \nphotocopy",
+      "to the RPT \nDivision.)\n1. Provide the\npriority number \nand advise the \nclient to wait \nuntil their \nnumber is \ncalled.\nNone \n2 Minutes \nTicket Checker\nAssigned \nPersonnel\n(CTO District\nOffices)\n2. Present all\nrequired \ndocuments at \nthe Real \nProperty Tax \nDivision, CTO \nSangguniang \nPanlungsod \n(CTO \nPoblacion) or \nthe respective \nCTO District \nOffices.\n2. Verify the\ndocuments, \nretrieve the \npayment \nhistory, and \nissue the Tax \nOrder of \nPayment for \nthe Tax \nClearance \nFee at \nCounter 8, \nReal \nProperty Tax \nDivision \n(CTO"
+    ]
+  ],
+  "ground_truth": [
+    "Securing an RPT Tax Clearance requires a photocopy of the Tax Declaration from the City Assessor. After verifying payment history and settling outstanding dues, the tax clearance is approved and released with a PHP 50.00 certification fee."
+  ]
+}

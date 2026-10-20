@@ -1,0 +1,24 @@
+{
+  "status": "SOURCE_INSPECTION_COMPLETE_WITH_OPEN_ISSUES",
+  "batch_review_count": 20,
+  "total_provisional_reviews": 25,
+  "remaining_uninspected_provisional_groups": 0,
+  "remaining_uncertified_groups": [
+    "SCENARIO-CTO-002",
+    "SCENARIO-OCBO-001",
+    "SCENARIO-CPDO-002",
+    "SCENARIO-OCBO-005"
+  ],
+  "important_fixes": [
+    "CTO001 actual Annex9 evidence replaces weights/measures IDs.",
+    "BFP002 zero-assessment exception restored; occupancy fire-insurance association not supported by matrix dot.",
+    "BFP003 processing times are days, not working days; correct classification evidence replaces fee chunks.",
+    "OCBO plans/forms quantities and missing conditional rows corrected without inventing mechanical-row rule."
+  ],
+  "BFP_context": "Inspected matrix, application forms, fee panel, notes and image panel. Side-label context remains detached in current corpus; not a certification of complete retrieved context.",
+  "next": "Resolve flagged source claims using official clarification; consolidate reviewed candidates into a new evaluation version with unresolved cases explicitly flagged before rescoring archived retrieval. Do not silently exclude unresolved cases or merge diagnostic retries into original RAGAS averages.",
+  "T06": "Harness execution remains established; source inspection now complete, but validation is qualified by unresolved source issues.",
+  "T07": "No tuning, A/B/C run or freeze performed.",
+  "methodology": "120/20 token rules, chunk-level scoring and K3/K5 unchanged; held-out and app defaults unchanged.",
+  "latest_user_directions": "Four priority groups updated per user directions. Literal source wording and user interpretations distinguished. No immediate further user confirmation required; not certified authoritative corrections."
+}

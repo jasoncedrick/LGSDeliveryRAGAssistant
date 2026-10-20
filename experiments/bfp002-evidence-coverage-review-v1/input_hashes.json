@@ -1,0 +1,8 @@
+{
+  "experiments\\punctuation-context-precision-format-retry-v2\\context_precision_grid.json": "d69e5bc890f40fc261f79c7af020120f6405054f16ffdbc24631aa1cf5a8f1b5",
+  "experiments\\punctuation-context-precision-format-retry-v2\\judge_verdicts.jsonl": "321c1124f5bfa11a031be0a829c906d902c688490859d3e9e723b8fce0ccfefe",
+  "experiments\\punctuation-context-precision-format-retry-v2\\rankings.jsonl": "af30e1eb9de8ba3f1ee566e1f6f618e4c6ec2faedb4549c3229300fdab18cad0",
+  "experiments\\punctuation-context-precision-format-retry-v2\\protocol.json": "aee81a1a78ddae9ac4faa16a6d4f847c5775f0bd0daa68acb3783c673fa8f177",
+  "experiments\\t06-formal-development-validation-v4\\development_groups.derived.json": "5fd1d4d9f86ccc1f7f3cbf8bd5018c9b88e0085bdd3935b20214eac9445ddfaf",
+  "experiments\\chapter3-table-repaired-development-v1\\corpus.json": "a0d996dd178eb681825880381741482001b72da5466b2effcf7b870a610017f3"
+}

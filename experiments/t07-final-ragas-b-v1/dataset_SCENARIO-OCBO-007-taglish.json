@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Anong mga dokumento at engineering plans ang kailangang ipasa sa OCBO bago mag-giba o magdemolish ng gusali?"
+  ],
+  "answer": [
+    "To build or demolish a structure, the following documents and engineering plans are required to be submitted to the Planning and Development Office (OCBO) of Davao City government:\n\n1. For building or occupancy permit:\n   - Submit the documents and plans to the Planning and Development office for evaluation and approval as stated in [S1] and [S2]. The total processing time is 19 days, 6 hours, and 25 minutes.\n\n2. For demolition permit:\n   - Submit the documents and plans to the Planning and Development office for evaluation and approval as stated in [S3]. The total processing time is 10 days, 2 hours, and 23 minutes.\n\nWala akoy nakit-an nga impormasyon bahin niini sa Citizens' Charter tungod sa mga permit na di nakalistado sa mga nakalabas na source blocks."
+  ],
+  "contexts": [
+    [
+      "Official Receipt (OR) \ndocuments, OP \nand OR \n  \n \n \n \n5.2 Forward to \nPED Chief for \nFinal \nRecommendation \n  \n5.3 Forward to \nBuilding Official \n(BO) for signing \nand approval \n  \n5.4 Stamp \nSidewalk \nOccupancy \nPermit number on \nplans and \ndocuments \n     \n \n \n5.5 Notify client \nthat approved \nplans and \ndocuments are \nready for claiming\n4 Hours\n1 Day\n4 Hours\n10 Minutes\nPlanning and \nDevelopment\nOCBO\nPED Chief –\nOCBO\nBuilding Official –\nOCBO\nEngineering Staff\nRecords\nCustodian –\nOCBO\nRecords\nManagement \nAssistant –\nOCBO\n6. Claim the approved plans \nand",
+      "al Assistant on\nPlanning and \nDevelopment\nRecords Personnel –\nOCBO\nPED Chief – OCBO\nBuilding Official – OCBO\nEngineering Staff\nRecords Custodian –\nOCBO\nRecords Management\nAssistant – OCBO\n6. Claim the approved \nplans and documents \nwith Building Permit \nNumber\n6. Release \napproved plans \nand documents to \nclient\nNone \n5 Minutes \n Records Management \nAssistant – OCBO\nTOTAL: \n*Please\nrefer \nbelow\n19 Days, 6\nHours, and 25\nMinutes",
+      "Minutes\nTechnical Assistant\non Planning and\nDevelopment\nRecords Personnel\n– OCBO\nPED Chief – OCBO\nBuilding Official –\nOCBO\nEngineering Staff,\nRecords Custodian\n– OCBO\nRecords\nManagement\nAssistant – OCBO\n6. Claim the approved \nplans and documents with \nDemolition Permit Number\n6. Release \napproved plans \nand documents to \nclient\nNone \n5 Minutes \nRecords\nManagement\nAssistant – OCBO\nTOTAL:\n*Please\nrefer \nbelow\n10 Days, 2\nHours, and 23\nMinutes"
+    ]
+  ],
+  "ground_truth": [
+    "A Demolition Permit requires a demolition form, 3 sets of civil/architectural plans signed and sealed by a civil engineer/architect, vicinity sketch plan by a geodetic engineer, bill of materials, owner ID, and DPWH clearance if along a national highway."
+  ]
+}

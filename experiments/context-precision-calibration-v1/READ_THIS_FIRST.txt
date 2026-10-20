@@ -1,0 +1,45 @@
+OFFLINE CONTEXT PRECISION CALIBRATION
+
+60 source-grounded controls; two positive and two negative contexts in each of 15 office-language cells. All labels declared and hashed before new calls.
+
+{
+  "baseline": {
+    "n": 60,
+    "valid": 60,
+    "invalid_or_error": 0,
+    "correct_valid": 32,
+    "accuracy_on_valid": 0.5333333333333333,
+    "correct_over_all_controls": 0.5333333333333333,
+    "TP": 29,
+    "FN": 1,
+    "TN": 3,
+    "FP": 27,
+    "raw_false_positives_including_invalid_quotes": 27,
+    "raw_false_negatives_including_invalid_quotes": 1,
+    "failure_types": {}
+  },
+  "evidence_candidate": {
+    "n": 60,
+    "valid": 3,
+    "invalid_or_error": 57,
+    "correct_valid": 3,
+    "accuracy_on_valid": 1.0,
+    "correct_over_all_controls": 0.05,
+    "TP": 3,
+    "FN": 0,
+    "TN": 0,
+    "FP": 0,
+    "raw_false_positives_including_invalid_quotes": 24,
+    "raw_false_negatives_including_invalid_quotes": 2,
+    "failure_types": {
+      "INVALID_SCHEMA": 53,
+      "QUOTE_NOT_IN_CONTEXT": 4
+    }
+  }
+}
+
+Review raw_false_positives_including_invalid_quotes as well as FP. A judge can quote real but irrelevant text; quotes alone are not semantic validation. Invalid or missing outputs are not converted to zero scores.
+
+No original RAGAS scores, answer/reference records, retrieval settings or held-out files were changed. No revised evaluator is promoted automatically. Any accepted evaluator revision must be applied identically to baseline and candidate before reselecting retrieval settings.
+
+See controls.json for source pages and label rationales; results.jsonl for full prompts and outputs; summary.json for all 15 office-language cells.

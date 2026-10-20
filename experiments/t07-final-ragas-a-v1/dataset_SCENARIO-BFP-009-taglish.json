@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang proseso para sa bagong negosyo kapag walang valid na FSIC na nakuha noong occupancy permit stage?"
+  ],
+  "answer": [
+    "Sa bag-ong negosyo, kung walang valid na Fire Safety Inspection Certificate (FSIC) na nakuha noong stage ng Occupancy Permit, ang proseso ay nakakita sa [S2] at [S3] ng BFP-Citizens Charter 2022. Ang proseso ay hindi napagkakatiwalaan bilang simple transaction, kaya ang mahaba ang proseso at ang mga kailangan na dokumento. [S2] ang nakakatayo ng matrix na nakakatakda ng mga pangunahing proseso para sa bagong negosyo kung walang valid na FSIC noong Occupancy Permit stage. Ang [S3] ay nakakatayo ng matrix na nakakatakda ng iba't ibang mga kondisyon sa pagpapalit ng Business Permit, kasama ang walang valid na FSIC o expired FSIC. Ang mga kailangan na dokumento at mga proseso sa [S3] ay maaaring mas mahaba kaysa sa [S2] dahil sa mga iba't ibang kondisyon na nakakatakda ng mga pangunahing proseso."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "Assessment of Business Permit Fee/ Tax Assessment Bill from              \nBusiness Processing and Licensing Office (BPLO)\n[REPRESENTATION: Matrix dot shown for: NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC",
+      "any\n[REPRESENTATION: Matrix dot shown for: NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE N"
+    ]
+  ],
+  "ground_truth": [
+    "If a new business permit applicant has no valid FSIC from the occupancy stage, they must submit the Unified Application Form (BOSS) and tax assessment bill, pay the 15% FSIF, and undergo a joint ocular inspection by the BFP."
+  ]
+}

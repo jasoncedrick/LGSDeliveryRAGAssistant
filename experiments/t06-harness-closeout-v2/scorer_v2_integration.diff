@@ -1,0 +1,34 @@
+--- before
++++ after
+@@ -73,6 +73,15 @@
+             'Each array element must contain a statement, reason, and the exact key "Attributed" with value "1" or "0". '
+             'Do not wrap the array in question, answer, classification, or any other object. Do not include markdown.')
+         metrics_by_name['context_recall'].context_recall_prompt.instruction+=' '+recall_schema_instruction
++    context_precision_evaluator={'version':'original_ragas_prompt','format_retry_limit':0}
++    if args.context_precision_v2:
++        from src.ragas_context_precision_v2 import GroundedContextPrecision
++        from src.context_precision_judge_v2 import VERSION,PROMPT_TEMPLATE
++        metric=GroundedContextPrecision()
++        metric.format_retry_limit=1
++        metric.audit_sink=lambda value: AuditCallback().save(value)
++        metrics_by_name['context_precision']=metric
++        context_precision_evaluator={'version':VERSION,'prompt_template_sha256':hashlib.sha256(PROMPT_TEMPLATE.encode()).hexdigest(),'format_retry_limit':1,'contract_failures':'Recorded in judge_calls.jsonl; final invalid outputs remain null','status':'Opt-in development-calibrated evaluator; not independent expert validation'}
+     embeddings=None
+     if 'answer_relevancy' in args.metrics:
+         from langchain_core.embeddings import Embeddings
+@@ -93,6 +102,7 @@
+           'same_generator_and_judge_model':True,'max_workers':1,'max_retries':0,'held_out_accessed':False,
+           'judge_output_tokens':args.judge_output_tokens,'judge_timeout':args.judge_timeout,
+           'faithfulness_schema_instruction':faithfulness_schema_instruction,
++          'context_precision_evaluator':context_precision_evaluator,
+           'context_recall_schema_instruction':recall_schema_instruction,
+           'metric_output_contract':format_contract})
+     scored=[]
+@@ -145,6 +155,7 @@
+     p.add_argument('--input-subdir',choices=['A','B','C'],help='Paired development configuration folder')
+     p.add_argument('--judge-output-tokens',type=int,default=1024)
+     p.add_argument('--judge-timeout',type=int,default=90)
++    p.add_argument('--context-precision-v2',action='store_true',help='Opt-in separated-evidence judge with one audited format retry; original evaluator remains default')
+     p.add_argument('--strict-faithfulness-json',action='store_true',help='Evaluator-only schema retry; retain original failed scores')
+     p.add_argument('--strict-metric-json',action='store_true',help='Opt-in versioned format instructions for precision and relevancy; preserve original outputs')
+     p.add_argument('--strict-recall-json',action='store_true',help='Versioned evaluator-only JSON schema instruction; retain earlier failures')

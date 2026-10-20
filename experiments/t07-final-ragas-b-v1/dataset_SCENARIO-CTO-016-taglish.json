@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Paano kinokwenta ang buwis para sa mga car dealers at sa benta ng kanilang spare parts sa Davao?"
+  ],
+  "answer": [
+    "Sa mga car dealers, ang buwis ay kinokwenta sa ibabaw na paraan:\n\n1. Sa mga car dealers na may valid at nakatagong dealership agreement at nagbebenta ng bagong sasakyan at original na bahagi, ang buwis ay kinokwenta sa mga susunod na paraan:\n   - Pag hindi pa ibabaw ang Php 100,000,000.00, walang buwis.\n   - Kapag nasa Php 100,000,000.00 hanggang ibabaw, ang buwis ay 90% ng ito. [S2, S3]\n\n2. Sa mga car dealers na may valid at nakatagong dealership agreement at nagbebenta ng spare parts, ang buwis ay kinokwenta sa mga susunod na paraan:\n   - Pag hindi pa ibabaw ang Php 2,000,000,000.00, ang buwis ay Php 12,402,500.00 plus 22.0% ng 1.0% ng kasinungalingan na buwis sa kasamaan ng Php 2,000,000,000.00 at ibabaw. [S1]\n   - Kapag nasa Php 3,000,000,000.00 hanggang ibabaw, ang buwis ay Php 14,602,500.00 plus 11% ng 1.0% ng kasinungalingan na buwis sa kasamaan ng Php 3,000,000,000.00 at ibabaw. [S1]\n\nSa spare parts at serbisyo ng mga car dealers na may valid at nakatagong dealership agreement, ang buwis ay kinokwenta sa susunod na paraan:\n   - Ang buwis ay 0% kung hindi pa ibabaw ang Php 100,000,000.00. [S2]"
+  ],
+  "contexts": [
+    [
+      "receipts in excess of Php \n100,000,000.00\nPhp 2,000,000,000.00 \nPhp 3,000,000,000.00 \nPhp 12,402,500.00 plus \n22.0% of 1.0% of gross \nreceipt in excess of Php \n2,000,000,000.00\nPhp 3,000,000,000.00 \nand above \nPhp 14,602,500.00 plus \n11% of 1.0% of gross \nreceipts in excess of Php \n3,000,000,000.00\ni.2 On Spare Parts and Services of Car Dealers with Valid and Existing Dealership \nAgreement, tax rate is as follows:\nSPARE",
+      "ing not otherwise stated in this code.\n(i) On Authorized Franchise Car Dealers\nImposition of Tax – There is hereby levied an annual tax on the following business \nundertakings at the rates prescribed herein:\ni.1 On Car Dealers engaged in the business of selling brand new vehicles and \ngenuine parts pursuant to a valid and existing dealership agreement with manufacturers \nand distributors shall be taxed as follows:\nCAR DEALERS\nFrom \nTo Less Than \nAnnual Tax\nPhp 0 \nPhp 100,000,000.00 \n90.",
+      "80 \n6.80 \n5.40\n11. Miscellaneous and all other\nPermanent stalls/booths \nspecial services not subject \nto any particular market fee \nbut shall pay rental fees for \noccupancy\n16.00 \n10.80 \n6.80 \n5.40\nThere shall be collected from persons, corporations, partnerships or entities offering \nfor sale merchandise in jeepneys, pick-ups, trucks, bancas, fishing boats or any other \nconveyances including wholesalers and suppliers parked or displayed at or within the \nvicinities of the public markets or in"
+    ]
+  ],
+  "ground_truth": [
+    "Brand new car dealerships are taxed at 90.75% of 1% (up to 100M gross sales) scaling down to PHP 14.6M + 11% of 1% for sales over 3 Billion. Dealership spare parts are taxed at 2.2% (under 10M) down to 60.50% of 1% (above 30M)."
+  ]
+}

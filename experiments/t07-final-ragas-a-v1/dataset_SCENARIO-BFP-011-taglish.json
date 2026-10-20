@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Paano nakikipagtulungan ang BFP sa backroom operations ng eBOSS para sa one-time assessment at bayaran?"
+  ],
+  "answer": [
+    "Ang BFP na nakikipagtulungan sa backroom operations ng eBOSS para sa isang beses na assessment at bayaran ay sa pamamagitan ng pag-share ng impormasyon. Para sa OSCP/BOSS, ang pagbayad at pag-issue ng Official Receipt (OR) ay ginagawa sa loob ng backroom operation. Ang detalye ng proseso ay maaaring nakakita sa [S2] at [S3] sa BFP-CITIZENS-CHARTER-2022.pdf."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "applicant queuing number and issue OPS.\nFor OSCP/BOSS : Backroom operation with\nOSCP/BOSS for one-time assessment thru\nsharing of information\n\nPROCESSING TIME: maximum of ten (10) minutes\n\nPERSON RESPONSIBLE: Fire Code Assessor\n(FCA)\n\nAGENCY ROW 3\n\nCLIENTS STEP: 3. Present the OPS and pay the corresponding\nFire Code Fees indicated in the OPS.\nUpon receipt of the OR, proceed to releasing\nwindow to claim the stub by presenting the OR.\nNote: Re",
+      "proceed to releasing\nwindow to claim the stub by presenting the OR.\nNote: Releasing date and time of FSEC is\nindicated in the claim stub.\n\nAGENCY ACTION: 3. Collect the payment and issue Official\nReceipt (OR)\nFor OSCP/BOSS : Backroom operation with\nOSCP/BOSS for one-time payment thru\nco-location\nFor Local Stations with MOA with the LGUs, fire\ncode fees/taxes shall be collected by the LGUs\n\nPROCESSING TIME: maximum of ten (10) minutes\n\nPERSON"
+    ]
+  ],
+  "ground_truth": [
+    "Under the eBOSS backroom framework, BFP coordinates with the LGU via automated information sharing for one-time assessment within a maximum of 10 minutes, and co-located one-time payment within 10 minutes."
+  ]
+}

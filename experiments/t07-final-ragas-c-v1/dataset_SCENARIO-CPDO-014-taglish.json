@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Magkano ang processing fee at inspection fee kada hektarya para sa Preliminary Subdivision Development Plan sa CPDO?"
+  ],
+  "answer": [
+    "Ang processing fee at inspection fee kada hektarya para sa Preliminary Subdivision Development Plan (PSDP) sa CPDO ay PHP 360.00 para sa PSDP at PHP 1,500.00 para sa Inspection Fee, bilang nabasa sa [S3]. Ang Development Permit (DP) ay may processing fee at inspection fee na PHP 2,880.00 per hectare, bilang nabasa sa iba't ibang mga source na hindi nakalagay sa inyong tanong."
+  ],
+  "contexts": [
+    [
+      "14. Preliminary Subdivision Development Plan (PSDP) and \nDevelopment Permit (DP) for High End, Low End, Farm Lot and \nMemorial Park \nAn application for subdivision approval based on BP 220, PD 957, and other related \nlaws. Executive Order No. 71, Series of 1993, pursuant to RA 7160, was signed into \nlaw to devolve the powers of the Housing Land Use Regulatory Board to approve \nsubdivision plans to the cities through the City Housing Land Use and Regulatory \nUnit as the technical arm of the Sang",
+      "15. Preliminary Subdivision Development Plan (PSDP) and \nDevelopment Permit (DP) for Mall, Condominium, Hotel and \nApartment \nArticle XI Section 1 of the Zoning Ordinance states that the projects that listed below \nare required to secure Preliminary Approval and Locational Clearance (PALC) and \nDevelopment Permit (DP) from the Sangguniang Panlungsod which shall be granted \nthrough a resolution by majority votes of all its members. \n \n(For Mall, Condominium, Warehouse, Hotel, Apartment) \nOffice or Division \nCity",
+      "Minutes \n \nZoning Officer\nIV\nCPDO\n1.3 Upon initial \nassessment of \ndocuments, if \ncomplete, issues \nOrder of \nPayment for \nProcessing Fee\nProcessin\ng Fee: \nPSDP: \nPHP\n360.00\nper\nhectare\nDP: PHP \n2,880.00\nper\nhectare\nInspection\nFee: \nPSDP: \nPHP\n1,500.00\nper\nhectare\nDP: PHP \n2,880.00\nper\nhectare\n10 Minutes"
+    ]
+  ],
+  "ground_truth": [
+    "Applying for a Preliminary Subdivision Development Plan (PSDP) incurs a processing fee of PHP 360.00 per hectare, and an inspection fee of PHP 1,500.00 per hectare."
+  ]
+}

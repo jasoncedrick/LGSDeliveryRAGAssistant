@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ka sets sa building plan ug unsa nga mga papeles ang kinahanglan para sa Locational Clearance sa 2-storey nga balay?"
+  ],
+  "answer": [
+    "Sa 2-storey nga balay, hinihingi nga 7 ka sets sa building plan para sa Locational Clearance. Ang mga papeles na kinahanglan nga ipasok sa mga set sa building plan sa [S3] City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf, chunk DEV120-CPDO-PDF0011-C003. Ang mga papeles na kinahanglan nga ipasok sa mga set sa building plan sa inyo ay:\n\n1. Filled-up title blocks (1 set)\n2. Signed and sealed by CE / Architect (1 set)\n3. Certified True Copy of Title issued by the Registry of Deeds (ROD) o show original copy of title for validation (1 original for validation, 1 photocopy) (1 set)\n4. Locational Clearance Application duly notarized and signed by the applicant (1 photocopy) (1 set)"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "3. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (2-Storey Buildings and Below and \n1,500 Building Floor Area and Below) \nFor 2-storey buildings and below and for building floor area of 1,500 square meters \nand below only. \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator.  \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nSimple\nType of Trans",
+      "DO\n4. SPA from the building owner to \nprocess application for Locational \nClearance\nApplicant\n5. Seven (7) complete sets of Building \nPlans (original copy) \na. Filled-up title blocks \nb. Signed and sealed by CE / Architect\nApplicant\n6. Certified True Copy of Title issued \nby the Registry of Deeds (ROD) or \nshow original copy of title for validation \n(1 original for validation, 1 photocopy)\nRegistry of Deeds\n7. Locational Clearance Application \nduly notarized and signed by the \napplicant (1 photocopy)"
+    ]
+  ],
+  "ground_truth": [
+    "Locational Clearance for 2-storey and below structures requires 7 complete sets of building plans signed/sealed by a civil engineer/architect, certified title, notarized application, vicinity sketch, bill of materials, and building permit form. Total time is 4 days, 2 hours."
+  ]
+}

@@ -1,0 +1,2 @@
+V4 REVIEWED DEVELOPMENT REFERENCES
+All 30 groups / 90 queries retained. 25 reviewed candidates consolidated; 5 previously corrected references retained. User interpretations and source limitations remain explicit. Original v3, generated answers, contexts and rankings unchanged. per_query_metrics.csv rescored at K3/K5. This is a label correction, not improved/reduced retrieval performance. Independent expert certification and final freeze remain separate.

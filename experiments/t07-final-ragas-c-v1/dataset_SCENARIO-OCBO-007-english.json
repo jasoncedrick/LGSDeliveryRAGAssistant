@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What engineering plans and clearances are mandatory when applying for a Demolition Permit from OCBO?"
+  ],
+  "answer": [
+    "To apply for a Demolition Permit from the Office of the City Building Official (OCBO), the following engineering plans and clearances are mandatory:\n\n1. Civil/Architectural Plans of the building or structure to be demolished (as per [S1] and [S2]).\n\nAdditionally, the following documents are also required:\n\n1. Order of Payment (OP) and Official Receipt (OR) (as per [S1]).\n\nFor more information, please refer to the Citizens' Charter 2026, specifically the OCBD pages from Volume I & II-2, printed pages 553 and 558, chunks DEV120-OCBO-PDF0065-C001 and DEV120-OCBO-PDF0070-C001 to DEV120-OCBO-PDF0070-C002."
+  ],
+  "contexts": [
+    [
+      "5. Resubmit plans and \ndocuments along with \nOrder of Payment and \nOfficial Receipt (OR)\n5.1 Receive \nplans, \ndocuments, OP \nand OR \n  \n \n \n5.2 Forward to \nPED Chief for \nFinal \nRecommendation \n  \n5.3 Forward to \nBuilding Official \n(BO) for signing \nand approval \n  \n \n5.4 Stamp \nDemolition Permit \nnumber on plans \nand documents \n  \n \n \n5.5 Notify client \nthat approved \nplans and \ndocuments are \nready for claiming\nNone \n30 Minutes\n4 Hours\n1 Day\n4 Hours\n10 Minutes\nTechnical Assistant\non Planning and\nDevelopment\nRecords Personnel\n– OCBO\nPED Chief –",
+      "Minutes\nTechnical Assistant\non Planning and\nDevelopment\nRecords Personnel\n– OCBO\nPED Chief – OCBO\nBuilding Official –\nOCBO\nEngineering Staff,\nRecords Custodian\n– OCBO\nRecords\nManagement\nAssistant – OCBO\n6. Claim the approved \nplans and documents with \nDemolition Permit Number\n6. Release \napproved plans \nand documents to \nclient\nNone \n5 Minutes \nRecords\nManagement\nAssistant – OCBO\nTOTAL:\n*Please\nrefer \nbelow\n10 Days, 2\nHours, and 23\nMinutes",
+      "10. Issuance of Demolition Permit\nA Demolition Permit shall be required prior to the demolition of any building or structure.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; \nG2G – Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1.     Demolition Form with 3 sets of \nCivil/Architectural Plans of the fence duly signed"
+    ]
+  ],
+  "ground_truth": [
+    "A Demolition Permit requires a demolition form, 3 sets of civil/architectural plans signed and sealed by a civil engineer/architect, vicinity sketch plan by a geodetic engineer, bill of materials, owner ID, and DPWH clearance if along a national highway."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "selected_weights": [
+    0.75,
+    0.25,
+    0.0
+  ],
+  "selected_k": 3,
+  "candidate_J": 0.8703703703360186,
+  "taglish_grid_conditions": 34,
+  "taglish_conditions_retrieving_both": 0,
+  "by_language": {
+    "english": {
+      "conditions": 34,
+      "both_found": 0
+    },
+    "taglish": {
+      "conditions": 34,
+      "both_found": 0
+    },
+    "bislish": {
+      "conditions": 34,
+      "both_found": 0
+    }
+  },
+  "selected_90_query_discordance_flags": 18,
+  "confirmed_taglish_unsupported_judge_positives": 3,
+  "decision": "HOLD_PROMOTION_AND_FREEZE_PENDING_EVALUATOR_CALIBRATION",
+  "next_step": "Calibrate offline Context Precision judging with predeclared positive/negative evidence controls across all five service categories; apply any evaluator revision consistently to baseline and candidate before comparing objectives. Do not change the live response pipeline or substitute Hit Rate for the manuscript objective.",
+  "held_out_accessed": false,
+  "original_scores_changed": false,
+  "app_defaults_changed": false,
+  "independent_expert_certification": false
+}

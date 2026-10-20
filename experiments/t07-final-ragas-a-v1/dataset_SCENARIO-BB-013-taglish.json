@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang mga kailangan para makakuha ng Occupational Permit ang mga regular na empleyado at dayuhang manggagawa?"
+  ],
+  "answer": [
+    "To obtain an Occupational Permit as a regular employee or a foreign worker, the following requirements are needed based on [S2] and [S3] from the Business Bureau's Citizens Charter 2026:\n\n1. Submit an application for the Occupational Permit.\n2. If the application is approved, download the Occupational Permit from the online portal at https://occupationalpermit.davaocity.gov.ph/ or wait for the link to be sent via email or SMS. For walk-in applicants, physically claim the hard copy of the Occupational Permit.\n3. Pay the corresponding fee:\n   - Php125 for new and renewal applications\n   - Php156.25 for late renewal applications\n\nThe processing time for both online and onsite applications is approximately 14 minutes, while the total time to complete the process is around 33 minutes. If the application is denied, the applicant will receive the returned documents and may need to reapply."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "3.Receive \nOccupational Permit / \nDenied Application\nNote: \n If application is \napproved, proceed to \nhttps://occupationalper\nmit.davaocity.gov.ph/, \nselect Check \nApplication Status, and \ndownload the \nOccupational Permit, or \nproceed to the link \nautomatically sent by \nthe Online \nOccupational Permit \nSystem though e-mail \nor SMS and download \nthe Occupational \nPermit for online \napplicants. Physically \nclaim hard copy of \nOccupational Permit for \nwalk-in applicants.\nIn case of denial, \nreceive returned \ndocuments",
+      "nt to \nreapply.\nNone\n14 Minutes \n(Online and\nOnsite)\nOccupational\nPermit\nSection Head\nand\nOccupational\nPermit\nPersonnel\nBusiness \nBureau\nTOTAL:\nPhp125 \nfor new\nand\nupdated \nrenewal;\nPhp\n156.25 for\nlate\nrenewal\n33 Minutes"
+    ]
+  ],
+  "ground_truth": [
+    "An Occupational Permit is required for workers without a Professional Tax Receipt. General requirements: application form, Certificate of Employment, and Official Receipt from CTO (PHP 125.00). Foreigners must submit an Alien Employment Permit from DOLE."
+  ]
+}

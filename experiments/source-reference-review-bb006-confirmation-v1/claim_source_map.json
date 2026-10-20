@@ -1,0 +1,85 @@
+[
+  {
+    "claim": "ISP documents and Internet-Cafe-only cubicle limit",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0079-C004"
+    ],
+    "source_locations": [
+      {
+        "pdf_relative_page": 79,
+        "printed_page": 118
+      }
+    ],
+    "review_status": "assistant_visual_comparison_supported"
+  },
+  {
+    "claim": "Lighting, complete warning sign and content filtering",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0080-C001"
+    ],
+    "source_locations": [
+      {
+        "pdf_relative_page": 80,
+        "printed_page": 119
+      }
+    ],
+    "review_status": "assistant_visual_comparison_supported"
+  },
+  {
+    "claim": "Internet-Cafe-only permanently fixed webcams",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0080-C001",
+      "DEV120-BB-PDF0080-C002"
+    ],
+    "source_locations": [
+      {
+        "pdf_relative_page": 80,
+        "printed_page": 119
+      },
+      {
+        "pdf_relative_page": 80,
+        "printed_page": 119
+      }
+    ],
+    "review_status": "assistant_visual_comparison_supported"
+  },
+  {
+    "claim": "Drinks/cigarettes prohibition and ordinance copies",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0080-C002"
+    ],
+    "source_locations": [
+      {
+        "pdf_relative_page": 80,
+        "printed_page": 119
+      }
+    ],
+    "review_status": "assistant_visual_comparison_supported"
+  },
+  {
+    "claim": "Internet-Cafe-only headphones and toilet thresholds",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0080-C002"
+    ],
+    "source_locations": [
+      {
+        "pdf_relative_page": 80,
+        "printed_page": 119
+      }
+    ],
+    "review_status": "assistant_visual_comparison_supported"
+  },
+  {
+    "claim": "ICAB fee wording, Internet Cafe and Pisonet owners",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0081-C002"
+    ],
+    "source_locations": [
+      {
+        "pdf_relative_page": 81,
+        "printed_page": 120
+      }
+    ],
+    "review_status": "assistant_visual_comparison_supported"
+  }
+]

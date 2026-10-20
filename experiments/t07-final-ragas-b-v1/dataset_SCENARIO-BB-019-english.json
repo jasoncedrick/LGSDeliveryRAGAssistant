@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What progressive enforcement actions and notices are issued by the Business Bureau when a business fails ocular inspection?"
+  ],
+  "answer": [
+    "The Business Bureau issues the following progressive enforcement actions and notices when a business fails ocular inspection:\n\n1. Cancellation of the permit and forfeiture of fees: If the owner fails to perform corrective actions within the reasonable time provided by the Building Official, the Building Official or their duly authorized representative shall forthwith cancel the permit and the fees thereon shall be forfeited. [S2]\n\n2. Issuance of Internet Café Accreditation is a specific requirement for the issuance of Business Permit: Business activities being applied will be validated through ocular inspections. For Internet Cafes, this procedure intends to issue Internet Café Accreditation to internet cafes and coin operated internet machine business operators who are compliant with internet café regulation requirement. [S1]"
+  ],
+  "contexts": [
+    [
+      "8. Ocular Inspection and ICAB Inspection\nBusiness activities being applied will be validated through ocular inspections. For Internet \nCafes, this procedure intends to issue Internet Café Accreditation to internet cafes and \ncoin operated internet machine business operators who are compliant with internet café \nregulation requirement. Internet Café Accreditation is a specific requirement for the \nissuance of Business Permit. \nOffice or \nDivision\nCity Mayor's Office – Permits & Licenses Division\nClassification Simple (Regular), Complex (Complaint), Highly Technic",
+      ", and the \nOwner fails to perform corrective actions within the reasonable time provided by the \nBuilding Official, the latter and/or their duly authorized representative shall forthwith \ncancel the permit and the fees thereon shall be forfeited.",
+      "2. Issuance of Business Permit \nIt shall be unlawful for any person or entity to conduct or engage in any business, \ntrade or occupation within the territorial jurisdiction of the City of Davao for which a \npermit is required for the proper supervision and enforcement of existing laws and \nordinances without first having secured a permit therefore from the City Mayor and \npaying the necessary fees to the City Treasurer.\nThe Business Permit is granted for a period of not more than one (1) year and shall \nexpire on the thirty-first (31st) of December"
+    ]
+  ],
+  "ground_truth": [
+    "Non-compliant businesses receive a 1st Notice of Violation with an inspection report. If uncorrected after re-inspection within 15 days, a 2nd and Final Notice with Cease-and-Desist Order is recommended. Continued non-compliance results in a physical Closure Order within 1 day."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Paano ang proseso ng pagbabayad sa BFP collecting agent at ilang minuto bago ma-release ang claim stub?"
+  ],
+  "answer": [
+    "Ang proseso ng pagbabayad sa BFP Collecting Agent ay nakakatagpo sa dalawang hakbang:\n\n1. Pagbayad: Ang bayad ay maaaring ibayad sa BFP Collecting Agent. Hindi maaaring nakit-an ang impormasyon kung saan maaari ito ibayad sa [S1].\n\n2. Pag-release ng claim stub: Ang claim stub ay maaaring ibigay ng BFP Collecting Agent sa loob ng maximum of five (5) minutes pagkatapos ng pagbayad. Ang impormasyon na ito ay maaaring nakit-an sa [S2]."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "xes shall be collected by the LGUs\n\nPROCESSING TIME: maximum of ten (10) minutes\n\nPERSON RESPONSIBLE: Fire Code Collecting Agent (FCCA)\n\nAGENCY ROW 4\n\nCLIENTS STEP: [shared client-step 3 cell; source wording appears in agency row 3]\n\nAGENCY ACTION: 4.Check copy of OR, record in the official\nlogbook/log sheet the details of the payment\n(e.g. OR number amount paid, etc.) and\nrelease the claim stub.\n\nPROCESSING TIME: maximum of five (5) minutes\n\nPERSON",
+      "Examination Interval (years): 6\nExtinguisher Type: AFFF (Aqueous Film-Forming Foam)\nInternal Examination Interval (years): *\n* The extinguishing agent in liquid charged-type AFF and FFFP extinguishers is replaced every 3 years and an internal examination (teardown) is normally conducted at that time. The agent in solid charged-type AFFF extinguishers is replaced every 5 years during the periodic hydrostatic test and the teardown is done at"
+    ]
+  ],
+  "ground_truth": [
+    "The Fire Code Collecting Agent (FFCC) collects fire fees, issues the Official Receipt within 10 minutes, records payment details in the official logbook, and releases the claim stub indicating the release date/time for the FSEC/FSIC within 5 minutes."
+  ]
+}

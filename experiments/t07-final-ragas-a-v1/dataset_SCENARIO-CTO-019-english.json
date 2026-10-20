@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What is the monthly payment deadline for public market stall rentals, and what penalties are imposed for delinquent payment?"
+  ],
+  "answer": [
+    "The monthly payment deadline for public market stall rentals is within the first twenty (20) days of the month. Failure to pay the rental within the required period may result in a surcharge [S1: Section 349]. The exact penalty for delinquency is not specified in the provided sources, but the text mentions that failure to pay on time subjects the lessee/occupant to a surcharge."
+  ],
+  "contexts": [
+    [
+      "Section 349\nMARKET FEES FOR AMBULANT/TRANSIENT VENDORS\nMarkets\nRate of Fees per \nSquare Meter of \nFraction Thereof\nper Day\nClass A \nP 8.00\nClass B \n6.00\nClass C \n4.00\nClass D \n2.00\nTime \nfor \nPayment \n/ \nPenalties \nfor \nDelinquency. \n- \nThe \nmonthly\nrentals for market stalls shall become due and payable within the first twenty (20) days of \nthe month. Failure to pay the rental within the period required herein shall subject the \nLessee/Occupant to a surcharge of twenty-fi",
+      "months.\nClass D \nThose with an average monthly income of less than P \n700,000.00 during the preceding six (6) months.\nSection 348\nMARKET RENTAL FEES, OTHER CHARGES\nThat for better located stall/stalls or booth/booths such as those facing the street or \nthose corner booth/stalls, the following will be added to the above-prescribed fees, as \nfollows:\n1. Front corner stall/stalls or\nbooth/booths  \n20% of the rates imposed\n2. Front stall/stalls or",
+      "TI Accreditation(mandatory)\nShipping Yard \nMaritime Industry Authority Certificate Of \nRegistration\nStall Holder \nNew Application: mandatory Stall Status \nand Market Clearance\nSubdivision Developer \nNew Application: mandatory HLURB \nLicense to Sell/Operate & SP Ordinance\nTechnical And Skills Training Center \nTechnical Education And Skills \nDevelopment Authority Accreditation\nTelephone Company \nNTC License To Operate\nTelevision Stations \nCongressional Franchise, Sangguniang \nPanlungsod Resolution\nTerminal Garage For Public Utility \nVehicles\nTraffic Management And Control Board / \nDa"
+    ]
+  ],
+  "ground_truth": [
+    "Monthly market stall rentals are due within the first 20 days of each month. Late payments incur a 25% surcharge on the rental fee plus an interest of 2% per month, not to exceed 36 months."
+  ]
+}

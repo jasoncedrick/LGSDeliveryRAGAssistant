@@ -1,0 +1,18 @@
+{
+  "question": [
+    "How is the Real Property Transfer Tax computed by the City Treasurer during property ownership transfers?"
+  ],
+  "answer": [
+    "The Real Property Transfer Tax (RPTT) computed by the City Treasurer during property ownership transfers is based on the following schedule:\n\n1. For every Five Thousand Pesos (P5,000.00) worth of real property in the Philippines owned by the applicant during the preceding year, a fee of Two (P2.00) Pesos is charged. [S1]\n2. Additionally, for every Five Thousand Pesos (P5,000.00) of gross receipts or earnings, an amount is charged, but the specific fee is not specified in the provided source. [S1]"
+  ],
+  "contexts": [
+    [
+      ", shall exceed Ten Thousand Pesos (P10,000.00) in \naccordance with the following schedule:\n(a) For every Five Thousand Pesos (P5,000.00) worth of real property in the\nPhilippines owned by it during the preceding year based on the valuation used in \nthe payment of real property tax under existing laws, found in the assessment rolls \nof this city where the real property is situated - Two (P2.00) Pesos; and\n(b) For every Five Thousand Pesos (P5,000.00) of gross receipts or earn",
+      "4. Real Property Tax Transfer Ownership with Certification\nAssessment issued to taxpayer for payment (Local Revenue Code of Davao City) \nCertification of Payment \nOffice or Division \nOffice of the City Treasurer (CTO) / Real Property Tax Division \n– Assessment / Cash Receipts Division – Collection / \nCertification and Other District Offices\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Title – Photocopy for\nverification only\nRegister of Deeds\n2. No",
+      "respective District \nOffices.\n4.2 Generate\nand sign \nthe Real \nProperty \nTransfer \nTax \nCertificatio\nn.\n1 Hour \nLocal Treasury\nOperations \nOfficer IV\n-or-\nCTO District \nTreasurers\n5. Client signs the\nlogbook as proof \nof Transfer Tax \nCertification \nrelease at \nWindow 10, \nRPTD, CTO SP \nOffice, or the \nrespective \nDistrict Offices.\n5. Release\nthe Real \nProperty \nTransfer \nTax \nCertificatio\nn to the \nclient.\nNone\n15 Minutes\nTicket Checker\n(CTO\nPoblacion)\n-or-\nAssigned \nPersonnel\n(CTO District\nOffices)\nTOTAL:\nAttach"
+    ]
+  ],
+  "ground_truth": [
+    "Transfer Tax on real property ownership requires title photocopy, notarized deed of transfer, and tax declaration. The transfer tax rate is 0.87% to 1.0% based on the total consideration or market value, whichever is higher, plus a PHP 50.00 certification fee."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Kailan kailangang mag-submit ng FSCR, FSCCR, at FSMR sa bombero at sinong practitioner ang dapat pumirma nito?"
+  ],
+  "answer": [
+    "The Fire Safety Compliance Report (FSCR), Fire Safety Compliance Certificate (FSCCR), and Fire Safety Maintenance Report (FSMR) should be submitted to the Bureau of Fire Protection (BFP). The Fire Safety Practitioner of the building owner or his/her authorized representative should sign the FSCR and FSMR [S1]. The FSCCR should be signed by the Contractor/Construction Manager and his/her Fire Safety Practitioner [S1].\n\nTo file a complaint against the BFP or any of its personnel, the citizen should provide the necessary details via email or other forms [S2].\n\nRegarding the submission of FSCR, FSCCR, and FSMR, there is no specific information provided about who the BFP practitioner should be that should sign these reports in the sources provided."
+  ],
+  "contexts": [
+    [
+      "test and acceptance forms of all fire protection and life safety features, which shall form part of the ―as-built‖\ndocuments turned over by the contractor to the building owner duly signed by the Contractor/Construction Manager and his/her Fire Safety Practitioner.\nNOTE (3) Fire Safety Maintenance Report (FSMR) - A written report prepared by the building owner, his/her fire safety practitioner or authorized representative duly signed by the Building Administrator and his/her Fire Safety Practitioner\nduring the regular annual fire safety inspection.",
+      "REDIT” nor Recommend any Brand, Store or Distributor of Fire\nExtinguisher and Fire Fighting Equipment\nAs per BFP Memorandum Circular No. 2016-016\nProhibition of BFP Personnel from Engaging in any act of impropriety and/or corruption pertaining to the enforce-\nment and implementation of the Fire Code and providing sanction thereof.\nHow to file a complaint\nTo file a complaint against the BFP or any of its personnel, the Client/Customer should provide the  following details via \nemail or other form of",
+      "justments and \nAppeals \n \n-If conditional \napproval clients \nare required to \nsubmit additional \nrequirements for \nthe sufficiency of \nthe application and \nthe conditions \nshould be \ncomplied with \nduring the \nbusiness \noperations \ncommence.\nNone \n5 Minutes\nActing\nAdministrative\nOfficer  \nCPDO"
+    ]
+  ],
+  "ground_truth": [
+    "FSCR/FSCCR/FSMR are required if the building/facilities/structures are required to install any or a combination of wet standpipe, automatic fire suppression, or automatic fire detection and alarm systems. FSCR consists of plans, specifications and design analysis per building, prepared and duly signed by the Engineer/Architect-of-Record and his/her Fire Safety Practitioner. FSCCR compiles approved submittals, test and acceptance forms for fire protection and life safety features as part of as-built documents turned over by the contractor to the owner; it is duly signed by the Contractor/Construction Manager and his/her Fire Safety Practitioner. FSMR is prepared by the building owner, his/her fire safety practitioner or authorized representative, and duly signed by the Building Administrator and his/her Fire Safety Practitioner during regular annual fire safety inspection. The matrix associates FSCR with FSEC, FSCCR with occupancy FSIC, and FSMR with new business without valid occupancy-stage FSIC and the two renewal columns; blank cells are not exemption statements."
+  ]
+}

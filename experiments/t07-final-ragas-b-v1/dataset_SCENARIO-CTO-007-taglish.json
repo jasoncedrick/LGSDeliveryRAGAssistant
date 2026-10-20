@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Magkano ang extraction fee kada cubic meter at annual fee sa quarrying ng buhangin at graba sa Davao?"
+  ],
+  "answer": [
+    "The extraction fee for each cubic meter of sand and gravel quarrying in Davao City can be found in the City Treasurer's Citizen Charter 2026_VOL.I & II-2.pdf [S2]. The fee is P3.00 per cubic meter of excavation for regular quarrying [S2, chunk DEV120-CTO-PDF0008-C001]. However, for excavation other than foundation or basement, the fee is not specified in the provided sources.\n\nFor the annual fee, the information is not available in the provided sources."
+  ],
+  "contexts": [
+    [
+      "Than 5 Hectares, Commercial \nSand And Gravel Permit. If More Than 5 \nHectares, Mines And Geo Sciences \nBureau / Industrial Sand And Gravel/ \nEarthfill Permit\nNew Application: mandatory Mayor’s \nPermit to Quarry\nIndicate the gross capacity of the trucks",
+      "the \ndesignated \ndistrict office.\nthe CTO \nDistrict \nOffice \nwhere the \nconcession \nis located.\nGravel and\nOther \nQuarry\nResources\nCollection \nClerk I–\nCity\nTreasurer’s\nOffice\n4. Present the\nOfficial \nReceipt of \npayment to \nthe Sand & \nGravel In-\nCharge.\n4. Release\nQuarry \nTickets (Sand \n& Gravel \nTickets) to \nthe \nconcessionair\ne at the CTO \nDistrict Office \nwhere the \nconcession is \nlocated.\n15 Minutes \nLocal Revenue\nCollection\nOfficer I/ Cash \nClerk I/ Local\nRevenue \nCollection \nOfficer I/ \nRevenue \nCollection \nClerk I–\nCity\nTreasurer’",
+      "ion and review by the Line and Grade Section of the \nInspection and Enforcement Division to determine compliance to line and grade, \nsetbacks, yards/easements and parking requirements.\nInspection and Verification Fee \nP 200.00\nPer cu. meters of excavation \n3.00\nIssuance of GP & EP, valid only for thirty (30) days or superseded \nupon issuance of Building Permit\n50.00\nPer cu. meter of excavation for foundation with basement \n4.00\nExcavation other than foundation or basement, per"
+    ]
+  ],
+  "ground_truth": [
+    "Under Ordinance No. 0291-17 Section 44, commercial sand and gravel extraction requires a Permit to Quarry from CENRO, an approved Business Permit, and monthly extraction reports. The extraction fee is PHP 30.00 per cubic meter, with an annual fee of PHP 1,500.00 to PHP 3,500.00 based on area size."
+  ]
+}

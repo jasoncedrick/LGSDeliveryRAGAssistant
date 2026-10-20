@@ -1,0 +1,21 @@
+{
+  "group_id": "SCENARIO-OCBO-002",
+  "pillar": "Office of the City Building Official",
+  "split": "development",
+  "ground_truth_chunk_ids": [
+    "DEV120-OCBO-PDF0004-C002",
+    "DEV120-OCBO-PDF0004-C003",
+    "DEV120-OCBO-PDF0004-C004"
+  ],
+  "ground_truth_reference_answer": "Conditional requirements state: construction/minor repair of buildings 3 storeys and above requires Construction Safety & Health Program, 1 original and 1 photocopy, with DOLE listed under Where to Secure. Boring and Plate Load Test Result/Report is listed if the structure is at least three storeys, 2 copies, with a licensed Civil/Geotechnical Engineer listed. For an additional storey, submit an affidavit that the foundation can carry the proposed additional floors, 2 originals.",
+  "queries": {
+    "english": "What additional engineering and safety requirements are imposed by OCBO for buildings that are 3 storeys and above?",
+    "taglish": "Ano ang karagdagang requirements ng OCBO kapag ang itatayong gusali ay may 3 floors pataas?",
+    "bislish": "Unsa ang dugang requirements sa OCBO kung 3-storey pataas ang building nga itukod?"
+  },
+  "legacy_ground_truth_chunk_ids": [
+    "CHUNK-OCBO-P492-C02",
+    "CHUNK-OCBO-P492-C03"
+  ],
+  "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED"
+}

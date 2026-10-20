@@ -1,0 +1,22 @@
+{
+  "group_id": "SCENARIO-CPDO-004",
+  "review_status": "needs_correction",
+  "reviewer": "assistant",
+  "findings": [
+    "Restore omitted checklist items and actual client steps.",
+    "Do not assert notarization absent from this source checklist.",
+    "Source alternates LZBA/LZBAA and mentions UEESZ in one client step; no invented institutional reconciliation."
+  ],
+  "manual_check": {
+    "type": "conditional_source_inconsistency",
+    "question": "Confirm committee naming if precise routing terminology is needed; source alternates LZBA/LZBAA and mentions UEESZ.",
+    "source": "PDF26-32",
+    "blocking": "No block to source-preserving process summary."
+  },
+  "candidate_applied": false,
+  "limitations": [
+    "Fixed thesis sources, not present-day legal advice.",
+    "Assistant image review is not independent expert certification.",
+    "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+  ]
+}

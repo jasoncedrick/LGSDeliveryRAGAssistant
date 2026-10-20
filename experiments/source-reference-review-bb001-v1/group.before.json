@@ -1,0 +1,26 @@
+{
+  "group_id": "SCENARIO-BB-001",
+  "pillar": "Business Bureau",
+  "split": "development",
+  "ground_truth_chunk_ids": [
+    "DEV120-BB-PDF0002-C001",
+    "DEV120-BB-PDF0002-C002",
+    "DEV120-BB-PDF0002-C003",
+    "DEV120-BB-PDF0002-C004",
+    "DEV120-BB-PDF0003-C001",
+    "DEV120-BB-PDF0003-C002"
+  ],
+  "ground_truth_reference_answer": "For New Business Permit Pre-Assessment, applicants must submit: 1) Duly filled-out Unified Application Form (1 original); 2) Sketch / Google Map of business location with pictures of premises (1 original); 3) Notarized Certified List of Employees or Certification of No Employee (1 original); 4) Valid DTI Registration for Sole Proprietorship, SEC Registration/Articles of Incorporation for Corporation/Partnership, or CDA Registration for Cooperatives (1 photocopy); and 5) Contract of Lease with Lessor's proof of ownership if rented, or proof of ownership if owned (1 photocopy). Applications can be filed online at appbts.davaocity.gov.ph or onsite.",
+  "queries": {
+    "english": "What are the required documents for the pre-assessment of a new business permit in Davao City?",
+    "taglish": "Ano ang mga kailangang dokumento para sa pre-assessment ng bagong business permit sa Davao City?",
+    "bislish": "Unsa ang mga papeles nga kailangan i-submit para sa pre-assessment sa bag-ong business permit diri sa Davao?"
+  },
+  "legacy_ground_truth_chunk_ids": [
+    "CHUNK-BB-P041-C01",
+    "CHUNK-BB-P041-C02",
+    "CHUNK-BB-P041-C03",
+    "CHUNK-BB-P042-C01"
+  ],
+  "mapping_status": "PROVISIONAL_EXACT_SPAN_MAPPING"
+}

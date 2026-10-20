@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Kailangan pa ba ng bagong fire inspection para sa business permit kung may valid FSIC na galing sa Occupancy Permit?"
+  ],
+  "answer": [
+    "Wala kaayong kailangan bag-ong fire inspection para sa business permit kung may valid FSIC na galing sa Occupancy Permit. [S3]\n\nFor a new business permit with a valid FSIC issued during the Occupancy Permit stage, no new fire inspection is required. [S3]"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "any\n[REPRESENTATION: Matrix dot shown for: NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE N",
+      "NEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPANCY\nPERMIT STAGE\nNEW  BUSINESS    \nPERMIT WITHOUT\nVALID FSIC\nISSUED DURING\nOCCUPANCY\nPERMIT STAGE\nRENEWAL OF\nBUSINESS\nPERMIT\nRENEWAL OF\nBUSINESS PERMIT\nWITHOUT VALID FSIC\nOR EXPIRED FSIC/\nWITH EXISTING\nVIOLATION OF THE\nFIRE CODE/INCLUDED \nIN THE NEGATIVE LIST\nA   P   P   L   I   C   A   T   I   O   N"
+    ]
+  ],
+  "ground_truth": [
+    "For new business permits where a valid FSIC was already issued during the Occupancy Permit stage, the applicant presents the certified true copy of the valid occupancy FSIC, paying the 15% FSIF assessment without requiring a separate pre-operational inspection."
+  ]
+}

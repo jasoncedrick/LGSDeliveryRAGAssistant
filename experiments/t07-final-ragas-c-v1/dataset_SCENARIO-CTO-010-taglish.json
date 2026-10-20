@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ilang porsyento ang sinisingil na Basic Real Property Tax at karagdagang Special Education Fund (SEF) sa Davao?"
+  ],
+  "answer": [
+    "Sa Davao City, ang Basic Real Property Tax ay sinisingil ng 1.5% ng assessed value ng real property, grasslands, buildings, at iba pang improvements na nasa Davao City. Ang karagdagang levy para sa Special Education Fund (SEF) ay sinisingil ng 1% ng assessed value ng real property. [S1, S2, S3]"
+  ],
+  "contexts": [
+    [
+      "(1.5%) of the assessed \nvalue of real property, grasslands, buildings, machinery and other improvements affixed \nor attached to real property located in this City.\nSection 8. Additional Levy on Real Property for the Special Education Fund \n(SEF) – This is hereby levied a one percent (1%) tax on the assessed value of real \nproperty which shall be in addition in the basic real property tax. The proceeds thereof \nshall accrue exclusively to the Special Education Fund (SEF).",
+      "-\neservices.com/\negps/portal/Mer\nchants.jsp\n–\nImposition \nof the Basic\nReal\nProperty\nTax\nSection 8\n–\nAdditional \nLevy on\nReal\nProperty for \nthe Special \nEducation \nfund (SEF)\nTOTAL: \nAttached \nAnnex - 11 \n25 Minutes\nANNEX – 11\nSection 7. Imposition of the Basic Real Property Tax. – There is hereby levied \nan annual ad valorem tax at the rate of one and one-half percent (1.5%) of the assessed \nvalue of real property, grasslands, buildings, machine",
+      ", shall exceed Ten Thousand Pesos (P10,000.00) in \naccordance with the following schedule:\n(a) For every Five Thousand Pesos (P5,000.00) worth of real property in the\nPhilippines owned by it during the preceding year based on the valuation used in \nthe payment of real property tax under existing laws, found in the assessment rolls \nof this city where the real property is situated - Two (P2.00) Pesos; and\n(b) For every Five Thousand Pesos (P5,000.00) of gross receipts or earn"
+    ]
+  ],
+  "ground_truth": [
+    "Under Sections 7 and 8 of Ordinance 0291-17, Davao City levies an annual basic Real Property Tax of 1.5% of the assessed property value, plus an additional 1.0% tax dedicated exclusively to the Special Education Fund (SEF), totaling 2.5%."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Paano kinukwenta ang Transfer Tax sa lupa sa Davao City at magkano ang bayad sa certification fee?"
+  ],
+  "answer": [
+    "The Real Property Transfer Tax in Davao City is calculated based on the selling price or the market value of the property, whichever is higher. The details can be found in [S1]. However, the specific rate for the transfer tax and the certification fee for the Certification of Payment are not provided in the given sources. For the exact rates, you may need to refer to the Local Revenue Code of Davao City, which is not included in the provided sources.\n\nFor the issuance of a Business Permit, the fee is not specified in the given sources [S2]. You may need to refer to the Local Government Code of the Philippines or the Business Permit and License Office's Citizen's Charter for the specific fee details.\n\nFor the Community Tax imposed on juridical persons, the annual tax is Five Hundred Pesos (P500.00) and an additional tax not exceeding Ten Thousand Pesos (P10,000.00) as stated in [S3]. However, the specific calculation method for the additional tax is not provided in the given sources. For the exact details, you may need to refer to the Local Revenue Code of Davao City."
+  ],
+  "contexts": [
+    [
+      "4. Real Property Tax Transfer Ownership with Certification\nAssessment issued to taxpayer for payment (Local Revenue Code of Davao City) \nCertification of Payment \nOffice or Division \nOffice of the City Treasurer (CTO) / Real Property Tax Division \n– Assessment / Cash Receipts Division – Collection / \nCertification and Other District Offices\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Title – Photocopy for\nverification only\nRegister of Deeds\n2. No",
+      "2. Issuance of Business Permit \nIt shall be unlawful for any person or entity to conduct or engage in any business, \ntrade or occupation within the territorial jurisdiction of the City of Davao for which a \npermit is required for the proper supervision and enforcement of existing laws and \nordinances without first having secured a permit therefore from the City Mayor and \npaying the necessary fees to the City Treasurer.\nThe Business Permit is granted for a period of not more than one (1) year and shall \nexpire on the thirty-first (31st) of December",
+      "in imposed shall be based \nupon the total property owned by them and the total gross receipts or earnings derived \nby them.\nJuridical Persons Liable to Community Tax\nEvery corporation no matter how created or organized, whether domestic or resident-\nforeign, engaged in or doing business in the Philippines whose principal office is located \nin this city shall pay an annual Community Tax of Five Hundred Pesos (P500.00) and an \nadditional tax, which in no case, shall exceed Ten Thousand Pesos (P10,000.00) in \naccordance with the following"
+    ]
+  ],
+  "ground_truth": [
+    "The charter literally states: \"Transfer Tax is equal to 87% or 1% based on the consideration or the market value whichever is higher.\" This reports the printed wording; the intended applicable rate is not resolved by that statement. Do not silently replace it with 0.75%.\n\nThe certification fee table lists PHP50 plus PHP20 for each additional page. Requirements: title photocopy for verification only; notarized Deed of Transfer (1 original); Tax Declaration/Declaration of Real Property Tax Valuation (1 original)."
+  ]
+}

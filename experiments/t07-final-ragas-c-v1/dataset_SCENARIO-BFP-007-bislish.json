@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ang application fee ug kinatas-ang tax cap sa pagkuha ug FSEC sa Bureau of Fire Protection?"
+  ],
+  "answer": [
+    "Sa pagkuha ug Fire Safety Engineering Clearance (FSEC) sa Bureau of Fire Protection (BFP), ang application fee wala nakit-an sa mga nakapag-aral sa Citizens' Charter. Ang releasing date ug oras sa FSEC ay nakalagay sa claim stub ([S1]). Ang agency action sa pagbayad ug Official Receipt (OR) ay nakalagay sa [S1]. Wala pa rin nakit-an sa mga nakapag-aral sa Citizens' Charter kung saan nakatagpuan ang tax cap sa pagkuha ug FSEC."
+  ],
+  "contexts": [
+    [
+      "proceed to releasing\nwindow to claim the stub by presenting the OR.\nNote: Releasing date and time of FSEC is\nindicated in the claim stub.\n\nAGENCY ACTION: 3. Collect the payment and issue Official\nReceipt (OR)\nFor OSCP/BOSS : Backroom operation with\nOSCP/BOSS for one-time payment thru\nco-location\nFor Local Stations with MOA with the LGUs, fire\ncode fees/taxes shall be collected by the LGUs\n\nPROCESSING TIME: maximum of ten (10) minutes\n\nPERSON",
+      "Pesos or more, or who is required by law to file an income tax \nreturn shall pay an annual community tax of Five (P5.00) Pesos and an annual additional \ntax of One Peso (P1.00) for every One Thousand Pesos (P1,000.00) of income \nregardless of whether from business, exercise of profession or from property which in no \ncase shall exceed Five Thousand Pesos (P5,000.00).\nIn the case of husband and wife, the additional tax herein imposed shall be based \nupon the total property owned by them and the total gross receip",
+      "1.1. Encode \nadditional details \nfrom the RO-\napproved Change \nof Business \nAddress (after \napproval of \nRegulatory \nOffices) \napplication.\n1.2. Return the \npre-assessed \ndocuments to the \nclient for payment \nwith attached \nRecommended \napproval of \nApplication for \nChange of \nBusiness Address\nNone \n10 Minutes \nEDP personnel \nBusiness Bureau\nSTEP 2: PAYMENT\n2.Proceed to the \nCity Treasurer’s \nOffice for payment.\n2. Process under \nCity Treasurer’s \nOffice\nMayor’s\nPermit Fee\nis\nbased on\nthe\nasset size  \nand nature\nof\nbusiness.  \nService fee  \nis Php50.00"
+    ]
+  ],
+  "ground_truth": [
+    "Applying for a Fire Safety Evaluation Clearance (FSEC) requires an application fee of PHP 200.00 plus Fire Code Construction Tax (FCCT) of 0.1% of verified estimated value (materials and labor) up to PHP 50,000.00 maximum."
+  ]
+}

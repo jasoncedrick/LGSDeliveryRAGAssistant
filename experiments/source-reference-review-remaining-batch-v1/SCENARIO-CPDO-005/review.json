@@ -1,0 +1,18 @@
+{
+  "group_id": "SCENARIO-CPDO-005",
+  "review_status": "needs_correction",
+  "reviewer": "assistant",
+  "findings": [
+    "Restore missing requirements.",
+    "Remove unsupported subdivision/ancestral-land conditions and URL not specified in these pages.",
+    "Preserve None as this service fee, not a claim that the entire business permit is free.",
+    "Do not equate TOTAL including denial route with guaranteed approval time."
+  ],
+  "manual_check": null,
+  "candidate_applied": false,
+  "limitations": [
+    "Fixed thesis sources, not present-day legal advice.",
+    "Assistant image review is not independent expert certification.",
+    "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+  ]
+}

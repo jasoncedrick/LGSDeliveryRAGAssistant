@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What are the requirements for securing an Occupational Permit for regular employees and foreign nationals?"
+  ],
+  "answer": [
+    "Wala akong impormasyon bahin sa Citizens' Charter tungkol sa mga requirements sa Occupational Permit para sa mga regular employees at foreign nationals. [S1, S2, S3] sa Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf ang wala sa kasulatan tungkol dito."
+  ],
+  "contexts": [
+    [
+      "3.Receive \nOccupational Permit / \nDenied Application\nNote: \n If application is \napproved, proceed to \nhttps://occupationalper\nmit.davaocity.gov.ph/, \nselect Check \nApplication Status, and \ndownload the \nOccupational Permit, or \nproceed to the link \nautomatically sent by \nthe Online \nOccupational Permit \nSystem though e-mail \nor SMS and download \nthe Occupational \nPermit for online \napplicants. Physically \nclaim hard copy of \nOccupational Permit for \nwalk-in applicants.\nIn case of denial, \nreceive returned \ndocuments",
+      "ational Permit for \nwalk-in applicants.\nIn case of denial, \nreceive returned \ndocuments and denied \napplication form, and \nreapply.\n3. Approve and \nrelease or deny \napplication.\nNote:\nIf approved, Online \nOccupational Permits \nare digitally signed and \nready for download. \nPrint, sign, and release \nhard copy of \nOccupational Permits in \ncase of walk-in \napplicants.\nIf denied, return \nsubmitted documents \nand ask applicant to \nreapply.\nNone\n14 Minutes \n(Online and\nOnsite)\nOccupa",
+      "nt to \nreapply.\nNone\n14 Minutes \n(Online and\nOnsite)\nOccupational\nPermit\nSection Head\nand\nOccupational\nPermit\nPersonnel\nBusiness \nBureau\nTOTAL:\nPhp125 \nfor new\nand\nupdated \nrenewal;\nPhp\n156.25 for\nlate\nrenewal\n33 Minutes"
+    ]
+  ],
+  "ground_truth": [
+    "An Occupational Permit is required for workers without a Professional Tax Receipt. General requirements: application form, Certificate of Employment, and Official Receipt from CTO (PHP 125.00). Foreigners must submit an Alien Employment Permit from DOLE."
+  ]
+}

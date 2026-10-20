@@ -1,0 +1,13 @@
+{
+  "corpus": true,
+  "bm25": true,
+  "faiss": true,
+  "manifest": true,
+  "source_pages": true,
+  "provenance": true,
+  "dictionary": true,
+  "all_90_queries_per_condition": true,
+  "normalization_records": 180,
+  "tests_passed": 13,
+  "held_out_accessed": false
+}

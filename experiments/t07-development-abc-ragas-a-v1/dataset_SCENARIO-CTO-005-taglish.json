@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Magkano ang bayad sa Professional Tax Receipt (PTR) sa Davao at ano ang kailangang dalhin para makakuha?"
+  ],
+  "answer": [
+    "Sa Davao City, ang bayad sa Professional Tax Receipt (PTR) ay hindi nakalalaman sa mga nakalampasan ng mga ibinigay na source blocks. Para makakuha ng PTR, kailangan mo ng isang walang expiry na Professional Regulatory Commission ID o Integrated Bar of the Philippines ID (1 original). Ang mga ito maaaring kukuhanan sa Professional Regulatory Commission, Juna Subd., Matina, Davao City o sa Integrated Bar of the Philippines. Wala akoy nakit-an nga impormasyon bahin sa bayad para sa PTR. [S2] City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 192 | chunk DEV120-CTO-PDF0037-C001"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "15. Professional Tax \nAssessment issued to taxpayers / clients for payment of Professional Tax Receipt. \nOffice or Division \nOffice of the City Treasurer (CTO) – Business Tax \nAssessment Division/ District Offices\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail \nAll\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Unexpired Professional\nRegulatory Commission ID/ \nIntegrated Bar of the Philippines \nID – 1 original\nProfessional Regulatory Commission, Juna \nSubd., Matina, Davao City / Integrated Bar \nof the",
+      "of \nPayment if \nthere are no \narrears.\nBased on \nthe 2017 \nRevenue \nCode of \nthe City of\nDavao\nOrdinance \nNo. 0291-\n17,\nseries \nof 2017, \nsection 44\n–\nTax on \nSand,\n30 Minutes \nLocal Treasury\nOperations\nOfficer I/Local\nTreasury \nOperations\nOffice I\n-\nCity\nTreasurer’s\nOffice\n3. Submit the\nTax Order of \nPayment to \nthe District \nCollector at\n3. Accept the\npayment \nand issue \nthe Official \nReceipt at\n20 Minutes \nLocal Revenue\nCollection\nOfficer I/ Admin\nAide IV/ \nRevenue"
+    ]
+  ],
+  "ground_truth": [
+    "The Professional Tax service lists a TOTAL fee of PHP300. Requirements: unexpired PRC/IBP ID (1 original); PRC/IBP certification for new registrants/passers (1 original); current Davao City address and valid contact number/email address.\n\nRegister/log in at ptr.davaocity.gov.ph, generate an Order of Payment, then pay at a Miscellaneous Fees counter or the listed Landbank payment portal."
+  ]
+}

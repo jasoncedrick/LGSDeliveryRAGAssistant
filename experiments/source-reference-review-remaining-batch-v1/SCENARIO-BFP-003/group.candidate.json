@@ -1,0 +1,21 @@
+{
+  "group_id": "SCENARIO-BFP-003",
+  "pillar": "Bureau of Fire Protection",
+  "split": "development",
+  "ground_truth_chunk_ids": [
+    "DEV120-BFP-PDF0001-C001",
+    "DEV120-BFP-PDF0001-C002",
+    "DEV120-BFP-PDF0001-C003"
+  ],
+  "ground_truth_reference_answer": "The BFP charter classifies Simple transactions as processed within 1 day, Complex within 3 days, and Highly Technical within 7 days. It directs readers to JMC2021-01 for classification coverage. The source says days, not working days, and identifies FIRE STATION/OSCP/BOSS.",
+  "queries": {
+    "english": "What are the statutory processing turnaround times for Simple, Complex, and Highly Technical BFP frontline applications?",
+    "taglish": "Ilang araw ang processing time sa BFP para sa Simple, Complex, at Highly Technical na mga transaksyon?",
+    "bislish": "Pila ka adlaw ang gitagal sa BFP Citizens Charter para sa Simple, Complex, ug Highly Technical nga mga application?"
+  },
+  "legacy_ground_truth_chunk_ids": [
+    "CHUNK-BFP-P001-C11",
+    "CHUNK-BFP-P001-C12"
+  ],
+  "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED"
+}

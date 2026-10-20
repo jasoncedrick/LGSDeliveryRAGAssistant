@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What are the requirements, fee per hectare, and processing time for a CPDO Zoning Certification in Davao City?"
+  ],
+  "answer": [
+    "To obtain a CPDO Zoning Certification in Davao City, the following requirements are needed:\n\n1. Submit original and photocopied O.R. with complete one (1) set of documents [S1, S2].\n2. Obtain the borrow's consent [S2].\n3. Certification that property is not within the Strategic Agriculture and Fisheries Development Zone (SAFDZ) from the Department of Agriculture [S2].\n4. A visible project sign posted at the project site and a notice of pending application to be issued by the Zoning Administrator [S2].\n5. A photo of the visible project sign [S2].\n6. Notice of Pending Application published in a newspaper once a week for three (3) weeks [S2].\n\nThe processing fee for each hectare is PHP 750 [S3]. The total processing time is 3 days, 6 hours, and 50 minutes [S3].\n\nReference(s):\n- City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf | printed page 677, chunk DEV120-CPDO-PDF0048-C001\n- City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf | printed page 686, chunk DEV120-CPDO-PDF0057-C002\n- City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf | printed page 633, chunk DEV120-CPDO-PDF0004-C001"
+  ],
+  "contexts": [
+    [
+      "documents \nare lacking, \nadvise client \nto comply)\nCPDO\nZoning\nOfficer IV\nCPDO\n1.3 Issues \nOrder of \nPayment for \nProcessing \nFee if \nsubmitted \ndocuments \nare complete\nProcessin\ng Fee: \n PHP\n1,500.00\n10 Minutes\n2. Submits Original and \nPhotocopied O.R. with \nComplete One (1) Set of \nDocuments\n2.1 Rechecks \nand receives \ndocuments \nand forwards \nthe same to \nAdmin \nDivision\nNone \n30 Minutes\nActing\nAdministrat\nive Officer\nCPDO\nZoning\nOfficer IV\nCPDO\n2.2 Receiving \nPersonnel \nroutes \nsubmitted \ndocuments to \nAdmin \nDivision for \ndocument",
+      "bor’s Consent \nApplicant\n19. Certification that property is not \nwithin the Strategic Agriculture and \nFisheries Development Zone (SAFDZ)\nDepartment of Agriculture\nAfter submission of complete requirements:\n20. Visible project sign posted at the \nproject site (Notice of Pending \nApplication to be issued by the Zoning \nAdministrator)\nCPDO\n21.  Photo of Visible Project Sign \nApplicant\n22. Notice of Pending Application \npublished in a newspaper once a week \nfor three (3) weeks\nApplicant\nCLIENT STEPS \nAGENCY \nACTION\nFEES TO \nBE PAID\nPROCESSING\nTIME",
+      "4.7 Endorses the \nZoning \nCertification to \nCPDO \nAdministrative \nDivision for \nreleasing\nNone \n10 Minutes \n \nZoning Officer\nIV\nCPDO\n5. Claims the \nZoning \nCertification\n5. Releases \ndocuments\nNone \n5 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\nTOTAL:\nPHP \n750/\nHectare\n3 Days, 6 Hours, \nand 50 Minutes"
+    ]
+  ],
+  "ground_truth": [
+    "The CPDO Zoning Enforcement Division issues Zoning Certification based on the Integrated Zoning Ordinance (2019-2028). The checklist requires: Certified True Copy of Title(s), 1 photocopy, from the Registry of Deeds; duly accomplished application form, 1 original, from CPDO; Subdivision/Sketch Plan, 1 original, from Bureau of Land/private Geodetic Engineer; Order of Payment, 1 original, from CPDO; and Official Receipt, 1 original, from the City Treasurer's Office. The zoning fee is PHP 750 per hectare; the payment step depends on CTO processing time, described as uncontrollable time. The charter lists a TOTAL processing time of 3 Days, 6 Hours, and 50 Minutes."
+  ]
+}

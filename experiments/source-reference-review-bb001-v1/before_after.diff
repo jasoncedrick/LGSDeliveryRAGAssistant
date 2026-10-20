@@ -1,0 +1,22 @@
+--- group.before.json
++++ group.candidate.json
+@@ -7,10 +7,11 @@
+     "DEV120-BB-PDF0002-C002",
+     "DEV120-BB-PDF0002-C003",
+     "DEV120-BB-PDF0002-C004",
++    "DEV120-BB-PDF0002-C005",
+     "DEV120-BB-PDF0003-C001",
+     "DEV120-BB-PDF0003-C002"
+   ],
+-  "ground_truth_reference_answer": "For New Business Permit Pre-Assessment, applicants must submit: 1) Duly filled-out Unified Application Form (1 original); 2) Sketch / Google Map of business location with pictures of premises (1 original); 3) Notarized Certified List of Employees or Certification of No Employee (1 original); 4) Valid DTI Registration for Sole Proprietorship, SEC Registration/Articles of Incorporation for Corporation/Partnership, or CDA Registration for Cooperatives (1 photocopy); and 5) Contract of Lease with Lessor's proof of ownership if rented, or proof of ownership if owned (1 photocopy). Applications can be filed online at appbts.davaocity.gov.ph or onsite.",
++  "ground_truth_reference_answer": "For NEW business permit pre-assessment, the charter lists the following requirements. Apply the ownership, representation, vehicle and activity conditions stated in each row. Source: Business Bureau printed pages 41-42 (PDF pages 2-3). These transcribed rows include their Where to Secure entries.\n\n1. Duly filled-out Unified Application Form (1 original) Business Bureau or at the Web site https://busbureau.davaocity.gov.ph/ or apply online at https://appbts.davaocity.gov.ph/\n2. Sketch / Google map of Business location (1 original) with pictures of the premise location Applicant\n3. Certified List of Employees / Certification of no Employee (1 original) Applicant, notarized by any Notary Public\n4. Valid DTI Registration for Single Proprietorship (1 photocopy) Department of Trade and Industry\n5. SEC Registration, Articles of Incorporation for Partnership and Corporation (1 photocopy) Securities and Exchange Commission\n6. Certificate of Cooperation, Articles of Cooperation for Cooperative (1 photocopy). Cooperative Development Authority\n7. DOLE / POEA Certificate of Registration, if applicable. Department of Labor and Employment\n8. DHSUD Certificate of Registration, if applicable. Department of Human Settlement and Urban Development\n9. Special Power of Attorney (1 current and original) for represented – Sole Proprietorship Applicant, notarized by any Notary Public\n10. Partnership Resolution (1 current and original) for represented – Partnership Applicant, notarized by any Notary Public\n11. Secretary’s Certificate or Board Resolution for other form of ownership (1 current and original) - Corporation and Cooperative Applicant, notarized by any Notary Public\n12. Valid I.D. of representatives, owners (Sole Proprietor, OPC, Partnership), and Corporate Secretary (Corporation, Cooperative) - 1 photocopy each) Applicant\n13. Contract of Lease and copy of the Proof of ownership by the Lessor if business location is not owned and is rented by the applicant (1 photocopy) Applicant, notarized by any Notary Public\n14. Any proof of ownership if Business location is owned Applicant\n15. consent and copy of any proof of ownership if business location is not owned and is freely used by the applicant (1 photocopy) Applicant\n16. OR/CR of vehicle, if with delivery vehicle (1 photocopy each vehicle) Applicant\n17. Consent for use of the vehicle if not owned by the applicant. Applicant\n18. FSIC for Occupancy Permit valid in the last 9 months Bureau of Fire Protection\n19. Affidavit of Undertaking that there had been no substantial changes made on the building Applicant, notarized by any Notary Public\n20. Other Requirements depending on the Business Activity declared Concerned Agency\n",
+   "queries": {
+     "english": "What are the required documents for the pre-assessment of a new business permit in Davao City?",
+     "taglish": "Ano ang mga kailangang dokumento para sa pre-assessment ng bagong business permit sa Davao City?",
+@@ -22,5 +23,5 @@
+     "CHUNK-BB-P041-C03",
+     "CHUNK-BB-P042-C01"
+   ],
+-  "mapping_status": "PROVISIONAL_EXACT_SPAN_MAPPING"
++  "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED"
+ }

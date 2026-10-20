@@ -1,0 +1,7 @@
+{
+  "original_inputs_unchanged": true,
+  "all_supporting_ids_exist": true,
+  "assistant_rendered_page_review": true,
+  "candidate_applied": false,
+  "methodology": "Source-linked references and table integrity; 120/20 chunks, chunk-level scoring, K3/K5 unchanged; T06 validation separate from T07; no held-out access."
+}

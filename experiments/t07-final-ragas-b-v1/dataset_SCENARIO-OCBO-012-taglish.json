@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Magkano ang bayad kada buwan kapag nagtayo ng scaffolding na sumasakop sa pampublikong daan?"
+  ],
+  "answer": [
+    "Ang bayad kada buwan kapag nagtayo ng scaffolding na sumasakop sa pampublikong daan ay P150.00 para sa ilang metro kung hindi pa ito mas mataas sa 10.00 meters, at P12.00 para sa bawat lineal meter o fraksyon na ito ay mas mataas sa 10.00 meters. [S2]"
+  ],
+  "contexts": [
+    [
+      "9. Issuance of Scaffolding Permit\nA Scaffolding Permit shall be required prior to or during the processing of the building permit or \nbefore the scaffolding is to be erected on the roadway area or pedestrian passage or such areas \nwhere the safety, protection, security and convenience of the general public is primarily considered.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; \nG2G – Government to Government",
+      "SCAFFOLDING PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\nErection of Scaffoldings Occupying Public Areas, per calendar month:\nUp to 10.00 meters in length \nP \n150.00\nEvery lineal meter or fraction thereof in excess of \n10.00 meters\n12.00",
+      "ANNEX – 13\nSection 347\nCLASSIFICATION OF PUBLIC MARKETS\nClass A \nThose with an average monthly income of P 2,000,000.00 \nor more during the preceding six (6) months.\nClass B\nThose with an average monthly income of P 1,500,000.00 \nor more but not more than P 2,000,000.00 during the \npreceding six (6) months.\nClass C\nThose with an average monthly income of P 700,000.00 or \nmore but not more than P 1,500,000.00 during the \npreceding six (6) months.\nClass D \nThose with an average monthly income of less than P \n700,000.00 during the preced"
+    ]
+  ],
+  "ground_truth": [
+    "Scaffolding occupying public areas is assessed PHP 150.00 per calendar month for lengths up to 10.00 meters, and PHP 12.00 per month for every lineal meter or fraction thereof in excess of 10.00 meters."
+  ]
+}

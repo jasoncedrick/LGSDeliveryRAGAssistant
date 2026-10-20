@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ka porsyento ang amusement tax sa admission sa concert kung langyaw nga artist ang mag-perform kumpara sa lokal?"
+  ],
+  "answer": [
+    "Sa concert kung ang artist ay mga langyaw, ang amusement tax na matutuparan ay 10% lamang, kabilang sa mga nabasa sa [S1] at [S2]. [S1] - 10% from those performed by foreign Artists, [S2] - 10% from those performed by foreign Artists."
+  ],
+  "contexts": [
+    [
+      "Offices\nTOTAL: \nAttached \nAnnex- 16 \n18 Minutes\nANNEX – 16\nThere shall be collected from the producers and promoters or amusement activities, \na tax with the rate herein prescribed based on the gross receipts from admission fees:\nAmusement Activities \nRate\nMovie Premiers \n- \n10% from the showing of foreign \nfilms\n- \n5% for the showing of local films\nMusical \nConcerts, \nTheatrical \nPlays,\nFashion \nShows \nand \nother \nLive\nPerformances\n- \n10% from those performed by \nforeign Artists\n- \n5% from those performed by local",
+      "Multi-Purpose\nColiseum \n- \n10%\nf. All other Amusement Places not\nspecifically falling under the above \nenumeration\n- \n5%\nThere shall be collected from the producers and promoters or amusement activities, a tax \nwith the rate herein prescribed based on the gross receipts from admission fees:\nAmusement Activities \nRate\na. Movie Premiers \n- \n10% from the showing of foreign \nfilms\n- \n5% for the showing of local films\nb. Musical Concerts, Theatrical\nPlays, Fashion Shows and other \nLive Performances\n- \n10% from those",
+      "22. Amusement Tax on Admission\nAssessment issued to taxpayers for payment of Amusement Ta \nOffice or Division \nOffice of the City Treasurer (CTO) – Business Tax \nAssessment Division/ CTO District Offices\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business\nWho may avail \nMovie Houses Operator\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Summary of Sales/Billing Statement (For\nCinema)\n2. Amusement Tax Payment Slip (For\nEvents)\nCinema\nCTO Person"
+    ]
+  ],
+  "ground_truth": [
+    "Amusement tax on gross admission receipts for musical concerts, theatrical plays, and performances is 10% for performances by foreign artists, and 5% for performances by local artists. Movie premieres follow the same 10% foreign / 5% local rate."
+  ]
+}

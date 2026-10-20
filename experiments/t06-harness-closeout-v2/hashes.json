@@ -1,0 +1,8 @@
+{
+  "completion_assessment.json": "30c23fa420bf64bebd7ac80019ef4238aa24565087a83d7e898033539ad2e37d",
+  "implementation_files.json": "7a17ceef4eef4863ac5b5e68b2c23199a328aaf6e3d4a777e2626280c3db88ec",
+  "known_limitations.json": "42c1451e2e3b8b13a7040bf857ba81b77a5358ca37d5d017e6d67ae357e46dad",
+  "scorer_v2_integration.diff": "af352e02a2b26b57bfc14eae1e34e49967d449e4dd88701da9fde41433dfe3bb",
+  "score_development_ragas.before_v2_integration.py": "9049ca8d4068df7cb1195258077400301f4e82fb30010e32f3a8a747a5ac68d8",
+  "T06_STATUS.txt": "b9bc613e4e53b1deaa6d79d8f650b56c87dd5da536ee67984d0d838cdb671c45"
+}

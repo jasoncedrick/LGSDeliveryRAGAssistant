@@ -1,0 +1,27 @@
+CURRENT STATUS: failed-judge retries completed; paired DEVELOPMENT A/B/C queue started.
+
+T06: all 84 eligible answers now have four finite metrics in the supplemental retry-adjusted scores. Six clarification cases remain excluded from answer scoring. Original four failures and traces remain unchanged.
+Retry artifacts: experiments/failed-judge-retry-v2
+Original hashes verified unchanged. Recall retries increased judge output allowance from 1024 to 4096; precision retry requested exactly one context-level verdict. These are evaluator-only changes, not answer/reference edits.
+
+T07 grid: 34 configurations fully scored. Numerical maximum grid 13, K=3, weights BM25=.75, FAISS=.25, dictionary=0; J=.8685185184830554. Near-ties differ only around floating-point epsilon: do not claim meaningful superiority. Declared exact tie policy retained. No freeze yet.
+Grid: experiments/t07-development-grid-format-retry-v2/context_precision_grid.json
+
+A/B/C DEVELOPMENT comparison is running through scripts/run_t07_comparison_queue.py.
+A: raw-query BM25 only. B: archived injected normalization plus selected fusion. C: same gate, fusion and generator, query-specific glossary injection removed. Static lexical guidance in the shared normalization prompt remains, a limitation of this ablation.
+Identical answer generation settings across all configurations. Selected K=3; 30 groups/90 queries per configuration, 270 records. All outcomes retained.
+RAGAS then runs separately for A/B/C with a common 4096 judge output allowance and 600-second timeout. Nulls and skipped answers remain explicit. Mean RAGAS values use metric-specific eligible denominators; they are not the all-query grid selection objective.
+No held-out files accessed; app defaults unchanged. This is not final frozen T07 evaluation or expert certification.
+
+WATCH IN POWERSHELL (does not launch a second run):
+Get-Content D:\thesis\LGSDeliveryRAGAssistant-clean\experiments\t07-development-abc-v1\console.log -Tail 20 -Wait
+Ctrl+C stops the monitor only.
+
+QUEUE STATUS: experiments/t07-development-abc-v1/queue_status.json
+GENERATION PROGRESS: experiments/t07-development-abc-v1/progress.json
+RAGAS progress: experiments/t07-development-abc-ragas-a-v1/scores.json (and b/c)
+Final development export, once complete: experiments/t07-development-abc-v1/comparison_metrics.csv
+
+Future launch/resume command (do not run while queue.lock exists):
+D:\thesis\venv\Scripts\python.exe -B scripts/run_t07_comparison_queue.py
+Generation supports resume with fixed hashes. Partial scoring stops for explicit recovery rather than overwriting previous evidence.

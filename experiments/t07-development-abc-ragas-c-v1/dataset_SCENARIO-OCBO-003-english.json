@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What are the required documents to apply for an Occupancy Permit after completing building construction?"
+  ],
+  "answer": [
+    "To apply for an Occupancy Permit after completing building construction, the required documents are as follows:\n\n1. Application Letter - 1 original [S1]\n2. Official Receipt (OR) for the application fee [S2]\n3. Plans and documents of the building or structure [S2]\n4. Forward the documents to the PED Chief for final recommendation [S2]\n5. Forward the documents to the Building Official for signing and approval [S2]\n6. Stamp the Occupancy Permit number on plans and documents [S2]\n7. Notify the client that approved plans and documents are ready for claiming [S2]\n8. Claim the approved plans and documents [S2]\n\n[S1, S2]"
+  ],
+  "contexts": [
+    [
+      "2. Issuance of Occupancy Permit \nAn Occupancy Permit shall be required before any building or structure or portion thereof is used \nor occupied, or the existing use or occupancy classification thereof is changed. \nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; G2G \n– Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Application Letter  \n   1 original",
+      "Official Receipt (OR) \ndocuments, OP \nand OR \n  \n \n \n \n5.2 Forward to \nPED Chief for \nFinal \nRecommendation \n  \n5.3 Forward to \nBuilding Official \n(BO) for signing \nand approval \n  \n5.4 Stamp \nSidewalk \nOccupancy \nPermit number on \nplans and \ndocuments \n     \n \n \n5.5 Notify client \nthat approved \nplans and \ndocuments are \nready for claiming\n4 Hours\n1 Day\n4 Hours\n10 Minutes\nPlanning and \nDevelopment\nOCBO\nPED Chief –\nOCBO\nBuilding Official –\nOCBO\nEngineering Staff\nRecords\nCustodian –\nOCBO\nRecords\nManagement \nAssistant –\nOCBO\n6. Claim the approved plans \nand",
+      "15. Issuance of Certificate of Annual Inspection of Buildings\nA Certificate of Annual Electrical Inspection is issued after conducting an annual inspection of a \nbuilding/structure to ensure that the architectural well-being, structural stability, electrical, \nmechanical sanitation, plumbing, electronics, interior design, and fire protective properties are \nproperly maintained and that the building/structure is not occupied or used for purposes other than \nits intended use.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHigh"
+    ]
+  ],
+  "ground_truth": [
+    "Occupancy checklist: application letter (1 original); authorization letter if applicant is not owner (1 original); owner ID with 3 specimen signatures (1 photocopy); Certificate of Occupancy (1 original); Certificate of Completion (1 original); BFP Fire Safety Inspection Certificate (1 original); four-elevation project pictures (front/back/left/right); approved Building Construction, Architectural, Civil/Structural, Sanitary/Plumbing, Electrical and Mechanical installation permits (1 photocopy); approved building-permit plan (1 original).\n\nIf a different professional undertook/was assigned the project, the checklist requires a signed, notarized waiver from the previous professional in charge (1 original). It also lists Structure Images with CAAP clearance and structural survey for actual building height, signed/sealed by a licensed Geodetic Engineer. The authorization-letter source cell says CPDO and the picture source cell says Hired Geodetic Engineer; those unusual source associations are preserved."
+  ]
+}

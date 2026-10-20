@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang kalainan sa Variance ug Exception kung mag-apply ug pabor sa physical standards o zoning rules sa siyudad?"
+  ],
+  "answer": [
+    "Variance at Exception sa City Planning ang kalainan sa mag-apply sa physical standards o zoning rules sa siyudad. Ang Variance ay isang uri ng deviation na nagpapahintulutan ang mga property owner na maging exempt sa mga provisyon ng mga rules tungkol sa building height, area requirement, setback at iba pa, kung mayroon silang kahirapan o kawalan dahil sa kanyang kalagitan, kaswara o kadalanan ng lupa. Ang Exception, kumpara, ay isang uri ng deviation na nagpapahintulutan ang mga property owner na maging exempt sa mga provisyon ng mga rules kung mayroon silang kahirapan o kawalan dahil sa strict enforcement ng mga rules.\n\n[S2, S3] City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf | printed page 662"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "7. Request for Additional Allowable Use \nThere are two (2) types of applications under additional allowable use: \n \n1.) Variance - a form of deviation which grants a property owner relief from certain \nprovisions of these rules when strict compliance with physical standards/guidelines \nsuch as building height, area requirement, setback and the like would result in \nunnecessary hardship of difficulty upon the owner due to the peculiar physical \nsurroundings, shape   or   topographical conditions   of the   property. \n2.) Exception - a form of deviation which grants a property",
+      "conditions   of the   property. \n2.) Exception - a form of deviation which grants a property owner relief from certain \nprovisions of these rules when strict enforcement thereof would result in an \nunnecessary hardship or difficulty upon the owner. \n \nArticle XI Section 42 of the Integrated Zoning Ordinance states that the uses \nenumerated in the proceeding articles on general zone and all sub-zones are not \nexhaustive nor all-inclusive. The Sangguniang Panlungsod; upon application of \nproject proponent and upon favorable recommendation by Local Zoning Board of"
+    ]
+  ],
+  "ground_truth": [
+    "Under Article XI Section 42 of the Integrated Zoning Ordinance, property owners can apply for a Variance (relief due to physical/topographical hardship regarding height, setback, area) or Exception (relief from strict enforcement). Requires LZBAA review and City Council resolution."
+  ]
+}

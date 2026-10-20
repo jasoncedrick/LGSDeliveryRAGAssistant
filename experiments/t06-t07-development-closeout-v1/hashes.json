@@ -1,0 +1,15 @@
+{
+  "bc_ablation_diagnostics.json": "eac6ad29d8056edac2dc0b2ea53fc8fb9f043eb837ddb340cfedfa898db0fea4",
+  "comparison.with_retries.csv": "b2f2defd5873b37d091e5679a83222f9e8c0212115f051cf76f6e4b0be1f0a6f",
+  "completion_assessment.json": "c12a1c152a97cb2bcd623f991b3bca647f2a4dc3fcbd6594be24e63ac1388089",
+  "coverage.json": "26bd03ffd4cadcbc817d2e230076f7d7f3124862b8367f5457132a8b52a3a1c2",
+  "judge_failure_review.json": "99ecf3f817cdc41363d9d8e9beed384b8d4a70899f29927e35e937d4bd2d9557",
+  "manual_judge_check.json": "a181970039eb8a188e17a94c4aee0e8c8ba6a96054b410e6ff94afebe015ad37",
+  "matched_query_comparison.csv": "e977af49787f51cb19b1b2a7138910bb7cd899a3ef54b0f9f61bea807a234663",
+  "matched_query_comparison.json": "65b0a861c0035615bca765771b568049edd01327f580ba054c7bb4d202301eda",
+  "original_hashes.json": "870ca8e1b995d4ecd828a8a6a5a5a6e727a4b94844c0a7fcd0042c8a06fc2fc6",
+  "READ_THIS_FIRST.txt": "393d84debac75d5db682c8f8eb9ff8dceb74c7564b7f55641e11edc1fee9d8b8",
+  "scores_A.with_retries.json": "47a3c7e66cefd39a1c129c03e801433fa63af742e8ee849e19aded1d0eb83de0",
+  "scores_B.with_retries.json": "57b9312fdc23218596a9d25fc39622cfe5bbd68b46c504571092f52ad6d1c17d",
+  "scores_C.with_retries.json": "44bce58c4eb90ee2e0e11a074ff343afbef5c2f47b187b25fdc1d1683b74a88f"
+}

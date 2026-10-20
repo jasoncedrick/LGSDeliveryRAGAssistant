@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ka porsyento nga socialized housing ang obligado i-comply sa mga subdivision developers ubos sa PD 957?"
+  ],
+  "answer": [
+    "Sa subdivision developers, ang obligasyon nga i-comply sa 10% socialized housing ay nakatagpuan sa PD 957. [S3] City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf | printed page 716 | chunk DEV120-CPDO-PDF0087-C004"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "14. Preliminary Subdivision Development Plan (PSDP) and \nDevelopment Permit (DP) for High End, Low End, Farm Lot and \nMemorial Park \nAn application for subdivision approval based on BP 220, PD 957, and other related \nlaws. Executive Order No. 71, Series of 1993, pursuant to RA 7160, was signed into \nlaw to devolve the powers of the Housing Land Use Regulatory Board to approve \nsubdivision plans to the cities through the City Housing Land Use and Regulatory \nUnit as the technical arm of the Sang",
+      "golf course) (1 \nphotocopy)\nGolf Construction and \nDevelopment Committee\n37. \nCAAP Clearance / Building Height\nCertificate, whichever is applicable (1 \nphotocopy)\nCivil Aviation Authority of the \nPhilippines\n38. \nPPA Clearance (for ports and harbors)\n2. \nphotocopies)\nPhilippine Ports Authority\n39. \nClearance from National Power\nCorporation, if applicable (1 photocopy)\nNational Power Corporation\n40. \nPayment Receipt (1 photocopy) \nCity Treasurer’s Office\n41. \n10% socialized housing compliance for\nPD 957\nApplicant"
+    ]
+  ],
+  "ground_truth": [
+    "Subdivision applications governed by Presidential Decree No. 957 are legally mandated to submit proof of compliance with the 10% socialized housing requirement as part of the documentary checklist for subdivision approval."
+  ]
+}

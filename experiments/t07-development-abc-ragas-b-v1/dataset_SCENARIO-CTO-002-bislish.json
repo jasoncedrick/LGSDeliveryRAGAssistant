@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsaon pagkwenta sa Transfer Tax sa yuta sa City Treasurer ug pila ang bayad sa certification?"
+  ],
+  "answer": [
+    "Sa Transfer ng Sasetyudalo (elektromekanikal), ang Transfer Tax ay hindi nakalalabas sa mga ibinigay na impormasyon. Ang bayad sa certification ay hindi rin nakalalabas. Ang mga impormasyon sa bayad sa Transfer Tax at certification ay hindi nakalagay sa mga nakalunsok na source blocks.\n\n[S1, S2, S3] Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf | printed pages 84, 76, 84 | chunks DEV120-BB-PDF0045-C001, DEV120-BB-PDF0037-C001, DEV120-BB-PDF0045-C002"
+  ],
+  "contexts": [
+    [
+      "1.Submit pertinent \ndocuments and \nReceive pertinent \ndocuments  application \nform for Transfer of \nOwnership (electro-\nmechanical), and order \nof payment to be paid at \nthe City Treasurer’s \nOffice\n1.1. Assess \nApplication for \nTransfer of \nOwnership.\n1.2. Verify and \nEncode \nApplication for \nTransfer of \nOwnership.\n1.3. Return \npertinent \ndocuments to \nthe client, print \nout application \nform for \nTransfer of \nOwnership \n(electro-\nmechanical), \nand issue an \norder of \npayment to be \npaid at the \nCity \nTreasurer’s \nOffice\nNone \n10 Minutes \nLicensing Officer \nBusiness Bureau\nSTEP 2: PAY",
+      "further information. \nClient may still proceed \nto the City Treasurer’s \nOffice for assessment \nand payment of dues. \nSTEP 2: PAYMENT\n2.Proceed to the City \nTreasurer’s Office for \npayment.\n2. Process \nunder City \nTreasurer’s \nOffice\nMayor’s\nPermit Fee is \nbased on the \nasset size and\nnature of \nbusiness\n(paid at the\nCity\nTreasurer’s\nOffice). Taxes\nis based on \nthe Gross \nIncome of \nBusiness\nEstablishment \n(refer the City \nTreasurer’s\nOffice’s \nCitizen’s \nCharter)\nPls. See\nSchedule of\nFe",
+      "Treasurer’s \nOffice\nNone \n10 Minutes \nLicensing Officer \nBusiness Bureau\nSTEP 2: PAYMENT \n2.Proceed to the City \nTreasurer’s Office for \npayment.\n2. Process \nunder City \nTreasurer’s \nOffice\nService fee  \nis Php50.00\nfor\nAmendment\nof\nBusiness\nPermit.\n9 Minutes \nCity Treasurer’s\nOffice\nEmployees\nSTEP 3: RELEASE  \n3.Submit Applications \nfor Transfer of \nOwnership, official \nreceipts and pertinent \ndocuments. Claim \nBusiness Permit at the\n3.1 Receive \nApplications \nfor Transfer of \nOwnership \nand Complete \nAttachments"
+    ]
+  ],
+  "ground_truth": [
+    "The charter literally states: \"Transfer Tax is equal to 87% or 1% based on the consideration or the market value whichever is higher.\" This reports the printed wording; the intended applicable rate is not resolved by that statement. Do not silently replace it with 0.75%.\n\nThe certification fee table lists PHP50 plus PHP20 for each additional page. Requirements: title photocopy for verification only; notarized Deed of Transfer (1 original); Tax Declaration/Declaration of Real Property Tax Valuation (1 original)."
+  ]
+}

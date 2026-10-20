@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Magkano ang bayad at gaano katagal makuha ang master list ng mga negosyo kapag kailangan ng modified format?"
+  ],
+  "answer": [
+    "Sa Master List na kailangan ng modified format, ang bayad ay Php50.00 [S3]. Ang paghahanap ng Master List na ito ay maaaring magpahaba ng 13 araw mula sa pag-request [S1]."
+  ],
+  "contexts": [
+    [
+      "s\n3.2 \nPrepares \nCertificatio\nn / \nCertified \nTrue Copy \n/ Master \nList\nNone \n30 Minutes \n(+2 Days for \nMaster List\nwithout \nmodified\nparameters \nand format\nand +13 \nDays with \nmodified",
+      "5. Issuance of Certifications / Certified True Copy\nCertifications or Certified True Copy is issued to any natural or juridical entity, \ngovernment agencies or offices who wish to secure any copy of Business Permit or \nwho wish to know any status or record of a Taxpayer. \nOffice or \nDivision\nCity Mayor's Office – Permits & Licenses Division\nClassificati\non\nSimple (Certification, Certified True Copy and Master List without \nmodified parameters and formats), Highly Technical (Master List requiring \ntechnical parameters and format modification)\nType of",
+      "EDP Personnel\nBusiness Bureau (c/o Ma. Elena\nTabao or Helen Pore)\nTOTAL:\nPhp50.00\nfor\ncertificati\non\n47 Minutes\n(+2 Days \nfor Master\nList\nwithout \nformat\nmodificatio"
+    ]
+  ],
+  "ground_truth": [
+    "Requesting a master list of registered businesses costs PHP 50.00 plus PHP 20.00 per page. Processing takes 2 days without format modifications, and up to 13 days if technical parameters or formatting must be modified."
+  ]
+}

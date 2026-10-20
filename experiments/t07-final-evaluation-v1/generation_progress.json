@@ -1,0 +1,14 @@
+{
+  "completed": 630,
+  "total": 630,
+  "by_configuration": {
+    "A": 210,
+    "B": 210,
+    "C": 210
+  },
+  "latest": {
+    "configuration": "C",
+    "record_id": "SCENARIO-BFP-020-bislish",
+    "status": "ANSWERED"
+  }
+}

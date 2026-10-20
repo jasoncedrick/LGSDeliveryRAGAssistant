@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Paano mag-request ng official data tungkol sa zoning o land use sa CPDO at ilang araw bago ito marelease?"
+  ],
+  "answer": [
+    "To request official data regarding zoning or land use from the CPDO (City Planning and Development Office), follow these steps:\n\n1. Technical description of the property, map, and related documents are plotted [S1, S2, S3]. This process takes approximately 1 day for the initial steps and 5 minutes for routing the documents to ZED receiving/releasing personnel and updating the document tracking system [S3].\n\n2. After the initial steps, the Zoning Officer IV re-evaluates the documents and prepares the Zoning Certification [S1]. This process takes about 5 hours.\n\n3. The Zoning Officer IV then signs the certification (initial and final) [S1]. This step may take 2 days depending on the availability of the Zoning Administrator or Acting Zoning Administrator.\n\n4. If the application is approved, the documents will be released to the client [S3]. If the application is denied or requires conditional approval, the client will be advised accordingly [S3].\n\n5. If the application is denied, the client may appeal through the Local Zoning Board of Adjustments and Appeals [S3]."
+  ],
+  "contexts": [
+    [
+      "CPDO\n4.4 Plots the \ntechnical \ndescription of the \nproperty, prints \nmap and it will \nbe returned the \ndocuments to \nZED\nNone \n1 Day \n \nDivision Chief of\nGIS\n4.5 Re-evaluates \nthe documents \nand prepares the \nZoning \nCertification\nNone \n5 Hours \n \nZoning Officer\nIV\nCPDO\n4.6 Signs the \ncertification \n(initial and final)\nNone \n2 Days\ndepending upon \nthe availability\nof Zoning\nAdministrator\nActing Zoning \nAdministrator\nCPDO",
+      "5 \n– Zone \nRegulations) \n \nNote: Applications \nare evaluated \nbased on the \nproposed land use \nactivity and its land \nclassification\nNone \n10 Minutes \n \nZoning Officer\nIV\nCPDO\n2.5 Consultation \nwith the ZED \nDivision Chief and \nActing Zoning \nAdministration in \nthe approval \napplication\nNone \n10 Minutes \n \nActing Zoning \nAdministrator\nCPDO\n2.6 Makes positive \nrecommendation \nand updates the \nBPLS system\nNone \n5 Minutes \n \nZoning Officer\nIV\nCPDO",
+      "Note: Applications \nare evaluated \nbased on the \nproposed land use \nactivity and its land \nclassification\n2.7 Routes \ndocuments to ZED \nreceiving/releasing \npersonnel and \nupdates document \ntracking system\nNone \n5 Minutes \n \nZoning Officer\nIV\nCPDO\n2. Claims \napplication \ndocuments\n3. Releases \ndocuments to \nclient/s\nNote: \n \n-If non-compliant \napplications, client \nwill receive denial \nletter. \n \nDenied \napplications are \nadvised to appeal \nthrough the Local \nZoning Board of \nAdjustments and \nAppeals \n \n-If conditional \napproval clients \nare required to \nsubmit additional \nrequirements for"
+    ]
+  ],
+  "ground_truth": [
+    "Requesting official demographic, zoning, or land-use data from CPDO requires a written letter request (hard copy or email). The request is routed via the Document Tracking System, approved by the Department Head, and processed within 2 days, 3 hours."
+  ]
+}

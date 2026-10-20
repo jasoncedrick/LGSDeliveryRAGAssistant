@@ -1,0 +1,42 @@
+{
+  "registered_before_inference_utc": "2026-10-19T13:06:17.846960+00:00",
+  "candidate_registration_sha256": "a5085fad279f8c7e57d2378a6164e84880f848ad94b701ae036b0d99b2a2da9f",
+  "source_crosswalk_sha256": "292bcaf0dfce5b524caed604b6ae33337ff625ce54280dd37b905223346f08e5",
+  "benchmark_sha256": "ec91a961df48ea165291a9e5e306de88b2668b42be927922e88f3255f6781054",
+  "execution_code_hashes": {
+    "scripts/run_t07_final_abc.py": "1b0686ce95054fc7912f8ec1e05baac4fe0991a4b9fc9d6c1c3b55ca189cc0c2",
+    "scripts/run_t07_final_workflow.py": "ee4a2ee52fb18784fbfc4dcd9482e34ae71a601fb915213a8fb4ca6960581f21",
+    "scripts/score_final_ragas.py": "5a78bbf6107eb2a11ba97693e5316057a3f899338ea3d00990749f175d6cf63f",
+    "scripts/export_t07_final_metrics.py": "04685e5b0a78bdb08f96a9967248cf357acf94ee6b52c000d8e061874a429f10",
+    "scripts/align_t07_source_spans.py": "656b8a202d21ad511c91dd10e52a10f1946fa5bd76c7f1c24235ea6365324ddf",
+    "scripts/build_t07_final_scorer.py": "8909d8fadf2ea2e7c45cd15ce9b7591fe7c5ebfdfaa72b67077c081dbeb39906"
+  },
+  "configurations": [
+    "A",
+    "B",
+    "C"
+  ],
+  "groups": 70,
+  "queries_per_configuration": 210,
+  "planned_interactions": 630,
+  "k": 3,
+  "weights_B_C": [
+    0.75,
+    0.25,
+    0.0
+  ],
+  "frozen": true,
+  "evaluator_flags": [
+    "--strict-metric-json",
+    "--strict-recall-json"
+  ],
+  "original_benchmark_unchanged": true,
+  "held_out_accessed": true,
+  "label_policy": "Source-span crosswalk only, registered before outcomes. Incomplete groups keep all queries but Hit/MRR null. Report source-overlap relevance transfer and denominators; no claims of complete gold coverage.",
+  "coverage": {
+    "complete_groups": 59,
+    "total_groups": 70
+  },
+  "resume_policy": "Never regenerate a recorded outcome. An interrupted in-flight attempt is archived as interrupted rather than retried. Judge outputs use the same single-pass policy.",
+  "protocol_amendment": "Evaluation adapter and source-span ID transfer registered after structural test preflight but before any model outcomes. Generation/retrieval model, prompts, weights, K and corpus unchanged. No test-driven tuning."
+}

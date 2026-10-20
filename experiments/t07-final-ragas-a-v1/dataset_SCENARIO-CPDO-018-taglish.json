@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang Certificate of Completion of Subdivision at sinong ahensya ang nag-eendorse nito sa DHSUD?"
+  ],
+  "answer": [
+    "Ang Certificate of Completion of Subdivision ay nagpapahayag na nakapagtapos na ang subdivision project sa kasunduan ng plano na nakalagay sa approval ng Housing and Land Use Regulatory Board (HLURB). Ang ahensya na nag-eendorse nito sa Department of Human Settlements and Urban Development (DHSUD) ay ang City Housing Land Use and Regulatory Unit (CHLURU) bilang nakasaad sa [S2]."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "16. Certificate of Completion of Subdivision \nA resolution of the City Housing Land Use and Regulatory Unit (CHLURU) favorably \nendorsing a subdivision application wherein the project has been completed based on \nthe approved plan to the HLURB. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nHighly Technical\nType of Transaction \nG2G – Government to Government; G2B – \nGovernment to Business; G2C – Government to \nCitizen\nWho may avail \nProperty Owner or Authorized Representa",
+      "TIFICATE OF OCCUPANCY. Other service cells are blank in source; blank is not an exemption statement.]\n\nCertificate of Completion\n[REPRESENTATION: Matrix dot shown for: CERTIFICATE OF OCCUPANCY. Other service cells are blank in source; blank is not an exemption statement.]\n\nCertified true copy of assessment fee for securing Certificate of         \nOccupancy from OBO\n[REPRESENTATION: Matrix dot shown for: CERTIFICATE OF OCCUPANCY. Other service cells are blank in"
+    ]
+  ],
+  "ground_truth": [
+    "The Certificate of Completion of Subdivision (COC) is a resolution from the City Housing Land Use and Regulatory Unit (CHLURU) favorably endorsing to DHSUD/HLURB that the project has been fully completed according to approved engineering plans."
+  ]
+}

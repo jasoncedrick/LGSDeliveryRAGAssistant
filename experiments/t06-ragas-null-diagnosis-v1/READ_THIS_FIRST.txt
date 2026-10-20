@@ -1,0 +1,21 @@
+STEP 1 - OFFLINE RAGAS NULL DIAGNOSIS
+
+All three nulls were reproduced from saved judge outputs using the installed RAGAS parser and metric functions. No server, model generation, embeddings, or source-answer edits were used. Original files remain hash-identical.
+
+SCENARIO-CTO-003-english / context_precision
+Fifth context verdict is nested under verification; RAGAS looks only for a top-level verdict. The missing value propagates NaN through average precision.
+Expected: One JSON object per context, with top-level reason and verdict; verdict must be string "0" or "1" for this installed implementation.
+
+SCENARIO-OCBO-006-english / answer_relevancy
+All three outputs use answer and context fields instead of the required top-level question. RAGAS sees only empty generated questions and returns NaN before embedding.
+Expected: Exactly one JSON object per generation, with top-level question (string) and noncommittal (integer 0 or 1). No repeated objects or arrays.
+
+SCENARIO-BFP-004-taglish / answer_relevancy
+Each of the three outputs contains eight consecutive JSON objects. The RAGAS loader returns a list for each output; answer relevancy ignores non-dict entries, obtains no questions and returns NaN before embedding.
+Expected: Exactly one JSON object per generation, with top-level question (string) and noncommittal (integer 0 or 1). No repeated objects or arrays.
+
+Interpretation: the evaluator did not receive the JSON shape its scoring code requires. This does not establish that the citizen-facing answer is correct. Do not rename fields, unwrap objects or select a convenient question retroactively to replace the published nulls.
+
+Recommended next small step: add versioned evaluator-only output constraints and local contract tests, then run only these three cases in a new diagnostic folder when the local model server is available. A three-case retry is a diagnostic result, not an unbiased replacement full-set score.
+
+Manual action: none needed to establish these causes. Model server required only for a new judge run. Source/reference validation (step 2) remains separate and has not started in this diagnosis.

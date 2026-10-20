@@ -1,0 +1,18 @@
+{
+  "question": [
+    "How does the BFP integrate with the eBOSS backroom operations for one-time assessment and payment in Davao City?"
+  ],
+  "answer": [
+    "In Davao City, the BFP integrates with the eBOSS backroom operations for one-time assessment and payment through a shared information system with the OSCP/BOSS [S1, S2]. For this process, the Fire Code Assessor (FCA) is responsible [S2]. The payment is made, and the Official Receipt (OR) is issued [S1, S2]. The citizen then proceeds to the releasing window to claim the stub by presenting the OR [S1, S2]. The processing time for this step is maximum of ten (10) minutes [S1, S2]."
+  ],
+  "contexts": [
+    [
+      "proceed to releasing\nwindow to claim the stub by presenting the OR.\nNote: Releasing date and time of FSEC is\nindicated in the claim stub.\n\nAGENCY ACTION: 3. Collect the payment and issue Official\nReceipt (OR)\nFor OSCP/BOSS : Backroom operation with\nOSCP/BOSS for one-time payment thru\nco-location\nFor Local Stations with MOA with the LGUs, fire\ncode fees/taxes shall be collected by the LGUs\n\nPROCESSING TIME: maximum of ten (10) minutes\n\nPERSON",
+      "applicant queuing number and issue OPS.\nFor OSCP/BOSS : Backroom operation with\nOSCP/BOSS for one-time assessment thru\nsharing of information\n\nPROCESSING TIME: maximum of ten (10) minutes\n\nPERSON RESPONSIBLE: Fire Code Assessor\n(FCA)\n\nAGENCY ROW 3\n\nCLIENTS STEP: 3. Present the OPS and pay the corresponding\nFire Code Fees indicated in the OPS.\nUpon receipt of the OR, proceed to releasing\nwindow to claim the stub by presenting the OR.\nNote: Re",
+      "232; 8426-0246; 8426-0253 Local 607 or \nthrough the email at: bfpnhq_ias@yahoo.com or ias.nhq@bfp.gov.ph\nHow Complaints are processed\nIn BFP NHQ, complaints may be filed at the Internal Affairs Service (IAS), who will attend to the Client/Customer    \nconcerns by calling into attention the staff/office concerned from the national level down to the city/municipal level.\nIn BFP Regional and Provincial/District Offices, on"
+    ]
+  ],
+  "ground_truth": [
+    "Under the eBOSS backroom framework, BFP coordinates with the LGU via automated information sharing for one-time assessment within a maximum of 10 minutes, and co-located one-time payment within 10 minutes."
+  ]
+}

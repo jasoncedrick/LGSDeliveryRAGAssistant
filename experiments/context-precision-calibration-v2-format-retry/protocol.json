@@ -1,0 +1,8 @@
+{
+  "source_results_sha256": "c9936607e03001559d68d402e41a12ea97706679fdde86e4d36d3f8b337c4854",
+  "retry_suffix": "\nOutput-format retry only. Apply the same usefulness criterion to the same item. Return exactly one JSON object with reason, verdict and evidence_quotes. If verdict is \"1\", give exactly ONE short verbatim quote from the actual retrieved context, preferably fewer than 15 words; do not complete truncated words, join nonadjacent passages or quote the reference. If verdict is \"0\", use evidence_quotes: []. Do not add other quotes or text.",
+  "retry_policy": "Exactly one retry per invalid output; no valid disagreement is retried. All 60 original cases retained. Invalid remains missing.",
+  "held_out_accessed": false,
+  "original_scores_changed": false,
+  "scope": "Supplemental evaluator format recovery, not independent validation"
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Paano kinokwenta ang renta sa pwesto sa palengke at magkano ang dagdag kapag nasa front corner ang stall?"
+  ],
+  "answer": [
+    "Sa palengke, ang renta sa pwesto ay kinokwenta per square meter per day. Sa ilalim ng City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf [S2, S3], ang mga klase ng pwesto ay Class A, B, C, at D. Sa Class D, ang mga tao na may average monthly income ng less than P 700,000.00 sa preceding six (6) months ang nakakakuha ng klase D.\n\nSa pwesto na nasa front corner, ang dagdag sa renta ay 20% ng rates imposed. Ang mga detalye sa rates imposed ay hindi nakalaman sa mga nabigyan naming source. Ang mga kasama sa front corner stall/stalls o booth/booths ay hindi din nakalaman sa mga nabigyan naming source."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "months.\nClass D \nThose with an average monthly income of less than P \n700,000.00 during the preceding six (6) months.\nSection 348\nMARKET RENTAL FEES, OTHER CHARGES\nThat for better located stall/stalls or booth/booths such as those facing the street or \nthose corner booth/stalls, the following will be added to the above-prescribed fees, as \nfollows:\n1. Front corner stall/stalls or\nbooth/booths  \n20% of the rates imposed\n2. Front stall/stalls or",
+      "booth/booths  \n20% of the rates imposed\n2. Front stall/stalls or booth/booths \n15% of the rates imposed\n3. Inside corner stall/stalls of\nbooth/booths \n10% of the rates imposed\nThere shall be an automatic increase of fifteen percent (15%) effective 2018 and \nevery four (4) years thereafter to be computed based on the existing rates of fees to the \nincreasing cost of maintenance operations.\nMarket Rental Fees\nPer Square Meter Per Day\nClass A \nClass B \nClass C \nClass D\n1. Meat \nP 4"
+    ]
+  ],
+  "ground_truth": [
+    "Public market rental rates vary by classification and section (e.g., Meat Class A is PHP 40.00/sq.m./day; Class D is PHP 13.50). Additional location surcharges apply: 20% for front corner stalls, 15% for front stalls, and 10% for inside corner stalls."
+  ]
+}

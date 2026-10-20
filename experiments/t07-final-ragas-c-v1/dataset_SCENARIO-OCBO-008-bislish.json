@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ang bayad sa Demolition Permit matag metro kwadrado sa salog ug sa gitas-on sa building?"
+  ],
+  "answer": [
+    "Sa Demolition Permit, ang bayad sa metro kwadrado sa salog ug sa gitas-on sa building ay nasa P3.00 sa bawat metro kwadrado sa salog ug sa gitas-on sa building systems/Frames o portion thereof per vertical o horizontal dimensions, including fences ay nasa P4.00 ([S3])."
+  ],
+  "contexts": [
+    [
+      "Section 349\nMARKET FEES FOR AMBULANT/TRANSIENT VENDORS\nMarkets\nRate of Fees per \nSquare Meter of \nFraction Thereof\nper Day\nClass A \nP 8.00\nClass B \n6.00\nClass C \n4.00\nClass D \n2.00\nTime \nfor \nPayment \n/ \nPenalties \nfor \nDelinquency. \n- \nThe \nmonthly\nrentals for market stalls shall become due and payable within the first twenty (20) days of \nthe month. Failure to pay the rental within the period required herein shall subject the \nLessee/Occupant to a surcharge of twenty-fi",
+      "ified estimated value\n(materials and labor) of the building/structure or\nfacility but not more than Php 50,000.00\nSample computation:\nFCCT = (Verified estimated value) x (.1%) = ___Php\nbut not more than Php 50, 000.00\nNote: Section 8.3.6 of JMC 2021-01 Series of\n2021—In the event that there is substantial\ndifference between the cost estimate of the building\nor structure as declared by the owner or applicant\nin the UAF from current acceptable market\nconstruction cost per square meter or as indicated\nin",
+      "DEMOLITION PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\nDESCRIPTION \nFEE\nBuildings in all Groups per sq.  \nmeter floor area\nPhp      3.00\nBuilding Systems/Frames or portion thereof per vertical \nor horizontal  \ndimensions, including fences\nPhp      4.00\nStructures of up to 10.00 meters in height \n  \nEvery meter or portion thereof"
+    ]
+  ],
+  "ground_truth": [
+    "Demolition fees under the National Building Code IRR are: PHP 3.00 per sq.m. of floor area for buildings in all groups; PHP 800.00 for structures up to 10m high plus PHP 50.00 per meter in excess; and PHP 3.00 per sq.m. of area to be moved."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What is the procedure for securing a new business permit FSIC if a valid FSIC was already issued during occupancy?"
+  ],
+  "answer": [
+    "The procedure for securing a new business permit with a valid FSIC that was already issued during occupancy can be found in the following sources:\n\n1. [S1] - The specific application type is listed as \"NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE\".\n2. [S2] - This application type is represented in the matrix shown.\n3. [S3] - The assessment of the Business Permit Fee/ Tax Assessment Bill is also applicable for this application type."
+  ],
+  "contexts": [
+    [
+      "NEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPANCY\nPERMIT STAGE\nNEW  BUSINESS    \nPERMIT WITHOUT\nVALID FSIC\nISSUED DURING\nOCCUPANCY\nPERMIT STAGE\nRENEWAL OF\nBUSINESS\nPERMIT\nRENEWAL OF\nBUSINESS PERMIT\nWITHOUT VALID FSIC\nOR EXPIRED FSIC/\nWITH EXISTING\nVIOLATION OF THE\nFIRE CODE/INCLUDED \nIN THE NEGATIVE LIST\nA   P   P   L   I   C   A   T   I   O   N",
+      "any\n[REPRESENTATION: Matrix dot shown for: NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE N",
+      "Assessment of Business Permit Fee/ Tax Assessment Bill from              \nBusiness Processing and Licensing Office (BPLO)\n[REPRESENTATION: Matrix dot shown for: NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC"
+    ]
+  ],
+  "ground_truth": [
+    "For new business permits where a valid FSIC was already issued during the Occupancy Permit stage, the applicant presents the certified true copy of the valid occupancy FSIC, paying the 15% FSIF assessment without requiring a separate pre-operational inspection."
+  ]
+}

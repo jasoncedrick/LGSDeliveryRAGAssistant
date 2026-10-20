@@ -1,0 +1,26 @@
+--- group.before.json
++++ group.candidate.json
+@@ -3,12 +3,11 @@
+   "pillar": "City Treasurer's Office",
+   "split": "development",
+   "ground_truth_chunk_ids": [
+-    "DEV120-CTO-PDF0010-C001",
+-    "DEV120-CTO-PDF0010-C002",
+-    "DEV120-CTO-PDF0011-C001",
+-    "DEV120-CTO-PDF0011-C002"
++    "DEV120-CTO-PDF0011-C002",
++    "DEV120-CTO-PDF0009-C001",
++    "DEV120-CTO-PDF0009-C002"
+   ],
+-  "ground_truth_reference_answer": "Under Section 34 of the 2017 Revenue Code of Davao City, the Tax on Transfer of Real Property Ownership is imposed at the rate of 0.75% (or up to 1%) based on the total consideration or the fair market value of the real property, whichever is higher. In addition, a Transfer Tax Certification fee of PHP 50.00 is charged (plus PHP 20.00 for every additional page). Requirements include the original notarized Deed of Transfer, photocopy of Title from the Registry of Deeds, and original Tax Declaration (DRPV).",
++  "ground_truth_reference_answer": "The transfer-tax computation cannot be reliably determined from this charter passage: Annex4 literally prints \"Transfer Tax is equal to 87% or 1% based on the consideration or the market value whichever is higher.\" This apparent source anomaly must be clarified; it does not support substituting 0.75% or using 87% as a practical tax rate.\n\nThe certification fee table lists PHP50 plus PHP20 for each additional page. Requirements: title photocopy for verification only; notarized Deed of Transfer (1 original); Tax Declaration/Declaration of Real Property Tax Valuation (1 original).",
+   "queries": {
+     "english": "How is the Real Property Transfer Tax computed in Davao City and what is the fee for the transfer certification?",
+     "taglish": "Paano kinukwenta ang Transfer Tax sa lupa sa Davao City at magkano ang bayad sa certification fee?",
+@@ -19,5 +18,5 @@
+     "CHUNK-CTO-P166-C01",
+     "CHUNK-CTO-P166-C02"
+   ],
+-  "mapping_status": "PROVISIONAL_EXACT_SPAN_MAPPING"
++  "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED"
+ }

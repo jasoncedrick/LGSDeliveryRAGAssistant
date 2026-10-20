@@ -1,0 +1,22 @@
+{
+  "group_id": "SCENARIO-OCBO-002",
+  "pillar": "Office of the City Building Official",
+  "split": "development",
+  "ground_truth_chunk_ids": [
+    "DEV120-OCBO-PDF0004-C001",
+    "DEV120-OCBO-PDF0004-C002",
+    "DEV120-OCBO-PDF0004-C003",
+    "DEV120-OCBO-PDF0004-C004"
+  ],
+  "ground_truth_reference_answer": "For construction, addition, or minor repair of structures that are three (3) storeys and above, OCBO enforces mandatory conditional safety submittals: 1) Construction Safety & Health Program (CSHP) approved by the Department of Labor and Employment (DOLE) (1 original, 1 photocopy); and 2) Boring and Plate Load Soil Test Report (2 copies) signed and sealed by a licensed Civil/Geotechnical Engineer. If applying for an additional storey, an Affidavit manifesting that the existing foundation can support the proposed additional floors is required.",
+  "queries": {
+    "english": "What additional engineering and safety requirements are imposed by OCBO for buildings that are 3 storeys and above?",
+    "taglish": "Ano ang karagdagang requirements ng OCBO kapag ang itatayong gusali ay may 3 floors pataas?",
+    "bislish": "Unsa ang dugang requirements sa OCBO kung 3-storey pataas ang building nga itukod?"
+  },
+  "legacy_ground_truth_chunk_ids": [
+    "CHUNK-OCBO-P492-C02",
+    "CHUNK-OCBO-P492-C03"
+  ],
+  "mapping_status": "PROVISIONAL_EXACT_SPAN_MAPPING"
+}

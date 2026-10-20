@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga rekisitos ug pirma sa enhinyero nga kinahanglan i-pass sa OCBO sa dili pa mag-guba ug building?"
+  ],
+  "answer": [
+    "Sa pag-apply sa Building Permit sa OCBO (Office of the Building Official), ang mga rekisito nga kinahanglan i-present sa notarized pirma ng engenheiro ang nabasa sa [S1] at [S2].\n\nSa [S1], ang mga rekisito nga kinahanglan i-present sa OCBO sa Building Permit application ang:\n- 9. Approved plan of Building Permit (1 original)\n- Owner/Applicant\n\nSa [S2], ang mga rekisito nga kinahanglan i-present sa OCBO sa Building Permit application kung ang proyekto ay nakahuman sa isa kang profesyonal kung sa ilalim ng application ng Building Permit, ang:\n- 10. Signed and duly notarized waiver from previous professional in-charge (1 original)\n- Waiving Party\n\nSa [S2] din, ang mga rekisito nga kinahanglan i-present sa OCBO sa Building Permit application ang:\n- 11. Structure Images with CAAP clearance (Submit structural survey for the actual building height) signed and sealed by a duly licensed Geodetic Engineer (CAAP & Hired Geodetic Engineer)\n\nSa mga rekisito nabasa sa [S1] at [S2], ang mga rekisito nga kinahanglan i-present sa OCBO sa Building Permit application ang notarized pirma ng engenheiro."
+  ],
+  "contexts": [
+    [
+      "Official Receipt (OR) \ndocuments, OP \nand OR \n  \n \n \n \n5.2 Forward to \nPED Chief for \nFinal \nRecommendation \n  \n5.3 Forward to \nBuilding Official \n(BO) for signing \nand approval \n  \n5.4 Stamp \nSidewalk \nOccupancy \nPermit number on \nplans and \ndocuments \n     \n \n \n5.5 Notify client \nthat approved \nplans and \ndocuments are \nready for claiming\n4 Hours\n1 Day\n4 Hours\n10 Minutes\nPlanning and \nDevelopment\nOCBO\nPED Chief –\nOCBO\nBuilding Official –\nOCBO\nEngineering Staff\nRecords\nCustodian –\nOCBO\nRecords\nManagement \nAssistant –\nOCBO\n6. Claim the approved plans \nand",
+      "Applicant\n9. Approved plan of Building Permit  \n1 original\nOwner/Applicant\n10. If the project has been undertaken/assigned \nto a professional other than the professional-in-\ncharge upon application of building permit, \nsigned and duly notarized waiver from previous \nprofessional in-charge \n     1 original\nWaiving Party\n11. Structure Images with CAAP \nclearance(Submit structural survey for the actual \nbuilding height) signed and sealed by a duly \nlicensed Geodetic Engineer\nCAAP & Hired Geodetic Engineer\nCLIENT",
+      "Login to \nappbts.davaocity.gov.ph \nand update his/her \ncontact info: email \naddress, contact nos. \nand upload documents \nrequired for updating of \ndetails:\ni. \nAttached: ID \n(authorized \nrepresentative-if \ntransacting \nperson is not the \nowner)\nii. \nSPA for single \nproprietorship \nand Secretary \nCertificate for \nCorporation\nClient will receive thru \nemail and SMS an \naccess code (once \naccess code has been \nreceived). Then, the \nTaxpayer may now \nrenew his/her business \npermit, Print out the \napplication form and \nproceed"
+    ]
+  ],
+  "ground_truth": [
+    "A Demolition Permit requires a demolition form, 3 sets of civil/architectural plans signed and sealed by a civil engineer/architect, vicinity sketch plan by a geodetic engineer, bill of materials, owner ID, and DPWH clearance if along a national highway."
+  ]
+}

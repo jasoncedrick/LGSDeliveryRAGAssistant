@@ -1,0 +1,18 @@
+{
+  "question": [
+    "How is the Real Property Transfer Tax computed in Davao City and what is the fee for the transfer certification?"
+  ],
+  "answer": [
+    "The Real Property Transfer Tax (RPTT) in Davao City is computed based on a specific percentage of the assessed value of the real property, grasslands, buildings, machinery, and other improvements attached to the real property. The basic RPTT rate is 1.5% of the assessed value [S2].\n\nAdditionally, there is an Additional Levy on Real Property for the Special Education Fund (SEF) which is a 1% tax on the assessed value of real property, in addition to the basic RPTT. The proceeds from this levy are exclusively for the SEF [S2].\n\nThe fee for the Real Property Transfer Tax Certification is not explicitly stated in the provided sources. However, for individuals or entities owning real property worth more than Ten Thousand Pesos (P10,000.00), the fee is Two Pesos (P2.00) for every Five Thousand Pesos (P5,000.00) of real property owned, and an additional fee for every Five Thousand Pesos (P5,000.00) of gross receipts or earnings [S3].\n\nThe Real Property Transfer Tax Certification process includes generating and signing the Real Property Transfer Tax Certification, client signing the logbook as proof of release, and releasing the Real Property Transfer Tax Certification to the client. The total time for this process is approximately 1 hour and 15 minutes, as detailed in [S1]."
+  ],
+  "contexts": [
+    [
+      "respective District \nOffices.\n4.2 Generate\nand sign \nthe Real \nProperty \nTransfer \nTax \nCertificatio\nn.\n1 Hour \nLocal Treasury\nOperations \nOfficer IV\n-or-\nCTO District \nTreasurers\n5. Client signs the\nlogbook as proof \nof Transfer Tax \nCertification \nrelease at \nWindow 10, \nRPTD, CTO SP \nOffice, or the \nrespective \nDistrict Offices.\n5. Release\nthe Real \nProperty \nTransfer \nTax \nCertificatio\nn to the \nclient.\nNone\n15 Minutes\nTicket Checker\n(CTO\nPoblacion)\n-or-\nAssigned \nPersonnel\n(CTO District\nOffices)\nTOTAL:\nAttach",
+      "(1.5%) of the assessed \nvalue of real property, grasslands, buildings, machinery and other improvements affixed \nor attached to real property located in this City.\nSection 8. Additional Levy on Real Property for the Special Education Fund \n(SEF) – This is hereby levied a one percent (1%) tax on the assessed value of real \nproperty which shall be in addition in the basic real property tax. The proceeds thereof \nshall accrue exclusively to the Special Education Fund (SEF).",
+      ", shall exceed Ten Thousand Pesos (P10,000.00) in \naccordance with the following schedule:\n(a) For every Five Thousand Pesos (P5,000.00) worth of real property in the\nPhilippines owned by it during the preceding year based on the valuation used in \nthe payment of real property tax under existing laws, found in the assessment rolls \nof this city where the real property is situated - Two (P2.00) Pesos; and\n(b) For every Five Thousand Pesos (P5,000.00) of gross receipts or earn"
+    ]
+  ],
+  "ground_truth": [
+    "The charter literally states: \"Transfer Tax is equal to 87% or 1% based on the consideration or the market value whichever is higher.\" This reports the printed wording; the intended applicable rate is not resolved by that statement. Do not silently replace it with 0.75%.\n\nThe certification fee table lists PHP50 plus PHP20 for each additional page. Requirements: title photocopy for verification only; notarized Deed of Transfer (1 original); Tax Declaration/Declaration of Real Property Tax Valuation (1 original)."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What technical engineering requirements and airport proximity clearances are mandatory for billboard construction permits?"
+  ],
+  "answer": [
+    "For billboard construction permits, the following technical engineering requirements and airport proximity clearances are mandatory based on the Business Bureau's Citizen Charter 2026 [S1].\n\n1. New Application: mandatory DTI-PCAB License (Prior To Logo) [S1]\n\nRegarding airport proximity clearances, the document does not provide specific information about airport proximity clearances for billboard construction permits. However, it is advisable to consult with the appropriate authorities to ensure compliance with any necessary regulations."
+  ],
+  "contexts": [
+    [
+      "of Compliance; \nCert. of Phil.Registry\nBuilding Contractor /  General \nEngineering / Specialty Engineering / \nSub-Contractors\nProfessional Regulation Commission \nLicense, PTR, (if applicable)\nNew Application: mandatory DTI-PCAB \nLicense (Prior To Logo)\nCanine Dog Security/Watchdog Provider \nNew Application: subject to for 1st \nOperations COR from the supervisory \noffice for Security& Investigation \nServices (PNP, Camp Crame)\nCasino \nNew Application: mandatory City \nDevelopment Council, SP Ordinance\nCockpits \nNew Application: mandato",
+      "mendation \n  \n \n5.3 Forward to \nBuilding Official \n(BO) for signing \nand approval \n  \n5.4 Stamp Fencing \nPermit number on \nplans and \ndocuments \n  \n \n \n \n \n \n5.5 Notify client \nthat approved \nplans and \ndocuments are \nready for claiming\nNone \n30 Minutes\n4 Hours\n1 Day\n4 Hours\n10 Minutes\nTechnical\nAssistant on \nPlanning and \nDevelopment\nOCBO\nPED Chief –\nOCBO\nBuilding Official\n– OCBO\nEngineering\nStaff\nRecords\nCustodian –\nOCBO\nRecords\nManagement \nAssistant –\nOCBO",
+      "TI Accreditation(mandatory)\nShipping Yard \nMaritime Industry Authority Certificate Of \nRegistration\nStall Holder \nNew Application: mandatory Stall Status \nand Market Clearance\nSubdivision Developer \nNew Application: mandatory HLURB \nLicense to Sell/Operate & SP Ordinance\nTechnical And Skills Training Center \nTechnical Education And Skills \nDevelopment Authority Accreditation\nTelephone Company \nNTC License To Operate\nTelevision Stations \nCongressional Franchise, Sangguniang \nPanlungsod Resolution\nTerminal Garage For Public Utility \nVehicles\nTraffic Management And Control Board / \nDa"
+    ]
+  ],
+  "ground_truth": [
+    "New Billboard applications require structural plans, design analysis signed by a civil/structural engineer, CPDO locational clearance, Certificate of Structural Stability, insurance policy, DPWH clearance (if along national highway), and CAAP clearance if within 2km of the airport."
+  ]
+}

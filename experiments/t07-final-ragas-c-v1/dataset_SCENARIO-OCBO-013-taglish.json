@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Magkano ang annual renewal fee para sa illuminated business signs kumpara sa commercial billboard advertising?"
+  ],
+  "answer": [
+    "Sa ilalim ng Citizens' Charter ng Davao City, ang annual renewal fee para sa illuminated business signs ay P72.00 kumpara sa commercial billboard advertising na P124.00. Maraming salamat!\n\nReferences:\n[S1] OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 566 | chunk DEV120-OCBO-PDF0078-C002\n[S2] OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 566 | chunk DEV120-OCBO-PDF0078-C003"
+  ],
+  "contexts": [
+    [
+      "sq.meters………………………………………….P \n  24.00\nInstallation Fees, per sq.meters or fraction thereof\nOf display surface:\nType of Sign \nDisplay\nBusiness Signs \nAdvertising Signs\nNeon \nP         36.00 \nP          52.00\nIlluminated \nP         24.00 \nP          36.00\nOthers \nP         15.00 \nP          24.00\nPainted-on \nP          9.60 \nP          18.00\nAnnual Renewal Fees, per sq.meter of display surface or fraction thereof:\nType of Sign Display     Business Signs \nAdvertising Signs\nNeon \nP36.00, min. fee  \nshall be P124.00\nP",
+      "Signs \nAdvertising Signs\nNeon \nP36.00, min. fee  \nshall be P124.00\nP46.00, min. fee \nshall be P200.00\nIlluminated \nP18.00, min. fee  \nshall be P72.00\nP38.00, min. fee \nshall be P150.00\nOthers \nP12.00, min. fee  \nshall be P40.00\nP20.00, min. fee \nshall be P110.00\nPainted-on \nP8.00, min. fee  \nshall be P30.00\nP12.00, min. fee \nshall be P100.00",
+      "es \nshall be charged to cover all inspection trips during construction.\nii. Annual Inspection Fees are the same as in Section 4.e.\nSection 4.e Electrical Fees:\nThe following schedule shall be used for computing electrical fees in residential, \ninstitutional, commercial and industrial structures:\na. Total Connected Load (kVA) Fee\n5 kVA or less \nP 200.00\nOver 5 kVA to 50 kVA \n200.00 + P 20.00/kVA\nOver 50 kVA to 300 kVA \n1,100.00 + 10.00/kVA\nOver 300"
+    ]
+  ],
+  "ground_truth": [
+    "Annual Sign Permit renewal fees per sq.m. of display area are: Neon = PHP 36.00 (PHP 124 min) for business, PHP 46.00 (PHP 200 min) for advertising; Illuminated = PHP 18.00 (PHP 72 min) for business, PHP 38.00 (PHP 150 min) for advertising; Painted = PHP 8.00 (PHP 30 min) for business, PHP 12.00 (PHP 100 min) for advertising."
+  ]
+}

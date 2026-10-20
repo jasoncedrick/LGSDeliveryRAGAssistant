@@ -1,0 +1,11 @@
+FRAMEWORK AND METHODOLOGY ALIGNMENT
+20260923.pdf PDF pages 24-25, Figure 2 and Chapter 3.1: dictionary injection, Mistral translation, hybrid retrieval, grounded generation, offline evaluation. No inline evaluator or rewrite chain added.
+PDF 28, section 3.2.2: original 120-token source windows and 20-token overlaps preserved. No synthetic source content, section expansion or special service routing.
+PDF 29, section 3.2.3: archived normalization retained, maximum 150 tokens and original ambiguity gate retained. The new prompt revision was rejected, not promoted.
+PDF 30, section 3.2.4: rank_bm25 scores each chunk; corpus/query punctuation handling is consistent. Dense embeddings and FAISS are unchanged. Min-Max scoring and nonnegative simplex fusion remain in place.
+PDF 33, section 3.2.7: same 30 development groups / 90 queries. Same declared 17 weight combinations, K=3/5. Objective J is Context Precision macro mean across 15 office-language cells, six queries per cell. Stopped queries count zero; invalid judge outputs remain null and block final grid selection.
+PDF 34, section 3.2.8: no held-out reads. Corpus, dictionary, prompts, code and indices must be registered before final testing. This candidate is not frozen or deployed.
+Tracker grounding: authoritative Thesis Tracker requirements archived in experiments/t06-formal-development-validation-v4/methodology_and_tracker.json. T06 is harness implementation; full T07 requires frozen A/B/C comparison. No workbook status changed.
+
+Limits retained: C shares static lexical guidance; normalization still changes some English queries. BFP fee exception can fall outside K. Local judge can accept unsupported claims. Automated scores are not expert certification. These are review items, not grounds to conceal outputs or alter test questions.
+Punctuation tokenization is an implementation revision within sparse indexing, not a new conceptual stage. It must be documented in the eventual freeze manifest and applied consistently to A, B and C.

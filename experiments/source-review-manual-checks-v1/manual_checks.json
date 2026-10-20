@@ -1,0 +1,31 @@
+{
+  "scope": "Current Business Bureau reviews only; not a certification of unreviewed offices.",
+  "immediate_user_action_required": false,
+  "items": [
+    {
+      "group": "BB-005",
+      "status": "conditional_official_clarification",
+      "condition": "Only if a precise late-fee amount or formula is required.",
+      "issue": "Source supplies P1,000-P5,000 range after more than 30 days; no selection rule.",
+      "source": "printed114/PDF75"
+    },
+    {
+      "group": "BB-006",
+      "status": "conditional_official_clarification",
+      "condition": "Only if a computed ICAB fee is required.",
+      "issue": "every unit does not establish each additional unit; preserve exact wording.",
+      "source": "printed120/PDF81"
+    },
+    {
+      "group": "All",
+      "status": "later_independent_expert_audit",
+      "issue": "Assistant source checks are not expert certification."
+    },
+    {
+      "group": "BFP",
+      "status": "pending_assistant_review",
+      "issue": "Context association still to review; no user action requested yet."
+    }
+  ],
+  "remaining_provisional_groups": 20
+}

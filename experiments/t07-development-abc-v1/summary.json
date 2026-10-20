@@ -1,0 +1,31 @@
+{
+  "held_out_accessed": false,
+  "configurations": {
+    "A": {
+      "statuses": {
+        "ANSWERED": 90
+      },
+      "hit_at_k": 0.6777777777777778,
+      "mrr_at_k": 0.4296296296296296
+    },
+    "B": {
+      "statuses": {
+        "ANSWERED": 83,
+        "GENERATION_INCOMPLETE": 1,
+        "CLARIFICATION_REQUIRED": 6
+      },
+      "hit_at_k": 0.7,
+      "mrr_at_k": 0.6166666666666667
+    },
+    "C": {
+      "statuses": {
+        "ANSWERED": 84,
+        "CLARIFICATION_REQUIRED": 6
+      },
+      "hit_at_k": 0.7,
+      "mrr_at_k": 0.6166666666666667
+    }
+  },
+  "ragas_status": "Pending; generation and retrieval only",
+  "freeze": false
+}

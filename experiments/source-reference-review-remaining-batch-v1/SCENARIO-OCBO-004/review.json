@@ -1,0 +1,16 @@
+{
+  "group_id": "SCENARIO-OCBO-004",
+  "review_status": "needs_correction",
+  "reviewer": "assistant",
+  "findings": [
+    "Core rates/validity supported.",
+    "Restore verification conditions, non-foundation excavation row and encroachment fraction wording."
+  ],
+  "manual_check": null,
+  "candidate_applied": false,
+  "limitations": [
+    "Fixed thesis sources, not present-day legal advice.",
+    "Assistant image review is not independent expert certification.",
+    "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Paano kinokwenta ang Transfer Tax sa lupa o ari-arian sa City Treasurer base sa market value o selling price?"
+  ],
+  "answer": [
+    "The Transfer Tax for land or property at the City Treasurer's office is calculated based on either 87% or 1% of the higher consideration or market value, as stated in [S2].\n\nReference: [S2] City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf, printed page 166, chunk DEV120-CTO-PDF0011-C002."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "-or-\nAssigned \nPersonnel\n(CTO District\nOffices)\nTOTAL:\nAttached \nAnnex -\n4\n2 Hours & 52\nMinutes\nANNEX – 4\nAmount of Fee\nClearances, certifications issued by other \noffices not herein specified (plus Twenty Pesos {P 20.00} for every \nadditional page)\nP 50.00\nTransfer Tax is equal to 87% or 1% based on the consideration or the market value \nwhichever is higher.",
+      "UDED \nIN THE NEGATIVE LIST\nA   P   P   L   I   C   A   T   I   O   N      F   O   R   M\nApplied in Fire Station/Lone District Fire Office \nBFP FSEC\nApplication Form\n(DCN No. BFP-QSF-\nFSED-001 REV.02\n(08.24.20))\n[REPRESENTATION: Application-form cell spans: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION.]\n\nBFP FSIC Application Form (DCN No. BFP-QSF-FSED-002 RE"
+    ]
+  ],
+  "ground_truth": [
+    "Transfer Tax on real property ownership requires title photocopy, notarized deed of transfer, and tax declaration. The transfer tax rate is 0.87% to 1.0% based on the total consideration or market value, whichever is higher, plus a PHP 50.00 certification fee."
+  ]
+}

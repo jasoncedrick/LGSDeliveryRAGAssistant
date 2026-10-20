@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang mga requirements para makakuha ng Occupancy Permit kapag tapos na ang construction ng building?"
+  ],
+  "answer": [
+    "To obtain an Occupancy Permit after the construction of a building is complete, the following requirements must be submitted:\n\n1. Application Letter [S1]\n2. The cost of construction for assessing the corresponding fees can be found in Table II.G.1 of the Revised Implementing Rules and Regulations (IRR) of the National Building Code of the Philippines (PD 1096) [S2].\n3. A Sidewalk Enclosure (if applicable) [S3]\n\nPlease note that the specific fees for the Occupancy Permit are not provided in the given sources. You may need to contact the Office of the City Building Official (OCBO) for the current fees.\n\n[Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa mga bayad sa Occupancy Permit.]"
+  ],
+  "contexts": [
+    [
+      "2. Issuance of Occupancy Permit \nAn Occupancy Permit shall be required before any building or structure or portion thereof is used \nor occupied, or the existing use or occupancy classification thereof is changed. \nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; G2G \n– Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Application Letter  \n   1 original",
+      "BUILDING PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\nBases of assessment\nCharacter of occupancy or use of building/structure \nCost of construction \nFloor area \nHeight\nRegardless of the type of construction, the cost of construction of any \nbuilding/structure for the purpose of assessing the corresponding fees shall be \nbased on the following:\nTable II.G.1",
+      "8. Issuance of Sidewalk Enclosure and Occupancy Permit\nA Sidewalk Enclosure and Occupancy Permit shall be required prior to or during the processing of \nthe building permit or before any enclosure shall be made.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to \nBusiness; G2G – Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1.     Sidewalk Enclosure"
+    ]
+  ],
+  "ground_truth": [
+    "Occupancy checklist: application letter (1 original); authorization letter if applicant is not owner (1 original); owner ID with 3 specimen signatures (1 photocopy); Certificate of Occupancy (1 original); Certificate of Completion (1 original); BFP Fire Safety Inspection Certificate (1 original); four-elevation project pictures (front/back/left/right); approved Building Construction, Architectural, Civil/Structural, Sanitary/Plumbing, Electrical and Mechanical installation permits (1 photocopy); approved building-permit plan (1 original).\n\nIf a different professional undertook/was assigned the project, the checklist requires a signed, notarized waiver from the previous professional in charge (1 original). It also lists Structure Images with CAAP clearance and structural survey for actual building height, signed/sealed by a licensed Geodetic Engineer. The authorization-letter source cell says CPDO and the picture source cell says Hired Geodetic Engineer; those unusual source associations are preserved."
+  ]
+}

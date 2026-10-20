@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Anong mga structural stability certs at CAAP clearance ang kailangan para magtayo ng malaking billboard malapit sa airport?"
+  ],
+  "answer": [
+    "Ang mga kailangan para magtayo ng malaking billboard malapit sa airport ay ang CAAP clearance at Certificate of Structural Stability. Maaari mong makita ang mga yan sa [S1] at [S2] sa Citizens' Charter ng Davao City. Ang CAAP clearance ay kasama sa mga nawawala sa structural images ng billboard (Subitem 11 sa [S1]), at ang Certificate of Structural Stability ay nakasaad sa Subitem A.9 sa [S2]."
+  ],
+  "contexts": [
+    [
+      "Applicant\n9. Approved plan of Building Permit  \n1 original\nOwner/Applicant\n10. If the project has been undertaken/assigned \nto a professional other than the professional-in-\ncharge upon application of building permit, \nsigned and duly notarized waiver from previous \nprofessional in-charge \n     1 original\nWaiving Party\n11. Structure Images with CAAP \nclearance(Submit structural survey for the actual \nbuilding height) signed and sealed by a duly \nlicensed Geodetic Engineer\nCAAP & Hired Geodetic Engineer\nCLIENT",
+      "A.8 Sketch/Lot Plan (signed and sealed by a \nduly licensed Geodetic Engineer) reflecting \ncompliance of required setback, location and \nvicinity map  \n– 3 original \n \nA.9 Certificate of Structural Stability   \n– 1 original, 1 photocopy \n \nA.10. Insurance Coverage Policy  \n– 2 original \n \nA.11 If lighted, Electrical Plan (signed and \nsealed by a duly licensed Professional \nElectrical Engineer)  \n– 3 original \n \nA.12. For rented establishments, Lease of \nContract   \n– 1 original, 1 photo",
+      "B. FOR RENEWAL \nB.1. Notarized Application Letter  \n– 1 original, 1 photocopy \n \nB.2. Previous signage permit and its \nattachments including receipt of payment  \n- 1 original/photocopy \n \nB.3. Actual Pictures at site – whole view \n \nB.4. Certificate of Use  \n \nB.5. Sketch plan (signed and sealed by a \nlicensed Geodetic Engineer) reflecting \ncompliance of required setback, location and \nvicinity map \n - 2 original, 1 photocopy \n \nB.6. If roof mounted, Certificate of Structural \nStability \n – 2"
+    ]
+  ],
+  "ground_truth": [
+    "New Billboard applications require structural plans, design analysis signed by a civil/structural engineer, CPDO locational clearance, Certificate of Structural Stability, insurance policy, DPWH clearance (if along national highway), and CAAP clearance if within 2km of the airport."
+  ]
+}

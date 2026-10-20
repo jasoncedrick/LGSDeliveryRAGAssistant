@@ -1,0 +1,16 @@
+{
+  "group_id": "SCENARIO-CTO-003",
+  "review_status": "supported",
+  "reviewer": "assistant",
+  "findings": [
+    "Rates supported; identify 2.5% as arithmetic derivation.",
+    "Use substantive Annex11 evidence rather than administrative-only pages."
+  ],
+  "manual_check": null,
+  "candidate_applied": false,
+  "limitations": [
+    "Fixed thesis sources, not present-day legal advice.",
+    "Assistant image review is not independent expert certification.",
+    "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+  ]
+}

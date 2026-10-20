@@ -1,0 +1,181 @@
+[
+  {
+    "group_id": "SCENARIO-BFP-002",
+    "status": "needs_correction",
+    "manual_check": null,
+    "review_file": "experiments/source-reference-review-remaining-batch-v1/SCENARIO-BFP-002/review.json",
+    "candidate_applied": false
+  },
+  {
+    "group_id": "SCENARIO-BFP-003",
+    "status": "needs_correction",
+    "manual_check": null,
+    "review_file": "experiments/source-reference-review-remaining-batch-v1/SCENARIO-BFP-003/review.json",
+    "candidate_applied": false
+  },
+  {
+    "group_id": "SCENARIO-BFP-006",
+    "status": "needs_correction",
+    "manual_check": null,
+    "review_file": "experiments/source-reference-review-remaining-batch-v1/SCENARIO-BFP-006/review.json",
+    "candidate_applied": false
+  },
+  {
+    "group_id": "SCENARIO-CPDO-002",
+    "status": "source_wording_preserved_user_interpretation_recorded",
+    "manual_check": {
+      "type": "official_interpretation",
+      "question": "Do both the 3-storey and 1,500-sqm criteria apply together, or are they alternative triggers?",
+      "source": "CPDO PDF5/printed634",
+      "blocking": "Definitive eligibility interpretation only; preserve source wording meanwhile.",
+      "handling": "Preserve source statements and user interpretation explicitly; no repeated user confirmation requested. Official clarification is needed only to remove the documented source limitation."
+    },
+    "review_file": "experiments/source-reference-review-remaining-batch-v1/SCENARIO-CPDO-002/review.json",
+    "candidate_applied": false
+  },
+  {
+    "group_id": "SCENARIO-CPDO-003",
+    "status": "needs_correction",
+    "manual_check": {
+      "type": "conditional_official_clarification",
+      "question": "If institutional filing fees or a consolidated payable total are needed, confirm the fee aggregation with CPDO.",
+      "source": "PDF21-22,25",
+      "blocking": "No block to quoting individually listed charges."
+    },
+    "review_file": "experiments/source-reference-review-remaining-batch-v1/SCENARIO-CPDO-003/review.json",
+    "candidate_applied": false
+  },
+  {
+    "group_id": "SCENARIO-CPDO-004",
+    "status": "needs_correction",
+    "manual_check": {
+      "type": "conditional_source_inconsistency",
+      "question": "Confirm committee naming if precise routing terminology is needed; source alternates LZBA/LZBAA and mentions UEESZ.",
+      "source": "PDF26-32",
+      "blocking": "No block to source-preserving process summary."
+    },
+    "review_file": "experiments/source-reference-review-remaining-batch-v1/SCENARIO-CPDO-004/review.json",
+    "candidate_applied": false
+  },
+  {
+    "group_id": "SCENARIO-CPDO-005",
+    "status": "needs_correction",
+    "manual_check": null,
+    "review_file": "experiments/source-reference-review-remaining-batch-v1/SCENARIO-CPDO-005/review.json",
+    "candidate_applied": false
+  },
+  {
+    "group_id": "SCENARIO-CPDO-006",
+    "status": "needs_correction",
+    "manual_check": null,
+    "review_file": "experiments/source-reference-review-remaining-batch-v1/SCENARIO-CPDO-006/review.json",
+    "candidate_applied": false
+  },
+  {
+    "group_id": "SCENARIO-CTO-001",
+    "status": "needs_correction",
+    "manual_check": null,
+    "review_file": "experiments/source-reference-review-remaining-batch-v1/SCENARIO-CTO-001/review.json",
+    "candidate_applied": false
+  },
+  {
+    "group_id": "SCENARIO-CTO-002",
+    "status": "source_wording_confirmed_intended_rate_unresolved",
+    "manual_check": {
+      "type": "blocking_reference_computation",
+      "question": "Obtain authoritative correction/confirmation of the transfer-tax rate; rendered Annex4 says 87% or 1%, while old reference says 0.75% or up to 1%.",
+      "source": "CTO PDF11/printed166",
+      "blocking": "Do not approve computed tax labels or treat this rate question as fully validated.",
+      "handling": "Preserve source statements and user interpretation explicitly; no repeated user confirmation requested. Official clarification is needed only to remove the documented source limitation."
+    },
+    "review_file": "experiments/source-reference-review-remaining-batch-v1/SCENARIO-CTO-002/review.json",
+    "candidate_applied": false
+  },
+  {
+    "group_id": "SCENARIO-CTO-003",
+    "status": "supported",
+    "manual_check": null,
+    "review_file": "experiments/source-reference-review-remaining-batch-v1/SCENARIO-CTO-003/review.json",
+    "candidate_applied": false
+  },
+  {
+    "group_id": "SCENARIO-CTO-004",
+    "status": "supported",
+    "manual_check": null,
+    "review_file": "experiments/source-reference-review-remaining-batch-v1/SCENARIO-CTO-004/review.json",
+    "candidate_applied": false
+  },
+  {
+    "group_id": "SCENARIO-CTO-005",
+    "status": "needs_correction",
+    "manual_check": null,
+    "review_file": "experiments/source-reference-review-remaining-batch-v1/SCENARIO-CTO-005/review.json",
+    "candidate_applied": false
+  },
+  {
+    "group_id": "SCENARIO-CTO-006",
+    "status": "needs_correction",
+    "manual_check": null,
+    "review_file": "experiments/source-reference-review-remaining-batch-v1/SCENARIO-CTO-006/review.json",
+    "candidate_applied": false
+  },
+  {
+    "group_id": "SCENARIO-OCBO-001",
+    "status": "source_wording_preserved_user_interpretation_recorded",
+    "manual_check": {
+      "type": "blocking_source_conflict",
+      "question": "Confirm Mechanical-plan set count and licensed signing professional: the printed row conflicts internally and names Electronics Engineer.",
+      "source": "OCBO PDF3/printed491 row8",
+      "blocking": "Mechanical subclaim cannot be certified until clarified.",
+      "handling": "Preserve source statements and user interpretation explicitly; no repeated user confirmation requested. Official clarification is needed only to remove the documented source limitation."
+    },
+    "review_file": "experiments/source-reference-review-remaining-batch-v1/SCENARIO-OCBO-001/review.json",
+    "candidate_applied": false
+  },
+  {
+    "group_id": "SCENARIO-OCBO-002",
+    "status": "needs_correction",
+    "manual_check": null,
+    "review_file": "experiments/source-reference-review-remaining-batch-v1/SCENARIO-OCBO-002/review.json",
+    "candidate_applied": false
+  },
+  {
+    "group_id": "SCENARIO-OCBO-003",
+    "status": "needs_correction",
+    "manual_check": null,
+    "review_file": "experiments/source-reference-review-remaining-batch-v1/SCENARIO-OCBO-003/review.json",
+    "candidate_applied": false
+  },
+  {
+    "group_id": "SCENARIO-OCBO-004",
+    "status": "needs_correction",
+    "manual_check": null,
+    "review_file": "experiments/source-reference-review-remaining-batch-v1/SCENARIO-OCBO-004/review.json",
+    "candidate_applied": false
+  },
+  {
+    "group_id": "SCENARIO-OCBO-005",
+    "status": "fee_thresholds_corrected_other_source_issues_preserved",
+    "manual_check": {
+      "type": "official_source_clarification",
+      "question": "Confirm duplicated Tax Declaration/CTO row and permit scope for fences above 1.80m; the introduction and fee table differ.",
+      "source": "OCBO PDF29/printed517 and PDF35/printed523",
+      "blocking": "Affected checklist/scope interpretations only.",
+      "handling": "Preserve source statements and user interpretation explicitly; no repeated user confirmation requested. Official clarification is needed only to remove the documented source limitation."
+    },
+    "review_file": "experiments/source-reference-review-remaining-batch-v1/SCENARIO-OCBO-005/review.json",
+    "candidate_applied": false
+  },
+  {
+    "group_id": "SCENARIO-OCBO-006",
+    "status": "needs_correction",
+    "manual_check": {
+      "type": "conditional_source_clarification",
+      "question": "If using exact turnaround as a validated performance target, confirm printed TOTAL against listed step durations.",
+      "source": "OCBO PDF103-104/printed591-592",
+      "blocking": "No block to clearly labeling it as printed TOTAL."
+    },
+    "review_file": "experiments/source-reference-review-remaining-batch-v1/SCENARIO-OCBO-006/review.json",
+    "candidate_applied": false
+  }
+]

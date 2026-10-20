@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What is the monthly payment deadline for public market stall rentals, and what penalties are imposed for delinquent payment?"
+  ],
+  "answer": [
+    "The monthly payment for public market stall rentals is due and payable within the first twenty (20) working days of the month. Failure to pay the rental within the required period will subject the Lessee/Occupant to a surcharge [S1]. The exact penalty for delinquency is not specified in the provided source, but the text mentions a surcharge.\n\nCitation: [S1] City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 200 | chunk DEV120-CTO-PDF0045-C001, Section 349."
+  ],
+  "contexts": [
+    [
+      "Section 349\nMARKET FEES FOR AMBULANT/TRANSIENT VENDORS\nMarkets\nRate of Fees per \nSquare Meter of \nFraction Thereof\nper Day\nClass A \nP 8.00\nClass B \n6.00\nClass C \n4.00\nClass D \n2.00\nTime \nfor \nPayment \n/ \nPenalties \nfor \nDelinquency. \n- \nThe \nmonthly\nrentals for market stalls shall become due and payable within the first twenty (20) days of \nthe month. Failure to pay the rental within the period required herein shall subject the \nLessee/Occupant to a surcharge of twenty-fi",
+      "19. Payment for Certification/ Clearances-Market Operations\nCollection of Market Certification and Clearances issued to Stall Holders. \nOffice or Division \nOffice of the City Treasurer (CTO) – Market\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail \nAll\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\nNone \nNone\nCLIENT STEPS \nAGENCY \nACTIONS\nFEES TO BE\nPAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\n1. Get a priority \nnumber from the \nassigned Officer of \nthe Day.",
+      "Office.\nNone \n2 Minutes\n3. Pay the service \nfee at the \nBankerohan Public \nMarket – Collection \nUnit, City \nTreasurer’s Office.\n3. Accept \npayment for the \nservice fee at \nthe \nBankerohan \nPublic Market – \nCollection Unit, \nCity \nTreasurer’s \nOffice.\nNone \n3 Minutes\n4. Present the \nOfficial Receipt of \npayment to \nWindow 1, City \nTreasurer’s Office.\n4. Prepare and \nissue the \nCertification/ \nClearance at \nWindow 1, City \nTreasurer’s \nOffice.\nBased on \nthe 2017 \nRevenue\nCode of the\nCity of \nDavao\nOrdinance \nNo."
+    ]
+  ],
+  "ground_truth": [
+    "Monthly market stall rentals are due within the first 20 days of each month. Late payments incur a 25% surcharge on the rental fee plus an interest of 2% per month, not to exceed 36 months."
+  ]
+}

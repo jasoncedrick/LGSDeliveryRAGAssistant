@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Magkano ang taunang mechanical inspection fee para sa centralized aircon at window type air conditioner?"
+  ],
+  "answer": [
+    "Sa centralized air conditioning system, ang taunang mechanical inspection fee ay P90.00 per ton hanggang 100 tons, at P40.00 per ton lamang sa bawat ton na nagpapahuli ng 100 tons. Sa window type air conditioner, ang taunang mechanical inspection fee ay P60.00 per unit. [S3]\n\nSa iba pang kaso, ang taunang mechanical inspection fee para sa refrigeration and ice plant ay P25.00 per ton hanggang 100 tons capacity, at hindi maaaring matagpuan ang taunang mechanical inspection fee para sa mechanical ventilation sa ibang mga source na nabigyan ng impormasyon. [S2]"
+  ],
+  "contexts": [
+    [
+      "14. Issuance of Certificate of Annual Mechanical Inspection\nA Certificate of Annual Mechanical Inspection is issued after conducting an annual inspection of a \nbuilding/structure to ensure that mechanical systems coincide with the approved plans and conform \nwith the safety standards and other provisions of the Code and its Revised Implementing Rules and \nRegulations\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; G2G – \nGovernment",
+      "ISSUANCE OF CERTIFICATE OF ANNUAL INSPECTION FOR MECHANICAL NEW \nSCHEDULE OF FEES AND OTHER CHARGES OF THE REVISED IMPLEMENTING \nRULES AND REGULATIONS (IRR) OF THE NATIONAL BUILDING CODE OF THE \nPHILIPPINES (PD 1096)\nf. Annual Mechanical Inspection Fees:\ni. Refrigeration and Ice Plant, per ton:\n(a) Up to 100 tons capacity ..…...... ………………………………………..P 25.00\n(b) Above 100 tons",
+      ", per ton or fraction thereof \n60.00\nPackaged/Centralized Air Conditioning Systems: Up to 100 tons, per ton \n90.00\nEvery ton or fraction thereof above 100 tons \n40.00\nWindow type air conditioners, per unit \n60.00\nMechanical Ventilation, per kW or fraction thereof of blower or fan, or \nmetric equivalent\n40.00\nIn a series of AC/REF systems located in one establishment, the total installed tons of \nrefrigeration shall be used as the basis of computation for purposes of \ninstallation/inspection fees"
+    ]
+  ],
+  "ground_truth": [
+    "Annual mechanical inspection fees for centralized air conditioning are: PHP 25.00/ton for the first 100 tons, PHP 20.00/ton for 100-150 tons, and PHP 8.00/ton above 500 tons. Window type air conditioners are assessed PHP 40.00 per unit."
+  ]
+}

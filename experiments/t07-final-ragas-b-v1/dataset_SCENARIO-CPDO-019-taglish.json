@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Paano mag-apply ng Locational Clearance sa negosyo online gamit ang BPLS portal ng Davao City?"
+  ],
+  "answer": [
+    "To apply for a Locational Clearance (LC) for a business online using the BPLS portal of Davao City, follow these steps:\n\n1. First, you need to secure a duly filled-out Unified Application Form. You can obtain this form from the Business Bureau's website (<https://busbureau.davaocity.gov.ph/>) or apply online at (<https://appbts.davaocity.gov.ph/>) [S2, S3].\n\n2. After filling out the Unified Application Form, you will also need a sketch or Google map of your business location with pictures of the premise location [S3].\n\n3. Once you have all the requirements, you can proceed to apply for the Locational Clearance online through the Business Permit and Licensing System (BPLS) portal of Davao City [S2].\n\nFor the enforcement of the Integrated Zoning Ordinance (ZO) 2019 – 2028, the Locational Clearance will be issued by the City Planning and Development Office (CPDO) – Zoning Enforcement Division [S1]."
+  ],
+  "contexts": [
+    [
+      "12. Enforcement of the Integrated Zoning Ordinance (ZO) 2019 – \n2028 in the Issuance of the Locational Clearance (LC) for Business \n– Online Application\nA written authority / permit granted by the City Planning and Development Office \n(previously by the Board) pursuant to applicable laws on land use planning and zoning \nfor the establishment or operation of projects of national / local significance. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nSimple\nType of Transaction \nG2B –",
+      "C – Government to Citizen; G2B – \nGovernment to Business\nWho may avail \nAny natural or juridical person who will be \nconducting and engaging in any business, \ntrade or occupation within the territorial \njurisdiction of Davao City\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\nNEW \n1. Duly filled-out Unified Application Form\n(1 original)\nBusiness Bureau or at the Web\n site \nhttps://busbureau.davaocity.gov.ph/ or \napply online at \nhttps://appbts.davaocity.gov.ph/\n2. Sketch of",
+      "ail \nAny natural or juridical person who will be conducting   and \nengaging in any business, trade or occupation within the \nterritorial jurisdiction of Davao City\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\nNEW \n1. Duly filled-out Unified Application Form (1 \noriginal)\nBusiness Bureau or at the Web\n site \nhttps://busbureau.davaocity.gov.ph/ \nor apply online at \nhttps://appbts.davaocity.gov.ph/\n2. Sketch / Google map of Business location (1 \noriginal) with pictures of the premise location\nApp"
+    ]
+  ],
+  "ground_truth": [
+    "Online Locational Clearance for Business is filed via the appbts portal. Clients upload required forms, sketch map, and HOA consent. CPDO evaluates within 5 minutes. If approved, status updates in BPLS; if denied, a denial letter is generated for appeal to LZBAA."
+  ]
+}

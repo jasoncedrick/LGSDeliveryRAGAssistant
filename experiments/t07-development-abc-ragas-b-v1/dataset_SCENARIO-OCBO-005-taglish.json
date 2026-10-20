@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang requirements at magkano ang bayad kada linear meter para kumuha ng Fencing Permit sa OCBO?"
+  ],
+  "answer": [
+    "Sa pagkuha ng Fencing Permit sa OCBO (City Engineering and Solid Waste Management Office), ang mga requirements sa inyong kailangan ay walay nakit-an sa mga nakapag-aral sa Citizens' Charter. Ngunit, ang bayad para sa Fencing Permit ay nakatanggap sa OCBO ay nakatanggap sa mga detalye sa [S1].\n\nAng bayad para sa Fencing Permit ay nakabuo sa dalawang bagong-bago:\n\n1. Para sa mga made of masonry, metal, at concrete up to 1.80 meters in height, ang bayad ay Php 3.00 per linear meter ng fraction thereof.\n2. Para sa mga in excess of 1.80 meters in height, ang bayad ay Php 4.00 per linear meter ng fraction thereof.\n3. Para sa mga made of indigenous materials, barbed, chicken or hog wire, ang bayad ay Php 2.40 per linear meter.\n\nWala pa nga nakit-an sa mga nakapag-aral sa Citizens' Charter kung saan ang mga requirements sa pagkuha ng Fencing Permit sa OCBO, kundi ang mga detalye sa bayad. Kung maghihintay ka pa ng impormasyon sa mga requirements, maaari mo nga mag-contact sa OCBO upang malaman ang mga kailangan mo."
+  ],
+  "contexts": [
+    [
+      "FENCING PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\nMade of masonry, metal, concrete up \nto1.80 meters in height\nPhp 3.00 per linear meter of fraction \nthereof\nIn excess of 1.80 meters in height \nPhp 4.00 per linear meter of fraction \nthereof\nMade of indigenous materials, barbed, \nChicken or",
+      "Regulatory Fees (assessed and paid at the City Treasurer’s Office):\nICAB FEE:   Php100.00 Flat rate for the first 10 units and additional Php10.00 for the \nsucceeding units.\nOCCUPATIONAL PERMIT FEE: Php125.00 per employee.\nBUILDING PERMIT FEE : Fee varies on area size, minimum of Php120.00\nPLUMBING FEE: Php60 per water closet,\nELECTRICAL FEE: Minimum of Php350.00, varies based",
+      "per linear meter of fraction \nthereof\nMade of indigenous materials, barbed, \nChicken or hog wire\nPhp 2.40 per linear meter"
+    ]
+  ],
+  "ground_truth": [
+    "Fencing checklist: permit form with 3 sets of Civil/Architectural plans signed/sealed by licensed Civil Engineer/Architect (A3 structural-plan option stated); certified land title and property tax declaration (1 original and 1 photocopy each); the next row repeats Certified True Copy of Tax Declaration of the Property with CTO as source; Barangay Clearance (1 original and 1 photocopy); scaled sketch/lot/vicinity plan signed/sealed by licensed Geodetic Engineer (3 sets); bill of materials/cost estimates signed/sealed by licensed Civil Engineer (3 sets); signing professionals PRC ID/current PTR (1 photocopy); owner/applicant ID with 3 specimen signatures (1 photocopy); conditional DPWH clearance along a National Highway.\n\nFor fencing made of masonry, metal or concrete: height <= 1.80 m costs PHP3.00 per linear meter; height > 1.80 m costs PHP4.00 per linear meter. Both printed source rows include \"of fraction thereof\". For indigenous materials, barbed, chicken or hog wire, the listed rate is PHP2.40 per linear meter. No additional height qualifier is stated in that row. The service introduction says not exceeding 1.80 m, while the fee table explicitly includes a higher-height rate; this candidate reproduces the fee table without resolving that scope discrepancy."
+  ]
+}

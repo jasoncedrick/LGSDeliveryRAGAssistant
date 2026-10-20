@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ilang araw dapat iparehistro ang books of accounts at resibo sa City Treasurer, at magkano ang multa kapag nahuli?"
+  ],
+  "answer": [
+    "Based on the provided sources, the number of days to register the books of accounts and receipts at the City Treasurer's Office, and the penalty for non-compliance, are not explicitly stated. However, the following information can be inferred:\n\n1. According to [S3], the documents should be submitted to the City Treasurer's Office, but the number of days is not specified.\n\n2. Regarding the penalty for non-compliance, it is stated in [S2] that failure to register the book of accounts with the City Treasurer may result in legal action. The exact penalty is not specified in the provided sources.\n\nWala akoy nakit-an nga impormasyon bahin niini sa Citizens' Charter tungkol sa mga araw na dapat iparehistro ang books of accounts at resibo sa City Treasurer, at magkano ang multa kapag nahuli."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "window at CTO \nDistrict Offices.\nand stamp \nbooks/ \nreceipts.\n2.3 Return \nthe \ndocuments \nto the \ntaxpayer.\nSection 422\n–\nKeeping of\nCash Register\nBook and\nRegistration of\nBooks of \nAccounts\n7 Minutes\n2 Minutes\nWindow 17:\nTicket Checker\n(Poblacion)\n-or-\nAssigned\nPersonnel in CTO\nDistricts\nTOTAL:\nAttached \nAnnex - 9 \n39 Minutes\nANNEX – 9\nFailure on the part of any person (natural or juridical) to register in the City Treasurer \ntheir book of accounts, book",
+      "ERE TO SECURE\n1. Application for Renewal of Mayors\nPermit – 1 original, 1 duplicate copy\nBusiness Bureau, Sangguniang \nPanlungsod, Ground Floor\n2. Books of Accounts or Other Record\nof Transaction – 1 original\nBookstore or any school supplies store\n3. Official Receipts or Other Receipts\n(first and last stub only) - receipts \nused in the Business operations\nPrinting press\n4. Duly accomplished form for\nregistration – 2 originals from the \nCity Treasurer’s Office\nSangguniang Panlungsod – Business Tax \nAssessment"
+    ]
+  ],
+  "ground_truth": [
+    "The charter Annex 9 states that failure to register books of accounts, books of records, official receipts, cash sales, cash invoices, delivery receipts and other collection receipts within fifteen (15) working days from filing a new or renewal business-permit application incurs an administrative fine of PHP5,000."
+  ]
+}

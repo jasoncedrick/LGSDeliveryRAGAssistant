@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Tagpila ang binulan nga bayad kung magbutang ug koral sa sidewalk o agianan sa tawo habang nag-construct?"
+  ],
+  "answer": [
+    "Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungkol sa bayad para sa pagbutang ug koral sa sidewalk o agianan sa tawo habang nag-construct.\n\n[S1, S3] Wala nga didto sa Citizens' Charter ang impormasyon tungkol sa bayad para sa pagbutang ug koral sa sidewalk o agianan sa tawo habang nag-construct. Ang mga nakatanggap ng bayad sa Davao City ay ang real property, grasslands, buildings, machinery at iba pang improvements na affixed o attached sa real property ([S3], DEV120-CTO-PDF0036-C002). Wala didto ang impormasyon tungkol sa pagbutang ug koral sa sidewalk o agianan sa tawo."
+  ],
+  "contexts": [
+    [
+      "TION\nFEES TO BE\nPAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\nSTEP 1: APPLICATION\n1.Submit the pre-\nassessed \ndocuments  for \npayment with \nattached \nRecommended \napproval of \nApplication for \nAdditional Line of \nBusiness and \nReceive the pre-\nassessed and \nencoded \ndocuments  for \npayment with \nattached \nRecommended \napproval of\n1.1. Encode of \nadditional details \nfrom the RO-\napproved Other \nAmendments \n(after approval of \nRegulatory \nOffices) \napplication\n1.2. Return the \npre-assessed \ndocuments to the \nclient for \npayment with \nattached \nRecommended\nNone \n10 Minute",
+      "CLIENT STEPS \nAGENCY \nACTION\nFEES TO BE\nPAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\nSTEP 1: APPLICATION\n1.Submit the pre-\nassessed \ndocuments  for \npayment with \nattached \nRecommended \napproval of \nApplication for \nAdditional Line of \nBusiness and \nReceive the pre-\nassessed and \nencoded \ndocuments  for \npayment with \nattached \nRecommended \napproval of \nApplication for \nAdditional Line of \nBusiness\n1.1.  Encode of \nadditional details \nfrom the RO-\napproved \nAdditional Line of \nBusiness (after \napproval of \nRegulatory \nOffices) \napplication\n1.2. Return the \npre",
+      "(1.5%) of the assessed \nvalue of real property, grasslands, buildings, machinery and other improvements affixed \nor attached to real property located in this City.\nSection 8. Additional Levy on Real Property for the Special Education Fund \n(SEF) – This is hereby levied a one percent (1%) tax on the assessed value of real \nproperty which shall be in addition in the basic real property tax. The proceeds thereof \nshall accrue exclusively to the Special Education Fund (SEF)."
+    ]
+  ],
+  "ground_truth": [
+    "A Sidewalk Enclosure and Occupancy Permit costs PHP 240.00 per calendar month for sidewalk enclosures up to 20.00 sq.m., and PHP 12.00 for every square meter or fraction thereof in excess of 20.00 sq.m. per month."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Magkano ang bayad sa Certified True Copy ng Mayor's Permit at anong requirements ang dapat dalhin?"
+  ],
+  "answer": [
+    "Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungkol sa bayad sa Certified True Copy ng Mayor's Permit.\n\n[S2] Ang Certified True Copy ay isinasagawa lamang sa mga natural o juridical entity, opisina o ahensya ng gobyerno na gustong mag-aral ng kopya ng Business Permit o gustong malaman ang status o record ng isang Taxpayer. Ang Certified True Copy ay hindi nakalaman sa Citizens' Charter na nakalagay sa bayad.\n\nSa iba pang mga serbisyo, maaari lamang kayong magtanong sa City Mayor's Office – Permits & Licenses Division."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "5. Issuance of Certifications / Certified True Copy\nCertifications or Certified True Copy is issued to any natural or juridical entity, \ngovernment agencies or offices who wish to secure any copy of Business Permit or \nwho wish to know any status or record of a Taxpayer. \nOffice or \nDivision\nCity Mayor's Office – Permits & Licenses Division\nClassificati\non\nSimple (Certification, Certified True Copy and Master List without \nmodified parameters and formats), Highly Technical (Master List requiring \ntechnical parameters and format modification)\nType of",
+      "Fire Protection (BFP)\n11. Certified True Copy of Land Title  \n 1 original, 1 photocopy\nLand Registration Authority (LRA)\n12. Certified True Copy of Tax Declaration   of \nthe Property \n  1 original, 1 photocopy\nCity Assessor’s Office (CASSO)\n13. Certified True Copy of Current Real Property \nTax Receipt \n1 original, 1 photocopy\nCity Treasurer’s Office (CTO)\n14. Owner’s/Applicant’s valid I.D. with three (3) \nspecimen signatures \n1 photocopy\nOwner/Applicant\n15. PRC IDs and"
+    ]
+  ],
+  "ground_truth": [
+    "Securing a Certified True Copy of a business permit requires a letter request, valid ID, and SPA/Board Resolution if represented. The fee is PHP 100.00 for the certified copy plus PHP 35.00 for each additional copy."
+  ]
+}

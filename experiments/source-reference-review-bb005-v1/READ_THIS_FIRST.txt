@@ -1,0 +1,7 @@
+BB-005: NEEDS CORRECTION
+
+Proposed answer now includes the client procedure as asked, all seven source checklist rows, and the supported late-fee range. Compare printed pages 111-114 in the four saved images. claim_source_map.json links rows and procedure to existing chunks; before_after.diff preserves exact proposed edits. No original label or score changed.
+
+No immediate manual checking needed. If a specific late-fee amount is needed, ask the issuing office for its rule: this source gives only P1,000 to P5,000 for filing more than 30 days after cessation. Do not invent a formula.
+
+Five of 25 provisional groups reviewed; 20 remain. BB-006 was previously corrected and is confirmed separately, so it is not counted again. Next office: City Planning.

@@ -1,0 +1,10 @@
+T06 / T07 LIVE WORK STATUS
+
+DONE: reviewed references v4; archived Hit/MRR rescore (K3:66/90, MRR .622222; K5:68/90, MRR .627222); T07 17-weight grid and baseline A retrieval prepared; current B ranks reproduced.
+
+RUNNING: full T06 RAGAS revalidation. Progress: experiments/t06-ragas-reviewed-development-v2/scores.json
+QUEUED: T07 Context Precision judging after T06 finishes. Progress when started: experiments/t07-development-grid-v1/judge_progress.json
+
+NOT YET DONE: selected weights, C normalization, paired A/B/C answer generation/scoring, freeze, held-out comparison. Do not mark T07 complete from retrieval diagnostics alone. Null judge metrics stay null and must be reported.
+
+Keep the local model server and this workspace/session available. No manual source review requested now. Original labels, scores, app defaults and held-out files preserved.

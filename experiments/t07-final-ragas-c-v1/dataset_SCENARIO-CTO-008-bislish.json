@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsaon pagkwenta sa Transfer Tax sa yuta o propedad sa City Treasurer kung magbalhin ug titulo?"
+  ],
+  "answer": [
+    "Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungkol sa pagbayad ng Transfer Tax sa yuta o propedad sa City Treasurer kung magbalhin ug titulo. [S2] Ang Citizens' Charter wala nga didto sa pagbayad ng Transfer Tax sa yuta o propedad."
+  ],
+  "contexts": [
+    [
+      "GENCY \nACTIONS\nFEES TO \nBE PAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\n1. Get a priority\nnumber from \nthe assigned \nTechnical \nAssistance \nPersonnel at the \nCity Treasurer’s \nOffice.\n1. Provide a\npriority number \nand advise the \nclient to wait \nuntil their \nnumber is \ncalled.\nNone \n    10 Minutes \nRevenue\nCollection Clerk\nI\n– City\nTreasurer’s\nOffice\n2. Proceed to\nCounter 22 \nwhen the \npriority number \nis called or to \nthe assigned \nwindow at CTO \nDistrict Offices.\n2.1 Evaluate the \namount to be \npaid for the \nperformance \nbond.\n2.2 Pre",
+      "1.Submit pertinent \ndocuments and \nReceive pertinent \ndocuments  application \nform for Transfer of \nOwnership (electro-\nmechanical), and order \nof payment to be paid at \nthe City Treasurer’s \nOffice\n1.1. Assess \nApplication for \nTransfer of \nOwnership.\n1.2. Verify and \nEncode \nApplication for \nTransfer of \nOwnership.\n1.3. Return \npertinent \ndocuments to \nthe client, print \nout application \nform for \nTransfer of \nOwnership \n(electro-\nmechanical), \nand issue an \norder of \npayment to be \npaid at the \nCity \nTreasurer’s \nOffice\nNone \n10 Minutes \nLicensing Officer \nBusiness Bureau\nSTEP 2: PAY",
+      "(For\nCinema)\n2. Amusement Tax Payment Slip (For\nEvents)\nCinema\nCTO Personnel\nNote: The city provides movie checkers to check the number of movie goers.\nCLIENT STEPS \nAGENCY \nACTIONS\nFEES TO BE\nPAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\n1. Get a priority\nnumber from \nthe assigned \nTechnical \nAssistance \nPersonnel at \nthe City \nTreasurer’s \nOffice.\n1. Provide a\npriority \nnumber and \nadvise the \nclient to wait \nuntil their \nnumber is \ncalled.\nNone \n    10 Minutes \nRevenue\nCollection Clerk I\n–\nCity Treasurer"
+    ]
+  ],
+  "ground_truth": [
+    "Transfer Tax on real property ownership requires title photocopy, notarized deed of transfer, and tax declaration. The transfer tax rate is 0.87% to 1.0% based on the total consideration or market value, whichever is higher, plus a PHP 50.00 certification fee."
+  ]
+}

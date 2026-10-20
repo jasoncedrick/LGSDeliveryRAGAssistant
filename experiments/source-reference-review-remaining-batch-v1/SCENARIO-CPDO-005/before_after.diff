@@ -1,0 +1,26 @@
+--- group.before.json
++++ group.candidate.json
+@@ -3,12 +3,14 @@
+   "pillar": "City Planning and Development Office",
+   "split": "development",
+   "ground_truth_chunk_ids": [
+-    "DEV120-CPDO-PDF0070-C001",
+     "DEV120-CPDO-PDF0070-C002",
+     "DEV120-CPDO-PDF0070-C003",
++    "DEV120-CPDO-PDF0070-C004",
++    "DEV120-CPDO-PDF0071-C001",
++    "DEV120-CPDO-PDF0071-C002",
+     "DEV120-CPDO-PDF0072-C001"
+   ],
+-  "ground_truth_reference_answer": "Under CPDO Service 12, Locational Clearance for Business (Online Application via appbts.davaocity.gov.ph) evaluates land-use compatibility under the Integrated ZO 2019-2028. Requirements uploaded to the portal are: 1) Filled-up application form; 2) Affidavit of Undertaking for neighbor's consent with sketch map; 3) Homeowners Association Certificate of No Objection (if inside a subdivision); 4) Proof of business working area pictures and road access; and 5) Certificate of Actual Land Occupancy (if inside ancestral land under RA 8371). There are no direct filing fees (None), and approval or issuance of a denial letter takes 1 Day and 50 Minutes.",
++  "ground_truth_reference_answer": "For online business locational clearance, the checklist lists: uploaded application form; Affidavit of Undertaking for neighbor consent with sketch map showing neighbor location (1 photocopy); Homeowners Association Certificate of No Objection; Certificate of Actual Land Occupancy for Migrant (based on RA8371); Locational Clearance for Building Permit, if applicable; PRC ID for licensed broker/License to Sell/Affidavit of Undertaking not to sell raw lots (PD957); Affidavit of Undertaking for Online Business/Booking Office/On-Job Site/On-Call/Private Garage; pictures showing working area including roads; and sketch map. Additional requirements may be required as the need arises.\n\nThe fee columns and TOTAL state None. The TOTAL is 1 Day and 50 Minutes. This includes denial-letter steps, with signature time dependent on administrator availability; it is not a guaranteed approval deadline. Approved/conditionally approved cases have their BPLS status updated and other offices then evaluate the application.",
+   "queries": {
+     "english": "What are the required documents and processing fees for online business locational clearance evaluated by CPDO?",
+     "taglish": "Ano ang mga kailangang i-upload at magkano ang bayad para sa online business locational clearance sa CPDO?",
+@@ -19,5 +21,5 @@
+     "CHUNK-CPDO-P699-C02",
+     "CHUNK-CPDO-P701-C01"
+   ],
+-  "mapping_status": "PROVISIONAL_EXACT_SPAN_MAPPING"
++  "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED"
+ }

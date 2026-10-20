@@ -27,6 +27,9 @@ def main(args):
     from langchain_community.llms import Ollama
     from langchain_core.callbacks import BaseCallbackHandler
     source=ROOT/'experiments'/args.input_name
+    if args.input_subdir:
+        if args.input_subdir not in ('A','B','C'):raise ValueError('Only paired A/B/C subfolders are supported')
+        source=source/args.input_subdir
     output=ROOT/'experiments'/args.output_name
     if any(Path(n).name!=n for n in [args.input_name,args.output_name]) or output.exists():raise ValueError('Use experiment names and fresh output')
     protocol_path=source/'protocol.json'
@@ -51,14 +54,34 @@ def main(args):
             with (output/'judge_calls.jsonl').open('a',encoding='utf-8') as f:f.write(json.dumps(value,ensure_ascii=False)+'\n')
     current_record_id=None
     judge=LangchainLLMWrapper(Ollama(model='eboss-mistral',base_url='http://localhost:11434',temperature=0,top_p=0,
-                                   num_ctx=8192,num_predict=1024,num_thread=4,timeout=90))
+                                   num_ctx=8192,num_predict=args.judge_output_tokens,num_thread=4,timeout=args.judge_timeout))
     metrics_by_name={k:copy.deepcopy(v) for k,v in {'faithfulness':faithfulness,'context_precision':context_precision,'context_recall':context_recall,'answer_relevancy':answer_relevancy}.items()}
+    format_contract=None
+    if args.strict_metric_json:
+        from src.ragas_output_contracts import apply_contracts
+        format_contract=apply_contracts(metrics_by_name)
+    faithfulness_schema_instruction=None
+    if args.strict_faithfulness_json:
+        faithfulness_schema_instruction={
+            'statements':'Return exactly one JSON object with the single key "statements", containing a nonempty array of strings. Decompose only the supplied answer. Stop after that object. Do not continue examples or add unrelated questions.',
+            'verdicts':'Return only a JSON array with exactly one object per supplied statement in its original order. Each object must include the original statement, a reason, and "verdict" as the string "0" or "1". Do not use fractional verdicts. Do not change or negate the statement being judged. Stop after the array.'}
+        metrics_by_name['faithfulness'].long_form_answer_prompt.instruction+=' '+faithfulness_schema_instruction['statements']
+        metrics_by_name['faithfulness'].nli_statements_message.instruction+=' '+faithfulness_schema_instruction['verdicts']
     recall_schema_instruction=None
     if args.strict_recall_json:
         recall_schema_instruction=('Return ONLY the classification value as a top-level JSON array. '
             'Each array element must contain a statement, reason, and the exact key "Attributed" with value "1" or "0". '
             'Do not wrap the array in question, answer, classification, or any other object. Do not include markdown.')
         metrics_by_name['context_recall'].context_recall_prompt.instruction+=' '+recall_schema_instruction
+    context_precision_evaluator={'version':'original_ragas_prompt','format_retry_limit':0}
+    if args.context_precision_v2:
+        from src.ragas_context_precision_v2 import GroundedContextPrecision
+        from src.context_precision_judge_v2 import VERSION,PROMPT_TEMPLATE
+        metric=GroundedContextPrecision()
+        metric.format_retry_limit=1
+        metric.audit_sink=lambda value: AuditCallback().save(value)
+        metrics_by_name['context_precision']=metric
+        context_precision_evaluator={'version':VERSION,'prompt_template_sha256':hashlib.sha256(PROMPT_TEMPLATE.encode()).hexdigest(),'format_retry_limit':1,'contract_failures':'Recorded in judge_calls.jsonl; final invalid outputs remain null','status':'Opt-in development-calibrated evaluator; not independent expert validation'}
     embeddings=None
     if 'answer_relevancy' in args.metrics:
         from langchain_core.embeddings import Embeddings
@@ -77,7 +100,11 @@ def main(args):
           'record_ids':[r['record_id'] for r in selected],'generation_failures_retained_in_original_archive':True,
           'reference':'Archived reference answer if available, otherwise source evidence fragments; preserve declared reference status.',
           'same_generator_and_judge_model':True,'max_workers':1,'max_retries':0,'held_out_accessed':False,
-          'context_recall_schema_instruction':recall_schema_instruction})
+          'judge_output_tokens':args.judge_output_tokens,'judge_timeout':args.judge_timeout,
+          'faithfulness_schema_instruction':faithfulness_schema_instruction,
+          'context_precision_evaluator':context_precision_evaluator,
+          'context_recall_schema_instruction':recall_schema_instruction,
+          'metric_output_contract':format_contract})
     scored=[]
     for r in selected:
         current_record_id=r['record_id']
@@ -95,7 +122,7 @@ def main(args):
             try:
                 result=evaluate(Dataset.from_dict(data),metrics=[metrics_by_name[m] for m in args.metrics],
                                 llm=judge,embeddings=embeddings,callbacks=[AuditCallback()],
-                                run_config=RunConfig(timeout=90,max_retries=0,max_workers=1),raise_exceptions=False,is_async=False)
+                                run_config=RunConfig(timeout=args.judge_timeout,max_retries=0,max_workers=1),raise_exceptions=False,is_async=False)
                 item['scores']={name:finite_score(result.scores[0].get(name)) for name in args.metrics}
                 item['status']='SCORED' if all(v is not None for v in item['scores'].values()) else 'PARTIAL_OR_FAILED_JUDGE'
             except Exception as error:item.update(status='SCORING_ERROR',scores={m:None for m in args.metrics},error_type=type(error).__name__,error=str(error))
@@ -116,8 +143,8 @@ def main(args):
           'metric_aggregates':aggregates,'results':scored,
           'limits':['Local 7B judge may fail structured-output parsing; null scores are not zeros.',
                     'Same-model judging can introduce bias.','Means exclude nulls and skipped records; inspect metric-specific denominators.',
-                    'Five reference groups source-reviewed by assistant; other 25 retain provisional legacy semantics.',
-                    'Archived generation is K=5 only; this is not frozen A/B/C evaluation or independent expert certification.']})
+                    'Reference provenance is recorded per interaction; source review and user interpretation do not constitute independent expert certification.',
+                    'Generation K and configuration are recorded in the source protocol; development scoring is not frozen held-out evaluation or independent expert certification.']})
     write('hashes.json',{p.name:hashlib.sha256(p.read_bytes()).hexdigest() for p in output.iterdir() if p.is_file()})
 
 
@@ -125,5 +152,11 @@ if __name__=='__main__':
     p=argparse.ArgumentParser(description=__doc__);p.add_argument('--input-name',required=True);p.add_argument('--output-name',required=True)
     p.add_argument('--record-id');p.add_argument('--metrics',nargs='+',choices=['faithfulness','context_precision','context_recall','answer_relevancy'],default=['faithfulness','context_precision'])
     p.add_argument('--archive-file',default='interactions.jsonl')
+    p.add_argument('--input-subdir',choices=['A','B','C'],help='Paired development configuration folder')
+    p.add_argument('--judge-output-tokens',type=int,default=1024)
+    p.add_argument('--judge-timeout',type=int,default=90)
+    p.add_argument('--context-precision-v2',action='store_true',help='Opt-in separated-evidence judge with one audited format retry; original evaluator remains default')
+    p.add_argument('--strict-faithfulness-json',action='store_true',help='Evaluator-only schema retry; retain original failed scores')
+    p.add_argument('--strict-metric-json',action='store_true',help='Opt-in versioned format instructions for precision and relevancy; preserve original outputs')
     p.add_argument('--strict-recall-json',action='store_true',help='Versioned evaluator-only JSON schema instruction; retain earlier failures')
     main(p.parse_args())

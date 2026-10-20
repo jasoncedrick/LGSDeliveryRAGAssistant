@@ -1,0 +1,118 @@
+[
+  {
+    "item": 1,
+    "pdf_relative_page": 72,
+    "printed_page": 111,
+    "source_row_with_where_to_secure": "Latest Business Permit (1 original or 1 certified copy) Applicant or Records Section, Business Bureau",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0072-C002"
+    ]
+  },
+  {
+    "item": 2,
+    "pdf_relative_page": 72,
+    "printed_page": 111,
+    "source_row_with_where_to_secure": "Affidavit of Full Retirement indicating the reason and the effective date of retirement if Single Proprietorship. (1 original) Applicant, notarized by any Notary Public",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0072-C002"
+    ]
+  },
+  {
+    "item": 3,
+    "pdf_relative_page": 72,
+    "printed_page": 111,
+    "source_row_with_where_to_secure": "Partnership Resolution duly signed by all the Partners stating the reason, effective date of retirement and the authorized representative indicated therein if Partnership. (1 original) Applicant, notarized by any Notary Public",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0072-C002",
+      "DEV120-BB-PDF0072-C003"
+    ]
+  },
+  {
+    "item": 4,
+    "pdf_relative_page": 72,
+    "printed_page": 111,
+    "source_row_with_where_to_secure": "Board Resolution or Secretary’s Certificate stating the reason and effective date of retirement, the authorized represented indicated therein if other forms of ownership (1 original) Applicant, notarized by any Notary Public",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0072-C003"
+    ]
+  },
+  {
+    "item": 5,
+    "pdf_relative_page": 72,
+    "printed_page": 111,
+    "source_row_with_where_to_secure": "Valid I.D. of the authorized representative, if newly designated (1 photocopy) Applicant",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0072-C003"
+    ]
+  },
+  {
+    "item": 6,
+    "pdf_relative_page": 72,
+    "printed_page": 111,
+    "source_row_with_where_to_secure": "Special Power of Attorney for Single Proprietorship if represented (1 original) Any Notary Public / Applicant",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0072-C004"
+    ]
+  },
+  {
+    "item": 7,
+    "pdf_relative_page": 72,
+    "printed_page": 111,
+    "source_row_with_where_to_secure": "Business Identification Plate Applicant",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0072-C004"
+    ]
+  },
+  {
+    "claim_id": "procedure_1",
+    "text": "Submit requirements for pre-assessment, receive and sign the retirement application, then proceed to the City Treasurer’s Office for assessment of dues and approval for retirement.",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0073-C001"
+    ],
+    "source_locations": [
+      {
+        "pdf_relative_page": 73,
+        "printed_page": 112
+      }
+    ]
+  },
+  {
+    "claim_id": "procedure_2",
+    "text": "Submit the recommended approved retirement application and Business Identification Plate and receive a claim stub.",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0074-C001"
+    ],
+    "source_locations": [
+      {
+        "pdf_relative_page": 74,
+        "printed_page": 113
+      }
+    ]
+  },
+  {
+    "claim_id": "procedure_3",
+    "text": "Receive the retired business permit and the applicant’s copies of required documents; the processing staff receives the claim stub and releases them.",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0075-C001"
+    ],
+    "source_locations": [
+      {
+        "pdf_relative_page": 75,
+        "printed_page": 114
+      }
+    ]
+  },
+  {
+    "claim_id": "fees",
+    "text": "The TOTAL fee cell states Tax Obligation based on gross sales, and a late filing fee of P1,000 to P5,000 for an application filed more than 30 days from cessation. The cell does not specify how to choose an amount within that range.",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0075-C001"
+    ],
+    "source_locations": [
+      {
+        "pdf_relative_page": 75,
+        "printed_page": 114
+      }
+    ]
+  }
+]

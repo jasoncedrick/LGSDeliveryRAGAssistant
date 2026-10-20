@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsaon pag-renew sa FSIC sa negosyo kung naapil kini sa negative list o dunay pending nga bayrunon sa Fire Code?"
+  ],
+  "answer": [
+    "Wala kaayong i-renew ang FSIC sa negosyo kung naapil kini sa negative list o dunay pending nga bayrunon sa Fire Code. [S1] [S2]"
+  ],
+  "contexts": [
+    [
+      "NEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPANCY\nPERMIT STAGE\nNEW  BUSINESS    \nPERMIT WITHOUT\nVALID FSIC\nISSUED DURING\nOCCUPANCY\nPERMIT STAGE\nRENEWAL OF\nBUSINESS\nPERMIT\nRENEWAL OF\nBUSINESS PERMIT\nWITHOUT VALID FSIC\nOR EXPIRED FSIC/\nWITH EXISTING\nVIOLATION OF THE\nFIRE CODE/INCLUDED \nIN THE NEGATIVE LIST\nA   P   P   L   I   C   A   T   I   O   N",
+      "been no \nsubstantial changes \nmade on the building) \nbut with history, tag \nPending with \nDeficiency note to \nrenew or retire, and to \ncomply with inspection \nrecord. Once \ncomplied, Issue \nNotice to Proceed for \nthe approval by the \nRegulatory Offices. \n  \n    - If No History but \nwith Incomplete \nDocumentary \nRequirements (no \nFSIC for Occupancy), \nencode basic \ninformation, scan \ndocument, return \ndocument and issue \nControl Number Form \nwith QR Code for \nMonitoring of Updates \nfrom Regulatory \nOffices in lieu of the \nFSIC for O",
+      "transacting person is \nnot the owner)\nii. \nSPA for single \nproprietorship \nand Secretary \nCertificate for \nCorporation\nClient will receive thru \nemail and SMS an \naccess code (once \naccess code has been \nreceived). Then, the \nTaxpayer may now \nrenew his/her business \npermit: Applicant to fill \nup the web forms and \nsubmit together with the \ndocuments required. \nProceed to assessment \nand payment of dues \nonline. Afterwards, the \nTaxpayer can then \ncheck the status of the \napplication. If the permit \nis pending / blocked, \ncomply with Regulatory"
+    ]
+  ],
+  "ground_truth": [
+    "Renewals without a valid FSIC or those included in the Negative List must resolve all existing Fire Code violations, settle outstanding penalties, pay the 15% FSIF, and pass a mandatory re-inspection before the FSIC for business renewal is released."
+  ]
+}

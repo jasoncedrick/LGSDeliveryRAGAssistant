@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ang bayad sa electrical inspection para sa mga standby generator ug transformer nga gipanag-iya sa edipisyo?"
+  ],
+  "answer": [
+    "Sa mga standby generator ug transformer nga gipanag-iya sa edipisyo, ang bayad sa electrical inspection ay hindi nakalalabas sa mga nakalagay na ehersisyo sa Citizens' Charter. Ang mga bayad sa electrical inspection ay nakalagay sa [S1] at nakabuo sa 10% ng Total Electrical Permit Fees. Wala pang nakalagay sa Citizens' Charter tungkol sa bayad para sa standby generator ug transformer.\n\n[S1] OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 578 | chunk DEV120-OCBO-PDF0090-C001\nISSUANCE OF CERTIFICATE OF ANNUAL INSPECTION FOR ELECTRICAL NEW\nSCHEDULE OF FEES AND OTHER CHARGES OF THE REVISED IMPLEMENTING\nRULES AND REGULATIONS (IRR) OF THE NATIONAL BUILDING CODE OF THE\nPHILIPPINES (PD 1096)\nElectrical Inspection Fees:\ni. A one time electrical inspection fee equivalent to 10% of Total Electrical Permit Fees\nshall be charged to cover all inspection trips during construction.\n\n[S2] OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 575 | chunk DEV120-OCBO-PDF0087-C001\n13. Issuance of Certificate of Annual Electrical Inspection\nA Certificate of Annual Electrical Inspection is issued after conducting an annual inspection of a\nbuilding/structure to ensure that electrical and electronic systems coincide with the approved plans\nand conform with the safety standards and other provisions of the Code and its Revised\nImplementing Rules and Regulations\nOffice\nOffice of the City Building Official (OCBO)\nClassification\nHighly Technical\nType of Transaction\nG2C – Government to Citizen; G2B – Government to Business;\nG2G"
+  ],
+  "contexts": [
+    [
+      "ISSUANCE OF CERTIFICATE OF ANNUAL INSPECTION FOR ELECTRICAL NEW \nSCHEDULE OF FEES AND OTHER CHARGES OF THE REVISED IMPLEMENTING \nRULES AND REGULATIONS (IRR) OF THE NATIONAL BUILDING CODE OF THE \nPHILIPPINES (PD 1096)\nElectrical Inspection Fees:\ni. A one time electrical inspection fee equivalent to 10% of Total Electrical Permit Fees \nshall be charged to cover all inspection trips during construction.\nii. Annual",
+      "13. Issuance of Certificate of Annual Electrical Inspection\nA Certificate of Annual Electrical Inspection is issued after conducting an annual inspection of a \nbuilding/structure to ensure that electrical and electronic systems coincide with the approved plans \nand conform with the safety standards and other provisions of the Code and its Revised \nImplementing Rules and Regulations\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; \nG2G",
+      "Issuance\nResidential \nP 15.00 \nP 15.00\nCommercial/Industrial \n60.00 \n36.00\nInstitutional \n30.00 \n12.00\ne. Formula for Computation of Fees\nThe Total Electrical Fees shall be the sum of Sections 4.a. to 4.d. of this Rule.\nf. Forfeiture of Fees\nIf the electrical work or installation is found not in conformity with the minimum safety \nrequirements of the\nPhilippine Electrical Codes and the Electrical Engineering Law (RA 7920), and the \nOwner fails to perform corrective actions within the reasonable time provided by the \nBuilding Official"
+    ]
+  ],
+  "ground_truth": [
+    "Transformer, UPS, and generator capacity fees under Section 4.b are: 5 kVA or less = PHP 40.00; over 5 to 50 kVA = PHP 40 + PHP 4/kVA; over 50 to 300 kVA = PHP 220 + PHP 2/kVA; over 300 to 1,500 kVA = PHP 720 + PHP 1/kVA; over 6,000 kVA = PHP 4,170 + PHP 0.25/kVA."
+  ]
+}

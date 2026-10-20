@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang requirements at magkano ang bayad sa CPDO para i-validate ang Occupancy Permit ng 3-storey building pataas?"
+  ],
+  "answer": [
+    "Sa CPDO (City Planning and Development Office), para mag-validate ang Occupancy Permit ng iyong 3-storey building, kailangan mo ang mga following requirements:\n\n1. Application Letter - 1 original\n\nReferenced from: [S2] City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf, chunk DEV120-CPDO-PDF0005-C001\n\nAng bayad ay hindi nakalalabas sa mga nabanggit na source."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "2. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (3-Storey Buildings and Above and \n1,500 Building Floor Area and Above) \nFor 3-storey buildings and above and for building floor area of 1,500 square meters \nand above only.  \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nComplex\nType of Trans",
+      "2. Issuance of Occupancy Permit \nAn Occupancy Permit shall be required before any building or structure or portion thereof is used \nor occupied, or the existing use or occupancy classification thereof is changed. \nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; G2G \n– Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Application Letter  \n   1 original"
+    ]
+  ],
+  "ground_truth": [
+    "Validation of Occupancy Permit for buildings 3-storeys and above or floor area of 1,500 sq.m. and above requires approved building plans, approved building permit, Certificate of Occupancy form, locational clearance, and site photos. A PHP 150.00 filing fee is paid to CTO."
+  ]
+}

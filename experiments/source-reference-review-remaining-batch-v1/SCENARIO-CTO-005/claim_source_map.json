@@ -1,0 +1,70 @@
+[
+  {
+    "claim": "The Professional Tax service lists a TOTAL fee of PHP300. Requirements: unexpired PRC/IBP ID (1 original); PRC/IBP certification for new registrants/passers (1 original); current Davao City address and valid contact number/email address.",
+    "evidence": [
+      {
+        "source_page_id": "CTO-PDF0038",
+        "pdf_relative_page": 38,
+        "printed_page": 193,
+        "source_span": "Section 58\n–\nProfessional\nTax\nOfficer I\n–\nCity Treasurer’s\nOffice\nTOTAL: PHP 300.00 \n18 Minutes",
+        "char_start": 85,
+        "char_end": 180,
+        "supporting_chunk_ids": [
+          "DEV120-CTO-PDF0038-C001"
+        ]
+      },
+      {
+        "source_page_id": "CTO-PDF0037",
+        "pdf_relative_page": 37,
+        "printed_page": 192,
+        "source_span": "CHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Unexpired Professional\nRegulatory Commission ID/ \nIntegrated Bar of the Philippines \nID – 1 original\nProfessional Regulatory Commission, Juna \nSubd., Matina, Davao City / Integrated Bar \nof the Philippines, Hall of Justice, \nCandelaria St., Ecoland, Davao City\n2. Certification from PRC/IBP for new\nregistrant/ passers – 1 original\nProfessional Regulatory Commission, Juna \nSubd., Matina, Davao City\n3. Current Davao City Address and valid\nContact number/email address\nRequestor\nCLIENT STEPS",
+        "char_start": 305,
+        "char_end": 841,
+        "supporting_chunk_ids": [
+          "DEV120-CTO-PDF0037-C001",
+          "DEV120-CTO-PDF0037-C002"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-CTO-PDF0038-C001",
+      "DEV120-CTO-PDF0037-C001",
+      "DEV120-CTO-PDF0037-C002"
+    ]
+  },
+  {
+    "claim": "Register/log in at ptr.davaocity.gov.ph, generate an Order of Payment, then pay at a Miscellaneous Fees counter or the listed Landbank payment portal.",
+    "evidence": [
+      {
+        "source_page_id": "CTO-PDF0037",
+        "pdf_relative_page": 37,
+        "printed_page": 192,
+        "source_span": "1. Visit\nhttps://ptr.davao\ncity.gov.ph. \nClick the \n“REGISTER \nHERE\" button. \nCreate an \naccount with \nUSERNAME \nand \nPASSWORD. \nLog-in to your \naccount and \nfollow the \ninstructions \nprovided.\n1. Provide\nsystem \nsupport if \nneeded.\nNone \n     10 Minutes \nCollection\nClerk\n–\nCity\nTreasurer’s\nOffice\n2. Generate an\nOrder of \nPayment (OP) \nthrough the \nsystem.\n2. Request OP\ndetails from \nthe client.\nNone \n5 Minutes \nRevenue\nCollection Clerk I\n–\nCity Treasurer’s\nOffice\n3. Pay the required\nfee at any \nMiscellaneous \nFees Counters \nor via \nhttps://www.lbp-\n3. Issue the\nOfficial Receipt \nas proof of \npayment.\nBased on \nthe 2017 \nRevenue\nCode of the\nCity of \nDavao",
+        "char_start": 911,
+        "char_end": 1574,
+        "supporting_chunk_ids": [
+          "DEV120-CTO-PDF0037-C002",
+          "DEV120-CTO-PDF0037-C003",
+          "DEV120-CTO-PDF0037-C004"
+        ]
+      },
+      {
+        "source_page_id": "CTO-PDF0038",
+        "pdf_relative_page": 38,
+        "printed_page": 193,
+        "source_span": "eservices.com/e\ngps/portal/Merc\nhants.jsp.\nOrdinance \nNo. 0291-\n17, Series \nof 2017,\nSection 58",
+        "char_start": 0,
+        "char_end": 95,
+        "supporting_chunk_ids": [
+          "DEV120-CTO-PDF0038-C001"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-CTO-PDF0037-C002",
+      "DEV120-CTO-PDF0037-C003",
+      "DEV120-CTO-PDF0037-C004",
+      "DEV120-CTO-PDF0038-C001"
+    ]
+  }
+]

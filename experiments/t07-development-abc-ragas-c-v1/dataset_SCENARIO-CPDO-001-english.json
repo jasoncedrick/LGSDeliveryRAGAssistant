@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What are the requirements, fee per hectare, and processing time for a CPDO Zoning Certification in Davao City?"
+  ],
+  "answer": [
+    "For a CPDO Zoning Certification in Davao City, the requirements include submitting complete documents [S2, S4]. The processing fee is PHP 750 per hectare [S1]. The Zoning Officer IV of CPDO is responsible for endorsing the Zoning Certification to the Administrative Division for releasing, and for issuing the Order of Payment for Processing Fee if the submitted documents are complete [S1, S2]. The total processing time is 3 days, 6 hours, and 50 minutes [S1]."
+  ],
+  "contexts": [
+    [
+      "4.7 Endorses the \nZoning \nCertification to \nCPDO \nAdministrative \nDivision for \nreleasing\nNone \n10 Minutes \n \nZoning Officer\nIV\nCPDO\n5. Claims the \nZoning \nCertification\n5. Releases \ndocuments\nNone \n5 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\nTOTAL:\nPHP \n750/\nHectare\n3 Days, 6 Hours, \nand 50 Minutes",
+      "documents \nare lacking, \nadvise client \nto comply)\nCPDO\nZoning\nOfficer IV\nCPDO\n1.3 Issues \nOrder of \nPayment for \nProcessing \nFee if \nsubmitted \ndocuments \nare complete\nProcessin\ng Fee: \n PHP\n1,500.00\n10 Minutes\n2. Submits Original and \nPhotocopied O.R. with \nComplete One (1) Set of \nDocuments\n2.1 Rechecks \nand receives \ndocuments \nand forwards \nthe same to \nAdmin \nDivision\nNone \n30 Minutes\nActing\nAdministrat\nive Officer\nCPDO\nZoning\nOfficer IV\nCPDO\n2.2 Receiving \nPersonnel \nroutes \nsubmitted \ndocuments to \nAdmin \nDivision for \ndocument",
+      "Commission, Juna \nSubd., Matina, Davao City / Integrated Bar \nof the Philippines, Hall of Justice, \nCandelaria St., Ecoland, Davao City\n2. Certification from PRC/IBP for new\nregistrant/ passers – 1 original\nProfessional Regulatory Commission, Juna \nSubd., Matina, Davao City\n3. Current Davao City Address and valid\nContact number/email address\nRequestor\nCLIENT STEPS \nAGENCY \nACTIONS\nFEES TO \nBE PAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\n1. Visit\nhttps://ptr"
+    ]
+  ],
+  "ground_truth": [
+    "The CPDO Zoning Enforcement Division issues Zoning Certification based on the Integrated Zoning Ordinance (2019-2028). The checklist requires: Certified True Copy of Title(s), 1 photocopy, from the Registry of Deeds; duly accomplished application form, 1 original, from CPDO; Subdivision/Sketch Plan, 1 original, from Bureau of Land/private Geodetic Engineer; Order of Payment, 1 original, from CPDO; and Official Receipt, 1 original, from the City Treasurer's Office. The zoning fee is PHP 750 per hectare; the payment step depends on CTO processing time, described as uncontrollable time. The charter lists a TOTAL processing time of 3 Days, 6 Hours, and 50 Minutes."
+  ]
+}

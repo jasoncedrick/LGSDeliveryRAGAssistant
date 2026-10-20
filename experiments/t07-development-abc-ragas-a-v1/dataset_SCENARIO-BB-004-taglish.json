@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Sino ang kailangang kumuha ng Occupational Permit, magkano ang bayad, at magkano ang penalty kapag late nag-renew?"
+  ],
+  "answer": [
+    "Ang mga kailangang kumuha ng Occupational Permit ay mga manggagawa o empleyado na hindi pa nga may valid na Professional Tax Receipt. Ang bayad para sa Occupational Permit ay Php125 para sa bagong at updated renewal, at Php156.25 para sa late renewal. Kapag late nag-renew, may penalty ng 25% (S2, S3)."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "4. Occupational Permit\nOccupational Permit is issued to any worker or employee who is not a holder of a validly \nissued Professional Tax Receipts, whether working on temporary and permanent basis. \nOccupational Permit is renewed annually on or before January 31. Late renewal is \nimposed a penalty of 25%. \nOffice or Division \nCity Mayor's Office – Permits & Licenses Division\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail\nAny employee or worker who is a Filipino citizen",
+      "nt to \nreapply.\nNone\n14 Minutes \n(Online and\nOnsite)\nOccupational\nPermit\nSection Head\nand\nOccupational\nPermit\nPersonnel\nBusiness \nBureau\nTOTAL:\nPhp125 \nfor new\nand\nupdated \nrenewal;\nPhp\n156.25 for\nlate\nrenewal\n33 Minutes"
+    ]
+  ],
+  "ground_truth": [
+    "According to the Occupational Permit section of the thesis source charter (printed pages 104-106; PDF pages 65-67):\n\nThe charter states that an Occupational Permit is issued to any worker or employee who is not a holder of validly issued Professional Tax Receipts, whether working on a temporary or permanent basis.\n\nUnder Who may avail, it lists Filipino employees or workers aged 18 at application; foreigners may apply after securing an Alien Employment Permit from DOLE. Where the law allows a person below 18 to work, an Affidavit of Consent from the parent or guardian is required.\n\nRenew annually on or before January 31. The charter states a 25% penalty for late renewal.\n\nThe fee table and TOTAL row state PHP 125.00 for new and updated renewal, and PHP 156.25 for late renewal. Payment is to the City Treasurer’s Office.\n\nApplication Form: Business Bureau Office, Window 1 or Public Assistance Desk. Certificate of Employment: applicant.\n\nChecklist item 3 specifies Official Receipt (for service crew), from the City Treasurer’s Office. Separately, the process instructs walk-in applicants to submit required documents including the official receipt.\n\nA notarized Affidavit of Consent is listed for minors below 18. For Night Clubs and related establishments and similar places of amusement, the affidavit is listed for ages 18 to 20.\n\nAdditional requirements for Entertainers, Masseurs, Bar Attendants: Birth Certificate (Philippine Statistics Authority); Valid ID of parent or qualified guardian for parent’s consent with appearance (Where to Secure: Any Notary public); Health ID (City Health).\n\nThe process note states: If the applicant is an entertainer, masseur, or bar attendant 18-20 years old, or the applicant is below 18 years old, he or she must present himself/herself for an interview. Agency action 2.2 repeats these conditions.\n"
+  ]
+}

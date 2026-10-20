@@ -1,0 +1,68 @@
+[
+  {
+    "claim": "The Certificate of Compatibility certifies uses or land activities capable of existing together harmoniously. Checklist: Application Letter, Zoning Certificate from CPDO, and Official Receipt from CTO.",
+    "evidence": [
+      {
+        "source_page_id": "CPDO-PDF0073",
+        "pdf_relative_page": 73,
+        "printed_page": 702,
+        "source_span": "13. Certificate of Compatibility\nA certification issued to applications which uses or land activities are capable of \nexisting together harmoniously.  \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nSimple\nType of Transaction \nG2B – Government to Business\nWho may avail \nBusiness Proponent or Authorized Representative\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Application Letter \nApplicant\n2. \nZoning Certificate \nCPDO\n3. \nOfficial Receipt \nCTO\nCLIENT STEPS",
+        "char_start": 0,
+        "char_end": 526,
+        "supporting_chunk_ids": [
+          "DEV120-CPDO-PDF0073-C001",
+          "DEV120-CPDO-PDF0073-C002"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-CPDO-PDF0073-C001",
+      "DEV120-CPDO-PDF0073-C002"
+    ]
+  },
+  {
+    "claim": "Filing fee is PHP300. The stated TOTAL is 1 Hour and 20 Minutes. The initial/final signature step is 15 minutes depending on availability of the Acting Zoning Administrator.",
+    "evidence": [
+      {
+        "source_page_id": "CPDO-PDF0073",
+        "pdf_relative_page": 73,
+        "printed_page": 702,
+        "source_span": "2. Secures order \nof payment for \nfiling fee\n2. Issues order of \npayment\nFiling \nFee: \nPhp \n300.0\n0\n10 Minutes\nZoning Officer\nIV\nCPDO\n3. Submits",
+        "char_start": 753,
+        "char_end": 897,
+        "supporting_chunk_ids": [
+          "DEV120-CPDO-PDF0073-C002",
+          "DEV120-CPDO-PDF0073-C003"
+        ]
+      },
+      {
+        "source_page_id": "CPDO-PDF0074",
+        "pdf_relative_page": 74,
+        "printed_page": 703,
+        "source_span": "3.6 Initial and \nFinal Signature\nNone \n15 Minutes \ndepending \nupon the\navailability of\nthe Acting\nZoning\nAdministrator\nActing Zoning \nAdministrator\n3.7",
+        "char_start": 220,
+        "char_end": 371,
+        "supporting_chunk_ids": [
+          "DEV120-CPDO-PDF0074-C001"
+        ]
+      },
+      {
+        "source_page_id": "CPDO-PDF0074",
+        "pdf_relative_page": 74,
+        "printed_page": 703,
+        "source_span": "TOTAL:\nPhp \n300.0\n0\n1 Hour and 20\nMinutes",
+        "char_start": 764,
+        "char_end": 805,
+        "supporting_chunk_ids": [
+          "DEV120-CPDO-PDF0074-C002"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-CPDO-PDF0073-C002",
+      "DEV120-CPDO-PDF0073-C003",
+      "DEV120-CPDO-PDF0074-C001",
+      "DEV120-CPDO-PDF0074-C002"
+    ]
+  }
+]

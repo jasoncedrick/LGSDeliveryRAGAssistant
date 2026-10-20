@@ -1,0 +1,16 @@
+{
+  "group_id": "SCENARIO-CTO-004",
+  "review_status": "supported",
+  "reviewer": "assistant",
+  "findings": [
+    "Amounts and row associations confirmed.",
+    "Retain exact category and scope wording; omit unrelated graduated business-tax table."
+  ],
+  "manual_check": null,
+  "candidate_applied": false,
+  "limitations": [
+    "Fixed thesis sources, not present-day legal advice.",
+    "Assistant image review is not independent expert certification.",
+    "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+  ]
+}

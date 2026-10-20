@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What additional fire clearance permits are required under RA 9514 for businesses handling or storing flammable liquids and gases?"
+  ],
+  "answer": [
+    "Under RA 9514, businesses handling or storing flammable liquids and gases may require the following additional fire clearance permits:\n\n1. For importers of these products, they are required to apply for either a Philippine Standard (PS) License (for manufacturers) or an Import Commodity Clearance (ICC) Certificate (for importers) [S1].\n\n2. If the building/facilities/structures are required to install any or combination of the following:\n   - Wet standpipe system;\n   - Automatic fire suppression system; and\n   - Automatic fire detection and alarm system, a Fire Safety Clearance (FSCR/FSCCR/FSMR) is required [S2].\n\n3. For fire safety clearance during welding, cutting, and other hot work operations, a permit is required, especially during new construction or renovation [S3].\n\nFor more information, you may refer to the BFP Citizens' Charter 2022 available at BFP-CITIZENS-CHARTER-2022.pdf."
+  ],
+  "contexts": [
+    [
+      "importers of these products are required to apply from the BPS for the:\nPhilippine Standard (PS) License (for manufacturers)\nor the\nImport Commodity Clearance (ICC) Certificate (for importers).\nTheir products are subjected to tests based on the requirements of relevant PNS at the BPS Testing Center or DTI-accredited testing laboratories.\n\nKnow your product\nEvery fire extinguisher type has different color bands to distinguish their type. Each type is intended for use for specific flammable materials that are classified into codes:",
+      "LIST. Other service cells are blank in source; blank is not an exemption statement.]\n\nNote: FSCR/FSCCR/FSMR  is required if the building/facilities/structures are \nrequired to install any or combination of the following: \n       1) Wet standpipe system; \n       2) Automatic fire suppression system; and \n       3) Automatic fire detection and alarm system.\nFire Safety Clearance for welding, cutting, and other hot work operations\n(if   required), shall be secured:\n1) \nPer \nProject \nDuration \n– \nfor \nnew \nconstruction \nor \nrenovation\n(during construction)",
+      "is replaced every 5 years during the periodic hydrostatic test and the teardown is done at that time.\nSource Table 7.3.1.1.2, NFPA 10-Standard for Portable Fire Extinguishers, 2007 Edition.\n\nThis product is one of the critical products that are required to undergo product certification under the BPS Product Certification Scheme. The list is downloadable at http://www.bps.dti.gov.ph\nUnder this scheme, the manufacturers and importers of these products are required to apply from the BPS for the:\nPhilippine Standard (PS"
+    ]
+  ],
+  "ground_truth": [
+    "Under Section 12.0.0.4 of the Revised IRR of RA 9514, establishments that store, convey, or handle flammable and combustible materials must pay specialized fire clearance fees as a prerequisite for municipal business licenses."
+  ]
+}

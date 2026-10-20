@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Aling halaga ang susundin sa pagkwenta ng fire tax kung magkaiba ang deklarasyon ng may-ari at ang cost table ng PD 1096?"
+  ],
+  "answer": [
+    "Wala akong impormasyon bahin sa Citizens' Charter tungkol sa pag-usapan mo tungkol sa fire tax kung magkaiba ang deklarasyon ng may-ari at ang cost table ng PD 1096. Ang fire tax sa Citizens' Charter ay hindi nakalalaman sa mga ibinigay na source blocks na nakalagay sa aking scope. [S1] at [S3] ang mga source blocks na nakalagay sa aking scope, ngunit wala silang impormasyon tungkol sa pag-usapan mo."
+  ],
+  "contexts": [
+    [
+      "nt\nin the UAF from current acceptable market\nconstruction cost per square meter or as indicated\nin Table II.G.1 of PD 1096, the higher the value will\nbe adopted\nFor FSIC (Certificate of Occupancy)/FSIC (New\nBusiness and Renewal of Business) Applica-\ntion\nFSIF = 15% of all fees charge by LGU/Philippine\nEconomic Zone Authority (PEZA) but in no case\nshall be lower than Php 500.00\nSample computation:\nFSIF = (All fees charged by the LGU/",
+      "area bracket indicated in the Table above. \nEach sub-area and the fee corresponding to its area bracket are multiplied together. \nThe building fee is the sum of the individual products as shown in the following \nexample:\nSample Computation for Building Fee for a building having a floor area of 3,200 sq. \nmeters:\nNext 500 sq. meters @ 23.00 …………………………………………….Php   11,500.00\nNext 100 sq. meters @ 22.00.…………………………………………….Php     2,200.00\nNext 100 sq. meters @ 20.50…………………",
+      "BUILDING PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\nBases of assessment\nCharacter of occupancy or use of building/structure \nCost of construction \nFloor area \nHeight\nRegardless of the type of construction, the cost of construction of any \nbuilding/structure for the purpose of assessing the corresponding fees shall be \nbased on the following:\nTable II.G.1"
+    ]
+  ],
+  "ground_truth": [
+    "Under Section 8.3.6 of JMC 2021-01, if there is a substantial difference between the building cost declared by the owner and current market costs in Table II.G.1 of PD 1096, the higher value is adopted for computing fire construction taxes."
+  ]
+}

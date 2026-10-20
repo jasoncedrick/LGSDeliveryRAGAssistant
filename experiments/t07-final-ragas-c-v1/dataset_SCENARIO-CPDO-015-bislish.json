@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ang bayad matag ektarya sa processing fee ug inspection fee para sa Subdivision Development Permit (DP) sa CPDO?"
+  ],
+  "answer": [
+    "Sa Subdivision Development Permit (DP) sa CPDO para sa mga proyekto nga mahimong Mall, Condominium, Hotel, Apartment, Warehouse, High End, Low End, Farm Lot, at Memorial Park, wala nakit-an nga impormasyon bahin sa bayad sa processing fee ug inspection fee sa mga nabasa sa mga nakit-an nga source blocks. [S1], [S2], [S3] wala nakit-an nga impormasyon sa bayad sa processing fee ug inspection fee para sa Subdivision Development Permit (DP) sa CPDO."
+  ],
+  "contexts": [
+    [
+      "15. Preliminary Subdivision Development Plan (PSDP) and \nDevelopment Permit (DP) for Mall, Condominium, Hotel and \nApartment \nArticle XI Section 1 of the Zoning Ordinance states that the projects that listed below \nare required to secure Preliminary Approval and Locational Clearance (PALC) and \nDevelopment Permit (DP) from the Sangguniang Panlungsod which shall be granted \nthrough a resolution by majority votes of all its members. \n \n(For Mall, Condominium, Warehouse, Hotel, Apartment) \nOffice or Division \nCity",
+      "14. Preliminary Subdivision Development Plan (PSDP) and \nDevelopment Permit (DP) for High End, Low End, Farm Lot and \nMemorial Park \nAn application for subdivision approval based on BP 220, PD 957, and other related \nlaws. Executive Order No. 71, Series of 1993, pursuant to RA 7160, was signed into \nlaw to devolve the powers of the Housing Land Use Regulatory Board to approve \nsubdivision plans to the cities through the City Housing Land Use and Regulatory \nUnit as the technical arm of the Sang",
+      "OIC), Business\nBureau\n3.6.  Release \nBusiness permit \nand documents to \nthe client\nNone \n10 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau\n3.7. Request the \nclient to sign in \nthe logbook\nNone \n6 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau\nTOTAL:\nMayor’s\nPermit Fee\nis\nbased on\nthe\nasset size  \nand nature\nof\nbusiness.  \nService fee\nis Php \n50.00\nfor\nAmendment\nof\nBusiness\nPermit.\n(paid at the\nCity\nTreasurer’s\nOffice).\nPls. See\nSchedule of\nFees and \nCharges\n1 Hour and \n55 Minutes\nF. A"
+    ]
+  ],
+  "ground_truth": [
+    "For a Subdivision Development Permit (DP), the processing fee is PHP 2,880.00 per hectare, and the site inspection fee is PHP 2,880.00 per hectare."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ilang sets ng building plans ang kailangan para sa Locational Clearance ng 2-storey building sa CPDO?"
+  ],
+  "answer": [
+    "Sa iyong kahilingan, ang kailangan mo ng ilang sets ng building plans para sa Locational Clearance ng 2-storey building sa CPDO ay walay wala'y ma-exact sa mga ma-apil na impormasyon. Ngunit, maaoy nga ma-observe na ang kinahanglan nga sets ng building plans sa mga kaso sa [S1] at [S2] ay seven (7) sets. Ngunit, sa [S3], wala nay nakit-an nga kinahanglan sa 2-storey building na may building floor area of 1,500 square meters and below lamang ang validation of Occupancy Permit based on the Integrated Zoning Ordinance (2019-2028). Sa kaso sa [S3], wala nay nakit-an nga kinahanglan ng building plans para sa Locational Clearance.\n\nWala akoy nakit-an nga impormasyon bahin niini sa Citizens' Charter."
+  ],
+  "contexts": [
+    [
+      ") \nCPDO\n4. SPA from the building owner to \nprocess application for Locational \nClearance\nApplicant\n5. Seven (7) complete sets of Building \nPlans (original) \na. Filled-up title blocks \nb. Signed and sealed by CE / Architect\nApplicant\n6. Certified True Copy of Title issued \nby the Registry of Deeds (ROD) or \nshow original copy of title for validation \n(1 original for validation, 1 photocopy)\nRegistry of Deeds\n7. Locational Clearance Application \nduly notarized and signed by the \napplicant (1 photocopy",
+      "DO\n4. SPA from the building owner to \nprocess application for Locational \nClearance\nApplicant\n5. Seven (7) complete sets of Building \nPlans (original copy) \na. Filled-up title blocks \nb. Signed and sealed by CE / Architect\nApplicant\n6. Certified True Copy of Title issued \nby the Registry of Deeds (ROD) or \nshow original copy of title for validation \n(1 original for validation, 1 photocopy)\nRegistry of Deeds\n7. Locational Clearance Application \nduly notarized and signed by the \napplicant (1 photocopy)",
+      "3. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (2-Storey Buildings and Below and \n1,500 Building Floor Area and Below) \nFor 2-storey buildings and below and for building floor area of 1,500 square meters \nand below only. \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator.  \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nSimple\nType of Trans"
+    ]
+  ],
+  "ground_truth": [
+    "Locational Clearance for 2-storey and below structures requires 7 complete sets of building plans signed/sealed by a civil engineer/architect, certified title, notarized application, vicinity sketch, bill of materials, and building permit form. Total time is 4 days, 2 hours."
+  ]
+}

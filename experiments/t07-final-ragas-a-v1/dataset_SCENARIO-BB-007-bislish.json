@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga papeles ug bayad kung mag-transfer sa pagpanag-iya sa business permit sa Davao?"
+  ],
+  "answer": [
+    "Sa pag-transfer sa pagpanag-iya sa business permit sa Davao, wala nakit-an nga impormasyon bahin sa Citizens' Charter. Ang mga papeles ug bayad sa transfer ng business permit ay hindi nakalist sa mga nakapag-aral sa BFP-Citizens Charter 2022 at sa Business Bureau CGD_Citizen Charter 2026_VOL.I & II. Ang mga nakapag-aral sa Citizens' Charter ay tungkol sa mga simple transactions lamang. Ang mga detalye sa transfer ng business permit ay maaaring nakatanggap sa ibang dokumento o proseso."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "Assessment of Business Permit Fee/ Tax Assessment Bill from              \nBusiness Processing and Licensing Office (BPLO)\n[REPRESENTATION: Matrix dot shown for: NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC",
+      "Head\nBusiness \nBureau\n3.4 Encode \nNotations and Print \nBusiness Permit\nNone \n10 Minutes EDP Personnel\nBusiness \nBureau\n3.5 Segregate \nBusiness permit and \nsupporting \ndocuments\nNone \n10 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau\n3.6 Review \nBusiness Permit\nNone \n10 Minutes \nLicensing \nOfficers \nBusiness \nBureau\n3.7 Final Approve \nand Issue Business \nPermit\nNone \n10 Minutes\nLicensing\nOfficer IV (BB"
+    ]
+  ],
+  "ground_truth": [
+    "Transfer of business ownership requires an Application for Transfer of Ownership, notarized Deed of Transfer/Sale/Assignment, SPA or Board Resolution, valid IDs, property proof (Tax Declaration/Lease Contract), current original Mayor's Permit, and new DTI/SEC/CDA registration. A PHP 50.00 service fee applies."
+  ]
+}

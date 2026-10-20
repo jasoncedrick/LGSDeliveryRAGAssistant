@@ -1,0 +1,17 @@
+{
+  "before_after.diff": "2b821ffcbfed5698e0371c2a2ffd1d1bea865c0ad5e367b11df6722b99f7beaa",
+  "claim_source_map.json": "b4a2ca62239d85e15898b206a6d71f9c5100b482aa4277b8273f0af551dbc161",
+  "group.before.json": "d2fe905b386684d143d2253fc8983392bfcf74072fb776ae18d66c056e2a7f46",
+  "group.candidate.json": "be4d90ba83464ad84fadd0415d66774622060bdc3cd1a1e57472789fb9b8e1c6",
+  "input_hashes.json": "f7fe4f6485af152493e0a2447b0ccf466615d362755f93dc60dd27bf674c8907",
+  "methodology_and_tracker.snapshot.json": "ee15440a4643968034d4a6451b999a4fadddb2399f6b882acd25943ff66d6281",
+  "pdf_page_72.png": "71a5272010dcec494aa2683f18f0433f96616230688e7b3092c9cf52f39d26fe",
+  "pdf_page_73.png": "20d4164f49f45d93268f9c37ede880525057650a0f2c08d3d13047355bca3b6d",
+  "pdf_page_74.png": "9c953c70e3472133cf868b3966b86892b6a806e1bceb435733843cb6e749d2f6",
+  "pdf_page_75.png": "ab5660c01023ab5d7b812ea5eaf9da5b75d19558ce779257840d3fa79f0b35fb",
+  "READ_THIS_FIRST.txt": "72c34486dcc180105e5faa9b03097e65285d804b8ca73db53d023cf8b53df871",
+  "reference_candidate.txt": "cdd68feba947d9e679ca4122780a4e54c98051315ca1dad5b3c68d86fd9e182b",
+  "review.json": "444b5e77ce46fd761ef06e7ec138a6baffc56f9a71cdd5a042c8dacb36ee6269",
+  "supporting_chunks.json": "d3b04196836a8344c5f7a723e60fe692c57f09d0993dd2c66b31c5a6ca563ed2",
+  "validation.json": "74270ae1bf139ffb6b1f68ce67bc3dbf7f7a9089980daf2f93de1ef1337f1ad5"
+}

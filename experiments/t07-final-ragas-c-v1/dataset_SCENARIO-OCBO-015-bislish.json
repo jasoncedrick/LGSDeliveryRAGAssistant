@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga rekisitos para ma-renew ang Certificate of Annual Mechanical Inspection sa mga makinarya sa building?"
+  ],
+  "answer": [
+    "Wala kaayong hinimo nga rekisitos para ma-renew ang Certificate of Annual Mechanical Inspection sa mga makinarya sa building. Ang rekisito nga nakit-an sa Citizens' Charter ay ang annual inspection ng building/structure upang mag-ensure na ang makinarya nga nakitaan sa approved plans at nag-comply sa safety standards at iba pang provisions ng Code at ng kanyang Revised Implementing Rules and Regulations. [S1]\n\nSa iba pang detalye, maaoy nga mag-check sa Office of the City Building Official (OCBO) para sa mas mabuting impormasyon. [S1]"
+  ],
+  "contexts": [
+    [
+      "14. Issuance of Certificate of Annual Mechanical Inspection\nA Certificate of Annual Mechanical Inspection is issued after conducting an annual inspection of a \nbuilding/structure to ensure that mechanical systems coincide with the approved plans and conform \nwith the safety standards and other provisions of the Code and its Revised Implementing Rules and \nRegulations\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; G2G – \nGovernment",
+      "15. Issuance of Certificate of Annual Inspection of Buildings\nA Certificate of Annual Electrical Inspection is issued after conducting an annual inspection of a \nbuilding/structure to ensure that the architectural well-being, structural stability, electrical, \nmechanical sanitation, plumbing, electronics, interior design, and fire protective properties are \nproperly maintained and that the building/structure is not occupied or used for purposes other than \nits intended use.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHigh",
+      "13. Issuance of Certificate of Annual Electrical Inspection\nA Certificate of Annual Electrical Inspection is issued after conducting an annual inspection of a \nbuilding/structure to ensure that electrical and electronic systems coincide with the approved plans \nand conform with the safety standards and other provisions of the Code and its Revised \nImplementing Rules and Regulations\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; \nG2G"
+    ]
+  ],
+  "ground_truth": [
+    "Annual Mechanical Inspection ensures mechanical systems comply with safety standards. Applying requires an inspection notice signed by the mechanical inspector, request letter, and a photocopy of the previous Certificate to Operate. The certificate is released after verification and payment."
+  ]
+}

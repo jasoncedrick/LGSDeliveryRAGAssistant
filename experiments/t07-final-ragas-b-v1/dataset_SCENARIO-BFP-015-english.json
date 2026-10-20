@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What is the standard procedure and timeframe for payment collection and claim stub issuance by the BFP collecting agent?"
+  ],
+  "answer": [
+    "The standard procedure and timeframe for payment collection and claim stub issuance by the BFP collecting agent is as follows:\n\n1. Present the Original Receipt (OR) at the BFP office. [S1]\n2. The BFP agent will proceed to releasing the window to claim the stub by presenting the OR. Note: The releasing date and time of FSEC is indicated in the claim stub. [S1]\n3. The processing time for this step is maximum of ten (10) minutes. [S1]\n\nThe timeframe for this process is not explicitly stated in the provided sources, but it can be inferred that it includes the time taken to present the OR and the time to release the claim stub, which is a maximum of ten (10) minutes."
+  ],
+  "contexts": [
+    [
+      "proceed to releasing\nwindow to claim the stub by presenting the OR.\nNote: Releasing date and time of FSEC is\nindicated in the claim stub.\n\nAGENCY ACTION: 3. Collect the payment and issue Official\nReceipt (OR)\nFor OSCP/BOSS : Backroom operation with\nOSCP/BOSS for one-time payment thru\nco-location\nFor Local Stations with MOA with the LGUs, fire\ncode fees/taxes shall be collected by the LGUs\n\nPROCESSING TIME: maximum of ten (10) minutes\n\nPERSON",
+      "-or-\nAssigned \nPersonnel\n(CTO District\nOffices)\n4. Present the\nOfficial Receipt \nand payment slip \nor Order of \nPayment for the \nissuance of \nCertification at \nWindow 9, \nRPTD, CTO SP \nOffice, or the\n4.1 Issue the\nclaim stub\n15 Minutes\nTicket Checker\n(CTO\nPoblacion)\n-or-\nAssigned \nPersonnel\n(CTO District\nOffices)",
+      "through \nassigned \npersonnel at \nthe District \nOffices.\nNone \n30 Minutes \nLocal\nTreasury\nOperations I/\nLocal\nRevenue \nCollection \nOfficer I/ \nRevenue \nCollection\nClerk I, Ticket\nCheckers\n(CTO\nPoblacion)\n-or-\nAssigned \nPersonnel\n(CTO District\nOffices)\n4. Present the\nOfficial Receipt \nfor the issuance \nof Real \nProperty Tax \nClearance at \nCounter 8, Real \nProperty Tax \nDivision, CTO \nSangguniang \nPanlungsod, or \nthe respective \nCTO District \nOffices.\n4.1 Generate the \nTax Clearance \nand issue a \nclaim stub"
+    ]
+  ],
+  "ground_truth": [
+    "The Fire Code Collecting Agent (FFCC) collects fire fees, issues the Official Receipt within 10 minutes, records payment details in the official logbook, and releases the claim stub indicating the release date/time for the FSEC/FSIC within 5 minutes."
+  ]
+}

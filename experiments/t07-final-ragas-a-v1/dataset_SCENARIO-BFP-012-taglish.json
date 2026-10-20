@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang layunin ng Joint Inspection Teams (JIT) ng BFP at LGU sa pag-iinspeksyon ng mga negosyo?"
+  ],
+  "answer": [
+    "Ang layunin ng Joint Inspection Teams (JIT) ng BFP at LGU sa pag-iinspeksyon ng mga negosyo ay hindi lamang para sa pagsasagawa ng inspeksyon ng mga negosyo, kundi para mag-limit ng face-to-face interaction ng mga applicant at mga LGU officials. Ito ay para ma-organize ang mga JITs upang mag-inspeksyon ng office/premises ng applicant, kasama ang application para sa new business permit o renewal. [S2]\n\nSa iba't-ibang pangunguna, ang JMC No. 01 Series of 2021 ay nagpapahayag na mag-organize ang mga LGU ng mga JITs para mag-inspect ng mga negosyo. [S2]"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "te and other  permits or licenses being issued by other government agencies.\nNOTE (4) Section 9.1.2 of JMC No. 01 Series of 2021—To limit the face-to-face interaction between the applicant and the LGU officials, joint inspection teams (‗JITs‖) shall be organized to conduct inspection of the applicant‘s office/\npremises, in relation to an application for new business permit or renewal. (BOSS)\nSection 9.1.4 of JMC No. 01 Series of 2021—To address the lack of personnel of inspect",
+      "application to \nAdmin Division \nfor release\nNone \n10 Minutes\nZoning\nOfficer IV \nCPDO\n3.9 Admin \nDivision updates \ndocument \ntracking system \nand routes to \nreceiving/releasi\nng personnel\nNone \n10 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\n4. Clients claim the \nLocational \nClearance\n4. \nReceiving/Releasi\nng personnel \nreleases \ndocuments to \nclients\nNone \n10 Minutes\nActing\nAdministrative\nOfficer  \nCPDO"
+    ]
+  ],
+  "ground_truth": [
+    "Section 9.1.2 of JMC 2021-01 mandates the organization of Joint Inspection Teams (JIT) combining LGU inspectors and BFP personnel to conduct joint physical inspections, limiting face-to-face contact and eliminating redundant multiple visits."
+  ]
+}

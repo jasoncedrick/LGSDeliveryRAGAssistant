@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsaon pag-apply ug Locational Clearance sa negosyo online pinaagi sa BPLS system sa Davao?"
+  ],
+  "answer": [
+    "Sa pag-apply sa Locational Clearance sa negosyo sa Davao, mao ang proseso:\n\n1. I-upload ang documentary requirements sa BPLS system ng CPDO (City Planning and Development Office) [S2, S3].\n2. Ang Zoning Officer IV ay mag-evaluate ang application [S2].\n3. Kung approved ang application, ang Admin Division ay mag-update ang document tracking system at mag-route ang application sa receiving/releasing personnel [S3, S7].\n4. Ang acting administrative officer ay mag-release ang documents sa clients [S7].\n\nAng proseso sa pag-apply sa Locational Clearance sa negosyo sa Davao mula sa BPLS system ay maaari nga nga 5 minutes sa pag-evaluation ng Zoning Officer IV, 10 minutes sa pag-update ng document tracking system ng Admin Division, at 10 minutes sa pag-release ng documents ng acting administrative officer."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "2. Uploads \nDocumentary \nRequirements\n2.1 Evaluates \napplication\nNone \n5 Minutes \n \nZoning Officer\nIV\nCPDO\n2.2 For Approval \nand Conditional \nApproval, updates \nthe BPLS system \nof the status of \napplication and \nstipulates \nconditions if \nnecessary.  \n \nNote: Once \napproved, other \noffices will \nevaluate \napplication through \nthe system\nNone \n5 Minutes \n \nZoning Officer\nIV\nCPDO\n2.3 For Denied \napplications, \nupdates BPLS \nsystem of the \nstatus of the \napplication.\nNone \n5 Minutes \n \nZoning Officer\nIV\nCPDO\n2.4 Drafts the \nDenial Letter\nNone \n15 Minute",
+      "asin\ng personnel \nupdates \ndocument \ntracking system \nand routes \napplication to \nAdmin Division \nfor release\nNone \n10 Minutes \n \nZoning Officer\nIV\nCPDO\n6.9 Admin \nDivision updates \ndocument \ntracking system \nand routes to \nreceiving/releasin\ng personnel\nNone \n10 minutes\nActing\nAdministrative\nOfficer  \nCPDO\n7. Clients claim \nthe Locational \nClearance\n7. Receiving/ \nReleasing \npersonnel \nreleases \ndocuments to \nclients\nNone \n10 Minutes\nActing\nAdministrative\nOfficer  \nCPDO"
+    ]
+  ],
+  "ground_truth": [
+    "Online Locational Clearance for Business is filed via the appbts portal. Clients upload required forms, sketch map, and HOA consent. CPDO evaluates within 5 minutes. If approved, status updates in BPLS; if denied, a denial letter is generated for appeal to LZBAA."
+  ]
+}

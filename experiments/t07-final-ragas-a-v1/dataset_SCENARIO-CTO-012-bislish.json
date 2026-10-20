@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ang rate sa buhis para sa mga wholesaler ug distributor kung molapas sa 2 milyon ang ilang halin matag tuig?"
+  ],
+  "answer": [
+    "Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa inyong tanong tungkol sa rate sa buhis para sa mga wholesaler ug distributor kung molapas sa 2 milyon ang ilang halin matag tuig. [S1, S2, S3] Sa mga nakapag-aral sa mga dokumento, wala nga didto ang impormasyon tungkol sa rate ng buhis para sa mga wholesaler ug distributor."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "on government services, whether positive or negative, to the Contact Center ng\nBayan via following access channels:\nSMS: 09088816565\nEmail: email@contactcenterngbayan.gov.ph            \n     Web: https://contactcenterngbayan.gov.ph/            \n     FB: https://facebook.com/civilservicegovph/\nCall: 165 65 (P5 +VAT per call anywhere in the Philippines via PLDT Landline)\nPUBLIC WARNING\nThe BFP Does not “ACCREDIT” nor Recommend any Brand, Store or Distributor of Fire\nExtinguisher",
+      "REDIT” nor Recommend any Brand, Store or Distributor of Fire\nExtinguisher and Fire Fighting Equipment\nAs per BFP Memorandum Circular No. 2016-016\nProhibition of BFP Personnel from Engaging in any act of impropriety and/or corruption pertaining to the enforce-\nment and implementation of the Fire Code and providing sanction thereof.\nHow to file a complaint\nTo file a complaint against the BFP or any of its personnel, the Client/Customer should provide the  following details via \nemail or other form of"
+    ]
+  ],
+  "ground_truth": [
+    "Wholesalers, distributors, and dealers are taxed on graduated tiers from PHP 1,210.00 (under 50k) up to PHP 18,150.00 (up to 2M). Gross sales in excess of PHP 2,000,000.00 are taxed at 66% of 1.0%. Businesses subject to manufacturer taxes are exempt from wholesaler tax."
+  ]
+}

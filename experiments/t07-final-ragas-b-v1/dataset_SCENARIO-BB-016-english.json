@@ -1,0 +1,18 @@
+{
+  "question": [
+    "How much does a Certified True Copy of a Mayor's Permit cost and what documents are required?"
+  ],
+  "answer": [
+    "The cost for a Certified True Copy of a Mayor's Permit is not specified in the provided sources.\n\nTo obtain a Certified True Copy of a Mayor's Permit, the following documents are required:\n\n1. Request Letter (Applicant) [S1]\n2. Photocopy of the Mayor's Permit and related documents (Applicant) [S1]\n3. Photocopy of a Valid ID of the Owner with three (3) signatures (Applicant) [S3]\n\nThe Certified True Copy of a Mayor's Permit is issued by the City Mayor's Office – Permits & Licenses Division. [S1]"
+  ],
+  "contexts": [
+    [
+      "5. Issuance of Certifications / Certified True Copy\nCertifications or Certified True Copy is issued to any natural or juridical entity, \ngovernment agencies or offices who wish to secure any copy of Business Permit or \nwho wish to know any status or record of a Taxpayer. \nOffice or \nDivision\nCity Mayor's Office – Permits & Licenses Division\nClassificati\non\nSimple (Certification, Certified True Copy and Master List without \nmodified parameters and formats), Highly Technical (Master List requiring \ntechnical parameters and format modification)\nType of",
+      "ence Permit form with 3 sets of \n  Civil/Architectural Plans of the fence duly signed \nand sealed by a licensed Civil Engineer/Architect  \n  \nNote: Applicant may use an A3 size of paper for \nthe structural design plan signed and sealed by a \nlicensed Civil/Structural Engineer\nHired Professionals (All Engineers & \nArchitects)\n2.     Certified True Copy of Land Title  \n1 original, 1 photocopy\nRegistry of Deeds/ City Assessor’s Office \n(CASSO)\n3.     Certified True Copy",
+      "16. Issuance of Certified True Copy of Documents\nCertified True Copy of documents may be issued upon request.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; G2G \n– Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Request Letter \nApplicant\n2. Photocopy of Building Permit and other \nrelated documents\nApplicant\n3. Photocopy of Valid ID of the Owner with \nthree (3) Sig"
+    ]
+  ],
+  "ground_truth": [
+    "Securing a Certified True Copy of a business permit requires a letter request, valid ID, and SPA/Board Resolution if represented. The fee is PHP 100.00 for the certified copy plus PHP 35.00 for each additional copy."
+  ]
+}

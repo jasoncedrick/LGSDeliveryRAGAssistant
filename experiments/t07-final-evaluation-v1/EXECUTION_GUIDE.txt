@@ -1,0 +1,50 @@
+T07 FINAL EXECUTION IS RUNNING
+
+The source-ID preflight blocker has been addressed through a separate, sealed source-span crosswalk. The benchmark itself remains unchanged. The current run retains all 70 held-out groups /210 queries for each of A/B/C: 630 planned generation outcomes.
+
+Alignment result
+77/87 legacy spans transferred by unique same-file/same-page source identity, protected decimal/percentage signature and verified source-window coverage. This produces complete transferred relevance labels for 59/70 groups (177/210 query variants). Ten legacy spans remain unresolved across 11 groups; these 33 query variants are still generated and receive reference-based RAGAS scoring when answer-eligible. Their Hit/MRR remain null, never zero and never scored against an incomplete gold set.
+This is annotation transfer across changed chunk boundaries, not newly validated claim-specific gold. Source-window intersections can broaden relevance at a boundary. Report that limitation and the conditional denominators; do not present it as complete original-label equivalence.
+
+Why the earlier audit appeared worse
+It required the entire legacy span to fit inside one new chunk. That is too strict when token-window boundaries changed. Most original spans exist on the same full source page after removal of exact printed-page artifacts and typography/spacing differences. The new crosswalk locates the original source extent first, then maps its intersecting current token windows. It does not select chunks from the held-out question, reference answer or returned ranking. Numeric signature mismatch, missing text and ambiguous matches remain unresolved.
+
+Registered settings
+Historical completed development-grid choice: whitespace BM25, K3, weights .75 BM25 / .25 dense /0 dictionary boost. Same Mistral model and generation prompt for all architectures. A raw-query BM25 only; B dictionary-assisted normalization plus hybrid retrieval; C query-specific injection disabled, same ambiguity gate and fusion. Shared static prompt guidance in C is disclosed.
+Corpus and embeddings remain the same 120-token /20-overlap version; no source repair or retrieval tuning uses held-out outcomes. Original reference answers are preserved verbatim.
+Legacy RAGAS 0.1.5 offline evaluator/settings are applied consistently across A/B/C; known same-model judge errors, skipped answers and nulls are retained. Qwen, punctuation and rejected judge experiments are not adopted.
+
+Registration timing
+candidate_registration.json was sealed before structural test access. execution_manifest.json separately registers the source-ID transfer policy, unresolved-label handling and final evaluation adapters before any model outcomes. This evaluation-protocol addendum occurred after structural preflight; disclose it rather than claiming no test data was accessed before the addendum. Generation/retrieval models, prompts, corpus, K and weights were not changed.
+
+Automatic stages
+1. Single-pass A/B/C generation: every query retained, errors/clarifications/incomplete answers archived.
+2. Retrieval CSV export with explicit relevance-label coverage.
+3. Offline RAGAS A, then B, then C, each on the saved answers and contexts.
+4. Updated master/per-query/matched metrics CSV and T07_EXECUTION_REPORT.txt.
+No further user prompt is needed for queued stages. No outcome is regenerated to improve its score. If interrupted, an in-flight attempt is marked interrupted rather than silently retried.
+
+Watch live progress from the clean project
+Get-Content .\experiments\t07-final-evaluation-v1\workflow.log -Tail 15 -Wait
+
+Read current stages/counters
+Get-Content .\experiments\t07-final-evaluation-v1\workflow_progress.json
+Get-Content .\experiments\t07-final-evaluation-v1\generation_progress.json
+
+Keep Ollama running. Do not start another copy while workflow.lock exists for an active process.
+If the process actually exits, first inspect workflow_progress.json and logs. The workflow is resumable against identical sealed inputs; do not delete active locks or change frozen files.
+Resume command after verifying no worker remains:
+D:\thesis\venv\Scripts\python.exe -u -B scripts/run_t07_final_workflow.py
+
+Outputs
+master_metrics.csv / per_query_metrics.csv / matched_metrics.csv: partial while completion_assessment.json says RUNNING_NOT_FINAL. They are refreshed after generation and after each scoring configuration.
+A/B/C/interactions.jsonl: actual questions, original references, normalizations, source context, generated answers, statuses and ranking metrics.
+../t07-final-ragas-a-v1, -b-v1, -c-v1: saved datasets, raw judge calls, per-query scores and failure denominators.
+source_span_crosswalk.json and .seal.json: original IDs, exact source offsets, mapped window IDs and unresolved IDs, with file hashes.
+execution_manifest.json and .seal.json: model/corpus/candidate identity, code hashes and evaluation policies registered before inference.
+T07_EXECUTION_REPORT.txt: written only after all 630 generation outcomes and 630 scoring dispositions exist. Completion means execution/export with explicit missing metrics, not complete annotation coverage or independent factual certification.
+
+Verification
+Nine focused tests passed before launch: source identity, numeric preservation, ambiguous matches, group split checks, legacy scorer adapter reproducibility and missing-score handling. The existing development scorer was not modified; scorer_adapter.diff shows the final registration/resume adapter. RAGAS mathematical definitions and legacy judge prompts remain unchanged. Separate processes prevent combining FAISS generation and RAGAS scoring in a single OpenMP runtime.
+
+T06 remains complete. No extra 60-item review is required. T07 must not be marked executed/complete until the queue and final report actually finish. Remaining source-label gaps and judge limitations must stay in the thesis report even when execution finishes.

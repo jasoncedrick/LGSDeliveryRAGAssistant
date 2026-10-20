@@ -1,0 +1,11 @@
+REMAINING SOURCE-REVIEW BATCH COMPLETE
+
+20 groups reviewed in this batch: 5 CPDO, 6 CTO, 6 OCBO, 3 BFP. Together with BB001-BB005, all 25 previously provisional groups now have assistant source-review artifacts. Zero uninspected provisional groups remain. This does NOT mean all claims are certified: see MANUAL_CHECKS.txt.
+
+Each SCENARIO folder contains group.before.json, group.candidate.json, reference_candidate.txt, claim_source_map.json, before_after.diff and review.json. Page images are in this folder. Claim evidence preserves source spans, printed/PDF page references and overlapping chunk IDs. No original evaluation label or score changed.
+
+Start with MANUAL_CHECKS.txt: four priority source conflicts/ambiguities and five conditional clarification items. Other corrections can be read later without interrupting the review work. BFP context associations are documented in bfp_context_associations.json; detached side labels remain a retrieval-context limitation.
+
+Chapter3/manual table verification and source-cited references guide the review; methodology_and_tracker.snapshot.json records the manuscript and main Thesis Tracker requirements. No corpus/index rebuild, prompt tuning, app change, held-out evaluation or new model call. T06 source inspection is done; full validation and T07 freeze remain open pending the documented issues.
+
+Next safe work: version consolidation with explicit unresolved-case flags, then archived retrieval rescoring. Do not present unresolved rates or mechanical requirements as approved gold.

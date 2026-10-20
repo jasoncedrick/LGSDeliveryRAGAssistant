@@ -1,0 +1,16 @@
+{
+  "before_after.diff": "fd12296d5deb4a86616f6c0a51a25baadf6ad2fecabedb139c5a397819c98599",
+  "claim_source_map.json": "66bafbc21758e338ce9f7ca97ac265ed1453777d8c04e7b8f89ea29aa8c4ac84",
+  "group.before.json": "d29459133486850b8a23a4a9393788d6c4d85a9ffddb7aba62c61b6c3b02e973",
+  "group.candidate.json": "75fcdb6f0af1e5ebc18438cabf4f69c54e2ea62ea17bdba9b1823f9c4695cba2",
+  "input_hashes.json": "f7fe4f6485af152493e0a2447b0ccf466615d362755f93dc60dd27bf674c8907",
+  "methodology_and_tracker.snapshot.json": "ee15440a4643968034d4a6451b999a4fadddb2399f6b882acd25943ff66d6281",
+  "pdf_page_3.png": "36aa706300e828a21ba4771cbdbfffe6eb808d171afd58428a65c5df589c92bf",
+  "pdf_page_39.png": "ce879ea1884d18041c787722242a93280c61f7aa1c5b29ce738750be9febbf1e",
+  "pdf_page_4.png": "77376d096494955d5d2854ee86406b688bb7360fde1c4dbfd513452341cd1303",
+  "READ_THIS_FIRST.txt": "de3c6ca90642a28151c751c55408c7a899c3af1f054e221469da91509fad4682",
+  "reference_candidate.txt": "bafc3f68ee4574de6f47e0be1c45a5a9cce0b8e475a88fbe9017d5fa9afd9bb4",
+  "review.json": "738f11a161a4b5cf92ac8fd03d7bc74f2630afadf2c25e1ef0df6cfae5c7b5f7",
+  "supporting_chunks.json": "610ceea8d7ab48bb83080c21d73959fe5a05aa3cb4f815745e9b8fb10f3778d9",
+  "validation.json": "0cf101ceda8dbacd354e27703c95247e2da5cb1594c0090401748bb448cbc9dd"
+}

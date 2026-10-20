@@ -1,0 +1,30 @@
+{
+  "group_id": "SCENARIO-OCBO-001",
+  "review_status": "source_wording_preserved_user_interpretation_recorded",
+  "findings": [
+    "Correct forms-versus-plans quantities and include omitted Electronics.",
+    "Do not silently fix Mechanical row professional/quantity conflicts.",
+    "Restore other plan/clearance evidence; do not call conditional clearances universal."
+  ],
+  "manual_check": {
+    "type": "blocking_source_conflict",
+    "question": "Confirm Mechanical-plan set count and licensed signing professional: the printed row conflicts internally and names Electronics Engineer.",
+    "source": "OCBO PDF3/printed491 row8",
+    "blocking": "Mechanical subclaim cannot be certified until clarified.",
+    "handling": "Preserve source statements and user interpretation explicitly; no repeated user confirmation requested. Official clarification is needed only to remove the documented source limitation."
+  },
+  "candidate_applied": false,
+  "limitations": [
+    "Fixed thesis sources, not present-day legal advice.",
+    "Assistant image review is not independent expert certification.",
+    "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+  ],
+  "human_review": {
+    "status": "source_wording_preserved_user_interpretation_recorded",
+    "finding": "User interprets 6-7 signed/sealed mechanical plan sets and another 5 plan sets as separate submissions. The PDF does not explicitly establish that they are additive.",
+    "evidence": "OCBO PDF3/printed491 row8",
+    "basis": "User instruction in conversation plus cited PDF; not new issuing-office evidence."
+  },
+  "follow_up_required_now": false,
+  "source_interpretation_fully_verified": false
+}

@@ -1,0 +1,23 @@
+{
+  "group_id": "SCENARIO-OCBO-006",
+  "pillar": "Office of the City Building Official",
+  "split": "development",
+  "ground_truth_chunk_ids": [
+    "DEV120-OCBO-PDF0103-C001",
+    "DEV120-OCBO-PDF0103-C002",
+    "DEV120-OCBO-PDF0104-C001",
+    "DEV120-OCBO-PDF0104-C002",
+    "DEV120-OCBO-PDF0103-C003"
+  ],
+  "ground_truth_reference_answer": "For a Certified True Copy, submit request letter; photocopy of Building Permit and other related documents; owner valid-ID photocopy with 3 signatures; if not owner, processor valid-ID photocopy with 3 signatures and original SPA; if lost, original Affidavit of Loss. The checklist does not offer reference details as a substitute for the photocopy.\n\nPay PHP50 per document (1 copy) at the City Treasurer’s Office. The printed TOTAL is 2 Days, 1 Hour, and 19 Minutes. Preserve this as the source-listed total, not an independently verified sum: listed steps include two separate 3-hour entries plus 2 days and other minutes.",
+  "queries": {
+    "english": "What is the fee and requirement checklist to request a Certified True Copy of a lost Building Permit at OCBO?",
+    "taglish": "Magkano ang bayad at ano ang requirements para kumuha ng Certified True Copy ng nawalang Building Permit sa OCBO?",
+    "bislish": "Pila ang bayad ug unsa ang mga requirements para makakuha ug Certified True Copy sa nawala nga Building Permit sa OCBO?"
+  },
+  "legacy_ground_truth_chunk_ids": [
+    "CHUNK-OCBO-P591-C01",
+    "CHUNK-OCBO-P592-C01"
+  ],
+  "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED"
+}

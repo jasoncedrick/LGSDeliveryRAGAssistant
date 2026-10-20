@@ -1,0 +1,18 @@
+{
+  "question": [
+    "How are authorized motor vehicle franchise dealerships and their spare parts sales taxed under the Davao City Revenue Code?"
+  ],
+  "answer": [
+    "Authorized motor vehicle franchise dealerships and their spare parts sales are taxed under the Davao City Revenue Code as follows:\n\n1. For car dealers engaged in the business of selling brand new vehicles and genuine parts pursuant to a valid and existing dealership agreement with manufacturers and distributors, the annual tax is levied as follows:\n   - From 0 to 100,000,000.00 PHP, the annual tax is 90.00 PHP. [S1, S3]\n\n2. For spare parts and services of car dealers with a valid and existing dealership agreement, the tax rate is not explicitly stated in the provided sources. [S1]"
+  ],
+  "contexts": [
+    [
+      "ing not otherwise stated in this code.\n(i) On Authorized Franchise Car Dealers\nImposition of Tax – There is hereby levied an annual tax on the following business \nundertakings at the rates prescribed herein:\ni.1 On Car Dealers engaged in the business of selling brand new vehicles and \ngenuine parts pursuant to a valid and existing dealership agreement with manufacturers \nand distributors shall be taxed as follows:\nCAR DEALERS\nFrom \nTo Less Than \nAnnual Tax\nPhp 0 \nPhp 100,000,000.00 \n90.",
+      "inafter be determined by the Sangguniang \nPanlungsod to sales outlets or consumers, whether directly or indirectly within the City, \nsubject to the following rates:\na. Motorcycle and motorized\ntricycle \nP 240.00\nb. Delivery \njeepney \nand\nsimilar utility vehicle \n600.00\nc. Truck, van, or any vehicle\nwith six wheels and above \n1,000.00\nd. Water vessel, barges, ferry\nboats, \ntug \nboats \nand\nsimilar watercrafts\n2,000.00\ne. Airplane or aircraft \n5,000.00\nArticle Ten. -",
+      "receipts in excess of Php \n100,000,000.00\nPhp 2,000,000,000.00 \nPhp 3,000,000,000.00 \nPhp 12,402,500.00 plus \n22.0% of 1.0% of gross \nreceipt in excess of Php \n2,000,000,000.00\nPhp 3,000,000,000.00 \nand above \nPhp 14,602,500.00 plus \n11% of 1.0% of gross \nreceipts in excess of Php \n3,000,000,000.00\ni.2 On Spare Parts and Services of Car Dealers with Valid and Existing Dealership \nAgreement, tax rate is as follows:\nSPARE"
+    ]
+  ],
+  "ground_truth": [
+    "Brand new car dealerships are taxed at 90.75% of 1% (up to 100M gross sales) scaling down to PHP 14.6M + 11% of 1% for sales over 3 Billion. Dealership spare parts are taxed at 2.2% (under 10M) down to 60.50% of 1% (above 30M)."
+  ]
+}

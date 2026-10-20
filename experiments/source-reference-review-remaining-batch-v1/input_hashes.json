@@ -1,0 +1,16 @@
+{
+  "experiments/t06-formal-development-validation-v3/development_groups.derived.json": "f3d7977af7372f14df90230b399d41073fe6f3dd80b52a2c706cde230b80e91d",
+  "experiments/chapter3-table-repaired-development-v1/corpus.json": "a0d996dd178eb681825880381741482001b72da5466b2effcf7b870a610017f3",
+  "experiments/t06-formal-development-validation-v3/methodology_and_tracker.json": "ee15440a4643968034d4a6451b999a4fadddb2399f6b882acd25943ff66d6281",
+  "data/raw_charters/BFP-CITIZENS-CHARTER-2022.pdf": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+  "data/raw_charters/Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf": "5ec6c626b194ad14fabfd6bd5b29671144f335d8fd38ccdae1d1dab6bff17145",
+  "data/raw_charters/City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf": "6d1572dc7ef1122064b3db8d799f27356231dd2cbeafb84231c6f315820b1005",
+  "data/raw_charters/City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf": "b492eb8d220d1d9fb8b1d3acad2bba254d711e227063853415182b1715e546de",
+  "data/raw_charters/OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf": "6f081dde0a63ade8aaa3f4dc5a26ceb0c7fde85f896951931d8222eaa86b3093",
+  "app/pipeline.py": "c773ede0be8a7f31ca53124a5ed9d9cad29ccf3726634b25c162a0321ac84cd2",
+  "src/chunk_retriever.py": "626e75dfa905ccbecf8c277660a940d573243e6798abcbde1baf2c28a4920b3b",
+  "data/municipal_dictionary_v1.json": "5ecbcc99538d9a88c7905378abe8a3712831afdfe8e9647cfdf2698600bdab62",
+  "experiments/chapter3-table-repaired-development-v1/bm25_index.pkl": "3d4ec7020d117f47d59c4a8dbbcfb2b79f69e0471736bd8f2f4bf24af2e4a5c5",
+  "experiments/chapter3-table-repaired-development-v1/faiss_index.bin": "19b7d1a025db7daa426afd513d0b20851491053f66d58d857edfb74008c07128",
+  "experiments/chapter3-table-repaired-development-v1/index_provenance.json": "47420e8e98d07ad66741b88d7625aa4c0ad2b82c4ada7cedd15e714dde150f79"
+}

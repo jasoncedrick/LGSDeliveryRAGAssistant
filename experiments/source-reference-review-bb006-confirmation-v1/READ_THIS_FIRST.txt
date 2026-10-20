@@ -1,0 +1,7 @@
+BB-006: EXISTING CORRECTED REFERENCE CONFIRMED
+
+Compared printed pages 118-120 (PDF79-81). Facility conditions, dimensions, lighting, warning wording and Internet-Cafe-only qualifiers match the saved reference. No reference or supporting-ID change is proposed.
+
+MANUAL CLARIFICATION ONLY IF A NUMERIC FEE FORMULA IS NEEDED: fee cell says PHP100.00 for the first 10 units and PHP10.00 for every unit. It does not say each additional unit. Keep exact wording and do not calculate an assumed total. Obtain issuing-office clarification before adding any formula.
+
+This group was already source-reviewed in v3; not counted as another of the 25 provisional groups. No original labels/scores changed. Independent expert audit remains separate.

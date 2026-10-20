@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang proseso para sa bagong negosyo kapag walang valid na FSIC na nakuha noong occupancy permit stage?"
+  ],
+  "answer": [
+    "Sa pag-aapply sa bag-ong negosyo kapag walang valid na Fire Safety Inspection Certificate (FSIC) na nakuha noong occupancy permit stage, ang proseso ay nababasa sa [S2] at [S3].\n\nAng mga kailangan mo ay:\n1. New Business Permit ([S2])\n2. Wala kaayong valid na FSIC ([S2])\n3. I-submit ang mga plano, pagpaplano, at mga specification na sign at seal ng Professional Engineer/Architect ([S3])\n4. Kung mayroon kaayong mga bagong plano, i-submit ang as-built plan together with the building permit ([S3])\n\nAng deadline para sa pag-submit ng mga requirement ay hindi nakalagay sa mga source na binigyan. Ang mga detalye sa proseso ay maaaring ibahagi ng BFP sa kanilang mga office."
+  ],
+  "contexts": [
+    [
+      "s, etc.) as a prerequisite for the\nissuance of appropriate permits and licenses\nfrom the local and other government agencies\nconcerned.\n\nCHECKLIST OF\nREQUIREMENTS/\nDOCUMENTS\nBFP FRONT LINE SERVICES\nFIRE SAFETY  \nEVALUATION \nCLEARANCE\n(FSEC)\nAPPLICATION\nFIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION\nCERTIFICATE OF\nOCCUPANCY\nNEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPAN",
+      "NEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPANCY\nPERMIT STAGE\nNEW  BUSINESS    \nPERMIT WITHOUT\nVALID FSIC\nISSUED DURING\nOCCUPANCY\nPERMIT STAGE\nRENEWAL OF\nBUSINESS\nPERMIT\nRENEWAL OF\nBUSINESS PERMIT\nWITHOUT VALID FSIC\nOR EXPIRED FSIC/\nWITH EXISTING\nVIOLATION OF THE\nFIRE CODE/INCLUDED \nIN THE NEGATIVE LIST\nA   P   P   L   I   C   A   T   I   O   N",
+      "Note: \nDocuments \nrefers \nto \ndesign \nplans, \ncalculations \nand\nspecifications signed and sealed by the Professional Engineer/\nArchitect\nAs-built plan together with the building permit (If there is changes/\n[REPRESENTATION: Matrix dot shown for: CERTIFICATE OF OCCUPANCY; NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF"
+    ]
+  ],
+  "ground_truth": [
+    "If a new business permit applicant has no valid FSIC from the occupancy stage, they must submit the Unified Application Form (BOSS) and tax assessment bill, pay the 15% FSIF, and undergo a joint ocular inspection by the BFP."
+  ]
+}

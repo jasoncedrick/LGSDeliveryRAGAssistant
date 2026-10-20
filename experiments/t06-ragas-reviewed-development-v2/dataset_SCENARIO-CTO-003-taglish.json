@@ -1,0 +1,20 @@
+{
+  "question": [
+    "Magkano ang porsyento ng Basic Real Property Tax at Special Education Fund sa Davao City?"
+  ],
+  "answer": [
+    "The Basic Real Property Tax in Davao City is levied at a rate of 1.5% of the assessed value of real property, as stated in [S7]. The Special Education Fund (SEF) is levied an additional 1% tax on the assessed value of real property, as stated in [S1] and [S8]."
+  ],
+  "contexts": [
+    [
+      "(1.5%) of the assessed \nvalue of real property, grasslands, buildings, machinery and other improvements affixed \nor attached to real property located in this City.\nSection 8. Additional Levy on Real Property for the Special Education Fund \n(SEF) – This is hereby levied a one percent (1%) tax on the assessed value of real \nproperty which shall be in addition in the basic real property tax. The proceeds thereof \nshall accrue exclusively to the Special Education Fund (SEF).",
+      "-\neservices.com/\negps/portal/Mer\nchants.jsp\n–\nImposition \nof the Basic\nReal\nProperty\nTax\nSection 8\n–\nAdditional \nLevy on\nReal\nProperty for \nthe Special \nEducation \nfund (SEF)\nTOTAL: \nAttached \nAnnex - 11 \n25 Minutes\nANNEX – 11\nSection 7. Imposition of the Basic Real Property Tax. – There is hereby levied \nan annual ad valorem tax at the rate of one and one-half percent (1.5%) of the assessed \nvalue of real property, grasslands, buildings, machine",
+      "5.  Real Property Tax (RPT) Certification\nOrder of Payment (SOA), Payment, and issuance of Tax Clearance (Local Revenue Code of \nDavao City). \nOffice or Division \nOffice of the City Treasurer (CTO) – Real Property Tax Division \nand Other CTO District Offices\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail \nAll\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Tax Declaration/Declaration of Real\nProperty Tax Valuation (DRPV) – 1 \nphotocopy",
+      "14. Payment for Real Property Tax (RPT) Clearance\nStatement of Account issued to clients for payment/ issuance of Tax Clearance (Local \nRevenue Code of Davao City). \nOffice or Division \nOffice of the City Treasurer (CTO) – Real Property Tax \nDivision and CTO District Offices\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail \nAll real property owners in Davao City\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Tax Declaration /Declaration of \nReal Property Tax Valuation",
+      ", shall exceed Ten Thousand Pesos (P10,000.00) in \naccordance with the following schedule:\n(a) For every Five Thousand Pesos (P5,000.00) worth of real property in the\nPhilippines owned by it during the preceding year based on the valuation used in \nthe payment of real property tax under existing laws, found in the assessment rolls \nof this city where the real property is situated - Two (P2.00) Pesos; and\n(b) For every Five Thousand Pesos (P5,000.00) of gross receipts or earn"
+    ]
+  ],
+  "ground_truth": [
+    "Annex11 states Basic Real Property Tax is 1.5% of assessed value and the additional Special Education Fund levy is 1% of assessed value. Their arithmetic sum is 2.5% of assessed value; this sum is derived from the two stated rates."
+  ]
+}

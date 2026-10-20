@@ -1,0 +1,24 @@
+{
+  "group_id": "SCENARIO-CTO-001",
+  "pillar": "City Treasurer's Office",
+  "split": "development",
+  "ground_truth_chunk_ids": [
+    "DEV120-CTO-PDF0030-C001",
+    "DEV120-CTO-PDF0030-C002",
+    "DEV120-CTO-PDF0020-C001",
+    "DEV120-CTO-PDF0020-C002",
+    "DEV120-CTO-PDF0020-C003"
+  ],
+  "ground_truth_reference_answer": "Pursuant to Section 422 of the 2017 Revenue Code of Davao City (Ordinance No. 0291-17), all businesses must register their books of accounts, records of transactions, official receipts, cash sales invoices, and delivery receipts with the City Treasurer's Office within fifteen (15) working days from the date of filing the application for a new or renewal business permit. Failure to register within this 15-day period incurs a mandatory administrative fine of Five Thousand Pesos (PHP 5,000.00).",
+  "queries": {
+    "english": "Within how many days must business books of accounts and receipts be registered with the City Treasurer, and what is the late fine?",
+    "taglish": "Ilang araw dapat iparehistro ang books of accounts at resibo sa City Treasurer, at magkano ang multa kapag nahuli?",
+    "bislish": "Pila ka adlaw dapat marehistro ang books of accounts ug resibo sa City Treasurer human mag-file, ug pila ang multa kung ma-late?"
+  },
+  "legacy_ground_truth_chunk_ids": [
+    "CHUNK-CTO-P185-C01",
+    "CHUNK-CTO-P186-C01",
+    "CHUNK-CTO-P186-C02"
+  ],
+  "mapping_status": "PROVISIONAL_EXACT_SPAN_MAPPING"
+}

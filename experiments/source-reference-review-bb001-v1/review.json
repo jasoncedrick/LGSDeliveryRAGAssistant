@@ -1,0 +1,24 @@
+{
+  "group_id": "SCENARIO-BB-001",
+  "review_status": "needs_correction",
+  "candidate_status": "not_applied",
+  "reviewer": "assistant",
+  "findings": [
+    "Old answer omits items 7-12 and 15-20.",
+    "Item 6 says Certificate of Cooperation, Articles of Cooperation, not merely CDA Registration.",
+    "Item 14 specifies no photocopy quantity.",
+    "Preserve notarization for item 13 and conditional requirements.",
+    "Add PDF0002-C005 supporting items 10-12.",
+    "Preserve form-source and online wording rather than infer onsite filing from these pages."
+  ],
+  "manual_action_required_now": false,
+  "limitations": [
+    "Not independent human expert certification.",
+    "Preserve Cooperation and valid in the last 9 months exactly; do not silently reinterpret.",
+    "C001 retained for service context only.",
+    "Full checklist spans more than five chunks: Hit@K is not complete-answer coverage."
+  ],
+  "remaining_work": "24 of the 25 provisional groups remain; BFP context association and BB ambiguous fee still require their separate reviews.",
+  "unchanged": "Original reference labels, corpus, indices, app defaults and all scores.",
+  "methodology": "Chapter 3 PDF28/printed23 table integrity; PDF34/printed29 source-cited references and grouped split. Main Thesis Tracker: T06 harness validation remains distinct from T07 frozen comparison."
+}

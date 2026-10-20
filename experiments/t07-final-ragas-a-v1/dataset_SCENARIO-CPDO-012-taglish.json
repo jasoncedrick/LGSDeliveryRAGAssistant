@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Paano ang proseso ng pagpapapalit ng agricultural land patungong commercial use sa ilalim ng CLUP sa Davao?"
+  ],
+  "answer": [
+    "To change an agricultural land into commercial use under the Comprehensive Land Use Plan (CLUP) in Davao, the process involves the following steps as per the Business Bureau's Citizen Charter 2026 [S3]:\n\n1. Application for Zoning Clearance:\n   - Submit the application to the Admin Division for updating the document tracking system and routing to receiving/releasing personnel. [S2]\n   - Clients claim the Locational Clearance and receive documents from the Acting Administrative Officer of the CPDO. [S2]\n\n2. Application for Zoning Change:\n   - Submit the application for zoning change to the City Planning Office (CPO). [Not specified in the provided sources]\n   - The Zoning Officer IV of the CPO updates the document tracking system and routes the application to the appropriate personnel. [S2]\n   - The Zoning Officer IV of the CPO releases the decision on the zoning change application. [Not specified in the provided sources]\n\n3. Application for Building Permit:\n   - If the zoning change is approved, submit the application for a building permit to the Building and Architecture Office (BAO). [Not specified in the provided sources]\n   - The BAO processes the building permit application and releases the permit if approved. [Not specified in the provided sources]\n\n4. Compliance with other requirements:\n   - Comply with other requirements as may be specified by the relevant agencies, such as the Environmental Management Bureau (EMB) for environmental clearance, and the Bureau of Fire Protection (BFP) for fire safety clearance. [Not specified in the provided sources]\n\nPlease note that the provided sources do not specify the exact fees associated with each step of the process. For the most accurate and up-to-date information, it is recommended to contact the relevant agencies or visit their official websites."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "application to \nAdmin Division \nfor release\nNone \n10 Minutes\nZoning\nOfficer IV \nCPDO\n3.9 Admin \nDivision updates \ndocument \ntracking system \nand routes to \nreceiving/releasi\nng personnel\nNone \n10 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\n4. Clients claim the \nLocational \nClearance\n4. \nReceiving/Releasi\nng personnel \nreleases \ndocuments to \nclients\nNone \n10 Minutes\nActing\nAdministrative\nOfficer  \nCPDO",
+      "al vendors during special occasions such as Araw ng Dabaw, \nKadayawan Festival, City Fiesta, and other celebrations or similar occasions - \n400.00 if applicable\nCockfighting:\nSpecial Cockfights (Pintakasi)\n First three (3) days –                     Php3,000.00"
+    ]
+  ],
+  "ground_truth": [
+    "Reclassification specifies how agricultural lands shall be utilized for non-agricultural uses (residential, commercial, industrial) under the CLUP. It requires CPDO evaluation, Barangay endorsement, City Development Council review, and Sangguniang Panlungsod ordinance approval."
+  ]
+}

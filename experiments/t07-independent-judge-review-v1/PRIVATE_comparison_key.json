@@ -1,0 +1,542 @@
+[
+  {
+    "audit_id": "AUDIT-001",
+    "original_case_id": "SCENARIO-CTO-003-english-CONTROL4",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-CTO-PDF0031-C001",
+    "source_pdf": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 31,
+    "source_pdf_sha256": "b492eb8d220d1d9fb8b1d3acad2bba254d711e227063853415182b1715e546de"
+  },
+  {
+    "audit_id": "AUDIT-002",
+    "original_case_id": "SCENARIO-CTO-003-taglish-CONTROL4",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-CTO-PDF0031-C001",
+    "source_pdf": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 31,
+    "source_pdf_sha256": "b492eb8d220d1d9fb8b1d3acad2bba254d711e227063853415182b1715e546de"
+  },
+  {
+    "audit_id": "AUDIT-003",
+    "original_case_id": "SCENARIO-BFP-002-bislish-CONTROL2",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-BFP-PDF0001-C020",
+    "source_pdf": "BFP-CITIZENS-CHARTER-2022.pdf",
+    "pdf_relative_page": 1,
+    "source_pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74"
+  },
+  {
+    "audit_id": "AUDIT-004",
+    "original_case_id": "SCENARIO-BFP-002-english-CONTROL4",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-BFP-PDF0001-C041",
+    "source_pdf": "BFP-CITIZENS-CHARTER-2022.pdf",
+    "pdf_relative_page": 1,
+    "source_pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74"
+  },
+  {
+    "audit_id": "AUDIT-005",
+    "original_case_id": "SCENARIO-CTO-003-english-CONTROL3",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-CTO-PDF0001-C001",
+    "source_pdf": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 1,
+    "source_pdf_sha256": "b492eb8d220d1d9fb8b1d3acad2bba254d711e227063853415182b1715e546de"
+  },
+  {
+    "audit_id": "AUDIT-006",
+    "original_case_id": "SCENARIO-BFP-002-taglish-CONTROL2",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-BFP-PDF0001-C020",
+    "source_pdf": "BFP-CITIZENS-CHARTER-2022.pdf",
+    "pdf_relative_page": 1,
+    "source_pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74"
+  },
+  {
+    "audit_id": "AUDIT-007",
+    "original_case_id": "SCENARIO-OCBO-006-bislish-CONTROL1",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-OCBO-PDF0103-C002",
+    "source_pdf": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 103,
+    "source_pdf_sha256": "6f081dde0a63ade8aaa3f4dc5a26ceb0c7fde85f896951931d8222eaa86b3093"
+  },
+  {
+    "audit_id": "AUDIT-008",
+    "original_case_id": "SCENARIO-OCBO-006-english-CONTROL1",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-OCBO-PDF0103-C002",
+    "source_pdf": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 103,
+    "source_pdf_sha256": "6f081dde0a63ade8aaa3f4dc5a26ceb0c7fde85f896951931d8222eaa86b3093"
+  },
+  {
+    "audit_id": "AUDIT-009",
+    "original_case_id": "SCENARIO-CPDO-003-bislish-CONTROL3",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-CPDO-PDF0001-C001",
+    "source_pdf": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+    "pdf_relative_page": 1,
+    "source_pdf_sha256": "6d1572dc7ef1122064b3db8d799f27356231dd2cbeafb84231c6f315820b1005"
+  },
+  {
+    "audit_id": "AUDIT-010",
+    "original_case_id": "SCENARIO-CTO-003-taglish-CONTROL2",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-CTO-PDF0036-C002",
+    "source_pdf": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 36,
+    "source_pdf_sha256": "b492eb8d220d1d9fb8b1d3acad2bba254d711e227063853415182b1715e546de"
+  },
+  {
+    "audit_id": "AUDIT-011",
+    "original_case_id": "SCENARIO-CPDO-003-taglish-CONTROL4",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-CPDO-PDF0019-C001",
+    "source_pdf": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+    "pdf_relative_page": 19,
+    "source_pdf_sha256": "6d1572dc7ef1122064b3db8d799f27356231dd2cbeafb84231c6f315820b1005"
+  },
+  {
+    "audit_id": "AUDIT-012",
+    "original_case_id": "SCENARIO-CTO-003-taglish-CONTROL1",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-CTO-PDF0036-C001",
+    "source_pdf": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 36,
+    "source_pdf_sha256": "b492eb8d220d1d9fb8b1d3acad2bba254d711e227063853415182b1715e546de"
+  },
+  {
+    "audit_id": "AUDIT-013",
+    "original_case_id": "SCENARIO-BB-001-english-CONTROL1",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-BB-PDF0002-C002",
+    "source_pdf": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+    "pdf_relative_page": 2,
+    "source_pdf_sha256": "5ec6c626b194ad14fabfd6bd5b29671144f335d8fd38ccdae1d1dab6bff17145"
+  },
+  {
+    "audit_id": "AUDIT-014",
+    "original_case_id": "SCENARIO-OCBO-006-bislish-CONTROL3",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-OCBO-PDF0001-C001",
+    "source_pdf": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 1,
+    "source_pdf_sha256": "6f081dde0a63ade8aaa3f4dc5a26ceb0c7fde85f896951931d8222eaa86b3093"
+  },
+  {
+    "audit_id": "AUDIT-015",
+    "original_case_id": "SCENARIO-BB-001-english-CONTROL4",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-BB-PDF0002-C001",
+    "source_pdf": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+    "pdf_relative_page": 2,
+    "source_pdf_sha256": "5ec6c626b194ad14fabfd6bd5b29671144f335d8fd38ccdae1d1dab6bff17145"
+  },
+  {
+    "audit_id": "AUDIT-016",
+    "original_case_id": "SCENARIO-BB-001-taglish-CONTROL2",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-BB-PDF0002-C003",
+    "source_pdf": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+    "pdf_relative_page": 2,
+    "source_pdf_sha256": "5ec6c626b194ad14fabfd6bd5b29671144f335d8fd38ccdae1d1dab6bff17145"
+  },
+  {
+    "audit_id": "AUDIT-017",
+    "original_case_id": "SCENARIO-BB-001-bislish-CONTROL3",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-BB-PDF0001-C001",
+    "source_pdf": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+    "pdf_relative_page": 1,
+    "source_pdf_sha256": "5ec6c626b194ad14fabfd6bd5b29671144f335d8fd38ccdae1d1dab6bff17145"
+  },
+  {
+    "audit_id": "AUDIT-018",
+    "original_case_id": "SCENARIO-BB-001-english-CONTROL2",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-BB-PDF0002-C003",
+    "source_pdf": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+    "pdf_relative_page": 2,
+    "source_pdf_sha256": "5ec6c626b194ad14fabfd6bd5b29671144f335d8fd38ccdae1d1dab6bff17145"
+  },
+  {
+    "audit_id": "AUDIT-019",
+    "original_case_id": "SCENARIO-OCBO-006-taglish-CONTROL4",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-OCBO-PDF0002-C001",
+    "source_pdf": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 2,
+    "source_pdf_sha256": "6f081dde0a63ade8aaa3f4dc5a26ceb0c7fde85f896951931d8222eaa86b3093"
+  },
+  {
+    "audit_id": "AUDIT-020",
+    "original_case_id": "SCENARIO-CPDO-003-english-CONTROL2",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-CPDO-PDF0022-C002",
+    "source_pdf": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+    "pdf_relative_page": 22,
+    "source_pdf_sha256": "6d1572dc7ef1122064b3db8d799f27356231dd2cbeafb84231c6f315820b1005"
+  },
+  {
+    "audit_id": "AUDIT-021",
+    "original_case_id": "SCENARIO-OCBO-006-bislish-CONTROL4",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-OCBO-PDF0002-C001",
+    "source_pdf": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 2,
+    "source_pdf_sha256": "6f081dde0a63ade8aaa3f4dc5a26ceb0c7fde85f896951931d8222eaa86b3093"
+  },
+  {
+    "audit_id": "AUDIT-022",
+    "original_case_id": "SCENARIO-CTO-003-bislish-CONTROL4",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-CTO-PDF0031-C001",
+    "source_pdf": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 31,
+    "source_pdf_sha256": "b492eb8d220d1d9fb8b1d3acad2bba254d711e227063853415182b1715e546de"
+  },
+  {
+    "audit_id": "AUDIT-023",
+    "original_case_id": "SCENARIO-BB-001-taglish-CONTROL1",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-BB-PDF0002-C002",
+    "source_pdf": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+    "pdf_relative_page": 2,
+    "source_pdf_sha256": "5ec6c626b194ad14fabfd6bd5b29671144f335d8fd38ccdae1d1dab6bff17145"
+  },
+  {
+    "audit_id": "AUDIT-024",
+    "original_case_id": "SCENARIO-BFP-002-bislish-CONTROL4",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-BFP-PDF0001-C041",
+    "source_pdf": "BFP-CITIZENS-CHARTER-2022.pdf",
+    "pdf_relative_page": 1,
+    "source_pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74"
+  },
+  {
+    "audit_id": "AUDIT-025",
+    "original_case_id": "SCENARIO-CTO-003-english-CONTROL1",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-CTO-PDF0036-C001",
+    "source_pdf": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 36,
+    "source_pdf_sha256": "b492eb8d220d1d9fb8b1d3acad2bba254d711e227063853415182b1715e546de"
+  },
+  {
+    "audit_id": "AUDIT-026",
+    "original_case_id": "SCENARIO-BFP-002-english-CONTROL1",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-BFP-PDF0001-C019",
+    "source_pdf": "BFP-CITIZENS-CHARTER-2022.pdf",
+    "pdf_relative_page": 1,
+    "source_pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74"
+  },
+  {
+    "audit_id": "AUDIT-027",
+    "original_case_id": "SCENARIO-OCBO-006-english-CONTROL4",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-OCBO-PDF0002-C001",
+    "source_pdf": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 2,
+    "source_pdf_sha256": "6f081dde0a63ade8aaa3f4dc5a26ceb0c7fde85f896951931d8222eaa86b3093"
+  },
+  {
+    "audit_id": "AUDIT-028",
+    "original_case_id": "SCENARIO-CTO-003-bislish-CONTROL3",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-CTO-PDF0001-C001",
+    "source_pdf": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 1,
+    "source_pdf_sha256": "b492eb8d220d1d9fb8b1d3acad2bba254d711e227063853415182b1715e546de"
+  },
+  {
+    "audit_id": "AUDIT-029",
+    "original_case_id": "SCENARIO-CPDO-003-bislish-CONTROL4",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-CPDO-PDF0019-C001",
+    "source_pdf": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+    "pdf_relative_page": 19,
+    "source_pdf_sha256": "6d1572dc7ef1122064b3db8d799f27356231dd2cbeafb84231c6f315820b1005"
+  },
+  {
+    "audit_id": "AUDIT-030",
+    "original_case_id": "SCENARIO-CPDO-003-english-CONTROL1",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-CPDO-PDF0022-C001",
+    "source_pdf": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+    "pdf_relative_page": 22,
+    "source_pdf_sha256": "6d1572dc7ef1122064b3db8d799f27356231dd2cbeafb84231c6f315820b1005"
+  },
+  {
+    "audit_id": "AUDIT-031",
+    "original_case_id": "SCENARIO-BB-001-bislish-CONTROL2",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-BB-PDF0002-C003",
+    "source_pdf": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+    "pdf_relative_page": 2,
+    "source_pdf_sha256": "5ec6c626b194ad14fabfd6bd5b29671144f335d8fd38ccdae1d1dab6bff17145"
+  },
+  {
+    "audit_id": "AUDIT-032",
+    "original_case_id": "SCENARIO-CPDO-003-taglish-CONTROL2",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-CPDO-PDF0022-C002",
+    "source_pdf": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+    "pdf_relative_page": 22,
+    "source_pdf_sha256": "6d1572dc7ef1122064b3db8d799f27356231dd2cbeafb84231c6f315820b1005"
+  },
+  {
+    "audit_id": "AUDIT-033",
+    "original_case_id": "SCENARIO-CPDO-003-bislish-CONTROL1",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-CPDO-PDF0022-C001",
+    "source_pdf": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+    "pdf_relative_page": 22,
+    "source_pdf_sha256": "6d1572dc7ef1122064b3db8d799f27356231dd2cbeafb84231c6f315820b1005"
+  },
+  {
+    "audit_id": "AUDIT-034",
+    "original_case_id": "SCENARIO-OCBO-006-taglish-CONTROL2",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-OCBO-PDF0104-C002",
+    "source_pdf": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 104,
+    "source_pdf_sha256": "6f081dde0a63ade8aaa3f4dc5a26ceb0c7fde85f896951931d8222eaa86b3093"
+  },
+  {
+    "audit_id": "AUDIT-035",
+    "original_case_id": "SCENARIO-BFP-002-english-CONTROL2",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-BFP-PDF0001-C020",
+    "source_pdf": "BFP-CITIZENS-CHARTER-2022.pdf",
+    "pdf_relative_page": 1,
+    "source_pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74"
+  },
+  {
+    "audit_id": "AUDIT-036",
+    "original_case_id": "SCENARIO-OCBO-006-english-CONTROL2",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-OCBO-PDF0104-C002",
+    "source_pdf": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 104,
+    "source_pdf_sha256": "6f081dde0a63ade8aaa3f4dc5a26ceb0c7fde85f896951931d8222eaa86b3093"
+  },
+  {
+    "audit_id": "AUDIT-037",
+    "original_case_id": "SCENARIO-BB-001-taglish-CONTROL4",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-BB-PDF0002-C001",
+    "source_pdf": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+    "pdf_relative_page": 2,
+    "source_pdf_sha256": "5ec6c626b194ad14fabfd6bd5b29671144f335d8fd38ccdae1d1dab6bff17145"
+  },
+  {
+    "audit_id": "AUDIT-038",
+    "original_case_id": "SCENARIO-OCBO-006-bislish-CONTROL2",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-OCBO-PDF0104-C002",
+    "source_pdf": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 104,
+    "source_pdf_sha256": "6f081dde0a63ade8aaa3f4dc5a26ceb0c7fde85f896951931d8222eaa86b3093"
+  },
+  {
+    "audit_id": "AUDIT-039",
+    "original_case_id": "SCENARIO-OCBO-006-taglish-CONTROL1",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-OCBO-PDF0103-C002",
+    "source_pdf": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 103,
+    "source_pdf_sha256": "6f081dde0a63ade8aaa3f4dc5a26ceb0c7fde85f896951931d8222eaa86b3093"
+  },
+  {
+    "audit_id": "AUDIT-040",
+    "original_case_id": "SCENARIO-BFP-002-english-CONTROL3",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-BFP-PDF0001-C006",
+    "source_pdf": "BFP-CITIZENS-CHARTER-2022.pdf",
+    "pdf_relative_page": 1,
+    "source_pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74"
+  },
+  {
+    "audit_id": "AUDIT-041",
+    "original_case_id": "SCENARIO-CPDO-003-english-CONTROL3",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-CPDO-PDF0001-C001",
+    "source_pdf": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+    "pdf_relative_page": 1,
+    "source_pdf_sha256": "6d1572dc7ef1122064b3db8d799f27356231dd2cbeafb84231c6f315820b1005"
+  },
+  {
+    "audit_id": "AUDIT-042",
+    "original_case_id": "SCENARIO-CPDO-003-bislish-CONTROL2",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-CPDO-PDF0022-C002",
+    "source_pdf": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+    "pdf_relative_page": 22,
+    "source_pdf_sha256": "6d1572dc7ef1122064b3db8d799f27356231dd2cbeafb84231c6f315820b1005"
+  },
+  {
+    "audit_id": "AUDIT-043",
+    "original_case_id": "SCENARIO-CTO-003-english-CONTROL2",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-CTO-PDF0036-C002",
+    "source_pdf": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 36,
+    "source_pdf_sha256": "b492eb8d220d1d9fb8b1d3acad2bba254d711e227063853415182b1715e546de"
+  },
+  {
+    "audit_id": "AUDIT-044",
+    "original_case_id": "SCENARIO-BFP-002-taglish-CONTROL4",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-BFP-PDF0001-C041",
+    "source_pdf": "BFP-CITIZENS-CHARTER-2022.pdf",
+    "pdf_relative_page": 1,
+    "source_pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74"
+  },
+  {
+    "audit_id": "AUDIT-045",
+    "original_case_id": "SCENARIO-BFP-002-bislish-CONTROL3",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-BFP-PDF0001-C006",
+    "source_pdf": "BFP-CITIZENS-CHARTER-2022.pdf",
+    "pdf_relative_page": 1,
+    "source_pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74"
+  },
+  {
+    "audit_id": "AUDIT-046",
+    "original_case_id": "SCENARIO-CTO-003-bislish-CONTROL1",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-CTO-PDF0036-C001",
+    "source_pdf": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 36,
+    "source_pdf_sha256": "b492eb8d220d1d9fb8b1d3acad2bba254d711e227063853415182b1715e546de"
+  },
+  {
+    "audit_id": "AUDIT-047",
+    "original_case_id": "SCENARIO-BFP-002-taglish-CONTROL3",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-BFP-PDF0001-C006",
+    "source_pdf": "BFP-CITIZENS-CHARTER-2022.pdf",
+    "pdf_relative_page": 1,
+    "source_pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74"
+  },
+  {
+    "audit_id": "AUDIT-048",
+    "original_case_id": "SCENARIO-BB-001-bislish-CONTROL1",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-BB-PDF0002-C002",
+    "source_pdf": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+    "pdf_relative_page": 2,
+    "source_pdf_sha256": "5ec6c626b194ad14fabfd6bd5b29671144f335d8fd38ccdae1d1dab6bff17145"
+  },
+  {
+    "audit_id": "AUDIT-049",
+    "original_case_id": "SCENARIO-OCBO-006-taglish-CONTROL3",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-OCBO-PDF0001-C001",
+    "source_pdf": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 1,
+    "source_pdf_sha256": "6f081dde0a63ade8aaa3f4dc5a26ceb0c7fde85f896951931d8222eaa86b3093"
+  },
+  {
+    "audit_id": "AUDIT-050",
+    "original_case_id": "SCENARIO-BB-001-bislish-CONTROL4",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-BB-PDF0002-C001",
+    "source_pdf": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+    "pdf_relative_page": 2,
+    "source_pdf_sha256": "5ec6c626b194ad14fabfd6bd5b29671144f335d8fd38ccdae1d1dab6bff17145"
+  },
+  {
+    "audit_id": "AUDIT-051",
+    "original_case_id": "SCENARIO-BB-001-english-CONTROL3",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-BB-PDF0001-C001",
+    "source_pdf": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+    "pdf_relative_page": 1,
+    "source_pdf_sha256": "5ec6c626b194ad14fabfd6bd5b29671144f335d8fd38ccdae1d1dab6bff17145"
+  },
+  {
+    "audit_id": "AUDIT-052",
+    "original_case_id": "SCENARIO-BFP-002-taglish-CONTROL1",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-BFP-PDF0001-C019",
+    "source_pdf": "BFP-CITIZENS-CHARTER-2022.pdf",
+    "pdf_relative_page": 1,
+    "source_pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74"
+  },
+  {
+    "audit_id": "AUDIT-053",
+    "original_case_id": "SCENARIO-BFP-002-bislish-CONTROL1",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-BFP-PDF0001-C019",
+    "source_pdf": "BFP-CITIZENS-CHARTER-2022.pdf",
+    "pdf_relative_page": 1,
+    "source_pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74"
+  },
+  {
+    "audit_id": "AUDIT-054",
+    "original_case_id": "SCENARIO-BB-001-taglish-CONTROL3",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-BB-PDF0001-C001",
+    "source_pdf": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+    "pdf_relative_page": 1,
+    "source_pdf_sha256": "5ec6c626b194ad14fabfd6bd5b29671144f335d8fd38ccdae1d1dab6bff17145"
+  },
+  {
+    "audit_id": "AUDIT-055",
+    "original_case_id": "SCENARIO-CPDO-003-taglish-CONTROL1",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-CPDO-PDF0022-C001",
+    "source_pdf": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+    "pdf_relative_page": 22,
+    "source_pdf_sha256": "6d1572dc7ef1122064b3db8d799f27356231dd2cbeafb84231c6f315820b1005"
+  },
+  {
+    "audit_id": "AUDIT-056",
+    "original_case_id": "SCENARIO-CTO-003-bislish-CONTROL2",
+    "previous_assistant_label": "1",
+    "chunk_id": "DEV120-CTO-PDF0036-C002",
+    "source_pdf": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 36,
+    "source_pdf_sha256": "b492eb8d220d1d9fb8b1d3acad2bba254d711e227063853415182b1715e546de"
+  },
+  {
+    "audit_id": "AUDIT-057",
+    "original_case_id": "SCENARIO-OCBO-006-english-CONTROL3",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-OCBO-PDF0001-C001",
+    "source_pdf": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 1,
+    "source_pdf_sha256": "6f081dde0a63ade8aaa3f4dc5a26ceb0c7fde85f896951931d8222eaa86b3093"
+  },
+  {
+    "audit_id": "AUDIT-058",
+    "original_case_id": "SCENARIO-CPDO-003-taglish-CONTROL3",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-CPDO-PDF0001-C001",
+    "source_pdf": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+    "pdf_relative_page": 1,
+    "source_pdf_sha256": "6d1572dc7ef1122064b3db8d799f27356231dd2cbeafb84231c6f315820b1005"
+  },
+  {
+    "audit_id": "AUDIT-059",
+    "original_case_id": "SCENARIO-CTO-003-taglish-CONTROL3",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-CTO-PDF0001-C001",
+    "source_pdf": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 1,
+    "source_pdf_sha256": "b492eb8d220d1d9fb8b1d3acad2bba254d711e227063853415182b1715e546de"
+  },
+  {
+    "audit_id": "AUDIT-060",
+    "original_case_id": "SCENARIO-CPDO-003-english-CONTROL4",
+    "previous_assistant_label": "0",
+    "chunk_id": "DEV120-CPDO-PDF0019-C001",
+    "source_pdf": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+    "pdf_relative_page": 19,
+    "source_pdf_sha256": "6d1572dc7ef1122064b3db8d799f27356231dd2cbeafb84231c6f315820b1005"
+  }
+]

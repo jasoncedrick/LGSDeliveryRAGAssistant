@@ -1,0 +1,20 @@
+{
+  "question": [
+    "Kailangan ba na accredited brand ng BFP ang bibilhing fire extinguisher, at pwede bang magbenta ang inspector ng bombero?"
+  ],
+  "answer": [
+    "Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungkol sa kailangan ba na accredited brand ng BFP ang bibilhing fire extinguisher, at pwede bang magbenta ang inspector ng bombero.\n\nHowever, according to BFP Memorandum Circular No. 2016-016 [S2], there is a prohibition of BFP personnel from recommending any brand, store, or distributor of fire extinguisher and fire fighting equipment. This suggests that there is no requirement for the fire extinguisher to be accredited by the BFP. As for selling fire extinguishers, the document does not specify if inspectors are allowed to do so."
+  ],
+  "contexts": [
+    [
+      "pressure.\nb). The need is obvious or as recommended by a competent servicing agent.\nc). It is defective (such as hose is broken, corroded container, caking of the chemical).\n\nPortable Fire Extinguishers are regulated by the Department of Trade and Industry (DTI) through its Bureau of Products Standards (BPS)\nPARTS: handle; hose; pressure gauge; marking for hazard application (A, B, C); nozzle; tank.\nThere are 4 types of fire extinguishers available in the country",
+      "REDIT” nor Recommend any Brand, Store or Distributor of Fire\nExtinguisher and Fire Fighting Equipment\nAs per BFP Memorandum Circular No. 2016-016\nProhibition of BFP Personnel from Engaging in any act of impropriety and/or corruption pertaining to the enforce-\nment and implementation of the Fire Code and providing sanction thereof.\nHow to file a complaint\nTo file a complaint against the BFP or any of its personnel, the Client/Customer should provide the  following details via \nemail or other form of",
+      "FP\nDirect line 426-43-99 Trunk line 426-02-19/426-02-46 Local 701\nOFFICE OF THE DIRECTORATE FOR FIRE SAFETY AND PREVENTION\nDirect line 426-93-10 Trunk line 426-02-19/426-02-46 Local 404\n\n1. RECHARGE FIRE EXTINGUISHER WHEN IT WAS USED.\n2. RECONDITION FIRE EXTINGUISHER WHEN:\na). The pressure gauge indicates low pressure.\nb). The need is obvious or as recommended by a competent servicing agent.\nc",
+      "nozzle; tank.\nThere are 4 types of fire extinguishers available in the country. To be sure of product safety and reliability, each type must comply with the appropriate Philippine National Standards (PNS).\nDry Chemical: PNS 15-1:1989\nCarbon Dioxide: PNS 15-3:1991\nFoam: PNS 15-4:1991\nHalon Substitute: PNS 15-5:1996\n\nMaintenance Involving Internal Examination of Fire Extinguisher\nExtinguisher Type: Carbon dioxide\nInternal Examination Interval (year",
+      "s, etc.) as a prerequisite for the\nissuance of appropriate permits and licenses\nfrom the local and other government agencies\nconcerned.\n\nCHECKLIST OF\nREQUIREMENTS/\nDOCUMENTS\nBFP FRONT LINE SERVICES\nFIRE SAFETY  \nEVALUATION \nCLEARANCE\n(FSEC)\nAPPLICATION\nFIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION\nCERTIFICATE OF\nOCCUPANCY\nNEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPAN"
+    ]
+  ],
+  "ground_truth": [
+    "The BFP public warning says it does not accredit or recommend any brand, store or distributor of fire extinguishers/fire-fighting equipment. Its warning prohibits personnel from selling or recommending a specific fire-extinguisher brand.\n\nThe image panel says portable fire extinguishers are regulated by DTI through BPS and that each type must comply with appropriate Philippine National Standards for product safety/reliability. This supports no BFP brand accreditation; it should not be expanded into a claim that any product is suitable regardless of type or hazard."
+  ]
+}

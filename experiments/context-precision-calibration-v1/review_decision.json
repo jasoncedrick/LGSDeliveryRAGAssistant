@@ -1,0 +1,14 @@
+{
+  "original_judge": "NOT_VALIDATED_FOR_RELIABLE_CONTEXT_PRECISION_SELECTION: 27/30 negative controls accepted",
+  "evidence_candidate": "REJECT_FOR_PROMOTION: 57/60 outputs violate schema or evidence provenance",
+  "calibration_scope": "60 assistant-source-labeled controls from five existing development groups, each with three language variants and four contexts. Repeated variants are not 60 independent scenarios. No significance or independent expert certification claim.",
+  "original_results_changed": false,
+  "retrieval_changes_applied": false,
+  "held_out_accessed": false,
+  "freeze": false,
+  "T06": "Batch harness implemented and exercised; Context Precision judge reliability remains unresolved. Earlier completion wording referred to implementation, not validation of all numerical judgments.",
+  "T07": "HOLD_PROMOTION_AND_FREEZE_PENDING_VALIDATED_OFFLINE_JUDGE",
+  "next_engineering_step": "Prepare a new separately versioned evaluator prompt/template with unambiguous context/reference boundaries and matching output examples, then rerun all controls. Do not modify original outputs, contexts or labels. If inadequate, use another evaluated judge rather than repeatedly accepting format-only fixes.",
+  "comparability_rule": "Any accepted evaluator revision must rescore baseline and candidate consistently before comparing objectives; preserve the old evaluation as a separate version.",
+  "manual_review": "No repeated source clarification requested for the BFP fee panel. Assistant calibration labels are not independent expert gold; expert review remains necessary for the manuscript human-audit claims."
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Kanus-a ang deadline sa binulan nga abang sa pwesto sa palengke ug pila ang surcharge ug interes kung ma-late?"
+  ],
+  "answer": [
+    "Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa surcharge ug interes kung ma-late sa pwesto sa palengke.\n\nHowever, sa City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf, sa chunk DEV120-CTO-PDF0045-C002, ma-apil na ang Lessee/Occupant sa surcharge of twenty-five percent (25%) ng amount ng rental fee plus an interest of two percent (2%) per month, pero hindi ma-exceed sa 36 months kung ma-late.\n\nSa wakat nga ma-late, wala nay nakit-an nga impormasyon sa deadline sa surcharge ug interes."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      ", an additional service charge of One Hundred Pesos (P \n100.00) for each instrument shall be collected.\n(h) Surcharge of 500% based on the Registration of weights and measures.",
+      "required herein shall subject the \nLessee/Occupant to a surcharge of twenty-five percent (25%) of the amount of the rental \nfee plus an interest of two percent (2%) per month but not to exceed thirty-six (36) \nmonths.\nSection 351\nOCCUPANCY FEE FOR AWARDEE\nOccupancy Fee per Stall/Booth Depending on Market\nClassification\nClass A \nClass B \nClass C \nClass D\nMeat Section \nP 4,000.00 \nP 2,900.00 \nP 1,700.00 \n1,400.00\nDressed Chicken \n4,000.00 \n2,900.00"
+    ]
+  ],
+  "ground_truth": [
+    "Monthly market stall rentals are due within the first 20 days of each month. Late payments incur a 25% surcharge on the rental fee plus an interest of 2% per month, not to exceed 36 months."
+  ]
+}

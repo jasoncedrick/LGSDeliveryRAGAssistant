@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang mga requirements para makakuha ng Occupancy Permit kapag tapos na ang construction ng building?"
+  ],
+  "answer": [
+    "To obtain an Occupancy Permit after construction of a building is complete, the following requirements are needed, as stated in the Business Bureau's Citizen Charter [S3]:\n\n1. Client submits complete requirements to EDP Head and receives Claim Stub:\n   - EDP Head Receives complete requirements for cancellation, checks completion of requirements, and fills out application form for approval of Business Bureau OIC.\n\nNo specific fees are mentioned for this process in the provided source.\n\nThe processing time for this step is approximately 5 minutes, and the responsible person is the EDP Head - Business Bureau (Window 8 or 9, c/o Mrs. Helen C. Pore)."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "application to \nAdmin Division \nfor release\nNone \n10 Minutes\nZoning\nOfficer IV \nCPDO\n3.9 Admin \nDivision updates \ndocument \ntracking system \nand routes to \nreceiving/releasi\nng personnel\nNone \n10 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\n4. Clients claim the \nLocational \nClearance\n4. \nReceiving/Releasi\nng personnel \nreleases \ndocuments to \nclients\nNone \n10 Minutes\nActing\nAdministrative\nOfficer  \nCPDO",
+      "CLIENT STEPS \nAGENCY ACTION \nFEES \nTO BE \nPAID\nPROCESSI\nNG TIME\nPERSON\nRESPONSIBLE\n1. Client submits\ncomplete \nrequirements to \nEDP Head and \nreceive Claim \nStub:\n1. EDP Head Receives\ncomplete \nrequirements for \ncancellation, checks \ncompletion of \nrequirements, and \nfills out application \nform for approval of \nBusiness Bureau \nOIC.\nNone\n5 Minutes\nEDP Head -\nBusiness Bureau\n(Window 8 or 9)\n(c/o Mrs. Helen C.\nPore)\n2. \nBusiness Bureau\nOIC approves \napplication for \nCancellation of Business \nPermit"
+    ]
+  ],
+  "ground_truth": [
+    "Occupancy checklist: application letter (1 original); authorization letter if applicant is not owner (1 original); owner ID with 3 specimen signatures (1 photocopy); Certificate of Occupancy (1 original); Certificate of Completion (1 original); BFP Fire Safety Inspection Certificate (1 original); four-elevation project pictures (front/back/left/right); approved Building Construction, Architectural, Civil/Structural, Sanitary/Plumbing, Electrical and Mechanical installation permits (1 photocopy); approved building-permit plan (1 original).\n\nIf a different professional undertook/was assigned the project, the checklist requires a signed, notarized waiver from the previous professional in charge (1 original). It also lists Structure Images with CAAP clearance and structural survey for actual building height, signed/sealed by a licensed Geodetic Engineer. The authorization-letter source cell says CPDO and the picture source cell says Hired Geodetic Engineer; those unusual source associations are preserved."
+  ]
+}

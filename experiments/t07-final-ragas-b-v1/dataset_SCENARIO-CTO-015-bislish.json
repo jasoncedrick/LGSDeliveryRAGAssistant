@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ang bayad sa buhis sa mga kan-anan, restaurant, ug catering kung molapas sa 2 milyon ang tinuig nga halin?"
+  ],
+  "answer": [
+    "For a business applying for an Additional Line of Business (restaurant, canteen, or catering) with a capitalization of more than 2 million, the fees to be paid are as follows:\n\n1. Submission of pre-assessed documents for payment with attached Recommended approval of Application for Additional Line of Business: No fee is specified in the source [S1] (Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf | printed page 90 | chunk DEV120-BB-PDF0051-C002).\n\n2. Encode of additional details from the RO-approved Additional Line of Business (after approval of Regulatory Offices) application: No fee is specified in the source [S1] (Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf | printed page 90 | chunk DEV120-BB-PDF0051-C002).\n\n3. Return the pre-assessed documents to the client for payment with attached Recommended approval of Application for Additional Line of Business: No fee is specified in the source [S1] (Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf | printed page 90 | chunk DEV120-BB-PDF0051-C002).\n\nHowever, if the business falls under the jurisdiction of the ICAB (Integrated Bar of the Philippines), additional fees will apply. For the ICAB, the fee is PHP 100.00 for the first 10 units and PHP 10.00 for every unit in excess of 10 units. This fee is specified in the source [S2] (Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf | printed page 121 | chunk DEV120-BB-PDF0082-C003).\n\nThe processing time for each step is not specified in the sources provided."
+  ],
+  "contexts": [
+    [
+      "TION\nFEES TO BE\nPAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\nSTEP 1: APPLICATION\n1.Submit the pre-\nassessed \ndocuments  for \npayment with \nattached \nRecommended \napproval of \nApplication for \nAdditional Line of \nBusiness and \nReceive the pre-\nassessed and \nencoded \ndocuments  for \npayment with \nattached \nRecommended \napproval of\n1.1. Encode of \nadditional details \nfrom the RO-\napproved Other \nAmendments \n(after approval of \nRegulatory \nOffices) \napplication\n1.2. Return the \npre-assessed \ndocuments to the \nclient for \npayment with \nattached \nRecommended\nNone \n10 Minute",
+      "ion if request \nby the complainant\nLicensing Officer\nwith massive\ninspectors\nTOTAL: \nICAB:\nPhp100.00 \nfor the first\n10 units\nand\nPhp10.00 \nfor every\nunit in\nexcess of \n10 units.\nViolation: \nDepending\non\nViolation\n2 Days, 2 Hours \nand 5 Minutes\n(+10 Minutes for \npayment of ICAB \nfees and penalties\nfor violation, if\napplicable).\n(+ 4 Hours for the \nendorsement of\ncopy to appropriate \nregulatory offices \nand furnishing to \nthe complainant\nthe result of\ninspection as the\ncase may be). \n(+",
+      "CLIENT STEPS \nAGENCY \nACTION\nFEES TO BE\nPAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\nSTEP 1: APPLICATION\n1.Submit the pre-\nassessed \ndocuments  for \npayment with \nattached \nRecommended \napproval of \nApplication for \nAdditional Line of \nBusiness and \nReceive the pre-\nassessed and \nencoded \ndocuments  for \npayment with \nattached \nRecommended \napproval of \nApplication for \nAdditional Line of \nBusiness\n1.1.  Encode of \nadditional details \nfrom the RO-\napproved \nAdditional Line of \nBusiness (after \napproval of \nRegulatory \nOffices) \napplication\n1.2. Return the \npre"
+    ]
+  ],
+  "ground_truth": [
+    "Restaurants, cafes, eateries, caterers, and amusement places without wagering pay graduated taxes up to PHP 9,160.31 for receipts up to PHP 2,000,000.00. Gross receipts in excess of PHP 2,000,000.00 are taxed at 43% of 1.0%."
+  ]
+}

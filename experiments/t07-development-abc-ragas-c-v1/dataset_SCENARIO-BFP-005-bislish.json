@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Kanus-a kinahanglan mukuha ug clearance sa bombero para sa welding o hot works ug unsa ang kalainan sa project-based ug annual?"
+  ],
+  "answer": [
+    "Ang clearance na kinahanglan mukuha sa welding o hot works ay Fire Safety Clearance (FSCR/FSCCR/FSMR). Ang mga proyekto na nangangailangan nga mag-install sa anyo o kombinasyon ng mga following:\n\n1) Wet standpipe system;\n2) Automatic fire suppression system; at\n3) Automatic fire detection and alarm system.\n\nAng FSCR/FSCCR/FSMR ay kinakailangan para sa mga proyekto na nangangailangan sa new construction o renovation (during construction).\n\nAng annual na clearance, wala nakit-an nga impormasyon bahin sa Citizens' Charter.\n\n[S1] BFP-CITIZENS-CHARTER-2022.pdf | printed page None | chunk DEV120-BFP-PDF0001-C043\n[S1] BFP-CITIZENS-CHARTER-2022.pdf | printed page None | chunk DEV120-BFP-PDF0001-C043"
+  ],
+  "contexts": [
+    [
+      "LIST. Other service cells are blank in source; blank is not an exemption statement.]\n\nNote: FSCR/FSCCR/FSMR  is required if the building/facilities/structures are \nrequired to install any or combination of the following: \n       1) Wet standpipe system; \n       2) Automatic fire suppression system; and \n       3) Automatic fire detection and alarm system.\nFire Safety Clearance for welding, cutting, and other hot work operations\n(if   required), shall be secured:\n1) \nPer \nProject \nDuration \n– \nfor \nnew \nconstruction \nor \nrenovation\n(during construction)",
+      "pressure.\nb). The need is obvious or as recommended by a competent servicing agent.\nc). It is defective (such as hose is broken, corroded container, caking of the chemical).\n\nPortable Fire Extinguishers are regulated by the Department of Trade and Industry (DTI) through its Bureau of Products Standards (BPS)\nPARTS: handle; hose; pressure gauge; marking for hazard application (A, B, C); nozzle; tank.\nThere are 4 types of fire extinguishers available in the country",
+      "FP\nDirect line 426-43-99 Trunk line 426-02-19/426-02-46 Local 701\nOFFICE OF THE DIRECTORATE FOR FIRE SAFETY AND PREVENTION\nDirect line 426-93-10 Trunk line 426-02-19/426-02-46 Local 404\n\n1. RECHARGE FIRE EXTINGUISHER WHEN IT WAS USED.\n2. RECONDITION FIRE EXTINGUISHER WHEN:\na). The pressure gauge indicates low pressure.\nb). The need is obvious or as recommended by a competent servicing agent.\nc"
+    ]
+  ],
+  "ground_truth": [
+    "Fire Safety Clearance for welding, cutting and other hot work operations shall be secured if required. Per Project Duration applies to new construction or renovation; the clearance should be applied for during construction after the conduct of fire safety inspection. Annual applies to business establishments requiring almost daily repair or maintenance due to the nature of their business or operations. The matrix marks the per-project row under FSEC and the annual row under the two renewal columns; blank cells are not exemption statements."
+  ]
+}

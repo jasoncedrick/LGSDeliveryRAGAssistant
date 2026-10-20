@@ -1,0 +1,31 @@
+{
+  "scope": "Offline archived development evaluation; no runtime filtering or final benchmark claims",
+  "ragas_version": "0.1.5",
+  "judge_model": "eboss-mistral",
+  "metrics": [
+    "context_precision"
+  ],
+  "input_archive": "D:\\thesis\\LGSDeliveryRAGAssistant-clean\\experiments\\t07-development-abc-v1\\B\\interactions.jsonl",
+  "input_sha256": "f1e397d637ad87885736aac21e274a115477e84c35dac3abe478ce430152dd8f",
+  "record_ids": [
+    "SCENARIO-BFP-002-taglish"
+  ],
+  "generation_failures_retained_in_original_archive": true,
+  "reference": "Archived reference answer if available, otherwise source evidence fragments; preserve declared reference status.",
+  "same_generator_and_judge_model": true,
+  "max_workers": 1,
+  "max_retries": 0,
+  "held_out_accessed": false,
+  "judge_output_tokens": 1024,
+  "judge_timeout": 120,
+  "faithfulness_schema_instruction": null,
+  "context_precision_evaluator": {
+    "version": "context-precision-separated-evidence-v2",
+    "prompt_template_sha256": "117cfe70470686b991bf8847d92dc8d0a72d304277d6ce4c8c83367724d0d972",
+    "format_retry_limit": 1,
+    "contract_failures": "Recorded in judge_calls.jsonl; final invalid outputs remain null",
+    "status": "Opt-in development-calibrated evaluator; not independent expert validation"
+  },
+  "context_recall_schema_instruction": null,
+  "metric_output_contract": null
+}

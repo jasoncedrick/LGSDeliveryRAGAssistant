@@ -1,0 +1,62 @@
+[
+  {
+    "claim": "Fencing checklist: permit form with 3 sets of Civil/Architectural plans signed/sealed by licensed Civil Engineer/Architect (A3 structural-plan option stated); certified land title and property tax declaration (1 original and 1 photocopy each); the next row repeats Certified True Copy of Tax Declaration of the Property with CTO as source; Barangay Clearance (1 original and 1 photocopy); scaled sketch/lot/vicinity plan signed/sealed by licensed Geodetic Engineer (3 sets); bill of materials/cost estimates signed/sealed by licensed Civil Engineer (3 sets); signing professionals PRC ID/current PTR (1 photocopy); owner/applicant ID with 3 specimen signatures (1 photocopy); conditional DPWH clearance along a National Highway.",
+    "evidence": [
+      {
+        "source_page_id": "OCBO-PDF0029",
+        "pdf_relative_page": 29,
+        "printed_page": 517,
+        "source_span": "CHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Fence Permit form with 3 sets of \n  Civil/Architectural Plans of the fence duly signed \nand sealed by a licensed Civil Engineer/Architect  \n  \nNote: Applicant may use an A3 size of paper for \nthe structural design plan signed and sealed by a \nlicensed Civil/Structural Engineer\nHired Professionals (All Engineers & \nArchitects)\n2.     Certified True Copy of Land Title  \n1 original, 1 photocopy\nRegistry of Deeds/ City Assessor’s Office \n(CASSO)\n3.     Certified True Copy of Tax Declaration of the \nProperty \n1 original, 1 photocopy\nRegistry of Deeds/ City Assessor’s Office \n(CASSO)\n4.     Certified True Copy of Tax Declaration of the \nProperty  \n1 original, 1 photocopy\nCity Treasurer’s Office (CTO)\n5.     Barangay Clearance \n1 original, 1 photocopy\nConcerned Barangay\n6.     Sketch/Lot Plan with Vicinity Map drawn to \nscale, signed, sealed by a licensed Geodetic \nEngineer \n3 sets\nHired Professionals (All Engineers & \nArchitects)\n7.     Bill of Materials and Cost Estimates signed \nand sealed by a licensed Civil engineer \n3 sets\nHired Professionals (All Engineers & \nArchitects)\n8.     PRC ID and current PTRs of all the signing \nprofessionals  \n1 photocopy\nHired Professionals (All Engineers & \nArchitects)\n9.     Owner’s/Applicant’s valid ID with 3 specimen \nsignatures \n1 photocopy\nHired Professionals (All Engineers & \nArchitects)\n10.  Conditional Requirements \n \nStructures located along a National Highway – \nDPWH Clearance\nDepartment of Public Works and Highways",
+        "char_start": 353,
+        "char_end": 1877,
+        "supporting_chunk_ids": [
+          "DEV120-OCBO-PDF0029-C001",
+          "DEV120-OCBO-PDF0029-C002",
+          "DEV120-OCBO-PDF0029-C003",
+          "DEV120-OCBO-PDF0029-C004",
+          "DEV120-OCBO-PDF0029-C005"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-OCBO-PDF0029-C001",
+      "DEV120-OCBO-PDF0029-C002",
+      "DEV120-OCBO-PDF0029-C003",
+      "DEV120-OCBO-PDF0029-C004",
+      "DEV120-OCBO-PDF0029-C005"
+    ]
+  },
+  {
+    "claim": "Fee schedule: masonry/metal/concrete up to 1.80m PHP3 per linear meter; over 1.80m PHP4 per linear meter. Both source rows print \"of fraction thereof\". Indigenous materials, barbed, chicken or hog wire: PHP2.40 per linear meter. The service introduction says a fence not exceeding 1.80m, while the fee table includes over-1.80m; preserve both rather than infer an eligibility rule.",
+    "evidence": [
+      {
+        "source_page_id": "OCBO-PDF0035",
+        "pdf_relative_page": 35,
+        "printed_page": 523,
+        "source_span": "Made of masonry, metal, concrete up \nto1.80 meters in height\nPhp 3.00 per linear meter of fraction \nthereof\nIn excess of 1.80 meters in height \nPhp 4.00 per linear meter of fraction \nthereof\nMade of indigenous materials, barbed, \nChicken or hog wire\nPhp 2.40 per linear meter",
+        "char_start": 171,
+        "char_end": 446,
+        "supporting_chunk_ids": [
+          "DEV120-OCBO-PDF0035-C001",
+          "DEV120-OCBO-PDF0035-C002"
+        ]
+      },
+      {
+        "source_page_id": "OCBO-PDF0029",
+        "pdf_relative_page": 29,
+        "printed_page": 517,
+        "source_span": "A Fencing Permit shall be required prior to the construction of a fence not exceeding 1.80 meters \nhigh",
+        "char_start": 31,
+        "char_end": 134,
+        "supporting_chunk_ids": [
+          "DEV120-OCBO-PDF0029-C001"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-OCBO-PDF0035-C001",
+      "DEV120-OCBO-PDF0035-C002",
+      "DEV120-OCBO-PDF0029-C001"
+    ]
+  }
+]

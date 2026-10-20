@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang tumong sa Joint Inspection Teams (JIT) tali sa BFP ug City Hall sa pag-inspeksyon sa mga negosyo?"
+  ],
+  "answer": [
+    "The Joint Inspection Teams (JITs) are organized by the BFP and the City Hall for the inspection of businesses in relation to an application for a new business permit or renewal. This is stated in Section 9.1.2 of JMC No. 01 Series of 2021 [S1]. Additionally, LGUs are encouraged to use a system of risk classification of various businesses and adopt an inspection prioritization scheme, with the Department of Health for Sanitary Permits and the BFP for the Fire Safety Inspection Certificate, for the issuance of uniform guidelines on risk inspection for specific sectors. This is stated in Section 9.1.4 of JMC No. 01 Series of 2021 [S2]."
+  ],
+  "contexts": [
+    [
+      "te and other  permits or licenses being issued by other government agencies.\nNOTE (4) Section 9.1.2 of JMC No. 01 Series of 2021—To limit the face-to-face interaction between the applicant and the LGU officials, joint inspection teams (‗JITs‖) shall be organized to conduct inspection of the applicant‘s office/\npremises, in relation to an application for new business permit or renewal. (BOSS)\nSection 9.1.4 of JMC No. 01 Series of 2021—To address the lack of personnel of inspect",
+      "9.1.4 of JMC No. 01 Series of 2021—To address the lack of personnel of inspection departments and agencies compared to the number of establishments, LGUs are encouraged to use a system of risk classification of various \nbusinesses and adopt an inspection prioritization scheme on this basis, in close coordination with the Department of Health for Sanitary Permits, the BFP for the Fire Safety Inspection Certificate for the issuance of uniform guidelines on \nrisk inspection for specific sectors. (BOSS)\nAGENCY ROW 1\n\nCLIENTS",
+      "inspection for specific sectors. (BOSS)\nAGENCY ROW 1\n\nCLIENTS STEP: 1. Accomplished the application form and submit\nthe same with all the required documents stated\nin the BFP FSEC/FSIC Application Form or\nUnified Application Form\n\nAGENCY ACTION: 1. Issue queuing number, check completeness\nof submitted documents by the client and record\nthe details of the applicant (e.g. Name of\napplicant, date of application, etc)\n\nPROCESSING TIME: maximum of ten (10) minutes\n\nPERSON RESPONSIBLE: Customer Relation"
+    ]
+  ],
+  "ground_truth": [
+    "Section 9.1.2 of JMC 2021-01 mandates the organization of Joint Inspection Teams (JIT) combining LGU inspectors and BFP personnel to conduct joint physical inspections, limiting face-to-face contact and eliminating redundant multiple visits."
+  ]
+}

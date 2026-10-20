@@ -1,0 +1,148 @@
+BLIND EXPERT GRADING: PRACTICE HANDOUT
+Dictionary-assisted hybrid RAG thesis | Orientation exercise only
+
+ALL SERVICES, SOURCE EXCERPTS, ANSWERS AND CITATIONS BELOW ARE FICTIONAL.
+They are training materials, not Davao City procedures or actual model outputs.
+Do not include these practice scores in the final study dataset.
+
+YOUR TASK
+
+Read the citizen's question, the reference evidence, and each anonymous answer.
+Give EACH answer TWO separate scores:
+  - Answer Relevance: Does it address what the citizen asked?
+  - Factual Faithfulness: Are its factual claims supported by the source?
+
+Use the rubric for each answer independently. Both answers may receive the
+same score. You do not have to pick a winner. A fluent or lengthy answer does
+not automatically deserve a high score.
+
+During the real session, work independently. Do not discuss scores or try to
+identify the system. Cite the statement or source passage behind your judgment.
+If evidence is missing, contradictory, or unreadable, flag the item for review
+instead of guessing. The facilitator will explain the study's missing-score
+procedure before formal scoring begins.
+
+FOUR-POINT RUBRIC
+Condensed from manuscript Table 2, printed page 30 (PDF page 35).
+
+Score | Answer Relevance
+  1   | Does not address the inquiry, or answers a different question.
+  2   | Addresses part of the inquiry but misses the primary procedural need.
+  3   | Addresses the main inquiry with limited minor omissions.
+  4   | Directly and comprehensively addresses all parts of the inquiry.
+
+Score | Factual Faithfulness
+  1   | Main answer is unsupported or contradicts the official source.
+  2   | Some claims are supported, but there is a major error in a fee,
+      | requirement, or office.
+  3   | Main claims are supported, with minor imprecisions that do not
+      | change the procedure.
+  4   | All factual claims are supported and traceable to official sources.
+
+An answer can score differently on the two dimensions. Missing information
+primarily affects completeness/relevance. Incorrect assertions affect factual
+faithfulness. Apply the approved rubric; do not average the two dimensions.
+
+==========================================================================
+PRACTICE ITEM M-014
+==========================================================================
+
+Citizen question (English):
+"Where do I submit a new vendor-registration application, what documents do
+I need, and what is the application fee?"
+
+REFERENCE EVIDENCE - FICTIONAL TRAINING SOURCE
+Training Charter, page 1, section 1:
+"For a new vendor-registration application, submit a completed application
+form and one photocopy of a valid identification card to the Vendor Services
+Desk. The application fee is PHP 120."
+
+For this exercise, the archived retrieved evidence for both answers is the
+passage above. Real packets must preserve each answer's actual retrieved
+evidence and provide the common verified reference separately.
+
+ANONYMOUS RESPONSE X
+"Submit your application to the Vendor Services Desk. Bring a completed
+application form and one photocopy of a valid ID. The application fee is
+PHP 120. [Training Charter, p. 1, sec. 1]"
+
+ANONYMOUS RESPONSE Y
+"Submit your application to the Vendor Services Desk. Bring a completed
+application form and one photocopy of a valid ID. The application fee is
+PHP 500. [Training Charter, p. 1, sec. 1]"
+
+Rater code: __________     Date: __________
+
+Response X
+  Answer Relevance:       [ ] 1  [ ] 2  [ ] 3  [ ] 4
+  Factual Faithfulness:   [ ] 1  [ ] 2  [ ] 3  [ ] 4
+  Claim/source supporting my scores: ___________________________________
+  _____________________________________________________________________
+
+Response Y
+  Answer Relevance:       [ ] 1  [ ] 2  [ ] 3  [ ] 4
+  Factual Faithfulness:   [ ] 1  [ ] 2  [ ] 3  [ ] 4
+  Claim/source supporting my scores: ___________________________________
+  _____________________________________________________________________
+
+Flags, if any:
+[ ] Incorrect fee  [ ] Wrong requirement/office  [ ] Unsupported statement
+[ ] Missing information  [ ] Off-topic answer  [ ] Source/evidence problem
+Notes: _________________________________________________________________
+
+==========================================================================
+PRACTICE ITEM M-027
+==========================================================================
+
+Citizen question (English):
+"Where should I submit my new vendor-registration application? Please also
+tell me the desk's opening hours."
+
+REFERENCE EVIDENCE - FICTIONAL TRAINING SOURCE
+Training Charter, page 1, section 1:
+"For a new vendor-registration application, submit a completed application
+form and one photocopy of a valid identification card to the Vendor Services
+Desk. The application fee is PHP 120."
+
+Training Charter, page 1, section 2:
+"The Vendor Services Desk is open Monday to Friday, 8:00 a.m. to 5:00 p.m."
+
+Training Charter, page 2, section 1:
+"Library membership applications are received at the Library Services Desk."
+
+For this exercise, Response X retrieved page 2, section 1. Response Y retrieved
+page 1, sections 1 and 2. These are evidence records, not quality scores.
+
+ANONYMOUS RESPONSE X
+"Library membership applications are received at the Library Services Desk.
+[Training Charter, p. 2, sec. 1]"
+
+ANONYMOUS RESPONSE Y
+"Submit your new vendor-registration application to the Vendor Services
+Desk. [Training Charter, p. 1, sec. 1]"
+
+Rater code: __________     Date: __________
+
+Response X
+  Answer Relevance:       [ ] 1  [ ] 2  [ ] 3  [ ] 4
+  Factual Faithfulness:   [ ] 1  [ ] 2  [ ] 3  [ ] 4
+  Claim/source supporting my scores: ___________________________________
+  _____________________________________________________________________
+
+Response Y
+  Answer Relevance:       [ ] 1  [ ] 2  [ ] 3  [ ] 4
+  Factual Faithfulness:   [ ] 1  [ ] 2  [ ] 3  [ ] 4
+  Claim/source supporting my scores: ___________________________________
+  _____________________________________________________________________
+
+Flags, if any:
+[ ] Incorrect fee  [ ] Wrong requirement/office  [ ] Unsupported statement
+[ ] Missing information  [ ] Off-topic answer  [ ] Source/evidence problem
+Notes: _________________________________________________________________
+
+BEFORE SUBMITTING
+
+Check that each answer has two scores, unless formally flagged as unscorable.
+Make sure any notes identify the answer and the relevant claim or source.
+Do not change a score just because the other answer is better or worse.
+In the actual study, no other rater's scores or automated scores will be shown.

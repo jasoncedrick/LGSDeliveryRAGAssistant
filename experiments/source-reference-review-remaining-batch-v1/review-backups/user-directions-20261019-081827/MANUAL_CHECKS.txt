@@ -1,0 +1,18 @@
+ONLY ITEMS NEEDING YOUR/ISSUING-OFFICE JUDGMENT
+
+No need to re-review every source row. Open the named rendered image beside each group review.json. Do not replace an apparent source error using intuition.
+
+PRIORITY - RESOLVE BEFORE CLAIMING FULL SOURCE VALIDATION
+1. CTO-002: CTO_11.png, printed166. Source literally says Transfer Tax 87% or 1%; old answer says 0.75%. Obtain official corrected rate/evidence. Do not calculate tax from either unsupported assumption.
+2. OCBO-001: OCBO_3.png, printed491 row8. Mechanical plans say both 6-7 sets and 5 sets and name Electronics Engineer. Confirm quantity/signing-professional requirement officially.
+3. CPDO-002: CPDO_5.png, printed634. Confirm AND versus OR for 3-storey / 1,500 sqm eligibility; preserve AND wording pending clarification.
+4. OCBO-005: OCBO_29.png and OCBO_35.png, printed517/523. Confirm repeated Tax Declaration row assigned to CTO and the 1.80m introduction versus above-1.80m fee category.
+
+CONDITIONAL - ONLY IF A DEFINITIVE FORMULA/TARGET/ROUTE IS NEEDED
+5. BB-006: ICAB every unit versus additional unit. Keep original wording otherwise.
+6. BB-005: no rule for choosing exact late fee within P1,000-P5,000.
+7. CPDO-003: institutional filing fee and combined payable total/map-plotting aggregation not fully specified.
+8. CPDO-004: source alternates LZBA/LZBAA and mentions UEESZ in one client step; confirm exact committee naming if necessary.
+9. OCBO-006: printed processing TOTAL conflicts with listed durations; quote as printed, not a verified arithmetic total.
+
+Later independent expert auditing remains separate. Official clarification should be saved as a dated source/citation, not as an undocumented edit to the corpus or benchmark. No request to contact officials has been sent.

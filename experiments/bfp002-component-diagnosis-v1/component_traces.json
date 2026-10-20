@@ -1,0 +1,252 @@
+[
+  {
+    "query_variant": "archived_B",
+    "query": "How is the Fire Safety Inspection Fee (FSIF) calculated for an Occupancy and what is the minimum monetary settlement?",
+    "targets": [
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C019",
+        "ranks": {
+          "bm25": 470,
+          "dense": 1,
+          "dictionary": 1034,
+          "regex_bm25_probe": 24,
+          "fusion": 177,
+          "regex_fusion_probe": 11
+        },
+        "raw_scores": {
+          "bm25": 7.758258763738532,
+          "dense": 0.6116698384284973,
+          "dictionary": 0.0,
+          "regex_bm25_probe": 18.285946086841804,
+          "fusion": 0.499744726947965,
+          "regex_fusion_probe": 0.8119236936385774
+        }
+      },
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C020",
+        "ranks": {
+          "bm25": 606,
+          "dense": 15,
+          "dictionary": 1035,
+          "regex_bm25_probe": 56,
+          "fusion": 315,
+          "regex_fusion_probe": 34
+        },
+        "raw_scores": {
+          "bm25": 6.546982682439678,
+          "dense": 0.5168552398681641,
+          "dictionary": 0.0,
+          "regex_bm25_probe": 14.826433998222123,
+          "fusion": 0.4260396063969569,
+          "regex_fusion_probe": 0.6709003881855417
+        }
+      }
+    ],
+    "top5": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C008",
+      "DEV120-BFP-PDF0001-C043",
+      "DEV120-BFP-PDF0001-C005"
+    ],
+    "matched_query_whitespace_tokens": {
+      "DEV120-BFP-PDF0001-C019": [
+        "and",
+        "for",
+        "the"
+      ],
+      "DEV120-BFP-PDF0001-C020": [
+        "for",
+        "the"
+      ]
+    }
+  },
+  {
+    "query_variant": "preserve_FSIC_only",
+    "query": "How is the Fire Safety Inspection Fee (FSIF) calculated for an FSIC for Occupancy and what is the minimum monetary settlement?",
+    "targets": [
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C019",
+        "ranks": {
+          "bm25": 213,
+          "dense": 1,
+          "dictionary": 18,
+          "regex_bm25_probe": 7,
+          "fusion": 72,
+          "regex_fusion_probe": 5
+        },
+        "raw_scores": {
+          "bm25": 12.325913223066776,
+          "dense": 0.6357299089431763,
+          "dictionary": 1.0,
+          "regex_bm25_probe": 24.218901504426338,
+          "fusion": 0.5727865928161052,
+          "regex_fusion_probe": 0.869483472775512
+        }
+      },
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C020",
+        "ranks": {
+          "bm25": 553,
+          "dense": 6,
+          "dictionary": 1050,
+          "regex_bm25_probe": 81,
+          "fusion": 246,
+          "regex_fusion_probe": 42
+        },
+        "raw_scores": {
+          "bm25": 7.929993534204387,
+          "dense": 0.5469968318939209,
+          "dictionary": 0.0,
+          "regex_bm25_probe": 16.179401426971097,
+          "fusion": 0.426236574841523,
+          "regex_fusion_probe": 0.6324137697792434
+        }
+      }
+    ],
+    "top5": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C008",
+      "DEV120-BFP-PDF0001-C043",
+      "DEV120-BFP-PDF0001-C040"
+    ],
+    "matched_query_whitespace_tokens": {
+      "DEV120-BFP-PDF0001-C019": [
+        "and",
+        "for",
+        "fsic",
+        "the"
+      ],
+      "DEV120-BFP-PDF0001-C020": [
+        "for",
+        "the"
+      ]
+    }
+  },
+  {
+    "query_variant": "plain_payment_only",
+    "query": "How is the Fire Safety Inspection Fee (FSIF) calculated for an Occupancy and what is the minimum payment?",
+    "targets": [
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C019",
+        "ranks": {
+          "bm25": 470,
+          "dense": 4,
+          "dictionary": 1034,
+          "regex_bm25_probe": 24,
+          "fusion": 187,
+          "regex_fusion_probe": 13
+        },
+        "raw_scores": {
+          "bm25": 7.758258763738532,
+          "dense": 0.5958101749420166,
+          "dictionary": 0.0,
+          "regex_bm25_probe": 18.285946086841804,
+          "fusion": 0.49352906539224717,
+          "regex_fusion_probe": 0.8057080320828596
+        }
+      },
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C020",
+        "ranks": {
+          "bm25": 606,
+          "dense": 12,
+          "dictionary": 1035,
+          "regex_bm25_probe": 67,
+          "fusion": 311,
+          "regex_fusion_probe": 39
+        },
+        "raw_scores": {
+          "bm25": 6.546982682439678,
+          "dense": 0.5176622271537781,
+          "dictionary": 0.0,
+          "regex_bm25_probe": 14.826433998222123,
+          "fusion": 0.4270705270666902,
+          "regex_fusion_probe": 0.671931308855275
+        }
+      }
+    ],
+    "top5": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C008",
+      "DEV120-BFP-PDF0001-C043",
+      "DEV120-BFP-PDF0001-C005"
+    ],
+    "matched_query_whitespace_tokens": {
+      "DEV120-BFP-PDF0001-C019": [
+        "and",
+        "for",
+        "the"
+      ],
+      "DEV120-BFP-PDF0001-C020": [
+        "for",
+        "the"
+      ]
+    }
+  },
+  {
+    "query_variant": "faithful_translation_control",
+    "query": "How is the Fire Safety Inspection Fee (FSIF) calculated for FSIC for Occupancy and what is the minimum fee?",
+    "targets": [
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C019",
+        "ranks": {
+          "bm25": 193,
+          "dense": 1,
+          "dictionary": 18,
+          "regex_bm25_probe": 5,
+          "fusion": 68,
+          "regex_fusion_probe": 3
+        },
+        "raw_scores": {
+          "bm25": 12.325913223066776,
+          "dense": 0.6288039088249207,
+          "dictionary": 1.0,
+          "regex_bm25_probe": 24.218901504426338,
+          "fusion": 0.5727865928161052,
+          "regex_fusion_probe": 0.869483472775512
+        }
+      },
+      {
+        "chunk_id": "DEV120-BFP-PDF0001-C020",
+        "ranks": {
+          "bm25": 543,
+          "dense": 5,
+          "dictionary": 1050,
+          "regex_bm25_probe": 90,
+          "fusion": 217,
+          "regex_fusion_probe": 43
+        },
+        "raw_scores": {
+          "bm25": 7.929993534204387,
+          "dense": 0.5608001947402954,
+          "dictionary": 0.0,
+          "regex_bm25_probe": 16.179401426971097,
+          "fusion": 0.4340710496295287,
+          "regex_fusion_probe": 0.640248244567249
+        }
+      }
+    ],
+    "top5": [
+      "DEV120-BFP-PDF0001-C021",
+      "DEV120-BFP-PDF0001-C006",
+      "DEV120-BFP-PDF0001-C008",
+      "DEV120-BB-PDF0056-C001",
+      "DEV120-BFP-PDF0001-C043"
+    ],
+    "matched_query_whitespace_tokens": {
+      "DEV120-BFP-PDF0001-C019": [
+        "and",
+        "for",
+        "fsic",
+        "the"
+      ],
+      "DEV120-BFP-PDF0001-C020": [
+        "for",
+        "the"
+      ]
+    }
+  }
+]

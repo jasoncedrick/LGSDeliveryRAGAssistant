@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What are the required documents and fee to transfer the ownership of a business permit in Davao City?"
+  ],
+  "answer": [
+    "To transfer the ownership of a business permit in Davao City, the following documents are required:\n\n1. Application for Transfer of Ownership (electro-mechanical) form [S1, S2]\n2. Deed of Transfer / Sale / Assignment (notarized) [S3]\n\nFor the application form, you need to submit it to the Business Bureau and pay the order of payment at the City Treasurer’s Office.\n\nRegarding the fee, the Citizens' Charter does not provide specific information about the fee for transferring the ownership of a business permit. It is advisable to contact the Business Bureau for the latest fee information. [No specific source citation for the fee information as it is not provided in the given sources]"
+  ],
+  "contexts": [
+    [
+      "1.Submit pertinent \ndocuments and \nReceive pertinent \ndocuments  application \nform for Transfer of \nOwnership (electro-\nmechanical), and order \nof payment to be paid at \nthe City Treasurer’s \nOffice\n1.1. Assess \nApplication for \nTransfer of \nOwnership.\n1.2. Verify and \nEncode \nApplication for \nTransfer of \nOwnership.\n1.3. Return \npertinent \ndocuments to \nthe client, print \nout application \nform for \nTransfer of \nOwnership \n(electro-\nmechanical), \nand issue an \norder of \npayment to be \npaid at the \nCity \nTreasurer’s \nOffice\nNone \n10 Minutes \nLicensing Officer \nBusiness Bureau\nSTEP 2: PAY",
+      "Business Permit at the\n3.1 Receive \nApplications \nfor Transfer of \nOwnership \nand Complete \nAttachments / \nDocuments\nNone \n10 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau",
+      "Exchange\nCommission\n7. \nCertificate of Cooperation, Article of\nCooperation (1 photocopy) for Cooperative\nCooperative Development Authority\n8. \nValid ID of the representative (1\nphotocopy), if newly designated\nApplicant\n9. Sketch / Google map of Business \nlocation (1 original) with pictures of the \npremise location\nApplicant\nAMENDMENT OF BUSINESS PERMIT – TRANSFER OF OWNERSHIP \n1. Application for the transfer of\nownership\nBusiness Bureau to be filled out and \nsigned by applicant\n2. \nDeed of Transfer / Sale /\nAssignment (notarized)"
+    ]
+  ],
+  "ground_truth": [
+    "Transfer of business ownership requires an Application for Transfer of Ownership, notarized Deed of Transfer/Sale/Assignment, SPA or Board Resolution, valid IDs, property proof (Tax Declaration/Lease Contract), current original Mayor's Permit, and new DTI/SEC/CDA registration. A PHP 50.00 service fee applies."
+  ]
+}

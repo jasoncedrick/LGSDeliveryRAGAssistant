@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Tagpila ang adlawang bayad sa permit para sa organizer ug stall exhibitors sa usa ka bazaar sa Davao?"
+  ],
+  "answer": [
+    "Sa bazaar sa Davao, ang bayad sa permit para sa organizer ay nasa [S1] at [S2]. Ang bayad para sa organizer mula sa Davao ay Php500 per Day per location ([S1]). Para sa mga organizer mula sa ibang lugar na may mas maliit pa sa 30 exhibitors, ang bayad ay Php1,000/Day per activity exhibitors ([S1]). Para sa mga organizer mula sa ibang lugar na may 31-60 exhibitors, ang bayad ay Php2,000/Day per activity exhibitors ([S1]). Para sa mga organizer mula sa ibang lugar na may 61-100 exhibitors, ang bayad ay Php3,000/Day per activity exhibitors ([S1]). Para sa mga organizer mula sa ibang lugar na may mas maraming pa sa 100 exhibitors, ang bayad ay Php5,000/Day per activity exhibitors ([S1]).\n\nPara sa stall exhibitors, ang bayad para sa selling display ay Php300 per Day per stall ([S1]). Para sa non-selling display exhibitors, ang bayad ay Php150 per Day per stall ([S1]).\n\nSa ibang kaso, ang bayad sa permit para sa mga seasonal vendors sa mga special occasions tulad ng Araw ng Dabaw at Kadayawan Festival ay hindi nakalaman sa mga nabasa namin. Ang mga detalye na ito maaaring makahanap sa ibang mga dokumento o mga pag-aaral.\n\nSa ibang usapin, ang bayad para sa Business Permit ay nasa [S3]. Ang Business Permit ay maaaring ibig sabihin ang permit para sa negosyo, at ang bayad para dito ay hindi nakalaman sa mga nabasa namin. Ang mga detalye na ito maaaring makahanap sa ibang mga dokumento o mga pag-aaral."
+  ],
+  "contexts": [
+    [
+      "gallery and other similar \ncontrivances – Php300 for the first 5 Days and Php50 per Day thereafter\nBazaar/Exhibit:\n  Event Organizer from Davao - Php500 per Day per location\n Event Organizer Outside Davao (less than 30 exhibitors)- Php1,000/Day per\nactivity exhibitors\n Event Organizer Outside Davao (31-60 exhibitors)- Php2,000/Day per activity\nexhibitors\n Event Organizer Outside Davao (61-100 exhibitors)- Php3,000/Day per activity\nexhibitors",
+      "Outside Davao (61-100 exhibitors)- Php3,000/Day per activity\nexhibitors\n Event Organizer Outside Davao (more than 100 exhibitors)- Php5,000/Day per\nactivity exhibitors\n Selling Display exhibitors – Php300 per Day per stall\n Non-selling Display exhibitors – Php150 per Day per stall\nRecruitment:\n Overseas - Php1,000 per Schedule\n Local - Php1,200 per Schedule\nSeasonal vendors during special occasions such as Araw ng Dabaw, \nKadayawan Festival,",
+      "2. Issuance of Business Permit \nIt shall be unlawful for any person or entity to conduct or engage in any business, \ntrade or occupation within the territorial jurisdiction of the City of Davao for which a \npermit is required for the proper supervision and enforcement of existing laws and \nordinances without first having secured a permit therefore from the City Mayor and \npaying the necessary fees to the City Treasurer.\nThe Business Permit is granted for a period of not more than one (1) year and shall \nexpire on the thirty-first (31st) of December"
+    ]
+  ],
+  "ground_truth": [
+    "Bazaar and exhibit fees are PHP 500.00/day/location for Davao organizers. For outside Davao organizers: PHP 1,000.00/day (<30 exhibitors), PHP 2,000.00/day (31-60), PHP 3,000.00/day (61-100), and PHP 5,000.00/day (>100). Individual selling display stalls pay PHP 300.00/day; non-selling pay PHP 150.00/day."
+  ]
+}

@@ -1,0 +1,82 @@
+CURRENT CHECKPOINT
+
+T06 harness: implemented and development validated.
+T07 development: grid, A/B/C generation, scoring and matched-query comparison complete with documented limitations.
+Full manuscript T07: NOT COMPLETE; registered freeze and final held-out A/B/C evaluation pending.
+
+Read experiments/t06-t07-development-closeout-v1/READ_THIS_FIRST.txt
+Completion evidence: completion_assessment.json
+Matched results: matched_query_comparison.csv
+Supplemental evaluator retries: judge_failure_review.json
+Manual judge disagreement: manual_judge_check.json
+
+All three faithfulness failures recovered with evaluator-only schema retries. Original runs and raw traces preserved and hashes verified. No original answer, context or reference replaced. Six clarification cases and one B incomplete generation retained.
+
+No local model job from this closeout remains running. Held-out data untouched and app defaults unchanged.
+Suggested branch checkpoint: thesis/t06-t07-development-reviewed-20261019
+Branch not created automatically; no commit or push performed.
+
+
+LATEST DEVELOPMENT REGRESSION: experiments/normalization-sparse-development-regression-v1/REVIEW_RESULTS.txt
+All 90 queries tested per condition; no candidate promoted or frozen. New-ranked contexts need Context Precision evaluation before selection.
+
+
+PUNCTUATION CANDIDATE CONTEXT PRECISION GRID RUNNING
+Read experiments/punctuation-context-precision-v1/METHOD_ALIGNMENT.txt
+17 weights x K3/K5, unchanged 90 development queries. Archived normalization retained; rejected prompt not used.
+Monitor: Get-Content D:\thesis\LGSDeliveryRAGAssistant-clean\experiments\punctuation-context-precision-v1\console.log -Tail 15 -Wait
+Future launch/resume command, after existing judge finishes: D:\thesis\venv\Scripts\python.exe -B scripts/run_punctuation_context_precision.py
+No promotion or freeze.
+
+
+LATEST OBJECTIVE REVIEW
+experiments/punctuation-context-precision-v1/REVIEW_RESULTS.txt
+INCOMPLETE_JUDGING_REQUIRES_FAILURE_REVIEW
+No deployment or freeze.
+
+SUPPLEMENTAL FORMAT RECOVERY REVIEW: experiments/punctuation-context-precision-format-retry-v2/REVIEW_RESULTS.txt
+No deployment or freeze.
+
+
+EVIDENCE COVERAGE REVIEW
+experiments/bfp002-evidence-coverage-review-v1/READ_THIS_FIRST.txt
+HOLD promotion and freeze. Calibrate the offline evaluator before interpreting the small objective improvement. Original scores are preserved.
+
+
+OFFLINE JUDGE CALIBRATION FINISHED
+Read experiments/context-precision-calibration-v1/REVIEW_DECISION.txt
+Original judge: 27/30 negative controls accepted. Evidence candidate: 57/60 invalid outputs. Neither evaluator is validated for promotion.
+T06 runner implemented; judge reliability unresolved. Full T07 is pending. Original results remain unchanged.
+
+
+T06 IMPLEMENTATION CLOSED
+experiments/t06-harness-closeout-v2/T06_STATUS.txt
+Complete against tracker batch-harness deliverable, with explicit evaluator limitations. This does not close T07 final evaluation.
+V2 opt-in real batch integration passed; old evaluator and original scores preserved.
+
+
+T07 UPDATE: Paired original/punctuation grid rescore is running with evaluator v2. See experiments/t07-paired-grid-evaluator-v2/READ_THIS_FIRST.txt and progress.json. T06 implementation remains complete; final T07 is pending. No freeze or held-out access.
+
+
+PAIRED RESCORE REVIEW: 1560/1560 attempted; 1450 valid, 110 invalid after the registered retry. All 68 conditions have nulls; no final selection. See experiments/t07-paired-grid-results-review-v1/READ_THIS_FIRST.txt. No scoring process is active from this review. T06 implementation remains complete; T07 pending.
+
+
+STRUCTURED FORMAT TEST COMPLETE: 60 controls, 58 valid, 57 correct, one false positive and two quote failures. Screening rule not met; no full grid started. See experiments/context-precision-calibration-v3-structured/REVIEW_DECISION.txt. No calibration process remains active. T07 still pending.
+
+
+T06 FINAL IMPLEMENTATION CLOSEOUT V3: 34 focused tests passed. T06 coding deliverable complete with evaluator limitations. Source-span calibration finished: 60 valid, 46 correct, 14 false positives; candidate rejected and conditional stress test not run. No scoring process active. See experiments/t06-harness-closeout-v3/T06_STATUS.txt. T07 remains pending; no freeze or held-out access.
+
+
+T07 REVIEW PACKET READY: experiments/t07-independent-judge-review-v1/human_review.json contains 60 existing controls with model outputs and old labels hidden. Independent human usefulness decisions are pending; no model process running. This is a recommended validation step in response to observed failures, not a new literal manuscript mandate. T06 implementation remains complete.
+
+
+METHODOLOGY RECONCILIATION: The additional 60-control human review is optional, not mandatory. Saved development A/B/C outputs consolidated into experiments/t07-methodology-reconciliation-v1/master_metrics.csv. All 270 retrieval metrics independently checked. No new model calls. Full T07 still requires a registered freeze and actual final held-out A/B/C run, which do not exist in the saved archives. No final completion claim.
+
+
+FINAL T07 PREFLIGHT: Historical development candidate registered before test structure access. Test has 70 groups/210 queries, but all 70 reference legacy IDs absent from rebuilt corpus. Exact identity audit: six of 87 old spans resolvable, 81 not exactly resolved. Benchmark unchanged. No final inference started. See experiments/t07-final-evaluation-v1/READ_THIS_FIRST.txt. Extra judge-review form remains optional.
+
+
+FINAL T07 EXECUTION STARTED: Sealed source-span transfer resolves 77/87 spans, 59/70 groups; all 630 outcomes retained and unresolved Hit/MRR null. Automatic queue generation -> RAGAS A/B/C -> CSV/report is running. See experiments/t07-final-evaluation-v1/EXECUTION_GUIDE.txt and workflow.log. No further review form required. Do not declare completion before the final report exists.
+
+
+T07 EXECUTION COMPLETE: 630/630 final outcomes archived; A/B/C scoring attempts and CSV export finished. Frozen code/artifact/archive hashes and original benchmark verified unchanged. See experiments/t07-final-evaluation-v1/T07_EXECUTION_REPORT.txt and matched_metrics.csv. Coverage limitations remain: 177/210 complete retrieval labels; local-judge errors retained. No active workflow. Employee auditing remains separate.

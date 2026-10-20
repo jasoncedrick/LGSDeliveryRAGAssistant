@@ -1,0 +1,14 @@
+[
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "generation_status": "ANSWERED",
+    "scores": {
+      "faithfulness": 1.0
+    },
+    "language": "taglish",
+    "group_id": "SCENARIO-BFP-002",
+    "pillar": "Bureau of Fire Protection",
+    "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+    "status": "SCORED"
+  }
+]

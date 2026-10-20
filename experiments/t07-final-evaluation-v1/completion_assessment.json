@@ -1,0 +1,49 @@
+{
+  "status": "EXECUTION_AND_CSV_EXPORT_COMPLETE_WITH_MISSING_METRICS",
+  "planned_interactions": 630,
+  "archived_interactions": 630,
+  "coverage": {
+    "A": {
+      "archived": 210,
+      "planned": 210,
+      "statuses": {
+        "ANSWERED": 209,
+        "GENERATION_INCOMPLETE": 1
+      },
+      "complete_relevance_labels": 177,
+      "judge_records": 210
+    },
+    "B": {
+      "archived": 210,
+      "planned": 210,
+      "statuses": {
+        "ANSWERED": 204,
+        "CLARIFICATION_REQUIRED": 5,
+        "GENERATION_INCOMPLETE": 1
+      },
+      "complete_relevance_labels": 177,
+      "judge_records": 210
+    },
+    "C": {
+      "archived": 210,
+      "planned": 210,
+      "statuses": {
+        "ANSWERED": 203,
+        "CLARIFICATION_REQUIRED": 5,
+        "GENERATION_INCOMPLETE": 2
+      },
+      "complete_relevance_labels": 177,
+      "judge_records": 210
+    }
+  },
+  "generation_complete": true,
+  "scoring_attempts_complete": true,
+  "all_metrics_fully_observed": false,
+  "source_label_limit": "77/87 legacy spans transferred; 59/70 groups complete. Incomplete groups are not scored as retrieval misses and are retained for generation/reference-based RAGAS.",
+  "reference_limit": "Original held-out references retained, not independently corrected or certified.",
+  "evaluator_limit": "Legacy local Mistral judge has known semantic/format errors; no final-test prompt tuning, score overrides or hidden retries.",
+  "protocol_limit": "Span-transfer addendum registered after structural preflight and before model outcomes. Source-window intersections can broaden relevance at boundaries; report this distinction from original chunk IDs.",
+  "held_out_accessed": true,
+  "original_benchmark_changed": false,
+  "test_driven_tuning": false
+}

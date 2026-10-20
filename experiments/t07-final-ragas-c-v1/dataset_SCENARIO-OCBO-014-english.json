@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What technical engineering requirements and airport proximity clearances are mandatory for billboard construction permits?"
+  ],
+  "answer": [
+    "For billboard construction permits, the following technical engineering requirements are mandatory:\n\n1. A Sign Permit is required before any sign or signboard shall be constructed or erected [S1].\n2. If the building/facilities/structures are required to install any or combination of the following, a Fire Safety Clearance (FSCR/FSCCR/FSMR) is necessary:\n   - Wet standpipe system\n   - Automatic fire suppression system\n   - Automatic fire detection and alarm system [S2]\n\nNo specific airport proximity clearances are mentioned in the provided sources for billboard construction permits.\n\nCitations:\n- [S1] OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 567 | chunk DEV120-OCBO-PDF0079-C001\n- [S2] BFP-CITIZENS-CHARTER-2022.pdf | printed page None | chunk DEV120-BFP-PDF0001-C043"
+  ],
+  "contexts": [
+    [
+      "12. Issuance of Billboard Permit\nA Sign Permit shall be required before any sign or signboard shall be constructed or erected.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; G2G – \nGovernment to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\nA. FOR NEW APPLICATION: \nA.1 Notarized Application Letter \n – 1 original, 1 photocopy \n \nA.2 Stru",
+      "LIST. Other service cells are blank in source; blank is not an exemption statement.]\n\nNote: FSCR/FSCCR/FSMR  is required if the building/facilities/structures are \nrequired to install any or combination of the following: \n       1) Wet standpipe system; \n       2) Automatic fire suppression system; and \n       3) Automatic fire detection and alarm system.\nFire Safety Clearance for welding, cutting, and other hot work operations\n(if   required), shall be secured:\n1) \nPer \nProject \nDuration \n– \nfor \nnew \nconstruction \nor \nrenovation\n(during construction)",
+      "mendation \n  \n \n5.3 Forward to \nBuilding Official \n(BO) for signing \nand approval \n  \n5.4 Stamp Fencing \nPermit number on \nplans and \ndocuments \n  \n \n \n \n \n \n5.5 Notify client \nthat approved \nplans and \ndocuments are \nready for claiming\nNone \n30 Minutes\n4 Hours\n1 Day\n4 Hours\n10 Minutes\nTechnical\nAssistant on \nPlanning and \nDevelopment\nOCBO\nPED Chief –\nOCBO\nBuilding Official\n– OCBO\nEngineering\nStaff\nRecords\nCustodian –\nOCBO\nRecords\nManagement \nAssistant –\nOCBO"
+    ]
+  ],
+  "ground_truth": [
+    "New Billboard applications require structural plans, design analysis signed by a civil/structural engineer, CPDO locational clearance, Certificate of Structural Stability, insurance policy, DPWH clearance (if along national highway), and CAAP clearance if within 2km of the airport."
+  ]
+}

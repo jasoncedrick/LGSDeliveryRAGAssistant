@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Kailan obligado kumuha ng taunang Hot Work Clearance sa BFP ang mga negosyong nagwewelding at nagka-cut ng bakal?"
+  ],
+  "answer": [
+    "Based on the provided sources, the obligation to obtain the Annual Hot Work Clearance from the Bureau of Fire Protection (BFP) for businesses that perform welding and cutting of metals applies when these activities are performed. However, the specific deadline for obtaining this clearance is not explicitly stated in the provided sources.\n\n[S1] (BFP-CITIZENS-CHARTER-2022.pdf, chunk DEV120-BFP-PDF0001-C046) mentions that businesses may need to obtain clearances from the BFP, but does not specify the type of clearance or the deadline for obtaining it.\n\n[S3] (BFP-CITIZENS-CHARTER-2022.pdf, chunk DEV120-BFP-PDF0001-C046) states that businesses should contact the BFP for any inquiries or complaints regarding government services, but does not provide specific information about the Hot Work Clearance or its deadline.\n\nTherefore, I was unable to find a specific deadline for obtaining the Annual Hot Work Clearance from the BFP for businesses that perform welding and cutting of metals in the provided sources. It is recommended to contact the BFP directly for more information.\n\n[S1, S3] (BFP-CITIZENS-CHARTER-2022.pdf)"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "application to \nAdmin Division \nfor release\nNone \n10 Minutes\nZoning\nOfficer IV \nCPDO\n3.9 Admin \nDivision updates \ndocument \ntracking system \nand routes to \nreceiving/releasi\nng personnel\nNone \n10 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\n4. Clients claim the \nLocational \nClearance\n4. \nReceiving/Releasi\nng personnel \nreleases \ndocuments to \nclients\nNone \n10 Minutes\nActing\nAdministrative\nOfficer  \nCPDO",
+      "on government services, whether positive or negative, to the Contact Center ng\nBayan via following access channels:\nSMS: 09088816565\nEmail: email@contactcenterngbayan.gov.ph            \n     Web: https://contactcenterngbayan.gov.ph/            \n     FB: https://facebook.com/civilservicegovph/\nCall: 165 65 (P5 +VAT per call anywhere in the Philippines via PLDT Landline)\nPUBLIC WARNING\nThe BFP Does not “ACCREDIT” nor Recommend any Brand, Store or Distributor of Fire\nExtinguisher"
+    ]
+  ],
+  "ground_truth": [
+    "Hot Work Clearances (welding/cutting) must be secured: 1) Per project duration for new construction/renovation applied after fire inspection; or 2) Annually for businesses requiring daily repair or maintenance due to the nature of their operations."
+  ]
+}

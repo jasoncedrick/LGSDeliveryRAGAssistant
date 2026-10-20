@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What graduated tax rate applies to restaurants and food catering businesses with gross sales exceeding PHP 2 million?"
+  ],
+  "answer": [
+    "Based on the provided sources, there is no specific information about the tax rate for restaurants and food catering businesses with gross sales exceeding PHP 2 million. The sources [S1] and [S2] only provide tax rates for retailers and dealerships, not for restaurants or food catering businesses. Therefore, the answer is:\n\nWala akoy nakit-an nga impormasyon bahin niini sa Citizens' Charter. (I found no information about this in the Citizens' Charter.)"
+  ],
+  "contexts": [
+    [
+      "the total sales and shall be \nsubject to the rates not exceeding one-half (1/2) of the rates prescribed under paragraphs \n(a), (b), and (d) of this Article.\n(d) On Retailers:\nGross Sales/Receipts for the Preceding Year \nRate of Tax Per Annum\nMore than P50,000.00 but not over P400,000.00 \n2.2%\nIn excess of P400,000.00 \n1.21%\nHowever, barangays shall have the exclusive power to levy taxes on stores whose \ngross sales or receipts of the preceding",
+      "Valid and Existing Dealership \nAgreement, tax rate is as follows:\nSPARE PARTS:\nFrom \nTo Less Than \nAnnual Tax\n0 \nPhp 10,000,000.00 \n2.2%\nPhp 10,000,000.00 \nPhp 20,000,000.00 \nPhp 220,000.00 plus \n1.65% of gross receipts in \nexcess of Php \n10,000,000.00\nPhp 20,000,000.00 \nPhp 30,000,000.00 \nPhp 385,000.00 plus 1.1% \nof gross receipts in excess \nof Php 20,000,000.00\nPhp 30,000,000.00 \nand above \nPhp 495,000.00",
+      "receipts in excess of Php \n100,000,000.00\nPhp 2,000,000,000.00 \nPhp 3,000,000,000.00 \nPhp 12,402,500.00 plus \n22.0% of 1.0% of gross \nreceipt in excess of Php \n2,000,000,000.00\nPhp 3,000,000,000.00 \nand above \nPhp 14,602,500.00 plus \n11% of 1.0% of gross \nreceipts in excess of Php \n3,000,000,000.00\ni.2 On Spare Parts and Services of Car Dealers with Valid and Existing Dealership \nAgreement, tax rate is as follows:\nSPARE"
+    ]
+  ],
+  "ground_truth": [
+    "Restaurants, cafes, eateries, caterers, and amusement places without wagering pay graduated taxes up to PHP 9,160.31 for receipts up to PHP 2,000,000.00. Gross receipts in excess of PHP 2,000,000.00 are taxed at 43% of 1.0%."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ang bayad sa PTR sa City Treasurer ug unsa ang mga kinahanglanon para makakuha ug resibo sa professional tax?"
+  ],
+  "answer": [
+    "Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa inyong tanong tungkol sa bayad sa PTR sa City Treasurer ug mga kinahanglanon para makakuha ug resibo sa professional tax.\n\n[Walay nakit-an sa mga ma-supplied na source]"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "Real Estate Brokers \nProfessional Regulation Commission \nBroker’s License, PTR\nReal Estate Dealers \nNew Application: Accreditation from \nHLURB\nRehabilitation Centers\nProfessional Regulation Commission \nLicense, PTR\nNew Application: subject to DOH Cert \n. \nRenewal: required DOH Cert.\nReview Center-PRC \nNew \nApplication: \nsubject \nto \nCHED\nRequirements \nRenewal: mandatory CHED Certification\nSand And Gravel, Concessionaire, Mining\nIf Less Than 5 Hectares, Commercial \nSand And Gravel Permit. If More Than 5",
+      "three (3) \nspecimen signatures \n1 photocopy\nOwner/Applicant\n15. PRC IDs and current PTR and TIN of all the \nsigning professionals \n1 photocopy per signing professional\nApplicant"
+    ]
+  ],
+  "ground_truth": [
+    "The Professional Tax service lists a TOTAL fee of PHP300. Requirements: unexpired PRC/IBP ID (1 original); PRC/IBP certification for new registrants/passers (1 original); current Davao City address and valid contact number/email address.\n\nRegister/log in at ptr.davaocity.gov.ph, generate an Order of Payment, then pay at a Miscellaneous Fees counter or the listed Landbank payment portal."
+  ]
+}

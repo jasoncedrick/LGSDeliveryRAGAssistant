@@ -1,0 +1,27 @@
+{
+  "group_id": "SCENARIO-BB-004",
+  "pillar": "Business Bureau",
+  "split": "development",
+  "ground_truth_chunk_ids": [
+    "DEV120-BB-PDF0065-C001",
+    "DEV120-BB-PDF0065-C002",
+    "DEV120-BB-PDF0065-C003",
+    "DEV120-BB-PDF0065-C004",
+    "DEV120-BB-PDF0065-C005",
+    "DEV120-BB-PDF0067-C002",
+    "DEV120-BB-PDF0067-C003"
+  ],
+  "ground_truth_reference_answer": "An Occupational Permit is required for workers not holding a Professional Tax Receipt (PTR). It must be renewed annually on or before January 31; late renewal incurs a statutory 25% penalty. Fees are PHP 125.00 for new applications and timely renewals, and PHP 156.25 for late renewals. Requirements include: 1) Application form; 2) Certificate of Employment; 3) Official Receipt from CTO; 4) Notarized Affidavit of Consent for minors below 18 (or ages 18-20 for amusement places/bars); and 5) PSA Birth Certificate, Health ID, and interview for entertainers, masseurs, and bar attendants.",
+  "queries": {
+    "english": "Who is required to secure an Occupational Permit, how much is the fee, and what is the penalty for late renewal?",
+    "taglish": "Sino ang kailangang kumuha ng Occupational Permit, magkano ang bayad, at magkano ang penalty kapag late nag-renew?",
+    "bislish": "Kinsa ang kailangan mukuha ug Occupational Permit, pila ang bayad, ug pila ang multa kung ma-late ug renew pagkahuman sa January 31?"
+  },
+  "legacy_ground_truth_chunk_ids": [
+    "CHUNK-BB-P104-C01",
+    "CHUNK-BB-P104-C03",
+    "CHUNK-BB-P104-C05",
+    "CHUNK-BB-P106-C03"
+  ],
+  "mapping_status": "PROVISIONAL_EXACT_SPAN_MAPPING"
+}

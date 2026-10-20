@@ -1,0 +1,18 @@
+{
+  "question": [
+    "How can an establishment on the BFP negative list renew its Fire Safety Inspection Certificate?"
+  ],
+  "answer": [
+    "To renew a Fire Safety Inspection Certificate (FSIC) for an establishment on the BFP negative list, the following steps can be followed, as indicated in [S2] and [S3]:\n\n1. Submit a Fire Safety Evaluation Clearance (FSEC) application form, which can be found in [S1].\n2. Ensure that the establishment has a valid Certificate of Occupancy and a New Business Permit with a valid FSIC issued during the occupancy.\n\nHowever, it's important to note that due to the lack of personnel in inspection departments and agencies compared to the number of establishments, Local Government Units (LGUs) are encouraged to use a risk classification system and adopt an inspection prioritization scheme, as mentioned in [S3]. This scheme may affect the renewal process and the priority given to the establishment."
+  ],
+  "contexts": [
+    [
+      "UDED \nIN THE NEGATIVE LIST\nA   P   P   L   I   C   A   T   I   O   N      F   O   R   M\nApplied in Fire Station/Lone District Fire Office \nBFP FSEC\nApplication Form\n(DCN No. BFP-QSF-\nFSED-001 REV.02\n(08.24.20))\n[REPRESENTATION: Application-form cell spans: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION.]\n\nBFP FSIC Application Form (DCN No. BFP-QSF-FSED-002 RE",
+      "s, etc.) as a prerequisite for the\nissuance of appropriate permits and licenses\nfrom the local and other government agencies\nconcerned.\n\nCHECKLIST OF\nREQUIREMENTS/\nDOCUMENTS\nBFP FRONT LINE SERVICES\nFIRE SAFETY  \nEVALUATION \nCLEARANCE\n(FSEC)\nAPPLICATION\nFIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION\nCERTIFICATE OF\nOCCUPANCY\nNEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPAN",
+      "9.1.4 of JMC No. 01 Series of 2021—To address the lack of personnel of inspection departments and agencies compared to the number of establishments, LGUs are encouraged to use a system of risk classification of various \nbusinesses and adopt an inspection prioritization scheme on this basis, in close coordination with the Department of Health for Sanitary Permits, the BFP for the Fire Safety Inspection Certificate for the issuance of uniform guidelines on \nrisk inspection for specific sectors. (BOSS)\nAGENCY ROW 1\n\nCLIENTS"
+    ]
+  ],
+  "ground_truth": [
+    "Renewals without a valid FSIC or those included in the Negative List must resolve all existing Fire Code violations, settle outstanding penalties, pay the 15% FSIF, and pass a mandatory re-inspection before the FSIC for business renewal is released."
+  ]
+}

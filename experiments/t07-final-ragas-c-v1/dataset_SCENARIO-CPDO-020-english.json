@@ -1,0 +1,18 @@
+{
+  "question": [
+    "How can researchers or stakeholders request official land-use data from the CPDO, and what is the processing timeframe?"
+  ],
+  "answer": [
+    "To request official land-use data from the City Planning and Development Office (CPDO), researchers or stakeholders need to submit a letter request, either in hard copy or via email [S1]. The processing timeframe for this request is not specified in the provided sources."
+  ],
+  "contexts": [
+    [
+      "17. Data Request \nA document given by the Office of the City Planning & Development Coordinator \nbased on the letter request. \nOffice or \nDivision\nCity Planning and Development Office (CPDO) / Administrative \nDivision\nClassification \nSimple\nType of \nTransaction\nG2G – Government to Government; G2C – Government to \nCitizen\nWho may avail \nStakeholders or Authorized Representative\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Letter request; hard copy or via email \nApplicant\nCLIENT STEPS \nAGENCY ACTION \nFEES\nTO \nBE \nPA",
+      "ipt for the current \nyear or quarter so the corresponding taxes can then be assed and collected before any \nbusiness or undertaking is finally terminated.",
+      "Permit.\n(paid at the\nCity\nTreasurer’s\nOffice)\nPls. See\nSchedule of\nFees and \nCharges\nSTEP 3: RELEASE\n3.Submit the \nrecommended \napproval of \nApplication for \nAdditional Line of \nBusiness, official \nreceipts and \npertinent \ndocuments. Claim \nBusiness Permit at \nthe Business \nBureau office and \nSign Logbook.\n3.1 Receive and \nCheck \nApplication for \nAmendment of \nBusiness Permit \nfor Additional \nLine of Business \nand Complete \nAttachments / \nDocuments \n(claim stub is \nreleased to the \nclient on this \nstep)\nNone \n30 Minutes \nProcessing\nSection"
+    ]
+  ],
+  "ground_truth": [
+    "Requesting official demographic, zoning, or land-use data from CPDO requires a written letter request (hard copy or email). The request is routed via the Document Tracking System, approved by the Department Head, and processed within 2 days, 3 hours."
+  ]
+}

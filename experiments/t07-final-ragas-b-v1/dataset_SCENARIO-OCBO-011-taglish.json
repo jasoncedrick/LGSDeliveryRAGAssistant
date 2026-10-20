@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Magkano ang buwanang bayad para sa pagharang at paggamit ng bangketa habang nagtatayo ng gusali?"
+  ],
+  "answer": [
+    "Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungkol sa buwanang bayad para sa pagharang at paggamit ng bangketa habang nagtatayo ng gusali.\n\nHowever, for the Ground Preparation and Excavation Permit (GP&EP) related to building construction, the fees are mentioned in [S1] and [S3]. The fees are Php 120.00 per meter or fraction thereof in excess of 10.00 meters, and the exact source is [S1]. The details about the fees for the GP&EP for foundation are found in [S3]. Unfortunately, the Citizens' Charter does not provide information about the monthly rental for a market stall during construction, so the answer for the citizen's question cannot be fully answered based on the provided sources."
+  ],
+  "contexts": [
+    [
+      "(Trilon Guyed)\nUSE OR CHARACTER OF  \nOCCUPANCY SUPPORT\nSELF-\nSUPPORTING\nTRILON GUYED\nCommercial/Industrial (Groups B,E,F,G)  \n up to 10.00 meters in height\nPhp 2,400.00 \n240.00\nEvery meter or fraction thereof in \nexcess of 10.00 meters\nPhp 120.00 \n12.00\nAccessory fees\nGround Preparation and Excavation Fee\nWhile the application for building Permit is still being processed, the Building Official \nmay issue Ground Preparation and Excavation Permit (GP&",
+      "Section 349\nMARKET FEES FOR AMBULANT/TRANSIENT VENDORS\nMarkets\nRate of Fees per \nSquare Meter of \nFraction Thereof\nper Day\nClass A \nP 8.00\nClass B \n6.00\nClass C \n4.00\nClass D \n2.00\nTime \nfor \nPayment \n/ \nPenalties \nfor \nDelinquency. \n- \nThe \nmonthly\nrentals for market stalls shall become due and payable within the first twenty (20) days of \nthe month. Failure to pay the rental within the period required herein shall subject the \nLessee/Occupant to a surcharge of twenty-fi",
+      "EXCAVATION PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\nWhile the application for Building Permit is still being processed, the Building Official \nmay issue Ground Preparation and Excavation Permit (GP&EP) for foundation, subject \nto the verification, inspection and review by the Line and Grade Section of the \nInspection and Enforcement Division"
+    ]
+  ],
+  "ground_truth": [
+    "A Sidewalk Enclosure and Occupancy Permit costs PHP 240.00 per calendar month for sidewalk enclosures up to 20.00 sq.m., and PHP 12.00 for every square meter or fraction thereof in excess of 20.00 sq.m. per month."
+  ]
+}

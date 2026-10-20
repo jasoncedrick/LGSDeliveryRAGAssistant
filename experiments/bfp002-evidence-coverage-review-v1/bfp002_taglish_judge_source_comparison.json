@@ -1,0 +1,32 @@
+[
+  {
+    "chunk_id": "DEV120-BFP-PDF0001-C041",
+    "source_text": "for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n\nFire Safety Compliance and Commissioning   Report (FSCCR) NOTE (2)\n[REPRESENTATION: Matrix dot shown for: CERTIFICATE OF OCCUPANCY. Other service cells are blank in source; blank is not an exemption statement.]\n\nFire Safety Maintenance Report (FSMR) NOTE (3)\n[REPRESENTATION: Matrix dot shown for: NEW BUSINESS PER",
+    "judge_verdict": {
+      "reason": "The provided context does not directly answer the question about the Fire Safety Inspection Fee (FSIF) for FSIC of Occupancy and the minimum payment. However, it does provide information about other related fees and reports, which can be used to infer that the FSIF is calculated based on the fees charged by the LGU/PEZA, not less than PHP500, and is zero if the assessment from LGUs/PEZA is zero.",
+      "verdict": "1"
+    },
+    "source_review": "No FSIF calculation, minimum amount or zero-assessment exception appears in this chunk. Judge rationale claims or infers these facts despite their absence.",
+    "review_basis": "Assistant direct comparison of the complete retrieved chunk with the stored rationale, supported by the user-confirmed fee panel; not an independent expert rating."
+  },
+  {
+    "chunk_id": "DEV120-BFP-PDF0001-C006",
+    "source_text": "Building Administrator and his/her Fire Safety Practitioner\nduring the regular annual fire safety inspection. This  is a compilation of the maintenance and testing records kept by the building‘s engineering and maintenance department, as a prerequisite for the issuance of FSIC for Business or \nMayor‘s Permit renewal, Certificate of Annual Inspection , Permit to Operate, PHILHEALTH Accreditation for Hospitals, DOH License to Operate and other  permits or licenses being issued by other government agencies.\nNOTE (4) Section 9.",
+    "judge_verdict": {
+      "reason": "The context provides detailed information about the Fire Safety Inspection Fee (FSIF) for the Fire Safety Inspectorate of the Philippines (FSIC) in relation to the Certificate of Occupancy and new/renewal business applications. It specifies the fee calculation and minimum payment, including the exception for zero assessment by LGUs/PEZA.",
+      "verdict": "1"
+    },
+    "source_review": "No FSIF calculation, minimum amount or zero-assessment exception appears in this chunk. Judge rationale claims or infers these facts despite their absence.",
+    "review_basis": "Assistant direct comparison of the complete retrieved chunk with the stored rationale, supported by the user-confirmed fee panel; not an independent expert rating."
+  },
+  {
+    "chunk_id": "DEV120-BFP-PDF0001-C021",
+    "source_text": "s, etc.) as a prerequisite for the\nissuance of appropriate permits and licenses\nfrom the local and other government agencies\nconcerned.\n\nCHECKLIST OF\nREQUIREMENTS/\nDOCUMENTS\nBFP FRONT LINE SERVICES\nFIRE SAFETY  \nEVALUATION \nCLEARANCE\n(FSEC)\nAPPLICATION\nFIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION\nCERTIFICATE OF\nOCCUPANCY\nNEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPAN",
+    "judge_verdict": {
+      "reason": "The context provides a checklist of requirements for the Fire Safety Inspection Certificate (FSIC) application, which includes the Fire Safety Inspection Fee (FSIF) calculation. The context specifies that the FSIF is 15% of all fees charged by LGU/PEZA, not less than PHP500, and includes an exception for zero assessment by LGUs/PEZA.",
+      "verdict": "1"
+    },
+    "source_review": "No FSIF calculation, minimum amount or zero-assessment exception appears in this chunk. Judge rationale claims or infers these facts despite their absence.",
+    "review_basis": "Assistant direct comparison of the complete retrieved chunk with the stored rationale, supported by the user-confirmed fee panel; not an independent expert rating."
+  }
+]

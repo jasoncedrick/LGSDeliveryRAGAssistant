@@ -1,0 +1,24 @@
+{
+  "group_id": "SCENARIO-BB-006",
+  "pillar": "Business Bureau",
+  "split": "development",
+  "ground_truth_chunk_ids": [
+    "DEV120-BB-PDF0079-C004",
+    "DEV120-BB-PDF0080-C001",
+    "DEV120-BB-PDF0080-C002",
+    "DEV120-BB-PDF0081-C002"
+  ],
+  "ground_truth_reference_answer": "The ICAB checklist includes an ISP contract, certification or current receipt of payment; half-closed cubicles not more than 5 feet from the floor apply to Internet Cafes only. Lighting must be at least 25 Lux for fluorescent/LED lights or 50 Lux for incandescent lights. A warning sign at least 12 x 18 inches must state: no pornography, no gambling, no hacking, no minors prior to 6:00 AM and beyond 9:00 PM, and students may not play games during prescribed school hours. A system must block or filter pornographic sites/content; permanently fixed webcams are required for Internet Cafes only. The checklist also prohibits selling and consuming intoxicating drinks and cigarettes on the premises and lists a copy of ICAB ordinances 227-04, 0387-12 and 0270-15, as amended. Headphones, a urinal for 30 units and below, and separate male and female CRs for 31 units and above are listed for Internet Cafes only. For Internet Cafe and Pisonet owners, the fee cell states \"PHP100.00 for the first 10 units and PHP10.00 for every unit\". This wording is preserved without interpreting \"every unit\" as \"each additional unit\".",
+  "queries": {
+    "english": "What are the physical facility requirements and fees to obtain ICAB accreditation for an internet cafe or pisonet business?",
+    "taglish": "Ano ang mga kailangang sundin sa pwesto at magkano ang babayarang ICAB fee para sa internet cafe o pisonet?",
+    "bislish": "Unsa ang mga facility requirements ug pila ang bayad sa ICAB accreditation para sa pisonet o internet cafe?"
+  },
+  "legacy_ground_truth_chunk_ids": [
+    "CHUNK-BB-P118-C01",
+    "CHUNK-BB-P118-C04",
+    "CHUNK-BB-P119-C01",
+    "CHUNK-BB-P120-C02"
+  ],
+  "mapping_status": "ASSISTANT_SOURCE_REVIEWED_DEVELOPMENT_LABELS"
+}

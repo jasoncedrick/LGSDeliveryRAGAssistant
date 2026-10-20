@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Gaano katagal valid ang Excavation Permit at magkano ang bayad kada cubic meter ng hukay?"
+  ],
+  "answer": [
+    "The Excavation Permit is valid for thirty (30) days. The fee for each cubic meter of excavation is 3.00 pesos, as stated in [S2]."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "ion and review by the Line and Grade Section of the \nInspection and Enforcement Division to determine compliance to line and grade, \nsetbacks, yards/easements and parking requirements.\nInspection and Verification Fee \nP 200.00\nPer cu. meters of excavation \n3.00\nIssuance of GP & EP, valid only for thirty (30) days or superseded \nupon issuance of Building Permit\n50.00\nPer cu. meter of excavation for foundation with basement \n4.00\nExcavation other than foundation or basement, per",
+      "(Trilon Guyed)\nUSE OR CHARACTER OF  \nOCCUPANCY SUPPORT\nSELF-\nSUPPORTING\nTRILON GUYED\nCommercial/Industrial (Groups B,E,F,G)  \n up to 10.00 meters in height\nPhp 2,400.00 \n240.00\nEvery meter or fraction thereof in \nexcess of 10.00 meters\nPhp 120.00 \n12.00\nAccessory fees\nGround Preparation and Excavation Fee\nWhile the application for building Permit is still being processed, the Building Official \nmay issue Ground Preparation and Excavation Permit (GP&"
+    ]
+  ],
+  "ground_truth": [
+    "While the Building Permit is being processed, the Building Official may issue GP&EP for foundation subject to line-and-grade verification, inspection and review. It is valid only for 30 days or superseded upon Building Permit issuance. Fees: inspection/verification PHP200; excavation PHP3 per cubic meter; GP&EP issuance PHP50; foundation excavation with basement PHP4 per cubic meter; excavation other than foundation/basement PHP3 per cubic meter; permitted footing/foundation encroachment into public areas PHP250 per square meter or fraction thereof."
+  ]
+}

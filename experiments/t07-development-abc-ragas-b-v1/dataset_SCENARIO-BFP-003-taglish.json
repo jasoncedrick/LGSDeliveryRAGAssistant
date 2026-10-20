@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ilang araw ang processing time sa BFP para sa Simple, Complex, at Highly Technical na mga transaksyon?"
+  ],
+  "answer": [
+    "Sa BFP (Bureau of Fire Protection), ang processing time para sa Simple, Complex, at Highly Technical na mga transaksyon ay nasa:\n\n- Simple Transaction - One (1) araw, as per [S1] at [S3]\n- Complex Transaction - Three (3) araw, as per [S1] at [S3]\n- Highly Technical Transaction - Seven (7) araw, as per [S1] at [S3]"
+  ],
+  "contexts": [
+    [
+      "STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION - TRANSACTION PROCESSED WITHIN ONE (1) DAY \n2. COMPLEX TRANSACTION - TRANSACTION PROCESSED WITHIN THREE (3) DAYS \n3. HIGHLY TECHNICAL TRANSACTION - TRANSACTION PROCESSED WITHIN SEVEN (7) DAYS\nNOTE: For the coverage of Simple, Complex and Highly Technical Transactions refer to Joint Memorandum Circular (JMC) No. 2021-01  \nSeries of 2021 “Amending the DILG",
+      "etc.) and\nrelease the claim stub.\n\nPROCESSING TIME: maximum of five (5) minutes\n\nPERSON RESPONSIBLE: CRO\n\nAGENCY ROW 5\n\nCLIENTS STEP: [blank source cell]\n\nAGENCY ACTION: 5. Evaluation/Inspection\nFor OSCP : Evaluation of plans and specification\nwith OBO (Backroom Operation)\nNOTE (4)\nFor BOSS : Joint Inspection\n\nPROCESSING TIME: Total Processing Time:\nSimple Transaction - One (1) day\nComplex Transaction - Three (3) days\nHighly Technical Transaction - Seven (7)\ndays\n\nPERSON",
+      "(1) day\nComplex Transaction - Three (3) days\nHighly Technical Transaction - Seven (7)\ndays\n\nPERSON RESPONSIBLE: Building Plan Evaluator (BPE)/\nChief, Fire Safety Enforcement\nSection/Unit (C, FSES/FSEU)/\nCity/Municipal Fire Marshal\n(C/MFM)\n\nAGENCY ROW 6\n\nCLIENTS STEP: 4. On the date of release indicated in the Claim\nStub, present the Claim Stub to the releasing\nwindow, claim the FSEC/NOD/FSIC for\nCertifica"
+    ]
+  ],
+  "ground_truth": [
+    "The BFP charter classifies Simple transactions as processed within 1 day, Complex within 3 days, and Highly Technical within 7 days. It directs readers to JMC2021-01 for classification coverage. The source says days, not working days, and identifies FIRE STATION/OSCP/BOSS."
+  ]
+}

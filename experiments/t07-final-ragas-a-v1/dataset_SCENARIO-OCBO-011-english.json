@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What are the monthly fees for enclosing and occupying public sidewalks during commercial construction?"
+  ],
+  "answer": [
+    "The monthly fees for enclosing and occupying public sidewalks during commercial construction are not explicitly stated in the provided sources. However, for scaffolding permits, there is a fee for erecting scaffoldings occupying public areas, as per the Revised Implementing Rules and Regulations of the National Building Code of the Philippines (PD 1096). The fee is P150.00 for up to 10 meters in length, and every lineal meter or fraction thereof in excess of 10 meters is charged at P12.00 [S3]. For commercial construction electrical fees, there is no direct mention of fees for occupying public sidewalks, but the fees for residential, institutional, commercial, and industrial structures are detailed in Section 4.e of the OCBD [S2]."
+  ],
+  "contexts": [
+    [
+      "ANNEX – 13\nSection 347\nCLASSIFICATION OF PUBLIC MARKETS\nClass A \nThose with an average monthly income of P 2,000,000.00 \nor more during the preceding six (6) months.\nClass B\nThose with an average monthly income of P 1,500,000.00 \nor more but not more than P 2,000,000.00 during the \npreceding six (6) months.\nClass C\nThose with an average monthly income of P 700,000.00 or \nmore but not more than P 1,500,000.00 during the \npreceding six (6) months.\nClass D \nThose with an average monthly income of less than P \n700,000.00 during the preced",
+      "es \nshall be charged to cover all inspection trips during construction.\nii. Annual Inspection Fees are the same as in Section 4.e.\nSection 4.e Electrical Fees:\nThe following schedule shall be used for computing electrical fees in residential, \ninstitutional, commercial and industrial structures:\na. Total Connected Load (kVA) Fee\n5 kVA or less \nP 200.00\nOver 5 kVA to 50 kVA \n200.00 + P 20.00/kVA\nOver 50 kVA to 300 kVA \n1,100.00 + 10.00/kVA\nOver 300",
+      "SCAFFOLDING PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\nErection of Scaffoldings Occupying Public Areas, per calendar month:\nUp to 10.00 meters in length \nP \n150.00\nEvery lineal meter or fraction thereof in excess of \n10.00 meters\n12.00"
+    ]
+  ],
+  "ground_truth": [
+    "A Sidewalk Enclosure and Occupancy Permit costs PHP 240.00 per calendar month for sidewalk enclosures up to 20.00 sq.m., and PHP 12.00 for every square meter or fraction thereof in excess of 20.00 sq.m. per month."
+  ]
+}

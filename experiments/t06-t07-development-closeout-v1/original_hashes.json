@@ -1,0 +1,14 @@
+{
+  "experiments\\t07-development-abc-ragas-a-v1\\scores.json": "7b6a14025b2d4e2afb931142d8b0b426a49b7dfff022435045d5fd9f9861633e",
+  "experiments\\t07-development-abc-ragas-a-v1\\summary.json": "22e8fcb8f41131882d0ca3c962ff718e4f67d3b67b6b779789401d173f10162d",
+  "experiments\\t07-development-abc-ragas-a-v1\\judge_calls.jsonl": "d7eb40d4e7194519736342e4430e2e19b068514cbf8e1744f816c25a872cbc3e",
+  "experiments\\t07-development-abc-ragas-b-v1\\scores.json": "bfe08565e0f338cf19332bad79ff8a7bf680feca6a2de16e5974e444ca78c7fd",
+  "experiments\\t07-development-abc-ragas-b-v1\\summary.json": "6f690e22e22110b1ae65b081da59f4175565f02c3359bae90db048a49a79eaf0",
+  "experiments\\t07-development-abc-ragas-b-v1\\judge_calls.jsonl": "04485f34c46d56f9a5432d884ce9684afc19935c6aec84a364bf6c142b5d278f",
+  "experiments\\t07-development-abc-ragas-c-v1\\scores.json": "44bce58c4eb90ee2e0e11a074ff343afbef5c2f47b187b25fdc1d1683b74a88f",
+  "experiments\\t07-development-abc-ragas-c-v1\\summary.json": "99b66658fccbeb66d8b2aa22b19dc272f7906d3e84850351d943949a66471954",
+  "experiments\\t07-development-abc-ragas-c-v1\\judge_calls.jsonl": "fce55129ce4f6898d42a86b8e828ce1fa2af5cd7d0c101f4222e84802e63ab64",
+  "experiments\\t07-development-abc-v1\\A\\interactions.jsonl": "6038a9e4610b9094a8f17474e728b00f7fd85a6954bbb1cae7af37137922baca",
+  "experiments\\t07-development-abc-v1\\B\\interactions.jsonl": "f1e397d637ad87885736aac21e274a115477e84c35dac3abe478ce430152dd8f",
+  "experiments\\t07-development-abc-v1\\C\\interactions.jsonl": "44bf343c4b1d2ed793eb62e2e717c43a6fbd02874b467b31515b8a6c48510963"
+}

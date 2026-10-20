@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang tahas sa Fire Code Assessor (FCA) ug pila ka minuto ang gitugot nga oras sa pag-kwenta sa bayrunon sa sunog?"
+  ],
+  "answer": [
+    "Sa Fire Code Assessor (FCA) sa BFP, wala nakit-an nga tahas sa kanya. Ang pag-kwenta sa bayrunon sa sunog ay ma-process sa maximum of ten (10) minutes bilang na-indikado sa [S2]."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "applicant queuing number and issue OPS.\nFor OSCP/BOSS : Backroom operation with\nOSCP/BOSS for one-time assessment thru\nsharing of information\n\nPROCESSING TIME: maximum of ten (10) minutes\n\nPERSON RESPONSIBLE: Fire Code Assessor\n(FCA)\n\nAGENCY ROW 3\n\nCLIENTS STEP: 3. Present the OPS and pay the corresponding\nFire Code Fees indicated in the OPS.\nUpon receipt of the OR, proceed to releasing\nwindow to claim the stub by presenting the OR.\nNote: Re",
+      "REDIT” nor Recommend any Brand, Store or Distributor of Fire\nExtinguisher and Fire Fighting Equipment\nAs per BFP Memorandum Circular No. 2016-016\nProhibition of BFP Personnel from Engaging in any act of impropriety and/or corruption pertaining to the enforce-\nment and implementation of the Fire Code and providing sanction thereof.\nHow to file a complaint\nTo file a complaint against the BFP or any of its personnel, the Client/Customer should provide the  following details via \nemail or other form of"
+    ]
+  ],
+  "ground_truth": [
+    "The Fire Code Assessor (FCA) verifies documents, computes applicable fire code taxes and fees, and releases the Order of Payment Slip (OPS) to the applicant within a prescribed processing time of not more than 10 minutes."
+  ]
+}

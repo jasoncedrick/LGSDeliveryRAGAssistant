@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Magkano ang bayad sa pagpapatatak ng timbangan at gasoline pumps sa City Treasurer at ano ang multa kapag walang selyo?"
+  ],
+  "answer": [
+    "Sa pagpapatak ng timbangan (weighing instrument) at gasoline pumps sa City Treasurer (CTO), ang bayad ay P100.00 bawat instrumento (mabasa sa [S3], chunk DEV120-CTO-PDF0007-C002). Kapag walang selyo (seal), wala nakit-an nga multa sa Citizens' Charter. (Wala akoy nakit-an nga impormasyon bahin niini sa Citizens' Charter.)"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "(e) For sealing of gasoline/diesel pumps\nPer pump \nPer pump (oil dispenser)\n200.00 \n100.00\n(f) For sealing of every tanker compartment of gasoline/diesel\nand other petroleum products per compartment \n100.00\n(g) For each and every re-testing and re-sealing of weights and measures\ninstruments including gasoline pumps outside the office upon request of the \nowner or operator, an additional service charge of One Hundred Pesos (P \n100.00) for each instrument shall",
+      "EMENT \nWHERE TO SECURE\n1. Permit to Quarry – 1 original, 1\nphotocopy\nEnvironment and Natural Resources Office \nat Maa, Davao City\n2. Approved Business Permit – 1\nphotocopy\nBusiness Bureau at Sangguniang \nPanlungsod, Ground Floor\n3. Monthly report of extraction from\nconcessionaires – 3 copies\nConcessionaires\nCLIENT STEPS \nAGENCY \nACTIONS\nFEES TO \nBE PAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\n1. Client\nproceeds to \nthe Office of \nthe City \nTreasurer \n(CTO) and \npresent the"
+    ]
+  ],
+  "ground_truth": [
+    "Weights and measures testing fees are: scales up to 30 kg = PHP 80.00; scales 30-300 kg = PHP 160.00; scales over 3,000 kg = PHP 400.00. Sealing gasoline/diesel pumps is PHP 200.00 per pump. Operating unsealed instruments incurs a 500% surcharge penalty."
+  ]
+}

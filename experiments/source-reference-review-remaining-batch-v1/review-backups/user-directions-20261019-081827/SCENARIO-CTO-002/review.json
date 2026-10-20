@@ -1,0 +1,26 @@
+{
+  "group_id": "SCENARIO-CTO-002",
+  "review_status": "source_conflict_requires_clarification",
+  "findings": [
+    "Rendered PDF confirms 87%, so this is not just extraction corruption.",
+    "Quarantine computation claim pending authoritative clarification; retain supported certification fee and checklist.",
+    "Add PDF9 for actual checklist."
+  ],
+  "manual_check": {
+    "type": "blocking_reference_computation",
+    "question": "Obtain authoritative correction/confirmation of the transfer-tax rate; rendered Annex4 says 87% or 1%, while old reference says 0.75% or up to 1%.",
+    "source": "CTO PDF11/printed166",
+    "blocking": "Do not approve computed tax labels or treat this rate question as fully validated."
+  },
+  "candidate_applied": false,
+  "limitations": [
+    "Fixed thesis sources, not present-day legal advice.",
+    "Assistant image review is not independent expert certification.",
+    "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+  ],
+  "human_review": {
+    "status": "confirmed_with_evidence",
+    "finding": "Transfer Tax is equal to 87% or 1% based on the consideration or the market value whichever is higher.",
+    "evidence": "cto PDF11/printed166"
+  }
+}

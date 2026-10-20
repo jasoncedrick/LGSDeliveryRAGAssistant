@@ -1,0 +1,23 @@
+[
+  {
+    "claim": "For FSIC for Certificate of Occupancy and new/renewal business applications, the fee panel states FSIF is 15% of all fees charged by LGU/PEZA, not less than PHP500. It explicitly adds: if assessment from LGUs/PEZA is zero, FSIF is zero. Other fees apply if applicable under the cited RIRR provision. Do not omit the zero-assessment exception or narrow the base to LGU-only regulatory fees.",
+    "evidence": [
+      {
+        "source_page_id": "BFP-PDF0001",
+        "pdf_relative_page": 1,
+        "printed_page": null,
+        "source_span": "For FSIC (Certificate of Occupancy)/FSIC (New\nBusiness and Renewal of Business) Applica-\ntion\nFSIF = 15% of all fees charge by LGU/Philippine\nEconomic Zone Authority (PEZA) but in no case\nshall be lower than Php 500.00\nSample computation:\nFSIF = (All fees charged by the LGU/PEZA) x\n(15%) = ______ Php but in no case shall be lower\nthan Php 500.00\nNote: If assessment from LGUs/PEZA = 0, then\nFSIF = 0\nOther fees",
+        "char_start": 6852,
+        "char_end": 7264,
+        "supporting_chunk_ids": [
+          "DEV120-BFP-PDF0001-C019",
+          "DEV120-BFP-PDF0001-C020"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C020"
+    ]
+  }
+]

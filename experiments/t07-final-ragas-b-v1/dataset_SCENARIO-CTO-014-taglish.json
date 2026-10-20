@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ilang porsyento ang local business tax sa interes at commissions ng mga bangko sa Davao City?"
+  ],
+  "answer": [
+    "Sa Davao City, ang local business tax sa mga bangko ay 60.50% ng isang porsyento (1%) ng gross receipts ng preceding (unang) calendar year mula sa interest, commissions at discounts mula sa lending activities, income mula sa financial leasing, dividends, rentals sa property, at profit mula sa exchange o sale ng property, insurance premium, including holding companies. [S1]\n\nReference:\n[S1] City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 213 | chunk DEV120-CTO-PDF0058-C003"
+  ],
+  "contexts": [
+    [
+      "provided in \nparagraph (e) of this section.\n(f) On Banks and Other Financial Institutions, at the rate of sixty and half percent \n(60.50%) of one percent (1%) of the gross receipts of the preceding calendar year derived \nfrom interest, commissions and discounts from lending activities, income from financial \nleasing, dividends, rentals on property, and profit from exchange or sale of property, \ninsurance premium, including holding companies. All bank transactions filed or negotiated \nwithin Davao City branches, gross receipts of",
+      "Assessment \nDivision, City \nTreasurer’s \nOffice, \nSangguniang \nPanlungsod, to \nassess and \npay fees, and \nsecure an \nOfficial Receipt \nand \nCommunity \nTax Certificate \n(Cedula).\nReceipts, \nand process \nthe Cedula.\nCode of\nthe City of\nDavao\nOrdinance \nNo. 0291- \n17, series \nof 2017, \nsection 72\n–\nImposition \nof Tax on\nAnnual\nFixed Tax\nfor\nDelivery \nVehicle;\nSection 76\n–\nGraduated\nTax on \nBusiness\nLocal Treasury\nOperations\nOfficer I/Local\nRevenue\nCollection Officer \nI/Local Revenue \nCollection Officer \nI/Local Revenue",
+      ") at \nthe Business \nTax \nAssessment \nDivision, City \nTreasurer’s \nOffice, \nSangguniang \nPanlungsod, \nor CTO \nDistrict \nOffices.\nBased on \nthe 2017 \nRevenue\nCode of the\nCity of \nDavao\nOrdinance \nNo. 0291- \n17, series \nof 2017, \nsection 72\n–\nImposition \nof Tax on\nAnnual\nFixed Tax \nfor Delivery\nVehicle; \nsection 76\n–\nGraduated\nTax on \nBusiness\n3 Minutes \nWindow 1-4,\nLocal Treasury\nOperations\nOfficer I/ Local\nRevenue \nCollection \nOfficer I –\nCity\nTreasurer’s\nOffice\n-or-\nAssigned\nCollectors at \nCTO"
+    ]
+  ],
+  "ground_truth": [
+    "Banks and financial institutions pay an annual local business tax of 60.50% of 1.0% of gross receipts derived from interest, commissions, discounts, leasing, dividends, and property rentals from transactions negotiated within Davao City branches."
+  ]
+}

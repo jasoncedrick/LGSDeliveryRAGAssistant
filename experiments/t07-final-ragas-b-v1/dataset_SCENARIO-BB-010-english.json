@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What permits and security clearances are needed to organize a public fun-run or motorcade in Davao City?"
+  ],
+  "answer": [
+    "To organize a public fun-run or motorcade in Davao City, the following permits and security clearances are needed:\n\n1. Security Clearance from Public Safety and Security Office [S1, S2]\n2. Business Permit (private agency) (organizer) [S1, S2]\n3. Affidavit of Undertaking to strictly follow recommendations [S1, S2]\n\nFor a motorcade specifically, the schedule of fees is as follows:\nPhp150/Day [S1]"
+  ],
+  "contexts": [
+    [
+      "SP Ordinance (1 original)\n4. Barangay Resolution for barangay events (1 original)\n5. Security Clearance from Public Safety and Security Office\n6. Business Permit (private agency) (organizer)\n7. Detailed Plan/Floor Plan (For Exhibits)\n8. Affidavit of Undertaking to strictly follow recommendations.\nSCHEDULE OF FEES\nMeetings, Incentives, Conference, Sports Events and Exhibits - Php500.00/Day\nRecorrida - Php150/Day\nSampling - Php300/Day\nMotorcade - Ph",
+      "jurisdiction of Davao City.\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\nGENERAL REQUIREMENTS\n1. Security Clearance from Public Safety and \nSecurity Office\nPublic Safety and Security \nCommand Center\n2. Business Permit (private agency) (organizer) \nBusiness Bureau\n3. Affidavit of Undertaking to strictly follow \nrecommendations.\nClient\nCONCERTS, SHOWS OR EVENTS IN OPEN AREAS\n1. Barangay Resolution \nBarangay Hall\nMAHJONG\n1. Barangay Clearance \nBarangay Hall\n2. Cedula \nCity Treasurer’s Office\nREC",
+      "Private Security And Detective Agency \nPhilippine National Police / PSCUCIA \nPermit\nPrivate Slaughterhouse \nNew Application: mandatory SP \nOrdinance\nProperty Appraisal Company \nNew Application: mandatory SEC Cert. of \nAccreditation\nPsychiatric Care Facilities\nProfessional Regulation Commission \nLicense, PTR \nNew Application: subject to DOH Cert. \nRenewal: required DOH Cert.\nPublic Market, Pasalubong Center And \nDavao City Overland Transport Terminal \nStall Holder\nStall Certificates From The City \nTreasurer's Office And The City \nEconomic Enterprise\nPublic Transportation Under"
+    ]
+  ],
+  "ground_truth": [
+    "A Special Mayor's Permit is required for events involving groups of people such as concerts, bazaars, fun-runs, and motorcades. General requirements include Public Safety and Security Command Center clearance, organizer business permit, and an Affidavit of Undertaking."
+  ]
+}

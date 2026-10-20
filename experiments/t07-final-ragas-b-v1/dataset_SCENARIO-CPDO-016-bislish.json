@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa nga mga dagkong commercial developments sama sa mall ug condominium ang kinahanglan ug PALC gikan sa konseho?"
+  ],
+  "answer": [
+    "Sa mga commercial developments sa mall ug condominium, kinahanglan ang Preliminary Approval at Locational Clearance (PALC) gikan sa Sangguniang Panlungsod. Ito makabalo sa Article XI Section 1 ng Zoning Ordinance. [S2]"
+  ],
+  "contexts": [
+    [
+      "LIENT STEPS \nAGENCY \nACTIONS\nFEES TO \nBE PAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\n1. Get a priority\nnumber from \nthe assigned \nTechnical \nAssistance \nPersonnel at \nthe City \nTreasurer’s \nOffice.\n1. Provide a\npriority number \nand advise the \nclient to wait \nuntil their \nnumber is \ncalled.\nNone \n10 Minutes \nRevenue\nCollection Clerk I\n–\nCity Treasurer’s\nOffice\n2. Submit the\nrequired \ndocuments to \nCounter 14 \n(when your \npriority number \nis called).\n2.1. Receive the\ndocuments \nand verify \nReal \nProperty \nTax \nClearance.\n2.2.",
+      "15. Preliminary Subdivision Development Plan (PSDP) and \nDevelopment Permit (DP) for Mall, Condominium, Hotel and \nApartment \nArticle XI Section 1 of the Zoning Ordinance states that the projects that listed below \nare required to secure Preliminary Approval and Locational Clearance (PALC) and \nDevelopment Permit (DP) from the Sangguniang Panlungsod which shall be granted \nthrough a resolution by majority votes of all its members. \n \n(For Mall, Condominium, Warehouse, Hotel, Apartment) \nOffice or Division \nCity",
+      "PERSON\nRESPONSIBLE\n1. Get a priority \nnumber from the \nassigned Officer of \nthe Day.\n1. Provide a \npriority number \nand advise the \nclient to wait \nuntil their \nnumber is \ncalled.\nNone \n10 Minutes\nTicket\nCheckers\n–\nCity\nTreasurer’s\nOffice\n2. Present the \nrequired \ndocuments at the \nBankerohan Public \nMarket – Collection \nUnit, City \nTreasurer’s Office.\n2. Verify the \nrecord of \npayments at the \nBankerohan \nPublic Market – \nCollection Unit, \nCity Treasurer’s \nOffice.\nNone \n2 Minutes\n3. Pay the service \nfee at the \nBankerohan Public \nMarket –"
+    ]
+  ],
+  "ground_truth": [
+    "Under Article XI Section 1, malls, condominiums, hotels, warehouses, and apartments must secure Preliminary Approval and Locational Clearance (PALC) and Development Permit (DP) from the Sangguniang Panlungsod granted through a resolution by majority vote."
+  ]
+}

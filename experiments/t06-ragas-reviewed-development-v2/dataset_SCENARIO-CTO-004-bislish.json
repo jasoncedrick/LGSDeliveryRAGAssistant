@@ -1,0 +1,20 @@
+{
+  "question": [
+    "Pila ang bayad sa annual fixed tax sa City Treasurer para sa delivery van, truck, o motor nga ginagamit sa negosyo?"
+  ],
+  "answer": [
+    "The annual fixed tax for a delivery van, truck, or motor vehicle used in the delivery or distribution of goods by manufacturers, producers, wholesalers, dealers, or retailers is imposed as stated in [S1]. The amount of the tax is not explicitly stated in the provided source, but it is determined by the Sangguniang Panlungsod. For more specific rates, please refer to the City Treasurer's office's Citizen's Charter. For tax rates on car dealers, refer to [S3]. For the tax on authorized franchise car dealers, the annual tax is levied as stated in [S3]. The tax rates for car dealers are also specified there."
+  ],
+  "contexts": [
+    [
+      "ANNEX – 15\nSection 72. Imposition of Tax. - There is hereby imposed an annual fixed tax for every \ndelivery vehicle, truck, van, or any motor vehicle, vessels or watercraft used by \nmanufacturers, producers, wholesalers, dealers or retailers in the delivery or distribution \nof distilled spirits, fermented liquors, soft drinks, cigars and cigarettes and other essential \nproducts and sales of goods as may hereinafter be determined by the Sangguniang \nPanlungsod to sales outlets or consumer",
+      ") at \nthe Business \nTax \nAssessment \nDivision, City \nTreasurer’s \nOffice, \nSangguniang \nPanlungsod, \nor CTO \nDistrict \nOffices.\nBased on \nthe 2017 \nRevenue\nCode of the\nCity of \nDavao\nOrdinance \nNo. 0291- \n17, series \nof 2017, \nsection 72\n–\nImposition \nof Tax on\nAnnual\nFixed Tax \nfor Delivery\nVehicle; \nsection 76\n–\nGraduated\nTax on \nBusiness\n3 Minutes \nWindow 1-4,\nLocal Treasury\nOperations\nOfficer I/ Local\nRevenue \nCollection \nOfficer I –\nCity\nTreasurer’s\nOffice\n-or-\nAssigned\nCollectors at \nCTO",
+      "ing not otherwise stated in this code.\n(i) On Authorized Franchise Car Dealers\nImposition of Tax – There is hereby levied an annual tax on the following business \nundertakings at the rates prescribed herein:\ni.1 On Car Dealers engaged in the business of selling brand new vehicles and \ngenuine parts pursuant to a valid and existing dealership agreement with manufacturers \nand distributors shall be taxed as follows:\nCAR DEALERS\nFrom \nTo Less Than \nAnnual Tax\nPhp 0 \nPhp 100,000,000.00 \n90.",
+      "(paid at the\nCity\nTreasurer’s\nOffice). Taxes\nis based on \nthe Gross \nIncome of \nBusiness\nEstablishmen\nt (refer the\nCity\nTreasurer’s\nOffice’s \nCitizen’s \nCharter)\nSTEP 3: RELEASE\n3. Wait for Business \nBureau approval. Once \napproved,  Claim \nBusiness Sticker at the \nBusiness Bureau office \nand Sign Logbook\n3.1. Check \nrecommende\nd approval \nbusiness \npermit \napplication, \nencode \nnotations, and \nreview \nBusiness \nPermit \napplication\nNone \n1 Hour \nLicensing\nOfficer\nBusiness \nBureau\n3.2. Final \nApprove and \nIssue \nBusiness \nPermit \n(digital",
+      "further information. \nClient may still proceed \nto the City Treasurer’s \nOffice for assessment \nand payment of dues. \nSTEP 2: PAYMENT\n2.Proceed to the City \nTreasurer’s Office for \npayment.\n2. Process \nunder City \nTreasurer’s \nOffice\nMayor’s\nPermit Fee is \nbased on the \nasset size and\nnature of \nbusiness\n(paid at the\nCity\nTreasurer’s\nOffice). Taxes\nis based on \nthe Gross \nIncome of \nBusiness\nEstablishment \n(refer the City \nTreasurer’s\nOffice’s \nCitizen’s \nCharter)\nPls. See\nSchedule of\nFe"
+    ]
+  ],
+  "ground_truth": [
+    "Annex15, Section72 lists annual fixed delivery-vehicle taxes: motorcycle/motorized tricycle PHP240; delivery jeepney/similar utility vehicle PHP600; truck, van, or any vehicle with six wheels and above PHP1,000; water vessel, barges, ferry boats, tugboats and similar watercraft PHP2,000; airplane/aircraft PHP5,000. The section applies to vehicles used by manufacturers, producers, wholesalers, dealers or retailers in delivery/distribution of the listed products and goods within the City. Preserve the six-wheel row wording when classifying a vehicle."
+  ]
+}

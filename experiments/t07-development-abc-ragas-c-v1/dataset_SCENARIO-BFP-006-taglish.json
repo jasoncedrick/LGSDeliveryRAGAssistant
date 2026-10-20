@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Kailangan ba na accredited brand ng BFP ang bibilhing fire extinguisher, at pwede bang magbenta ang inspector ng bombero?"
+  ],
+  "answer": [
+    "Wala kaayong kailangan nga accredited brand ang bibilhin ang fire extinguisher, kay wala ang BFP na nagpapresyo sa mga brand ng fire extinguisher at wala rin ang mga BFP personnel na magbenta ng bombero ([S1]). Ang mga BFP personnel ay hindi rin pwedeng magrekomenda ng isang spesifiko brand ng fire extinguisher ([S1]). Ang mga irregularidad sa pagbili at pagrekomenda ng fire extinguisher ay maaaring i-report sa mga contact numbers na nakalista sa isang pamamaraan na nakalagay sa isang pamamaraan ng BFP ([S2])."
+  ],
+  "contexts": [
+    [
+      "REDIT” nor Recommend any Brand, Store or Distributor of Fire\nExtinguisher and Fire Fighting Equipment\nAs per BFP Memorandum Circular No. 2016-016\nProhibition of BFP Personnel from Engaging in any act of impropriety and/or corruption pertaining to the enforce-\nment and implementation of the Fire Code and providing sanction thereof.\nHow to file a complaint\nTo file a complaint against the BFP or any of its personnel, the Client/Customer should provide the  following details via \nemail or other form of",
+      "applied in Fire\nStation/Lone District\nFire Office)\nThree (3) set of the  following documents\n\n[IMAGE PANEL TRANSCRIPTION — BFP PDF page 1]\nWARNING: BFP PERSONNEL ARE PROHIBITED FROM SELLING OR RECOMMENDING SPECIFIC BRAND OF FIRE EXTINGUISHER.\nREPORT SUCH IRREGULARITY AT THE FOLLOWING CONTACT NUMBERS:\nOFFICE OF THE CHIEF, BFP\nDirect line 426-43-99 Trunk line 426-02-19/426-02-46 Local 7",
+      "s, etc.) as a prerequisite for the\nissuance of appropriate permits and licenses\nfrom the local and other government agencies\nconcerned.\n\nCHECKLIST OF\nREQUIREMENTS/\nDOCUMENTS\nBFP FRONT LINE SERVICES\nFIRE SAFETY  \nEVALUATION \nCLEARANCE\n(FSEC)\nAPPLICATION\nFIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION\nCERTIFICATE OF\nOCCUPANCY\nNEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPAN"
+    ]
+  ],
+  "ground_truth": [
+    "The BFP public warning says it does not accredit or recommend any brand, store or distributor of fire extinguishers/fire-fighting equipment. Its warning prohibits personnel from selling or recommending a specific fire-extinguisher brand.\n\nThe image panel says portable fire extinguishers are regulated by DTI through BPS and that each type must comply with appropriate Philippine National Standards for product safety/reliability. This supports no BFP brand accreditation; it should not be expanded into a claim that any product is suitable regardless of type or hazard."
+  ]
+}

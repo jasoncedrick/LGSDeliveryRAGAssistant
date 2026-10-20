@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga facility requirements ug pila ang bayad sa ICAB accreditation para sa pisonet o internet cafe?"
+  ],
+  "answer": [
+    "Ang mga facility requirements sa ICAB accreditation para sa pisonet o internet cafe ay nakalistado sa [S1] at [S3]. Ang mga ito ay:\n\n1. Half-closed cubicle with not more than 5 feet from the floor (Internet Cafe only) - [S3]\n2. Internet Service Provider (ISP Contract, Certification or Current Receipt of Payment) - [S3]\n3. Sketch Map of Business Location (1 original) - [S3]\n\nAng bayad para sa ICAB accreditation ay nakalabas sa [S1]:\n\n* PHP100.00 for the first 10 units\n* PHP10.00 for every unit after the first 10 - [S1]\n\nAng mga ito ay maaaring ibayad sa City Treasurer’s Office."
+  ],
+  "contexts": [
+    [
+      "and ICAB \nAccreditation with \nOrder of Payment \nfor Accreditation if \ncompliant\nNone\n2 Days\nLicensing Officer\nwith massive\ninspectors\n* For Internet \nCafé and \nPisonet \nOwners: \n5. Proceed to \nCity \nTreasurer’s \nOffice for ICAB \nAccreditation \nfee\n5. Receive \nPayment and Order \nof Payment and \nRelease Official \nReceipt\nPHP100.00 \nfor the first \n10 units and \nPHP10.00 \nfor every\nunit\n10 Minutes\n(May be done on the\nsame day Internet\nAccreditation is\nreceived depending\non the will of the\napplicant)\nLocal Re",
+      "8. Ocular Inspection and ICAB Inspection\nBusiness activities being applied will be validated through ocular inspections. For Internet \nCafes, this procedure intends to issue Internet Café Accreditation to internet cafes and \ncoin operated internet machine business operators who are compliant with internet café \nregulation requirement. Internet Café Accreditation is a specific requirement for the \nissuance of Business Permit. \nOffice or \nDivision\nCity Mayor's Office – Permits & Licenses Division\nClassification Simple (Regular), Complex (Complaint), Highly Technic",
+      ", notarized by any Notary Public\n3. Official Receipt for Internet Café \nAccreditation \nBoard \n(ICAB)\nAccreditation (1 original)\nRevenue Collection Officer, City Treasurer’s Office\n4. Sketch Map of Business Location \n(1 original)\nApplicant\n5. Compliance of the following ICAB \nrequirements:\nApplicant\nInternet \nService \nProvider \n(ISP\nContract, Certification or Current \nReceipt of Payment\nApplicant\nHalf-closed cubicle with not more \nthan 5 feet from the floor (Internet \nCafe only)\nApplicant"
+    ]
+  ],
+  "ground_truth": [
+    "The ICAB checklist includes an ISP contract, certification or current receipt of payment; half-closed cubicles not more than 5 feet from the floor apply to Internet Cafes only. Lighting must be at least 25 Lux for fluorescent/LED lights or 50 Lux for incandescent lights. A warning sign at least 12 x 18 inches must state: no pornography, no gambling, no hacking, no minors prior to 6:00 AM and beyond 9:00 PM, and students may not play games during prescribed school hours. A system must block or filter pornographic sites/content; permanently fixed webcams are required for Internet Cafes only. The checklist also prohibits selling and consuming intoxicating drinks and cigarettes on the premises and lists a copy of ICAB ordinances 227-04, 0387-12 and 0270-15, as amended. Headphones, a urinal for 30 units and below, and separate male and female CRs for 31 units and above are listed for Internet Cafes only. For Internet Cafe and Pisonet owners, the fee cell states \"PHP100.00 for the first 10 units and PHP10.00 for every unit\". This wording is preserved without interpreting \"every unit\" as \"each additional unit\"."
+  ]
+}

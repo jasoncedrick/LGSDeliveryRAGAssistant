@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang mga kailangang dokumento at fee kapag maglilipat ng ownership ng business permit sa Davao?"
+  ],
+  "answer": [
+    "To transfer the ownership of a business permit in Davao City, the following documents and fees are required:\n\n1. For the transfer of ownership, the applicant needs to submit the application [S1: DEV120-BB-PDF0045-C003].\n\n2. The Business Permit is granted for a period of not more than one (1 year) and shall expire on the 31st of December [S2: DEV120-BB-PDF0015-C001]. The Mayors Permit Fee is based on the asset size and nature of business, and a service fee of Php 50.00 is charged for Amendment of Business Permit (paid at the City Treasurer’s Office) [S3: DEV120-BB-PDF0041-C001]. The total processing time is approximately 1 hour and 55 minutes."
+  ],
+  "contexts": [
+    [
+      "Business Permit at the\n3.1 Receive \nApplications \nfor Transfer of \nOwnership \nand Complete \nAttachments / \nDocuments\nNone \n10 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau",
+      "2. Issuance of Business Permit \nIt shall be unlawful for any person or entity to conduct or engage in any business, \ntrade or occupation within the territorial jurisdiction of the City of Davao for which a \npermit is required for the proper supervision and enforcement of existing laws and \nordinances without first having secured a permit therefore from the City Mayor and \npaying the necessary fees to the City Treasurer.\nThe Business Permit is granted for a period of not more than one (1) year and shall \nexpire on the thirty-first (31st) of December",
+      "OIC), Business\nBureau\n3.6.  Release \nBusiness permit \nand documents to \nthe client\nNone \n10 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau\n3.7. Request the \nclient to sign in \nthe logbook\nNone \n6 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau\nTOTAL:\nMayor’s\nPermit Fee\nis\nbased on\nthe\nasset size  \nand nature\nof\nbusiness.  \nService fee\nis Php \n50.00\nfor\nAmendment\nof\nBusiness\nPermit.\n(paid at the\nCity\nTreasurer’s\nOffice).\nPls. See\nSchedule of\nFees and \nCharges\n1 Hour and \n55 Minutes\nF. A"
+    ]
+  ],
+  "ground_truth": [
+    "Transfer of business ownership requires an Application for Transfer of Ownership, notarized Deed of Transfer/Sale/Assignment, SPA or Board Resolution, valid IDs, property proof (Tax Declaration/Lease Contract), current original Mayor's Permit, and new DTI/SEC/CDA registration. A PHP 50.00 service fee applies."
+  ]
+}

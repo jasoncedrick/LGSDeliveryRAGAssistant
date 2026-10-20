@@ -1,0 +1,43 @@
+{
+  "task": "T06",
+  "tracker_requirement": [
+    "T06",
+    "Sprint 2",
+    "Chapter 3",
+    "Code Automated Evaluation Harness Loop (Hit Rate, MRR, RAGAS)",
+    "2026-09-18 00:00:00",
+    "2026-09-24 00:00:00",
+    "Complete",
+    "High",
+    "Python script for batch pipeline evaluation",
+    "Python script for batch pipeline evaluation",
+    "Batch evaluation pipeline supporting paired test runs."
+  ],
+  "completion": "COMPLETE_IMPLEMENTATION_WITH_DOCUMENTED_EVALUATOR_LIMITATIONS",
+  "completion_scope": "Code automated batch harness supporting paired runs, Hit Rate/MRR and offline RAGAS, archived inputs/outputs/context, explicit failure and clarification handling, evaluator version/provenance, and reproducible checks.",
+  "not_claimed": [
+    "Independent expert validation",
+    "Error-free LLM judging",
+    "Final T07 frozen held-out evaluation",
+    "Production corpus certification"
+  ],
+  "validation": {
+    "unit_tests_passed": 21,
+    "new_RAGAS_adapter_tests": 4,
+    "calibration_controls": 60,
+    "calibration_agreement_after_format_retries": 55,
+    "valid_after_format_retries": 59,
+    "false_positives": 4,
+    "invalid_remaining": 1,
+    "real_RAGAS_BFP002_integration_score": 0.0
+  },
+  "default_evaluator_changed": false,
+  "v2_opt_in_flag": "--context-precision-v2",
+  "old_scores_preserved": true,
+  "app_defaults_changed": false,
+  "held_out_accessed": false,
+  "T07": "PENDING_CONSISTENT_RESCORE_AND_FREEZE_THEN_HELD_OUT_COMPARISON",
+  "manuscript_sha256": "628193ea55abc364c06dd3251a79126fa55ca2af2cb9d23e25cb584e7757f98a",
+  "tracker_authoritative_tab": "Thesis Tracker",
+  "timestamp": "2026-10-19T18:11:43.635699"
+}

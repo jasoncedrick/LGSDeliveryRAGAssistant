@@ -1,0 +1,16 @@
+{
+  "before_after.diff": "991ac3f8b3b27b87452e24ef60deb14bb8eef8092fb0f1cc2818c31b910e4b2d",
+  "claim_source_map.json": "b8424e1d9c48d5230c64d404c6af2da164bcecbd037261657caaa7ff5175d17d",
+  "group.before.json": "9d619697c7fdbde5d5e0667db72be4444c29e36e197a3d9226863a0ece6b19d4",
+  "group.candidate.json": "38ca615c9c5865e33c1c30952984a652249c7edb311980de8376fc78f60ed885",
+  "input_hashes.json": "f7fe4f6485af152493e0a2447b0ccf466615d362755f93dc60dd27bf674c8907",
+  "methodology_and_tracker.snapshot.json": "ee15440a4643968034d4a6451b999a4fadddb2399f6b882acd25943ff66d6281",
+  "pdf_page_65.png": "c2e6df4932e6e28f5f7efa247a3dc242ee04e6075e26ea0354e5633b30b05661",
+  "pdf_page_66.png": "c35ab46a3a2bb58bb0cea8a42aedcd0abb7f68d3bd737bc816da06fbe5fa9dad",
+  "pdf_page_67.png": "f02b27fdfbe805c35c83d28423b8f600cefe1e674912140abe48cde46e5eea47",
+  "READ_THIS_FIRST.txt": "58f5b2d6788a99ccaacca3eaef862a5399a5107fa4295f23acab9942cbd24a84",
+  "reference_candidate.txt": "9a0bf67084b6c00597a4bda19df6f614428b6d17930d584eeedd0ffaa2bf46c3",
+  "review.json": "36f4db4ef6b101ac78e87c434597fb387604a82f91513cff1b77bef782f5b012",
+  "supporting_chunks.json": "bbdb5bff6d7fd03c72aa6d08d5f366b2a2785e76e98472134f8718957de5d7e8",
+  "validation.json": "6708b9476493549c1df3df6ac7112311ff01551f49e90562ad290a72a4305c40"
+}

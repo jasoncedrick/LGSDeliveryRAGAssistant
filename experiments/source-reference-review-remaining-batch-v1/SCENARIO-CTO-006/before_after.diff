@@ -1,0 +1,26 @@
+--- group.before.json
++++ group.candidate.json
+@@ -3,15 +3,13 @@
+   "pillar": "City Treasurer's Office",
+   "split": "development",
+   "ground_truth_chunk_ids": [
+-    "DEV120-CTO-PDF0047-C001",
+-    "DEV120-CTO-PDF0047-C002",
+     "DEV120-CTO-PDF0048-C001",
+     "DEV120-CTO-PDF0048-C002",
+     "DEV120-CTO-PDF0048-C003",
+     "DEV120-CTO-PDF0048-C004",
+     "DEV120-CTO-PDF0048-C005"
+   ],
+-  "ground_truth_reference_answer": "Under Section 393 and 394 of Ordinance No. 0291-17, Community Tax (Cedula) is assessed as follows: For Individuals: Basic tax of PHP 5.00 plus an additional tax of PHP 1.00 for every PHP 1,000.00 of income derived from business, profession, or property, capped at a maximum of PHP 5,000.00. For Corporations: Basic annual tax of PHP 500.00 plus an additional tax of PHP 2.00 for every PHP 5,000.00 worth of real property owned in the Philippines and PHP 2.00 for every PHP 5,000.00 of gross receipts, capped at a maximum of PHP 10,000.00.",
++  "ground_truth_reference_answer": "Annex14 states an annual basic community tax of PHP5 for liable individuals plus an annual additional tax of PHP1 per PHP1,000 of income, with the additional tax capped at PHP5,000. For husband and wife the additional tax is based on their total property and total gross receipts/earnings. The cap is on additional tax, not the basic-plus-additional total.\n\nFor liable corporations, the basic annual tax is PHP500 plus additional tax capped at PHP10,000. The additional schedule is PHP2 per PHP5,000 of Philippine real-property value during the preceding year using the stated real-property-tax valuation, plus PHP2 per PHP5,000 of Philippine business gross receipts/earnings during the preceding year. Intercorporate dividends are included in gross receipts/earnings for this additional tax. The cap is on additional tax.",
+   "queries": {
+     "english": "What is the formula and statutory ceiling for computing individual and corporate Community Tax (Cedula) in Davao City?",
+     "taglish": "Paano kinukwenta ang Cedula para sa indibidwal at korporasyon sa Davao at magkano ang maximum limit?",
+@@ -24,5 +22,5 @@
+     "CHUNK-CTO-P203-C03",
+     "CHUNK-CTO-P203-C04"
+   ],
+-  "mapping_status": "PROVISIONAL_EXACT_SPAN_MAPPING"
++  "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED"
+ }

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Tagpila ang tinuig nga bayad sa mechanical inspection sa centralized air conditioning ug window type nga aircon?"
+  ],
+  "answer": [
+    "Sa centralized air conditioning systems, ang bayad sa mechanical inspection ay P40.00 per kW o fraction thereof ng blower o fan, o metriko-walo nga ekvivalente, bilang nabasa sa [S3]. Sa window type nga air conditioners, ang bayad sa mechanical inspection ay P60.00 per unit, bilang nabasa sa [S1]."
+  ],
+  "contexts": [
+    [
+      "to 100 tons capacity ..…...... ………………………………………..P 25.00\n(b) Above 100 tons up to 150 tons .…………………………………………. 20.00\n(c) Above 150 tons up to 300 tons ………………………………………….. 15.00\n(d) Above 300 tons up to 500 tons…….…. ……………………………….... 10.00\n(e) Every ton or fraction thereof above 500 tons…………..………………... 5.00\nii. Air Conditioning Systems:\nWindow type air conditioners, per unit …. …………………………….…. P 40.00\niii. Packaged or centralized air conditioning systems:\n(a",
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      ", per ton or fraction thereof \n60.00\nPackaged/Centralized Air Conditioning Systems: Up to 100 tons, per ton \n90.00\nEvery ton or fraction thereof above 100 tons \n40.00\nWindow type air conditioners, per unit \n60.00\nMechanical Ventilation, per kW or fraction thereof of blower or fan, or \nmetric equivalent\n40.00\nIn a series of AC/REF systems located in one establishment, the total installed tons of \nrefrigeration shall be used as the basis of computation for purposes of \ninstallation/inspection fees"
+    ]
+  ],
+  "ground_truth": [
+    "Annual mechanical inspection fees for centralized air conditioning are: PHP 25.00/ton for the first 100 tons, PHP 20.00/ton for 100-150 tons, and PHP 8.00/ton above 500 tons. Window type air conditioners are assessed PHP 40.00 per unit."
+  ]
+}

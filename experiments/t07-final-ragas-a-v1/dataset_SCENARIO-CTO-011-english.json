@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What is the graduated business tax rate applied to manufacturing and food processing businesses exceeding PHP 6.5 million in gross sales?"
+  ],
+  "answer": [
+    "Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa tanan nga mga negosyo nga nakahimo sa manufacturing ug food processing na nagkahiusa sa PHP 6,500,000.00 sa gross sales. Ang Citizens' Charter wala nga nakahimo sa mga nakahiusa sa manufacturing ug food processing businesses na ito. [S1, S2]"
+  ],
+  "contexts": [
+    [
+      "Valid and Existing Dealership \nAgreement, tax rate is as follows:\nSPARE PARTS:\nFrom \nTo Less Than \nAnnual Tax\n0 \nPhp 10,000,000.00 \n2.2%\nPhp 10,000,000.00 \nPhp 20,000,000.00 \nPhp 220,000.00 plus \n1.65% of gross receipts in \nexcess of Php \n10,000,000.00\nPhp 20,000,000.00 \nPhp 30,000,000.00 \nPhp 385,000.00 plus 1.1% \nof gross receipts in excess \nof Php 20,000,000.00\nPhp 30,000,000.00 \nand above \nPhp 495,000.00",
+      "the total sales and shall be \nsubject to the rates not exceeding one-half (1/2) of the rates prescribed under paragraphs \n(a), (b), and (d) of this Article.\n(d) On Retailers:\nGross Sales/Receipts for the Preceding Year \nRate of Tax Per Annum\nMore than P50,000.00 but not over P400,000.00 \n2.2%\nIn excess of P400,000.00 \n1.21%\nHowever, barangays shall have the exclusive power to levy taxes on stores whose \ngross sales or receipts of the preceding",
+      "receipts in excess of Php \n100,000,000.00\nPhp 2,000,000,000.00 \nPhp 3,000,000,000.00 \nPhp 12,402,500.00 plus \n22.0% of 1.0% of gross \nreceipt in excess of Php \n2,000,000,000.00\nPhp 3,000,000,000.00 \nand above \nPhp 14,602,500.00 plus \n11% of 1.0% of gross \nreceipts in excess of Php \n3,000,000,000.00\ni.2 On Spare Parts and Services of Car Dealers with Valid and Existing Dealership \nAgreement, tax rate is as follows:\nSPARE"
+    ]
+  ],
+  "ground_truth": [
+    "Manufacturers, assemblers, and processors are subject to graduated fixed taxes ranging from PHP 1,497.38 for gross sales under PHP 50,000 up to PHP 44,240.63 for sales up to PHP 6.5M. Gross sales in excess of PHP 6,500,000.00 are taxed at 46% of 1.0%."
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_order.json": "d41d9d86c6ab476104661fbff7c62eb2fbb7a3bafc63210ee417fb27ffca636a",
+  "normalized_score_vectors.npz": "18cc2021508afe0b028c0dcc6f55d4c506aa9a9f7d9bec8e803af25ebc2d11cb",
+  "protocol.json": "c94578891eb3ee2a8bf5c896e97fa86e90dbf4526405f264def04269a9278bf4",
+  "rankings.jsonl": "a24b2925b24fd231ee53481b8ea0fb958009980f2d9ac878a5197d560cb743ca",
+  "retrieval_diagnostics.csv": "d5b2468ad7c049309cbe290113725744cfeea15515ea430f54d24685cd0d5e3c",
+  "validation.json": "6bda6736c6f03242605a4b8f1bb23978796b1df2a5912f533103ee10d2ea6bde"
+}

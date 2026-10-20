@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What documents are required to renew the Certificate of Annual Mechanical Inspection and Certificate to Operate?"
+  ],
+  "answer": [
+    "Based on the provided sources [S1] and [S3], the documents required to renew the Certificate of Annual Mechanical Inspection are not explicitly stated. However, for the Certificate of Annual Mechanical Inspection, the renewal process involves an annual inspection of a building/structure to ensure that mechanical systems coincide with the approved plans and conform with the safety standards and other provisions of the Code and its Revised Implementing Rules and Regulations [S1].\n\nRegarding the Certificate to Operate, it is not explicitly mentioned in the provided sources. However, it is possible that the Certificate to Operate might require similar documents as the Certificate of Annual Mechanical Inspection, such as proof of compliance with the safety standards and approved plans.\n\nFor the fees associated with the Annual Mechanical Inspection, refer to [S3] under the section \"ISSUANCE OF CERTIFICATE OF ANNUAL INSPECTION FOR MECHANICAL NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE REVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL BUILDING CODE OF THE PHILIPPINES (PD 1096)\"."
+  ],
+  "contexts": [
+    [
+      "14. Issuance of Certificate of Annual Mechanical Inspection\nA Certificate of Annual Mechanical Inspection is issued after conducting an annual inspection of a \nbuilding/structure to ensure that mechanical systems coincide with the approved plans and conform \nwith the safety standards and other provisions of the Code and its Revised Implementing Rules and \nRegulations\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; G2G – \nGovernment",
+      "15. Issuance of Certificate of Annual Inspection of Buildings\nA Certificate of Annual Electrical Inspection is issued after conducting an annual inspection of a \nbuilding/structure to ensure that the architectural well-being, structural stability, electrical, \nmechanical sanitation, plumbing, electronics, interior design, and fire protective properties are \nproperly maintained and that the building/structure is not occupied or used for purposes other than \nits intended use.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHigh",
+      "ISSUANCE OF CERTIFICATE OF ANNUAL INSPECTION FOR MECHANICAL NEW \nSCHEDULE OF FEES AND OTHER CHARGES OF THE REVISED IMPLEMENTING \nRULES AND REGULATIONS (IRR) OF THE NATIONAL BUILDING CODE OF THE \nPHILIPPINES (PD 1096)\nf. Annual Mechanical Inspection Fees:\ni. Refrigeration and Ice Plant, per ton:\n(a) Up to 100 tons capacity ..…...... ………………………………………..P 25.00\n(b) Above 100 tons"
+    ]
+  ],
+  "ground_truth": [
+    "Annual Mechanical Inspection ensures mechanical systems comply with safety standards. Applying requires an inspection notice signed by the mechanical inspector, request letter, and a photocopy of the previous Certificate to Operate. The certificate is released after verification and payment."
+  ]
+}

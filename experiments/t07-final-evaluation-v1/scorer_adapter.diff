@@ -1,0 +1,114 @@
+--- legacy_development_scorer
++++ registered_final_scorer
+@@ -1,4 +1,4 @@
+-"""Offline local RAGAS scoring of archived development interactions; no serving filter."""
++"""Registered held-out RAGAS scoring; same metrics and legacy prompts, explicit nulls."""
+ import argparse
+ import csv
+ import copy
+@@ -17,6 +17,30 @@
+     except (ValueError,TypeError):return None
+ 
+ 
++
++def validate_final_source(source, protocol, args):
++    registration=ROOT/'experiments/t07-final-evaluation-v1'
++    if source.parent!=registration or source.name not in ('A','B','C'):
++        raise ValueError('Only the registered final A/B/C archive is accepted')
++    if protocol.get('held_out_accessed') is not True or protocol.get('freeze') is not True:
++        raise ValueError('Final source must carry its registered freeze')
++    if args.context_precision_v2 or args.record_id or args.judge_output_tokens!=4096 or args.judge_timeout!=600:
++        raise ValueError('Use the registered evaluator/settings and complete configuration')
++    if not args.strict_metric_json or not args.strict_recall_json or args.strict_faithfulness_json:
++        raise ValueError('Evaluator flags differ from registered legacy protocol')
++    if args.metrics!=['faithfulness','context_precision','context_recall','answer_relevancy']:
++        raise ValueError('Score all registered metrics in order')
++    manifest=json.loads((registration/'execution_manifest.json').read_text(encoding='utf-8'))
++    seal=json.loads((registration/'execution_manifest.seal.json').read_text(encoding='utf-8'))
++    digest=lambda p:hashlib.sha256(p.read_bytes()).hexdigest()
++    if digest(registration/'execution_manifest.json')!=seal['sha256']:
++        raise ValueError('Execution registration seal changed')
++    for name,value in manifest['execution_code_hashes'].items():
++        if digest(ROOT/name)!=value:raise ValueError('Frozen execution code changed: '+name)
++    archive=source/args.archive_file
++    if digest(archive)!=json.loads((source/'archive_seal.json').read_text(encoding='utf-8'))['sha256']:
++        raise ValueError('Final generation archive changed')
++
+ def main(args):
+     import torch
+     from datasets import Dataset
+@@ -31,18 +55,24 @@
+         if args.input_subdir not in ('A','B','C'):raise ValueError('Only paired A/B/C subfolders are supported')
+         source=source/args.input_subdir
+     output=ROOT/'experiments'/args.output_name
+-    if any(Path(n).name!=n for n in [args.input_name,args.output_name]) or output.exists():raise ValueError('Use experiment names and fresh output')
++    if any(Path(n).name!=n for n in [args.input_name,args.output_name]) :raise ValueError('Use experiment names')
+     protocol_path=source/'protocol.json'
+     if not protocol_path.exists():protocol_path=source/'summary.json'
+     protocol=json.loads(protocol_path.read_text(encoding='utf-8'))
+-    if protocol.get('held_out_accessed') is not False:raise ValueError('Only development archives accepted')
++    validate_final_source(source, protocol, args)
+     if Path(args.archive_file).name!=args.archive_file:raise ValueError('Use an archive filename')
+     archive=source/args.archive_file
+     records=[json.loads(line) for line in archive.read_text(encoding='utf-8').splitlines()]
+     selected=[r for r in records if not args.record_id or r['record_id']==args.record_id]
+     if not selected:raise ValueError('No matching archived record')
+-    output.mkdir()
+-    write=lambda name,value:(output/name).write_text(json.dumps(value,ensure_ascii=False,indent=2,allow_nan=False),encoding='utf-8')
++    output.mkdir(exist_ok=True)
++    def write(name,value):
++        if name=='protocol.json' and (output/name).exists():
++            if json.loads((output/name).read_text(encoding='utf-8'))!=value:raise ValueError('Cannot resume changed scoring protocol')
++            return
++        temporary=output/(name+'.tmp')
++        temporary.write_text(json.dumps(value,ensure_ascii=False,indent=2,allow_nan=False),encoding='utf-8')
++        temporary.replace(output/name)
+     class AuditCallback(BaseCallbackHandler):
+         def on_llm_start(self,serialized,prompts,**kwargs):
+             self.save({'event':'judge_prompt','prompts':prompts})
+@@ -94,25 +124,32 @@
+             def embed_documents(self,texts):return model.encode(texts,normalize_embeddings=True).tolist()
+             def embed_query(self,text):return self.embed_documents([text])[0]
+         embeddings=LangchainEmbeddingsWrapper(CachedEmbeddings())
+-    write('protocol.json',{'scope':'Offline archived development evaluation; no runtime filtering or final benchmark claims',
++    write('protocol.json',{'scope':'Registered held-out A/B/C evaluation; no runtime filtering or test-guided tuning',
+           'ragas_version':importlib.metadata.version('ragas'),'judge_model':'eboss-mistral','metrics':args.metrics,
+           'input_archive':str(archive),'input_sha256':hashlib.sha256(archive.read_bytes()).hexdigest(),
+           'record_ids':[r['record_id'] for r in selected],'generation_failures_retained_in_original_archive':True,
+           'reference':'Archived reference answer if available, otherwise source evidence fragments; preserve declared reference status.',
+-          'same_generator_and_judge_model':True,'max_workers':1,'max_retries':0,'held_out_accessed':False,
++          'same_generator_and_judge_model':True,'max_workers':1,'max_retries':0,'held_out_accessed':True,
+           'judge_output_tokens':args.judge_output_tokens,'judge_timeout':args.judge_timeout,
+           'faithfulness_schema_instruction':faithfulness_schema_instruction,
+           'context_precision_evaluator':context_precision_evaluator,
+           'context_recall_schema_instruction':recall_schema_instruction,
+           'metric_output_contract':format_contract})
+-    scored=[]
++    scored=json.loads((output/'scores.json').read_text(encoding='utf-8')) if (output/'scores.json').exists() else []
++    completed={r['record_id'] for r in scored}
++    attempted=set()
++    if (output/'judge_calls.jsonl').exists():
++        attempted={json.loads(line)['record_id'] for line in (output/'judge_calls.jsonl').read_text(encoding='utf-8').splitlines() if json.loads(line).get('event')=='judge_prompt'}
+     for r in selected:
++        if r['record_id'] in completed:continue
+         current_record_id=r['record_id']
+         item={'record_id':r['record_id'],'generation_status':r['status'],'scores':{},
+               'language':r.get('language'),'group_id':r.get('question_group_id'),'pillar':r.get('pillar')}
+         reference=r.get('reference_answer') or '\n'.join(' '.join(group) for group in r.get('reference_evidence_groups',[]))
+         item['reference_status']=r.get('reference_status','unspecified')
+-        if r.get('status')!='ANSWERED' or not r.get('answer') or not reference:
++        if r['record_id'] in attempted:
++            item.update(status='SCORING_ERROR',scores={m:None for m in args.metrics},error='Interrupted judge attempt preserved; no automatic retry')
++        elif r.get('status')!='ANSWERED' or not r.get('answer') or not reference:
+             item.update(status='NOT_SCORED',reason='Requires completed answer and reference; original record retained')
+         else:
+             data={'question':[r['question']],'answer':[r['answer']],
+@@ -144,7 +181,7 @@
+           'limits':['Local 7B judge may fail structured-output parsing; null scores are not zeros.',
+                     'Same-model judging can introduce bias.','Means exclude nulls and skipped records; inspect metric-specific denominators.',
+                     'Reference provenance is recorded per interaction; source review and user interpretation do not constitute independent expert certification.',
+-                    'Generation K and configuration are recorded in the source protocol; development scoring is not frozen held-out evaluation or independent expert certification.']})
++                    'Generation K, configuration and freeze are registered; automated judge scores are not independent expert certification.']})
+     write('hashes.json',{p.name:hashlib.sha256(p.read_bytes()).hexdigest() for p in output.iterdir() if p.is_file()})
+ 
+ 

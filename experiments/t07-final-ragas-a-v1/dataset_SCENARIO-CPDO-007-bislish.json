@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga rekisitos ug tagpila ang bayad sa CPDO para sa validation sa Occupancy Permit sa 3 ka andana pataas nga building?"
+  ],
+  "answer": [
+    "Sa CPDO, ang mga rekisito sa validation sa Occupancy Permit sa 3 ka andana pataas nga building ay nakatanggap sa chunk DEV120-CPDO-PDF0005-C001 sa source file City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf. Wala nga bayad sa validation ng Occupancy Permit, kay wala nga nakit-an nga bayad sa rekisito na iyon sa chunk na iyon. Ang validation lang ang kinahanglan para sa 3-storey buildings and above at building floor area of 1,500 square meters and above. Para sa ibang mga detalye, mao na ang chunk na iyon:\n\n2.\nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (3-Storey Buildings and Above and\n1,500 Building Floor Area and Above)\nFor 3-storey buildings and above and for building floor area of 1,500 square meters\nand above only.\n\nThe validation of the Locational Clearance issued by the Office of the City Planning &\nDevelopment Coordinator.\nOffice or Division\nCity Planning and Development Office (CPDO) – Zoning Enforcement Division\nClassification\nComplex\nType of Transaction\n\nWala nga bayad sa validation ng Occupancy Permit, kay wala nga nakit-an nga bayad sa rekisito na iyon sa chunk na iyon. Ang validation lang ang kinahanglan para sa 3-storey buildings and above at building floor area of 1,500 square meters and above. Para sa ibang mga detalye, mao na ang chunk na iyon:\n\n2.\nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (3-Storey Buildings and Above and\n1,500 Building Floor Area and Above)\nFor 3-storey buildings and above and for building floor area of 1,500 square meters\nand above only.\n\nThe validation of the Locational Clearance issued by the Office of the City Planning &\nDevelopment Coordinator.\nOffice or Division\nCity Planning and Development Office (CPDO) – Zoning Enforcement Division\nClassification\nComplex\nType of Transaction"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "CPDO\n3.9 Forwards \ndocuments to \nCPDO Admin for \nreleasing\nNone \n5 Minutes \n \nZoning Officer\nIV\nCPDO\n4. Claims the \nvalidated \noccupancy permit\n4. Releases \ndocuments\nNone \n5 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\nTOTAL: \nPHP \n150.00\n3 Days, 2\nHours, and 10\nMinutes",
+      "2. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (3-Storey Buildings and Above and \n1,500 Building Floor Area and Above) \nFor 3-storey buildings and above and for building floor area of 1,500 square meters \nand above only.  \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nComplex\nType of Trans"
+    ]
+  ],
+  "ground_truth": [
+    "Validation of Occupancy Permit for buildings 3-storeys and above or floor area of 1,500 sq.m. and above requires approved building plans, approved building permit, Certificate of Occupancy form, locational clearance, and site photos. A PHP 150.00 filing fee is paid to CTO."
+  ]
+}

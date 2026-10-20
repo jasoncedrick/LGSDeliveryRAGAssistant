@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ang bayad sa annual fixed tax sa City Treasurer para sa delivery van, truck, o motor nga ginagamit sa negosyo?"
+  ],
+  "answer": [
+    "Sa annual fixed tax sa delivery van, truck, o motor ginagamit sa negosyo, wala nakit-an nga impormasyon bahin sa Citizens' Charter ng City Treasurer. Ang bayad sa annual fixed tax ay hindi nakalalabas sa mga nakalagay sa mga nabanggit na source blocks. [S2] [S3]"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "ANNEX – 15\nSection 72. Imposition of Tax. - There is hereby imposed an annual fixed tax for every \ndelivery vehicle, truck, van, or any motor vehicle, vessels or watercraft used by \nmanufacturers, producers, wholesalers, dealers or retailers in the delivery or distribution \nof distilled spirits, fermented liquors, soft drinks, cigars and cigarettes and other essential \nproducts and sales of goods as may hereinafter be determined by the Sangguniang \nPanlungsod to sales outlets or consumer",
+      "Assessment \nDivision, City \nTreasurer’s \nOffice, \nSangguniang \nPanlungsod, to \nassess and \npay fees, and \nsecure an \nOfficial Receipt \nand \nCommunity \nTax Certificate \n(Cedula).\nReceipts, \nand process \nthe Cedula.\nCode of\nthe City of\nDavao\nOrdinance \nNo. 0291- \n17, series \nof 2017, \nsection 72\n–\nImposition \nof Tax on\nAnnual\nFixed Tax\nfor\nDelivery \nVehicle;\nSection 76\n–\nGraduated\nTax on \nBusiness\nLocal Treasury\nOperations\nOfficer I/Local\nRevenue\nCollection Officer \nI/Local Revenue \nCollection Officer \nI/Local Revenue"
+    ]
+  ],
+  "ground_truth": [
+    "Annex15, Section72 lists annual fixed delivery-vehicle taxes: motorcycle/motorized tricycle PHP240; delivery jeepney/similar utility vehicle PHP600; truck, van, or any vehicle with six wheels and above PHP1,000; water vessel, barges, ferry boats, tugboats and similar watercraft PHP2,000; airplane/aircraft PHP5,000. The section applies to vehicles used by manufacturers, producers, wholesalers, dealers or retailers in delivery/distribution of the listed products and goods within the City. Preserve the six-wheel row wording when classifying a vehicle."
+  ]
+}

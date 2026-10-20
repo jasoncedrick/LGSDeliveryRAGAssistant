@@ -1,0 +1,18 @@
+{
+  "question": [
+    "How are rental fees calculated for public market stalls, and what surcharges apply to front corner booths?"
+  ],
+  "answer": [
+    "The rental fees for public market stalls are calculated based on the market class and the size of the stall, as specified in [S3]. For Class D stalls, the rate per square meter per day is PHP 5.40.\n\nFor better located stalls or booths, such as those facing the street or corner booths, additional surcharges apply. The surcharge for front corner stalls or booths is 20% of the rates imposed, as stated in [S2]. The exact surcharge amount would depend on the base rate for the specific stall or booth.\n\nFor further details and the rates for other market classes, please refer to the City Treasurer's Citizen Charter 2026_VOL.I & II-2.pdf, specifically pages 198 and 199, chunks DEV120-CTO-PDF0043-C002 and DEV120-CTO-PDF0044-C002."
+  ],
+  "contexts": [
+    [
+      "months.\nClass D \nThose with an average monthly income of less than P \n700,000.00 during the preceding six (6) months.\nSection 348\nMARKET RENTAL FEES, OTHER CHARGES\nThat for better located stall/stalls or booth/booths such as those facing the street or \nthose corner booth/stalls, the following will be added to the above-prescribed fees, as \nfollows:\n1. Front corner stall/stalls or\nbooth/booths  \n20% of the rates imposed\n2. Front stall/stalls or",
+      "booth/booths  \n20% of the rates imposed\n2. Front stall/stalls or booth/booths \n15% of the rates imposed\n3. Inside corner stall/stalls of\nbooth/booths \n10% of the rates imposed\nThere shall be an automatic increase of fifteen percent (15%) effective 2018 and \nevery four (4) years thereafter to be computed based on the existing rates of fees to the \nincreasing cost of maintenance operations.\nMarket Rental Fees\nPer Square Meter Per Day\nClass A \nClass B \nClass C \nClass D\n1. Meat \nP 4",
+      "80 \n6.80 \n5.40\n11. Miscellaneous and all other\nPermanent stalls/booths \nspecial services not subject \nto any particular market fee \nbut shall pay rental fees for \noccupancy\n16.00 \n10.80 \n6.80 \n5.40\nThere shall be collected from persons, corporations, partnerships or entities offering \nfor sale merchandise in jeepneys, pick-ups, trucks, bancas, fishing boats or any other \nconveyances including wholesalers and suppliers parked or displayed at or within the \nvicinities of the public markets or in"
+    ]
+  ],
+  "ground_truth": [
+    "Public market rental rates vary by classification and section (e.g., Meat Class A is PHP 40.00/sq.m./day; Class D is PHP 13.50). Additional location surcharges apply: 20% for front corner stalls, 15% for front stalls, and 10% for inside corner stalls."
+  ]
+}

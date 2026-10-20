@@ -1,0 +1,25 @@
+[
+  {
+    "claim": "The BFP charter classifies Simple transactions as processed within 1 day, Complex within 3 days, and Highly Technical within 7 days. It directs readers to JMC2021-01 for classification coverage. The source says days, not working days, and identifies FIRE STATION/OSCP/BOSS.",
+    "evidence": [
+      {
+        "source_page_id": "BFP-PDF0001",
+        "pdf_relative_page": 1,
+        "printed_page": null,
+        "source_span": "OFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION - TRANSACTION PROCESSED WITHIN ONE (1) DAY \n2. COMPLEX TRANSACTION - TRANSACTION PROCESSED WITHIN THREE (3) DAYS \n3. HIGHLY TECHNICAL TRANSACTION - TRANSACTION PROCESSED WITHIN SEVEN (7) DAYS\nNOTE: For the coverage of Simple, Complex and Highly Technical Transactions refer to Joint Memorandum Circular (JMC) No. 2021-01  \nSeries of 2021 “Amending the DILG-DPWH-DICT-DTI JMC No. 2018-01 or the Guidelines in the Processing of Construction-Related Permits”\nTYPE OF TRANSACTION",
+        "char_start": 261,
+        "char_end": 806,
+        "supporting_chunk_ids": [
+          "DEV120-BFP-PDF0001-C001",
+          "DEV120-BFP-PDF0001-C002",
+          "DEV120-BFP-PDF0001-C003"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-BFP-PDF0001-C001",
+      "DEV120-BFP-PDF0001-C002",
+      "DEV120-BFP-PDF0001-C003"
+    ]
+  }
+]

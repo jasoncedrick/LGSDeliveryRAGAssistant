@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What is the purpose of a Certificate of Completion of Subdivision and which body inspects it before endorsement to DHSUD?"
+  ],
+  "answer": [
+    "The purpose of a Certificate of Completion of Subdivision is to endorse a subdivision application that has been completed based on the approved plan to the Housing and Land Use Regulatory Board (HLURB). Before endorsement to DHSUD, it is inspected by the City Housing Land Use and Regulatory Unit (CHLURU) [S1]."
+  ],
+  "contexts": [
+    [
+      "16. Certificate of Completion of Subdivision \nA resolution of the City Housing Land Use and Regulatory Unit (CHLURU) favorably \nendorsing a subdivision application wherein the project has been completed based on \nthe approved plan to the HLURB. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nHighly Technical\nType of Transaction \nG2G – Government to Government; G2B – \nGovernment to Business; G2C – Government to \nCitizen\nWho may avail \nProperty Owner or Authorized Representa",
+      "2. Issuance of Business Permit \nIt shall be unlawful for any person or entity to conduct or engage in any business, \ntrade or occupation within the territorial jurisdiction of the City of Davao for which a \npermit is required for the proper supervision and enforcement of existing laws and \nordinances without first having secured a permit therefore from the City Mayor and \npaying the necessary fees to the City Treasurer.\nThe Business Permit is granted for a period of not more than one (1) year and shall \nexpire on the thirty-first (31st) of December",
+      "approval of \nresolution for \nCHLURU \nMembers \nsignature\nNone \nDepends \nupon the\navailability of \nthe CHLURU \nMembers (5)\nActing\nAdministrative\nOfficer  \nCPDO\n5.6 Upon \ncompletion of \nsignatures, \nprepares \nendorsement of \nthe application \nwith favorable \naction to \nSangguniang \nPanlungsod \nsigned by \nDepartment \nHead\nNone \n1 Day\nZoning\nOfficer IV\nCPDO\n5.7 CHLURU \nSecretariat \nencodes \nendorsement in \ndocument \ntracking system \nand indorses to \nZED\nNone \n5 Minutes\nZoning\nOfficer IV\nCPDO"
+    ]
+  ],
+  "ground_truth": [
+    "The Certificate of Completion of Subdivision (COC) is a resolution from the City Housing Land Use and Regulatory Unit (CHLURU) favorably endorsing to DHSUD/HLURB that the project has been fully completed according to approved engineering plans."
+  ]
+}

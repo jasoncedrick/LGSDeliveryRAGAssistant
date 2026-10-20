@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What is the annual deadline for Occupational Permit renewal in Davao City, and how much is the late penalty?"
+  ],
+  "answer": [
+    "The annual deadline for Occupational Permit renewal in Davao City is not explicitly stated in the provided sources. However, the late penalty for Occupational Permit renewal is Php 156.25, as stated in [S1] and [S3]. For the exact deadline, I would recommend checking the Davao City government's official website or contacting the Business Bureau directly.\n\n[S1]: Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf | printed page 106 | chunk DEV120-BB-PDF0067-C003\n[S3]: Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf | printed page 105 | chunk DEV120-BB-PDF0066-C001"
+  ],
+  "contexts": [
+    [
+      "nt to \nreapply.\nNone\n14 Minutes \n(Online and\nOnsite)\nOccupational\nPermit\nSection Head\nand\nOccupational\nPermit\nPersonnel\nBusiness \nBureau\nTOTAL:\nPhp125 \nfor new\nand\nupdated \nrenewal;\nPhp\n156.25 for\nlate\nrenewal\n33 Minutes",
+      "3.Receive \nOccupational Permit / \nDenied Application\nNote: \n If application is \napproved, proceed to \nhttps://occupationalper\nmit.davaocity.gov.ph/, \nselect Check \nApplication Status, and \ndownload the \nOccupational Permit, or \nproceed to the link \nautomatically sent by \nthe Online \nOccupational Permit \nSystem though e-mail \nor SMS and download \nthe Occupational \nPermit for online \napplicants. Physically \nclaim hard copy of \nOccupational Permit for \nwalk-in applicants.\nIn case of denial, \nreceive returned \ndocuments",
+      "checklist of \nrequirements to \napplicant, and pay the \namount specified in the \norder of payment to the \nCity Treasurer’s Office\n(also provided online), \nand Order of Payment\nPhp156.25\nfor late\nrenewal to \n(Payment \nto the City \nTreasurer’\ns Office)\nBusiness \nBureau\nProcess Proper:\n2. Duly fill-out \napplication form and \nsubmit required \ndocuments including \nofficial receipt (walk-\nin) or Login to \nhttps://occupationalp\nermit.davaocity.gov.p\nh/, select Create \nApplication for New \nor Occupational \nPermit"
+    ]
+  ],
+  "ground_truth": [
+    "Occupational Permits must be renewed annually on or before January 31. Late renewal incurs a 25% penalty, increasing the standard fee from PHP 125.00 to PHP 156.25."
+  ]
+}

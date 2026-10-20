@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga rekisitos ug tagpila ang bayad sa CPDO para sa validation sa Occupancy Permit sa 3 ka andana pataas nga building?"
+  ],
+  "answer": [
+    "Ang mga rekisito sa CPDO para sa validation sa Occupancy Permit sa 3 ka andana pataas nga building ay nakatanggap sa Integrated Zoning Ordinance (2019-2028) (3-Storey Buildings and Above and 1,500 Building Floor Area and Above). Ang mga rekisito ay nakatanggap sa [S1]. Ang bayad sa Occupancy Permit ay hindi nakalalabas sa mga nabasa sa mga source na binigyan. Ang validation ng Locational Clearance ay gagawin ng Office of the City Planning & Development Coordinator, Office o Division ng City Planning and Development Office (CPDO) – Zoning Enforcement Division. Ang building fee ay maaaring makakuha sa [S3]."
+  ],
+  "contexts": [
+    [
+      "2. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (3-Storey Buildings and Above and \n1,500 Building Floor Area and Above) \nFor 3-storey buildings and above and for building floor area of 1,500 square meters \nand above only.  \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nComplex\nType of Trans",
+      "3. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (2-Storey Buildings and Below and \n1,500 Building Floor Area and Below) \nFor 2-storey buildings and below and for building floor area of 1,500 square meters \nand below only. \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator.  \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nSimple\nType of Trans",
+      "area bracket indicated in the Table above. \nEach sub-area and the fee corresponding to its area bracket are multiplied together. \nThe building fee is the sum of the individual products as shown in the following \nexample:\nSample Computation for Building Fee for a building having a floor area of 3,200 sq. \nmeters:\nNext 500 sq. meters @ 23.00 …………………………………………….Php   11,500.00\nNext 100 sq. meters @ 22.00.…………………………………………….Php     2,200.00\nNext 100 sq. meters @ 20.50…………………"
+    ]
+  ],
+  "ground_truth": [
+    "Validation of Occupancy Permit for buildings 3-storeys and above or floor area of 1,500 sq.m. and above requires approved building plans, approved building permit, Certificate of Occupancy form, locational clearance, and site photos. A PHP 150.00 filing fee is paid to CTO."
+  ]
+}

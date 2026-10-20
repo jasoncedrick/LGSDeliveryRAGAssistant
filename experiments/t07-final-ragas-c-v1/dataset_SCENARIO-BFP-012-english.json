@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What is the function of Joint Inspection Teams (JIT) under JMC No. 2021-01 in commercial business permitting?"
+  ],
+  "answer": [
+    "The Joint Inspection Teams (JIT) under JMC No. 2021-01 serve the function of conducting inspections of an applicant's office/premises, in relation to an application for a new business permit or renewal. This is to limit the face-to-face interaction between the applicant and LGU officials, as stated in Section 9.1.2 of JMC No. 01 Series of 2021 [S1]. Additionally, these teams are also formed to address the lack of personnel of inspection departments and agencies compared to the number of establishments, as mentioned in Section 9.1.4 of the same JMC [S3]."
+  ],
+  "contexts": [
+    [
+      "te and other  permits or licenses being issued by other government agencies.\nNOTE (4) Section 9.1.2 of JMC No. 01 Series of 2021—To limit the face-to-face interaction between the applicant and the LGU officials, joint inspection teams (‗JITs‖) shall be organized to conduct inspection of the applicant‘s office/\npremises, in relation to an application for new business permit or renewal. (BOSS)\nSection 9.1.4 of JMC No. 01 Series of 2021—To address the lack of personnel of inspect",
+      "Circular (JMC) No. 2021-01  \nSeries of 2021 “Amending the DILG-DPWH-DICT-DTI JMC No. 2018-01 or the Guidelines in the Processing of Construction-Related Permits”\nTYPE OF TRANSACTION \n1. GOVERNMENT TO CITIZEN (G2C) \n2. GOVERNMENT TO BUSINESS ENTITY (G2B)\nWHO MAY AVAIL \nOWNER OR AUTHORIZE REPRESENTATIVE, CONTRACTOR OR BUSINESS ENTITY",
+      "9.1.4 of JMC No. 01 Series of 2021—To address the lack of personnel of inspection departments and agencies compared to the number of establishments, LGUs are encouraged to use a system of risk classification of various \nbusinesses and adopt an inspection prioritization scheme on this basis, in close coordination with the Department of Health for Sanitary Permits, the BFP for the Fire Safety Inspection Certificate for the issuance of uniform guidelines on \nrisk inspection for specific sectors. (BOSS)\nAGENCY ROW 1\n\nCLIENTS"
+    ]
+  ],
+  "ground_truth": [
+    "Section 9.1.2 of JMC 2021-01 mandates the organization of Joint Inspection Teams (JIT) combining LGU inspectors and BFP personnel to conduct joint physical inspections, limiting face-to-face contact and eliminating redundant multiple visits."
+  ]
+}

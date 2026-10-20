@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Hain nga bili o kantidad ang sundon sa pagkwenta sa buhis sa sunog kung magkalahi ang deklarasyon sa tag-iya ug ang cost table sa balaod?"
+  ],
+  "answer": [
+    "Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa inyong tanong tungkol sa sundon sa pagkwenta sa buhis sa sunog kung magkalahi ang deklarasyon sa tag-iya ug ang cost table sa balaod.\n\n[S2, S3] Ang mga impormasyon sa pag-assess ng fee sa sundon sa pagkwenta sa buhis sa sunog makakita sa Table II.G.1 sa OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf. Ang mga fee ay basahon sa location, group, at area sa sq.meter. Ang table wala nga didto sa inyong tanong tungkol sa magkalahi ang deklarasyon sa tag-iya ug ang cost table sa balaod."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "BUILDING PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\nBases of assessment\nCharacter of occupancy or use of building/structure \nCost of construction \nFloor area \nHeight\nRegardless of the type of construction, the cost of construction of any \nbuilding/structure for the purpose of assessing the corresponding fees shall be \nbased on the following:\nTable II.G.1",
+      "of assessing the corresponding fees shall be \nbased on the following:\nTable II.G.1 On Fixed Cost of Construction Per Sq. Meter\nLOCATION \nGROUP\nAll Cities and \nMunicipalities\nA,B,C,D,E,G,H,I \nF \nJ\nP10,000.00 \nP8,000.00 \nP6,000.00\nConstruction/additional/renovation/alteration of buildings/structures under \nGroup/s and Sub-Divisions shall be assessed as follows:\n3.a Division A-1\nArea in sq.meter \nFee per sq"
+    ]
+  ],
+  "ground_truth": [
+    "Under Section 8.3.6 of JMC 2021-01, if there is a substantial difference between the building cost declared by the owner and current market costs in Table II.G.1 of PD 1096, the higher value is adopted for computing fire construction taxes."
+  ]
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "claim": "The BFP public warning says it does not accredit or recommend any brand, store or distributor of fire extinguishers/fire-fighting equipment. Its warning prohibits personnel from selling or recommending a specific fire-extinguisher brand.",
+    "evidence": [
+      {
+        "source_page_id": "BFP-PDF0001",
+        "pdf_relative_page": 1,
+        "printed_page": null,
+        "source_span": "PUBLIC WARNING\nThe BFP Does not “ACCREDIT” nor Recommend any Brand, Store or Distributor of Fire\nExtinguisher and Fire Fighting Equipment\nAs per BFP Memorandum Circular No. 2016-016\nProhibition of BFP Personnel from Engaging in any act of impropriety and/or corruption pertaining to the enforce-\nment and implementation of the Fire Code and providing sanction thereof.\nHow to file a complaint",
+        "char_start": 16560,
+        "char_end": 16952,
+        "supporting_chunk_ids": [
+          "DEV120-BFP-PDF0001-C046",
+          "DEV120-BFP-PDF0001-C047"
+        ]
+      },
+      {
+        "source_page_id": "BFP-PDF0001",
+        "pdf_relative_page": 1,
+        "printed_page": null,
+        "source_span": "WARNING: BFP PERSONNEL ARE PROHIBITED FROM SELLING OR RECOMMENDING SPECIFIC BRAND OF FIRE EXTINGUISHER.\nREPORT SUCH IRREGULARITY",
+        "char_start": 19217,
+        "char_end": 19345,
+        "supporting_chunk_ids": [
+          "DEV120-BFP-PDF0001-C053"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-BFP-PDF0001-C046",
+      "DEV120-BFP-PDF0001-C047",
+      "DEV120-BFP-PDF0001-C053"
+    ]
+  },
+  {
+    "claim": "The image panel says portable fire extinguishers are regulated by DTI through BPS and that each type must comply with appropriate Philippine National Standards for product safety/reliability. This supports no BFP brand accreditation; it should not be expanded into a claim that any product is suitable regardless of type or hazard.",
+    "evidence": [
+      {
+        "source_page_id": "BFP-PDF0001",
+        "pdf_relative_page": 1,
+        "printed_page": null,
+        "source_span": "Portable Fire Extinguishers are regulated by the Department of Trade and Industry (DTI) through its Bureau of Products Standards (BPS)\nPARTS",
+        "char_start": 19888,
+        "char_end": 20028,
+        "supporting_chunk_ids": [
+          "DEV120-BFP-PDF0001-C055"
+        ]
+      },
+      {
+        "source_page_id": "BFP-PDF0001",
+        "pdf_relative_page": 1,
+        "printed_page": null,
+        "source_span": "There are 4 types of fire extinguishers available in the country. To be sure of product safety and reliability, each type must comply with the appropriate Philippine National Standards (PNS).\nDry Chemical: PNS",
+        "char_start": 20116,
+        "char_end": 20325,
+        "supporting_chunk_ids": [
+          "DEV120-BFP-PDF0001-C055",
+          "DEV120-BFP-PDF0001-C056"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-BFP-PDF0001-C055",
+      "DEV120-BFP-PDF0001-C056"
+    ]
+  }
+]

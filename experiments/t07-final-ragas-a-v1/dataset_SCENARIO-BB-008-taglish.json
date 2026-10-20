@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Anong mga requirements ang kailangan para magpalit o magtama ng business name sa Mayor's Permit?"
+  ],
+  "answer": [
+    "Anong mga requirements ang kailangan para magpalit o magtama ng business name sa Mayor's Permit?\n\n[S2, S3]\n1. Affidavit of Change of Name / Correction of Business Name (notarized) - Single Proprietorship (Applicant, notarized by any Notary Public)\n2. SPA (Sole Proprietorship), or Partnership Resolution (Partnership) indicating specific authority and capacity granted to representative, (notarized)\n3. Order of payment to be paid at the City Treasurer’s Office (issued after completing steps 1 and 2)\n\n[S2] The first requirement is to assess the Application for Change of Name and/or Correction of Business Name.\n[S3] The second requirement is to submit an Affidavit of Change of Name / Correction of Business Name (notarized) for Single Proprietorship, and a Sole Proprietorship (SPA) or Partnership Resolution (Partnership) indicating specific authority and capacity granted to the representative, both notarized by any Notary Public.\n[S2] The third requirement is to pay the order of payment at the City Treasurer’s Office."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "for Change of \nName and / or \nCorrection of \nBusiness Name, \nand order of \npayment to be \npaid at the City \nTreasurer’s \nOffice\n1.1 Assess \nApplication for \nChange of Name \nand / or Correction \nof Business Name\n1.2 Verify and \nEncode Application \nfor Change of \nName and / or \nCorrection of \nBusiness Name\n1.3. Return \npertinent \ndocuments, print \nout application \nform for Change of \nName and / or \nCorrection of \nBusiness Name, \nand issue an order \nof payment to be\nNone \n10 Minutes \nLicensing Officer \nBusiness Bureau",
+      "/ Extrajudicial \nSettlement\nApplicant, notarized by any Notary \nPublic, for Waiver / Settlement.\nAMENDMENT OF BUSINESS PERMIT – CHANGE OF NAME AND CORRECTION \nOF BUSINESS NAME \n1. Affidavit of Change of Name / Correction\nof Business Name (notarized) - Single \nProprietorship\nApplicant, notarized by any Notary Public\n2. \nSPA (Sole Proprietorship), or\nPartnership Resolution (Partnership) \nindicating specific authority and capacity \ngranted to representative,"
+    ]
+  ],
+  "ground_truth": [
+    "Changing or correcting a business name requires a notarized Affidavit of Change of Name/Correction, SPA or Board Resolution, valid ID of representative, birth/marriage certificate if applicable, DTI trade name or amended SEC/CDA registration, and latest Mayor's Permit. A PHP 50.00 amendment fee applies."
+  ]
+}

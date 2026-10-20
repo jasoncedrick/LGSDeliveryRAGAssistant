@@ -1,0 +1,9 @@
+MANUAL CHECKS - BUSINESS BUREAU BATCH
+
+Nothing requires your action immediately.
+1. BB-005: official clarification only if the study needs an exact late fee rather than the documented P1,000-P5,000 range.
+2. BB-006: official clarification only if the study needs a computed ICAB fee. Preserve every unit; do not silently assume additional unit.
+3. Independent expert audit is still required later; assistant reviews do not replace it.
+4. BFP context association is pending assistant inspection; no manual task assigned yet.
+
+BB-001 through BB-005 candidates are saved separately. BB-006 existing corrected reference is confirmed. Twenty provisional groups remain. Continue with the next office in batches, reporting only blockers needing user judgment. No original labels or scores were changed.

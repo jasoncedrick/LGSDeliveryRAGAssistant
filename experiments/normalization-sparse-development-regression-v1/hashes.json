@@ -1,0 +1,18 @@
+{
+  "bm25_punctuation_candidate.pkl": "c0c44f5dda577892719ee4585c4f24441e9d8c39b6b597c35b06b1829cf8ab87",
+  "candidate_normalizations.jsonl": "8ff6fe3683d67851c87be5082b4483fc64161b2514d7eb79ab1be75d86a55311",
+  "candidate_prompt.txt": "f7d32d6edc60bc96f3a49eaf84cc38c45ae84c1e1830fc4e96203e82e541cfe3",
+  "english_copy_fidelity.json": "914ca8615c7ced55f9152e417d38b8a99b91e1018f0ddc46996e27a3503ead72",
+  "office_language_metrics.csv": "4834f50574c05ede75ca72c8d873f0cc101dccc5f0e20e58d3e8f6cbbf7b726d",
+  "per_query_metrics.csv": "238f7faf332b9d13cc6fc20f58eac9bbc430c68049b37149bdc82056d2e0053c",
+  "progress.json": "52dd8dbf1191bde52fa7194047ee914f1568acdf1de7783e768d4f32c2240287",
+  "protocol.json": "9c0aeeadf76788d31e44be026b720c8e762ea3af9f2afcf41c033e35344e6e5b",
+  "query_deltas.csv": "ce6e5e63922245f70716b5fa748f995aa18412a289f03531fde87cece58c4579",
+  "rankings.jsonl": "5f0c37b42b3122b8113b5128f814d39bbf1c0fa4ab98276a695d0e083e61033e",
+  "review_decision.json": "37f2a3a4ca2e235ae18f94fc112009a00a85d23ec1c1ca8edb9b9baf2455615d",
+  "REVIEW_RESULTS.txt": "ace70e6161140ee87f7a17652df27d49cd6dfc25a88804eb54756d43e5dd497d",
+  "runtime_provenance.json": "59503b6dc5c14e77c6694b5b9aa67b548e98da839ed502c276431a91231f8c1e",
+  "summary.csv": "fe1397969db71941ddd9d24180214088da2c2778ad09d200ab9bcb8d17de0717",
+  "summary.json": "fcd60ff98aa7fc65f0b496d56168ce86631a0cb2aa3bda4eedcc77796df485d4",
+  "validation.json": "965895811648aacd71b76b0e2fe8cbed646fae57860db9e220d1e29d7aceeca9"
+}

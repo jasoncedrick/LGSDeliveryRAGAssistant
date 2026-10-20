@@ -1,0 +1,9 @@
+{
+  "control_hash_unchanged": true,
+  "all_120_planned_judgments_retained": true,
+  "balanced_15_office_language_cells": true,
+  "two_positives_two_negatives_per_cell": true,
+  "no_independent_expert_labels_claimed": true,
+  "evidence_parser_unit_tests_passed": 4,
+  "held_out_accessed": false
+}

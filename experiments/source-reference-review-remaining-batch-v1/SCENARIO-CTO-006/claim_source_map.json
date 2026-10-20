@@ -1,0 +1,48 @@
+[
+  {
+    "claim": "Annex14 states an annual basic community tax of PHP5 for liable individuals plus an annual additional tax of PHP1 per PHP1,000 of income, with the additional tax capped at PHP5,000. For husband and wife the additional tax is based on their total property and total gross receipts/earnings. The cap is on additional tax, not the basic-plus-additional total.",
+    "evidence": [
+      {
+        "source_page_id": "CTO-PDF0048",
+        "pdf_relative_page": 48,
+        "printed_page": 203,
+        "source_span": "Individuals liable to Community Tax\nEvery inhabitant of the Philippines who is a resident of this city, eighteen (18) years of \nage or over who has been regularly employed on a wage or salary basis for at least thirty \n(30) consecutive working days during any calendar year, or who is engaged in business \nor corporation, or who owns real property with an aggregate assessed value of One \nThousand (P1,000.00) Pesos or more, or who is required by law to file an income tax \nreturn shall pay an annual community tax of Five (P5.00) Pesos and an annual additional \ntax of One Peso (P1.00) for every One Thousand Pesos (P1,000.00) of income \nregardless of whether from business, exercise of profession or from property which in no \ncase shall exceed Five Thousand Pesos (P5,000.00).\nIn the case of husband and wife, the additional tax herein imposed shall be based \nupon the total property owned by them and the total gross receipts or earnings derived \nby them.\nJuridical Persons Liable",
+        "char_start": 11,
+        "char_end": 995,
+        "supporting_chunk_ids": [
+          "DEV120-CTO-PDF0048-C001",
+          "DEV120-CTO-PDF0048-C002",
+          "DEV120-CTO-PDF0048-C003"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-CTO-PDF0048-C001",
+      "DEV120-CTO-PDF0048-C002",
+      "DEV120-CTO-PDF0048-C003"
+    ]
+  },
+  {
+    "claim": "For liable corporations, the basic annual tax is PHP500 plus additional tax capped at PHP10,000. The additional schedule is PHP2 per PHP5,000 of Philippine real-property value during the preceding year using the stated real-property-tax valuation, plus PHP2 per PHP5,000 of Philippine business gross receipts/earnings during the preceding year. Intercorporate dividends are included in gross receipts/earnings for this additional tax. The cap is on additional tax.",
+    "evidence": [
+      {
+        "source_page_id": "CTO-PDF0048",
+        "pdf_relative_page": 48,
+        "printed_page": 203,
+        "source_span": "Every corporation no matter how created or organized, whether domestic or resident-\nforeign, engaged in or doing business in the Philippines whose principal office is located \nin this city shall pay an annual Community Tax of Five Hundred Pesos (P500.00) and an \nadditional tax, which in no case, shall exceed Ten Thousand Pesos (P10,000.00) in \naccordance with the following schedule:\n(a) For every Five Thousand Pesos (P5,000.00) worth of real property in the\nPhilippines owned by it during the preceding year based on the valuation used in \nthe payment of real property tax under existing laws, found in the assessment rolls \nof this city where the real property is situated - Two (P2.00) Pesos; and\n(b) For every Five Thousand Pesos (P5,000.00) of gross receipts or earnings derived\nby it from its business in the Philippines during the preceding year - Two (P2.00) \nPesos.\nThe dividends received by a corporation from another corporation shall, for the purpose \nof the additional tax, be considered as part of the gross receipts or earnings of said \ncorporation",
+        "char_start": 1013,
+        "char_end": 2079,
+        "supporting_chunk_ids": [
+          "DEV120-CTO-PDF0048-C003",
+          "DEV120-CTO-PDF0048-C004",
+          "DEV120-CTO-PDF0048-C005"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-CTO-PDF0048-C003",
+      "DEV120-CTO-PDF0048-C004",
+      "DEV120-CTO-PDF0048-C005"
+    ]
+  }
+]

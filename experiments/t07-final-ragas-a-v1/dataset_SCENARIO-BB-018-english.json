@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What are the mandatory cubicle height, lighting, and signage requirements for Internet Cafe Accreditation (ICAB)?"
+  ],
+  "answer": [
+    "The mandatory cubicle height requirement for Internet Cafe Accreditation (ICAB) is not explicitly stated in the provided sources. However, it is mentioned that the cubicles should have half-closed walls with not more than 5 feet from the floor [S2].\n\nRegarding lighting, the sources do not provide specific requirements.\n\nAs for signage, the sources do not mention any specific signage requirements for Internet Cafe Accreditation (ICAB). However, it is possible that signage may be required as part of the general business permit or zoning regulations, which are not covered in the provided sources.\n\n[S2] Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf | printed page 118 | chunk DEV120-BB-PDF0079-C004, [S2] Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf | printed page 118 | chunk DEV120-BB-PDF0079-C001"
+  ],
+  "contexts": [
+    [
+      "New Application: mandatory IC Cert. of \nAuthority\nInternet Cafe And Pisonet \nInternet Cafe Accreditation Board \nAccreditation\nLaboratories (Clinical), Therapeutic Clinics\nProfessional Regulation Commission \nLicense, PTR \nNew Application: subject to DOH Cert. \nRenewal: required DOH Cert.\nLearning Institution Basic Education\nNew Application: subject for DEPED \nPermit for 1st year of operations / \nDEPED Recognition\nLearning Institution Technical And Skills \nTraining Center\nNew Application: mandatory TESDA-\nCert. of Program Reg.,",
+      ", notarized by any Notary Public\n3. Official Receipt for Internet Café \nAccreditation \nBoard \n(ICAB)\nAccreditation (1 original)\nRevenue Collection Officer, City Treasurer’s Office\n4. Sketch Map of Business Location \n(1 original)\nApplicant\n5. Compliance of the following ICAB \nrequirements:\nApplicant\nInternet \nService \nProvider \n(ISP\nContract, Certification or Current \nReceipt of Payment\nApplicant\nHalf-closed cubicle with not more \nthan 5 feet from the floor (Internet \nCafe only)\nApplicant",
+      "8. Ocular Inspection and ICAB Inspection\nBusiness activities being applied will be validated through ocular inspections. For Internet \nCafes, this procedure intends to issue Internet Café Accreditation to internet cafes and \ncoin operated internet machine business operators who are compliant with internet café \nregulation requirement. Internet Café Accreditation is a specific requirement for the \nissuance of Business Permit. \nOffice or \nDivision\nCity Mayor's Office – Permits & Licenses Division\nClassification Simple (Regular), Complex (Complaint), Highly Technic"
+    ]
+  ],
+  "ground_truth": [
+    "ICAB inspection requires an ISP contract/receipt, half-closed cubicles not exceeding 5 feet from the floor, minimum lighting of 25 Lux (fluorescent/LED) or 50 Lux (incandescent), 12x18 inch warning signs against pornography/gambling/minors during school hours, content filtering software, and fixed webcams."
+  ]
+}

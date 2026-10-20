@@ -1,0 +1,14 @@
+{
+  "held_out_accessed": false,
+  "app_defaults_changed": false,
+  "scope": "All 90 archived development outcomes retained; reference-only correction, not a new retrieval run.",
+  "groups": 30,
+  "queries": 90,
+  "generation_k": 5,
+  "ranking_k": [
+    3,
+    5
+  ],
+  "source_limits": "User interpretations and source conflicts remain explicit; these are reviewed development references, not independently certified gold. No exclusions to improve reported results.",
+  "freeze": false
+}

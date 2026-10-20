@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa nga dugang mga permit sa BFP ang kinahanglan para sa mga negosyo nga mag-imbak ug gasolina, kemikal, o combustible materials?"
+  ],
+  "answer": [
+    "Wala akong impormasyon bahin sa Citizens' Charter tungod sa BFP tungo sa mga negosyo nga mag-imbak ug gasolina, kemikal, o combustible materials. Ang mga permit sa BFP sa mga negosyo ay hindi nakalalaman sa mga nakalagay sa Citizens' Charter.\n\nHowever, based on the provided sources, it is mentioned that importers of fire extinguishers and fire fighting equipment are required to apply for either a Philippine Standard (PS) License (for manufacturers) or an Import Commodity Clearance (ICC) Certificate (for importers) [S2]. The fire extinguishers are subjected to tests based on the requirements of relevant PNS at the BPS Testing Center or DTI-accredited testing laboratories.\n\nFor product certification under the BPS Product Certification Scheme, manufacturers and importers of critical products, including fire extinguishers, are required to apply from the BPS [S3].\n\nIt is recommended to check the BPS website (http://www.bps.dti.gov.ph) for the list of products that are required to undergo product certification under the BPS Product Certification Scheme."
+  ],
+  "contexts": [
+    [
+      "REDIT” nor Recommend any Brand, Store or Distributor of Fire\nExtinguisher and Fire Fighting Equipment\nAs per BFP Memorandum Circular No. 2016-016\nProhibition of BFP Personnel from Engaging in any act of impropriety and/or corruption pertaining to the enforce-\nment and implementation of the Fire Code and providing sanction thereof.\nHow to file a complaint\nTo file a complaint against the BFP or any of its personnel, the Client/Customer should provide the  following details via \nemail or other form of",
+      "importers of these products are required to apply from the BPS for the:\nPhilippine Standard (PS) License (for manufacturers)\nor the\nImport Commodity Clearance (ICC) Certificate (for importers).\nTheir products are subjected to tests based on the requirements of relevant PNS at the BPS Testing Center or DTI-accredited testing laboratories.\n\nKnow your product\nEvery fire extinguisher type has different color bands to distinguish their type. Each type is intended for use for specific flammable materials that are classified into codes:",
+      "is replaced every 5 years during the periodic hydrostatic test and the teardown is done at that time.\nSource Table 7.3.1.1.2, NFPA 10-Standard for Portable Fire Extinguishers, 2007 Edition.\n\nThis product is one of the critical products that are required to undergo product certification under the BPS Product Certification Scheme. The list is downloadable at http://www.bps.dti.gov.ph\nUnder this scheme, the manufacturers and importers of these products are required to apply from the BPS for the:\nPhilippine Standard (PS"
+    ]
+  ],
+  "ground_truth": [
+    "Under Section 12.0.0.4 of the Revised IRR of RA 9514, establishments that store, convey, or handle flammable and combustible materials must pay specialized fire clearance fees as a prerequisite for municipal business licenses."
+  ]
+}

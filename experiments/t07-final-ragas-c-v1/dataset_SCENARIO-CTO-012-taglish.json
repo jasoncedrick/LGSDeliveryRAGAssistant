@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ilang porsyento ang buwis sa gross sales para sa mga wholesalers at distributors na lumagpas sa 2 million pesos?"
+  ],
+  "answer": [
+    "Sa mga wholesalers at distributors, ang buwis sa gross sales ay 1.21% para sa mga kababayan na lumagpas sa P400,000.00. [S2]"
+  ],
+  "contexts": [
+    [
+      "the total sales and shall be \nsubject to the rates not exceeding one-half (1/2) of the rates prescribed under paragraphs \n(a), (b), and (d) of this Article.\n(d) On Retailers:\nGross Sales/Receipts for the Preceding Year \nRate of Tax Per Annum\nMore than P50,000.00 but not over P400,000.00 \n2.2%\nIn excess of P400,000.00 \n1.21%\nHowever, barangays shall have the exclusive power to levy taxes on stores whose \ngross sales or receipts of the preceding",
+      "the territorial jurisdiction of the City of Davao by \nProducers, Distributors or Wholesalers\nP 0.88 per kilo\nn. For one truckload of charcoal, scrapped iron, fire woods,\ncopra and all other similar goods/ commodities/merchandise \nnot subject to any particular fee above prescribed.\n418.00",
+      "the exclusive power to levy taxes on stores whose \ngross sales or receipts of the preceding calendar year does not exceed Fifty Thousand \nPesos (P 50,000.00) subject to existing laws and regulations.\n(e) On Contractors and other Independent Contractors in accordance with the \n           following schedule:\nGross Sales/Receipts for the Preceding Calendar Year \nAmount of Tax Per\nAnnum\nLess than 50,000.00 \n998.25\n50,000.00 or more but less than 75,000.00 \n1,597.20\n75,000.00 or more but less than 100,"
+    ]
+  ],
+  "ground_truth": [
+    "Wholesalers, distributors, and dealers are taxed on graduated tiers from PHP 1,210.00 (under 50k) up to PHP 18,150.00 (up to 2M). Gross sales in excess of PHP 2,000,000.00 are taxed at 66% of 1.0%. Businesses subject to manufacturer taxes are exempt from wholesaler tax."
+  ]
+}

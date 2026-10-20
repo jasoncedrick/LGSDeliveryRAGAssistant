@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Paano inuuna ng BFP ang inspeksyon sa mga negosyo gamit ang risk classification scheme ayon sa batas?"
+  ],
+  "answer": [
+    "Ang BFP ang nagpapahayag na nakikipag-coordinate sila sa mga LGU upang magamit ang sistema ng risk classification ng mga negosyo at adopt ang isang inspeksyon prioritization scheme sa baba sa batas na 9.1.4 ng JMC No. 01 Series of 2021. [S2]\n\nSa ibang salita, ang BFP ay nagpapahayag na nakikipag-ugnayan sila sa mga LGU upang magamit ang risk classification ng mga negosyo para sa pagpili ng mga negosyo na makakapag-aralan muna sa inspeksyon. [S2]"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "9.1.4 of JMC No. 01 Series of 2021—To address the lack of personnel of inspection departments and agencies compared to the number of establishments, LGUs are encouraged to use a system of risk classification of various \nbusinesses and adopt an inspection prioritization scheme on this basis, in close coordination with the Department of Health for Sanitary Permits, the BFP for the Fire Safety Inspection Certificate for the issuance of uniform guidelines on \nrisk inspection for specific sectors. (BOSS)\nAGENCY ROW 1\n\nCLIENTS",
+      "on government services, whether positive or negative, to the Contact Center ng\nBayan via following access channels:\nSMS: 09088816565\nEmail: email@contactcenterngbayan.gov.ph            \n     Web: https://contactcenterngbayan.gov.ph/            \n     FB: https://facebook.com/civilservicegovph/\nCall: 165 65 (P5 +VAT per call anywhere in the Philippines via PLDT Landline)\nPUBLIC WARNING\nThe BFP Does not “ACCREDIT” nor Recommend any Brand, Store or Distributor of Fire\nExtinguisher"
+    ]
+  ],
+  "ground_truth": [
+    "Section 9.1.4 encourages LGUs and BFP to adopt a risk classification scheme for business sectors to address personnel shortages, prioritizing high-risk fire establishments for physical inspection while low-risk businesses receive routine post-issuance audits."
+  ]
+}

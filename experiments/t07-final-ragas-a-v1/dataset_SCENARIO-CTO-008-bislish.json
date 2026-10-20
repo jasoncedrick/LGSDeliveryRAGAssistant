@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsaon pagkwenta sa Transfer Tax sa yuta o propedad sa City Treasurer kung magbalhin ug titulo?"
+  ],
+  "answer": [
+    "Sa pagbalhin ug titulo sa yuta o propedad sa City Treasurer, ang mga hinwang nga mahitabo sa Transfer Tax ay nakalistado sa City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2. [S2, S3]\n\nAng mga hinwang nga mahitabo sa pagbalhin ug titulo sa yuta o propedad sa City Treasurer sa pamamagitan sa Real Property Tax Transfer Ownership sa kasabot sa mga kailangan nga dokumento ug prosedyurong nakalistado sa [S3]. Ang mga dokumento nga kinakailangan sa pagbalhin ug titulo sa yuta o propedad sa City Treasurer sa pamamagitan sa Real Property Tax Transfer Ownership ay:\n\n1. Title – Photocopy for verification only (Register of Deeds) [S3]\n2. Respective District Offices (for certification) [S3]\n3. Real Property Transfer Tax Certification (Local Treasury Operations Officer IV or CTO District Treasurers) [S3]\n4. Client signs the logbook as proof of Transfer Tax Certification release (Window 10, RPTD, CTO SP Office, or the respective District Offices) [S3]\n\nAng mga hinwang nga mahitabo sa pagbalhin ug titulo sa yuta o propedad sa City Treasurer sa pamamagitan sa Real Property Tax Transfer Ownership ay ma-compute sa City Treasurer's Office sa pamamagitan sa mga nakalistado sa [S3]. Ang mga hinwang nga mahitabo sa pagbalhin ug titulo sa yuta o propedad sa City Treasurer sa pamamagitan sa Real Property Tax Transfer Ownership ay ma-compute sa 15 minutes (Ticket Checker or Assigned Personnel) [S3]."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "4. Real Property Tax Transfer Ownership with Certification\nAssessment issued to taxpayer for payment (Local Revenue Code of Davao City) \nCertification of Payment \nOffice or Division \nOffice of the City Treasurer (CTO) / Real Property Tax Division \n– Assessment / Cash Receipts Division – Collection / \nCertification and Other District Offices\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Title – Photocopy for\nverification only\nRegister of Deeds\n2. No",
+      "respective District \nOffices.\n4.2 Generate\nand sign \nthe Real \nProperty \nTransfer \nTax \nCertificatio\nn.\n1 Hour \nLocal Treasury\nOperations \nOfficer IV\n-or-\nCTO District \nTreasurers\n5. Client signs the\nlogbook as proof \nof Transfer Tax \nCertification \nrelease at \nWindow 10, \nRPTD, CTO SP \nOffice, or the \nrespective \nDistrict Offices.\n5. Release\nthe Real \nProperty \nTransfer \nTax \nCertificatio\nn to the \nclient.\nNone\n15 Minutes\nTicket Checker\n(CTO\nPoblacion)\n-or-\nAssigned \nPersonnel\n(CTO District\nOffices)\nTOTAL:\nAttach"
+    ]
+  ],
+  "ground_truth": [
+    "Transfer Tax on real property ownership requires title photocopy, notarized deed of transfer, and tax declaration. The transfer tax rate is 0.87% to 1.0% based on the total consideration or market value, whichever is higher, plus a PHP 50.00 certification fee."
+  ]
+}

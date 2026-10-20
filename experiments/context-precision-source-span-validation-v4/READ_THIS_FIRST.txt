@@ -1,0 +1,35 @@
+EXACT SOURCE-SPAN EVALUATOR VALIDATION
+
+T06 implementation is complete with documented evaluator limitations.
+This run tests the remaining evaluator reliability issue identified during T07 development. It does not reopen T06's implementation deliverable or declare T07 complete.
+
+Grounding before changes
+The manuscript SHA256 and archived authoritative main Thesis Tracker evidence were verified before editing. Chapter 3 PDF33-34 permits development-only debugging and tuning, requires Context Precision selection over the 15 office-language cells, and requires a complete freeze before final held-out A/B/C evaluation. T06 is the batch Hit/MRR/RAGAS harness; T07 is the execution/export of the three frozen architectures.
+
+What changed
+Experimental OFFLINE judge output only: choose NONE (irrelevant) or an exact source-span ID (useful). The program resolves the ID to the original passage characters and archives character offsets and exact text. Model-generated reasons are explanations, not reconstructed source evidence. Exact evidence selection cannot itself prove semantic relevance.
+
+What is preserved
+Same actual context, reference, partial-usefulness criterion, Mistral model digest, deterministic settings and development split. Previously archived judgments are not overwritten or patched. No runtime response filter, additional generator chain, app-default change, dictionary change, section retrieval, source-text reconstruction or held-out access occurs.
+The source-span pointers use 32 whitespace words per display segment solely inside the evaluator. They are NOT retrieval chunks, are not embedded or indexed, do not change any ranking or context, and do not change the corpus's 120 tokenizer-token /20-token overlap rules.
+
+Registered sequence
+1. All 60 existing calibration controls. Required screening: 60 valid, at least 55 correct, at most four false positives, zero false negatives. At most one format-only retry per invalid output; valid disagreements are never retried.
+2. Only if screening passes: the fixed stress set registered before any calls. All 110 formerly invalid pairs plus 30 old valid pairs, two per office-language cell selected by a deterministic SHA256 order. The stress set must have 140 valid outputs. Disagreement with an old valid judgment is a flag for review, not a known error: old judgments are not gold.
+3. Review results. No full grid is automatically started, no candidate is frozen and no final held-out results are claimed. One version must be consistently used across both grids if later adopted.
+
+Control labels are assistant source-review labels from five existing development groups, reused adaptively. They are not independent expert ratings or 60 independent groups. Test scores cannot certify the judge as error free.
+
+Progress in PowerShell from the clean project
+Get-Content .\experiments\context-precision-source-span-validation-v4\console.log -Tail 15 -Wait
+
+Results
+calibration_summary.json: validity and semantic errors separately.
+stress_summary.json: stress validity and old-judgment differences (only if calibration passes).
+decision.json: finished status and whether review remains necessary.
+calibration.jsonl / stress.jsonl: complete model requests, raw outputs, selected source pointers and bounded retry traces.
+protocol.json / controls.snapshot.json / stress.snapshot.json: preregistered inputs, hashes and rules.
+
+No immediate manual source checking is requested while the test runs. Remaining statutory ambiguities and expert audit requirements are preserved. If the test fails, report that outcome; do not keep changing rules until a favorable score appears.
+
+Eleven focused tests passed before launch, covering exact character pointers, preservation of words/numbers/units, invalid IDs, negative selection, schema validity criteria and grounded-verdict behavior.

@@ -1,0 +1,15 @@
+RAGAS FORMAT DIAGNOSTIC RETRY - COMPLETE
+
+Three failure-selected retries now produce finite scores. Raw judge outputs also pass the required single-object/key/type checks. Original scores, contexts, answers, references and full-run means remain unchanged.
+
+SCENARIO-CTO-003-english | context_precision | original null | diagnostic retry 0.99999999998
+SCENARIO-OCBO-006-english | answer_relevancy | original null | diagnostic retry 0.9175673311761628
+SCENARIO-BFP-004-taglish | answer_relevancy | original null | diagnostic retry 0.3305636286762123
+
+Interpretation: these three cases support the evaluator-only format instruction. They do not prove full-set robustness or better citizen answers. No retry scores were merged into the original report.
+
+Changes: opt-in --strict-metric-json flag in scorer; src/ragas_output_contracts.py; tests/test_ragas_output_contracts.py. Default evaluator behavior remains unchanged. scorer.before.py preserves the previous script.
+
+Next: source/reference validation of the remaining 25 groups, one group at a time. Begin SCENARIO-BB-001. No model server is required for that source inspection.
+
+These changes and diagnostic artifacts are local; no commit or push was made in this step.

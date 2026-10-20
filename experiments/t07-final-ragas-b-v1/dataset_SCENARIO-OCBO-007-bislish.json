@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga rekisitos ug pirma sa enhinyero nga kinahanglan i-pass sa OCBO sa dili pa mag-guba ug building?"
+  ],
+  "answer": [
+    "Sa pag-apply sa Certificate of Annual Inspection ng Building sa OCBO (Office of the City Building Official), ang mga rekisito nga kinahanglan i-pass sa enhinyero sa dili pa mag-guba ug building ang nababasa sa [S1] at [S2].\n\nSa [S1], ang rekisito nga kinahanglan i-pass sa enhinyero ang Certificate of Annual Electrical Inspection sa pag-inspeksyon sa building/structure.\n\nSa [S2], ang rekisito nga kinahanglan i-pass sa enhinyero ang 9. Approved plan of Building Permit, 1 original; 10. If the project has been undertaken/assigned to a professional other than the professional-in-charge upon application of building permit, signed and duly notarized waiver from previous professional in-charge, 1 original; at 11. Structure Images with CAAP clearance(Submit structural survey for the actual building height) signed and sealed by a duly licensed Geodetic Engineer, CAAP & Hired Geodetic Engineer, CLIENT.\n\nWala nga ang [S3] sa pangyayari sa building na wala pa mag-guba, kay wala nga didto ang mga rekisito nga kinahanglan i-pass sa enhinyero."
+  ],
+  "contexts": [
+    [
+      "15. Issuance of Certificate of Annual Inspection of Buildings\nA Certificate of Annual Electrical Inspection is issued after conducting an annual inspection of a \nbuilding/structure to ensure that the architectural well-being, structural stability, electrical, \nmechanical sanitation, plumbing, electronics, interior design, and fire protective properties are \nproperly maintained and that the building/structure is not occupied or used for purposes other than \nits intended use.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHigh",
+      "Applicant\n9. Approved plan of Building Permit  \n1 original\nOwner/Applicant\n10. If the project has been undertaken/assigned \nto a professional other than the professional-in-\ncharge upon application of building permit, \nsigned and duly notarized waiver from previous \nprofessional in-charge \n     1 original\nWaiving Party\n11. Structure Images with CAAP \nclearance(Submit structural survey for the actual \nbuilding height) signed and sealed by a duly \nlicensed Geodetic Engineer\nCAAP & Hired Geodetic Engineer\nCLIENT",
+      "7. Issuance of Pavement Permit\nA Pavement Permit shall be required prior to or during the processing of the building permit and prior \nto the commencement of the proposed project and construction.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; \nG2G – Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Pavement Permit form with 3 sets of \nCivil/Arch"
+    ]
+  ],
+  "ground_truth": [
+    "A Demolition Permit requires a demolition form, 3 sets of civil/architectural plans signed and sealed by a civil engineer/architect, vicinity sketch plan by a geodetic engineer, bill of materials, owner ID, and DPWH clearance if along a national highway."
+  ]
+}

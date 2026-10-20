@@ -1,0 +1,20 @@
+{
+  "group_id": "SCENARIO-BB-006",
+  "review_status": "supported_with_source_ambiguity",
+  "reference_change_needed": false,
+  "reviewer": "assistant",
+  "pages_reviewed": [
+    79,
+    80,
+    81
+  ],
+  "fee_source_wording": "PHP100.00 for the first 10 units and PHP10.00 for every unit",
+  "fee_interpretation": "Unresolved by source; do not replace every unit with each additional unit or calculate a total from an assumed formula.",
+  "manual_action_required_now": false,
+  "conditional_manual_check": "If a definitive fee formula or example is required, obtain authoritative clarification from the issuing office and archive it. Another visual check alone cannot resolve the wording.",
+  "counting": "Already among five corrected v3 groups; does not reduce remaining provisional count.",
+  "scope": "Reference asks facility requirements and fees; not a complete application-document checklist.",
+  "limitations": [
+    "Assistant confirmation is not independent expert certification."
+  ]
+}

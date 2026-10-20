@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Paano kinukwenta ang Cedula para sa indibidwal at korporasyon sa Davao at magkano ang maximum limit?"
+  ],
+  "answer": [
+    "The Cedula for an individual and a corporation in Davao City can be obtained from the City Treasurer’s Office. However, the specific details about how it is computed are not provided in the given sources.\n\nFor the Recruitment Activity for Recruiters and/or Recruitment Agencies not based in Davao City, the Certificate of Good Standing requires one original certificate from the Department of Labor and Employment for local entities, and from the Philippine Overseas Employment Administration for overseas entities. The maximum limit or fee for these documents is not specified in the provided sources. [S2] [S3] (No specific information found in BFP-CITIZENS-CHARTER-2022.pdf)"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "JONG\n1. Barangay Clearance \nBarangay Hall\n2. Cedula \nCity Treasurer’s Office\nRECRUITMENT ACTIVITY FOR RECRUITER AND/OR RECRUITMENT AGENCIES \nNOT BASED IN DAVAO CITY\n1. Certificate of Good Standing (1 original)  \n(From Department of Labor and \nEmployment for Local and \nPhilippine Overseas \nEmployment Administration for \nOverseas)",
+      "- 10 lb Dry Chemical; or 1 piece - 10 lb Halongenated; or 1 piece - 10 lb Foam (At the option of the client)\nMaximum Travel (m): 10 m\nMaximum Area (m²): 75 m²\n\nExample: An office establishment with an area of 200 square meters,dimension of 10x20 m, involving low class A combustible and low class B flammable, is required with 1 piece Dry Chemical or Halonagenated, at the option of the owner.\n[Diagram representation"
+    ]
+  ],
+  "ground_truth": [
+    "Annex14 states an annual basic community tax of PHP5 for liable individuals plus an annual additional tax of PHP1 per PHP1,000 of income, with the additional tax capped at PHP5,000. For husband and wife the additional tax is based on their total property and total gross receipts/earnings. The cap is on additional tax, not the basic-plus-additional total.\n\nFor liable corporations, the basic annual tax is PHP500 plus additional tax capped at PHP10,000. The additional schedule is PHP2 per PHP5,000 of Philippine real-property value during the preceding year using the stated real-property-tax valuation, plus PHP2 per PHP5,000 of Philippine business gross receipts/earnings during the preceding year. Intercorporate dividends are included in gross receipts/earnings for this additional tax. The cap is on additional tax."
+  ]
+}

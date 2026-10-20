@@ -1,0 +1,44 @@
+[
+  {
+    "configuration": "A",
+    "record_id": "SCENARIO-BFP-005-bislish",
+    "original_scores": {
+      "faithfulness": null,
+      "context_precision": 0.9999999999666667,
+      "context_recall": 1.0,
+      "answer_relevancy": 0.40868131530860513
+    },
+    "retry_experiment": "t07-faithfulness-retry-a-scenario-bfp-005-bislish-v1",
+    "cause": "Statement extraction continued unrelated examples",
+    "retry_status": "SCORED",
+    "retry_value": 0.0
+  },
+  {
+    "configuration": "A",
+    "record_id": "SCENARIO-BFP-006-taglish",
+    "original_scores": {
+      "faithfulness": null,
+      "context_precision": 0.9999999999666667,
+      "context_recall": 1.0,
+      "answer_relevancy": 0.5850561195026892
+    },
+    "retry_experiment": "t07-faithfulness-retry-a-scenario-bfp-006-taglish-v1",
+    "cause": "Statement extraction continued unrelated examples",
+    "retry_status": "SCORED",
+    "retry_value": 0.6666666666666666
+  },
+  {
+    "configuration": "B",
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "original_scores": {
+      "faithfulness": null,
+      "context_precision": 0.99999999995,
+      "context_recall": 1.0,
+      "answer_relevancy": 0.0
+    },
+    "retry_experiment": "t07-faithfulness-retry-b-scenario-bfp-002-taglish-v1",
+    "cause": "NLI returned fractional 0.5 verdict and changed a statement",
+    "retry_status": "SCORED",
+    "retry_value": 1.0
+  }
+]

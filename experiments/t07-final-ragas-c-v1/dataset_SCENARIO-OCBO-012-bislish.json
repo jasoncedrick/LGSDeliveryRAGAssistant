@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ang bayad sa Scaffolding Permit matag bulan kung ang scaffold mo-okupar sa karsada o sidewalk?"
+  ],
+  "answer": [
+    "Sa Scaffolding Permit, ang bayad ay hindi nakalalabas sa mga nakalagay sa mga nakalagay na mga source. Ngunit, sa City Treasurer's Citizen Charter 2026, maaaring maging P5,000.00 kung ang scaffolding mo-okupar sa roadway area o pedestrian passage (makita sa [S2], chunk DEV120-CTO-PDF0003-C002). Kung hindi, wala akoy nakit-an nga impormasyon bahin niini sa Citizens' Charter."
+  ],
+  "contexts": [
+    [
+      "9. Issuance of Scaffolding Permit\nA Scaffolding Permit shall be required prior to or during the processing of the building permit or \nbefore the scaffolding is to be erected on the roadway area or pedestrian passage or such areas \nwhere the safety, protection, security and convenience of the general public is primarily considered.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; \nG2G – Government to Government",
+      "with entrances outside the terminal\nP 5,000.00 a month\nb. Category B\n2. Stalls within the terminal \nP 4,000.00 a month\nc. Category C\n3. Rate for land use\n10.00 sq./m. per day or\na fraction thereof\nd. Advertisement materials, signages through Billboards,\nNeon lights, Posters, Tarpaulin, minimum of six (6) \nmonths renewable\n10.00 sq./m. per day\nOther Fees\na. Parking Fee \nP 20.00 for first 3\nhours, P 5.00 every\nsucceeding hr.",
+      "required herein shall subject the \nLessee/Occupant to a surcharge of twenty-five percent (25%) of the amount of the rental \nfee plus an interest of two percent (2%) per month but not to exceed thirty-six (36) \nmonths.\nSection 351\nOCCUPANCY FEE FOR AWARDEE\nOccupancy Fee per Stall/Booth Depending on Market\nClassification\nClass A \nClass B \nClass C \nClass D\nMeat Section \nP 4,000.00 \nP 2,900.00 \nP 1,700.00 \n1,400.00\nDressed Chicken \n4,000.00 \n2,900.00"
+    ]
+  ],
+  "ground_truth": [
+    "Scaffolding occupying public areas is assessed PHP 150.00 per calendar month for lengths up to 10.00 meters, and PHP 12.00 per month for every lineal meter or fraction thereof in excess of 10.00 meters."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ang bayad sa buhis sa mga kan-anan, restaurant, ug catering kung molapas sa 2 milyon ang tinuig nga halin?"
+  ],
+  "answer": [
+    "Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungkol sa bayad sa mga kan-anan, restaurant, ug catering kung molapas sa 2 milyon ang tinuig nga halin. [S1, S2, S3] Sa mga naabot na Citizens' Charter, wala pang nakalabas na impormasyon tungkol sa bayad para sa mga kan-anan, restaurant, ug catering kung molapas sa 2 milyon ang tinuig nga halin."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "SPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Plumbing\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Mechanical\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Electrical\nPROCESSING TIME: 2 Days\n\nPERSON RESPONSIBLE (shared source cell; no individual substep assignment):\nCivil Engineer\nCivil Engineer\nIED Chief\nPlumbing\nMechanical\nEngineer – OCBO\n\nCLIENT STEPS: 4. Wait for notification for OP and endorsement to B",
+      "CLIENT STEPS: 3. During the inspection, the client and/or authorized representative, such as an architect or engineer must be present on-site\n\nFEES TO BE PAID (shared source cell for this client step): None\n\nAGENCY ACTION: 3. Conduct inspection and assessment\n\nINSPECTION CATEGORY: · Line & Grade\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Architectural\nPROCESSING TIME: 2 Days\n\nINSPECTION CATEGORY: · Structural\nPROCESSING TIME: 2 Days\n\nINSPECTION CAT"
+    ]
+  ],
+  "ground_truth": [
+    "Restaurants, cafes, eateries, caterers, and amusement places without wagering pay graduated taxes up to PHP 9,160.31 for receipts up to PHP 2,000,000.00. Gross receipts in excess of PHP 2,000,000.00 are taxed at 43% of 1.0%."
+  ]
+}

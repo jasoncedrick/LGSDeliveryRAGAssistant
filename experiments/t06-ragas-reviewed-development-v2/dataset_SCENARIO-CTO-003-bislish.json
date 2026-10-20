@@ -1,0 +1,20 @@
+{
+  "question": [
+    "Pila ang porsyento sa amilyar sa Basic Real Property Tax ug SEF nga gasingilin sa City Treasurer?"
+  ],
+  "answer": [
+    "Sa amilyar sa Basic Real Property Tax, ang gasingilin nga porsyento ay isa ka 1.5% sa amilyar ng real property, grasslands, buildings, machinery, at iba pang mga imprviesyon na nakatagpuan sa real property sa Davao City. [S1, S2, S3, S7]\n\nSa SEF (Special Education Fund), ang gasingilin nga porsyento ay isa ka 1% sa amilyar ng real property. [S1]"
+  ],
+  "contexts": [
+    [
+      "(1.5%) of the assessed \nvalue of real property, grasslands, buildings, machinery and other improvements affixed \nor attached to real property located in this City.\nSection 8. Additional Levy on Real Property for the Special Education Fund \n(SEF) – This is hereby levied a one percent (1%) tax on the assessed value of real \nproperty which shall be in addition in the basic real property tax. The proceeds thereof \nshall accrue exclusively to the Special Education Fund (SEF).",
+      "-\neservices.com/\negps/portal/Mer\nchants.jsp\n–\nImposition \nof the Basic\nReal\nProperty\nTax\nSection 8\n–\nAdditional \nLevy on\nReal\nProperty for \nthe Special \nEducation \nfund (SEF)\nTOTAL: \nAttached \nAnnex - 11 \n25 Minutes\nANNEX – 11\nSection 7. Imposition of the Basic Real Property Tax. – There is hereby levied \nan annual ad valorem tax at the rate of one and one-half percent (1.5%) of the assessed \nvalue of real property, grasslands, buildings, machine",
+      "to the RPT \nDivision.)\n1. Provide the\npriority number \nand advise the \nclient to wait \nuntil their \nnumber is \ncalled.\nNone \n2 Minutes \nTicket Checker\nAssigned \nPersonnel\n(CTO District\nOffices)\n2. Present all\nrequired \ndocuments at \nthe Real \nProperty Tax \nDivision, CTO \nSangguniang \nPanlungsod \n(CTO \nPoblacion) or \nthe respective \nCTO District \nOffices.\n2. Verify the\ndocuments, \nretrieve the \npayment \nhistory, and \nissue the Tax \nOrder of \nPayment for \nthe Tax \nClearance \nFee at \nCounter 8, \nReal \nProperty Tax \nDivision \n(CTO",
+      "tion/Declaration of Real\nProperty Tax Valuation (DRPV) – 1 \nphotocopy\nOffice of the City Assessor at window 12, \nSangguniang Panlungsod or District \nOffices\nCLIENT STEPS \nAGENCY \nACTIONS\nFEES TO \nBE PAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\n1. Get a priority\nnumber from the \nassigned \nTechnical \nAssistance \nPersonnel at the \nSangguniang \nPanlungsod \nbuilding. (For \nDistrict Offices, \nclients go directly \nto the RPT \nDivision.)\n1. Provide the\npriority number \nand advise the \nclient to wait \nuntil",
+      ", shall exceed Ten Thousand Pesos (P10,000.00) in \naccordance with the following schedule:\n(a) For every Five Thousand Pesos (P5,000.00) worth of real property in the\nPhilippines owned by it during the preceding year based on the valuation used in \nthe payment of real property tax under existing laws, found in the assessment rolls \nof this city where the real property is situated - Two (P2.00) Pesos; and\n(b) For every Five Thousand Pesos (P5,000.00) of gross receipts or earn"
+    ]
+  ],
+  "ground_truth": [
+    "Annex11 states Basic Real Property Tax is 1.5% of assessed value and the additional Special Education Fund levy is 1% of assessed value. Their arithmetic sum is 2.5% of assessed value; this sum is derived from the two stated rates."
+  ]
+}

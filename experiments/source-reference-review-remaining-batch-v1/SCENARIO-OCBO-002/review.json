@@ -1,0 +1,16 @@
+{
+  "group_id": "SCENARIO-OCBO-002",
+  "review_status": "needs_correction",
+  "reviewer": "assistant",
+  "findings": [
+    "Preserve source conditions and quantities, including two affidavit originals.",
+    "The row does not expressly state signed/sealed report or DOLE approved; avoid adding qualifiers not written here."
+  ],
+  "manual_check": null,
+  "candidate_applied": false,
+  "limitations": [
+    "Fixed thesis sources, not present-day legal advice.",
+    "Assistant image review is not independent expert certification.",
+    "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+  ]
+}

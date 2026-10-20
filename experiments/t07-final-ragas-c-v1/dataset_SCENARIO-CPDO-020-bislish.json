@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsaon pagpangayo ug opisyal nga datos sa zoning o land use sa CPDO ug pila ka adlaw ang pag-proseso niini?"
+  ],
+  "answer": [
+    "Sa CPDO (City Planning and Development Office), ang mga opisyal na dokumento na kailangan sa zoning o land use ay maaaring makita sa Citizens' Charter 2026 sa mga source blocks DEV120-CPDO-PDF0013-C001, DEV120-CPDO-PDF0067-C002, at DEV120-CPDO-PDF0068-C001. Ang proseso ng pag-aaralan at pag-release ng mga dokumento sa CPDO sa zoning o land use ay maaaring makita sa mga source blocks DEV120-CPDO-PDF0013-C001 at DEV120-CPDO-PDF0068-C001. Ang mga detalye sa mga dokumento at proseso ay maaaring makita sa mga nabanggit na source blocks. [S1, S2, S3]"
+  ],
+  "contexts": [
+    [
+      "Note: Applications \nare evaluated \nbased on the \nproposed land use \nactivity and its land \nclassification\n2.7 Routes \ndocuments to ZED \nreceiving/releasing \npersonnel and \nupdates document \ntracking system\nNone \n5 Minutes \n \nZoning Officer\nIV\nCPDO\n2. Claims \napplication \ndocuments\n3. Releases \ndocuments to \nclient/s\nNote: \n \n-If non-compliant \napplications, client \nwill receive denial \nletter. \n \nDenied \napplications are \nadvised to appeal \nthrough the Local \nZoning Board of \nAdjustments and \nAppeals \n \n-If conditional \napproval clients \nare required to \nsubmit additional \nrequirements for",
+      "Requirements and \nSubmits \nDocuments\nDocuments \nbased on the \nchecklist\nNote: Clients \nare informed \nthat application \nwill be plotted \nthrough GIS to \ndetermine the \nland \nclassification.\nZoning Officer\nIV\nCPDO\n2. Secure GIS \nMap\n2. Assess and \nprepares Order of \nPayment for Gis \nMapping\nFiling Fee\nPHP\n300.00\n10 Minutes \n \nZoning Officer\nIV\nCPDO\n3. Clients submit \ndocuments with \nthe Official \nReceipt\n3.1 Re-evaluates \nand receives \ndocuments\nNone \n15 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\n3.2 Encodes in \nthe",
+      "5 \n– Zone \nRegulations) \n \nNote: Applications \nare evaluated \nbased on the \nproposed land use \nactivity and its land \nclassification\nNone \n10 Minutes \n \nZoning Officer\nIV\nCPDO\n2.5 Consultation \nwith the ZED \nDivision Chief and \nActing Zoning \nAdministration in \nthe approval \napplication\nNone \n10 Minutes \n \nActing Zoning \nAdministrator\nCPDO\n2.6 Makes positive \nrecommendation \nand updates the \nBPLS system\nNone \n5 Minutes \n \nZoning Officer\nIV\nCPDO"
+    ]
+  ],
+  "ground_truth": [
+    "Requesting official demographic, zoning, or land-use data from CPDO requires a written letter request (hard copy or email). The request is routed via the Document Tracking System, approved by the Department Head, and processed within 2 days, 3 hours."
+  ]
+}

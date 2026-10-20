@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Magkano ang application fee at maximum tax cap sa pagkuha ng FSEC sa Bureau of Fire Protection?"
+  ],
+  "answer": [
+    "Ang application fee para sa pagkuha ng Fire Safety Certificate of Compliance (FSEC) sa Bureau of Fire Protection ay Php 200.00. Ang maximum tax cap ay 0.1% ng verified estimated value (materials at labor) ng building/structure o facility, hindi mas masamang Php [S3]."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "proceed to releasing\nwindow to claim the stub by presenting the OR.\nNote: Releasing date and time of FSEC is\nindicated in the claim stub.\n\nAGENCY ACTION: 3. Collect the payment and issue Official\nReceipt (OR)\nFor OSCP/BOSS : Backroom operation with\nOSCP/BOSS for one-time payment thru\nco-location\nFor Local Stations with MOA with the LGUs, fire\ncode fees/taxes shall be collected by the LGUs\n\nPROCESSING TIME: maximum of ten (10) minutes\n\nPERSON",
+      "Issuance of FSEC/NOD/\nFSIC for Certificate of Occupancy/FSIC for\nBusiness Permit (new/renewal) is thru OSCP/\nBOSS Releasing Officer\n\nPROCESSING TIME: maximum of five (5) minutes\n\nPERSON RESPONSIBLE: CRO\n\nFEES TO BE PAID [shared cell spanning all six agency rows]:\nFor FSEC\nApplication Fee: Php 200.00\nFCCT = 0.1% of the verified estimated value\n(materials and labor) of the building/structure or\nfacility but not more"
+    ]
+  ],
+  "ground_truth": [
+    "Applying for a Fire Safety Evaluation Clearance (FSEC) requires an application fee of PHP 200.00 plus Fire Code Construction Tax (FCCT) of 0.1% of verified estimated value (materials and labor) up to PHP 50,000.00 maximum."
+  ]
+}

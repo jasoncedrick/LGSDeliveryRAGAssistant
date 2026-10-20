@@ -1,0 +1,18 @@
+{
+  "question": [
+    "How does the BFP integrate with the eBOSS backroom operations for one-time assessment and payment in Davao City?"
+  ],
+  "answer": [
+    "The BFP integrates with eBOSS backroom operations for one-time assessment and payment in Davao City through a shared information system with OSCP/BOSS. This process is outlined in [S1] and [S2] of the BFP-CITIZENS-CHARTER-2022.pdf document. For one-time assessment, the applicant will be given a queuing number and an Operations Support Paper (OPS) will be issued [S2]. For one-time payment, the payment will be collected and an Official Receipt (OR) will be issued [S1]. The processing time for both steps is a maximum of ten (10) minutes [S1, S2]. The Person Responsible for the Fire Code Assessment (FCA) will issue the OPS, and the Agency responsible for the backroom operation is OSCP/BOSS [S2]. The client can present the OPS and pay the corresponding Fire Code Fees indicated in the OPS to proceed to the releasing window to claim the stub by presenting the OR [S3]."
+  ],
+  "contexts": [
+    [
+      "proceed to releasing\nwindow to claim the stub by presenting the OR.\nNote: Releasing date and time of FSEC is\nindicated in the claim stub.\n\nAGENCY ACTION: 3. Collect the payment and issue Official\nReceipt (OR)\nFor OSCP/BOSS : Backroom operation with\nOSCP/BOSS for one-time payment thru\nco-location\nFor Local Stations with MOA with the LGUs, fire\ncode fees/taxes shall be collected by the LGUs\n\nPROCESSING TIME: maximum of ten (10) minutes\n\nPERSON",
+      "applicant queuing number and issue OPS.\nFor OSCP/BOSS : Backroom operation with\nOSCP/BOSS for one-time assessment thru\nsharing of information\n\nPROCESSING TIME: maximum of ten (10) minutes\n\nPERSON RESPONSIBLE: Fire Code Assessor\n(FCA)\n\nAGENCY ROW 3\n\nCLIENTS STEP: 3. Present the OPS and pay the corresponding\nFire Code Fees indicated in the OPS.\nUpon receipt of the OR, proceed to releasing\nwindow to claim the stub by presenting the OR.\nNote: Re",
+      "232; 8426-0246; 8426-0253 Local 607 or \nthrough the email at: bfpnhq_ias@yahoo.com or ias.nhq@bfp.gov.ph\nHow Complaints are processed\nIn BFP NHQ, complaints may be filed at the Internal Affairs Service (IAS), who will attend to the Client/Customer    \nconcerns by calling into attention the staff/office concerned from the national level down to the city/municipal level.\nIn BFP Regional and Provincial/District Offices, on"
+    ]
+  ],
+  "ground_truth": [
+    "Under the eBOSS backroom framework, BFP coordinates with the LGU via automated information sharing for one-time assessment within a maximum of 10 minutes, and co-located one-time payment within 10 minutes."
+  ]
+}

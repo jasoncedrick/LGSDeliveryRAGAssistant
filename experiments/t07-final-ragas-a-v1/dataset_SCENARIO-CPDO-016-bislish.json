@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa nga mga dagkong commercial developments sama sa mall ug condominium ang kinahanglan ug PALC gikan sa konseho?"
+  ],
+  "answer": [
+    "Sa mga commercial developments sa mall ug condominium, ang kinahanglan nga impormasyon gikan sa PALC (Planning and Land Management Council) ay maaoy nakit-an sa [S1] (BFP-CITIZENS-CHARTER-2022.pdf) sa chunk DEV120-BFP-PDF0001-C001. Ngunit, ang BFP (Bureau of Fire Protection) lamang ang nag-aaral sa mga fire extinguisher. Ang mga commercial developments sa mall ug condominium, ang kinahanglan nga impormasyon sa PALC ay hindi nakit-an sa mga ibang nakalista sa Citizens' Charter."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "Than 5 Hectares, Commercial \nSand And Gravel Permit. If More Than 5 \nHectares, Mines And Geo Sciences \nBureau / Industrial Sand And Gravel/ \nEarthfill Permit\nNew Application: mandatory Mayor’s \nPermit to Quarry\nIndicate the gross capacity of the trucks",
+      "ing, culinary \narts, fine arts, tattoo arts, interior and fashion designs (other than those offered by \neducational institutions).\n4. Proprietors of funeral parlors and crematoriums engaged not only in the selling of\nmemorial lots, mausoleums, but likewise engaged in the retail of caskets and urns.\n5. Fees charged by mall owners maintaining toilets / powder rooms / comfort rooms\nfor a fee.\n6. Business activities or undertaking not otherwise stated in this code.\n(i) On Authorized Franchise Car Deal"
+    ]
+  ],
+  "ground_truth": [
+    "Under Article XI Section 1, malls, condominiums, hotels, warehouses, and apartments must secure Preliminary Approval and Locational Clearance (PALC) and Development Permit (DP) from the Sangguniang Panlungsod granted through a resolution by majority vote."
+  ]
+}

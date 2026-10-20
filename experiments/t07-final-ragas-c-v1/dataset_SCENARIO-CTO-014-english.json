@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What local business tax rate is assessed on the annual gross interest and commission income of commercial bank branches?"
+  ],
+  "answer": [
+    "The local business tax rate assessed on the annual gross interest and commission income of commercial bank branches in Davao City is sixty and half percent (60.50%) of one percent (1%) of the gross receipts of the preceding calendar year. [S1]"
+  ],
+  "contexts": [
+    [
+      "provided in \nparagraph (e) of this section.\n(f) On Banks and Other Financial Institutions, at the rate of sixty and half percent \n(60.50%) of one percent (1%) of the gross receipts of the preceding calendar year derived \nfrom interest, commissions and discounts from lending activities, income from financial \nleasing, dividends, rentals on property, and profit from exchange or sale of property, \ninsurance premium, including holding companies. All bank transactions filed or negotiated \nwithin Davao City branches, gross receipts of",
+      "Pesos or more, or who is required by law to file an income tax \nreturn shall pay an annual community tax of Five (P5.00) Pesos and an annual additional \ntax of One Peso (P1.00) for every One Thousand Pesos (P1,000.00) of income \nregardless of whether from business, exercise of profession or from property which in no \ncase shall exceed Five Thousand Pesos (P5,000.00).\nIn the case of husband and wife, the additional tax herein imposed shall be based \nupon the total property owned by them and the total gross receip",
+      "In excess 2,000,000.00 \nAt a rate of sixty (60%) \npercent of one percent\n(1%)\nFor purposes of this section, the tax on general engineering, general building, and \nspecialty contractors shall initially be based on the total contract price, payable in equal \nannual installments within the project term. Should a contractor (applicable only to general \nengineering and general building contractor) undertake to furnish the materials in the \nconstruction work, only the cost of such materials shall be deducted from his gross \nreceipts for the purpose of determining the tax due"
+    ]
+  ],
+  "ground_truth": [
+    "Banks and financial institutions pay an annual local business tax of 60.50% of 1.0% of gross receipts derived from interest, commissions, discounts, leasing, dividends, and property rentals from transactions negotiated within Davao City branches."
+  ]
+}

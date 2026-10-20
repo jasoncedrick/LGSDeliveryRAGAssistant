@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Magkano ang application fee at maximum tax cap sa pagkuha ng FSEC sa Bureau of Fire Protection?"
+  ],
+  "answer": [
+    "Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungkol sa application fee at maximum tax cap sa pagkuha ng Fire Safety Evaluation Clearance (FSEC) sa Bureau of Fire Protection. [S1, S2, S3]"
+  ],
+  "contexts": [
+    [
+      "s, etc.) as a prerequisite for the\nissuance of appropriate permits and licenses\nfrom the local and other government agencies\nconcerned.\n\nCHECKLIST OF\nREQUIREMENTS/\nDOCUMENTS\nBFP FRONT LINE SERVICES\nFIRE SAFETY  \nEVALUATION \nCLEARANCE\n(FSEC)\nAPPLICATION\nFIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION\nCERTIFICATE OF\nOCCUPANCY\nNEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPAN",
+      "test and acceptance forms of all fire protection and life safety features, which shall form part of the ―as-built‖\ndocuments turned over by the contractor to the building owner duly signed by the Contractor/Construction Manager and his/her Fire Safety Practitioner.\nNOTE (3) Fire Safety Maintenance Report (FSMR) - A written report prepared by the building owner, his/her fire safety practitioner or authorized representative duly signed by the Building Administrator and his/her Fire Safety Practitioner\nduring the regular annual fire safety inspection.",
+      "WAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST. Other service cells are blank in source; blank is not an exemption statement.]\n\nO   T   H   E   R     D   O   C   U   M   E   N   T   S\nFire Safety Compliance Report (FSCR) NOTE (1)\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION"
+    ]
+  ],
+  "ground_truth": [
+    "Applying for a Fire Safety Evaluation Clearance (FSEC) requires an application fee of PHP 200.00 plus Fire Code Construction Tax (FCCT) of 0.1% of verified estimated value (materials and labor) up to PHP 50,000.00 maximum."
+  ]
+}

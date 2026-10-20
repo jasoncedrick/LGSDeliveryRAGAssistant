@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga pormal nga rekisitos ug ebidensya nga gikinahanglan para mopasaka ug reklamo batok sa abusadong opisyal sa BFP?"
+  ],
+  "answer": [
+    "Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa BFP tungod sa iyong kahitun-an. Ang mga rekisito ug ebidensya para mopasaka ug reklamo batok sa abusadong opisyal sa BFP, wala nako ma-find sa mga nakapag-aral sa BFP-CITIZENS-CHARTER-2022.pdf [S1] o sa Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf [S2, S3]."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "BUSINESS BUREAU\nEXTERNAL SERVICES",
+      "1. Pre-Assessment \nPre-assessment is the process in which the Business Bureau assists the clients in \ncomplying with the prerequisites required by the Regulatory Offices prior to the \napplication of New Business Permit and certain Amendments to it. \nOffice or Division \nCity Mayor's Office – Permits & Licenses Division\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen; G2B – Government to \nBusiness\nWho may avail \nAny natural or juridical person who will be conducting   and \nengaging in any business, trade"
+    ]
+  ],
+  "ground_truth": [
+    "To file an administrative complaint against BFP personnel, the client must provide a written complaint with full names/addresses, material facts of acts/omissions, certified documentary evidence/affidavits, and certification of non-forum shopping to the Internal Affairs Service (IAS)."
+  ]
+}

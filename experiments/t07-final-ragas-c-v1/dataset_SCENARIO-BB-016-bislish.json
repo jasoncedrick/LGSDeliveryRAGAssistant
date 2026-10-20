@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Tagpila ang bayad sa Certified True Copy sa Mayor's Permit ug unsa ang mga kinahanglan i-presentar?"
+  ],
+  "answer": [
+    "Sa Certified True Copy sa Mayor's Permit, wala nga nakit-an nga impormasyon bahin sa Citizens' Charter. Ang bayad sa Certified True Copy sa Mayor's Permit ay hindi makit-an sa mga nakapag-aralan sa Citizens' Charter. Ang mga kinahanglan i-presentar sa Certified True Copy sa Mayor's Permit ay hindi rin makit-an sa mga nakapag-aralan sa Citizens' Charter. [S1]"
+  ],
+  "contexts": [
+    [
+      "5. Issuance of Certifications / Certified True Copy\nCertifications or Certified True Copy is issued to any natural or juridical entity, \ngovernment agencies or offices who wish to secure any copy of Business Permit or \nwho wish to know any status or record of a Taxpayer. \nOffice or \nDivision\nCity Mayor's Office – Permits & Licenses Division\nClassificati\non\nSimple (Certification, Certified True Copy and Master List without \nmodified parameters and formats), Highly Technical (Master List requiring \ntechnical parameters and format modification)\nType of",
+      "ence Permit form with 3 sets of \n  Civil/Architectural Plans of the fence duly signed \nand sealed by a licensed Civil Engineer/Architect  \n  \nNote: Applicant may use an A3 size of paper for \nthe structural design plan signed and sealed by a \nlicensed Civil/Structural Engineer\nHired Professionals (All Engineers & \nArchitects)\n2.     Certified True Copy of Land Title  \n1 original, 1 photocopy\nRegistry of Deeds/ City Assessor’s Office \n(CASSO)\n3.     Certified True Copy",
+      "more) \n      Applicant\n15. \nCertified True Copy of Tax Declaration\ncovering the property(ies) subject of the \napplication for the year immediately proceeding\n16. \nEnvironmental Compliance Certificate or\nCertificate of Non-Coverage (1 photocopy)\nDepartment of Environment & \nNatural Resources – \nEnvironment and Management \nBureau\n17. \nCertified True Copy of DAR conversion\norder\nDAR\n18. \nCopies of project description for projects\n(1 hectare and above)-project profile, audited \nfinancial statement, income tax return, \nCertificate of Registration, Corporation by-laws \nand all implementing a"
+    ]
+  ],
+  "ground_truth": [
+    "Securing a Certified True Copy of a business permit requires a letter request, valid ID, and SPA/Board Resolution if represented. The fee is PHP 100.00 for the certified copy plus PHP 35.00 for each additional copy."
+  ]
+}

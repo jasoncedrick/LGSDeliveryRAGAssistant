@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Kanus-a kinahanglan magkuha ug tinuig nga Hot Work Clearance sa BFP para sa mga negosyo nga mag-welding ug magputol ug puthaw?"
+  ],
+  "answer": [
+    "Wala nga kini nga tinuig nga Hot Work Clearance sa BFP para sa mga negosyo nga mag-welding ug magputol ug puthaw. Ang tinuod nga kini kinahanglan kung unsaon man ang proyekto nga durasyon, kung dili pa wala pa nga konstruksyon o renovation (pagpangitaon). Ang tinuod nga tinuig nga ito ma-secure sa BFP FSEC o FSIC Application Form, kung dili pa wala pa nga (S3). Ang tinuod nga kini ma-require kung unsaon man ang building/facilities/structures nga mahimong wala nga wet standpipe system, automatic fire suppression system, o automatic fire detection and alarm system (S2). (S1)"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "LIST. Other service cells are blank in source; blank is not an exemption statement.]\n\nNote: FSCR/FSCCR/FSMR  is required if the building/facilities/structures are \nrequired to install any or combination of the following: \n       1) Wet standpipe system; \n       2) Automatic fire suppression system; and \n       3) Automatic fire detection and alarm system.\nFire Safety Clearance for welding, cutting, and other hot work operations\n(if   required), shall be secured:\n1) \nPer \nProject \nDuration \n– \nfor \nnew \nconstruction \nor \nrenovation\n(during construction)",
+      "UDED \nIN THE NEGATIVE LIST\nA   P   P   L   I   C   A   T   I   O   N      F   O   R   M\nApplied in Fire Station/Lone District Fire Office \nBFP FSEC\nApplication Form\n(DCN No. BFP-QSF-\nFSED-001 REV.02\n(08.24.20))\n[REPRESENTATION: Application-form cell spans: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION.]\n\nBFP FSIC Application Form (DCN No. BFP-QSF-FSED-002 RE"
+    ]
+  ],
+  "ground_truth": [
+    "Hot Work Clearances (welding/cutting) must be secured: 1) Per project duration for new construction/renovation applied after fire inspection; or 2) Annually for businesses requiring daily repair or maintenance due to the nature of their operations."
+  ]
+}

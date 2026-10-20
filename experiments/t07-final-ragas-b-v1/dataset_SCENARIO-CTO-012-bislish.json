@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ang rate sa buhis para sa mga wholesaler ug distributor kung molapas sa 2 milyon ang ilang halin matag tuig?"
+  ],
+  "answer": [
+    "Sa mga wholesaler ug distributor, ang rate sa buhis kung molapas sa 2 milyon ang ilang halin matag tuig ay hindi na nakalagay sa mga nabasa namin. Ang mga detalye sa taxation sa mga contractor ay nakalagay sa [S2]. Ang mga detalye sa taxation sa mga wholesaler ug distributor sa buhis ay hindi nakalagay sa mga nabasa namin. Wala akoy nakit-an nga impormasyon bahin niini sa Citizens' Charter."
+  ],
+  "contexts": [
+    [
+      "the territorial jurisdiction of the City of Davao by \nProducers, Distributors or Wholesalers\nP 0.88 per kilo\nn. For one truckload of charcoal, scrapped iron, fire woods,\ncopra and all other similar goods/ commodities/merchandise \nnot subject to any particular fee above prescribed.\n418.00",
+      "In excess 2,000,000.00 \nAt a rate of sixty (60%) \npercent of one percent\n(1%)\nFor purposes of this section, the tax on general engineering, general building, and \nspecialty contractors shall initially be based on the total contract price, payable in equal \nannual installments within the project term. Should a contractor (applicable only to general \nengineering and general building contractor) undertake to furnish the materials in the \nconstruction work, only the cost of such materials shall be deducted from his gross \nreceipts for the purpose of determining the tax due",
+      "ion if request \nby the complainant\nLicensing Officer\nwith massive\ninspectors\nTOTAL: \nICAB:\nPhp100.00 \nfor the first\n10 units\nand\nPhp10.00 \nfor every\nunit in\nexcess of \n10 units.\nViolation: \nDepending\non\nViolation\n2 Days, 2 Hours \nand 5 Minutes\n(+10 Minutes for \npayment of ICAB \nfees and penalties\nfor violation, if\napplicable).\n(+ 4 Hours for the \nendorsement of\ncopy to appropriate \nregulatory offices \nand furnishing to \nthe complainant\nthe result of\ninspection as the\ncase may be). \n(+"
+    ]
+  ],
+  "ground_truth": [
+    "Wholesalers, distributors, and dealers are taxed on graduated tiers from PHP 1,210.00 (under 50k) up to PHP 18,150.00 (up to 2M). Gross sales in excess of PHP 2,000,000.00 are taxed at 66% of 1.0%. Businesses subject to manufacturer taxes are exempt from wholesaler tax."
+  ]
+}

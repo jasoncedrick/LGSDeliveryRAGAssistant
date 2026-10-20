@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ka porsyento nga socialized housing ang obligado i-comply sa mga subdivision developers ubos sa PD 957?"
+  ],
+  "answer": [
+    "Sa mga subdivision developers, ang 10% socialized housing ang nakatakas sa compliance sa PD 957. [S1, S2, S3]"
+  ],
+  "contexts": [
+    [
+      "14. Preliminary Subdivision Development Plan (PSDP) and \nDevelopment Permit (DP) for High End, Low End, Farm Lot and \nMemorial Park \nAn application for subdivision approval based on BP 220, PD 957, and other related \nlaws. Executive Order No. 71, Series of 1993, pursuant to RA 7160, was signed into \nlaw to devolve the powers of the Housing Land Use Regulatory Board to approve \nsubdivision plans to the cities through the City Housing Land Use and Regulatory \nUnit as the technical arm of the Sang",
+      "(1 photocopy)\n37. \nCAAP Clearance / Building\nHeight Certificate, whichever is \napplicable (1 photocopy)\nCivil Aviation Authority of the \nPhilippines\n38. \nPPA Clearance (for ports and\nharbors) \n1. photocopy)\nPhilippine Ports Authority\n39. \nClearance from National Power\nCorporation, if applicable (1 photocopy)\nNational Power Corporation\n40. \nPayment Receipt (1 photocopy) \nCity Treasurer’s Office\n41. \n10% socialized housing\ncompliance for PD 957\nApplicant\nCLIENT STEPS \nAGENCY \nACTION\nFEES TO \nBE PAID",
+      "golf course) (1 \nphotocopy)\nGolf Construction and \nDevelopment Committee\n37. \nCAAP Clearance / Building Height\nCertificate, whichever is applicable (1 \nphotocopy)\nCivil Aviation Authority of the \nPhilippines\n38. \nPPA Clearance (for ports and harbors)\n2. \nphotocopies)\nPhilippine Ports Authority\n39. \nClearance from National Power\nCorporation, if applicable (1 photocopy)\nNational Power Corporation\n40. \nPayment Receipt (1 photocopy) \nCity Treasurer’s Office\n41. \n10% socialized housing compliance for\nPD 957\nApplicant"
+    ]
+  ],
+  "ground_truth": [
+    "Subdivision applications governed by Presidential Decree No. 957 are legally mandated to submit proof of compliance with the 10% socialized housing requirement as part of the documentary checklist for subdivision approval."
+  ]
+}

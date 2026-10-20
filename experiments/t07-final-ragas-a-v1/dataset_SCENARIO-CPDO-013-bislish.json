@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ka beses dapat i-publish sa pamantalaan o newspaper ang notice of pending application para sa pag-usab sa zoning?"
+  ],
+  "answer": [
+    "Sa pamamagitan ng tatlong (3) araw, ang notice of pending application dapat i-publish sa pamantalaan o newspaper. [S2]\n\nReference: City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf | printed page 666 | chunk DEV120-CPDO-PDF0037-C001"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "a notice of pending \napplication to the \napplicant \n \nNote:  \n1. The applicant\nshall publish the \nnotice of pending \napplication in a \nnewspaper once \na week for three \n(3) weeks.\n2. Visible Project\nSign posted at \nthe project Site \n(Notice of \nPending \nApplication to be \nissued by the \nZoning \nAdministrator)\n3. Should submit\nphoto of visible \nproject sign\nAfter the compliance, \nproceed to step 2.8.\nof the\napplicant\n2.8 If compliant, \nmakes and submits \nreport for favorable \nrecommendation/s \nfor LZBA Board \nMeeting\nNone \n5 Days \nLZBA TWG \nMembers\nAnd\nSecretaria",
+      "bor’s Consent \nApplicant\n19. Certification that property is not \nwithin the Strategic Agriculture and \nFisheries Development Zone (SAFDZ)\nDepartment of Agriculture\nAfter submission of complete requirements:\n20. Visible project sign posted at the \nproject site (Notice of Pending \nApplication to be issued by the Zoning \nAdministrator)\nCPDO\n21.  Photo of Visible Project Sign \nApplicant\n22. Notice of Pending Application \npublished in a newspaper once a week \nfor three (3) weeks\nApplicant\nCLIENT STEPS \nAGENCY \nACTION\nFEES TO \nBE PAID\nPROCESSING\nTIME"
+    ]
+  ],
+  "ground_truth": [
+    "For re-zoning and reclassification, applicants must post a visible project sign issued by the Zoning Administrator at the site and publish a Notice of Pending Application in a local newspaper once a week for 3 consecutive weeks before public hearing deliberations."
+  ]
+}

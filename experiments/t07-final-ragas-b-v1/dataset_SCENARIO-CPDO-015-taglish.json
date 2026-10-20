@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Magkano ang bayad kada hektarya para sa processing at inspection ng Subdivision Development Permit (DP)?"
+  ],
+  "answer": [
+    "Ang bayad para sa processing at inspection ng Subdivision Development Permit (DP) ay PHP 2,880.00 per hectare. [S2, S3]"
+  ],
+  "contexts": [
+    [
+      "14. Preliminary Subdivision Development Plan (PSDP) and \nDevelopment Permit (DP) for High End, Low End, Farm Lot and \nMemorial Park \nAn application for subdivision approval based on BP 220, PD 957, and other related \nlaws. Executive Order No. 71, Series of 1993, pursuant to RA 7160, was signed into \nlaw to devolve the powers of the Housing Land Use Regulatory Board to approve \nsubdivision plans to the cities through the City Housing Land Use and Regulatory \nUnit as the technical arm of the Sang",
+      "Compliance \nbased on the \nMinutes of \nMeeting\nTOTAL:\nProcessin\ng Fee: \nPSDP: \nPHP\n360.00\nper\nhectare\nDP: PHP \n2,880.00\nper\nhectare\nInspection\nFee: \nPSDP:\nPHP\n1,500.00\nper\nhectare\nDP: PHP \n2,880.00\nper\nhectare\n24 Days, 2\nHours, and 5\nMinutes",
+      "Minutes \n \nZoning Officer\nIV\nCPDO\n1.3 Upon initial \nassessment of \ndocuments, if \ncomplete, issues \nOrder of \nPayment for \nProcessing Fee\nProcessin\ng Fee: \nPSDP: \nPHP\n360.00\nper\nhectare\nDP: PHP \n2,880.00\nper\nhectare\nInspection\nFee: \nPSDP: \nPHP\n1,500.00\nper\nhectare\nDP: PHP \n2,880.00\nper\nhectare\n10 Minutes"
+    ]
+  ],
+  "ground_truth": [
+    "For a Subdivision Development Permit (DP), the processing fee is PHP 2,880.00 per hectare, and the site inspection fee is PHP 2,880.00 per hectare."
+  ]
+}

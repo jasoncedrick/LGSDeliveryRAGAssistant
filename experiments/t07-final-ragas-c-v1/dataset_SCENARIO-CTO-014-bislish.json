@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ang buhis sa siyudad sa mga interes ug komisyon nga kinitaan sa mga sanga sa bangko dinhi sa Davao?"
+  ],
+  "answer": [
+    "Ang buhis sa siyudad sa mga interes ug komisyon nga kinitaan sa mga sanga sa bangko dinhi sa Davao ay maaoy nakita sa [S1] at [S2]. Nagpapahayag sa ibabaw na mga teksto na \"On Banks and Other Financial Institutions, at the rate of sixty and half percent (60.50%) of one percent (1%) of the gross receipts of the preceding calendar year derived from interest, commissions and discounts from lending activities, income from financial leasing, dividends, rentals on property, and profit from exchange or sale of property, insurance premium, including holding companies.\" [S1] at \"All bank transactions filed or negotiated within Davao City branches, gross receipts of\" [S2] ang nakatanggap sa impormasyon kung saan ang buhis sa mga interes ug komisyon nga kinitaan sa mga sanga sa bangko dinhi sa Davao."
+  ],
+  "contexts": [
+    [
+      "provided in \nparagraph (e) of this section.\n(f) On Banks and Other Financial Institutions, at the rate of sixty and half percent \n(60.50%) of one percent (1%) of the gross receipts of the preceding calendar year derived \nfrom interest, commissions and discounts from lending activities, income from financial \nleasing, dividends, rentals on property, and profit from exchange or sale of property, \ninsurance premium, including holding companies. All bank transactions filed or negotiated \nwithin Davao City branches, gross receipts of",
+      "shall be deducted from his gross \nreceipts for the purpose of determining the tax due.\nUpon completion of the project, the taxes shall be recomputed on the basis of the \ngross receipts for the preceding calendar years and the deficiency tax, if there be any, \nshall be collected as provided in this Code or the excess tax payment shall be refunded.\nLessors and Dealers of Real Estate shall be taxed at the same rate provided in \nparagraph (e) of this section.\n(f) On Banks and Other Financial Institution",
+      "in imposed shall be based \nupon the total property owned by them and the total gross receipts or earnings derived \nby them.\nJuridical Persons Liable to Community Tax\nEvery corporation no matter how created or organized, whether domestic or resident-\nforeign, engaged in or doing business in the Philippines whose principal office is located \nin this city shall pay an annual Community Tax of Five Hundred Pesos (P500.00) and an \nadditional tax, which in no case, shall exceed Ten Thousand Pesos (P10,000.00) in \naccordance with the following"
+    ]
+  ],
+  "ground_truth": [
+    "Banks and financial institutions pay an annual local business tax of 60.50% of 1.0% of gross receipts derived from interest, commissions, discounts, leasing, dividends, and property rentals from transactions negotiated within Davao City branches."
+  ]
+}

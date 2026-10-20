@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Tagpila ang extraction fee matag cubic meter ug tinuig nga bayad sa quarry sa balas ug bato sa Davao?"
+  ],
+  "answer": [
+    "Sa Davao, ang extraction fee sa quarry sa balas ug bato ay hindi nakalalaman sa mga nakapag-aralan namin. Ang mga nakalalaman lamang ay ang mga bayad para sa sand, gravel, at iba pang quarry resources. Ang mga ito ay nakalalaman sa [S3]. Ang bayad para sa quarry sa balas ug bato ay hindi nakalalaman sa mga nakapag-aralan namin. Wala akoy nakit-an nga impormasyon bahin niini sa Citizens' Charter."
+  ],
+  "contexts": [
+    [
+      "suppliers parked or displayed at or within the \nvicinities of the public markets or in other places within the territorial jurisdiction of the City \nof Davao, the following rates: \n \n \nRate of Fees\na. For rice, corn, sugar, or similar commodities placed in sacks,\nper sack \nP 4.00\nb. For “mongos”, beans and ginger placed in sacks, per sack \n8.00\nc. For pigs (large) 80 kilos or more, per head \n20.50\nd. For pigs (medium) size 50 kilo",
+      "ion and review by the Line and Grade Section of the \nInspection and Enforcement Division to determine compliance to line and grade, \nsetbacks, yards/easements and parking requirements.\nInspection and Verification Fee \nP 200.00\nPer cu. meters of excavation \n3.00\nIssuance of GP & EP, valid only for thirty (30) days or superseded \nupon issuance of Building Permit\n50.00\nPer cu. meter of excavation for foundation with basement \n4.00\nExcavation other than foundation or basement, per",
+      "3. Tax on Sand, Gravel, and Other Quarry Resources\nAssessment, Collection, and Issuance of SAG Quarry Tickets issued to concessionaires/ \npermittees for payment per Revenue Code of Davao City. \nOffice or Division \nOffice of the City Treasurer (CTO) – Buhangin District/ Other \nDistrict with Concessionaire\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail \nAll\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Permit to Quarry – 1 original, 1\nphotocopy"
+    ]
+  ],
+  "ground_truth": [
+    "Under Ordinance No. 0291-17 Section 44, commercial sand and gravel extraction requires a Permit to Quarry from CENRO, an approved Business Permit, and monthly extraction reports. The extraction fee is PHP 30.00 per cubic meter, with an annual fee of PHP 1,500.00 to PHP 3,500.00 based on area size."
+  ]
+}

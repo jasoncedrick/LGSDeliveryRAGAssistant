@@ -1,0 +1,13 @@
+{
+  "console.log": "c3daff2c09845e8164d71f12bc1cec6a1bfde1d05c3e007b7d2c04b37bf20206",
+  "controls.snapshot.json": "3c3248c706dc80c85e46a48cf925222cca960ffddd34c592f5ba6b1d7f3efdbb",
+  "previous_current_status.json": "44ce0055d3d09fbc7b63f468be3c14a3cf73dcda5d8169353f35877acdce46f3",
+  "progress.json": "4397c0fa671aa64b0c84082af53cc1a721559fda6289ad1a3a2155d14178c976",
+  "prompt_template.txt": "833444e388260e91f7847b0ac778632f72871994f375a7b1436c7d878661dd0b",
+  "protocol.json": "f247439c8b73c78972997b58540eadf9fe1f1e5604951f3e498127732dde4042",
+  "READ_THIS_FIRST.txt": "8d87513c87db8e1ada5cfedda4392419ca40075a59b3567b03df9d5b0f5e1bb2",
+  "results.jsonl": "8926a8f4b884c9b048800e35b34311f7230a84437e812e3c3c610cdb892d3783",
+  "REVIEW_DECISION.txt": "78d199df797ab5211391837975e79cad3e0534563336f3c6eb290c8efad91e74",
+  "status_before_result.json": "b942385074a62b65568a368e6b7972c100ca40c3495ea847c8296af65201c30b",
+  "summary.json": "7b2dbb5499ef689468ab4bdbd23b0c34a4da74b9e1ec8930180e0036e0baf631"
+}

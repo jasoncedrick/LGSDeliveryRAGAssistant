@@ -1,0 +1,16 @@
+{
+  "group_id": "SCENARIO-CTO-006",
+  "review_status": "needs_correction",
+  "reviewer": "assistant",
+  "findings": [
+    "Clarify additional-tax caps rather than total-tax caps.",
+    "Restore preceding-year basis and source aggregation clauses."
+  ],
+  "manual_check": null,
+  "candidate_applied": false,
+  "limitations": [
+    "Fixed thesis sources, not present-day legal advice.",
+    "Assistant image review is not independent expert certification.",
+    "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+  ]
+}

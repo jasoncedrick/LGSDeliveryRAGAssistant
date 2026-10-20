@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang mga dagdag na interview at dokumento para sa mga masahista, bar attendants, at menor de edad na kukuha ng Occupational Permit?"
+  ],
+  "answer": [
+    "Sa mga masahista, bar attendants, at menor de edad na kukuha ng Occupational Permit, maghihiwalay ang Bureng Bureau ang interview at dokumento. Ang mga ito ay nakalilimutan sa Citizens' Charter ng Business Bureau sa pagpapalit ng Occupational Permit. Ang mga ito ay maaaring ibig sabihin na kailangan ng interview ang mga entertainer, masseur, o bar attendant na 18-20 taong gulang, o ang applicant na walang 18 taong edad. Ang mga detalye ng interview at dokumento ay hindi nakalimutan sa mga detalye ng proseso ng pagpapalit ng Occupational Permit sa Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf [S2, S3]."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "city.gov.p\nh/, select Create \nApplication for New \nor Occupational \nPermit Renewal for \nRenewal, Fill out \nOnline Application \nForm and upload the \nrequired documents \nenumerated in the \nchecklist.\nNote: \n   If the applicant is an \nentertainer, masseur, \nor bar attendant 18-20 \nyears old, or the \napplicant is below 18 \nyears old, he or she \nmust present \nhimself/herself for an \ninterview.\nProcess Proper:\n2.1Receive application \nform and supporting \ndocuments including \nofficial receipt, and \nverify applicant \ninformation.\n2.2. Conduct interview",
+      "ing \ndocuments including \nofficial receipt, and \nverify applicant \ninformation.\n2.2. Conduct interviews \nif the applicant is an \nentertainer, masseur, \nor bar attendant 18-20 \nyears old, or the \napplicant is below 18 \nyears old.\nNone\n14 Minutes \n(Online and \nOnsite)\nOccupational\nPermit\nSection Head\nand\nOccupational\nPermit\nPersonnel\nBusiness \nBureau"
+    ]
+  ],
+  "ground_truth": [
+    "Entertainers, masseurs, and bar attendants aged 18-20, or workers below 18, must present themselves for an interview and submit a PSA Birth Certificate, parent/guardian valid ID with appearance, notarized Affidavit of Consent, and City Health ID."
+  ]
+}

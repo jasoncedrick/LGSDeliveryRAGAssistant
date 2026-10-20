@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Magkano ang buwanang bayad para sa pagharang at paggamit ng bangketa habang nagtatayo ng gusali?"
+  ],
+  "answer": [
+    "Wala akong impormasyon bahin sa Citizens' Charter tungkol sa bayad para sa pagharang at paggamit ng bangketa habang nagtatayo ng gusali. Ang bayad para sa building permit ay nakasaad sa [S1] at [S2]. Ang bayad para sa market fees para sa ambulant/transient vendors ay nakasaad sa [S3]. Wala tayong impormasyon tungkol sa bayad para sa pagharang at paggamit ng bangketa habang nagtatayo ng gusali sa Citizens' Charter."
+  ],
+  "contexts": [
+    [
+      "BUILDING PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\nBases of assessment\nCharacter of occupancy or use of building/structure \nCost of construction \nFloor area \nHeight\nRegardless of the type of construction, the cost of construction of any \nbuilding/structure for the purpose of assessing the corresponding fees shall be \nbased on the following:\nTable II.G.1",
+      "area bracket indicated in the Table above. \nEach sub-area and the fee corresponding to its area bracket are multiplied together. \nThe building fee is the sum of the individual products as shown in the following \nexample:\nSample Computation for Building Fee for a building having a floor area of 3,200 sq. \nmeters:\nNext 500 sq. meters @ 23.00 …………………………………………….Php   11,500.00\nNext 100 sq. meters @ 22.00.…………………………………………….Php     2,200.00\nNext 100 sq. meters @ 20.50…………………",
+      "Section 349\nMARKET FEES FOR AMBULANT/TRANSIENT VENDORS\nMarkets\nRate of Fees per \nSquare Meter of \nFraction Thereof\nper Day\nClass A \nP 8.00\nClass B \n6.00\nClass C \n4.00\nClass D \n2.00\nTime \nfor \nPayment \n/ \nPenalties \nfor \nDelinquency. \n- \nThe \nmonthly\nrentals for market stalls shall become due and payable within the first twenty (20) days of \nthe month. Failure to pay the rental within the period required herein shall subject the \nLessee/Occupant to a surcharge of twenty-fi"
+    ]
+  ],
+  "ground_truth": [
+    "A Sidewalk Enclosure and Occupancy Permit costs PHP 240.00 per calendar month for sidewalk enclosures up to 20.00 sq.m., and PHP 12.00 for every square meter or fraction thereof in excess of 20.00 sq.m. per month."
+  ]
+}

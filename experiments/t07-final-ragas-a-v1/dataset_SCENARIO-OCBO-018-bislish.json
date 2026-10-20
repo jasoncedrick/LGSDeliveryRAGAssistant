@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ang bayad sa electrical inspection para sa mga standby generator ug transformer nga gipanag-iya sa edipisyo?"
+  ],
+  "answer": [
+    "Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa mga standby generator ug transformer nga gipanag-iya sa edipisyo.\n\nHowever, for electrical inspection fees related to buildings, the following information can be found in the OCBD Citizen Charter 2026_VOL.I & II-2.pdf [S2].\n\n1. A one-time electrical inspection fee equivalent to 10% of Total Electrical Permit Fees shall be charged to cover all inspection trips during construction [S2, S3].\n\nUnfortunately, the Charter does not provide specific fees for standby generators and transformers. It is recommended to contact the Office of the City Building Official (OCBO) for more detailed information."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "ISSUANCE OF CERTIFICATE OF ANNUAL INSPECTION FOR ELECTRICAL NEW \nSCHEDULE OF FEES AND OTHER CHARGES OF THE REVISED IMPLEMENTING \nRULES AND REGULATIONS (IRR) OF THE NATIONAL BUILDING CODE OF THE \nPHILIPPINES (PD 1096)\nElectrical Inspection Fees:\ni. A one time electrical inspection fee equivalent to 10% of Total Electrical Permit Fees \nshall be charged to cover all inspection trips during construction.\nii. Annual",
+      "13. Issuance of Certificate of Annual Electrical Inspection\nA Certificate of Annual Electrical Inspection is issued after conducting an annual inspection of a \nbuilding/structure to ensure that electrical and electronic systems coincide with the approved plans \nand conform with the safety standards and other provisions of the Code and its Revised \nImplementing Rules and Regulations\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; \nG2G"
+    ]
+  ],
+  "ground_truth": [
+    "Transformer, UPS, and generator capacity fees under Section 4.b are: 5 kVA or less = PHP 40.00; over 5 to 50 kVA = PHP 40 + PHP 4/kVA; over 50 to 300 kVA = PHP 220 + PHP 2/kVA; over 300 to 1,500 kVA = PHP 720 + PHP 1/kVA; over 6,000 kVA = PHP 4,170 + PHP 0.25/kVA."
+  ]
+}

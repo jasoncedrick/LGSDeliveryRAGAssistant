@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What is the graduated business tax rate applied to manufacturing and food processing businesses exceeding PHP 6.5 million in gross sales?"
+  ],
+  "answer": [
+    "Wala akong impormasyon bahin sa Citizens' Charter tungkol sa tax rate ng manufacturing at food processing businesses na may kalahok sa PHP 6.5 million o higit pa sa gross sales. Ang mga impormasyon sa Citizens' Charter lamang tungkol sa mga negosyo na retail at spare parts dealership. [S1, S2] Ang mga negosyo na retail ay may tax rate na nakasaad sa Citizens' Charter, kasama ang mga negosyo na may kalahok sa PHP 50,000.00 but not over P400,000.00 (2.2%) at in excess of P400,000.00 (1.21%). Ang mga spare parts dealership ay may tax rate na nakasaad sa Citizens' Charter, kasama ang mga negosyo na may kalahok sa PHP 10,000,000.00 (2.2%) at PHP 20,000,000.00 (1.65%) at PHP 30,000,000.00 (1.1%) at PHP 100,000,000.00 (22.0%) at PHP 3,000,000,000.00 (11%) at mga kalahok sa PHP 2,000,000,000.00 at PHP 3,000,000,000.00 at mga kalahok sa PHP 100,000,000.00 at PHP 3,000,000,000.00. Ang mga negosyo na manufacturing at food processing ay hindi nakasaad sa Citizens' Charter na nakita ko. [S1, S2]"
+  ],
+  "contexts": [
+    [
+      "the total sales and shall be \nsubject to the rates not exceeding one-half (1/2) of the rates prescribed under paragraphs \n(a), (b), and (d) of this Article.\n(d) On Retailers:\nGross Sales/Receipts for the Preceding Year \nRate of Tax Per Annum\nMore than P50,000.00 but not over P400,000.00 \n2.2%\nIn excess of P400,000.00 \n1.21%\nHowever, barangays shall have the exclusive power to levy taxes on stores whose \ngross sales or receipts of the preceding",
+      "Valid and Existing Dealership \nAgreement, tax rate is as follows:\nSPARE PARTS:\nFrom \nTo Less Than \nAnnual Tax\n0 \nPhp 10,000,000.00 \n2.2%\nPhp 10,000,000.00 \nPhp 20,000,000.00 \nPhp 220,000.00 plus \n1.65% of gross receipts in \nexcess of Php \n10,000,000.00\nPhp 20,000,000.00 \nPhp 30,000,000.00 \nPhp 385,000.00 plus 1.1% \nof gross receipts in excess \nof Php 20,000,000.00\nPhp 30,000,000.00 \nand above \nPhp 495,000.00",
+      "receipts in excess of Php \n100,000,000.00\nPhp 2,000,000,000.00 \nPhp 3,000,000,000.00 \nPhp 12,402,500.00 plus \n22.0% of 1.0% of gross \nreceipt in excess of Php \n2,000,000,000.00\nPhp 3,000,000,000.00 \nand above \nPhp 14,602,500.00 plus \n11% of 1.0% of gross \nreceipts in excess of Php \n3,000,000,000.00\ni.2 On Spare Parts and Services of Car Dealers with Valid and Existing Dealership \nAgreement, tax rate is as follows:\nSPARE"
+    ]
+  ],
+  "ground_truth": [
+    "Manufacturers, assemblers, and processors are subject to graduated fixed taxes ranging from PHP 1,497.38 for gross sales under PHP 50,000 up to PHP 44,240.63 for sales up to PHP 6.5M. Gross sales in excess of PHP 6,500,000.00 are taxed at 46% of 1.0%."
+  ]
+}

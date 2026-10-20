@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What is the procedure and checklist of requirements for the partial retirement of a business permit line?"
+  ],
+  "answer": [
+    "The procedure and checklist of requirements for the partial retirement of a business permit line in Davao City are as follows:\n\n1. Prepare the following documents:\n   - Affidavit of Partial Retirement (notarized) stating the reason, effective date of retirement, and line of business to retire [S1]\n   - Secretary Certificate / Board or Partnership Resolution (notarized) stating the effective date of retirement [S1]\n\n2. Submit the documents and application form for Partial Retirement to the Business Bureau. Proceed to the District Treasurer’s Office for the approval of the application [S2].\n\n3. The Business Bureau will process the application as follows:\n   - Assess Application for Partial Retirement [S2]\n   - Verify and encode the Application for Partial Retirement [S2]\n   - Receive approved Applications for Partial Retirement and complete attachments/documents [S3]\n   - Check and approve the Application for Partial Retirement [S3]\n   - Tag and encode the Partial Retirement [S3]\n   - Encode notations and print the Business Permit [S3]\n\nThe processing time for the Business Bureau is approximately 1 hour and 55 minutes [S2]. The responsible personnel are the Processing Section and Records Section Head of the Business Bureau [S3].\n\nFor the citizen's information, the Citizens' Charter does not specify a fee for the partial retirement of a business permit line in this source."
+  ],
+  "contexts": [
+    [
+      "’s Permit,\nApplication for Renewal of Business Permit, \nor Certified True Copy of Business Permit \nw/ Affidavit of Loss in case of lost permits\nApplicant\nAMENDMENT OF BUSINESS PERMIT – PARTIAL RETIREMENT \n1. Affidavit of Partial Retirement (notarized)\nstating the reason, effective date of \nretirement and line of business to retire-\nSingle Proprietorship\nApplicant, notarized by any Notary \nPublic\n2. \nSecretary Certificate / Board or\nPartnership Resolution (notarized) stat",
+      "Amendment\nof\nBusiness\nPermit.\n1 Hour and \n55 Minutes\nI. Amendment of Business Permit (Partial Retirement)\nCLIENT \nSTEPS\nAGENCY ACTION\nFEES TO BE\nPAID\nPROCESSIN\nG TIME\nPERSON\nRESPONSIBLE\nSTEP 1: APPLICATION\n1.Submit \npertinent \ndocuments \nand Receive \npertinent \ndocuments \nand \napplication \nform \nfor\nPartial \nRetirement \nthen proceed \nto the District \nTreasurer’s \nOffice for the \napproval \nof\n1.1 Assess \nApplication for \nPartial Retirement.\n1.2 Verify and \nEncode Application \nfor Partial \nRetirement.",
+      "documents. \nClaim \nBusiness \nPermit at the \nBusiness \nBureau office \nand Sign \nLogbook\n3.1 Receive \napproved \nApplications for \nPartial Retirement \nand Complete \nAttachments / \nDocuments (claim \nstub is released to \nthe client on this \nstep)\nNone \n10 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau\n3.2 Check and \nApprove Application \nfor Partial \nRetirement\nNone \n20 Minutes \nRecords\nSection Head\nBusiness \nBureau\n3.3 Tag and Encode \nPartial Retirement\nNone \n20 Minutes \nRecords\nSection Head\nBusiness \nBureau\n3.4 Encode \nNotations and Print \nBusiness Permit\nNone \n10 Minutes EDP"
+    ]
+  ],
+  "ground_truth": [
+    "Partial retirement requires a notarized Affidavit of Partial Retirement stating the reason, effective date, and business line to retire (or Board/Partnership Resolution), SPA if represented, representative ID, and latest business permit. Approval and tax reassessment by the City Treasurer are required."
+  ]
+}

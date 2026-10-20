@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga notice ug proseso nga ipatuman sa Business Bureau sa dili pa ipasira ang usa ka negosyo nga dunay kalapasan?"
+  ],
+  "answer": [
+    "Sa Business Bureau, ang mga notice ug proseso nga ipatuman sa kaso nga wala pa ipasira ang isa ka negosyo na may kalapasan ay nakatanggap ang transaktor sa email at SMS ang access code. Pagkatapos nga nga nakahatag sa access code, maoy ang tungod nga mag-renew ang Taxpayer ang kan-anong negosyo permit. Ang applicant maoy ang mag-fill up ng mga web forms at mag-submit sa mga dokumento na kinahanglan. Pagkatapos, maoy ang tungod nga mag-assessment ug mag-pabayad ng dues online. Pag-abot sa pag-check ng status ng application, kung ang permit na pending o blocked, maoy ang tungod nga makapasok sa mga requirements na nakatanggap sa regulatory offices ([S1] Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf | printed page 72 | chunk DEV120-BB-PDF0033-C001).\n\nSa iba't ibang pag-apply, maoy ang tungod nga mag-update ang contact info sa appbts.davaocity.gov.ph, kung transaktor wala siya ang owner ([S2] Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf | printed page 75 | chunk DEV120-BB-PDF0036-C001)."
+  ],
+  "contexts": [
+    [
+      "transacting person is \nnot the owner)\nii. \nSPA for single \nproprietorship \nand Secretary \nCertificate for \nCorporation\nClient will receive thru \nemail and SMS an \naccess code (once \naccess code has been \nreceived). Then, the \nTaxpayer may now \nrenew his/her business \npermit: Applicant to fill \nup the web forms and \nsubmit together with the \ndocuments required. \nProceed to assessment \nand payment of dues \nonline. Afterwards, the \nTaxpayer can then \ncheck the status of the \napplication. If the permit \nis pending / blocked, \ncomply with Regulatory",
+      "Login to \nappbts.davaocity.gov.ph \nand update his/her \ncontact info: email \naddress, contact nos. \nand upload documents \nrequired for updating of \ndetails:\ni. \nAttached: ID \n(authorized \nrepresentative-if \ntransacting \nperson is not the \nowner)\nii. \nSPA for single \nproprietorship \nand Secretary \nCertificate for \nCorporation\nClient will receive thru \nemail and SMS an \naccess code (once \naccess code has been \nreceived). Then, the \nTaxpayer may now \nrenew his/her business \npermit, Print out the \napplication form and \nproceed",
+      "of Business ID \nnumber. If pending, \ncomply with \nrequirements. If \ndenied, proceed to \nROs denying the \napplication for further \ninformation.\nAffidavit of \nUndertaking that there \nhad been no \nsubstantial changes \nmade on the building) \nand no history, Issue \nNotice to Proceed for \nthe approval by the \nRegulatory Offices.\n- If Complete \nDocumentary \nRequirements (with \nFSIC for Occupancy + \nAffidavit of \nUndertaking that there \nhad been no \nsubstantial changes \nmade on the building) \nbut with history, tag \nPending with \nDeficien"
+    ]
+  ],
+  "ground_truth": [
+    "Non-compliant businesses receive a 1st Notice of Violation with an inspection report. If uncorrected after re-inspection within 15 days, a 2nd and Final Notice with Cease-and-Desist Order is recommended. Continued non-compliance results in a physical Closure Order within 1 day."
+  ]
+}

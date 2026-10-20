@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ang minimum nga bayad ug unsaon pagkwenta sa Fire Safety Inspection Fee (FSIF) para sa FSIC sa Occupancy Permit?"
+  ],
+  "answer": [
+    "Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa Fire Safety Inspection Fee (FSIF) para sa Fire Safety Inspection Certificate (FSIC) sa Occupancy Permit.\n\nHowever, the BFP Citizens' Charter 2022 does provide information about the Fire Safety Inspection Fee for other services. For instance, the fee for Fire Safety Evaluation Clearance (FSEC) is Php 500.00 for new establishments and Php 300.00 for renewals [S2]. The fee for Fire Safety Inspection Certificate (FSIC) for new business permits without a valid FSIC or expired FSIC/with existing violation of the Fire Code/included in the Notice of Violation (NOV) is Php 1,000.00 [S3].\n\nUnfortunately, the specific fee for FSIC during the Occupancy Permit stage is not mentioned in the provided sources. It is best to contact the Bureau of Fire Protection (BFP) directly for the most accurate and up-to-date information."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "s, etc.) as a prerequisite for the\nissuance of appropriate permits and licenses\nfrom the local and other government agencies\nconcerned.\n\nCHECKLIST OF\nREQUIREMENTS/\nDOCUMENTS\nBFP FRONT LINE SERVICES\nFIRE SAFETY  \nEVALUATION \nCLEARANCE\n(FSEC)\nAPPLICATION\nFIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION\nCERTIFICATE OF\nOCCUPANCY\nNEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPAN",
+      "any\n[REPRESENTATION: Matrix dot shown for: NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE N"
+    ]
+  ],
+  "ground_truth": [
+    "For FSIC for Certificate of Occupancy and new/renewal business applications, the fee panel states FSIF is 15% of all fees charged by LGU/PEZA, not less than PHP500. It explicitly adds: if assessment from LGUs/PEZA is zero, FSIF is zero. Other fees apply if applicable under the cited RIRR provision. Do not omit the zero-assessment exception or narrow the base to LGU-only regulatory fees."
+  ]
+}

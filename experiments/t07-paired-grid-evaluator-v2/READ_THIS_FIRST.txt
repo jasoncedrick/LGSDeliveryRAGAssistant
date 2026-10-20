@@ -1,0 +1,49 @@
+T07: PAIRED DEVELOPMENT GRID RESCORE
+
+T06 harness implementation is complete with documented evaluator limitations.
+T07 is IN PROGRESS. This folder is a development checkpoint, not a freeze or final held-out A/B/C result.
+
+Grounding before changes
+20260923.pdf PDF28: tokenizer-aware 120-token chunks, 20-token overlap.
+PDF30: chunk-level BM25/FAISS/dictionary fusion and simplex weights.
+PDF32-34: identical development queries, Context Precision selection across 15 office-language cells; freeze before held-out A/B/C testing.
+Authoritative main Thesis Tracker T07: execute three frozen architectures and export comparison metrics CSV. The workbook's historical Complete status is not new validation evidence.
+Exact manuscript, archived tracker evidence, input and implementation hashes are registered in protocol.json.
+
+Current work
+Rescore original and punctuation-tokenizer grids with the SAME fixed v2 offline Context Precision evaluator. Both retain 17 weight candidates and K=3/K=5. The unchanged 90 queries cover 30 groups. All 1,530 paired query/grid records retain identical normalization and status. Union caching reduces duplicate judgments to 1,560 unique query/context pairs across 68 aggregate conditions. No old evaluator scores are imported.
+
+Each judgment archives its request, response, exact prompt hash and verbatim-evidence validation. An invalid format gets at most one format-only retry. A transport failure is retained. Valid judgments are never retried to improve agreement. Failed judgments remain null; stopped queries contribute zero. Selection remains blocked until all conditions have complete scores.
+
+Evaluator limitation
+Adaptive development calibration achieved 55/60 agreement, with four false positives and one invalid output. This is not independent expert validation. Prompt and evaluator versions are explicit; original scores and traces remain preserved.
+
+Watch progress from the clean project in PowerShell
+Get-Content .\experiments\t07-paired-grid-evaluator-v2\console.log -Tail 15 -Wait
+Ctrl+C stops only this log viewer. It does not stop the scoring process.
+
+Read the latest machine-readable progress
+Get-Content .\experiments\t07-paired-grid-evaluator-v2\progress.json
+
+If the job stops, first verify that no scorer is still running. Then resume with
+D:\thesis\venv\Scripts\python.exe -B scripts/rescore_t07_grids_v2.py
+Do not start a duplicate worker or remove an active judge.lock. The runner refuses concurrent workers and changed input/protocol hashes. Keep Ollama available during scoring.
+
+When finished
+comparison.json: all cell means, nulls, and best candidate only if all 68 conditions are complete.
+comparison_metrics.csv: tokenizer, weights, K, J and failed-query counts.
+judge_verdicts.jsonl: raw audit traces and bounded format retries.
+progress.json / console.log: observed progress, not projected completion.
+
+Next gates
+1. Inspect nulls and remaining evidence-coverage failures; do not silently fill or discard them.
+2. Review the paired grid result and select the development configuration using the registered objective. A higher Hit/MRR alone does not select it.
+3. Verify the selected index/query tokenizer, A/B/C ablation, generation settings and artifact alignment. If serving code changes, verify separately; app defaults are unchanged by this run.
+4. Register a complete immutable freeze manifest before opening held-out questions.
+5. Execute the frozen held-out A/B/C runs and export the final comparison CSV with explicit failure denominators. Only then close final T07.
+
+No immediate manual source check is requested for this rescore. Any further source ambiguity or judge disagreement must be reported rather than declared solved by a numeric score. Existing BB fee and BFP association caveats remain documented.
+
+Checks before launch
+10 focused tests passed: paired-grid aggregation, stopped-query denominators, missing-score blocking, prompt construction and grounded verdict parsing.
+Read-only input verification confirmed manuscript hash, the archived main tracker tab, 30 groups/90 records, 17 weights, K=3/5 prefix alignment, all corpus chunk IDs and identical paired normalization/status.

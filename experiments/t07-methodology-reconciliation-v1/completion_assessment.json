@@ -1,0 +1,24 @@
+{
+  "T06": "COMPLETE_IMPLEMENTATION_WITH_DOCUMENTED_EVALUATOR_LIMITATIONS",
+  "T07_development_execution_and_export": "COMPLETE_WITH_DOCUMENTED_LIMITATIONS",
+  "T07_full_manuscript": "INCOMPLETE_NO_REGISTERED_FREEZE_OR_HELD_OUT_ABC_RUN",
+  "saved_interactions": 270,
+  "development_groups": 30,
+  "queries_per_configuration": 90,
+  "mandatory_duplicate_review": false,
+  "quote_perfection_is_manuscript_requirement": false,
+  "final_evaluation_required": "Registered freeze followed by 70-group/210-query held-out A/B/C comparison; existing development outputs cannot replace it.",
+  "final_test_location": "An old-project benchmark_scenarios_test.json filename exists; contents were not inspected or copied. No authoritative held-out manifest is registered in this clean project.",
+  "no_new_expensive_run": true,
+  "no_imputation": true,
+  "held_out_accessed": false,
+  "freeze": false,
+  "selection_status": "Historical development selection preserved for provenance, not newly endorsed or frozen.",
+  "known_limitations": [
+    "Legacy judge accepts unsupported facts in at least the documented BFP case.",
+    "V2 evidence-contract rescore has 110 missing judgments and no complete grid objective.",
+    "Unsuccessful later evaluator experiments are retained, not blended into legacy scores.",
+    "C removes query-specific dictionary injection while retaining shared static lexical guidance.",
+    "Source ambiguity and incomplete generation outcomes remain documented."
+  ]
+}

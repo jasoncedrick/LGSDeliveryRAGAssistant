@@ -1,0 +1,24 @@
+{
+  "group_id": "SCENARIO-CPDO-002",
+  "pillar": "City Planning and Development Office",
+  "split": "development",
+  "ground_truth_chunk_ids": [
+    "DEV120-CPDO-PDF0005-C001",
+    "DEV120-CPDO-PDF0005-C002",
+    "DEV120-CPDO-PDF0005-C003",
+    "DEV120-CPDO-PDF0007-C001",
+    "DEV120-CPDO-PDF0007-C002"
+  ],
+  "ground_truth_reference_answer": "Under the Integrated Zoning Ordinance (2019–2028), CPDO executes mandatory Validation of Occupancy Permits for structures that are 3-storeys and above OR possess a building floor area of 1,500 square meters and above. Requirements are: 1) Approved Building Plans (1 original); 2) Approved Building Permit from OBO (1 original); 3) Certificate of Occupancy Form (1 original); 4) Locational Clearance photocopy; and 5) Actual pictures of the building (1 original). The filing fee is PHP 150.00, and processing time is 3 Days, 2 Hours, and 10 Minutes.",
+  "queries": {
+    "english": "When is CPDO validation required for an Occupancy Permit and how much is the filing fee for 3-storey buildings?",
+    "taglish": "Kailan kailangan ng CPDO validation para sa Occupancy Permit at magkano ang filing fee para sa 3-storey na gusali?",
+    "bislish": "Kanus-a kinahanglan ang CPDO validation sa Occupancy Permit ug pila ang filing fee kung 3-storey pataas o 1,500 sqm ang building?"
+  },
+  "legacy_ground_truth_chunk_ids": [
+    "CHUNK-CPDO-P634-C01",
+    "CHUNK-CPDO-P634-C02",
+    "CHUNK-CPDO-P636-C01"
+  ],
+  "mapping_status": "PROVISIONAL_EXACT_SPAN_MAPPING"
+}

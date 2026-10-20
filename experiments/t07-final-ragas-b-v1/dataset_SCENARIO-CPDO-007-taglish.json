@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang requirements at magkano ang bayad sa CPDO para i-validate ang Occupancy Permit ng 3-storey building pataas?"
+  ],
+  "answer": [
+    "Sa iyong kahilingan, ang mga requirements at ang bayad para sa validation ng Occupancy Permit ng iyong 3-storey building pataas ay nakasaad sa [S1] at [S2].\n\nAng mga requirements sa validation ng Occupancy Permit ay ang Integrated Zoning Ordinance (2019-2028) at ang Locational Clearance na issyuhan ng Office of the City Planning & Development Coordinator (CPDO) - Zoning Enforcement Division.\n\nAng bayad para sa validation ay hindi lang isang biyahe, kundi ang building fee ay nakasaad sa [S2]. Ang building fee ay nakakalabas sa computation na nakasaad sa ibang chunk na ito. Ang computation ay ginagawa sa pamamagitan ng pag-aayos ng sub-area at ang fee na kinalabit sa kanyang area bracket, at pag-iwasang itong sumasama.\n\nSa ibang chunk na ito, ang sample computation para sa building fee para sa isang building na may 3,200 sq. meters na floor area ay nakasaad. Ang bayad para sa validation ng Occupancy Permit ay hindi nakasaad sa mga chunks na ito, kaya hindi natin maaaring mag-estimate ng exact bayad para sa iyong kaso. Ang mga detalye na ito ay maaaring makukuha sa CPDO.\n\nSa [S3], ang Issuance ng Locational Clearance (LC) para sa building ay isang G2G - Government to Government transaction na ginagawa ng CPDO - Zoning Enforcement Division. Ang LC ay isang written authority/permit na nakakatutupan sa establishment o operation ng mga proyekto ng national o local significance."
+  ],
+  "contexts": [
+    [
+      "2. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (3-Storey Buildings and Above and \n1,500 Building Floor Area and Above) \nFor 3-storey buildings and above and for building floor area of 1,500 square meters \nand above only.  \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nComplex\nType of Trans",
+      "area bracket indicated in the Table above. \nEach sub-area and the fee corresponding to its area bracket are multiplied together. \nThe building fee is the sum of the individual products as shown in the following \nexample:\nSample Computation for Building Fee for a building having a floor area of 3,200 sq. \nmeters:\nNext 500 sq. meters @ 23.00 …………………………………………….Php   11,500.00\nNext 100 sq. meters @ 22.00.…………………………………………….Php     2,200.00\nNext 100 sq. meters @ 20.50…………………",
+      "4. Issuance of Locational Clearance (LC) for Building based on the \nIntegrated Zoning Ordinance (2019-2028) (for 3-storey and above) \nA written authority / permit granted by the City Planning and Development Office \n(previously by the Board) pursuant to applicable laws on land use planning and zoning \nfor the establishment or operation of projects of national / local significance. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nComplex\nType of Transaction \nG2G – Government to Government"
+    ]
+  ],
+  "ground_truth": [
+    "Validation of Occupancy Permit for buildings 3-storeys and above or floor area of 1,500 sq.m. and above requires approved building plans, approved building permit, Certificate of Occupancy form, locational clearance, and site photos. A PHP 150.00 filing fee is paid to CTO."
+  ]
+}
