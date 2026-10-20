@@ -1,0 +1,17 @@
+EXACT SOURCE-SPAN CALIBRATION FINISHED: REJECT THIS CANDIDATE
+
+60/60 controls produced contract-valid, source-linked outputs.
+46/60 agreed with the existing assistant-reviewed labels.
+14 false positives and zero false negatives occurred.
+The predeclared screening gate failed because it requires at least 55 correct and at most four false positives. The queued 140-pair stress test did NOT run. No full grid was started.
+
+This experiment solves source-copy formatting but worsens semantic discrimination on the reused controls. Exact source pointers establish what text was selected; they do not establish that it answers the question. This distinction is required for defensible offline evaluation.
+
+Decision
+Do not integrate or promote this candidate. Preserve it as an unfavorable development result. Do not replace old invalid judgments with these valid-but-unreliable selections. No further automatic evaluator prompt revision follows this failed screen.
+
+The operational T06 harness remains the existing implementation, with the original evaluator default and explicitly versioned opt-in v2 evaluator, missing-score handling and known limitations. This failed experimental candidate is not imported by serving or by the production batch scorer.
+
+T06's coding deliverable can be closed honestly without claiming perfect judge accuracy. Final T07 selection remains blocked by incomplete/reliability-limited development judgments. Advancing T07 requires a defensible evaluator-validation decision, with independent usefulness review or a separately justified evaluator, before consistent full-grid rescoring. The earlier malformed-quote safeguard was an experiment rule, not a literal manuscript rule; it must not be silently relaxed or repeatedly retried after seeing outcomes.
+
+Grounding: 20260923.pdf PDF33-34 and main Thesis Tracker T06/T07. All development-only, no held-out access, no source reconstruction, no 120/20 corpus change and no freeze. Reused control labels are not independent employee ratings.

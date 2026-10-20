@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What socialized housing compliance percentage is legally required for residential subdivision projects under PD 957?"
+  ],
+  "answer": [
+    "The socialized housing compliance percentage required for residential subdivision projects under PD 957 is 10%. This requirement is stated in [S1] and [S2] of the City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf and 2.pdf on printed pages 716, 707, respectively."
+  ],
+  "contexts": [
+    [
+      "golf course) (1 \nphotocopy)\nGolf Construction and \nDevelopment Committee\n37. \nCAAP Clearance / Building Height\nCertificate, whichever is applicable (1 \nphotocopy)\nCivil Aviation Authority of the \nPhilippines\n38. \nPPA Clearance (for ports and harbors)\n2. \nphotocopies)\nPhilippine Ports Authority\n39. \nClearance from National Power\nCorporation, if applicable (1 photocopy)\nNational Power Corporation\n40. \nPayment Receipt (1 photocopy) \nCity Treasurer’s Office\n41. \n10% socialized housing compliance for\nPD 957\nApplicant",
+      "(1 photocopy)\n37. \nCAAP Clearance / Building\nHeight Certificate, whichever is \napplicable (1 photocopy)\nCivil Aviation Authority of the \nPhilippines\n38. \nPPA Clearance (for ports and\nharbors) \n1. photocopy)\nPhilippine Ports Authority\n39. \nClearance from National Power\nCorporation, if applicable (1 photocopy)\nNational Power Corporation\n40. \nPayment Receipt (1 photocopy) \nCity Treasurer’s Office\n41. \n10% socialized housing\ncompliance for PD 957\nApplicant\nCLIENT STEPS \nAGENCY \nACTION\nFEES TO \nBE PAID",
+      "Association Board Resolution \n– 1 original, 1 photocopy\nApplicant (Community Association)\nApplicant’s Certificate of Membership in that \nCommunity Association  \n– 1 original, 1 photocopy\nApplicant (Community Association)\nCity Housing Clearance, in case of government \nhousing projects  \n– 1 original, 1 photocopy  \n  \nIf the housing project is under  \nthe City, the signatory for Lot Owner on the \nBuilding Permit Form should be the City \nAdministrator \n  \nIf the housing project is under the National \nHousing Authority (NHA), the signatory for Lot \nOwner on Building Permit Form should"
+    ]
+  ],
+  "ground_truth": [
+    "Subdivision applications governed by Presidential Decree No. 957 are legally mandated to submit proof of compliance with the 10% socialized housing requirement as part of the documentary checklist for subdivision approval."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Is there a filing fee for validating Occupancy Permits for 2-storey and below residential structures at CPDO?"
+  ],
+  "answer": [
+    "Based on the information provided in [S1], there is no explicit mention of a filing fee for validating Occupancy Permits for 2-storey and below residential structures at the City Planning and Development Office (CPDO). However, the document does not cover all possible fees that may be associated with the process. For a definitive answer, it is recommended to check the complete Citizen's Charter or contact the CPDO directly. [S1] City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf | printed page 637 | chunk DEV120-CPDO-PDF0008-C001"
+  ],
+  "contexts": [
+    [
+      "3. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (2-Storey Buildings and Below and \n1,500 Building Floor Area and Below) \nFor 2-storey buildings and below and for building floor area of 1,500 square meters \nand below only. \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator.  \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nSimple\nType of Trans",
+      "80 \n6.80 \n5.40\n11. Miscellaneous and all other\nPermanent stalls/booths \nspecial services not subject \nto any particular market fee \nbut shall pay rental fees for \noccupancy\n16.00 \n10.80 \n6.80 \n5.40\nThere shall be collected from persons, corporations, partnerships or entities offering \nfor sale merchandise in jeepneys, pick-ups, trucks, bancas, fishing boats or any other \nconveyances including wholesalers and suppliers parked or displayed at or within the \nvicinities of the public markets or in",
+      "3 original \n \nA.12. For rented establishments, Lease of \nContract   \n– 1 original, 1 photocopy \n \nA.13. For owned establishments, Certified \nTrue Copy of Land Title \n – 1 original \n \nA.14 If roof mounted, Approved Building and \nOccupancy Permits of existing building  \n– 1 original, 1 photocopy \nA.14.1 Certification of hired engineer that \nbuilding is structurally safe for additional load  \n– 1 original, 1 photocopy \n \nA.15 For projects along National Highway, \nDPWH Clearance  \n– 1 original, 1 photocopy  \n \nA"
+    ]
+  ],
+  "ground_truth": [
+    "For structures 2-storeys and below with floor area under 1,500 sq.m., Occupancy Permit validation requires approved plans, building permit, certificate of occupancy form, locational clearance, and photos. No filing fee is charged (exempt), taking 1 day, 4 hours to process."
+  ]
+}

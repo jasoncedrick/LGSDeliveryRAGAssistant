@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsaon pagkwenta sa electrical inspection fee base sa Total Connected Load (kVA) sa usa ka negosyo o edipisyo?"
+  ],
+  "answer": [
+    "Ang electrical inspection fee sa usa ka negosyo o edipisyo mao nga mag-abot sa wala ka 200.00 kung ang Total Connected Load (kVA) mao nga 5 kaya. Kung mao nga over 5 kVA, mao nga mag-abot sa 200.00 + P 20.00/kVA. Kung mao nga over 50 kVA, mao nga mag-abot sa 1,100.00 + 10.00/kVA. [S1]\n\nSa mga negosyo o edipisyo na mao nga may Total Connected Load (kVA) over 300, mao nga mag-abot sa 20,850.00 + 1.25/kVA. [S1]\n\nSa mga negosyo o edipisyo na mao nga may Total Connected Load (kVA) over 50 kaya nga wala ka 50, mao nga mag-abot sa 1,100.00 + 10.00/kVA. [S2]\n\nSa mga negosyo o edipisyo na mao nga may Total Connected Load (kVA) over 1,500 kaya nga wala ka 1,500, mao nga mag-abot sa 9,600.00 + 2.50/kVA. [S2]\n\nSa mga negosyo o edipisyo na mao nga may Total Connected Load (kVA) over 6,000, mao nga mag-abot sa 20,850.00 + 1.25/kVA. [S1]\n\nSa mga negosyo o edipisyo na mao nga wala ka Total Connected Load (kVA), mao nga wala ka electrical inspection fee. [S1]"
+  ],
+  "contexts": [
+    [
+      "es \nshall be charged to cover all inspection trips during construction.\nii. Annual Inspection Fees are the same as in Section 4.e.\nSection 4.e Electrical Fees:\nThe following schedule shall be used for computing electrical fees in residential, \ninstitutional, commercial and industrial structures:\na. Total Connected Load (kVA) Fee\n5 kVA or less \nP 200.00\nOver 5 kVA to 50 kVA \n200.00 + P 20.00/kVA\nOver 50 kVA to 300 kVA \n1,100.00 + 10.00/kVA\nOver 300",
+      "/kVA\nOver 50 kVA to 300 kVA \n1,100.00 + 10.00/kVA\nOver 300 kVa to 1,500 kVA \n3,600.00 + 5.00/kVA\nOver 1,500 kVA to 6,000 kVA \n9,600.00 + 2.50/kVA\nOver 6,000 kVA \n20,850.00 + 1.25/kVA\nNOTE: Total Connected Load as shown in the load schedule.\nb. Total Transformer/Uninterrupted Power Supply (UPS)/Generator Capacity (kVA) Fee\n5 kVA or less",
+      "ISSUANCE OF CERTIFICATE OF ANNUAL INSPECTION FOR ELECTRICAL NEW \nSCHEDULE OF FEES AND OTHER CHARGES OF THE REVISED IMPLEMENTING \nRULES AND REGULATIONS (IRR) OF THE NATIONAL BUILDING CODE OF THE \nPHILIPPINES (PD 1096)\nElectrical Inspection Fees:\ni. A one time electrical inspection fee equivalent to 10% of Total Electrical Permit Fees \nshall be charged to cover all inspection trips during construction.\nii. Annual"
+    ]
+  ],
+  "ground_truth": [
+    "Electrical inspection fees based on Total Connected Load are: 5 kVA or less = PHP 200.00; over 5 to 50 kVA = PHP 200 + PHP 20/kVA; over 50 to 300 kVA = PHP 1,100 + PHP 10/kVA; over 300 to 1,500 kVA = PHP 3,600 + PHP 5/kVA; over 6,000 kVA = PHP 20,850 + PHP 1.25/kVA."
+  ]
+}

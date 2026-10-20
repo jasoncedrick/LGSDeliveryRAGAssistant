@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga rekisitos para makakuha ug Occupancy Permit sa OCBO human mahuman ang pagtukod sa edipisyo?"
+  ],
+  "answer": [
+    "Ang mga rekisito para makakuha ug Occupancy Permit sa Office ng City Building Official (OCBO) sa Davao City ay nakalistahan sa [S1]. Ang mga rekisito sa checklist sa Occupancy Permit ay:\n\n1. Application Letter - 1 original\n\nSa iba pang mga rekisito para sa ibang permit na maaahon sa OCBO, maaoy nga makakuha sa [S2] (Sign Permit) at [S3] (Billboard Permit). Ang mga rekisito sa checklist sa Sign Permit at Billboard Permit ay:\n\n11. Issuance of Sign Permit:\n   A. FOR NEW APPLICATION:\n   A.1 Notarized Application Letter - 1 original, 1 photocopy\n\n12. Issuance of Billboard Permit:\n   A. FOR NEW APPLICATION:\n   A.1 Notarized Application Letter - 1 original, 1 photocopy"
+  ],
+  "contexts": [
+    [
+      "2. Issuance of Occupancy Permit \nAn Occupancy Permit shall be required before any building or structure or portion thereof is used \nor occupied, or the existing use or occupancy classification thereof is changed. \nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; G2G \n– Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Application Letter  \n   1 original",
+      "11. Issuance of Sign Permit\nA Sign Permit shall be required before any sign or signboard shall be constructed or erected.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; G2G \n– Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\nA. FOR NEW APPLICATION \nA.1. Notarized Application \n – 1 original, 1 photocopy \n \nA.2. Signage Plan with",
+      "12. Issuance of Billboard Permit\nA Sign Permit shall be required before any sign or signboard shall be constructed or erected.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; G2G – \nGovernment to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\nA. FOR NEW APPLICATION: \nA.1 Notarized Application Letter \n – 1 original, 1 photocopy \n \nA.2 Stru"
+    ]
+  ],
+  "ground_truth": [
+    "Occupancy checklist: application letter (1 original); authorization letter if applicant is not owner (1 original); owner ID with 3 specimen signatures (1 photocopy); Certificate of Occupancy (1 original); Certificate of Completion (1 original); BFP Fire Safety Inspection Certificate (1 original); four-elevation project pictures (front/back/left/right); approved Building Construction, Architectural, Civil/Structural, Sanitary/Plumbing, Electrical and Mechanical installation permits (1 photocopy); approved building-permit plan (1 original).\n\nIf a different professional undertook/was assigned the project, the checklist requires a signed, notarized waiver from the previous professional in charge (1 original). It also lists Structure Images with CAAP clearance and structural survey for actual building height, signed/sealed by a licensed Geodetic Engineer. The authorization-letter source cell says CPDO and the picture source cell says Hired Geodetic Engineer; those unusual source associations are preserved."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Paano kinokwenta ang Transfer Tax sa lupa o ari-arian sa City Treasurer base sa market value o selling price?"
+  ],
+  "answer": [
+    "The Transfer Tax for real property or real estate in the City Treasurer's office is calculated based on either 87% or 1% of the higher value between the consideration (selling price) or the market value. [S1]\n\nFor more specific details, you may refer to the City Treasurer's Citizen Charter 2026_VOL.I & II-2.pdf, specifically the chunk DEV120-CTO-PDF0011-C002."
+  ],
+  "contexts": [
+    [
+      "-or-\nAssigned \nPersonnel\n(CTO District\nOffices)\nTOTAL:\nAttached \nAnnex -\n4\n2 Hours & 52\nMinutes\nANNEX – 4\nAmount of Fee\nClearances, certifications issued by other \noffices not herein specified (plus Twenty Pesos {P 20.00} for every \nadditional page)\nP 50.00\nTransfer Tax is equal to 87% or 1% based on the consideration or the market value \nwhichever is higher.",
+      "(1.5%) of the assessed \nvalue of real property, grasslands, buildings, machinery and other improvements affixed \nor attached to real property located in this City.\nSection 8. Additional Levy on Real Property for the Special Education Fund \n(SEF) – This is hereby levied a one percent (1%) tax on the assessed value of real \nproperty which shall be in addition in the basic real property tax. The proceeds thereof \nshall accrue exclusively to the Special Education Fund (SEF).",
+      "2. Present all\nrequired \ndocuments at \nCounters 10 to \n12, Real Property \nTax Division, City \nTreasurer’s \nOffice, \nSangguniang \nPanlungsod \n(CTO Poblacion) \nor respective \nDistrict Offices.\n2. Verify the\ndocument\ns.\nBased on \nthe 2017 \nRevenue \nCode of \nthe City \nof Davao \nOrdinanc\ne No.\n0291-17, \nSeries of\n2017, \nSection\n34  \n–\nTax on \nTransfer \nof Real \nProperty \nOwnershi\np\n30 Minutes\nLocal Treasury\nOperations\nOfficer\nII/Revenue\nCollection Clerk\nI\n(CTO\nPoblacion)\n-or-\nAssigned \nPerson"
+    ]
+  ],
+  "ground_truth": [
+    "Transfer Tax on real property ownership requires title photocopy, notarized deed of transfer, and tax declaration. The transfer tax rate is 0.87% to 1.0% based on the total consideration or market value, whichever is higher, plus a PHP 50.00 certification fee."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Magkano ang processing fee at inspection fee kada hektarya para sa Preliminary Subdivision Development Plan sa CPDO?"
+  ],
+  "answer": [
+    "Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa inyong tanong tungkol sa processing fee at inspection fee kada hektarya para sa Preliminary Subdivision Development Plan sa CPDO.\n\n[S3] City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf | printed page 704 | chunk DEV120-CPDO-PDF0075-C001\n\nSa wakat nga nakapag-aral ko sa mga source na inyong ibinigay, wala akong natagpuan ang impormasyon tungkol sa processing fee at inspection fee kada hektarya para sa Preliminary Subdivision Development Plan sa CPDO. Ang mga source na inyong ibinigay ay hindi nagpapahayag tungkol sa mga fees na ito."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "15. Preliminary Subdivision Development Plan (PSDP) and \nDevelopment Permit (DP) for Mall, Condominium, Hotel and \nApartment \nArticle XI Section 1 of the Zoning Ordinance states that the projects that listed below \nare required to secure Preliminary Approval and Locational Clearance (PALC) and \nDevelopment Permit (DP) from the Sangguniang Panlungsod which shall be granted \nthrough a resolution by majority votes of all its members. \n \n(For Mall, Condominium, Warehouse, Hotel, Apartment) \nOffice or Division \nCity",
+      "14. Preliminary Subdivision Development Plan (PSDP) and \nDevelopment Permit (DP) for High End, Low End, Farm Lot and \nMemorial Park \nAn application for subdivision approval based on BP 220, PD 957, and other related \nlaws. Executive Order No. 71, Series of 1993, pursuant to RA 7160, was signed into \nlaw to devolve the powers of the Housing Land Use Regulatory Board to approve \nsubdivision plans to the cities through the City Housing Land Use and Regulatory \nUnit as the technical arm of the Sang"
+    ]
+  ],
+  "ground_truth": [
+    "Applying for a Preliminary Subdivision Development Plan (PSDP) incurs a processing fee of PHP 360.00 per hectare, and an inspection fee of PHP 1,500.00 per hectare."
+  ]
+}

@@ -1,0 +1,76 @@
+[
+  {
+    "claim": "The source describes validation for \"3-storey buildings and above and for building floor area of 1,500 square meters and above only.\" User clarification: either category can qualify (3-storey and above OR floor area of 1,500 square meters and above). This alternative-trigger interpretation is user-supplied; the cited PDF itself uses \"and\" and does not independently resolve that interpretation.",
+    "evidence": [
+      {
+        "source_page_id": "CPDO-PDF0005",
+        "pdf_relative_page": 5,
+        "printed_page": 634,
+        "source_span": "Validation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (3-Storey Buildings and Above and \n1,500 Building Floor Area and Above) \nFor 3-storey buildings and above and for building floor area of 1,500 square meters \nand above only.  \n \nThe validation of the Locational Clearance",
+        "char_start": 4,
+        "char_end": 308,
+        "supporting_chunk_ids": [
+          "DEV120-CPDO-PDF0005-C001"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-CPDO-PDF0005-C001"
+    ],
+    "interpretation_note": "User states both categories can qualify; recorded as alternative triggers based on their earlier clarification, not as an independently verified official interpretation."
+  },
+  {
+    "claim": "Checklist: approved building plans (1 original); approved building permit (1 original); Certificate of Occupancy Form (1 original); Locational Clearance, if applicable (1 photocopy); pictures of building (1 original); Order of Payment (1 original); Official Receipt (1 original).",
+    "evidence": [
+      {
+        "source_page_id": "CPDO-PDF0005",
+        "pdf_relative_page": 5,
+        "printed_page": 634,
+        "source_span": "1. Approved Building Plans (1 original) \nApplicant\n2. Approved Building Permit (1 original) \nOffice of the Building Official\n3. Certificate of Occupancy Form (1 original) \nOffice of the Building Official\n4. Locational Clearance, if applicable (1\nphotocopy)\nCity Planning and Development \nOffice\n5. Pictures of Building (1 original) \nApplicant\n6. Order of Payment (1 original) \nCity Planning and Development \nOffice\n7. Official Receipt (1 original) \nCity Treasurer's Office\nCLIENT STEPS",
+        "char_start": 683,
+        "char_end": 1168,
+        "supporting_chunk_ids": [
+          "DEV120-CPDO-PDF0005-C002",
+          "DEV120-CPDO-PDF0005-C003"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-CPDO-PDF0005-C002",
+      "DEV120-CPDO-PDF0005-C003"
+    ]
+  },
+  {
+    "claim": "Filing fee is PHP150.00. The stated TOTAL is 3 Days, 2 Hours, and 10 Minutes; the final-approval step depends on availability of the Zoning Administrator.",
+    "evidence": [
+      {
+        "source_page_id": "CPDO-PDF0005",
+        "pdf_relative_page": 5,
+        "printed_page": 634,
+        "source_span": "2. Secures order \nof payment for \nfiling fee\n2. Issuance of \norder  payment\nFilling Fee\nPHP \n150.00\n10 Minutes \nZoning Officer\nIV\nCPDO\n3. Submits",
+        "char_start": 1416,
+        "char_end": 1561,
+        "supporting_chunk_ids": [
+          "DEV120-CPDO-PDF0005-C004"
+        ]
+      },
+      {
+        "source_page_id": "CPDO-PDF0007",
+        "pdf_relative_page": 7,
+        "printed_page": 636,
+        "source_span": "3.8 Final Approval \nNone \n2 Days\ndepending \nupon the\navailability of \nthe Zoning\nAdministrator\nActing Zoning \nAdministrator\nCPDO\n3.9 Forwards \ndocuments to \nCPDO Admin for \nreleasing\nNone \n5 Minutes \n \nZoning Officer\nIV\nCPDO\n4. Claims the \nvalidated \noccupancy permit\n4. Releases \ndocuments\nNone \n5 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\nTOTAL: \nPHP \n150.00\n3 Days, 2\nHours, and 10\nMinutes",
+        "char_start": 312,
+        "char_end": 707,
+        "supporting_chunk_ids": [
+          "DEV120-CPDO-PDF0007-C001",
+          "DEV120-CPDO-PDF0007-C002"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-CPDO-PDF0005-C004",
+      "DEV120-CPDO-PDF0007-C001",
+      "DEV120-CPDO-PDF0007-C002"
+    ]
+  }
+]

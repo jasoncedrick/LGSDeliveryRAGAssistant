@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Para asa ang Certificate of Compatibility sa CPDO, pila ang filing fee, ug unsa kadugay ang pag-release?"
+  ],
+  "answer": [
+    "Ang Certificate of Compatibility sa CPDO ay maaayos sa City Planning and Development Office (CPDO) [S2, S3]. Ang filing fee nga wala nakit-an sa mga nakapag-aral sa Citizens' Charter. Ang pag-release sa Certificate of Compatibility ay hindi ma-indikahan sa mga nakapag-aral sa Citizens' Charter."
+  ],
+  "contexts": [
+    [
+      "4. Submits the \ndocuments with \nthe O.R. for \nZoning Fee\n4.1 Pre-\nevaluates \nsubmitted \ndocuments \n(once \ndocuments are \nlacking, it will \nimmediately \nreturned to client \nfor compliance)\nNone \n25 Minutes \n \nZoning Officer\nIV\nCPDO\n4.2 Documents \nwill be \nreceived   by the \nAdmin Division\n10 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\n4.3 Encodes in \nthe document \ntracking system \nand endorse \napplication to \nGIS\nNone \n20 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\n4.4 Plots the \ntechnical \ndescription of the \nproperty, prints \nmap and it will \nbe returned",
+      "solution of No \nObjection \nc. GIS plotting with 1km radius / zoning \nclassification \nd. Certificate of Compatibility\na. Department of Environment & Natural \nResources – Environment and \nManagement Bureau \nb. Barangay Council \nc. City Planning and Development Office\nd. City Planning and Development \nOffice\n17. If application is for processing, \nsecure the following for zoning and \nfiling fees: \n(1 original) \na. Order of payment \nb. Official Receipt for zoning and filing \nfees\na. City Planning and Development Office\nb.",
+      "y \napplications: \n(1 photocopy) \na. Environmental Compliance \nCertificate \nb. Barangay Council Resolution of No \nObjection \nc. GIS plotting with 1km radius / zoning \nclassification \nd. Certificate of Compatibility\na. Department of Environment & Natural \nResources – Environment and \nManagement Bureau \nb. Barangay Council \nc. City Planning and Development Office\nd. City Planning and Development \nOffice\n17. If application is for processing, \nsecure the following for zoning and \nfiling fees: \n(1 original) \na. Order of payment \nb. Official"
+    ]
+  ],
+  "ground_truth": [
+    "The Certificate of Compatibility certifies uses or land activities capable of existing together harmoniously. Checklist: Application Letter, Zoning Certificate from CPDO, and Official Receipt from CTO.\n\nFiling fee is PHP300. The stated TOTAL is 1 Hour and 20 Minutes. The initial/final signature step is 15 minutes depending on availability of the Acting Zoning Administrator."
+  ]
+}

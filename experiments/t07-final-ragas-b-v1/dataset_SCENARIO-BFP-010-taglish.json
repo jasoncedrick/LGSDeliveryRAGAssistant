@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Paano makakapag-renew ng FSIC ang isang negosyo kung napasama ito sa negative list o may pending violations sa Fire Code?"
+  ],
+  "answer": [
+    "Wala akong impormasyon bahin sa Citizens' Charter tungkol sa pag-renewal ng FSIC kung ito ay nasa negative list o may pending violations sa Fire Code. Ang mga detalye tungkol dito ay hindi nakalagay sa mga nabigyan ng source na [S1], [S2], at [S3].\n\nAng mga nabigyan ng source na [S1] at [S3] ang nakakatayo ng checklist ng mga kailangang requirements para sa renewal ng FSIC, pero wala silang nakalagay tungkol sa mga kaso ng negative list o pending violations sa Fire Code. Ang mga nabigyan ng source na [S2] ang nakakatayo ng mga requirements para sa maintenance at testing records, pero hindi ito para sa renewal ng FSIC, kundi para sa issuance ng FSIC sa mga bagong negosyo o renewal ng Mayor's Permit, Certificate of Annual Inspection, Permit to Operate, PHILHEALTH Accreditation for Hospitals, DOH License to Operate, at iba pang permits o licenses ng ibang government agencies.\n\nAng mga nabigyan ng source na [S3] ang nakakatayo ng mga requirements para sa renewal ng permit ng negosyo, kasama ang mga kailangang requirements para sa renewal ng FSIC, pero wala silang nakalagay tungkol sa mga kaso ng negative list o pending violations sa Fire Code.\n\nAng mga nabigyan ng source na [S1], [S2], at [S3] ay hindi nakakatayo ng detalye tungkol sa mga kaso ng negative list o pending violations sa Fire Code at ang mga kailangang requirements para sa renewal ng FSIC kung ito ay nasa negative list o may pending violations sa Fire Code. Ang mga ito ay maaaring makahanap ng impormasyon sa ibang mga source o makipagugnay sa mga ahensya ng gobyerno para sa mas maraming impormasyon."
+  ],
+  "contexts": [
+    [
+      "s, etc.) as a prerequisite for the\nissuance of appropriate permits and licenses\nfrom the local and other government agencies\nconcerned.\n\nCHECKLIST OF\nREQUIREMENTS/\nDOCUMENTS\nBFP FRONT LINE SERVICES\nFIRE SAFETY  \nEVALUATION \nCLEARANCE\n(FSEC)\nAPPLICATION\nFIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION\nCERTIFICATE OF\nOCCUPANCY\nNEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPAN",
+      "Building Administrator and his/her Fire Safety Practitioner\nduring the regular annual fire safety inspection. This  is a compilation of the maintenance and testing records kept by the building‘s engineering and maintenance department, as a prerequisite for the issuance of FSIC for Business or \nMayor‘s Permit renewal, Certificate of Annual Inspection , Permit to Operate, PHILHEALTH Accreditation for Hospitals, DOH License to Operate and other  permits or licenses being issued by other government agencies.\nNOTE (4) Section 9.",
+      "18. Valid Fire Safety Inspection Certificate\nfor Business\nBureau of Fire Protection\n19. Other Requirements depending on the\nBusiness Activity declared\nConcerned Agency\nRENEWAL \n1. List of Employees stating the Name and\nPosition of the Employees (1 copy)\nApplicant\n2. For Sole Proprietorship, if represented,\nSpecial Power of Attorney, indicating \nspecific authority and capacity granted to \nrepresentative.\nApplicant, notarized by any Notary \nPublic\n3. For Partnership, Partnership Resolution,\nindicating specific authority and"
+    ]
+  ],
+  "ground_truth": [
+    "Renewals without a valid FSIC or those included in the Negative List must resolve all existing Fire Code violations, settle outstanding penalties, pay the 15% FSIF, and pass a mandatory re-inspection before the FSIC for business renewal is released."
+  ]
+}

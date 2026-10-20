@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang mga hakbang at notices na ibinibigay ng Business Bureau bago tuluyang ipasara ang isang erring establishment?"
+  ],
+  "answer": [
+    "Before the Business Bureau cancels an erring establishment, the following steps and notices are given, as stated in [S1] (DEV120-BB-PDF0011-C002) and [S2] (DEV120-BB-PDF0012-C002):\n\n1. If the application for the amendment of the business permit is denied, the applicant is directed to proceed to the Regional Offices (ROs) for further information.\n2. The documents are returned to the client, and an order of payment is issued to be paid at the City Treasurer’s Office.\n\nThe specific procedure for the amendment of a business permit (Additional Line of Business) and (Other Amendments) can be found in [S1] (DEV120-BB-PDF0011-C002) and [S2] (DEV120-BB-PDF0012-C002) respectively.\n\nFor the amendment of a business permit (Other Amendments), there is an additional step where the client is required to comply with the requirements. If the application is denied, the applicant is again directed to proceed to the ROs for further information.\n\nRegarding the amendment of a business permit (Other Amendments), there is no specific information provided about the notices given before cancellation. However, it is stated in [S3] (DEV120-BB-PDF0051-C001) that the amendment of a business permit (Other Amendments) may not be processed if there are outstanding unpaid taxes and charges. In this case, the processing time is 2 days, 6 hours, and 6 minutes."
+  ],
+  "contexts": [
+    [
+      ". If denied, \nproceed to ROs denying \nthe application for further \ninformation.\n2. Return the \ndocuments to the \nclient and issue \nan order of \npayment to be \npaid at the City \nTreasurer’s \nOffice\nNone \n5 Minutes \nLicensing Officer \nBusiness Bureau\nTOTAL:\nNone 10 Minutes\nD. Pre-Assessment for Amendment of Business Permit\n(Additional Line of Business) \nCLIENT STEPS \nAGENCY \nACTION\nFEES\nTO \nBE \nPAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE",
+      ", comply with \nrequirements. If denied, \nproceed to ROs denying \nthe application for further \ninformation.\n2. Return the \ndocuments to the \nclient and issue \nan order of \npayment to be \npaid at the City \nTreasurer’s \nOffice\nNone \n5 Minutes \nLicensing Officer \nBusiness Bureau\nTOTAL:\nNone \n10 Minutes\nE. Pre-Assessment for Amendment of Business Permit (Other\nAmendments)\nCLIENT STEPS \nAGENCY ACTION\nFEES\nTO \nBE \nPAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE",
+      "OIC), Business\nBureau\n3.8. Release \nBusiness permit and \ndocuments to the \nclient\nNone \n10 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau\n3.9. Request the \nclient to sign in the \nlogbook\nNone \n6 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau\nTOTAL:\nNone unless there\nare outstanding \nunpaid taxes and\ncharges\n2 Days, 6 \nHours and \n6 Minutes\nJ. Amendment of Business Permit (Other Amendments)\nCLIENT STEPS \nAGENCY \nACTION\nFEES TO BE\nPAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\nSTEP 1: APPLICATION"
+    ]
+  ],
+  "ground_truth": [
+    "Non-compliant businesses receive a 1st Notice of Violation with an inspection report. If uncorrected after re-inspection within 15 days, a 2nd and Final Notice with Cease-and-Desist Order is recommended. Continued non-compliance results in a physical Closure Order within 1 day."
+  ]
+}

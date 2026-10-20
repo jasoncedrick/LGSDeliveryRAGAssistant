@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsaon pagkwenta sa abang sa pwesto sa palengke ug pila ang dugang bayad kung anaa sa atubangan o eskina ang pwesto?"
+  ],
+  "answer": [
+    "Wala akong impormasyon bahin sa Citizens' Charter tungod sa pag-usab sa pwesto sa palengke o eskina ang pwesto. Ang mga detalye sa dugang bayad o pila ang dugang bayad sa mga transaksyon na naabot sa BFP (Bureau of Fire Protection) ay hindi maaayos nakalagay sa mga nakalagang impormasyon. [S1, S2, S3]"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "UDED \nIN THE NEGATIVE LIST\nA   P   P   L   I   C   A   T   I   O   N      F   O   R   M\nApplied in Fire Station/Lone District Fire Office \nBFP FSEC\nApplication Form\n(DCN No. BFP-QSF-\nFSED-001 REV.02\n(08.24.20))\n[REPRESENTATION: Application-form cell spans: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION.]\n\nBFP FSIC Application Form (DCN No. BFP-QSF-FSED-002 RE",
+      "WAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST. Other service cells are blank in source; blank is not an exemption statement.]\n\nO   T   H   E   R     D   O   C   U   M   E   N   T   S\nFire Safety Compliance Report (FSCR) NOTE (1)\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION"
+    ]
+  ],
+  "ground_truth": [
+    "Public market rental rates vary by classification and section (e.g., Meat Class A is PHP 40.00/sq.m./day; Class D is PHP 13.50). Additional location surcharges apply: 20% for front corner stalls, 15% for front stalls, and 10% for inside corner stalls."
+  ]
+}

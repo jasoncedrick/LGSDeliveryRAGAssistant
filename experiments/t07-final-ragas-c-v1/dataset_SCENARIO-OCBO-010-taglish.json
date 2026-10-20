@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Magkano ang Pavement Permit fee para sa commercial parking area at gas station premises?"
+  ],
+  "answer": [
+    "Sa commercial parking area at gas station premises, ang Pavement Permit fee ay maaaring makita sa [S1] at [S3]. Sa [S1], ang fee para sa inyong mga pavement na may 20% o mas mataas pa sa 20.00 sq. meters ay P 24.00. Sa [S3], may additional fee ng P 3.00 para sa mga commercial/industrial/institutional na pavements, tulad ng parking areas at gasoline station premises. Sa halip na mag-iisip ng isang lump sum, ang fee para sa commercial parking area at gas station premises ay maaaring makita sa sumasangkot sa sumasama ng fee sa mga pavement areas na may 20% o mas mataas sa 20.00 sq. meters at ang additional fee ng P 3.00. [S1, S3]"
+  ],
+  "contexts": [
+    [
+      "PAVEMENT PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\nConstruction of Pavements, up to 20.00 sq. meters \nP 24.00\nIn excess of 20% or a fraction thereof of paved areas intended for \ncommercial/industrial/institutional use, such as parking and sidewalk areas, \ngasoline station premises, skating rinks, pelo",
+      "area bracket indicated in the Table above. \nEach sub-area and the fee corresponding to its area bracket are multiplied together. \nThe building fee is the sum of the individual products as shown in the following \nexample:\nSample Computation for Building Fee for a building having a floor area of 3,200 sq. \nmeters:\nNext 500 sq. meters @ 23.00 …………………………………………….Php   11,500.00\nNext 100 sq. meters @ 22.00.…………………………………………….Php     2,200.00\nNext 100 sq. meters @ 20.50…………………",
+      "as parking and sidewalk areas, \ngasoline station premises, skating rinks, pelota courts, tennis and basketball \ncourts, and the like\n3.00"
+    ]
+  ],
+  "ground_truth": [
+    "Pavement construction up to 20.00 sq.m. costs PHP 24.00. Paved areas in excess of 20 sq.m. intended for commercial, industrial, or institutional parking, sidewalks, and gas station premises are assessed PHP 3.00 per sq.m. or fraction thereof."
+  ]
+}

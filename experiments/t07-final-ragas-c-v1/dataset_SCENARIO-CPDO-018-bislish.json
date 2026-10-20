@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Para saan ang Certificate of Completion of Subdivision ug kinsa nga komite ang mo-endorse niini ngadto sa DHSUD?"
+  ],
+  "answer": [
+    "Ang Certificate of Completion of Subdivision ay maaayo sa City Housing Land Use and Regulatory Unit (CHLURU) na ang mag-endorse sa application sa DHSUD. [S1]"
+  ],
+  "contexts": [
+    [
+      "16. Certificate of Completion of Subdivision \nA resolution of the City Housing Land Use and Regulatory Unit (CHLURU) favorably \nendorsing a subdivision application wherein the project has been completed based on \nthe approved plan to the HLURB. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nHighly Technical\nType of Transaction \nG2G – Government to Government; G2B – \nGovernment to Business; G2C – Government to \nCitizen\nWho may avail \nProperty Owner or Authorized Representa",
+      "14. Preliminary Subdivision Development Plan (PSDP) and \nDevelopment Permit (DP) for High End, Low End, Farm Lot and \nMemorial Park \nAn application for subdivision approval based on BP 220, PD 957, and other related \nlaws. Executive Order No. 71, Series of 1993, pursuant to RA 7160, was signed into \nlaw to devolve the powers of the Housing Land Use Regulatory Board to approve \nsubdivision plans to the cities through the City Housing Land Use and Regulatory \nUnit as the technical arm of the Sang",
+      "8. Issuance of Water Resource Management Council Clearance \nAn application for those areas within the water resource zone wherein a clearance \nshould be secured from the Water Resource Management Council which functions as \nan inter-departmental body to protect the water resources of Davao City. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nHighly Technical\nType of Transaction \nG2G – Government to Government; G2B – \nGovernment to Business; G2C – Government to \nCitizen\nWho may avail \nProperty Owner or Authorized Representa"
+    ]
+  ],
+  "ground_truth": [
+    "The Certificate of Completion of Subdivision (COC) is a resolution from the City Housing Land Use and Regulatory Unit (CHLURU) favorably endorsing to DHSUD/HLURB that the project has been fully completed according to approved engineering plans."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "status": "THREE_DIAGNOSTIC_RETRIES_SUCCESSFUL",
+  "results": [
+    {
+      "record_id": "SCENARIO-CTO-003-english",
+      "metric": "context_precision",
+      "original_score": null,
+      "diagnostic_retry_score": 0.99999999998,
+      "output_shape_checks_passed": 5,
+      "dataset_unchanged": true,
+      "output_folder": "experiments\\t06-ragas-format-retry-v1-cto003"
+    },
+    {
+      "record_id": "SCENARIO-OCBO-006-english",
+      "metric": "answer_relevancy",
+      "original_score": null,
+      "diagnostic_retry_score": 0.9175673311761628,
+      "output_shape_checks_passed": 3,
+      "dataset_unchanged": true,
+      "output_folder": "experiments\\t06-ragas-format-retry-v1-ocbo006"
+    },
+    {
+      "record_id": "SCENARIO-BFP-004-taglish",
+      "metric": "answer_relevancy",
+      "original_score": null,
+      "diagnostic_retry_score": 0.3305636286762123,
+      "output_shape_checks_passed": 3,
+      "dataset_unchanged": true,
+      "output_folder": "experiments\\t06-ragas-format-retry-v1-bfp004"
+    }
+  ],
+  "original_full_run_preserved": true,
+  "new_full_run_mean_computed": false,
+  "new_answers_generated": false,
+  "manual_check_required_now": false,
+  "limits": [
+    "Failure-selected subset only; do not merge retry scores into original full-run aggregates.",
+    "Format checks do not verify semantic quality of judge verdicts or source correctness.",
+    "Two contract tests passed; full-set robustness not established."
+  ],
+  "next_step": "Begin remaining source/reference validation one group at a time, starting with SCENARIO-BB-001."
+}

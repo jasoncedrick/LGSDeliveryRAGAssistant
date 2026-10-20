@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What permits and security clearances are needed to organize a public fun-run or motorcade in Davao City?"
+  ],
+  "answer": [
+    "To organize a public fun-run or motorcade in Davao City, the following permits and security clearances are needed:\n\n1. Security Clearance from Public Safety and Security Office [S1, S3]\n2. Business Permit (organizer) from Business Bureau [S1, S3]\n3. Barangay Resolution (for barangay events) [S2]\n4. Detailed Plan/Floor Plan (for exhibits, if applicable) [S2]\n5. Affidavit of Undertaking to strictly follow recommendations [S1]\n\nThe schedule of fees for meetings, incentives, conference, sports events, and exhibits, which includes fun-runs and motorcades, is Php500.00/Day [S2]."
+  ],
+  "contexts": [
+    [
+      "jurisdiction of Davao City.\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\nGENERAL REQUIREMENTS\n1. Security Clearance from Public Safety and \nSecurity Office\nPublic Safety and Security \nCommand Center\n2. Business Permit (private agency) (organizer) \nBusiness Bureau\n3. Affidavit of Undertaking to strictly follow \nrecommendations.\nClient\nCONCERTS, SHOWS OR EVENTS IN OPEN AREAS\n1. Barangay Resolution \nBarangay Hall\nMAHJONG\n1. Barangay Clearance \nBarangay Hall\n2. Cedula \nCity Treasurer’s Office\nREC",
+      "SP Ordinance (1 original)\n4. Barangay Resolution for barangay events (1 original)\n5. Security Clearance from Public Safety and Security Office\n6. Business Permit (private agency) (organizer)\n7. Detailed Plan/Floor Plan (For Exhibits)\n8. Affidavit of Undertaking to strictly follow recommendations.\nSCHEDULE OF FEES\nMeetings, Incentives, Conference, Sports Events and Exhibits - Php500.00/Day\nRecorrida - Php150/Day\nSampling - Php300/Day\nMotorcade - Ph",
+      "& Licenses Division\nClassification Simple (Regular), Complex (Complaint), Highly Technical (ICAB\nAccreditation)\nType of \nTransaction\nG2C – Government to Citizen \nG2B – Government to Business\nWho may \navail\nAny business owners operating in Davao City (Regular), any natural or \njuridical entities whose welfare, security and safety are threaten by the \nconduct of any business activities (Complaint), Internet Café and Coin \nOperated Internet Machine Business Operators within Davao City \n(ICAB).\nCHECKLIST OF REQUIREMENT \nWH"
+    ]
+  ],
+  "ground_truth": [
+    "A Special Mayor's Permit is required for events involving groups of people such as concerts, bazaars, fun-runs, and motorcades. General requirements include Public Safety and Security Command Center clearance, organizer business permit, and an Affidavit of Undertaking."
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "question": [
+    "Magkano ang bayad sa Professional Tax Receipt (PTR) sa Davao at ano ang kailangang dalhin para makakuha?"
+  ],
+  "answer": [
+    "Sa Professional Tax Receipt (PTR) sa Davao City, wala nakit-an nga impormasyon bahin sa mga nakapag-aral sa Citizens' Charter. Ang bayad sa PTR ay hindi nakalabas sa mga nakalaman sa mga source na ibinigay. Para makakuha ng PTR, kailangan mo ng isang original na Professional Regulatory Commission ID o Integrated Bar of the Philippines ID (makukuha sa Professional Regulatory Commission, Juna Subd., Matina, Davao City o Integrated Bar ng Pilipinas). [S2]\n\nSa mga nakalaman sa mga source, wala pang nakalabas tungkol sa bayad sa PTR. Ang mga detalye sa bayad ay maaaring makukuha sa mga kasamahan ng City Treasurer's Office."
+  ],
+  "contexts": [
+    [
+      "Revenue\nCode of the\nCity of \nDavao\nOrdinance \nNo. 0291-\n17, Series \nof 2017, \nSection\n389\n-\nThe Rates\nof Fees\nand\nCharges\n5 Minutes \nLocal Revenue\nCollection Officer I/\nRevenue\nCollection Clerk\nI/Ticket\nChecker/Admin\nAide IV\n2. Client \nmakes the \npayment and \nwaits for the \nOfficial \nReceipt to be \nissued.\n2. Collector \naccepts the \npayment, \nprocesses \nthe \ntransaction, \nand issues \nthe Official \nReceipt to \nthe client.\nBased on \nthe 2017 \nRevenue \nCode of \nthe City of\nDavao\nOrdinance",
+      "15. Professional Tax \nAssessment issued to taxpayers / clients for payment of Professional Tax Receipt. \nOffice or Division \nOffice of the City Treasurer (CTO) – Business Tax \nAssessment Division/ District Offices\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail \nAll\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Unexpired Professional\nRegulatory Commission ID/ \nIntegrated Bar of the Philippines \nID – 1 original\nProfessional Regulatory Commission, Juna \nSubd., Matina, Davao City / Integrated Bar \nof the",
+      "Assessment \nDivision, City \nTreasurer’s \nOffice, \nSangguniang \nPanlungsod, to \nassess and \npay fees, and \nsecure an \nOfficial Receipt \nand \nCommunity \nTax Certificate \n(Cedula).\nReceipts, \nand process \nthe Cedula.\nCode of\nthe City of\nDavao\nOrdinance \nNo. 0291- \n17, series \nof 2017, \nsection 72\n–\nImposition \nof Tax on\nAnnual\nFixed Tax\nfor\nDelivery \nVehicle;\nSection 76\n–\nGraduated\nTax on \nBusiness\nLocal Treasury\nOperations\nOfficer I/Local\nRevenue\nCollection Officer \nI/Local Revenue \nCollection Officer \nI/Local Revenue",
+      "of \nPayment if \nthere are no \narrears.\nBased on \nthe 2017 \nRevenue \nCode of \nthe City of\nDavao\nOrdinance \nNo. 0291-\n17,\nseries \nof 2017, \nsection 44\n–\nTax on \nSand,\n30 Minutes \nLocal Treasury\nOperations\nOfficer I/Local\nTreasury \nOperations\nOffice I\n-\nCity\nTreasurer’s\nOffice\n3. Submit the\nTax Order of \nPayment to \nthe District \nCollector at\n3. Accept the\npayment \nand issue \nthe Official \nReceipt at\n20 Minutes \nLocal Revenue\nCollection\nOfficer I/ Admin\nAide IV/ \nRevenue",
+      "14. Payment for Real Property Tax (RPT) Clearance\nStatement of Account issued to clients for payment/ issuance of Tax Clearance (Local \nRevenue Code of Davao City). \nOffice or Division \nOffice of the City Treasurer (CTO) – Real Property Tax \nDivision and CTO District Offices\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail \nAll real property owners in Davao City\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Tax Declaration /Declaration of \nReal Property Tax Valuation"
+    ]
+  ],
+  "ground_truth": [
+    "Under Section 58 of the 2017 Revenue Code, the Professional Tax is PHP 300.00 per annum for individuals legally authorized to practice their profession. Applicants can register and generate an Order of Payment online via ptr.davaocity.gov.ph or pay at CTO counters. Requirements are: 1) Unexpired PRC ID or IBP ID (1 original); 2) Certification from PRC/IBP for new passers; and 3) Current Davao City address and contact details."
+  ]
+}

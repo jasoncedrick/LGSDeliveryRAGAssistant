@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What are the requirements and fee for validating an Occupancy Permit for buildings 3 storeys and above at CPDO?"
+  ],
+  "answer": [
+    "For validating an Occupancy Permit for buildings 3 storeys and above at the City Planning and Development Office (CPDO), the following requirements are needed:\n\n1. Validation based on the Integrated Zoning Ordinance (2019-2028) [S1]\n   - Locational Clearance issued by the Office of the City Planning & Development Coordinator (CPDO) - Zoning Enforcement Division\n\n2. Seismic Analysis [S3]\n   - Submission of 4 copies of Seismic Analysis prepared by hired professionals (all engineers and architects)\n\n3. Photographs of Location with Landmarks or Image of the location taken from Google Maps (clear and detailed) [S3]\n   - Submission by the Owner/Applicant\n\n4. Conditional Requirements [S3]\n   - Construction/minor repair of buildings 3-storeys and above - Construction Safety & Health Program (CSHP)\n     - Submission of 1 original and 1 photocopy to the Department of Labor and Employment (DOLE)\n\nAs for the fee, the Citizens' Charter does not provide specific information about the fee for validating an Occupancy Permit. It is advisable to contact the CPDO for the latest fee information. [Wala akoy nakit-an nga impormasyon bahin niini sa Citizens' Charter.]"
+  ],
+  "contexts": [
+    [
+      "2. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (3-Storey Buildings and Above and \n1,500 Building Floor Area and Above) \nFor 3-storey buildings and above and for building floor area of 1,500 square meters \nand above only.  \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nComplex\nType of Trans",
+      "3. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (2-Storey Buildings and Below and \n1,500 Building Floor Area and Below) \nFor 2-storey buildings and below and for building floor area of 1,500 square meters \nand below only. \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator.  \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nSimple\nType of Trans",
+      "and sealed by hired professional \n(licensed Architect) \n4 copies\nOwner/Applicant\n19. Seismic Analysis \nHired Professionals (All Engineers & Architect)\n20. Photographs of Location with Landmarks or \nImage of the location taken from Google Maps \n(Clear and Detailed)\nOwner/Applicant\nConditional Requirements\na.       Construction/minor repair of buildings 3- \nstoreys and above - Construction Safety & \nHealth Program (CSHP)  \n1 original, 1 photocopy\nDepartment of Labor and Employment (DOLE)\nb.     Bor"
+    ]
+  ],
+  "ground_truth": [
+    "Validation of Occupancy Permit for buildings 3-storeys and above or floor area of 1,500 sq.m. and above requires approved building plans, approved building permit, Certificate of Occupancy form, locational clearance, and site photos. A PHP 150.00 filing fee is paid to CTO."
+  ]
+}

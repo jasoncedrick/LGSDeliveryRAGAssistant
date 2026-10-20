@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang mga pormal na requirements at sworn statements na kailangan para magreklamo laban sa tiwaling tauhan ng BFP sa IAS?"
+  ],
+  "answer": [
+    "Wala nga nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa mga formal na requirements at sworn statements na kailangan para magreklamo laban sa tiwaling tauhan ng BFP sa IAS. Ang mga sworn statements sa mga reklamo ay hindi nakalistado sa mga nakapag-aral sa BFP's Citizens' Charter. Ang mga reklamo sa BFP ay maaari nga magpakita sa Contact Center ng Bayan sa mga access channels na nakalistado sa [S3]. Ang mga formal na requirements sa reklamo ay hindi nakalistado sa mga nakapag-aral sa BFP's Citizens' Charter."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "applied in Fire\nStation/Lone District\nFire Office)\nThree (3) set of the  following documents\n\n[IMAGE PANEL TRANSCRIPTION — BFP PDF page 1]\nWARNING: BFP PERSONNEL ARE PROHIBITED FROM SELLING OR RECOMMENDING SPECIFIC BRAND OF FIRE EXTINGUISHER.\nREPORT SUCH IRREGULARITY AT THE FOLLOWING CONTACT NUMBERS:\nOFFICE OF THE CHIEF, BFP\nDirect line 426-43-99 Trunk line 426-02-19/426-02-46 Local 7",
+      "on government services, whether positive or negative, to the Contact Center ng\nBayan via following access channels:\nSMS: 09088816565\nEmail: email@contactcenterngbayan.gov.ph            \n     Web: https://contactcenterngbayan.gov.ph/            \n     FB: https://facebook.com/civilservicegovph/\nCall: 165 65 (P5 +VAT per call anywhere in the Philippines via PLDT Landline)\nPUBLIC WARNING\nThe BFP Does not “ACCREDIT” nor Recommend any Brand, Store or Distributor of Fire\nExtinguisher"
+    ]
+  ],
+  "ground_truth": [
+    "To file an administrative complaint against BFP personnel, the client must provide a written complaint with full names/addresses, material facts of acts/omissions, certified documentary evidence/affidavits, and certification of non-forum shopping to the Internal Affairs Service (IAS)."
+  ]
+}

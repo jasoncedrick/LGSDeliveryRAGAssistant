@@ -1,0 +1,14 @@
+{
+  "held_out_accessed": true,
+  "freeze": true,
+  "configuration": "A",
+  "k": 3,
+  "weights_B_C": [
+    0.75,
+    0.25,
+    0.0
+  ],
+  "execution_manifest_sha256": "c3e7a40501bc87236156c50be1d12dc832c45fc94d3edd2206cbe0052400a51e",
+  "reference_policy": "Original held-out reference unchanged; no outcome-driven corrections.",
+  "label_policy": "Source-span crosswalk only, registered before outcomes. Incomplete groups keep all queries but Hit/MRR null. Report source-overlap relevance transfer and denominators; no claims of complete gold coverage."
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga i-upload nga dokumento ug pila ang bayad para sa online Locational Clearance sa negosyo sa CPDO?"
+  ],
+  "answer": [
+    "Sa online Locational Clearance sa negosyo sa CPDO (City Planning and Development Office), ang mga dokumento na dapat i-upload sa website ng CPDO ay nasa chunk DEV120-CPDO-PDF0070-C001 sa Citizen Charter 2026_VOL.I & II-3.pdf. Hindi ma-iwasan ang pag-require ng FSIC (Fire Safety Inspection Certificate) para sa mga negosyo na may occupancy. Ang bayad para sa online Locational Clearance ay hindi ma-iwasan. Para sa mga detalye tungkol sa bayad, maaari kang pakiusap sa CPDO. (Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungkol sa bayad para sa online Locational Clearance sa mga negosyo sa CPDO.)"
+  ],
+  "contexts": [
+    [
+      "TION\nFEES\nTO \nBE \nPAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\n1. Submit pertinent\ndocuments and \nfilled application \nform\n1. Pre-assess\nBusiness permit \nApplication\nNone \n10 Minutes \nLicensing Officer \nBusiness Bureau\n2. \nReceive Control\nNumber Form with QR \nCode for monitoring of \nupdates from \nRegulatory Offices. \nCheck the status of the \napplication. If \napproved by ROs, \nproceed to Business \nBureau for assigning\n2. Verify history, the \nfilled-out online \napplication form \ninformation and \nuploaded documents.\n- If Complete \nDocumentary \nRequirements (with \nFSIC for Occupancy +",
+      "12. Enforcement of the Integrated Zoning Ordinance (ZO) 2019 – \n2028 in the Issuance of the Locational Clearance (LC) for Business \n– Online Application\nA written authority / permit granted by the City Planning and Development Office \n(previously by the Board) pursuant to applicable laws on land use planning and zoning \nfor the establishment or operation of projects of national / local significance. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nSimple\nType of Transaction \nG2B –",
+      ".\ngov.ph/ and select Online \nPayment or proceed to CTO for \npayment as alternative option\nb.  Select desired Bank\nand pay online.\nc.  Wait for SMS indicating\napproval of Special \nPermit Application.\nshall tag for \n“approval”, \nindicate the \namount to \nbe paid and \nthe \napplication \nshall then \nbe routed \nelectronicall\ny for \nregulatory \noffices’ \napproval or \ndisapproval. \nOnce \napproved, \nthe client \nshall \nreceive an \nSMS or e-\nmail that the \napplication \nis ready for \npayment to \nthe City \nTreasurer’s \nOffice. \nOtherwise, \nthe \napplication \nwill"
+    ]
+  ],
+  "ground_truth": [
+    "For online business locational clearance, the checklist lists: uploaded application form; Affidavit of Undertaking for neighbor consent with sketch map showing neighbor location (1 photocopy); Homeowners Association Certificate of No Objection; Certificate of Actual Land Occupancy for Migrant (based on RA8371); Locational Clearance for Building Permit, if applicable; PRC ID for licensed broker/License to Sell/Affidavit of Undertaking not to sell raw lots (PD957); Affidavit of Undertaking for Online Business/Booking Office/On-Job Site/On-Call/Private Garage; pictures showing working area including roads; and sketch map. Additional requirements may be required as the need arises.\n\nThe fee columns and TOTAL state None. The TOTAL is 1 Day and 50 Minutes. This includes denial-letter steps, with signature time dependent on administrator availability; it is not a guaranteed approval deadline. Approved/conditionally approved cases have their BPLS status updated and other offices then evaluate the application."
+  ]
+}

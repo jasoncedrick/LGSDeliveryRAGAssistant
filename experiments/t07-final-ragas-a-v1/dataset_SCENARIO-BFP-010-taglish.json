@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Paano makakapag-renew ng FSIC ang isang negosyo kung napasama ito sa negative list o may pending violations sa Fire Code?"
+  ],
+  "answer": [
+    "Sa negosyo na napasama sa negative list o may pending violations sa Fire Code, hindi maaaring mag-renew ang FSIC (Fire Safety Inspection Clearance). Ang mga negosyo na ito ay kailangan mag-address muna ng mga violations sa Fire Code bago mag-apply ulit para sa FSIC. [S3]\n\nPara sa mga negosyo na gustong mag-renew ng FSIC, maaaring huwag silang napasama sa negative list at wala na silang pending violations sa Fire Code, sila ay maaaring mag-apply ulit para sa FSIC. Ang mga requirements na kailangan para sa FSIC ay maaaring nakalistado sa BFP FSEC (Fire Safety Evaluation Clearance) Application Form at BFP FSIC Application Form. [S2]"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "UDED \nIN THE NEGATIVE LIST\nA   P   P   L   I   C   A   T   I   O   N      F   O   R   M\nApplied in Fire Station/Lone District Fire Office \nBFP FSEC\nApplication Form\n(DCN No. BFP-QSF-\nFSED-001 REV.02\n(08.24.20))\n[REPRESENTATION: Application-form cell spans: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION.]\n\nBFP FSIC Application Form (DCN No. BFP-QSF-FSED-002 RE",
+      "NEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPANCY\nPERMIT STAGE\nNEW  BUSINESS    \nPERMIT WITHOUT\nVALID FSIC\nISSUED DURING\nOCCUPANCY\nPERMIT STAGE\nRENEWAL OF\nBUSINESS\nPERMIT\nRENEWAL OF\nBUSINESS PERMIT\nWITHOUT VALID FSIC\nOR EXPIRED FSIC/\nWITH EXISTING\nVIOLATION OF THE\nFIRE CODE/INCLUDED \nIN THE NEGATIVE LIST\nA   P   P   L   I   C   A   T   I   O   N"
+    ]
+  ],
+  "ground_truth": [
+    "Renewals without a valid FSIC or those included in the Negative List must resolve all existing Fire Code violations, settle outstanding penalties, pay the 15% FSIF, and pass a mandatory re-inspection before the FSIC for business renewal is released."
+  ]
+}

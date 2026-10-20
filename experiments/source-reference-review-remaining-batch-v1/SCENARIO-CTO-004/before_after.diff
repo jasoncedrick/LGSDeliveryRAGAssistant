@@ -1,0 +1,24 @@
+--- group.before.json
++++ group.candidate.json
+@@ -3,13 +3,11 @@
+   "pillar": "City Treasurer's Office",
+   "split": "development",
+   "ground_truth_chunk_ids": [
+-    "DEV120-CTO-PDF0052-C001",
+-    "DEV120-CTO-PDF0052-C002",
+     "DEV120-CTO-PDF0055-C001",
+     "DEV120-CTO-PDF0055-C002",
+     "DEV120-CTO-PDF0055-C003"
+   ],
+-  "ground_truth_reference_answer": "Under Section 72 of Ordinance No. 0291-17, an annual fixed tax is imposed on delivery vehicles used by manufacturers, producers, wholesalers, dealers, or retailers distributing products within Davao City: a) Motorcycle and motorized tricycle: PHP 240.00; b) Delivery jeepney and utility vehicles: PHP 600.00; c) Trucks, vans, or vehicles with six wheels and above: PHP 1,000.00; d) Water vessels, barges, and tugboats: PHP 2,000.00; and e) Airplanes/aircraft: PHP 5,000.00.",
++  "ground_truth_reference_answer": "Annex15, Section72 lists annual fixed delivery-vehicle taxes: motorcycle/motorized tricycle PHP240; delivery jeepney/similar utility vehicle PHP600; truck, van, or any vehicle with six wheels and above PHP1,000; water vessel, barges, ferry boats, tugboats and similar watercraft PHP2,000; airplane/aircraft PHP5,000. The section applies to vehicles used by manufacturers, producers, wholesalers, dealers or retailers in delivery/distribution of the listed products and goods within the City. Preserve the six-wheel row wording when classifying a vehicle.",
+   "queries": {
+     "english": "What is the annual fixed tax schedule for commercial delivery trucks, vans, and motorcycles in Davao City?",
+     "taglish": "Magkano ang annual fixed tax para sa mga delivery truck, van, at motor na ginagamit sa negosyo sa Davao?",
+@@ -20,5 +18,5 @@
+     "CHUNK-CTO-P210-C01",
+     "CHUNK-CTO-P210-C02"
+   ],
+-  "mapping_status": "PROVISIONAL_EXACT_SPAN_MAPPING"
++  "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED"
+ }

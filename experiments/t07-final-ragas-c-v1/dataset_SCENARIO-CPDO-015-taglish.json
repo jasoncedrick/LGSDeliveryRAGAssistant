@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Magkano ang bayad kada hektarya para sa processing at inspection ng Subdivision Development Permit (DP)?"
+  ],
+  "answer": [
+    "Ang bayad para sa processing at inspection ng Subdivision Development Permit (DP) ay PHP 2,880.00 per hectare. [S1, S2, S3]"
+  ],
+  "contexts": [
+    [
+      "Minutes \n \nZoning Officer\nIV\nCPDO\n1.3 Upon initial \nassessment of \ndocuments, if \ncomplete, issues \nOrder of \nPayment for \nProcessing Fee\nProcessin\ng Fee: \nPSDP: \nPHP\n360.00\nper\nhectare\nDP: PHP \n2,880.00\nper\nhectare\nInspection\nFee: \nPSDP: \nPHP\n1,500.00\nper\nhectare\nDP: PHP \n2,880.00\nper\nhectare\n10 Minutes",
+      "documents are \nlacking, advised \nclient to comply)\nCPDO\n1.3 Upon initial \nassessment of \ndocuments, if \ncomplete, Issues \nOrder of Payment \nfor Processing \nFee\nProcessing\nFee: \nPSDP: \nPHP\n360.00\nper hectare\nDP: PHP \n2,880.00\nper hectare \n \nInspection\nFee: \nPSDP: \nPHP\n1,500.00\nper\nhectare\nDP: PHP \n2,880.00\nper hectare\n10 Minutes\n2. Submits \nOriginal O.R. \nwith Complete \nDocuments\n2.1 Rechecks and \nReceives \ndocuments then \nendorses to \nAdmin Division for \ndocument tracking \nsystem encoding",
+      "Zoning\nOfficer IV \nCPDO\n1.3 Upon initial \nassessment of \ndocuments, if \ncomplete, issues \nOrder of \nPayment for \nProcessing Fee\nProcessin\ng Fee: \nPSDP: \nPHP \n360.00\nper\nhectare\nDP: PHP \n2,880.00\nper\nhectare\nInspection\nFee: \nPSDP:\n10 Minutes \nZoning\nOfficer IV\nCPDO"
+    ]
+  ],
+  "ground_truth": [
+    "For a Subdivision Development Permit (DP), the processing fee is PHP 2,880.00 per hectare, and the site inspection fee is PHP 2,880.00 per hectare."
+  ]
+}

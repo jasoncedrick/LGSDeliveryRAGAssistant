@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsaon pagkwenta sa electrical inspection fee base sa Total Connected Load (kVA) sa usa ka negosyo o edipisyo?"
+  ],
+  "answer": [
+    "Sa usa ka negosyo o edipisyo, ang electrical inspection fee sa Davao City mao nga pagkwenta sa Total Connected Load (kVA) sa ilang wala nga schedule sa [S1].\n\nSa ilang schedule sa [S1], ang electrical fees sa residential, institutional, commercial, at industrial structures mao nga gikan sa wala nga:\n\na. 5 kVA o mao nga wala, P 200.00\nb. Over 5 kVA hangtod 50 kVA, P 200.00 na dapit sa P 20.00/kVA\nc. Over 50 kVA hangtod 300 kVA, P 1,100.00 na dapit sa 10.00/kVA\nd. Over 300 kVa hangtod 1,500 kVA, P 3,600.00 na dapit sa 5.00/kVA\ne. Over 1,500 kVA hangtod 6,000 kVA, P 9,600.00 na dapit sa 2.50/kVA\nf. Over 6,000 kVA, P 20,850.00 na dapit sa 1.25/kVA\n\nAng \"Total Connected Load (kVA)\" ay mao nga wala nga nakit-an sa load schedule."
+  ],
+  "contexts": [
+    [
+      "es \nshall be charged to cover all inspection trips during construction.\nii. Annual Inspection Fees are the same as in Section 4.e.\nSection 4.e Electrical Fees:\nThe following schedule shall be used for computing electrical fees in residential, \ninstitutional, commercial and industrial structures:\na. Total Connected Load (kVA) Fee\n5 kVA or less \nP 200.00\nOver 5 kVA to 50 kVA \n200.00 + P 20.00/kVA\nOver 50 kVA to 300 kVA \n1,100.00 + 10.00/kVA\nOver 300",
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "/kVA\nOver 50 kVA to 300 kVA \n1,100.00 + 10.00/kVA\nOver 300 kVa to 1,500 kVA \n3,600.00 + 5.00/kVA\nOver 1,500 kVA to 6,000 kVA \n9,600.00 + 2.50/kVA\nOver 6,000 kVA \n20,850.00 + 1.25/kVA\nNOTE: Total Connected Load as shown in the load schedule.\nb. Total Transformer/Uninterrupted Power Supply (UPS)/Generator Capacity (kVA) Fee\n5 kVA or less"
+    ]
+  ],
+  "ground_truth": [
+    "Electrical inspection fees based on Total Connected Load are: 5 kVA or less = PHP 200.00; over 5 to 50 kVA = PHP 200 + PHP 20/kVA; over 50 to 300 kVA = PHP 1,100 + PHP 10/kVA; over 300 to 1,500 kVA = PHP 3,600 + PHP 5/kVA; over 6,000 kVA = PHP 20,850 + PHP 1.25/kVA."
+  ]
+}

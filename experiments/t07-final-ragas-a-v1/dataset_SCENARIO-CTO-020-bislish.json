@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Tagpila ang bayad sa pagpa-calibrate ug selyo sa timbangan ug bomba sa gasolina, ug pila ang surcharge kung walay selyo?"
+  ],
+  "answer": [
+    "Sa pagpa-calibrate ug selyo sa timbangan ug bomba sa gasolina, ang bayad sa City Treasurer ay wala nakit-an sa mga nakit-an nga impormasyon. Ngunit, sa pag-aralan sa City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf [S2], mao nga nakit-an ang surcharge kung walay selyo. Ang surcharge sa pag-aralan sa chunk DEV120-CTO-PDF0027-C004 ay 500% based on the Registration of weights and measures. Wala pa nga nakit-an sa mga nakit-an nga impormasyon kung saan ito ma-apply sa pagpa-calibrate ug selyo sa timbangan ug bomba sa gasolina.\n\nSa pag-aralan sa City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf [S3], wala nakit-an ang surcharge sa pagpa-calibrate ug selyo sa timbangan ug bomba sa gasolina. Ang mga nakit-an nga surcharge sa chunk DEV120-CTO-PDF0045-C002 ay ma-apply sa mga lesyon ug occupant sa pagbayad sa occupancy fee."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      ", an additional service charge of One Hundred Pesos (P \n100.00) for each instrument shall be collected.\n(h) Surcharge of 500% based on the Registration of weights and measures.",
+      "required herein shall subject the \nLessee/Occupant to a surcharge of twenty-five percent (25%) of the amount of the rental \nfee plus an interest of two percent (2%) per month but not to exceed thirty-six (36) \nmonths.\nSection 351\nOCCUPANCY FEE FOR AWARDEE\nOccupancy Fee per Stall/Booth Depending on Market\nClassification\nClass A \nClass B \nClass C \nClass D\nMeat Section \nP 4,000.00 \nP 2,900.00 \nP 1,700.00 \n1,400.00\nDressed Chicken \n4,000.00 \n2,900.00"
+    ]
+  ],
+  "ground_truth": [
+    "Weights and measures testing fees are: scales up to 30 kg = PHP 80.00; scales 30-300 kg = PHP 160.00; scales over 3,000 kg = PHP 400.00. Sealing gasoline/diesel pumps is PHP 200.00 per pump. Operating unsealed instruments incurs a 500% surcharge penalty."
+  ]
+}

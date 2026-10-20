@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang tumong sa Joint Inspection Teams (JIT) tali sa BFP ug City Hall sa pag-inspeksyon sa mga negosyo?"
+  ],
+  "answer": [
+    "Sa Joint Inspection Teams (JIT) sa BFP ug City Hall sa pag-inspeksyon sa mga negosyo, ang tumong nabasa sa Section 9.1.2 at 9.1.4 ng JMC No. 01 Series of 2021. Ang JIT ay maghihigpit sa pag-inspeksyon ng office/premises ng mga applicant sa pag-apply sa new business permit o renewal. [S2]\n\nSa pag-aralan ng mga negosyo, ang LGUs ay nakakapagtutulungan sa Department of Health para sa Sanitary Permits at sa BFP para sa Fire Safety Inspection Certificate. Ang BFP ay nagpapahayag ng uniform na guidelines para sa risk inspection sa mga sektor tulad ng nabanggit sa Section 9.1.4 ng JMC No. 01 Series of 2021. [S3]"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "te and other  permits or licenses being issued by other government agencies.\nNOTE (4) Section 9.1.2 of JMC No. 01 Series of 2021—To limit the face-to-face interaction between the applicant and the LGU officials, joint inspection teams (‗JITs‖) shall be organized to conduct inspection of the applicant‘s office/\npremises, in relation to an application for new business permit or renewal. (BOSS)\nSection 9.1.4 of JMC No. 01 Series of 2021—To address the lack of personnel of inspect",
+      "9.1.4 of JMC No. 01 Series of 2021—To address the lack of personnel of inspection departments and agencies compared to the number of establishments, LGUs are encouraged to use a system of risk classification of various \nbusinesses and adopt an inspection prioritization scheme on this basis, in close coordination with the Department of Health for Sanitary Permits, the BFP for the Fire Safety Inspection Certificate for the issuance of uniform guidelines on \nrisk inspection for specific sectors. (BOSS)\nAGENCY ROW 1\n\nCLIENTS"
+    ]
+  ],
+  "ground_truth": [
+    "Section 9.1.2 of JMC 2021-01 mandates the organization of Joint Inspection Teams (JIT) combining LGU inspectors and BFP personnel to conduct joint physical inspections, limiting face-to-face contact and eliminating redundant multiple visits."
+  ]
+}

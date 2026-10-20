@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsaon pagsumbong sa OCBO kung naay ilegal o delikado nga construction ug pila ka adlaw sila mag-inspeksyon?"
+  ],
+  "answer": [
+    "Sa ilahang kasunduan, ang OCBO (Occupational, Commerce, and Business Office) sa Davao City ay hindi nakalagay na sila ang mag-inspect sa mga iligal o delikado na construction. Ang mga inspection sa iligal o delikado na construction ay ginagawa ng mga ahensya ng gobyerno na nakatanggap ng pang-responsibilidad sa pagsasakop ng mga iligal o delikado na construction.\n\nWala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungkol sa mga ahensya na mag-inspect sa mga iligal o delikado na construction.\n\n[Source: No information found in the Citizens' Charter regarding the agencies that inspect illegal or dangerous construction.]"
+  ],
+  "contexts": [
+    [
+      "proceed to releasing\nwindow to claim the stub by presenting the OR.\nNote: Releasing date and time of FSEC is\nindicated in the claim stub.\n\nAGENCY ACTION: 3. Collect the payment and issue Official\nReceipt (OR)\nFor OSCP/BOSS : Backroom operation with\nOSCP/BOSS for one-time payment thru\nco-location\nFor Local Stations with MOA with the LGUs, fire\ncode fees/taxes shall be collected by the LGUs\n\nPROCESSING TIME: maximum of ten (10) minutes\n\nPERSON",
+      "Requirements \n(no FSIC for \nOccupancy), tag \nPending with \nDeficiency Note \nto renew or \nretire, to comply \nwith inspection \nrecord, and for \nthe compliance \nof required \ndocuments. \nOnce complied, \nAccept and \nForward the \nApplication for \nthe approval by \nthe Regulatory \nOffices.\nTOTAL:\nNone \n20 Minutes\nB. Pre-Assessment for New Business Permit (Onsite)\nCLIENT STEPS \nAGENCY ACTION\nFEES\nTO \nBE \nPAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\n1. Submit pertinent\ndocuments",
+      "Notice to Proceed for \nthe approval by the \nRegulatory Offices.\n- If with History and \nwith Incomplete \nDocumentary \nRequirements (no \nFSIC for Occupancy, \nencode basic \ninformation, scan \ndocument, return \ndocument and issue \nDeficiency Note to \nrenew or retire and to \ncomply inspection \nrecord, and issue \nControl Number Form \nwith QR Code for \nMonitoring of Updates \nfrom Regulatory \nOffices in lieu of the \nFSIC for Occupancy). \nOnce complied, Issue \nNotice to Proceed for \nthe approval by the \nRegulatory"
+    ]
+  ],
+  "ground_truth": [
+    "Complaints regarding Building Code violations require submitting a request/complaint letter. OCBO inspects within 5 days, prepares an Inspection Report, and issues a Notice of Violation or Cease-and-Desist order if illegal construction or structural hazards exist."
+  ]
+}

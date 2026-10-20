@@ -1,0 +1,28 @@
+T06 and T07 development completion checkpoint
+
+T06: Evaluation harness implemented and development validated.
+T07: Development grid, 270 A/B/C generation records and scoring completed.
+Full T07 under manuscript: NOT COMPLETE. Registered freeze and single-pass held-out A/B/C comparison are pending.
+
+All 90 development queries retained per configuration. Original judge failures, answers and context archives preserved. Retry-only supplemental scoring is explicitly labeled.
+Matched comparisons use the same answer-eligible query IDs for every system; they omit clarification and incomplete generation cases and are descriptive only. See coverage.json for all-query outcomes.
+
+Key evidence: matched_query_comparison.csv, comparison.with_retries.csv, judge_failure_review.json, completion_assessment.json.
+
+Before a final evaluation: review/document source ambiguities and BFP context association; confirm the exact freeze candidate including shared lexical guidance in C and the near-tied weight choice; register hashes for dictionary, corpus/indices, prompts, code, K and weights; then execute final held-out evaluation without tuning from test results.
+
+A new Git branch can preserve this checkpoint now. Suggested name: thesis/t06-t07-development-reviewed-20261019. Creating a branch does not itself commit or push any files.
+
+Grounding: 20260923.pdf Chapter 3.2.6 through 3.2.9; authoritative Thesis Tracker T06 harness and T07 three-architecture CSV tasks as archived in experiments/t06-formal-development-validation-v4/methodology_and_tracker.json. Tracker status itself is not rewritten.
+
+Manual check required: see manual_judge_check.json. The BFP-002 Taglish retry judge accepts a local-fee-schedules claim unsupported by retrieved S3. Fee formula is in the common reference, not in the actual retrieved passages. Do not equate reference support with RAGAS retrieved-context faithfulness.
+
+Matched 83-query descriptive means after supplemental retries:
+Faithfulness A=.7452 B=.8174 C=.7807
+Context precision A=.9428 B=.9408 C=.9367
+Context recall A=.9204 B=.9125 C=.9189
+Answer relevancy A=.5883 B=.5779 C=.5783
+B and C have identical top-K rankings for 58/90 queries despite tied aggregate Hit/MRR. Their ablation is not identical per query. No significance claim is made.
+
+
+BFP-002 source review update: user-provided image confirms the fee wording. See experiments/bfp002-fee-miss-review-v1/finding.json. Corpus already contains the formula and zero-assessment exception. Selected B full-corpus ranks are 177 and 315. This is a ranking miss; no source repair is justified for these two chunks. Normalization drops FSIC; B also paraphrases minimum payment. No scoring values, benchmark labels or retrieval settings changed. Source checking for this case is complete; development investigation remains before freeze.

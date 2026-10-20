@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsaon pag-apply ug partial retirement sa usa ka linya sa negosyo ug unsa ang mga kinahanglan i-pass?"
+  ],
+  "answer": [
+    "Sa pag-apply sa partial retirement sa isa ka negosyo, ang mga kinahanglan nga i-pass sa Business Bureau office sa pamamagitan sa ilang mga steps na nabasa sa mga source blocks DEV120-BB-PDF0049-C002 at DEV120-BB-PDF0050-C001.\n\n1. Submit pertinent documents, application form for Partial Retirement, at pag-proceed sa District Treasurer's Office para sa approval sa application ([S3], STEP 1: APPLICATION).\n2. Proceed sa City Treasurer's Office para sa payment ([S2], STEP 2: CTO ASSESSMENT).\n3. Submit ang approved application, official receipts (kung may mga applicable), at pertinent documents sa Business Bureau office at i-sign ang logbook ([S2], STEP 3: RELEASE).\n4. Receive ang approved applications for Partial Retirement at complete attachments/documents ([S1], 3.1 Receive approved Applications for Partial Retirement and Complete Attachments / Documents).\n5. Check at approve ang application for Partial Retirement ([S1], 3.2 Check and Approve Application for Partial Retirement).\n6. Tag at encode ang Partial Retirement ([S1], 3.3 Tag and Encode Partial Retirement).\n7. Encode ang notations at print ang Business Permit ([S1], 3.4 Encode Notations and Print Business Permit).\n\nWala nako nakit-an nga kinahanglan i-pass sa ibang ahensya."
+  ],
+  "contexts": [
+    [
+      "documents. \nClaim \nBusiness \nPermit at the \nBusiness \nBureau office \nand Sign \nLogbook\n3.1 Receive \napproved \nApplications for \nPartial Retirement \nand Complete \nAttachments / \nDocuments (claim \nstub is released to \nthe client on this \nstep)\nNone \n10 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau\n3.2 Check and \nApprove Application \nfor Partial \nRetirement\nNone \n20 Minutes \nRecords\nSection Head\nBusiness \nBureau\n3.3 Tag and Encode \nPartial Retirement\nNone \n20 Minutes \nRecords\nSection Head\nBusiness \nBureau\n3.4 Encode \nNotations and Print \nBusiness Permit\nNone \n10 Minutes EDP",
+      "Partial \nRetirement\napplication form for \nPartial Retirement\nSTEP 2: CTO ASSESSMENT\n2.Proceed to \nthe City \nTreasurer’s \nOffice for \npayment.\n2. Process under \nCity Treasurer’s \nOffice\nNone unless there\nare outstanding \nunpaid taxes and\ncharges\n2 Days, 4 \nHours and \n10 Minutes\nCity Treasurer’s\nOffice\nEmployees\nSTEP 3: RELEASE\n3.Submit \nApplication for \nPartial \nRetirement, \nofficial \nreceipts if \napplicable and \npertinent \ndocuments. \nClaim \nBusiness \nPermit at the \nBusiness \nBureau office \nand Sign \nLogbook\n3.1 Receive \napproved",
+      "Amendment\nof\nBusiness\nPermit.\n1 Hour and \n55 Minutes\nI. Amendment of Business Permit (Partial Retirement)\nCLIENT \nSTEPS\nAGENCY ACTION\nFEES TO BE\nPAID\nPROCESSIN\nG TIME\nPERSON\nRESPONSIBLE\nSTEP 1: APPLICATION\n1.Submit \npertinent \ndocuments \nand Receive \npertinent \ndocuments \nand \napplication \nform \nfor\nPartial \nRetirement \nthen proceed \nto the District \nTreasurer’s \nOffice for the \napproval \nof\n1.1 Assess \nApplication for \nPartial Retirement.\n1.2 Verify and \nEncode Application \nfor Partial \nRetirement."
+    ]
+  ],
+  "ground_truth": [
+    "Partial retirement requires a notarized Affidavit of Partial Retirement stating the reason, effective date, and business line to retire (or Board/Partnership Resolution), SPA if represented, representative ID, and latest business permit. Approval and tax reassessment by the City Treasurer are required."
+  ]
+}

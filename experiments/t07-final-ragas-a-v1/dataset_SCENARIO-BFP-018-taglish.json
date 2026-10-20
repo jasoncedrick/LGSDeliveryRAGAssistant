@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Anong karagdagang permits ang kailangang bayaran sa BFP kapag nag-iimbak o nagbibiyahe ng flammable chemicals at gas?"
+  ],
+  "answer": [
+    "Wala akong impormasyon bahin sa Citizens' Charter tungkol sa mga karagdagang permits na kailangang bayaran sa BFP kapag nag-iimbak o nagbibiyahe ng flammable chemicals at gas. Ang mga transaksyon na nakalista sa Citizens' Charter ay hindi nakakalabas ng mga simple transactions lamang. [S1, S2, S3] Ang mga nakalista sa Citizens' Charter ay hindi nakakatutubos sa iba't ibang transaksyon. Kung mayroon man silang karagdagang mga transaksyon na kailangang bayaran, hindi ito nakalista sa Citizens' Charter."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "UDED \nIN THE NEGATIVE LIST\nA   P   P   L   I   C   A   T   I   O   N      F   O   R   M\nApplied in Fire Station/Lone District Fire Office \nBFP FSEC\nApplication Form\n(DCN No. BFP-QSF-\nFSED-001 REV.02\n(08.24.20))\n[REPRESENTATION: Application-form cell spans: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION.]\n\nBFP FSIC Application Form (DCN No. BFP-QSF-FSED-002 RE",
+      "applied in Fire\nStation/Lone District\nFire Office)\nThree (3) set of the  following documents\n\n[IMAGE PANEL TRANSCRIPTION — BFP PDF page 1]\nWARNING: BFP PERSONNEL ARE PROHIBITED FROM SELLING OR RECOMMENDING SPECIFIC BRAND OF FIRE EXTINGUISHER.\nREPORT SUCH IRREGULARITY AT THE FOLLOWING CONTACT NUMBERS:\nOFFICE OF THE CHIEF, BFP\nDirect line 426-43-99 Trunk line 426-02-19/426-02-46 Local 7"
+    ]
+  ],
+  "ground_truth": [
+    "Under Section 12.0.0.4 of the Revised IRR of RA 9514, establishments that store, convey, or handle flammable and combustible materials must pay specialized fire clearance fees as a prerequisite for municipal business licenses."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Anong karagdagang permits ang kailangang bayaran sa BFP kapag nag-iimbak o nagbibiyahe ng flammable chemicals at gas?"
+  ],
+  "answer": [
+    "Wala akong impormasyon bahin sa Citizens' Charter tungod sa inyong katanungan tungkol sa mga karagdagang permit na kailangan bayaran sa BFP kapag nag-iimbak o nagbibiyahe ng flammable chemicals at gas.\n\nAng mga importers ng mga produkto na ito ay kailangan mag-apply sa BPS para sa:\n1. Philippine Standard (PS) License (para sa manufacturers) - [S1]\n2. Import Commodity Clearance (ICC) Certificate (para sa importers) - [S1]\n\nAng mga produkto nila ay subject sa testing based on the requirements ng relevant PNS sa BPS Testing Center o DTI-accredited testing laboratories.\n\nWala pa akong impormasyon tungkol sa mga bayad na kailangan bayaran para sa mga permit na ito sa Citizens' Charter. Mag-e-email kamo sa BFP upang malaman kung anong bayad na kailangan bayaran para sa mga ito. - [S3]"
+  ],
+  "contexts": [
+    [
+      "importers of these products are required to apply from the BPS for the:\nPhilippine Standard (PS) License (for manufacturers)\nor the\nImport Commodity Clearance (ICC) Certificate (for importers).\nTheir products are subjected to tests based on the requirements of relevant PNS at the BPS Testing Center or DTI-accredited testing laboratories.\n\nKnow your product\nEvery fire extinguisher type has different color bands to distinguish their type. Each type is intended for use for specific flammable materials that are classified into codes:",
+      "justments and \nAppeals \n \n-If conditional \napproval clients \nare required to \nsubmit additional \nrequirements for \nthe sufficiency of \nthe application and \nthe conditions \nshould be \ncomplied with \nduring the \nbusiness \noperations \ncommence.\nNone \n5 Minutes\nActing\nAdministrative\nOfficer  \nCPDO",
+      "REDIT” nor Recommend any Brand, Store or Distributor of Fire\nExtinguisher and Fire Fighting Equipment\nAs per BFP Memorandum Circular No. 2016-016\nProhibition of BFP Personnel from Engaging in any act of impropriety and/or corruption pertaining to the enforce-\nment and implementation of the Fire Code and providing sanction thereof.\nHow to file a complaint\nTo file a complaint against the BFP or any of its personnel, the Client/Customer should provide the  following details via \nemail or other form of"
+    ]
+  ],
+  "ground_truth": [
+    "Under Section 12.0.0.4 of the Revised IRR of RA 9514, establishments that store, convey, or handle flammable and combustible materials must pay specialized fire clearance fees as a prerequisite for municipal business licenses."
+  ]
+}

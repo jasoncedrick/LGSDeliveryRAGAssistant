@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What are the calibration and sealing fees for commercial weighing scales and fuel dispensing pumps, and what penalty applies to unsealed units?"
+  ],
+  "answer": [
+    "For commercial weighing scales that cannot be presented at the City Treasurer’s Office due to size, weight, quantity, or form, the assessment and calibration fee is not specified in the provided sources. However, for newly opened business establishments, the sealing fee is 200.00 per instrument [S1].\n\nFor commercial weighing scales that can be presented at the Business Tax Assessment Division/CTO District Offices, the assessment and calibration fee is not specified in the provided sources. The sealing fee is not mentioned either.\n\nFor gasoline/diesel pumps, the sealing fee is 200.00 per pump [S3].\n\nFor each tanker compartment of gasoline/diesel and other petroleum products, the sealing fee is 100.00 per compartment [S3].\n\nRegarding unsealed units, the penalty is not specified in the provided sources."
+  ],
+  "contexts": [
+    [
+      "9. Sealing and Testing of Weights and Measures (For Weight and \nMeasure Instruments That Cannot be Presented at the City Treasurer’s \nOffice Due to Size, Weight, Quantity or Form – Newly Opened Business \nEstablishments) \nAssessment and Calibration Result issued to taxpayers for payment and sealing of Weight \nand Measure instruments in the field \nOffice or Division \nOffice of the City Treasurer (CTO) – Business Tax \nAssessment Division/ District Office\nClassification \nComplex\nType of Transaction \nG2C – Government to",
+      "8. Sealing and Testing of Weights and Measures (For Weight and \nMeasure Instruments Physically Presented at the Business Tax \nAssessment Division/CTO District Offices) \nAssessment and Calibration Result issued to taxpayers for payment and sealing of Weight \nand Measure instruments \nOffice or Division \nOffice of the City Treasurer (CTO) – Business Tax \nAssessment Division/ District Office\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1.",
+      "(e) For sealing of gasoline/diesel pumps\nPer pump \nPer pump (oil dispenser)\n200.00 \n100.00\n(f) For sealing of every tanker compartment of gasoline/diesel\nand other petroleum products per compartment \n100.00\n(g) For each and every re-testing and re-sealing of weights and measures\ninstruments including gasoline pumps outside the office upon request of the \nowner or operator, an additional service charge of One Hundred Pesos (P \n100.00) for each instrument shall"
+    ]
+  ],
+  "ground_truth": [
+    "Weights and measures testing fees are: scales up to 30 kg = PHP 80.00; scales 30-300 kg = PHP 160.00; scales over 3,000 kg = PHP 400.00. Sealing gasoline/diesel pumps is PHP 200.00 per pump. Operating unsealed instruments incurs a 500% surcharge penalty."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "judge_scope": "Development calibration on five previously reviewed groups, not 60 independent scenarios. Assistant labels are not independent expert gold.",
+  "false_positive_cases": [
+    "SCENARIO-OCBO-006-bislish-CONTROL4",
+    "SCENARIO-CPDO-003-english-CONTROL4",
+    "SCENARIO-CPDO-003-taglish-CONTROL4",
+    "SCENARIO-CPDO-003-bislish-CONTROL4"
+  ],
+  "invalid_remaining": 1,
+  "calibration_correct_fraction": 0.9166666666666666,
+  "how_to_report": "Report all controls and coverage; do not report only the accuracy of valid outputs. Report original and supplemental retry results separately.",
+  "T07_rescore_rule": "Baseline and punctuation candidate must use the same evaluator version and failure policy before weight/K selection. Do not compare the new single-case integration value to old full-run averages as a performance gain.",
+  "source_limitations": "BFP fee exception ranking and documented source ambiguities remain; no corpus or dictionary edits performed here."
+}

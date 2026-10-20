@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ilang porsyento ng socialized housing ang kailangang i-comply ng mga subdivision developers sa ilalim ng PD 957?"
+  ],
+  "answer": [
+    "Sa mga subdivision developer, kailangan nga 10% ng socialized housing ang i-comply sa ilalim ng PD 957. [S4]\n\nReference:\n[S4] City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf | printed page 707 | chunk DEV120-CPDO-PDF0078-C001"
+  ],
+  "contexts": [
+    [
+      "14. Preliminary Subdivision Development Plan (PSDP) and \nDevelopment Permit (DP) for High End, Low End, Farm Lot and \nMemorial Park \nAn application for subdivision approval based on BP 220, PD 957, and other related \nlaws. Executive Order No. 71, Series of 1993, pursuant to RA 7160, was signed into \nlaw to devolve the powers of the Housing Land Use Regulatory Board to approve \nsubdivision plans to the cities through the City Housing Land Use and Regulatory \nUnit as the technical arm of the Sang",
+      "National \nHousing Authority (NHA), the signatory for Lot \nOwner on Building Permit Form should be the \nRegional Manager of NHA\nCity Planning and Development Office (CPDO) \nSangguniang Panlungsod (SP)/ Housing and \nLand Use Regulatory Board (HLURB)\nIf the applicant is a subdivision developer, the following must be submitted, whichever is applicable:\nApproved Development Permit  \n– 1 original, 1 photocopy\nApplicant\nBuilding plans stamped “Approved” by \nsubdivision  \n – 1 original, 1 photocopy\nApp",
+      "(1 photocopy)\n37. \nCAAP Clearance / Building\nHeight Certificate, whichever is \napplicable (1 photocopy)\nCivil Aviation Authority of the \nPhilippines\n38. \nPPA Clearance (for ports and\nharbors) \n1. photocopy)\nPhilippine Ports Authority\n39. \nClearance from National Power\nCorporation, if applicable (1 photocopy)\nNational Power Corporation\n40. \nPayment Receipt (1 photocopy) \nCity Treasurer’s Office\n41. \n10% socialized housing\ncompliance for PD 957\nApplicant\nCLIENT STEPS \nAGENCY \nACTION\nFEES TO \nBE PAID"
+    ]
+  ],
+  "ground_truth": [
+    "Subdivision applications governed by Presidential Decree No. 957 are legally mandated to submit proof of compliance with the 10% socialized housing requirement as part of the documentary checklist for subdivision approval."
+  ]
+}

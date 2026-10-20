@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga clearances ug bayad para sa mga agency gawas sa Davao nga magpahigayon ug recruitment activity?"
+  ],
+  "answer": [
+    "Sa mga agency gawas sa Davao City na magpahigayon ug recruitment activity, ang mga kailangan nga clearances ug bayad sa ilahang mga requirements sa Business Bureau ay nakatanggap sa [S1] at [S2].\n\nSa [S1], ang mga kailangan nga clearances sa recruitment activity sa Davao City ay ang Barangay Clearance at Cedula. Ang Barangay Clearance mo makakabili sa Barangay Hall, at ang Cedula mo makakabili sa City Treasurer’s Office.\n\nSa [S2], ang mga kailangan nga clearances sa recruitment activity sa Davao City para sa mga agency gawas sa Davao ay ang Certificate of Good Standing. Ang Certificate of Good Standing mo makakabili sa Department of Labor and Employment (DOLE) kung i-apply mo sa local, at sa Philippine Overseas Employment Administration (POEA) kung i-apply mo sa overseas.\n\nSa [S2] ay din nakatanggap ang mga kailangan nga bayad para sa mga recruitment activity sa Davao City para sa mga agency gawas sa Davao. Ang mga bayad ay hindi nakalagay sa mga nakalagang source, kaya wala tayong maaaring magbigay ng detalye tungkol dito. Ako'y nag-aalala lamang na mag-check ka sa mga nakalagang source para sa mga kailangan nga bayad."
+  ],
+  "contexts": [
+    [
+      "JONG\n1. Barangay Clearance \nBarangay Hall\n2. Cedula \nCity Treasurer’s Office\nRECRUITMENT ACTIVITY FOR RECRUITER AND/OR RECRUITMENT AGENCIES \nNOT BASED IN DAVAO CITY\n1. Certificate of Good Standing (1 original)  \n(From Department of Labor and \nEmployment for Local and \nPhilippine Overseas \nEmployment Administration for \nOverseas)",
+      "PERTINENT DOCUMENTS TO BE SUBMITTED SPECIAL PERMIT\nAPPLICATION TO BUSINESS BUREAU\n1. Specific requirements:\n1. Barangay Resolution for concerts, shows or events in open areas (1 original)\n2. Barangay Clearance and cedula for Mahjong (1 original)\n3. Recruitment Activity for recruiter and/or recruitment agencies not based in\nDavao City:\n1.  Certificate of Good Standing (1 original) - (From DOLE for local and POEA\nfor overseas)\n2. Job Order Balances Report duly authenticated by POEA,",
+      "resolution from \nthe CHLURU \nSecretariat \n \nNote: Client/s \nare notified via \nphone/text/email\n6. Endorses \napplication to \nDepartment of \nHuman \nSettlements and \nUrban \nDevelopment \n(DHSUD) \n \nNote: Advised \nClient/s that \napplications will \nbe forwarded by \nthe City \nAdministrator’s \nOffice to SP \n \n-1 If not \napproved/deferre\nd due to further \nevaluation and \nvalidation, drafts \nand finalizes \nNotice of\nNone \n10 Minutes\nActing\nAdministrative\nOfficer  \nCPDO"
+    ]
+  ],
+  "ground_truth": [
+    "Recruitment activities by agencies not based in Davao City require a Certificate of Good Standing from DOLE/POEA, POEA-authenticated Job Order Balances Report, PESO No Objection Certificate, and POEA Special Recruitment Authority. The fee is PHP 1,000.00 (overseas) or PHP 1,200.00 (local) per schedule."
+  ]
+}

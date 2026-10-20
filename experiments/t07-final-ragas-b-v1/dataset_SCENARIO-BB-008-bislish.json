@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsay kinahanglan i-submit kung mag-ilis o magtarong sa ngalan sa negosyo sa business permit?"
+  ],
+  "answer": [
+    "Wala kaayo nga impormasyon bahin sa Citizens' Charter kung unsa ang kinahanglan i-submit kung mag-alis o magtarong sa ngalan sa negosyo sa business permit. Ang mga kinahanglan sa pag-apply sa Business Permit ay nakalistado sa [S1]. Ang mga kinahanglan sa pag-retire ng Business Permit ay nakalistado sa [S2]. Ang pre-assessment na process sa pag-apply sa New Business Permit o amendments sa itaas ay nakalistado sa [S3]."
+  ],
+  "contexts": [
+    [
+      "2. Issuance of Business Permit \nIt shall be unlawful for any person or entity to conduct or engage in any business, \ntrade or occupation within the territorial jurisdiction of the City of Davao for which a \npermit is required for the proper supervision and enforcement of existing laws and \nordinances without first having secured a permit therefore from the City Mayor and \npaying the necessary fees to the City Treasurer.\nThe Business Permit is granted for a period of not more than one (1) year and shall \nexpire on the thirty-first (31st) of December",
+      "6. Full Retirement of Business Permit\nFull retirement of Business Permit is issued to any natural or juridical entity whose \nbusiness operations have ceased.\nOffice or Division \nCity Mayor's Office – Permits & Licenses Division\nClassification \nSimple\nType of Transaction G2C – Government to Citizen\nWho may avail \nAny natural or juridical entity who is a holder of a valid issued \nbusiness permit but whose business operations had ceased\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Latest Business Permit (1 \noriginal or 1 certified",
+      "1. Pre-Assessment \nPre-assessment is the process in which the Business Bureau assists the clients in \ncomplying with the prerequisites required by the Regulatory Offices prior to the \napplication of New Business Permit and certain Amendments to it. \nOffice or Division \nCity Mayor's Office – Permits & Licenses Division\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen; G2B – Government to \nBusiness\nWho may avail \nAny natural or juridical person who will be conducting   and \nengaging in any business, trade"
+    ]
+  ],
+  "ground_truth": [
+    "Changing or correcting a business name requires a notarized Affidavit of Change of Name/Correction, SPA or Board Resolution, valid ID of representative, birth/marriage certificate if applicable, DTI trade name or amended SEC/CDA registration, and latest Mayor's Permit. A PHP 50.00 amendment fee applies."
+  ]
+}

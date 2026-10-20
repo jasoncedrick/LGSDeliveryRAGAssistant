@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ka adlaw ang gitagal sa BFP Citizens Charter para sa Simple, Complex, ug Highly Technical nga mga application?"
+  ],
+  "answer": [
+    "Sa BFP Citizens Charter, ang gitagal sa Simple Transactions ang isa ka adlaw ([S1]). Ang Complex at Highly Technical Transactions ay maaoy nga gitagal sa tatlong (3) araw ([S1, S2])."
+  ],
+  "contexts": [
+    [
+      "STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION - TRANSACTION PROCESSED WITHIN ONE (1) DAY \n2. COMPLEX TRANSACTION - TRANSACTION PROCESSED WITHIN THREE (3) DAYS \n3. HIGHLY TECHNICAL TRANSACTION - TRANSACTION PROCESSED WITHIN SEVEN (7) DAYS\nNOTE: For the coverage of Simple, Complex and Highly Technical Transactions refer to Joint Memorandum Circular (JMC) No. 2021-01  \nSeries of 2021 “Amending the DILG",
+      "Note: If the \napplication is \ndeferred due to \ncompliances \nrecommended by \nthe committee, the \nclient will have to \ncomply and the \napplication will be \ndeliberated again \non the next \nscheduled \nmeeting.\n2.8 Drafts, edits, \nand finalizes \nMinutes of the \nMeeting (MoM)\nNone \n3 Days \n \nZoning Officer\nIV\nCPDO\n2.9 Prepares the \nresolution/s for the \napproved \napplications\nNone \n1 Day \n \nZoning Officer\nIV\nCPDO\n2.10 Circulates \nresolution for \napproval and \nsignature.\nNone \n10 Days\nActing\nAdministrative\nOfficer  \nCPDO\n2.11 W",
+      "GENCY \nACTIONS\nFEES TO \nBE PAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\n1. Get a priority\nnumber from \nthe assigned \nTechnical \nAssistance \nPersonnel at the \nCity Treasurer’s \nOffice.\n1. Provide a\npriority number \nand advise the \nclient to wait \nuntil their \nnumber is \ncalled.\nNone \n    10 Minutes \nRevenue\nCollection Clerk\nI\n– City\nTreasurer’s\nOffice\n2. Proceed to\nCounter 22 \nwhen the \npriority number \nis called or to \nthe assigned \nwindow at CTO \nDistrict Offices.\n2.1 Evaluate the \namount to be \npaid for the \nperformance \nbond.\n2.2 Pre"
+    ]
+  ],
+  "ground_truth": [
+    "The BFP charter classifies Simple transactions as processed within 1 day, Complex within 3 days, and Highly Technical within 7 days. It directs readers to JMC2021-01 for classification coverage. The source says days, not working days, and identifies FIRE STATION/OSCP/BOSS."
+  ]
+}

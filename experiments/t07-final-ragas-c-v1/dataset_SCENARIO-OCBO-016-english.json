@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What is the annual mechanical inspection fee schedule for commercial centralized air conditioning and window-type units?"
+  ],
+  "answer": [
+    "The annual mechanical inspection fee for commercial centralized air conditioning is not explicitly stated in the provided sources for the National Building Code of the Philippines (PD 1096). However, for centralized air conditioning, the annual mechanical inspection fees are mentioned in [S2] under the section \"ISSUANCE OF CERTIFICATE OF ANNUAL INSPECTION FOR MECHANICAL\" but it only provides fees for refrigeration and ice plants, not specifically for centralized air conditioning.\n\nFor window-type units, the sources do not provide any information regarding the annual mechanical inspection fees.\n\n[S1] OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 513 | chunk DEV120-OCBO-PDF0025-C001\n[S2] OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 583 | chunk DEV120-OCBO-PDF0095-C001"
+  ],
+  "contexts": [
+    [
+      "MISCELLANEOUS MECHANICAL PERMIT NEW SCHEDULE OF FEES AND OTHER \nCHARGES OF THE REVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF \nTHE NATIONAL BUILDING CODE OF THE PHILIPPINES (PD 1096)\na. Refrigeration, Air Conditioning and Mechanical Ventilation:\nRefrigeration (cold storage), per ton or fraction thereof \nP 40.00\nIce Plants, per ton or fraction thereof \n60.00\nPackaged/Centralized Air Condition",
+      "ISSUANCE OF CERTIFICATE OF ANNUAL INSPECTION FOR MECHANICAL NEW \nSCHEDULE OF FEES AND OTHER CHARGES OF THE REVISED IMPLEMENTING \nRULES AND REGULATIONS (IRR) OF THE NATIONAL BUILDING CODE OF THE \nPHILIPPINES (PD 1096)\nf. Annual Mechanical Inspection Fees:\ni. Refrigeration and Ice Plant, per ton:\n(a) Up to 100 tons capacity ..…...... ………………………………………..P 25.00\n(b) Above 100 tons",
+      "es \nshall be charged to cover all inspection trips during construction.\nii. Annual Inspection Fees are the same as in Section 4.e.\nSection 4.e Electrical Fees:\nThe following schedule shall be used for computing electrical fees in residential, \ninstitutional, commercial and industrial structures:\na. Total Connected Load (kVA) Fee\n5 kVA or less \nP 200.00\nOver 5 kVA to 50 kVA \n200.00 + P 20.00/kVA\nOver 50 kVA to 300 kVA \n1,100.00 + 10.00/kVA\nOver 300"
+    ]
+  ],
+  "ground_truth": [
+    "Annual mechanical inspection fees for centralized air conditioning are: PHP 25.00/ton for the first 100 tons, PHP 20.00/ton for 100-150 tons, and PHP 8.00/ton above 500 tons. Window type air conditioners are assessed PHP 40.00 per unit."
+  ]
+}

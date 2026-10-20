@@ -1,0 +1,12 @@
+{
+  "model_digest": "39d9f435aeed825a340db73dfba9e7ce346664aa00727c9066bb1f0352406a6f",
+  "settings": {
+    "temperature": 0,
+    "top_p": 0,
+    "num_ctx": 8192,
+    "num_predict": 1024,
+    "num_thread": 4
+  },
+  "app_defaults_changed": false,
+  "held_out_accessed": false
+}

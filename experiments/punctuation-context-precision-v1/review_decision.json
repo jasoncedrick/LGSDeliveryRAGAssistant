@@ -1,0 +1,32 @@
+{
+  "decision": "INCOMPLETE_JUDGING_REQUIRES_FAILURE_REVIEW",
+  "grid_complete": false,
+  "candidate_weights": [
+    0.5,
+    0.25,
+    0.25
+  ],
+  "candidate_k": 3,
+  "candidate_J": 0.8685185184848149,
+  "baseline_J": 0.8685185184830554,
+  "objective_difference": 1.759481449425948e-12,
+  "fee_case_top_k": [
+    "DEV120-BFP-PDF0001-C006",
+    "DEV120-BFP-PDF0001-C021",
+    "DEV120-BFP-PDF0001-C041"
+  ],
+  "fee_evidence_coverage": {
+    "DEV120-BFP-PDF0001-C019": false,
+    "DEV120-BFP-PDF0001-C020": false
+  },
+  "held_out_accessed": false,
+  "app_defaults_changed": false,
+  "freeze": false,
+  "limits": [
+    "Local LLM judge has documented semantic errors; parse success is not human certification.",
+    "Archived normalization is unchanged and retains documented acronym and paraphrasing problems.",
+    "C retains shared static lexical guidance.",
+    "A higher Context Precision objective does not establish complete fee/exception evidence.",
+    "Original source wording ambiguities and detached BFP context associations remain documented."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What environmental clearances and wastewater plans are mandatory for businesses located within a declared Water Resource Zone?"
+  ],
+  "answer": [
+    "For businesses located within a declared Water Resource Zone, the following environmental clearances and wastewater plans are mandatory:\n\n1. Water Resource Management Council Clearance [S2]\n2. Watershed Management Council Resolution (in areas within water resource zone) [S3, S1]\n3. Elevation details of water outfall from highest to lowest elevation going to the nearest body of water, overlay map [S3]\n4. Affidavit of Undertaking for the provision and maintenance of green space [S3]\n5. Affidavit of Undertaking for the maintenance of the Wastewater Treatment Facility and Retarding Pond [S3]\n6. Sworn Statement [S3]"
+  ],
+  "contexts": [
+    [
+      "22. \nWater Resource Management\nClearance for projects within water \nresource zone\nWater Resource Management \nCouncil\n23. \nBarangay Watershed Management\nCouncil and City Watershed Management \nCouncil Clearance for areas in \nConservation Zone\nBarangay Watershed Management \nCouncil / City Watershed \nManagement Council\n24. \nGolf Construction and Development\nCommittee Clearance (for golf course)\nGolf Construction and \nDevelopment Committee\n25. \nCivil Aviation Authority of the\nPhilippines and Philippine Air Force \nCommand Davao City Clearance (for \nPrivate landing strip, airports, and heliports \nand helipads)\nCivil Aviation Authority of the \nPhilippines / Philippine Air Force \nCommand Davao City Clearance",
+      "8. Issuance of Water Resource Management Council Clearance \nAn application for those areas within the water resource zone wherein a clearance \nshould be secured from the Water Resource Management Council which functions as \nan inter-departmental body to protect the water resources of Davao City. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nHighly Technical\nType of Transaction \nG2G – Government to Government; G2B – \nGovernment to Business; G2C – Government to \nCitizen\nWho may avail \nProperty Owner or Authorized Representa",
+      "copy)\nCity Environment & Natural Resources \nOffice\n31. \nWatershed Management Council\nResolution (in areas w/in water resource \nzone (1 photocopy)\nWatershed Management Council\n32. \nElevation details of water outfall\nfrom highest to lowest elevation going to \nthe nearest body of water, overlay map\nApplicant\n33. \nAffidavit of Undertaking for the\nprovision and maintenance of green \nspace\nApplicant\n34. \nAffidavit of Undertaking for the\nmaintenance of the Wastewater \nTreatment Facility and Retarding Pond\nApplicant\n35. \nSworn Statement"
+    ]
+  ],
+  "ground_truth": [
+    "Projects inside a Water Resource Zone must secure a WRMC Clearance. Requirements include 1 folder of drawing plans, site development plan, DCWD Certificate of No Objection, geohazard certification, ECC/CNC, drainage plan, sewage treatment facility designs, and oil separator plans (for carwash/shops)."
+  ]
+}

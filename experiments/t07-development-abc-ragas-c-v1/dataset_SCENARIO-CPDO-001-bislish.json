@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga requirements, pila ang bayad kada hektarya, ug pila ka adlaw makuha ang Zoning Certification sa CPDO?"
+  ],
+  "answer": [
+    "Sa CPDO, ang mga requirements sa Zoning Certification sa isang hektare na lupa ay hindi nakalistado sa mga nakapag-aralan nga impormasyon. Ang bayad sa Zoning Certification ay hindi rin nakalalabas sa mga nakapag-aralan. Ang mga adlaw para makuha ang Zoning Certification ay nasa 2 araw sa pag-sign ng certification ng Division Chief of GIS ([S1] DEV120-CPDO-PDF0003-C002) at 2 days depending upon the availability of Zoning Administrator ([S1] DEV120-CPDO-PDF0003-C002). Ang ibang adlaw na nakalalabas sa mga nakapag-aralan ay 25 minutes para sa pre-evaluation ng submitted documents ([S2] DEV120-CPDO-PDF0003-C001), 20 minutes para sa encoding sa document tracking system at endorsement ng application sa GIS ([S2] DEV120-CPDO-PDF0003-C001), at 5 hours para sa re-evaluation ng documents at preparation ng Zoning Certification ([S1] DEV120-CPDO-PDF0003-C002)."
+  ],
+  "contexts": [
+    [
+      "CPDO\n4.4 Plots the \ntechnical \ndescription of the \nproperty, prints \nmap and it will \nbe returned the \ndocuments to \nZED\nNone \n1 Day \n \nDivision Chief of\nGIS\n4.5 Re-evaluates \nthe documents \nand prepares the \nZoning \nCertification\nNone \n5 Hours \n \nZoning Officer\nIV\nCPDO\n4.6 Signs the \ncertification \n(initial and final)\nNone \n2 Days\ndepending upon \nthe availability\nof Zoning\nAdministrator\nActing Zoning \nAdministrator\nCPDO",
+      "4. Submits the \ndocuments with \nthe O.R. for \nZoning Fee\n4.1 Pre-\nevaluates \nsubmitted \ndocuments \n(once \ndocuments are \nlacking, it will \nimmediately \nreturned to client \nfor compliance)\nNone \n25 Minutes \n \nZoning Officer\nIV\nCPDO\n4.2 Documents \nwill be \nreceived   by the \nAdmin Division\n10 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\n4.3 Encodes in \nthe document \ntracking system \nand endorse \napplication to \nGIS\nNone \n20 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\n4.4 Plots the \ntechnical \ndescription of the \nproperty, prints \nmap and it will \nbe returned",
+      "10. Reclassification and Re-Zoning \nRECLASSIFICATION- The act of specifying how agricultural lands shall be utilized \nfor non-agricultural uses such as residential, industrial, commercial, as embodied in \nthe CLUP. \n \nRE-ZONING – a process of introducing amendments to or change in the existing \nzoning of a particular area and reflected in the text and maps of the Ordinance. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nHighly Technical\nType of"
+    ]
+  ],
+  "ground_truth": [
+    "The CPDO Zoning Enforcement Division issues Zoning Certification based on the Integrated Zoning Ordinance (2019-2028). The checklist requires: Certified True Copy of Title(s), 1 photocopy, from the Registry of Deeds; duly accomplished application form, 1 original, from CPDO; Subdivision/Sketch Plan, 1 original, from Bureau of Land/private Geodetic Engineer; Order of Payment, 1 original, from CPDO; and Official Receipt, 1 original, from the City Treasurer's Office. The zoning fee is PHP 750 per hectare; the payment step depends on CTO processing time, described as uncontrollable time. The charter lists a TOTAL processing time of 3 Days, 6 Hours, and 50 Minutes."
+  ]
+}

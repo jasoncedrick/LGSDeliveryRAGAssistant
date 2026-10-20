@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What is the annual mechanical inspection fee schedule for commercial centralized air conditioning and window-type units?"
+  ],
+  "answer": [
+    "The annual mechanical inspection fee for commercial centralized air conditioning is not explicitly stated in the provided sources for the National Building Code of the Philippines (PD 1096). However, for Refrigeration and Ice Plant, the fee is P 25.00 per ton for up to 100 tons capacity [S2]. For window-type units, the fees are not specified in the provided sources.\n\n[S1, S2]"
+  ],
+  "contexts": [
+    [
+      "MISCELLANEOUS MECHANICAL PERMIT NEW SCHEDULE OF FEES AND OTHER \nCHARGES OF THE REVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF \nTHE NATIONAL BUILDING CODE OF THE PHILIPPINES (PD 1096)\na. Refrigeration, Air Conditioning and Mechanical Ventilation:\nRefrigeration (cold storage), per ton or fraction thereof \nP 40.00\nIce Plants, per ton or fraction thereof \n60.00\nPackaged/Centralized Air Condition",
+      "ISSUANCE OF CERTIFICATE OF ANNUAL INSPECTION FOR MECHANICAL NEW \nSCHEDULE OF FEES AND OTHER CHARGES OF THE REVISED IMPLEMENTING \nRULES AND REGULATIONS (IRR) OF THE NATIONAL BUILDING CODE OF THE \nPHILIPPINES (PD 1096)\nf. Annual Mechanical Inspection Fees:\ni. Refrigeration and Ice Plant, per ton:\n(a) Up to 100 tons capacity ..…...... ………………………………………..P 25.00\n(b) Above 100 tons",
+      "14. Issuance of Certificate of Annual Mechanical Inspection\nA Certificate of Annual Mechanical Inspection is issued after conducting an annual inspection of a \nbuilding/structure to ensure that mechanical systems coincide with the approved plans and conform \nwith the safety standards and other provisions of the Code and its Revised Implementing Rules and \nRegulations\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; G2G – \nGovernment"
+    ]
+  ],
+  "ground_truth": [
+    "Annual mechanical inspection fees for centralized air conditioning are: PHP 25.00/ton for the first 100 tons, PHP 20.00/ton for 100-150 tons, and PHP 8.00/ton above 500 tons. Window type air conditioners are assessed PHP 40.00 per unit."
+  ]
+}

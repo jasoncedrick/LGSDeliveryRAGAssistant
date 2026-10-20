@@ -1,0 +1,39 @@
+T06 IMPLEMENTATION: COMPLETE WITH DOCUMENTED EVALUATOR LIMITATIONS
+
+This closes the main Thesis Tracker T06 deliverable: Code Automated Evaluation Harness Loop (Hit Rate, MRR, RAGAS), with a Python batch pipeline supporting paired runs. It does NOT declare T07 complete, certify the corpus, certify judge accuracy or claim final held-out results.
+
+Grounding checked before changes
+20260923.pdf SHA256 628193ea55abc364c06dd3251a79126fa55ca2af2cb9d23e25cb584e7757f98a.
+Archived main Thesis Tracker evidence: experiments/t06-formal-development-validation-v4/methodology_and_tracker.json. The workbook's historical Complete labels were not changed or treated as fresh validation evidence.
+Chapter 3 PDF28 and30: source-linked 120-token windows, 20-token overlap, chunk-level BM25/FAISS/dictionary fusion.
+PDF32-34: offline RAGAS, development-only tuning and Context Precision selection, then complete freeze before final held-out A/B/C testing.
+
+Implemented and demonstrated
+Paired development batch runner: scripts/run_t07_development_abc.py.
+Hit/MRR calculations with cutoff, duplicate detection, missing-gold checks and stopped-query handling: src/development_retrieval_metrics.py.
+Offline RAGAS scorer: scripts/score_development_ragas.py, versioned prompt contracts and optional v2 Context Precision adapter. The installed RAGAS average-precision calculation is retained.
+Archived records include original queries, reference versions, normalized queries, ranked source chunks, citations, actual contexts, generated answers and statuses. Metric failures are explicit nulls; valid zero scores remain zero. Clarification and incomplete generation outcomes are retained separately. Judge requests, raw outputs and bounded format retries are archived.
+
+Fresh verification
+34 focused tests passed in two separate Python processes: 30 calculation/serialization/prompt/source-pointer tests and four actual RAGAS-adapter tests. Tests cover AP delegation, null propagation, bounded format retry, valid disagreement preservation, Hit/MRR at K=3 and K=5, stopped-query denominators, exact source pointers and objective-bound enumeration. No unsafe OpenMP environment workaround was used.
+The previously archived real RAGAS smoke run on unchanged BFP-002 Taglish contexts returned Context Precision 0.0, correctly rejecting the irrelevant context list. This is a single integration regression check, not full judge validation.
+The completed paired development rescore and its audit retain all 1,560 attempted judgments and input hashes. 1,450 are contract-valid and 110 invalid; no null was imputed or winner selected.
+
+Evaluator experiments completed and retained
+V2 calibration: 59 valid /60, 55 correct, four false positives, one invalid, after the registered format retry.
+V3 structured JSON: 58 valid /60, 57 correct, one false positive, two invalid quotes. It did not meet its screening gate and was not promoted.
+V4 exact source spans: 60 valid /60, 46 correct, 14 false positives, zero false negatives. It failed its screening gate and was rejected. Its conditional stress test did not run. No new full grid followed.
+These are adaptive assistant-labeled controls from only five groups, not independent expert or held-out validation. A syntactically valid or source-linked judgment can still be semantically wrong.
+
+Operational boundary
+Keep the existing scorer/evaluator versions explicit for reproduction. V3 and v4 remain experiments, not app integrations or approved replacements. No further automatic judge-prompt loop is part of this T06 closeout. Scientific limitations are retained rather than hidden to obtain a favorable score.
+
+What is still T07
+Resolve the evaluator-validation limitation through independent usefulness review or a separately justified evaluator protocol. Then consistently score competing complete development grids, select using the manuscript objective, verify A/B/C settings and artifacts, freeze under a registered manifest, and execute/export the final held-out comparison. No final configuration is selected and nothing is frozen.
+
+Manual checking
+No further manual source checking is required to close this T06 coding deliverable. Independent review of evaluator usefulness judgments is still needed before treating their scores as reliable T07 selection evidence. It is separate from implementing the harness and from the later employee audit. Previously documented statutory ambiguities remain unresolved where the source itself is ambiguous.
+
+Checkpoint
+This is ready to save as a T06 development checkpoint with its limitations and evidence. No branch, commit, push, tracker edit, app-default change or held-out access was performed by this closeout.
+See completion_assessment.json and file_manifest.json for a machine-readable scope and reproducibility inventory.

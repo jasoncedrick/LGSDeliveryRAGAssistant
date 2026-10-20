@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What are the daily permit fees for organizers and stall exhibitors participating in commercial bazaars in Davao City?"
+  ],
+  "answer": [
+    "The daily permit fees for organizers in commercial bazaars in Davao City are as follows:\n\n1. For organizers from Davao, the fee is Php500 per day per location [S2].\n2. For organizers outside Davao with less than 30 exhibitors, the fee is Php1,000 per day per activity [S2].\n3. For organizers outside Davao with 31 to 60 exhibitors, the fee is Php2,000 per day per activity [S2].\n4. For organizers outside Davao with 61 to 100 exhibitors, the fee is Php3,000 per day per activity [S2].\n\nFor stall exhibitors, the fees are:\n\n1. Selling Display exhibitors - Php300 per day per stall [S1].\n2. Non-selling Display exhibitors - Php150 per day per stall [S1]."
+  ],
+  "contexts": [
+    [
+      "Outside Davao (61-100 exhibitors)- Php3,000/Day per activity\nexhibitors\n Event Organizer Outside Davao (more than 100 exhibitors)- Php5,000/Day per\nactivity exhibitors\n Selling Display exhibitors – Php300 per Day per stall\n Non-selling Display exhibitors – Php150 per Day per stall\nRecruitment:\n Overseas - Php1,000 per Schedule\n Local - Php1,200 per Schedule\nSeasonal vendors during special occasions such as Araw ng Dabaw, \nKadayawan Festival,",
+      "gallery and other similar \ncontrivances – Php300 for the first 5 Days and Php50 per Day thereafter\nBazaar/Exhibit:\n  Event Organizer from Davao - Php500 per Day per location\n Event Organizer Outside Davao (less than 30 exhibitors)- Php1,000/Day per\nactivity exhibitors\n Event Organizer Outside Davao (31-60 exhibitors)- Php2,000/Day per activity\nexhibitors\n Event Organizer Outside Davao (61-100 exhibitors)- Php3,000/Day per activity\nexhibitors",
+      "es \nshall be charged to cover all inspection trips during construction.\nii. Annual Inspection Fees are the same as in Section 4.e.\nSection 4.e Electrical Fees:\nThe following schedule shall be used for computing electrical fees in residential, \ninstitutional, commercial and industrial structures:\na. Total Connected Load (kVA) Fee\n5 kVA or less \nP 200.00\nOver 5 kVA to 50 kVA \n200.00 + P 20.00/kVA\nOver 50 kVA to 300 kVA \n1,100.00 + 10.00/kVA\nOver 300"
+    ]
+  ],
+  "ground_truth": [
+    "Bazaar and exhibit fees are PHP 500.00/day/location for Davao organizers. For outside Davao organizers: PHP 1,000.00/day (<30 exhibitors), PHP 2,000.00/day (31-60), PHP 3,000.00/day (61-100), and PHP 5,000.00/day (>100). Individual selling display stalls pay PHP 300.00/day; non-selling pay PHP 150.00/day."
+  ]
+}

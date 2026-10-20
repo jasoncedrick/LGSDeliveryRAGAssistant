@@ -1,0 +1,14 @@
+{
+  "before_after.diff": "73be9b87aaf8faae8766e4a6a6d7bf7ada1134ef1e1a4757647e4945fa21cd28",
+  "claim_source_map.json": "af49a1679f0a02ae159b5e45d629ca30384aab01ccb8f6fc2c6bea4284bfba14",
+  "group.before.json": "ebc1ea48204d6a94e2c09be7c80df7f50becb8e43ebad4ec6635e164276ec3c1",
+  "group.candidate.json": "b8538107049f529b234cff3f33f2951a31129a15e5dcc5ccabdeef382ff9db7f",
+  "input_hashes.json": "3f2c88d96a2ebd8d3c6b11d55cd397e3a1e7406ca4f44eb8b47b590e8bf3dff1",
+  "methodology_and_tracker.snapshot.json": "ee15440a4643968034d4a6451b999a4fadddb2399f6b882acd25943ff66d6281",
+  "pdf_page_2.png": "9e8e8932e62276163bf9441aa656dcc522205d8de0d74c33b3229320cc9c3d11",
+  "pdf_page_3.png": "7f868e55148ccf9fc87876fab2466ce2f7d7b5a042e8ebe2e043551f490be4ed",
+  "READ_THIS_FIRST.txt": "39d22e152bb3f933b5d9d8b513d24631d8ee4bbf9ea52b9cceb95fda2c67a6bb",
+  "reference_candidate.txt": "009927961827297f3d0649bb81fe5e27e3377d5eddd65c5cdf3f14e2bd011e8c",
+  "review.json": "b0019d88071ad3efba878e0fe87f014b7ed1772e255bd1a17aafb96a92546bea",
+  "supporting_chunks.json": "a408e9d3fd2ee7d1e1fff86db3b16c62355db894c47a6191ba03c48838a6d41d"
+}

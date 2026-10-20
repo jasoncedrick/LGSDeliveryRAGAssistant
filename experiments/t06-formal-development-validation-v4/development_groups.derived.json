@@ -1,0 +1,939 @@
+[
+  {
+    "group_id": "SCENARIO-BB-001",
+    "pillar": "Business Bureau",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-BB-PDF0002-C001",
+      "DEV120-BB-PDF0002-C002",
+      "DEV120-BB-PDF0002-C003",
+      "DEV120-BB-PDF0002-C004",
+      "DEV120-BB-PDF0002-C005",
+      "DEV120-BB-PDF0003-C001",
+      "DEV120-BB-PDF0003-C002"
+    ],
+    "ground_truth_reference_answer": "For NEW business permit pre-assessment, the charter lists the following requirements. Apply the ownership, representation, vehicle and activity conditions stated in each row. Source: Business Bureau printed pages 41-42 (PDF pages 2-3). These transcribed rows include their Where to Secure entries.\n\n1. Duly filled-out Unified Application Form (1 original) Business Bureau or at the Web site https://busbureau.davaocity.gov.ph/ or apply online at https://appbts.davaocity.gov.ph/\n2. Sketch / Google map of Business location (1 original) with pictures of the premise location Applicant\n3. Certified List of Employees / Certification of no Employee (1 original) Applicant, notarized by any Notary Public\n4. Valid DTI Registration for Single Proprietorship (1 photocopy) Department of Trade and Industry\n5. SEC Registration, Articles of Incorporation for Partnership and Corporation (1 photocopy) Securities and Exchange Commission\n6. Certificate of Cooperation, Articles of Cooperation for Cooperative (1 photocopy). Cooperative Development Authority\n7. DOLE / POEA Certificate of Registration, if applicable. Department of Labor and Employment\n8. DHSUD Certificate of Registration, if applicable. Department of Human Settlement and Urban Development\n9. Special Power of Attorney (1 current and original) for represented – Sole Proprietorship Applicant, notarized by any Notary Public\n10. Partnership Resolution (1 current and original) for represented – Partnership Applicant, notarized by any Notary Public\n11. Secretary’s Certificate or Board Resolution for other form of ownership (1 current and original) - Corporation and Cooperative Applicant, notarized by any Notary Public\n12. Valid I.D. of representatives, owners (Sole Proprietor, OPC, Partnership), and Corporate Secretary (Corporation, Cooperative) - 1 photocopy each) Applicant\n13. Contract of Lease and copy of the Proof of ownership by the Lessor if business location is not owned and is rented by the applicant (1 photocopy) Applicant, notarized by any Notary Public\n14. Any proof of ownership if Business location is owned Applicant\n15. consent and copy of any proof of ownership if business location is not owned and is freely used by the applicant (1 photocopy) Applicant\n16. OR/CR of vehicle, if with delivery vehicle (1 photocopy each vehicle) Applicant\n17. Consent for use of the vehicle if not owned by the applicant. Applicant\n18. FSIC for Occupancy Permit valid in the last 9 months Bureau of Fire Protection\n19. Affidavit of Undertaking that there had been no substantial changes made on the building Applicant, notarized by any Notary Public\n20. Other Requirements depending on the Business Activity declared Concerned Agency\n",
+    "queries": {
+      "english": "What are the required documents for the pre-assessment of a new business permit in Davao City?",
+      "taglish": "Ano ang mga kailangang dokumento para sa pre-assessment ng bagong business permit sa Davao City?",
+      "bislish": "Unsa ang mga papeles nga kailangan i-submit para sa pre-assessment sa bag-ong business permit diri sa Davao?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-BB-P041-C01",
+      "CHUNK-BB-P041-C02",
+      "CHUNK-BB-P041-C03",
+      "CHUNK-BB-P042-C01"
+    ],
+    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+    "source_review_status": "needs_correction",
+    "source_limitations": [
+      "Not independent human expert certification.",
+      "Preserve Cooperation and valid in the last 9 months exactly; do not silently reinterpret.",
+      "C001 retained for service context only.",
+      "Full checklist spans more than five chunks: Hit@K is not complete-answer coverage."
+    ],
+    "source_review_path": "experiments\\source-reference-review-bb001-v1\\review.json",
+    "independent_expert_certified": false
+  },
+  {
+    "group_id": "SCENARIO-BB-002",
+    "pillar": "Business Bureau",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-BB-PDF0003-C003",
+      "DEV120-BB-PDF0003-C004",
+      "DEV120-BB-PDF0003-C005",
+      "DEV120-BB-PDF0004-C001",
+      "DEV120-BB-PDF0004-C002",
+      "DEV120-BB-PDF0039-C001",
+      "DEV120-BB-PDF0039-C002",
+      "DEV120-BB-PDF0039-C003"
+    ],
+    "ground_truth_reference_answer": "For Amendment of Business Permit - Change of Business Address, the charter lists the following requirements (printed pages 42-43; PDF pages 3-4). Preserve the stated business-form and representation conditions. Each row below includes its Where to Secure entry.\n\n1. Current Original Mayor’s Permit, Application for Renewal of Business Permit, or Certified True Copy of Business Permit w/ Affidavit of Loss in case of lost permits Applicant or Records Section, Business Bureau or Any Notary Public for affidavit of loss.\n2. Application Affidavit of Change of Business Address (notarized) stating the new location of the business-Single Proprietorship Applicant, notarized by any Notary Public\n3. For Sole Proprietorship, if represented, Special Power of Attorney, indicating specific authority and capacity granted to representative. Applicant, notarized by any Notary Public\n4. For Partnership, Partnership Resolution indicating specific authority and capacity granted to representative, and stating the new location of the business Applicant, notarized by any Notary Public\n5. For Corporation / Cooperative, Board Resolution or Secretary’s Certificate, indicating specific authority and capacity granted to representative, and stating the new location of the business Applicant, notarized by any Notary Public\n6. Valid ID of the representative (1 photocopy), if newly designated Applicant\n7. Sketch / Google map of Business location (1 original) with pictures of the premise location Applicant\n8. Tax Declaration of the Property or any proof of property ownership (owned, rented and not rented) and Lease Contract if rented or Consent from Property Owner if not rented Applicant, notarized by any Notary Public\n9. FSIC for Occupancy Permit valid in the last 9 months Bureau of Fire Protection\n10. Affidavit of Undertaking that there had been no substantial changes made on the building Applicant, notarized by any Notary Public\n\nFees (printed page 78; PDF page 39): Step 1 application lists None. For Step 2 payment at the City Treasurer’s Office, the charter states: Mayor’s Permit Fee is based on the asset size and nature of business. Service fee is Php50.00. The PHP 50.00 service fee is not a quoted total inclusive of the variable Mayor’s Permit Fee.\n",
+    "queries": {
+      "english": "What are the requirements and service fees to change my registered business address at the Business Bureau?",
+      "taglish": "Ano ang mga requirements at service fee kapag magpapalit ng registered business address sa Business Bureau?",
+      "bislish": "Unsa ang mga rekisitos ug service fee kung mag-amend ko sa address sa akong negosyo sa Business Bureau?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-BB-P042-C03",
+      "CHUNK-BB-P042-C04",
+      "CHUNK-BB-P043-C01",
+      "CHUNK-BB-P078-C02"
+    ],
+    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+    "source_review_status": "needs_correction",
+    "source_limitations": [
+      "Assistant review is not independent expert certification.",
+      "Do not reinterpret FSIC valid in the last 9 months.",
+      "No fixed total fee can be derived from this row.",
+      "These existing chunks contain reviewed claims, but some cross service boundaries or split rows. No chunk reconstruction or retrieval change was made.",
+      "A relevant-chunk Hit@K is not proof of full answer coverage."
+    ],
+    "source_review_path": "experiments\\source-reference-review-bb002-v1\\review.json",
+    "independent_expert_certified": false
+  },
+  {
+    "group_id": "SCENARIO-BB-003",
+    "pillar": "Business Bureau",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-BB-PDF0015-C001",
+      "DEV120-BB-PDF0015-C002",
+      "DEV120-BB-PDF0016-C004",
+      "DEV120-BB-PDF0016-C005",
+      "DEV120-BB-PDF0017-C001"
+    ],
+    "ground_truth_reference_answer": "Business permit validity and renewal (printed page 54; PDF page 15): The Business Permit is granted for a period of not more than one (1) year and shall expire on the thirty-first (31st) of December following the date of issuance unless revoked or surrendered earlier. The Business Permit issued shall be renewed within the month of January. It shall have a continuing validity only upon renewal thereof and payment of the corresponding fee.\n\nThe RENEWAL checklist (printed pages 55-56; PDF pages 16-17) lists the following seven rows. Each transcribed row includes its Where to Secure entry; preserve the conditions and document quantities as stated.\n\n1. List of Employees stating the Name and Position of the Employees (1 copy) Applicant\n2. For Sole Proprietorship, if represented, Special Power of Attorney, indicating specific authority and capacity granted to representative. Applicant, notarized by any Notary Public\n3. For Partnership, Partnership Resolution, indicating specific authority and capacity granted to representative. Applicant, notarized by any Notary Public\n4. For other form of ownership, Board Resolution or Secretary’s Certificate, indicating specific authority and capacity granted to representative. Applicant, notarized by any Notary Public\n5. Valid I.D. of the representative (1 photocopy), if newly designated Applicant\n6. Valid Fire Safety Inspection Certificate (1 photocopy) Applicant or Bureau of Fire Protection\n7. Specific requirements for specific line of business Concerned Agency\n",
+    "queries": {
+      "english": "When does a Davao City business permit expire and what are the basic requirements to renew it in January?",
+      "taglish": "Kailan nag-eexpire ang business permit sa Davao at ano ang basic requirements para mag-renew sa January?",
+      "bislish": "Kanus-a ga-expire ang business permit sa Davao ug unsa ang mga requirements para mag-renew karong Enero?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-BB-P054-C01",
+      "CHUNK-BB-P054-C02",
+      "CHUNK-BB-P055-C04",
+      "CHUNK-BB-P056-C01"
+    ],
+    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+    "source_review_status": "needs_correction",
+    "source_limitations": [
+      "Assistant visual review is not independent expert certification.",
+      "Mixed-service chunks remain in the corpus: C004 includes NEW tail before RENEWAL; C001 of PDF17 includes following amendment heading. Claim maps delimit the relevant spans.",
+      "No present-day regulatory verification is claimed: review is of the fixed thesis source PDF.",
+      "No scores recalculated; hits from removed IDs may change when corrected labels are consolidated."
+    ],
+    "source_review_path": "experiments\\source-reference-review-bb003-v1\\review.json",
+    "independent_expert_certified": false
+  },
+  {
+    "group_id": "SCENARIO-BB-004",
+    "pillar": "Business Bureau",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-BB-PDF0065-C001",
+      "DEV120-BB-PDF0065-C002",
+      "DEV120-BB-PDF0065-C003",
+      "DEV120-BB-PDF0065-C004",
+      "DEV120-BB-PDF0065-C005",
+      "DEV120-BB-PDF0066-C001",
+      "DEV120-BB-PDF0066-C002",
+      "DEV120-BB-PDF0066-C003",
+      "DEV120-BB-PDF0067-C003"
+    ],
+    "ground_truth_reference_answer": "According to the Occupational Permit section of the thesis source charter (printed pages 104-106; PDF pages 65-67):\n\nThe charter states that an Occupational Permit is issued to any worker or employee who is not a holder of validly issued Professional Tax Receipts, whether working on a temporary or permanent basis.\n\nUnder Who may avail, it lists Filipino employees or workers aged 18 at application; foreigners may apply after securing an Alien Employment Permit from DOLE. Where the law allows a person below 18 to work, an Affidavit of Consent from the parent or guardian is required.\n\nRenew annually on or before January 31. The charter states a 25% penalty for late renewal.\n\nThe fee table and TOTAL row state PHP 125.00 for new and updated renewal, and PHP 156.25 for late renewal. Payment is to the City Treasurer’s Office.\n\nApplication Form: Business Bureau Office, Window 1 or Public Assistance Desk. Certificate of Employment: applicant.\n\nChecklist item 3 specifies Official Receipt (for service crew), from the City Treasurer’s Office. Separately, the process instructs walk-in applicants to submit required documents including the official receipt.\n\nA notarized Affidavit of Consent is listed for minors below 18. For Night Clubs and related establishments and similar places of amusement, the affidavit is listed for ages 18 to 20.\n\nAdditional requirements for Entertainers, Masseurs, Bar Attendants: Birth Certificate (Philippine Statistics Authority); Valid ID of parent or qualified guardian for parent’s consent with appearance (Where to Secure: Any Notary public); Health ID (City Health).\n\nThe process note states: If the applicant is an entertainer, masseur, or bar attendant 18-20 years old, or the applicant is below 18 years old, he or she must present himself/herself for an interview. Agency action 2.2 repeats these conditions.\n",
+    "queries": {
+      "english": "Who is required to secure an Occupational Permit, how much is the fee, and what is the penalty for late renewal?",
+      "taglish": "Sino ang kailangang kumuha ng Occupational Permit, magkano ang bayad, at magkano ang penalty kapag late nag-renew?",
+      "bislish": "Kinsa ang kailangan mukuha ug Occupational Permit, pila ang bayad, ug pila ang multa kung ma-late ug renew pagkahuman sa January 31?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-BB-P104-C01",
+      "CHUNK-BB-P104-C03",
+      "CHUNK-BB-P104-C05",
+      "CHUNK-BB-P106-C03"
+    ],
+    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+    "source_review_status": "needs_correction",
+    "source_limitations": [
+      "Assistant visual comparison is not independent expert certification.",
+      "The unusual Any Notary public Where to Secure entry for parent/guardian ID is preserved, not silently corrected.",
+      "Age and occupation wording is preserved; no extra legal interpretation is supplied.",
+      "Current-law verification is outside this fixed-source thesis review.",
+      "Reference includes additional checklist detail already present in the old answer, although the query primarily asks coverage, fees and penalty."
+    ],
+    "source_review_path": "experiments\\source-reference-review-bb004-v1\\review.json",
+    "independent_expert_certified": false
+  },
+  {
+    "group_id": "SCENARIO-BB-005",
+    "pillar": "Business Bureau",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-BB-PDF0072-C001",
+      "DEV120-BB-PDF0072-C002",
+      "DEV120-BB-PDF0072-C003",
+      "DEV120-BB-PDF0072-C004",
+      "DEV120-BB-PDF0073-C001",
+      "DEV120-BB-PDF0074-C001",
+      "DEV120-BB-PDF0075-C001"
+    ],
+    "ground_truth_reference_answer": "For Full Retirement of Business Permit after business operations cease, the charter gives these client steps (printed pages 112-114; PDF pages 73-75):\n\n1. Submit requirements for pre-assessment, receive and sign the retirement application, then proceed to the City Treasurer’s Office for assessment of dues and approval for retirement.\n2. Submit the recommended approved retirement application and Business Identification Plate and receive a claim stub.\n3. Receive the retired business permit and the applicant’s copies of required documents; the processing staff receives the claim stub and releases them.\n\nChecklist (printed page 111; PDF page 72). Each transcribed row includes Where to Secure; retain its ownership and representation conditions:\n\n1. Latest Business Permit (1 original or 1 certified copy) Applicant or Records Section, Business Bureau\n2. Affidavit of Full Retirement indicating the reason and the effective date of retirement if Single Proprietorship. (1 original) Applicant, notarized by any Notary Public\n3. Partnership Resolution duly signed by all the Partners stating the reason, effective date of retirement and the authorized representative indicated therein if Partnership. (1 original) Applicant, notarized by any Notary Public\n4. Board Resolution or Secretary’s Certificate stating the reason and effective date of retirement, the authorized represented indicated therein if other forms of ownership (1 original) Applicant, notarized by any Notary Public\n5. Valid I.D. of the authorized representative, if newly designated (1 photocopy) Applicant\n6. Special Power of Attorney for Single Proprietorship if represented (1 original) Any Notary Public / Applicant\n7. Business Identification Plate Applicant\n\nThe TOTAL fee cell states Tax Obligation based on gross sales, and a late filing fee of P1,000 to P5,000 for an application filed more than 30 days from cessation. The cell does not specify how to choose an amount within that range.\n",
+    "queries": {
+      "english": "What is the procedure to permanently close a business in Davao City and what is the penalty for filing after 30 days?",
+      "taglish": "Paano ang proseso ng full retirement ng business permit at magkano ang multa kung lumampas ng 30 days bago mag-file?",
+      "bislish": "Unsaon pag-process sa full retirement sa business permit kung manira na ang tindahan ug pila ang multa kung lapas na 30 days?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-BB-P111-C01",
+      "CHUNK-BB-P111-C02",
+      "CHUNK-BB-P111-C04",
+      "CHUNK-BB-P114-C01"
+    ],
+    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+    "source_review_status": "needs_correction",
+    "source_limitations": [
+      "Assistant review is not independent expert audit.",
+      "Source wording authorized represented in item 4 preserved rather than silently rewritten."
+    ],
+    "source_review_path": "experiments\\source-reference-review-bb005-v1\\review.json",
+    "independent_expert_certified": false
+  },
+  {
+    "group_id": "SCENARIO-BB-006",
+    "pillar": "Business Bureau",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-BB-PDF0079-C004",
+      "DEV120-BB-PDF0080-C001",
+      "DEV120-BB-PDF0080-C002",
+      "DEV120-BB-PDF0081-C002"
+    ],
+    "ground_truth_reference_answer": "The ICAB checklist includes an ISP contract, certification or current receipt of payment; half-closed cubicles not more than 5 feet from the floor apply to Internet Cafes only. Lighting must be at least 25 Lux for fluorescent/LED lights or 50 Lux for incandescent lights. A warning sign at least 12 x 18 inches must state: no pornography, no gambling, no hacking, no minors prior to 6:00 AM and beyond 9:00 PM, and students may not play games during prescribed school hours. A system must block or filter pornographic sites/content; permanently fixed webcams are required for Internet Cafes only. The checklist also prohibits selling and consuming intoxicating drinks and cigarettes on the premises and lists a copy of ICAB ordinances 227-04, 0387-12 and 0270-15, as amended. Headphones, a urinal for 30 units and below, and separate male and female CRs for 31 units and above are listed for Internet Cafes only. For Internet Cafe and Pisonet owners, the fee cell states \"PHP100.00 for the first 10 units and PHP10.00 for every unit\". This wording is preserved without interpreting \"every unit\" as \"each additional unit\".",
+    "queries": {
+      "english": "What are the physical facility requirements and fees to obtain ICAB accreditation for an internet cafe or pisonet business?",
+      "taglish": "Ano ang mga kailangang sundin sa pwesto at magkano ang babayarang ICAB fee para sa internet cafe o pisonet?",
+      "bislish": "Unsa ang mga facility requirements ug pila ang bayad sa ICAB accreditation para sa pisonet o internet cafe?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-BB-P118-C01",
+      "CHUNK-BB-P118-C04",
+      "CHUNK-BB-P119-C01",
+      "CHUNK-BB-P120-C02"
+    ],
+    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_DEVELOPMENT_LABELS"
+  },
+  {
+    "group_id": "SCENARIO-CTO-001",
+    "pillar": "City Treasurer's Office",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-CTO-PDF0031-C001",
+      "DEV120-CTO-PDF0031-C002"
+    ],
+    "ground_truth_reference_answer": "The charter Annex 9 states that failure to register books of accounts, books of records, official receipts, cash sales, cash invoices, delivery receipts and other collection receipts within fifteen (15) working days from filing a new or renewal business-permit application incurs an administrative fine of PHP5,000.",
+    "queries": {
+      "english": "Within how many days must business books of accounts and receipts be registered with the City Treasurer, and what is the late fine?",
+      "taglish": "Ilang araw dapat iparehistro ang books of accounts at resibo sa City Treasurer, at magkano ang multa kapag nahuli?",
+      "bislish": "Pila ka adlaw dapat marehistro ang books of accounts ug resibo sa City Treasurer human mag-file, ug pila ang multa kung ma-late?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-CTO-P185-C01",
+      "CHUNK-CTO-P186-C01",
+      "CHUNK-CTO-P186-C02"
+    ],
+    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+    "source_review_status": "needs_correction",
+    "source_limitations": [
+      "Fixed thesis sources, not present-day legal advice.",
+      "Assistant image review is not independent expert certification.",
+      "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+    ],
+    "source_review_path": "experiments\\source-reference-review-remaining-batch-v1\\SCENARIO-CTO-001\\review.json",
+    "independent_expert_certified": false
+  },
+  {
+    "group_id": "SCENARIO-CTO-002",
+    "pillar": "City Treasurer's Office",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-CTO-PDF0011-C002",
+      "DEV120-CTO-PDF0009-C001",
+      "DEV120-CTO-PDF0009-C002"
+    ],
+    "ground_truth_reference_answer": "The charter literally states: \"Transfer Tax is equal to 87% or 1% based on the consideration or the market value whichever is higher.\" This reports the printed wording; the intended applicable rate is not resolved by that statement. Do not silently replace it with 0.75%.\n\nThe certification fee table lists PHP50 plus PHP20 for each additional page. Requirements: title photocopy for verification only; notarized Deed of Transfer (1 original); Tax Declaration/Declaration of Real Property Tax Valuation (1 original).",
+    "queries": {
+      "english": "How is the Real Property Transfer Tax computed in Davao City and what is the fee for the transfer certification?",
+      "taglish": "Paano kinukwenta ang Transfer Tax sa lupa sa Davao City at magkano ang bayad sa certification fee?",
+      "bislish": "Unsaon pagkwenta sa Transfer Tax sa yuta sa City Treasurer ug pila ang bayad sa certification?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-CTO-P034-C01",
+      "CHUNK-CTO-P166-C01",
+      "CHUNK-CTO-P166-C02"
+    ],
+    "mapping_status": "USER_REVIEWED_CANDIDATE_WITH_EXPLICIT_SOURCE_LIMITATIONS_NOT_APPLIED",
+    "source_review_status": "source_wording_confirmed_intended_rate_unresolved",
+    "source_limitations": [
+      "Fixed thesis sources, not present-day legal advice.",
+      "Assistant image review is not independent expert certification.",
+      "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+    ],
+    "source_review_path": "experiments\\source-reference-review-remaining-batch-v1\\SCENARIO-CTO-002\\review.json",
+    "independent_expert_certified": false
+  },
+  {
+    "group_id": "SCENARIO-CTO-003",
+    "pillar": "City Treasurer's Office",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-CTO-PDF0036-C001",
+      "DEV120-CTO-PDF0036-C002"
+    ],
+    "ground_truth_reference_answer": "Annex11 states Basic Real Property Tax is 1.5% of assessed value and the additional Special Education Fund levy is 1% of assessed value. Their arithmetic sum is 2.5% of assessed value; this sum is derived from the two stated rates.",
+    "queries": {
+      "english": "What are the tax rates for the Basic Real Property Tax and Special Education Fund levy in Davao City?",
+      "taglish": "Magkano ang porsyento ng Basic Real Property Tax at Special Education Fund sa Davao City?",
+      "bislish": "Pila ang porsyento sa amilyar sa Basic Real Property Tax ug SEF nga gasingilin sa City Treasurer?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-CTO-P190-C01",
+      "CHUNK-CTO-P191-C01",
+      "CHUNK-CTO-P191-C02"
+    ],
+    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+    "source_review_status": "supported",
+    "source_limitations": [
+      "Fixed thesis sources, not present-day legal advice.",
+      "Assistant image review is not independent expert certification.",
+      "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+    ],
+    "source_review_path": "experiments\\source-reference-review-remaining-batch-v1\\SCENARIO-CTO-003\\review.json",
+    "independent_expert_certified": false
+  },
+  {
+    "group_id": "SCENARIO-CTO-004",
+    "pillar": "City Treasurer's Office",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-CTO-PDF0055-C001",
+      "DEV120-CTO-PDF0055-C002",
+      "DEV120-CTO-PDF0055-C003"
+    ],
+    "ground_truth_reference_answer": "Annex15, Section72 lists annual fixed delivery-vehicle taxes: motorcycle/motorized tricycle PHP240; delivery jeepney/similar utility vehicle PHP600; truck, van, or any vehicle with six wheels and above PHP1,000; water vessel, barges, ferry boats, tugboats and similar watercraft PHP2,000; airplane/aircraft PHP5,000. The section applies to vehicles used by manufacturers, producers, wholesalers, dealers or retailers in delivery/distribution of the listed products and goods within the City. Preserve the six-wheel row wording when classifying a vehicle.",
+    "queries": {
+      "english": "What is the annual fixed tax schedule for commercial delivery trucks, vans, and motorcycles in Davao City?",
+      "taglish": "Magkano ang annual fixed tax para sa mga delivery truck, van, at motor na ginagamit sa negosyo sa Davao?",
+      "bislish": "Pila ang bayad sa annual fixed tax sa City Treasurer para sa delivery van, truck, o motor nga ginagamit sa negosyo?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-CTO-P207-C01",
+      "CHUNK-CTO-P210-C01",
+      "CHUNK-CTO-P210-C02"
+    ],
+    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+    "source_review_status": "supported",
+    "source_limitations": [
+      "Fixed thesis sources, not present-day legal advice.",
+      "Assistant image review is not independent expert certification.",
+      "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+    ],
+    "source_review_path": "experiments\\source-reference-review-remaining-batch-v1\\SCENARIO-CTO-004\\review.json",
+    "independent_expert_certified": false
+  },
+  {
+    "group_id": "SCENARIO-CTO-005",
+    "pillar": "City Treasurer's Office",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-CTO-PDF0038-C001",
+      "DEV120-CTO-PDF0037-C001",
+      "DEV120-CTO-PDF0037-C002",
+      "DEV120-CTO-PDF0037-C003",
+      "DEV120-CTO-PDF0037-C004"
+    ],
+    "ground_truth_reference_answer": "The Professional Tax service lists a TOTAL fee of PHP300. Requirements: unexpired PRC/IBP ID (1 original); PRC/IBP certification for new registrants/passers (1 original); current Davao City address and valid contact number/email address.\n\nRegister/log in at ptr.davaocity.gov.ph, generate an Order of Payment, then pay at a Miscellaneous Fees counter or the listed Landbank payment portal.",
+    "queries": {
+      "english": "How much is the Professional Tax Receipt (PTR) in Davao City and what are the requirements to secure it?",
+      "taglish": "Magkano ang bayad sa Professional Tax Receipt (PTR) sa Davao at ano ang kailangang dalhin para makakuha?",
+      "bislish": "Pila ang bayad sa PTR sa City Treasurer ug unsa ang mga kinahanglanon para makakuha ug resibo sa professional tax?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-CTO-P192-C01",
+      "CHUNK-CTO-P192-C02",
+      "CHUNK-CTO-P193-C01"
+    ],
+    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+    "source_review_status": "needs_correction",
+    "source_limitations": [
+      "Fixed thesis sources, not present-day legal advice.",
+      "Assistant image review is not independent expert certification.",
+      "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+    ],
+    "source_review_path": "experiments\\source-reference-review-remaining-batch-v1\\SCENARIO-CTO-005\\review.json",
+    "independent_expert_certified": false
+  },
+  {
+    "group_id": "SCENARIO-CTO-006",
+    "pillar": "City Treasurer's Office",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-CTO-PDF0048-C001",
+      "DEV120-CTO-PDF0048-C002",
+      "DEV120-CTO-PDF0048-C003",
+      "DEV120-CTO-PDF0048-C004",
+      "DEV120-CTO-PDF0048-C005"
+    ],
+    "ground_truth_reference_answer": "Annex14 states an annual basic community tax of PHP5 for liable individuals plus an annual additional tax of PHP1 per PHP1,000 of income, with the additional tax capped at PHP5,000. For husband and wife the additional tax is based on their total property and total gross receipts/earnings. The cap is on additional tax, not the basic-plus-additional total.\n\nFor liable corporations, the basic annual tax is PHP500 plus additional tax capped at PHP10,000. The additional schedule is PHP2 per PHP5,000 of Philippine real-property value during the preceding year using the stated real-property-tax valuation, plus PHP2 per PHP5,000 of Philippine business gross receipts/earnings during the preceding year. Intercorporate dividends are included in gross receipts/earnings for this additional tax. The cap is on additional tax.",
+    "queries": {
+      "english": "What is the formula and statutory ceiling for computing individual and corporate Community Tax (Cedula) in Davao City?",
+      "taglish": "Paano kinukwenta ang Cedula para sa indibidwal at korporasyon sa Davao at magkano ang maximum limit?",
+      "bislish": "Unsaon pagkwenta sa sedula para sa tao ug sa korporasyon diri sa Davao ug pila ang kinadak-ang limit sa bayad?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-CTO-P202-C01",
+      "CHUNK-CTO-P203-C01",
+      "CHUNK-CTO-P203-C02",
+      "CHUNK-CTO-P203-C03",
+      "CHUNK-CTO-P203-C04"
+    ],
+    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+    "source_review_status": "needs_correction",
+    "source_limitations": [
+      "Fixed thesis sources, not present-day legal advice.",
+      "Assistant image review is not independent expert certification.",
+      "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+    ],
+    "source_review_path": "experiments\\source-reference-review-remaining-batch-v1\\SCENARIO-CTO-006\\review.json",
+    "independent_expert_certified": false
+  },
+  {
+    "group_id": "SCENARIO-OCBO-001",
+    "pillar": "Office of the City Building Official",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-OCBO-PDF0002-C001",
+      "DEV120-OCBO-PDF0002-C002",
+      "DEV120-OCBO-PDF0002-C003",
+      "DEV120-OCBO-PDF0003-C001",
+      "DEV120-OCBO-PDF0003-C002",
+      "DEV120-OCBO-PDF0003-C003",
+      "DEV120-OCBO-PDF0003-C004",
+      "DEV120-OCBO-PDF0004-C001",
+      "DEV120-OCBO-PDF0004-C002",
+      "DEV120-OCBO-PDF0004-C003",
+      "DEV120-OCBO-PDF0004-C004",
+      "DEV120-OCBO-PDF0005-C001",
+      "DEV120-OCBO-PDF0005-C002",
+      "DEV120-OCBO-PDF0005-C003"
+    ],
+    "ground_truth_reference_answer": "The Building Permit checklist lists a notarized application letter; notarized Unified Building Permit Form with Civil/Architectural plans signed/sealed by a licensed Civil Engineer/Architect (5 accomplished form copies); Architectural, Civil/Structural, and Sanitary/Plumbing forms (3 form copies and 5 plan sets each). Civil/Structural plans identify a licensed Civil Engineer; Sanitary/Plumbing identifies a licensed Sanitary Engineer/Master Plumber. Architectural plans must be signed/sealed by the hired licensed professional.\n\nElectrical: 3 accomplished form copies and 5 plan sets, signed/sealed by a Licensed Professional Electrical Engineer. Electronics: 2 form copies and 5 plan sets, signed/sealed by a Licensed Electronics Engineer. Mechanical row states \"Mechanical Permit Form with 6-7 sets Mechanical Plans\" signed and sealed by the hired professional \"Licensed Electronics Engineer\"; it separately lists \"2 copies of accomplished Form\" and \"5 sets of plans\". These are preserved as separate source statements. The user interprets the latter five sets as another submission; the row does not explicitly say additional or specify a combined total.\n\nThe checklist also lists Zoning Location Clearance and BFP Fire Safety Evaluation Certificate (1 original and 1 photocopy each); certified true copies of land title, property tax declaration and current real-property-tax receipt (1 original and 1 photocopy each); owner/applicant ID with 3 specimen signatures (1 photocopy); PRC IDs, current PTR and TIN of signing professionals (1 photocopy per professional).\n\nOther listed technical submissions include scaled sketch/lot and vicinity plans, relocation survey plans/reports signed/sealed by a licensed Geodetic Engineer (4 copies); technical specifications signed/sealed by a licensed Architect (2 copies); bill of materials/cost estimates signed/sealed by a licensed Architect (4 copies); seismic analysis; clear detailed location photographs with landmarks or Google Maps image.\n\nAdditional clearances are conditional: DPWH for structures along a National Highway; CAAP for tall structures; DENR ECC for environmentally critical projects; drainage clearance where stated; traffic impact assessment with site development/parking plans for major development; and RROW clearance for structures along City/Barangay/Subdivision roads. These rows list 1 original and 1 photocopy and preserve their stated conditions.",
+    "queries": {
+      "english": "What plans, clearances, and professional seals are mandatory to apply for a Building Permit at OCBO?",
+      "taglish": "Anong mga plano, clearance, at pirma ng inhinyero ang kailangan para makakuha ng Building Permit sa OCBO?",
+      "bislish": "Unsa ang mga plano, pirma sa inhinyero ug clearances nga kailangan i-submit para makakuha ug building permit sa OCBO?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-OCBO-P490-C01",
+      "CHUNK-OCBO-P490-C02",
+      "CHUNK-OCBO-P490-C03",
+      "CHUNK-OCBO-P491-C02"
+    ],
+    "mapping_status": "USER_REVIEWED_CANDIDATE_WITH_EXPLICIT_SOURCE_LIMITATIONS_NOT_APPLIED",
+    "source_review_status": "source_wording_preserved_user_interpretation_recorded",
+    "source_limitations": [
+      "Fixed thesis sources, not present-day legal advice.",
+      "Assistant image review is not independent expert certification.",
+      "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+    ],
+    "source_review_path": "experiments\\source-reference-review-remaining-batch-v1\\SCENARIO-OCBO-001\\review.json",
+    "independent_expert_certified": false
+  },
+  {
+    "group_id": "SCENARIO-OCBO-002",
+    "pillar": "Office of the City Building Official",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-OCBO-PDF0004-C002",
+      "DEV120-OCBO-PDF0004-C003",
+      "DEV120-OCBO-PDF0004-C004"
+    ],
+    "ground_truth_reference_answer": "Conditional requirements state: construction/minor repair of buildings 3 storeys and above requires Construction Safety & Health Program, 1 original and 1 photocopy, with DOLE listed under Where to Secure. Boring and Plate Load Test Result/Report is listed if the structure is at least three storeys, 2 copies, with a licensed Civil/Geotechnical Engineer listed. For an additional storey, submit an affidavit that the foundation can carry the proposed additional floors, 2 originals.",
+    "queries": {
+      "english": "What additional engineering and safety requirements are imposed by OCBO for buildings that are 3 storeys and above?",
+      "taglish": "Ano ang karagdagang requirements ng OCBO kapag ang itatayong gusali ay may 3 floors pataas?",
+      "bislish": "Unsa ang dugang requirements sa OCBO kung 3-storey pataas ang building nga itukod?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-OCBO-P492-C02",
+      "CHUNK-OCBO-P492-C03"
+    ],
+    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+    "source_review_status": "needs_correction",
+    "source_limitations": [
+      "Fixed thesis sources, not present-day legal advice.",
+      "Assistant image review is not independent expert certification.",
+      "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+    ],
+    "source_review_path": "experiments\\source-reference-review-remaining-batch-v1\\SCENARIO-OCBO-002\\review.json",
+    "independent_expert_certified": false
+  },
+  {
+    "group_id": "SCENARIO-OCBO-003",
+    "pillar": "Office of the City Building Official",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-OCBO-PDF0013-C001",
+      "DEV120-OCBO-PDF0013-C002",
+      "DEV120-OCBO-PDF0013-C003",
+      "DEV120-OCBO-PDF0013-C004",
+      "DEV120-OCBO-PDF0013-C005"
+    ],
+    "ground_truth_reference_answer": "Occupancy checklist: application letter (1 original); authorization letter if applicant is not owner (1 original); owner ID with 3 specimen signatures (1 photocopy); Certificate of Occupancy (1 original); Certificate of Completion (1 original); BFP Fire Safety Inspection Certificate (1 original); four-elevation project pictures (front/back/left/right); approved Building Construction, Architectural, Civil/Structural, Sanitary/Plumbing, Electrical and Mechanical installation permits (1 photocopy); approved building-permit plan (1 original).\n\nIf a different professional undertook/was assigned the project, the checklist requires a signed, notarized waiver from the previous professional in charge (1 original). It also lists Structure Images with CAAP clearance and structural survey for actual building height, signed/sealed by a licensed Geodetic Engineer. The authorization-letter source cell says CPDO and the picture source cell says Hired Geodetic Engineer; those unusual source associations are preserved.",
+    "queries": {
+      "english": "What are the required documents to apply for an Occupancy Permit after completing building construction?",
+      "taglish": "Ano ang mga requirements para makakuha ng Occupancy Permit kapag tapos na ang construction ng building?",
+      "bislish": "Unsa ang mga rekisitos para makakuha ug Occupancy Permit sa OCBO human mahuman ang pagtukod sa edipisyo?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-OCBO-P501-C01",
+      "CHUNK-OCBO-P501-C02"
+    ],
+    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+    "source_review_status": "needs_correction",
+    "source_limitations": [
+      "Fixed thesis sources, not present-day legal advice.",
+      "Assistant image review is not independent expert certification.",
+      "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+    ],
+    "source_review_path": "experiments\\source-reference-review-remaining-batch-v1\\SCENARIO-OCBO-003\\review.json",
+    "independent_expert_certified": false
+  },
+  {
+    "group_id": "SCENARIO-OCBO-004",
+    "pillar": "Office of the City Building Official",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-OCBO-PDF0042-C001",
+      "DEV120-OCBO-PDF0042-C002",
+      "DEV120-OCBO-PDF0042-C003"
+    ],
+    "ground_truth_reference_answer": "While the Building Permit is being processed, the Building Official may issue GP&EP for foundation subject to line-and-grade verification, inspection and review. It is valid only for 30 days or superseded upon Building Permit issuance. Fees: inspection/verification PHP200; excavation PHP3 per cubic meter; GP&EP issuance PHP50; foundation excavation with basement PHP4 per cubic meter; excavation other than foundation/basement PHP3 per cubic meter; permitted footing/foundation encroachment into public areas PHP250 per square meter or fraction thereof.",
+    "queries": {
+      "english": "What is the validity period and fee schedule for a Ground Preparation and Excavation Permit (GP&EP)?",
+      "taglish": "Gaano katagal valid ang Excavation Permit at magkano ang bayad kada cubic meter ng hukay?",
+      "bislish": "Pila ka adlaw valid ang excavation permit ug pila ang bayad sa inspection ug kada cubic meter sa pagkalot sa pundasyon?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-OCBO-P524-C01",
+      "CHUNK-OCBO-P530-C01"
+    ],
+    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+    "source_review_status": "needs_correction",
+    "source_limitations": [
+      "Fixed thesis sources, not present-day legal advice.",
+      "Assistant image review is not independent expert certification.",
+      "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+    ],
+    "source_review_path": "experiments\\source-reference-review-remaining-batch-v1\\SCENARIO-OCBO-004\\review.json",
+    "independent_expert_certified": false
+  },
+  {
+    "group_id": "SCENARIO-OCBO-005",
+    "pillar": "Office of the City Building Official",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-OCBO-PDF0029-C001",
+      "DEV120-OCBO-PDF0029-C002",
+      "DEV120-OCBO-PDF0029-C003",
+      "DEV120-OCBO-PDF0029-C004",
+      "DEV120-OCBO-PDF0029-C005",
+      "DEV120-OCBO-PDF0035-C001",
+      "DEV120-OCBO-PDF0035-C002"
+    ],
+    "ground_truth_reference_answer": "Fencing checklist: permit form with 3 sets of Civil/Architectural plans signed/sealed by licensed Civil Engineer/Architect (A3 structural-plan option stated); certified land title and property tax declaration (1 original and 1 photocopy each); the next row repeats Certified True Copy of Tax Declaration of the Property with CTO as source; Barangay Clearance (1 original and 1 photocopy); scaled sketch/lot/vicinity plan signed/sealed by licensed Geodetic Engineer (3 sets); bill of materials/cost estimates signed/sealed by licensed Civil Engineer (3 sets); signing professionals PRC ID/current PTR (1 photocopy); owner/applicant ID with 3 specimen signatures (1 photocopy); conditional DPWH clearance along a National Highway.\n\nFor fencing made of masonry, metal or concrete: height <= 1.80 m costs PHP3.00 per linear meter; height > 1.80 m costs PHP4.00 per linear meter. Both printed source rows include \"of fraction thereof\". For indigenous materials, barbed, chicken or hog wire, the listed rate is PHP2.40 per linear meter. No additional height qualifier is stated in that row. The service introduction says not exceeding 1.80 m, while the fee table explicitly includes a higher-height rate; this candidate reproduces the fee table without resolving that scope discrepancy.",
+    "queries": {
+      "english": "What are the requirements and fee rates per linear meter to secure a Fencing Permit from OCBO?",
+      "taglish": "Ano ang requirements at magkano ang bayad kada linear meter para kumuha ng Fencing Permit sa OCBO?",
+      "bislish": "Unsa ang mga papeles nga kailangan ug pila ang bayad kada linear meter para sa Fencing Permit kung magpader?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-OCBO-P517-C01",
+      "CHUNK-OCBO-P517-C02",
+      "CHUNK-OCBO-P523-C01"
+    ],
+    "mapping_status": "USER_REVIEWED_CANDIDATE_WITH_EXPLICIT_SOURCE_LIMITATIONS_NOT_APPLIED",
+    "source_review_status": "fee_thresholds_corrected_other_source_issues_preserved",
+    "source_limitations": [
+      "Fixed thesis sources, not present-day legal advice.",
+      "Assistant image review is not independent expert certification.",
+      "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+    ],
+    "source_review_path": "experiments\\source-reference-review-remaining-batch-v1\\SCENARIO-OCBO-005\\review.json",
+    "independent_expert_certified": false
+  },
+  {
+    "group_id": "SCENARIO-OCBO-006",
+    "pillar": "Office of the City Building Official",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-OCBO-PDF0103-C001",
+      "DEV120-OCBO-PDF0103-C002",
+      "DEV120-OCBO-PDF0104-C001",
+      "DEV120-OCBO-PDF0104-C002",
+      "DEV120-OCBO-PDF0103-C003"
+    ],
+    "ground_truth_reference_answer": "For a Certified True Copy, submit request letter; photocopy of Building Permit and other related documents; owner valid-ID photocopy with 3 signatures; if not owner, processor valid-ID photocopy with 3 signatures and original SPA; if lost, original Affidavit of Loss. The checklist does not offer reference details as a substitute for the photocopy.\n\nPay PHP50 per document (1 copy) at the City Treasurer’s Office. The printed TOTAL is 2 Days, 1 Hour, and 19 Minutes. Preserve this as the source-listed total, not an independently verified sum: listed steps include two separate 3-hour entries plus 2 days and other minutes.",
+    "queries": {
+      "english": "What is the fee and requirement checklist to request a Certified True Copy of a lost Building Permit at OCBO?",
+      "taglish": "Magkano ang bayad at ano ang requirements para kumuha ng Certified True Copy ng nawalang Building Permit sa OCBO?",
+      "bislish": "Pila ang bayad ug unsa ang mga requirements para makakuha ug Certified True Copy sa nawala nga Building Permit sa OCBO?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-OCBO-P591-C01",
+      "CHUNK-OCBO-P592-C01"
+    ],
+    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+    "source_review_status": "needs_correction",
+    "source_limitations": [
+      "Fixed thesis sources, not present-day legal advice.",
+      "Assistant image review is not independent expert certification.",
+      "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+    ],
+    "source_review_path": "experiments\\source-reference-review-remaining-batch-v1\\SCENARIO-OCBO-006\\review.json",
+    "independent_expert_certified": false
+  },
+  {
+    "group_id": "SCENARIO-CPDO-001",
+    "pillar": "City Planning and Development Office",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-CPDO-PDF0002-C001",
+      "DEV120-CPDO-PDF0002-C002",
+      "DEV120-CPDO-PDF0002-C004",
+      "DEV120-CPDO-PDF0004-C001"
+    ],
+    "ground_truth_reference_answer": "The CPDO Zoning Enforcement Division issues Zoning Certification based on the Integrated Zoning Ordinance (2019-2028). The checklist requires: Certified True Copy of Title(s), 1 photocopy, from the Registry of Deeds; duly accomplished application form, 1 original, from CPDO; Subdivision/Sketch Plan, 1 original, from Bureau of Land/private Geodetic Engineer; Order of Payment, 1 original, from CPDO; and Official Receipt, 1 original, from the City Treasurer's Office. The zoning fee is PHP 750 per hectare; the payment step depends on CTO processing time, described as uncontrollable time. The charter lists a TOTAL processing time of 3 Days, 6 Hours, and 50 Minutes.",
+    "queries": {
+      "english": "What are the requirements, fee per hectare, and processing time for a CPDO Zoning Certification in Davao City?",
+      "taglish": "Ano ang requirements, magkano ang bayad kada hektarya, at gaano katagal ang processing ng Zoning Certification sa CPDO?",
+      "bislish": "Unsa ang mga requirements, pila ang bayad kada hektarya, ug pila ka adlaw makuha ang Zoning Certification sa CPDO?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-CPDO-P631-C01",
+      "CHUNK-CPDO-P631-C02",
+      "CHUNK-CPDO-P633-C01"
+    ],
+    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_DEVELOPMENT_LABELS"
+  },
+  {
+    "group_id": "SCENARIO-CPDO-002",
+    "pillar": "City Planning and Development Office",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-CPDO-PDF0005-C001",
+      "DEV120-CPDO-PDF0005-C002",
+      "DEV120-CPDO-PDF0005-C003",
+      "DEV120-CPDO-PDF0005-C004",
+      "DEV120-CPDO-PDF0007-C001",
+      "DEV120-CPDO-PDF0007-C002"
+    ],
+    "ground_truth_reference_answer": "The source describes validation for \"3-storey buildings and above and for building floor area of 1,500 square meters and above only.\" User clarification: either category can qualify (3-storey and above OR floor area of 1,500 square meters and above). This alternative-trigger interpretation is user-supplied; the cited PDF itself uses \"and\" and does not independently resolve that interpretation.\n\nChecklist: approved building plans (1 original); approved building permit (1 original); Certificate of Occupancy Form (1 original); Locational Clearance, if applicable (1 photocopy); pictures of building (1 original); Order of Payment (1 original); Official Receipt (1 original).\n\nFiling fee is PHP150.00. The stated TOTAL is 3 Days, 2 Hours, and 10 Minutes; the final-approval step depends on availability of the Zoning Administrator.",
+    "queries": {
+      "english": "When is CPDO validation required for an Occupancy Permit and how much is the filing fee for 3-storey buildings?",
+      "taglish": "Kailan kailangan ng CPDO validation para sa Occupancy Permit at magkano ang filing fee para sa 3-storey na gusali?",
+      "bislish": "Kanus-a kinahanglan ang CPDO validation sa Occupancy Permit ug pila ang filing fee kung 3-storey pataas o 1,500 sqm ang building?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-CPDO-P634-C01",
+      "CHUNK-CPDO-P634-C02",
+      "CHUNK-CPDO-P636-C01"
+    ],
+    "mapping_status": "USER_REVIEWED_CANDIDATE_WITH_EXPLICIT_SOURCE_LIMITATIONS_NOT_APPLIED",
+    "source_review_status": "source_wording_preserved_user_interpretation_recorded",
+    "source_limitations": [
+      "Fixed thesis sources, not present-day legal advice.",
+      "Assistant image review is not independent expert certification.",
+      "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+    ],
+    "source_review_path": "experiments\\source-reference-review-remaining-batch-v1\\SCENARIO-CPDO-002\\review.json",
+    "independent_expert_certified": false
+  },
+  {
+    "group_id": "SCENARIO-CPDO-003",
+    "pillar": "City Planning and Development Office",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-CPDO-PDF0019-C001",
+      "DEV120-CPDO-PDF0022-C001",
+      "DEV120-CPDO-PDF0022-C002",
+      "DEV120-CPDO-PDF0021-C001",
+      "DEV120-CPDO-PDF0025-C001"
+    ],
+    "ground_truth_reference_answer": "For Locational Clearance for Building Permit for 2-storey and below, the zoning fee is 1/10 of 1% of building cost for agricultural/residential and commercial/industrial/institutional categories. Filing fees are PHP150 per application for agricultural/residential and PHP300 per application for commercial/industrial.\n\nThe Map Plotting step separately lists a PHP300 filing fee, with order of payment issued by OBO. The TOTAL row lists 4 Days, 2 Hours, and 25 Minutes. The source does not explicitly list an institutional filing fee or explain aggregation of the map-plotting charge in the TOTAL row.",
+    "queries": {
+      "english": "How are zoning fees and filing charges calculated for a Locational Clearance for 2-storey buildings at CPDO?",
+      "taglish": "Paano kinukwenta ang zoning fee at filing fee para sa Locational Clearance ng 2-storey building sa CPDO?",
+      "bislish": "Pila ang bayad sa filing fee ug unsaon pagkwenta sa zoning fee sa Locational Clearance sa CPDO para sa 2-storey nga building?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-CPDO-P648-C01",
+      "CHUNK-CPDO-P651-C01",
+      "CHUNK-CPDO-P654-C01"
+    ],
+    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+    "source_review_status": "needs_correction",
+    "source_limitations": [
+      "Fixed thesis sources, not present-day legal advice.",
+      "Assistant image review is not independent expert certification.",
+      "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+    ],
+    "source_review_path": "experiments\\source-reference-review-remaining-batch-v1\\SCENARIO-CPDO-003\\review.json",
+    "independent_expert_certified": false
+  },
+  {
+    "group_id": "SCENARIO-CPDO-004",
+    "pillar": "City Planning and Development Office",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-CPDO-PDF0026-C001",
+      "DEV120-CPDO-PDF0026-C002",
+      "DEV120-CPDO-PDF0026-C003",
+      "DEV120-CPDO-PDF0026-C004",
+      "DEV120-CPDO-PDF0027-C001",
+      "DEV120-CPDO-PDF0027-C002",
+      "DEV120-CPDO-PDF0028-C001",
+      "DEV120-CPDO-PDF0028-C002",
+      "DEV120-CPDO-PDF0029-C001",
+      "DEV120-CPDO-PDF0030-C001",
+      "DEV120-CPDO-PDF0030-C002",
+      "DEV120-CPDO-PDF0032-C001",
+      "DEV120-CPDO-PDF0032-C002"
+    ],
+    "ground_truth_reference_answer": "Motion for Reconsideration is an appeal against denial of Locational Clearance by the Zoning Administrator. The checklist lists: Letter of Reconsideration; Denial Letter; Order of Payment; Official Receipt; Business Permit Application Form/Building Permit Application Form (for building permit); certified true copy of title(s)/Contract of Lease/Deed of Sale; site sketch with vicinity map and landmarks; Barangay Council Resolution Interposing No Objection; affidavit of non-objection of adjoining property owners; locational mapping of neighbor consent signatories; Affidavit of Undertaking; and Building Permit for a business-permit application.\n\nSecure checklist and pre-evaluation; once documents are complete, obtain the order for the PHP600 processing fee. Submit original and photocopied official receipt with one complete set of documents. The process includes TWG site inspection/evaluation, TWG meeting with the applicant, committee deliberation, and, if approved, resolution and endorsement to OBO or Business Bureau. Claim the endorsement with attached resolution. Non-approved/deferred cases may receive NOC, NOD or disapproval.",
+    "queries": {
+      "english": "What is the procedure, fee, and requirement checklist to appeal a denied Locational Clearance before the LZBAA?",
+      "taglish": "Ano ang proseso, magkano ang processing fee, at ano ang kailangang ipasa kapag na-deny ang Locational Clearance at mag-aapela sa LZBAA?",
+      "bislish": "Unsaon pag-apela sa LZBAA kung gibalibaran ang Locational Clearance sa CPDO ug unsa ang mga requirements ug bayad sa processing fee?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-CPDO-P655-C01",
+      "CHUNK-CPDO-P656-C01",
+      "CHUNK-CPDO-P661-C01"
+    ],
+    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+    "source_review_status": "needs_correction",
+    "source_limitations": [
+      "Fixed thesis sources, not present-day legal advice.",
+      "Assistant image review is not independent expert certification.",
+      "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+    ],
+    "source_review_path": "experiments\\source-reference-review-remaining-batch-v1\\SCENARIO-CPDO-004\\review.json",
+    "independent_expert_certified": false
+  },
+  {
+    "group_id": "SCENARIO-CPDO-005",
+    "pillar": "City Planning and Development Office",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-CPDO-PDF0070-C002",
+      "DEV120-CPDO-PDF0070-C003",
+      "DEV120-CPDO-PDF0070-C004",
+      "DEV120-CPDO-PDF0071-C001",
+      "DEV120-CPDO-PDF0071-C002",
+      "DEV120-CPDO-PDF0072-C001"
+    ],
+    "ground_truth_reference_answer": "For online business locational clearance, the checklist lists: uploaded application form; Affidavit of Undertaking for neighbor consent with sketch map showing neighbor location (1 photocopy); Homeowners Association Certificate of No Objection; Certificate of Actual Land Occupancy for Migrant (based on RA8371); Locational Clearance for Building Permit, if applicable; PRC ID for licensed broker/License to Sell/Affidavit of Undertaking not to sell raw lots (PD957); Affidavit of Undertaking for Online Business/Booking Office/On-Job Site/On-Call/Private Garage; pictures showing working area including roads; and sketch map. Additional requirements may be required as the need arises.\n\nThe fee columns and TOTAL state None. The TOTAL is 1 Day and 50 Minutes. This includes denial-letter steps, with signature time dependent on administrator availability; it is not a guaranteed approval deadline. Approved/conditionally approved cases have their BPLS status updated and other offices then evaluate the application.",
+    "queries": {
+      "english": "What are the required documents and processing fees for online business locational clearance evaluated by CPDO?",
+      "taglish": "Ano ang mga kailangang i-upload at magkano ang bayad para sa online business locational clearance sa CPDO?",
+      "bislish": "Unsa ang mga i-upload nga dokumento ug pila ang bayad para sa online Locational Clearance sa negosyo sa CPDO?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-CPDO-P699-C01",
+      "CHUNK-CPDO-P699-C02",
+      "CHUNK-CPDO-P701-C01"
+    ],
+    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+    "source_review_status": "needs_correction",
+    "source_limitations": [
+      "Fixed thesis sources, not present-day legal advice.",
+      "Assistant image review is not independent expert certification.",
+      "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+    ],
+    "source_review_path": "experiments\\source-reference-review-remaining-batch-v1\\SCENARIO-CPDO-005\\review.json",
+    "independent_expert_certified": false
+  },
+  {
+    "group_id": "SCENARIO-CPDO-006",
+    "pillar": "City Planning and Development Office",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-CPDO-PDF0073-C001",
+      "DEV120-CPDO-PDF0073-C002",
+      "DEV120-CPDO-PDF0073-C003",
+      "DEV120-CPDO-PDF0074-C001",
+      "DEV120-CPDO-PDF0074-C002"
+    ],
+    "ground_truth_reference_answer": "The Certificate of Compatibility certifies uses or land activities capable of existing together harmoniously. Checklist: Application Letter, Zoning Certificate from CPDO, and Official Receipt from CTO.\n\nFiling fee is PHP300. The stated TOTAL is 1 Hour and 20 Minutes. The initial/final signature step is 15 minutes depending on availability of the Acting Zoning Administrator.",
+    "queries": {
+      "english": "What is the purpose, filing fee, and processing time of a CPDO Certificate of Compatibility?",
+      "taglish": "Para saan ang Certificate of Compatibility sa CPDO, magkano ang bayad, at gaano kabilis makuha?",
+      "bislish": "Para asa ang Certificate of Compatibility sa CPDO, pila ang filing fee, ug unsa kadugay ang pag-release?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-CPDO-P702-C01",
+      "CHUNK-CPDO-P702-C02",
+      "CHUNK-CPDO-P703-C01"
+    ],
+    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+    "source_review_status": "needs_correction",
+    "source_limitations": [
+      "Fixed thesis sources, not present-day legal advice.",
+      "Assistant image review is not independent expert certification.",
+      "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+    ],
+    "source_review_path": "experiments\\source-reference-review-remaining-batch-v1\\SCENARIO-CPDO-006\\review.json",
+    "independent_expert_certified": false
+  },
+  {
+    "group_id": "SCENARIO-BFP-001",
+    "pillar": "Bureau of Fire Protection",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-BFP-PDF0001-C052",
+      "DEV120-BFP-PDF0001-C027",
+      "DEV120-BFP-PDF0001-C028",
+      "DEV120-BFP-PDF0001-C029",
+      "DEV120-BFP-PDF0001-C030",
+      "DEV120-BFP-PDF0001-C031",
+      "DEV120-BFP-PDF0001-C032",
+      "DEV120-BFP-PDF0001-C035",
+      "DEV120-BFP-PDF0001-C036",
+      "DEV120-BFP-PDF0001-C017",
+      "DEV120-BFP-PDF0001-C018",
+      "DEV120-BFP-PDF0001-C019"
+    ],
+    "ground_truth_reference_answer": "The documentary checklist specifies three (3) sets of the listed documents. The FSEC column marks architectural, civil, electrical, mechanical, plumbing, electronics, sanitary and fire protection documents. Documents mean design plans, calculations and specifications signed and sealed by the Professional Engineer/Architect. Also listed for FSEC are one signed-and-sealed set of the estimated value of the building/structure or facilities, including materials and labor cost, and copies of valid PRC Professional Licenses of all involved professionals. The FSEC application fee is PHP 200.00; FCCT is 0.1% of the verified estimated materials-and-labor value of the building/structure or facility, capped at PHP 50,000.00. The fee note states that, when the UAF declared estimate differs substantially from current acceptable market construction cost per square meter or the value indicated in Table II.G.1 of PD 1096, the higher value will be adopted.",
+    "queries": {
+      "english": "What are the required blueprint submittals and fee formulas to secure an FSEC from the Bureau of Fire Protection?",
+      "taglish": "Ano ang requirements at paano kinukwenta ang bayad sa FSEC sa BFP bago makakuha ng building permit?",
+      "bislish": "Unsa ang mga plano nga kailangan i-submit sa bombero ug pila ang bayad sa FCCT para makakuha ug FSEC sa BFP?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-BFP-P001-C19"
+    ],
+    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_DEVELOPMENT_LABELS"
+  },
+  {
+    "group_id": "SCENARIO-BFP-002",
+    "pillar": "Bureau of Fire Protection",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-BFP-PDF0001-C019",
+      "DEV120-BFP-PDF0001-C020"
+    ],
+    "ground_truth_reference_answer": "For FSIC for Certificate of Occupancy and new/renewal business applications, the fee panel states FSIF is 15% of all fees charged by LGU/PEZA, not less than PHP500. It explicitly adds: if assessment from LGUs/PEZA is zero, FSIF is zero. Other fees apply if applicable under the cited RIRR provision. Do not omit the zero-assessment exception or narrow the base to LGU-only regulatory fees.",
+    "queries": {
+      "english": "How is the Fire Safety Inspection Fee (FSIF) calculated for an Occupancy Permit FSIC and what is the minimum fee?",
+      "taglish": "Paano kinukwenta ang Fire Safety Inspection Fee (FSIF) para sa FSIC ng Occupancy at magkano ang minimum na bayad?",
+      "bislish": "Pila ang minimum nga bayad ug unsaon pagkwenta sa Fire Safety Inspection Fee (FSIF) para sa FSIC sa Occupancy Permit?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-BFP-P001-C10"
+    ],
+    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+    "source_review_status": "needs_correction",
+    "source_limitations": [
+      "Fixed thesis sources, not present-day legal advice.",
+      "Assistant image review is not independent expert certification.",
+      "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+    ],
+    "source_review_path": "experiments\\source-reference-review-remaining-batch-v1\\SCENARIO-BFP-002\\review.json",
+    "independent_expert_certified": false
+  },
+  {
+    "group_id": "SCENARIO-BFP-003",
+    "pillar": "Bureau of Fire Protection",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-BFP-PDF0001-C001",
+      "DEV120-BFP-PDF0001-C002",
+      "DEV120-BFP-PDF0001-C003"
+    ],
+    "ground_truth_reference_answer": "The BFP charter classifies Simple transactions as processed within 1 day, Complex within 3 days, and Highly Technical within 7 days. It directs readers to JMC2021-01 for classification coverage. The source says days, not working days, and identifies FIRE STATION/OSCP/BOSS.",
+    "queries": {
+      "english": "What are the statutory processing turnaround times for Simple, Complex, and Highly Technical BFP frontline applications?",
+      "taglish": "Ilang araw ang processing time sa BFP para sa Simple, Complex, at Highly Technical na mga transaksyon?",
+      "bislish": "Pila ka adlaw ang gitagal sa BFP Citizens Charter para sa Simple, Complex, ug Highly Technical nga mga application?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-BFP-P001-C11",
+      "CHUNK-BFP-P001-C12"
+    ],
+    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+    "source_review_status": "needs_correction",
+    "source_limitations": [
+      "Fixed thesis sources, not present-day legal advice.",
+      "Assistant image review is not independent expert certification.",
+      "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+    ],
+    "source_review_path": "experiments\\source-reference-review-remaining-batch-v1\\SCENARIO-BFP-003\\review.json",
+    "independent_expert_certified": false
+  },
+  {
+    "group_id": "SCENARIO-BFP-004",
+    "pillar": "Bureau of Fire Protection",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-BFP-PDF0001-C043",
+      "DEV120-BFP-PDF0001-C004",
+      "DEV120-BFP-PDF0001-C005",
+      "DEV120-BFP-PDF0001-C040",
+      "DEV120-BFP-PDF0001-C041",
+      "DEV120-BFP-PDF0001-C042"
+    ],
+    "ground_truth_reference_answer": "FSCR/FSCCR/FSMR are required if the building/facilities/structures are required to install any or a combination of wet standpipe, automatic fire suppression, or automatic fire detection and alarm systems. FSCR consists of plans, specifications and design analysis per building, prepared and duly signed by the Engineer/Architect-of-Record and his/her Fire Safety Practitioner. FSCCR compiles approved submittals, test and acceptance forms for fire protection and life safety features as part of as-built documents turned over by the contractor to the owner; it is duly signed by the Contractor/Construction Manager and his/her Fire Safety Practitioner. FSMR is prepared by the building owner, his/her fire safety practitioner or authorized representative, and duly signed by the Building Administrator and his/her Fire Safety Practitioner during regular annual fire safety inspection. The matrix associates FSCR with FSEC, FSCCR with occupancy FSIC, and FSMR with new business without valid occupancy-stage FSIC and the two renewal columns; blank cells are not exemption statements.",
+    "queries": {
+      "english": "Under what structural conditions are FSCR, FSCCR, and FSMR required by the BFP, and who prepares them?",
+      "taglish": "Kailan kailangang mag-submit ng FSCR, FSCCR, at FSMR sa bombero at sinong practitioner ang dapat pumirma nito?",
+      "bislish": "Kanus-a required magpasa ug FSCR, FSCCR, ug FSMR sa BFP ug kinsa ang licensed practitioner nga pwede magpirma?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-BFP-P001-C02",
+      "CHUNK-BFP-P001-C16"
+    ],
+    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_DEVELOPMENT_LABELS"
+  },
+  {
+    "group_id": "SCENARIO-BFP-005",
+    "pillar": "Bureau of Fire Protection",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-BFP-PDF0001-C043",
+      "DEV120-BFP-PDF0001-C044",
+      "DEV120-BFP-PDF0001-C045"
+    ],
+    "ground_truth_reference_answer": "Fire Safety Clearance for welding, cutting and other hot work operations shall be secured if required. Per Project Duration applies to new construction or renovation; the clearance should be applied for during construction after the conduct of fire safety inspection. Annual applies to business establishments requiring almost daily repair or maintenance due to the nature of their business or operations. The matrix marks the per-project row under FSEC and the annual row under the two renewal columns; blank cells are not exemption statements.",
+    "queries": {
+      "english": "When must a business or contractor secure a BFP Fire Safety Clearance for welding, cutting, and hot works?",
+      "taglish": "Kailan kailangang kumuha ng Fire Safety Clearance para sa welding o hot works at paano ang validity nito?",
+      "bislish": "Kanus-a kinahanglan mukuha ug clearance sa bombero para sa welding o hot works ug unsa ang kalainan sa project-based ug annual?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-BFP-P001-C24"
+    ],
+    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_DEVELOPMENT_LABELS"
+  },
+  {
+    "group_id": "SCENARIO-BFP-006",
+    "pillar": "Bureau of Fire Protection",
+    "split": "development",
+    "ground_truth_chunk_ids": [
+      "DEV120-BFP-PDF0001-C046",
+      "DEV120-BFP-PDF0001-C047",
+      "DEV120-BFP-PDF0001-C053",
+      "DEV120-BFP-PDF0001-C055",
+      "DEV120-BFP-PDF0001-C056"
+    ],
+    "ground_truth_reference_answer": "The BFP public warning says it does not accredit or recommend any brand, store or distributor of fire extinguishers/fire-fighting equipment. Its warning prohibits personnel from selling or recommending a specific fire-extinguisher brand.\n\nThe image panel says portable fire extinguishers are regulated by DTI through BPS and that each type must comply with appropriate Philippine National Standards for product safety/reliability. This supports no BFP brand accreditation; it should not be expanded into a claim that any product is suitable regardless of type or hazard.",
+    "queries": {
+      "english": "Does the BFP require a specific accredited brand of fire extinguisher, and can BFP inspectors sell equipment?",
+      "taglish": "Kailangan ba na accredited brand ng BFP ang bibilhing fire extinguisher, at pwede bang magbenta ang inspector ng bombero?",
+      "bislish": "Tinuod ba nga kailangan accredited sa BFP ang brand sa fire extinguisher o pwede ba mamaligya ang inspector sa bombero?"
+    },
+    "legacy_ground_truth_chunk_ids": [
+      "CHUNK-BFP-P001-C27"
+    ],
+    "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+    "source_review_status": "needs_correction",
+    "source_limitations": [
+      "Fixed thesis sources, not present-day legal advice.",
+      "Assistant image review is not independent expert certification.",
+      "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+    ],
+    "source_review_path": "experiments\\source-reference-review-remaining-batch-v1\\SCENARIO-BFP-006\\review.json",
+    "independent_expert_certified": false
+  }
+]

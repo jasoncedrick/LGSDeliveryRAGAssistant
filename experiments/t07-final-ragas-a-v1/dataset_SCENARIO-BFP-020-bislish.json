@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Kinsa ang personahe sa fire station nga gitahasan sa paghusay sa mga reklamo ug kabilinggan sa mga transaksyon sa permit?"
+  ],
+  "answer": [
+    "Sa fire station, ang Customer Relations Officer (CRO) ang unsa ang gitahasan sa paghusay sa mga reklamo ug kabilinggan sa mga transaksyon sa permit. [S2]"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "city/municipal level.\nIn BFP Regional and Provincial/District Offices, on the other hand, the customer/client can call into attention the    \nRegional, Provincial and District Fire Marshal or their authorized representative staff  officer or the Head of the Unit/\nOffice concerned to resolve complaints and other issues raised. Formal complaints may be coursed through the \nBFP NHQ IAS or the Regional IAS.\nAt the City/Municipal Fire Station level, the Customer Relations Officer (CRO) are responsible or resolving    \nmatters, issues or dispute",
+      "as parking and sidewalk areas, \ngasoline station premises, skating rinks, pelota courts, tennis and basketball \ncourts, and the like\n3.00"
+    ]
+  ],
+  "ground_truth": [
+    "At the City/Municipal Fire Station level, the Customer Relations Officer (CRO) is responsible for resolving issues, matters, or disputes raised by clients regarding frontline transactions, specifically filing permits, clearances, and fee assessments."
+  ]
+}

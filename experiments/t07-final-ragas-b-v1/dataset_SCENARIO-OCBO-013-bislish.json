@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Tagpila ang tinuig nga renewal fee sa hayag o illuminated nga signboard sa tindahan kumpara sa advertisement billboard?"
+  ],
+  "answer": [
+    "Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa renewal fee sa hayag o illuminated nga signboard sa tindahan kumpara sa advertisement billboard. [S1, S2, S3] do not provide specific information regarding the renewal fee for a signboard in a store compared to an advertisement billboard."
+  ],
+  "contexts": [
+    [
+      "REDIT” nor Recommend any Brand, Store or Distributor of Fire\nExtinguisher and Fire Fighting Equipment\nAs per BFP Memorandum Circular No. 2016-016\nProhibition of BFP Personnel from Engaging in any act of impropriety and/or corruption pertaining to the enforce-\nment and implementation of the Fire Code and providing sanction thereof.\nHow to file a complaint\nTo file a complaint against the BFP or any of its personnel, the Client/Customer should provide the  following details via \nemail or other form of",
+      "area bracket indicated in the Table above. \nEach sub-area and the fee corresponding to its area bracket are multiplied together. \nThe building fee is the sum of the individual products as shown in the following \nexample:\nSample Computation for Building Fee for a building having a floor area of 3,200 sq. \nmeters:\nNext 500 sq. meters @ 23.00 …………………………………………….Php   11,500.00\nNext 100 sq. meters @ 22.00.…………………………………………….Php     2,200.00\nNext 100 sq. meters @ 20.50…………………",
+      "600 to 700 \nPhp \n20.00\nAbove 700 to 800 \nPhp \n19.50\nAbove 800 to 900 \nPhp \n18.00\nAbove 900 to 1,000 \nPhp \n17.00\nAbove 1,000 to 1,500 \nPhp \n16.00\nAbove 1,500 to 2,000 \nPhp \n15.00\nAbove 2,000 to 3,000 \nPhp \n14.00\nAbove 3,000 \nPhp \n12.00\nNOTE:  Computation of the building fee for item 3.c. is cumulative.  The total area is \nsplit up into sub-areas corresponding to the area bracket indicated in the Table above. \nEach sub-area and the fee corresponding to"
+    ]
+  ],
+  "ground_truth": [
+    "Annual Sign Permit renewal fees per sq.m. of display area are: Neon = PHP 36.00 (PHP 124 min) for business, PHP 46.00 (PHP 200 min) for advertising; Illuminated = PHP 18.00 (PHP 72 min) for business, PHP 38.00 (PHP 150 min) for advertising; Painted = PHP 8.00 (PHP 30 min) for business, PHP 12.00 (PHP 100 min) for advertising."
+  ]
+}

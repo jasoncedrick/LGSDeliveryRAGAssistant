@@ -1,0 +1,817 @@
+{
+  "legacy_gold_ids": 87,
+  "findings_by_status": {
+    "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK": 81,
+    "EXACT_FULL_SPAN_FOUND": 6
+  },
+  "groups_with_all_spans_exactly_resolvable": 3,
+  "split_tag_values": {
+    "held_out_test": 70
+  },
+  "split_tag_interpretation": "held_out_test is the existing descriptive held-out tag, not evidence of group leakage. The initial parser did not recognize this spelling. The substantive unresolved issue is gold/source identity.",
+  "findings": [
+    {
+      "legacy_id": "CHUNK-BB-P057-C04",
+      "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+      "pdf_relative_page": 18,
+      "legacy_text_sha256": "73f63dece46af36ac46ab0a179fe3eea754fdada38b386dd9b4e4a6402a1a40a",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 5
+    },
+    {
+      "legacy_id": "CHUNK-BB-P058-C04",
+      "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+      "pdf_relative_page": 19,
+      "legacy_text_sha256": "5bf4f4cb3ecf6ac75c6284cae38f8e6b56b7387c470e3914ea9570fa7c9cbba8",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 5
+    },
+    {
+      "legacy_id": "CHUNK-BB-P059-C02",
+      "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+      "pdf_relative_page": 20,
+      "legacy_text_sha256": "61737c1f866d897a9ef041a3a0a4a457306f7aacea29e07188dce7492791bc03",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 5
+    },
+    {
+      "legacy_id": "CHUNK-BB-P061-C01",
+      "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+      "pdf_relative_page": 22,
+      "legacy_text_sha256": "2dc61a49403a589ae5e19933412162364104a6fdd1b3e03b285e12a555fc3882",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-BB-P095-C01",
+      "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+      "pdf_relative_page": 56,
+      "legacy_text_sha256": "5fa4a028fe1d1a16498243252f21fbee14f554ab9ba139a05e8a9b5dfb62d726",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-BB-P096-C01",
+      "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+      "pdf_relative_page": 57,
+      "legacy_text_sha256": "550bad92bf0380d48fdcedbe1bcc6eb397946c896ca889a6dbf74e3e5c17a925",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-BB-P096-C02",
+      "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+      "pdf_relative_page": 57,
+      "legacy_text_sha256": "7c67215fc2ec4f7f8dd987da731329c4ff51679929d80225da8e2eb8eef3cf07",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-BB-P097-C01",
+      "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+      "pdf_relative_page": 58,
+      "legacy_text_sha256": "2f70d89c0377c4fc147d91120043792ca96d50408a70c576cf7c6b73b31760a1",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-BB-P101-C01",
+      "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+      "pdf_relative_page": 62,
+      "legacy_text_sha256": "2b291f132f981da3d68c2777b135c82bbbe78b998e3aac831610ab267f2af28b",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-BB-P102-C02",
+      "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+      "pdf_relative_page": 63,
+      "legacy_text_sha256": "a5a74b5e6c95ac89b011446fd289e56577fdc26454f97e2ce98e68923d8f3a5f",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-BB-P102-C03",
+      "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+      "pdf_relative_page": 63,
+      "legacy_text_sha256": "8b9f1899445ef9e67f426d7d0d7c2d9d4f7403430c60c9e1d72ae674d317683b",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-BB-P104-C01",
+      "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+      "pdf_relative_page": 65,
+      "legacy_text_sha256": "c127f733d3395c880aea5421d8b2ab79ba1c549d39c8e017676684bc74f8078c",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 5
+    },
+    {
+      "legacy_id": "CHUNK-BB-P104-C04",
+      "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+      "pdf_relative_page": 65,
+      "legacy_text_sha256": "f39aa8a70c74efab002533d8f6d4f42acd6436fc9bd6378d35be06864183e7c2",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 5
+    },
+    {
+      "legacy_id": "CHUNK-BB-P108-C01",
+      "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+      "pdf_relative_page": 69,
+      "legacy_text_sha256": "a73997d59f6d0b1ea86a8aeb7f56ae2daa13371f927d518fca91b101f5d36fc9",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 3
+    },
+    {
+      "legacy_id": "CHUNK-BB-P110-C01",
+      "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+      "pdf_relative_page": 71,
+      "legacy_text_sha256": "c8841ebd5191aebf906ed1e5d6691db9c121ec3fe7bea1fefe45abe411e02ded",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 1
+    },
+    {
+      "legacy_id": "CHUNK-BB-P118-C04",
+      "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+      "pdf_relative_page": 79,
+      "legacy_text_sha256": "c621b280fe327dca3cee1a370ac68a6c1221cc766e843e03ac80b7fd8b8490f7",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-BB-P119-C01",
+      "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+      "pdf_relative_page": 80,
+      "legacy_text_sha256": "dc5af0f2fce5025d8af35f2b9296cb4761ca3b0a23a70b3e27526d0193285f63",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-BB-P120-C01",
+      "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+      "pdf_relative_page": 81,
+      "legacy_text_sha256": "3dd7b897a8893006e3a393835d7af3576e6bcc0f9ad20d2c275e2139ecdad269",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-BB-P120-C03",
+      "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+      "pdf_relative_page": 81,
+      "legacy_text_sha256": "cf8d82387a148e591bc931fb5a41779191bb2f469f63c42cf763d47f6e4a0a39",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-BFP-P001-C07",
+      "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+      "pdf_relative_page": 1,
+      "legacy_text_sha256": "4385968b12c16200a46b949f807483bde146a718c540978b8ffc8a1e7b7266ab",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 67
+    },
+    {
+      "legacy_id": "CHUNK-BFP-P001-C08",
+      "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+      "pdf_relative_page": 1,
+      "legacy_text_sha256": "8174b45d99980455a50ed05f4402dc366e9d56ebb5088fec41ce20ce0e6cb3af",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 67
+    },
+    {
+      "legacy_id": "CHUNK-BFP-P001-C09",
+      "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+      "pdf_relative_page": 1,
+      "legacy_text_sha256": "f3df7dcb8fcc388ada47526b1c8c884f3754bbf9fc919f50147f81bcff898f9a",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 67
+    },
+    {
+      "legacy_id": "CHUNK-BFP-P001-C10",
+      "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+      "pdf_relative_page": 1,
+      "legacy_text_sha256": "0afd4ef7a664e3ed0df6db48ff0b7d27548dec3ed288906d3a19d200e52d016b",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 67
+    },
+    {
+      "legacy_id": "CHUNK-BFP-P001-C12",
+      "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+      "pdf_relative_page": 1,
+      "legacy_text_sha256": "99571a64a622eb89f5f951ef6d40bb9bada9f2180b3129e50aa9478350ca68ae",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 67
+    },
+    {
+      "legacy_id": "CHUNK-BFP-P001-C14",
+      "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+      "pdf_relative_page": 1,
+      "legacy_text_sha256": "f1951e02d2e1205d37cf2b1bb101bfb496779f60793b2a9eb1ac30f6627abff2",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 67
+    },
+    {
+      "legacy_id": "CHUNK-BFP-P001-C15",
+      "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+      "pdf_relative_page": 1,
+      "legacy_text_sha256": "23b91b83396522bd422c46bba9fb1fb2374d94e97c4f4bf21abe584f88a1c158",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 67
+    },
+    {
+      "legacy_id": "CHUNK-BFP-P001-C19",
+      "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+      "pdf_relative_page": 1,
+      "legacy_text_sha256": "50bcda783aea4b41c84bae93069f935f95210c308b55229e8c2223a338d99147",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 67
+    },
+    {
+      "legacy_id": "CHUNK-BFP-P001-C20",
+      "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+      "pdf_relative_page": 1,
+      "legacy_text_sha256": "c849495e57d007bd6101e3c325e03e2ace26fb3c0de8ddee70f4da7b64af4449",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 67
+    },
+    {
+      "legacy_id": "CHUNK-BFP-P001-C25",
+      "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+      "pdf_relative_page": 1,
+      "legacy_text_sha256": "4c2422251e4b1ff651090fd083dce0e4d15c1143473eab1a183286b5b7fe667a",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 67
+    },
+    {
+      "legacy_id": "CHUNK-BFP-P001-C27",
+      "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+      "pdf_relative_page": 1,
+      "legacy_text_sha256": "f262796ce79d58c9d5e395267e81d4a9956da18e29425b7c066e704ba209734c",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 67
+    },
+    {
+      "legacy_id": "CHUNK-BFP-P001-C28",
+      "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+      "pdf_relative_page": 1,
+      "legacy_text_sha256": "750a383f05ab99b2a8a03bc998042f722d0c320d365f4b4da6ccb81f5ec88176",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 67
+    },
+    {
+      "legacy_id": "CHUNK-BFP-P001-C32",
+      "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+      "pdf_relative_page": 1,
+      "legacy_text_sha256": "d0c83c2c80fc9aa10bf99d35c563c66303c8cc4fb786267fd7d2fbc13c6bfd1e",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 67
+    },
+    {
+      "legacy_id": "CHUNK-CPDO-P634-C01",
+      "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+      "pdf_relative_page": 5,
+      "legacy_text_sha256": "10824c6bc14aadd66fee7c4bd1c2b1517411270c1377a177dfba73707591cb51",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-CPDO-P637-C01",
+      "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+      "pdf_relative_page": 8,
+      "legacy_text_sha256": "45fb794e2bc30f49dea50794547f3d90cefebea77c8b8974369c77b2744bc8f9",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-CPDO-P648-C01",
+      "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+      "pdf_relative_page": 19,
+      "legacy_text_sha256": "9ed08d97b23c00b92843c24a657a935d77280851a88ffe99fb122365b7ba132c",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 5
+    },
+    {
+      "legacy_id": "CHUNK-CPDO-P662-C01",
+      "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+      "pdf_relative_page": 33,
+      "legacy_text_sha256": "24d17d7a6205bac0244aec63f081a24df852f852084db74253f376827fe938c8",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 6
+    },
+    {
+      "legacy_id": "CHUNK-CPDO-P670-C01",
+      "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+      "pdf_relative_page": 41,
+      "legacy_text_sha256": "52ec4d35a5b5038c0d07c96422f6ceab75268f9ddd450d614d3d325111a32dfd",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 5
+    },
+    {
+      "legacy_id": "CHUNK-CPDO-P685-C01",
+      "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+      "pdf_relative_page": 56,
+      "legacy_text_sha256": "f1d5908acf5129cb113d58d5c9beb4167239d613694223ac7026daabff951893",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 5
+    },
+    {
+      "legacy_id": "CHUNK-CPDO-P686-C02",
+      "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+      "pdf_relative_page": 57,
+      "legacy_text_sha256": "5babe056a2794f807f6f5bf2bb07318d61fd767acd89540681651d3209632e79",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-CPDO-P699-C01",
+      "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+      "pdf_relative_page": 70,
+      "legacy_text_sha256": "8d6941219603fa5b0f2390bb6c2d6bb552abeb1dd5e53787c98a79e0f6b12ba3",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-CPDO-P704-C01",
+      "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+      "pdf_relative_page": 75,
+      "legacy_text_sha256": "a291625884a74fb2b64ca3897427c361f8a6869a0073248042e7ea807074a9b6",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 5
+    },
+    {
+      "legacy_id": "CHUNK-CPDO-P707-C01",
+      "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+      "pdf_relative_page": 78,
+      "legacy_text_sha256": "8e399331476ef81e6640aef74f14218b629d6dc519c858ea3b0b5a304b6b1e6d",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 3
+    },
+    {
+      "legacy_id": "CHUNK-CPDO-P707-C03",
+      "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+      "pdf_relative_page": 78,
+      "legacy_text_sha256": "420295c24c1a1889f85e2a4f3050a3f50dd6e0d30a00df417015ea0b598550ac",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 3
+    },
+    {
+      "legacy_id": "CHUNK-CPDO-P714-C01",
+      "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+      "pdf_relative_page": 85,
+      "legacy_text_sha256": "f74073eeef5693add78209e62094305ddaf6de0311f929717f0ffbb225cd5657",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 5
+    },
+    {
+      "legacy_id": "CHUNK-CPDO-P716-C04",
+      "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+      "pdf_relative_page": 87,
+      "legacy_text_sha256": "2ed7fc800d0a4a90ce0bd7000a9acc0fa9533d034674ff6917a00028a546ab46",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-CPDO-P724-C01",
+      "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+      "pdf_relative_page": 95,
+      "legacy_text_sha256": "af6477b53cf0d1bbe1934f4bf62acee25f55753c12dcd5b8f8b1560863506332",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-CPDO-P731-C01",
+      "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+      "pdf_relative_page": 102,
+      "legacy_text_sha256": "3ad85bcffc8a0cef7c5f96c4be01f7b07cbea2cd67a24e980e92f8b96c7de91f",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 3
+    },
+    {
+      "legacy_id": "CHUNK-CTO-P034-C01",
+      "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 10,
+      "legacy_text_sha256": "0116ab4f1181a1d0df0913afcc69e0bb819f080b8def9332775c1dffae65c19e",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-CTO-P162-C01",
+      "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 7,
+      "legacy_text_sha256": "1486b91ca5b9f5a3b6546c58d66ef25643f657f8fe2fc747499cb8360b5ba356",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-CTO-P164-C02",
+      "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 9,
+      "legacy_text_sha256": "8961a9fee301226f4908a9b93f847792ecdaf011c3019f0f324defa74a3b17ff",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 3
+    },
+    {
+      "legacy_id": "CHUNK-CTO-P167-C01",
+      "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 12,
+      "legacy_text_sha256": "eacf197a759341d79d00338d4dd490c70f159fd4959780f5342ce7c49ef17c37",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-CTO-P167-C03",
+      "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 12,
+      "legacy_text_sha256": "ad1187e920225506a7146f58954646aba5a1214ab217aeb008aefc8e3f58a320",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-CTO-P179-C02",
+      "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 24,
+      "legacy_text_sha256": "9f1ac74dc02c47a23ad6ba517e349319016798935a0e047741ea7e9f6254aa26",
+      "status": "EXACT_FULL_SPAN_FOUND",
+      "exact_candidates": [
+        "DEV120-CTO-PDF0024-C002"
+      ],
+      "same_page_candidate_count": 3
+    },
+    {
+      "legacy_id": "CHUNK-CTO-P186-C03",
+      "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 20,
+      "legacy_text_sha256": "3185423c249bdda6dd892e3bf11f1fd4f78f65c67572c8cf18e63f774ab3c934",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-CTO-P191-C01",
+      "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 36,
+      "legacy_text_sha256": "8d6f0253e37b4e4c59cc0bd32ce1873e5a4b5cccaeff26bef3ed81b11309a117",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 2
+    },
+    {
+      "legacy_id": "CHUNK-CTO-P196-C03",
+      "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 41,
+      "legacy_text_sha256": "a50f891b54556be7388d75f2277aa65142f56dc00d1c7c81eb45b6684a18d980",
+      "status": "EXACT_FULL_SPAN_FOUND",
+      "exact_candidates": [
+        "DEV120-CTO-PDF0041-C003"
+      ],
+      "same_page_candidate_count": 3
+    },
+    {
+      "legacy_id": "CHUNK-CTO-P198-C02",
+      "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 43,
+      "legacy_text_sha256": "2bac6a637d9717540aaa34641bfd88d956fbe882bb727fe3979af56ad35e9f81",
+      "status": "EXACT_FULL_SPAN_FOUND",
+      "exact_candidates": [
+        "DEV120-CTO-PDF0043-C002"
+      ],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-CTO-P198-C03",
+      "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 43,
+      "legacy_text_sha256": "9776ca0b9ffe43525398c277d54276569156d130a85fb1c1b33576c44551236a",
+      "status": "EXACT_FULL_SPAN_FOUND",
+      "exact_candidates": [
+        "DEV120-CTO-PDF0043-C003"
+      ],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-CTO-P200-C01",
+      "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 45,
+      "legacy_text_sha256": "ef8159fd1303500e328860dc6d281568ec0f0fc7dc4e23129c83a3056e9fa53d",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-CTO-P210-C03",
+      "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 55,
+      "legacy_text_sha256": "a4b83e9420d00744b73efa9e4ce686df54341f60d14062a8d515c70c7e90738b",
+      "status": "EXACT_FULL_SPAN_FOUND",
+      "exact_candidates": [
+        "DEV120-CTO-PDF0055-C003"
+      ],
+      "same_page_candidate_count": 5
+    },
+    {
+      "legacy_id": "CHUNK-CTO-P211-C02",
+      "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 56,
+      "legacy_text_sha256": "486f314fcb9fa98748a7ca8f034b5bf48c12630ead296b18ed550c8dff04e47e",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 6
+    },
+    {
+      "legacy_id": "CHUNK-CTO-P211-C04",
+      "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 56,
+      "legacy_text_sha256": "b1c6d97ff7b8f462d2fffc3109438eb5c8bd998343678e8a687a5a0295d1df71",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 6
+    },
+    {
+      "legacy_id": "CHUNK-CTO-P212-C04",
+      "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 57,
+      "legacy_text_sha256": "7b029e848c931272727b21051f7fa1465672197cacbab327465351979ffc5f36",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 6
+    },
+    {
+      "legacy_id": "CHUNK-CTO-P213-C01",
+      "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 58,
+      "legacy_text_sha256": "b27d76e1e2339f092f14facaf81b29e8f7ac2d5a6d509f20c4b2180855945831",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 7
+    },
+    {
+      "legacy_id": "CHUNK-CTO-P213-C03",
+      "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 58,
+      "legacy_text_sha256": "aa5f065c567be99682d32f55f02ed10ff25dd44cf1ee925008702313501ad38b",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 7
+    },
+    {
+      "legacy_id": "CHUNK-CTO-P213-C04",
+      "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 58,
+      "legacy_text_sha256": "b3b4e71c1c85e7d901ee4e4ec1e012f4377c9acbfc72184a9ad724e455e9d5be",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 7
+    },
+    {
+      "legacy_id": "CHUNK-CTO-P214-C01",
+      "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 59,
+      "legacy_text_sha256": "657568aba7ebfe778a1cd01d7a797ebf54d9ad578145ae76a01cd7139776077c",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 6
+    },
+    {
+      "legacy_id": "CHUNK-CTO-P214-C05",
+      "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 59,
+      "legacy_text_sha256": "eec46cc0ec20025db57820090924c5eb12bb95bafe130c91f3d42ddede95e8fc",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 6
+    },
+    {
+      "legacy_id": "CHUNK-CTO-P215-C01",
+      "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 60,
+      "legacy_text_sha256": "e7c394f7200f6f566c386457cc2a94dd3e2773e227caea66ed02d1ac9b6ecd30",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-CTO-P217-C02",
+      "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 62,
+      "legacy_text_sha256": "51104f1122e114e1b2e08488ceca1154ac04fd71cf06b6e1a28038c43a1b9976",
+      "status": "EXACT_FULL_SPAN_FOUND",
+      "exact_candidates": [
+        "DEV120-CTO-PDF0062-C002"
+      ],
+      "same_page_candidate_count": 2
+    },
+    {
+      "legacy_id": "CHUNK-OCBO-P501-C04",
+      "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 13,
+      "legacy_text_sha256": "d1a379c7cdf2702ef9211f7efc92887fe77149e37e19fedf8a631029513e4397",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 5
+    },
+    {
+      "legacy_id": "CHUNK-OCBO-P530-C01",
+      "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 42,
+      "legacy_text_sha256": "a85f335436da462eead3c088ee8e703f678f4fc2a45d348b971b97f1b377c48d",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 3
+    },
+    {
+      "legacy_id": "CHUNK-OCBO-P538-C01",
+      "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 50,
+      "legacy_text_sha256": "2a1861accac699e9a5b5553ced6862dae2a03237821b49120aade39e144c4986",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 2
+    },
+    {
+      "legacy_id": "CHUNK-OCBO-P545-C01",
+      "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 57,
+      "legacy_text_sha256": "370fba25fe9088bad18cc98ed56104fc7b4dd625b1e69508d3230e4071023548",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 1
+    },
+    {
+      "legacy_id": "CHUNK-OCBO-P552-C01",
+      "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 64,
+      "legacy_text_sha256": "f7d3e9dd6e01dbde9e0456e6b3d75e5892ca124b39e5752d20f5c56c950373b7",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 1
+    },
+    {
+      "legacy_id": "CHUNK-OCBO-P553-C01",
+      "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 65,
+      "legacy_text_sha256": "a25ce6df2fc3f003daca5242bb8fa85e518b20bc6483e3f67d3c492c580751ce",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-OCBO-P559-C01",
+      "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 71,
+      "legacy_text_sha256": "de870c310fefcdf297a8eef3d20cf140ecc9757a1139f77f954b07fbeb04b416",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 2
+    },
+    {
+      "legacy_id": "CHUNK-OCBO-P566-C02",
+      "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 78,
+      "legacy_text_sha256": "f12e683c25f28cc70b29364bb7e63f7bf5a2375f43ff28464a080bcd03f1c83c",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 3
+    },
+    {
+      "legacy_id": "CHUNK-OCBO-P567-C01",
+      "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 79,
+      "legacy_text_sha256": "a244f553787e3f8b62aac4d6d44aeb28b8112cc279d700d5d41c4361f86f7a3f",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 3
+    },
+    {
+      "legacy_id": "CHUNK-OCBO-P574-C02",
+      "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 86,
+      "legacy_text_sha256": "bca49dcb37e8725097a5faac3df832aba6084403150542bbbe23debdf686b347",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-OCBO-P578-C02",
+      "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 90,
+      "legacy_text_sha256": "a14e39321924f10b51aaa0eda1423925f03ee387f04a10dcf7682e7556b90cf3",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-OCBO-P578-C03",
+      "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 90,
+      "legacy_text_sha256": "222f84f012ab97d5aa1b7b1828b6c4d613eade8dcc28b9aa3b60c29c4f19fa23",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-OCBO-P580-C01",
+      "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 92,
+      "legacy_text_sha256": "6a7a47720120f5590049c14b2b004ca64bbeddb198caac8a4774659136ffb8a0",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 3
+    },
+    {
+      "legacy_id": "CHUNK-OCBO-P580-C02",
+      "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 92,
+      "legacy_text_sha256": "0c5ab87df4d6facaeebe74ff254d17978cce2fbd966c051dad823ec927e6144c",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 3
+    },
+    {
+      "legacy_id": "CHUNK-OCBO-P583-C01",
+      "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 95,
+      "legacy_text_sha256": "fe80582868ec54bb1d14d5c9b6d442e66826c5e07e2654a6202719ef4433f788",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 4
+    },
+    {
+      "legacy_id": "CHUNK-OCBO-P591-C01",
+      "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 103,
+      "legacy_text_sha256": "c07b04c032c75810b387dfddaf638d964f2bdcb24bb242b340483f10447dc16f",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 3
+    },
+    {
+      "legacy_id": "CHUNK-OCBO-P593-C01",
+      "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "pdf_relative_page": 105,
+      "legacy_text_sha256": "94096d6d346f45e41c28693e354dcf88c7a07ceff27700a103ba4065537d341d",
+      "status": "NO_EXACT_FULL_SPAN_IN_CURRENT_CHUNK",
+      "exact_candidates": [],
+      "same_page_candidate_count": 3
+    }
+  ],
+  "benchmark_sha256": "ec91a961df48ea165291a9e5e306de88b2668b42be927922e88f3255f6781054",
+  "legacy_corpus_sha256": "1649d2dba95b8e03a57226364f7294d51d8f009af11c8509a74ecbd8cabba152",
+  "current_corpus_sha256": "a0d996dd178eb681825880381741482001b72da5466b2effcf7b870a610017f3",
+  "labels_changed": false,
+  "mapping_applied": false,
+  "final_inference_started": false,
+  "rule": "NFC + whitespace + case identity comparison; punctuation, numbers and wording preserved. No fuzzy matching, page-wide relabeling or question/answer-based selection.",
+  "interpretation": "An ID rename alone cannot repair incompatible source spans. Exact matches are candidates only, not an applied or manually certified replacement benchmark."
+}

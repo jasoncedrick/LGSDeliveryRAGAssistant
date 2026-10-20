@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Kailan obligado kumuha ng taunang Hot Work Clearance sa BFP ang mga negosyong nagwewelding at nagka-cut ng bakal?"
+  ],
+  "answer": [
+    "Ang mga negosyong nagwewelding at nagka-cut ng bakal ay obligado mag-secure ng Fire Safety Clearance para sa mga hot work operations na kailangan, bilang nabasa sa [S1]. Ang Fire Safety Clearance na ito ay kailangan nang maghanap ng sa BFP (Bureau of Fire Protection) at ang deadlines para sa pagsasakripisyo ng Fire Safety Clearance ay hindi nakalagay sa mga nabatayan. Ang mga detalye tungkol sa proyektong durasyon at iba pang mga impormasyon ay maaaring makukuha sa BFP-CITIZENS-CHARTER-2022.pdf."
+  ],
+  "contexts": [
+    [
+      "LIST. Other service cells are blank in source; blank is not an exemption statement.]\n\nNote: FSCR/FSCCR/FSMR  is required if the building/facilities/structures are \nrequired to install any or combination of the following: \n       1) Wet standpipe system; \n       2) Automatic fire suppression system; and \n       3) Automatic fire detection and alarm system.\nFire Safety Clearance for welding, cutting, and other hot work operations\n(if   required), shall be secured:\n1) \nPer \nProject \nDuration \n– \nfor \nnew \nconstruction \nor \nrenovation\n(during construction)",
+      "is replaced every 5 years during the periodic hydrostatic test and the teardown is done at that time.\nSource Table 7.3.1.1.2, NFPA 10-Standard for Portable Fire Extinguishers, 2007 Edition.\n\nThis product is one of the critical products that are required to undergo product certification under the BPS Product Certification Scheme. The list is downloadable at http://www.bps.dti.gov.ph\nUnder this scheme, the manufacturers and importers of these products are required to apply from the BPS for the:\nPhilippine Standard (PS",
+      "15. Issuance of Certificate of Annual Inspection of Buildings\nA Certificate of Annual Electrical Inspection is issued after conducting an annual inspection of a \nbuilding/structure to ensure that the architectural well-being, structural stability, electrical, \nmechanical sanitation, plumbing, electronics, interior design, and fire protective properties are \nproperly maintained and that the building/structure is not occupied or used for purposes other than \nits intended use.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHigh"
+    ]
+  ],
+  "ground_truth": [
+    "Hot Work Clearances (welding/cutting) must be secured: 1) Per project duration for new construction/renovation applied after fire inspection; or 2) Annually for businesses requiring daily repair or maintenance due to the nature of their operations."
+  ]
+}

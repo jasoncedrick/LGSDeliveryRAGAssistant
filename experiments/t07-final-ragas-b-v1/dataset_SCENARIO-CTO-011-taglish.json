@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Magkano ang business tax rate para sa mga manufacturers na lumagpas sa 6.5 million pesos ang gross sales sa Davao?"
+  ],
+  "answer": [
+    "Wala akong impormasyon bahin sa Citizens' Charter tungkol sa business tax rate para sa mga manufacturers na lumagpas sa 6.5 million pesos ang gross sales. Ang mga impormasyon sa Citizens' Charter tungkol sa business tax rates ay nakakita sa mga retailers at contractors lamang. [S1, S3]"
+  ],
+  "contexts": [
+    [
+      "the total sales and shall be \nsubject to the rates not exceeding one-half (1/2) of the rates prescribed under paragraphs \n(a), (b), and (d) of this Article.\n(d) On Retailers:\nGross Sales/Receipts for the Preceding Year \nRate of Tax Per Annum\nMore than P50,000.00 but not over P400,000.00 \n2.2%\nIn excess of P400,000.00 \n1.21%\nHowever, barangays shall have the exclusive power to levy taxes on stores whose \ngross sales or receipts of the preceding",
+      ", shall exceed Ten Thousand Pesos (P10,000.00) in \naccordance with the following schedule:\n(a) For every Five Thousand Pesos (P5,000.00) worth of real property in the\nPhilippines owned by it during the preceding year based on the valuation used in \nthe payment of real property tax under existing laws, found in the assessment rolls \nof this city where the real property is situated - Two (P2.00) Pesos; and\n(b) For every Five Thousand Pesos (P5,000.00) of gross receipts or earn",
+      "the exclusive power to levy taxes on stores whose \ngross sales or receipts of the preceding calendar year does not exceed Fifty Thousand \nPesos (P 50,000.00) subject to existing laws and regulations.\n(e) On Contractors and other Independent Contractors in accordance with the \n           following schedule:\nGross Sales/Receipts for the Preceding Calendar Year \nAmount of Tax Per\nAnnum\nLess than 50,000.00 \n998.25\n50,000.00 or more but less than 75,000.00 \n1,597.20\n75,000.00 or more but less than 100,"
+    ]
+  ],
+  "ground_truth": [
+    "Manufacturers, assemblers, and processors are subject to graduated fixed taxes ranging from PHP 1,497.38 for gross sales under PHP 50,000 up to PHP 44,240.63 for sales up to PHP 6.5M. Gross sales in excess of PHP 6,500,000.00 are taxed at 46% of 1.0%."
+  ]
+}

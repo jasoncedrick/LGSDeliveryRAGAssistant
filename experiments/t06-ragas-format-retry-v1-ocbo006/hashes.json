@@ -1,0 +1,8 @@
+{
+  "dataset_SCENARIO-OCBO-006-english.json": "7df59e10b67851cfa5d187f947d4d7b28451e812b2a93fdf157f9f45d5bde9fe",
+  "judge_calls.jsonl": "0d0fa3eef89b3377eea0739a5e1e853556bee95b86d601435959d9d4ebdc2211",
+  "protocol.json": "235663a245b122b0ad90a9a957cc5997256990a6c01191652fa657f730974f71",
+  "scores.csv": "726084b8a9e4f5112cf7409f231ac48a30ba4e78b1fdeca755fde893b34a3e5a",
+  "scores.json": "c8a78b6daa59ae94379616a0e4e812d921d2dc501ae2cc91bc26d096e1f0aa60",
+  "summary.json": "3ca795398b6a3e194f2f940c2fbb62b9175bd74654397200e69c7489c32168b7"
+}

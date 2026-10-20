@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What are the required documents to apply for an Occupancy Permit after completing building construction?"
+  ],
+  "answer": [
+    "To apply for an Occupancy Permit after completing building construction, the following documents are required:\n\n1. Application Letter - 1 original [S1]\n\nFor fire extinguishers, the requirements for manufacturers and importers are as follows:\n\nFor manufacturers:\n- Philippine Standard (PS) License [S2]\n\nFor importers:\n- Import Commodity Clearance (ICC) Certificate [S3]\n\nTheir products are subjected to tests based on the requirements of relevant PNS at the BPS Testing Center or DTI-accredited testing laboratories. [S3]\n\nThe color bands of fire extinguishers indicate their type and the specific flammable materials they are intended for. [S2]"
+  ],
+  "contexts": [
+    [
+      "2. Issuance of Occupancy Permit \nAn Occupancy Permit shall be required before any building or structure or portion thereof is used \nor occupied, or the existing use or occupancy classification thereof is changed. \nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; G2G \n– Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Application Letter  \n   1 original",
+      "is replaced every 5 years during the periodic hydrostatic test and the teardown is done at that time.\nSource Table 7.3.1.1.2, NFPA 10-Standard for Portable Fire Extinguishers, 2007 Edition.\n\nThis product is one of the critical products that are required to undergo product certification under the BPS Product Certification Scheme. The list is downloadable at http://www.bps.dti.gov.ph\nUnder this scheme, the manufacturers and importers of these products are required to apply from the BPS for the:\nPhilippine Standard (PS",
+      "importers of these products are required to apply from the BPS for the:\nPhilippine Standard (PS) License (for manufacturers)\nor the\nImport Commodity Clearance (ICC) Certificate (for importers).\nTheir products are subjected to tests based on the requirements of relevant PNS at the BPS Testing Center or DTI-accredited testing laboratories.\n\nKnow your product\nEvery fire extinguisher type has different color bands to distinguish their type. Each type is intended for use for specific flammable materials that are classified into codes:"
+    ]
+  ],
+  "ground_truth": [
+    "Occupancy checklist: application letter (1 original); authorization letter if applicant is not owner (1 original); owner ID with 3 specimen signatures (1 photocopy); Certificate of Occupancy (1 original); Certificate of Completion (1 original); BFP Fire Safety Inspection Certificate (1 original); four-elevation project pictures (front/back/left/right); approved Building Construction, Architectural, Civil/Structural, Sanitary/Plumbing, Electrical and Mechanical installation permits (1 photocopy); approved building-permit plan (1 original).\n\nIf a different professional undertook/was assigned the project, the checklist requires a signed, notarized waiver from the previous professional in charge (1 original). It also lists Structure Images with CAAP clearance and structural survey for actual building height, signed/sealed by a licensed Geodetic Engineer. The authorization-letter source cell says CPDO and the picture source cell says Hired Geodetic Engineer; those unusual source associations are preserved."
+  ]
+}

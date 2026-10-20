@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ka adlaw dapat marehistro ang books of accounts ug resibo sa City Treasurer human mag-file, ug pila ang multa kung ma-late?"
+  ],
+  "answer": [
+    "Based on the provided sources, the Citizens' Charter does not specify a specific number of days for registering books of accounts and receipts with the City Treasurer. However, it does mention that failure to register may result in penalties, but the exact penalty is not specified. [S3] City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 185 | chunk DEV120-CTO-PDF0030-C001\n\nFor the fine or penalty, the information is not explicitly stated in the provided sources. [S3] City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 185 | chunk DEV120-CTO-PDF0030-C001"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "window at CTO \nDistrict Offices.\nand stamp \nbooks/ \nreceipts.\n2.3 Return \nthe \ndocuments \nto the \ntaxpayer.\nSection 422\n–\nKeeping of\nCash Register\nBook and\nRegistration of\nBooks of \nAccounts\n7 Minutes\n2 Minutes\nWindow 17:\nTicket Checker\n(Poblacion)\n-or-\nAssigned\nPersonnel in CTO\nDistricts\nTOTAL:\nAttached \nAnnex - 9 \n39 Minutes\nANNEX – 9\nFailure on the part of any person (natural or juridical) to register in the City Treasurer \ntheir book of accounts, book",
+      "11. Registration of Books of Accounts, Book of Records and Official \nReceipt, Cash Sales, Cash Invoice, Delivery Receipt \nRegistration of Books and Official Receipts of Businesses in Davao City \nOffice or Division \nOffice of the City Treasurer (CTO) – Business Tax \nAssessment Division/ CTO District Offices\nClassification \nSimple\nType of Transaction \nG2B – Government to Business\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Application for Renewal of Mayors\nPermit – 1 original, 1 duplica"
+    ]
+  ],
+  "ground_truth": [
+    "The charter Annex 9 states that failure to register books of accounts, books of records, official receipts, cash sales, cash invoices, delivery receipts and other collection receipts within fifteen (15) working days from filing a new or renewal business-permit application incurs an administrative fine of PHP5,000."
+  ]
+}

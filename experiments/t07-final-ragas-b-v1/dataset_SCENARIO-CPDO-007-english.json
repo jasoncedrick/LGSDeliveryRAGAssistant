@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What are the requirements and fee for validating an Occupancy Permit for buildings 3 storeys and above at CPDO?"
+  ],
+  "answer": [
+    "For validating an Occupancy Permit for buildings 3 storeys and above, the requirements and fee can be found in [S2]. The requirements include:\n\n1. Submission of three sets of civil/architectural plans of the building, duly signed and sealed by a licensed civil engineer/architect. ([S3], DEV120-OCBO-PDF0051-C002)\n2. A sketch/lot plan with vicinity. ([S3], DEV120-OCBO-PDF0051-C002)\n\nPlease note that the validation of the Locational Clearance is issued by the Office of the City Planning & Development Coordinator, specifically the Zoning Enforcement Division. ([S2])\n\nAs for the fee, the Citizens' Charter does not provide specific information on the fee for validating an Occupancy Permit. It is advisable to contact the City Planning and Development Office (CPDO) for the most accurate and up-to-date information on fees."
+  ],
+  "contexts": [
+    [
+      "3. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (2-Storey Buildings and Below and \n1,500 Building Floor Area and Below) \nFor 2-storey buildings and below and for building floor area of 1,500 square meters \nand below only. \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator.  \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nSimple\nType of Trans",
+      "2. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (3-Storey Buildings and Above and \n1,500 Building Floor Area and Above) \nFor 3-storey buildings and above and for building floor area of 1,500 square meters \nand above only.  \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nComplex\nType of Trans",
+      "CHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1.     Sidewalk Enclosure and Occupancy Permit Form \nwith 3 sets of Civil/Architectural Plans of the fence duly \nsigned and sealed by a licensed Civil \nEngineer/Architect  \n  \nNote: Applicant may use an A3 size of paper for the \nstructural design plan signed and sealed by a licensed \nCivil/Structural Engineer\nHired Professionals (All Engineers & \nArchitects)\n2. Sketch/Lot Plan with Vicin"
+    ]
+  ],
+  "ground_truth": [
+    "Validation of Occupancy Permit for buildings 3-storeys and above or floor area of 1,500 sq.m. and above requires approved building plans, approved building permit, Certificate of Occupancy form, locational clearance, and site photos. A PHP 150.00 filing fee is paid to CTO."
+  ]
+}

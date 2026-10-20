@@ -1,0 +1,18 @@
+{
+  "question": [
+    "How can researchers or stakeholders request official land-use data from the CPDO, and what is the processing timeframe?"
+  ],
+  "answer": [
+    "To request official land-use data from the City Planning and Development Office (CPDO), researchers or stakeholders need to submit a letter request, either in hard copy or via email [S1]. The processing timeframe for this transaction is not explicitly stated in the provided sources. However, the general processing time for simple transactions in the City of Davao is 10 working days [S1]. The specific processing time for data request might vary and may need to be inquired directly from the CPDO."
+  ],
+  "contexts": [
+    [
+      "17. Data Request \nA document given by the Office of the City Planning & Development Coordinator \nbased on the letter request. \nOffice or \nDivision\nCity Planning and Development Office (CPDO) / Administrative \nDivision\nClassification \nSimple\nType of \nTransaction\nG2G – Government to Government; G2C – Government to \nCitizen\nWho may avail \nStakeholders or Authorized Representative\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Letter request; hard copy or via email \nApplicant\nCLIENT STEPS \nAGENCY ACTION \nFEES\nTO \nBE \nPA",
+      "mit\nNone \n10 Minutes\nLicensing\nOfficer IV (BB \nOIC), Business\nBureau\n3.7. Release \nBusiness permit \nand documents \nto the client\nNone \n10 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau\n3.8. Request the \nclient to sign in \nthe logbook\nNone \n6 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau\nTOTAL:\nMayor’s\nPermit Fee\nis\nbased on\nthe\nasset size  \nand nature\nof\nbusiness.\n1 Hour and 55 \nMinutes (not\nincluding \nprocessing \ntime required\nfrom\ncompliance to\nRegulatory\nOffices)",
+      "ipt for the current \nyear or quarter so the corresponding taxes can then be assed and collected before any \nbusiness or undertaking is finally terminated."
+    ]
+  ],
+  "ground_truth": [
+    "Requesting official demographic, zoning, or land-use data from CPDO requires a written letter request (hard copy or email). The request is routed via the Document Tracking System, approved by the Department Head, and processed within 2 days, 3 hours."
+  ]
+}

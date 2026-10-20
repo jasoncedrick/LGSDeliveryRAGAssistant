@@ -1,0 +1,6 @@
+{
+  "experiments\\t06-ragas-reviewed-development-v2\\scores.json": "1da8b63329159eeb88035fe42074e952490e3e977fcc37604d15c5122ec37928",
+  "experiments\\t06-ragas-reviewed-development-v2\\judge_calls.jsonl": "bea55f4f05a302f5020091f27194ff32fb1cdc92d396e5ef9fea0f1cf95094df",
+  "experiments\\t07-development-grid-v1\\judge_verdicts.jsonl": "93a68508484d8ba5938003c246e9d64b75da6ca5f37dcab0c4c92b95931834bd",
+  "experiments\\t07-development-grid-v1\\context_precision_grid.json": "cbbb49d793938a147eef0bba0a6c4900125f8a2a42c92f8ddc93a4a639759ec5"
+}

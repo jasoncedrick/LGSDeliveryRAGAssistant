@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What specialized BSP clearances must banks and pawnshops submit when applying for a Davao City business permit?"
+  ],
+  "answer": [
+    "For banks, when applying for a Davao City business permit, they are required to submit a Department of Trade and Industry accreditation, a Land Transportation Office certificate, and a Highway Patrol Group certificate. Additionally, they are subject to the BSP Authority to Operate [S2].\n\nFor pawnshops, the submission of application for registration with the BSP is required prior to starting operations. The renewal of the business permit requires a Certificate of Registration [S1]."
+  ],
+  "contexts": [
+    [
+      "prior to start of operations\nRenewal: required Cert. of Registration\nMotorcycle Rider \nContract With Food Delivery Franchise\nNuisance-Bar/Videoke /  \nRet. of Lumber w/ Machinery \nNew App.: mandatory Brgy. Res\nPawnshops\nNew Application: subject to submission \nof application for reg. with the BSP prior \nto start of operations\nRenewal: Cert. of Registration\nBranches: AO & BSP Clearance\nPesticide / Insecticide / Herbicide\nFood And Drug Administration License, \nCertificate",
+      "Automobile Rebuilder\nDepartment Of Trade And Industry \nAccreditation, Land Transportation Office \nAnd Highway Patrol Group Certificates\nBanks\nNew Application: Subject to BSP \nAuthority to Operate \n  \nRenewal: Required BSP Authority to \nOperate\nBio/Organic Fertilizers \nNotation forever for COR-Bureau of \nAgriculture & Fishery Standards (BAFS)\nBoat Building \nNew Application: Subject to the req.of \nMARINA \nRenewal: required Cert. of Compliance; \nCert. of Phil.Registry\nBuilding Contractor /  General \nEngineering /",
+      "original, 1 photocopy\nDepartment of Labor and Employment (DOLE)\nb.     Boring and Plate Load Test Result/Report \n(if the structure is at least three storeys)  \n2 copies  \nTRANSFERRED TO CONDITIONAL \n \nNote: If applying for an additional storey; submit \nan Affidavit manifesting that the foundation can \ncarry the proposed additional floors. \n2 original\nHired professional (licensed Civil/Geotechnical \nEngineer)\nc.     Structures located along a National \nHighway – DPWH Clearance \n1 original, 1"
+    ]
+  ],
+  "ground_truth": [
+    "Banks require a Bangko Sentral ng Pilipinas (BSP) Authority to Operate for new applications and renewals. Pawnshops, forex dealers, and money remittance entities must submit proof of registration application with the BSP prior to commencement of operations."
+  ]
+}

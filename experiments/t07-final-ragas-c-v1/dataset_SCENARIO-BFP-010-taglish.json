@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Paano makakapag-renew ng FSIC ang isang negosyo kung napasama ito sa negative list o may pending violations sa Fire Code?"
+  ],
+  "answer": [
+    "To renew a business permit for a business that is included in the negative list or has pending violations of the Fire Code, the Fire Safety Inspection Report (FSIC) must still be renewed. However, the renewal of the FSIC may be affected by the existing violations.\n\nReferences:\n[S2] BFP-CITIZENS-CHARTER-2022.pdf | printed page None | chunk DEV120-BFP-PDF0001-C045\n[S3] BFP-CITIZENS-CHARTER-2022.pdf | printed page None | chunk DEV120-BFP-PDF0001-C033"
+  ],
+  "contexts": [
+    [
+      "NEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPANCY\nPERMIT STAGE\nNEW  BUSINESS    \nPERMIT WITHOUT\nVALID FSIC\nISSUED DURING\nOCCUPANCY\nPERMIT STAGE\nRENEWAL OF\nBUSINESS\nPERMIT\nRENEWAL OF\nBUSINESS PERMIT\nWITHOUT VALID FSIC\nOR EXPIRED FSIC/\nWITH EXISTING\nVIOLATION OF THE\nFIRE CODE/INCLUDED \nIN THE NEGATIVE LIST\nA   P   P   L   I   C   A   T   I   O   N",
+      "to its nature of business or operations.\n[REPRESENTATION: Matrix dot shown for: RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST. Other service cells are blank in source; blank is not an exemption statement.]\n\nSend feedback on government services, whether positive or negative, to the Contact Center ng\nBayan via following access channels",
+      "FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST. Other service cells are blank in source; blank is not an exemption statement.]\n\nCopy of Fire Insurance, if any\n[REPRESENTATION: Matrix dot shown for: NEW BUSINESS PERMIT WITH"
+    ]
+  ],
+  "ground_truth": [
+    "Renewals without a valid FSIC or those included in the Negative List must resolve all existing Fire Code violations, settle outstanding penalties, pay the 15% FSIF, and pass a mandatory re-inspection before the FSIC for business renewal is released."
+  ]
+}

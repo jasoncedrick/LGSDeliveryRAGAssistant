@@ -1,0 +1,24 @@
+PUNCTUATION CANDIDATE CONTEXT PRECISION REVIEW
+
+Decision: INCOMPLETE_JUDGING_REQUIRES_FAILURE_REVIEW
+Complete grid: False
+Candidate weights [BM25, dense, dictionary]: [0.5, 0.25, 0.25]
+Candidate K: 3
+Candidate J: 0.8685185184848149
+Baseline J: 0.8685185184830554
+Difference: 1.759481449425948e-12
+
+Objective is the Chapter 3 macro mean over all 15 office-language cells and the unchanged 90 development queries. This is separate from conditional answer-only RAGAS averages.
+
+BFP-002 Taglish fee evidence present in candidate top K: {'DEV120-BFP-PDF0001-C019': False, 'DEV120-BFP-PDF0001-C020': False}
+
+Framework alignment: METHOD_ALIGNMENT.txt
+No serving filter, query-specific routing, section expansion, synthetic source text or held-out tuning was introduced.
+No candidate was deployed or frozen. Further paired generation, coverage review and exact configuration registration are required before any final held-out evaluation.
+
+Limitations:
+Local LLM judge has documented semantic errors; parse success is not human certification.
+Archived normalization is unchanged and retains documented acronym and paraphrasing problems.
+C retains shared static lexical guidance.
+A higher Context Precision objective does not establish complete fee/exception evidence.
+Original source wording ambiguities and detached BFP context associations remain documented.

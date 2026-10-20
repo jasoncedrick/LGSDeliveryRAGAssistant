@@ -1,0 +1,20 @@
+{
+  "question": [
+    "Unsa ang dugang requirements sa OCBO kung 3-storey pataas ang building nga itukod?"
+  ],
+  "answer": [
+    "Sa iyong kahibawan, kung 3-storey pataas ang building nga itukod, ang mga requirements sa Office of the City Building Official (OCBO) sa Davao City ang nakahusay nga:\n\n1. Validation ng Occupancy Permit based sa Integrated Zoning Ordinance (2019-2028) (3-Storey Buildings and Above and 1,500 Building Floor Area and Above) [S1]\n2. Validation ng Locational Clearance issued sa Office ng City Planning & Development Coordinator (CPDO) - Zoning Enforcement Division [S1]\n3. Submit sa OCBO ang mga dokumento nga nakahusay nga:\n   - 1 original copy ng Locational Clearance, kung maawo nga applicable [S4]\n   - 1 original copy ng pictures ng building [S4]\n   - 1 original copy ng Order of Payment [S4]\n   - 1 original copy ng Official Receipt [S4]\n\nReferma: [S1], [S4]"
+  ],
+  "contexts": [
+    [
+      "2. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (3-Storey Buildings and Above and \n1,500 Building Floor Area and Above) \nFor 3-storey buildings and above and for building floor area of 1,500 square meters \nand above only.  \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nComplex\nType of Trans",
+      "OFFICE OF THE CITY BUILDING OFFICIAL\nEXTERNAL SERVICES",
+      "3. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (2-Storey Buildings and Below and \n1,500 Building Floor Area and Below) \nFor 2-storey buildings and below and for building floor area of 1,500 square meters \nand below only. \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator.  \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nSimple\nType of Trans",
+      "(1 \noriginal)\nOffice of the Building Official\n4. Locational Clearance, if applicable (1 \nphotocopy)\nCity Planning and Development Office\n5. Pictures of Building (1 original) \nApplicant\n6. Order of Payment (1 original) \nCity Planning and Development Office\n7. Official Receipt (1 original) \nCity Treasurer's Office\nCLIENT STEPS \nAGENCY ACTION \nFEES\nTO \nBE \nPAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\n1. Submits the \ndocuments.\n1.1 Receives, \nencodes, and routes \napplication from the \nOffice of the Building \nOfficial (OBO)\nNone \n10",
+      "2.Proceed to the \nCity Treasurer’s \nOffice for payment.\n2. Process \nunder City \nTreasurer’s \nOffice\nMayor’s\nPermit Fee is \nbased on the\nasset size\nand nature of\nbusiness\n(paid at the\nCity\nTreasurer’s\nOffice)\nPls. See\nSchedule of\nFees and \nCharges\n9 Minutes \nCity Treasurer’s\nOffice\nEmployees\nSTEP 3: RELEASE\n3. Submit the \nrecommended \napproval of \napplication for new \nbusiness permit, \nofficial receipts and \npertinent \ndocuments. Then \nclaim Business \nPermit, Business \nIdentification Plate \nand Sticker at the"
+    ]
+  ],
+  "ground_truth": [
+    "For construction, addition, or minor repair of structures that are three (3) storeys and above, OCBO enforces mandatory conditional safety submittals: 1) Construction Safety & Health Program (CSHP) approved by the Department of Labor and Employment (DOLE) (1 original, 1 photocopy); and 2) Boring and Plate Load Soil Test Report (2 copies) signed and sealed by a licensed Civil/Geotechnical Engineer. If applying for an additional storey, an Affidavit manifesting that the existing foundation can support the proposed additional floors is required."
+  ]
+}

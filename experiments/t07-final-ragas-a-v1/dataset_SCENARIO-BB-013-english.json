@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What are the requirements for securing an Occupational Permit for regular employees and foreign nationals?"
+  ],
+  "answer": [
+    "For securing an Occupational Permit for regular employees and foreign nationals, the requirements are not explicitly stated in the provided sources. However, the requirements for a regular Filipino applicant can be inferred as follows:\n\n1. [S2] Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf | printed page 105 | chunk DEV120-BB-PDF0066-C002\n   - Access the city's website (city.gov.ph)\n   - Select Create Application for New or Occupational Permit Renewal\n   - Fill out the Online Application Form and upload the required documents enumerated in the checklist\n\nSince the sources do not specify any differences for regular employees and foreign nationals, it is reasonable to assume that the same process applies, but the required documents may vary depending on the individual's immigration status. It is advisable to contact the Business Bureau for more specific information regarding the requirements for foreign nationals.\n\n[S2] Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf | printed page 105 | chunk DEV120-BB-PDF0066-C002"
+  ],
+  "contexts": [
+    [
+      "3.Receive \nOccupational Permit / \nDenied Application\nNote: \n If application is \napproved, proceed to \nhttps://occupationalper\nmit.davaocity.gov.ph/, \nselect Check \nApplication Status, and \ndownload the \nOccupational Permit, or \nproceed to the link \nautomatically sent by \nthe Online \nOccupational Permit \nSystem though e-mail \nor SMS and download \nthe Occupational \nPermit for online \napplicants. Physically \nclaim hard copy of \nOccupational Permit for \nwalk-in applicants.\nIn case of denial, \nreceive returned \ndocuments",
+      "city.gov.p\nh/, select Create \nApplication for New \nor Occupational \nPermit Renewal for \nRenewal, Fill out \nOnline Application \nForm and upload the \nrequired documents \nenumerated in the \nchecklist.\nNote: \n   If the applicant is an \nentertainer, masseur, \nor bar attendant 18-20 \nyears old, or the \napplicant is below 18 \nyears old, he or she \nmust present \nhimself/herself for an \ninterview.\nProcess Proper:\n2.1Receive application \nform and supporting \ndocuments including \nofficial receipt, and \nverify applicant \ninformation.\n2.2. Conduct interview",
+      "nt to \nreapply.\nNone\n14 Minutes \n(Online and\nOnsite)\nOccupational\nPermit\nSection Head\nand\nOccupational\nPermit\nPersonnel\nBusiness \nBureau\nTOTAL:\nPhp125 \nfor new\nand\nupdated \nrenewal;\nPhp\n156.25 for\nlate\nrenewal\n33 Minutes"
+    ]
+  ],
+  "ground_truth": [
+    "An Occupational Permit is required for workers without a Professional Tax Receipt. General requirements: application form, Certificate of Employment, and Official Receipt from CTO (PHP 125.00). Foreigners must submit an Alien Employment Permit from DOLE."
+  ]
+}

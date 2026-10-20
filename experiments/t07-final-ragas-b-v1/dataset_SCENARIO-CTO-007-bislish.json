@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Tagpila ang extraction fee matag cubic meter ug tinuig nga bayad sa quarry sa balas ug bato sa Davao?"
+  ],
+  "answer": [
+    "Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa quarry sa balas ug bato sa Davao tungod sa mga nakapag-aral sa mga source na nakahimo.\n\nHowever, sa Business Bureau's Citizen Charter 2026, mao nga nakahimo ang permit sa quarry, kasama ang sand and gravel permit, kasama sa mga permit na maaahon sa mga commercial activities. Sa S2, nakahimo ang quarry permit kung mas maayo sa 5 hektares, at wala nakahimo ang specific na fee sa quarry sa balas ug bato.\n\nSa kasabuhan, mao nga wala pa nakahimo ang specific na fee sa quarry sa balas ug bato sa Davao City government services sa mga nakahimo na source."
+  ],
+  "contexts": [
+    [
+      "of assessing the corresponding fees shall be \nbased on the following:\nTable II.G.1 On Fixed Cost of Construction Per Sq. Meter\nLOCATION \nGROUP\nAll Cities and \nMunicipalities\nA,B,C,D,E,G,H,I \nF \nJ\nP10,000.00 \nP8,000.00 \nP6,000.00\nConstruction/additional/renovation/alteration of buildings/structures under \nGroup/s and Sub-Divisions shall be assessed as follows:\n3.a Division A-1\nArea in sq.meter \nFee per sq",
+      "Than 5 Hectares, Commercial \nSand And Gravel Permit. If More Than 5 \nHectares, Mines And Geo Sciences \nBureau / Industrial Sand And Gravel/ \nEarthfill Permit\nNew Application: mandatory Mayor’s \nPermit to Quarry\nIndicate the gross capacity of the trucks",
+      "FENCING PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\nMade of masonry, metal, concrete up \nto1.80 meters in height\nPhp 3.00 per linear meter of fraction \nthereof\nIn excess of 1.80 meters in height \nPhp 4.00 per linear meter of fraction \nthereof\nMade of indigenous materials, barbed, \nChicken or"
+    ]
+  ],
+  "ground_truth": [
+    "Under Ordinance No. 0291-17 Section 44, commercial sand and gravel extraction requires a Permit to Quarry from CENRO, an approved Business Permit, and monthly extraction reports. The extraction fee is PHP 30.00 per cubic meter, with an annual fee of PHP 1,500.00 to PHP 3,500.00 based on area size."
+  ]
+}

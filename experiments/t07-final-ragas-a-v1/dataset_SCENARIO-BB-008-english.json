@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What documents are required to amend a business permit due to a change or correction of business name?"
+  ],
+  "answer": [
+    "To amend a business permit due to a change or correction of business name, the following documents are required:\n\n1. Affidavit of Change of Name / Correction of Business Name (notarized) - Single Proprietorship [S3]\n2. SPA (Sole Proprietorship), or Partnership Resolution (Partnership) indicating specific authority and capacity granted to the representative [S3]\n\nThese documents should be notarized by any Notary Public. Additionally, the applicant needs to pay a service fee of Php50.00 for the amendment of the business permit at the City Treasurer’s Office [S2]."
+  ],
+  "contexts": [
+    [
+      "for Change of \nName and / or \nCorrection of \nBusiness Name, \nand order of \npayment to be \npaid at the City \nTreasurer’s \nOffice\n1.1 Assess \nApplication for \nChange of Name \nand / or Correction \nof Business Name\n1.2 Verify and \nEncode Application \nfor Change of \nName and / or \nCorrection of \nBusiness Name\n1.3. Return \npertinent \ndocuments, print \nout application \nform for Change of \nName and / or \nCorrection of \nBusiness Name, \nand issue an order \nof payment to be\nNone \n10 Minutes \nLicensing Officer \nBusiness Bureau",
+      "TOTAL:\nService fee  \nis Php50.00\nfor\nAmendment\nof\nBusiness\nPermit.\n(paid at the\nCity\nTreasurer’s\nOffice)\n2 Hours and\n5 Minutes\nH. Amendment of Business Permit (Change of Name and Correction of\nBusiness Name)\nCLIENT STEPS AGENCY ACTION\nFEES TO \nBE PAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\nSTEP 1: APPLICATION\n1.Submit pertinent \ndocuments and \nReceive pertinent \ndocuments and \napplication form \nfor Change of \nName and / or \nCorrection of \nBusiness Name, \nand order of \npayment to be \npaid",
+      "/ Extrajudicial \nSettlement\nApplicant, notarized by any Notary \nPublic, for Waiver / Settlement.\nAMENDMENT OF BUSINESS PERMIT – CHANGE OF NAME AND CORRECTION \nOF BUSINESS NAME \n1. Affidavit of Change of Name / Correction\nof Business Name (notarized) - Single \nProprietorship\nApplicant, notarized by any Notary Public\n2. \nSPA (Sole Proprietorship), or\nPartnership Resolution (Partnership) \nindicating specific authority and capacity \ngranted to representative,"
+    ]
+  ],
+  "ground_truth": [
+    "Changing or correcting a business name requires a notarized Affidavit of Change of Name/Correction, SPA or Board Resolution, valid ID of representative, birth/marriage certificate if applicable, DTI trade name or amended SEC/CDA registration, and latest Mayor's Permit. A PHP 50.00 amendment fee applies."
+  ]
+}

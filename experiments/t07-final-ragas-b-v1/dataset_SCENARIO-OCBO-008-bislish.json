@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ang bayad sa Demolition Permit matag metro kwadrado sa salog ug sa gitas-on sa building?"
+  ],
+  "answer": [
+    "Sa Demolition Permit, ang bayad sa bawat metro kwadrado sa salog ug sa gitas-on sa building ay P3.00 bilang nabasa sa [S2]. Sa iba pang building systems/frames o portion thereof, ang bayad ay P4.00 bilang nabasa sa iba't ibang mga chunk sa [S2]."
+  ],
+  "contexts": [
+    [
+      "Section 349\nMARKET FEES FOR AMBULANT/TRANSIENT VENDORS\nMarkets\nRate of Fees per \nSquare Meter of \nFraction Thereof\nper Day\nClass A \nP 8.00\nClass B \n6.00\nClass C \n4.00\nClass D \n2.00\nTime \nfor \nPayment \n/ \nPenalties \nfor \nDelinquency. \n- \nThe \nmonthly\nrentals for market stalls shall become due and payable within the first twenty (20) days of \nthe month. Failure to pay the rental within the period required herein shall subject the \nLessee/Occupant to a surcharge of twenty-fi",
+      "DEMOLITION PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\nDESCRIPTION \nFEE\nBuildings in all Groups per sq.  \nmeter floor area\nPhp      3.00\nBuilding Systems/Frames or portion thereof per vertical \nor horizontal  \ndimensions, including fences\nPhp      4.00\nStructures of up to 10.00 meters in height \n  \nEvery meter or portion thereof",
+      "3. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (2-Storey Buildings and Below and \n1,500 Building Floor Area and Below) \nFor 2-storey buildings and below and for building floor area of 1,500 square meters \nand below only. \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator.  \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nSimple\nType of Trans"
+    ]
+  ],
+  "ground_truth": [
+    "Demolition fees under the National Building Code IRR are: PHP 3.00 per sq.m. of floor area for buildings in all groups; PHP 800.00 for structures up to 10m high plus PHP 50.00 per meter in excess; and PHP 3.00 per sq.m. of area to be moved."
+  ]
+}

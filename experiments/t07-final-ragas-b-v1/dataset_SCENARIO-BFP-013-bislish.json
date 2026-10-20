@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Giunsa pagpili sa BFP kung kinsang negosyo ang unahon ug inspeksyon gamit ang risk classification ubos sa JMC?"
+  ],
+  "answer": [
+    "Sa BFP (Bureau of Fire Protection), ang mga negosyo ay maaayos na pagpili sa inspeksyon gamit ang risk classification na nakalalabas sa JMC (Joint Memorandum Circular). Ang JMC ay nakalalabas sa BFP-CITIZENS-CHARTER-2022.pdf sa chunk DEV120-BFP-PDF0001-C008, 9.1.4 ng JMC No. 01 Series of 2021. [S1]"
+  ],
+  "contexts": [
+    [
+      "9.1.4 of JMC No. 01 Series of 2021—To address the lack of personnel of inspection departments and agencies compared to the number of establishments, LGUs are encouraged to use a system of risk classification of various \nbusinesses and adopt an inspection prioritization scheme on this basis, in close coordination with the Department of Health for Sanitary Permits, the BFP for the Fire Safety Inspection Certificate for the issuance of uniform guidelines on \nrisk inspection for specific sectors. (BOSS)\nAGENCY ROW 1\n\nCLIENTS",
+      "232; 8426-0246; 8426-0253 Local 607 or \nthrough the email at: bfpnhq_ias@yahoo.com or ias.nhq@bfp.gov.ph\nHow Complaints are processed\nIn BFP NHQ, complaints may be filed at the Internal Affairs Service (IAS), who will attend to the Client/Customer    \nconcerns by calling into attention the staff/office concerned from the national level down to the city/municipal level.\nIn BFP Regional and Provincial/District Offices, on",
+      "REDIT” nor Recommend any Brand, Store or Distributor of Fire\nExtinguisher and Fire Fighting Equipment\nAs per BFP Memorandum Circular No. 2016-016\nProhibition of BFP Personnel from Engaging in any act of impropriety and/or corruption pertaining to the enforce-\nment and implementation of the Fire Code and providing sanction thereof.\nHow to file a complaint\nTo file a complaint against the BFP or any of its personnel, the Client/Customer should provide the  following details via \nemail or other form of"
+    ]
+  ],
+  "ground_truth": [
+    "Section 9.1.4 encourages LGUs and BFP to adopt a risk classification scheme for business sectors to address personnel shortages, prioritizing high-risk fire establishments for physical inspection while low-risk businesses receive routine post-issuance audits."
+  ]
+}

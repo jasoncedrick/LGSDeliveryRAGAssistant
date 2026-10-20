@@ -1,0 +1,18 @@
+{
+  "question": [
+    "When is a commercial establishment required to secure an annual Hot Work Clearance for welding and cutting operations?"
+  ],
+  "answer": [
+    "The commercial establishment is required to secure an annual Hot Work Clearance for welding and cutting operations during the project duration for new construction or renovation, as stated in [S1]."
+  ],
+  "contexts": [
+    [
+      "LIST. Other service cells are blank in source; blank is not an exemption statement.]\n\nNote: FSCR/FSCCR/FSMR  is required if the building/facilities/structures are \nrequired to install any or combination of the following: \n       1) Wet standpipe system; \n       2) Automatic fire suppression system; and \n       3) Automatic fire detection and alarm system.\nFire Safety Clearance for welding, cutting, and other hot work operations\n(if   required), shall be secured:\n1) \nPer \nProject \nDuration \n– \nfor \nnew \nconstruction \nor \nrenovation\n(during construction)",
+      "15. Issuance of Certificate of Annual Inspection of Buildings\nA Certificate of Annual Electrical Inspection is issued after conducting an annual inspection of a \nbuilding/structure to ensure that the architectural well-being, structural stability, electrical, \nmechanical sanitation, plumbing, electronics, interior design, and fire protective properties are \nproperly maintained and that the building/structure is not occupied or used for purposes other than \nits intended use.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHigh",
+      "Pesos or more, or who is required by law to file an income tax \nreturn shall pay an annual community tax of Five (P5.00) Pesos and an annual additional \ntax of One Peso (P1.00) for every One Thousand Pesos (P1,000.00) of income \nregardless of whether from business, exercise of profession or from property which in no \ncase shall exceed Five Thousand Pesos (P5,000.00).\nIn the case of husband and wife, the additional tax herein imposed shall be based \nupon the total property owned by them and the total gross receip"
+    ]
+  ],
+  "ground_truth": [
+    "Hot Work Clearances (welding/cutting) must be secured: 1) Per project duration for new construction/renovation applied after fire inspection; or 2) Annually for businesses requiring daily repair or maintenance due to the nature of their operations."
+  ]
+}

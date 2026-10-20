@@ -1,0 +1,246 @@
+{
+  "overall": {
+    "n": 60,
+    "valid": 52,
+    "invalid": 8,
+    "TP": 23,
+    "TN": 26,
+    "FP": 3,
+    "FN": 0,
+    "correct_over_all_controls": 0.8166666666666667,
+    "raw_FP_including_invalid": 4,
+    "raw_FN_including_invalid": 0,
+    "failure_types": {
+      "QUOTE_NOT_IN_CONTEXT": 8
+    }
+  },
+  "by_office_language": {
+    "Bureau of Fire Protection|english": {
+      "n": 4,
+      "valid": 3,
+      "invalid": 1,
+      "TP": 1,
+      "TN": 2,
+      "FP": 0,
+      "FN": 0,
+      "correct_over_all_controls": 0.75,
+      "raw_FP_including_invalid": 0,
+      "raw_FN_including_invalid": 0,
+      "failure_types": {
+        "QUOTE_NOT_IN_CONTEXT": 1
+      }
+    },
+    "Bureau of Fire Protection|taglish": {
+      "n": 4,
+      "valid": 4,
+      "invalid": 0,
+      "TP": 2,
+      "TN": 2,
+      "FP": 0,
+      "FN": 0,
+      "correct_over_all_controls": 1.0,
+      "raw_FP_including_invalid": 0,
+      "raw_FN_including_invalid": 0,
+      "failure_types": {}
+    },
+    "Bureau of Fire Protection|bislish": {
+      "n": 4,
+      "valid": 4,
+      "invalid": 0,
+      "TP": 2,
+      "TN": 2,
+      "FP": 0,
+      "FN": 0,
+      "correct_over_all_controls": 1.0,
+      "raw_FP_including_invalid": 0,
+      "raw_FN_including_invalid": 0,
+      "failure_types": {}
+    },
+    "Business Bureau|english": {
+      "n": 4,
+      "valid": 3,
+      "invalid": 1,
+      "TP": 1,
+      "TN": 2,
+      "FP": 0,
+      "FN": 0,
+      "correct_over_all_controls": 0.75,
+      "raw_FP_including_invalid": 0,
+      "raw_FN_including_invalid": 0,
+      "failure_types": {
+        "QUOTE_NOT_IN_CONTEXT": 1
+      }
+    },
+    "Business Bureau|taglish": {
+      "n": 4,
+      "valid": 3,
+      "invalid": 1,
+      "TP": 1,
+      "TN": 2,
+      "FP": 0,
+      "FN": 0,
+      "correct_over_all_controls": 0.75,
+      "raw_FP_including_invalid": 0,
+      "raw_FN_including_invalid": 0,
+      "failure_types": {
+        "QUOTE_NOT_IN_CONTEXT": 1
+      }
+    },
+    "Business Bureau|bislish": {
+      "n": 4,
+      "valid": 4,
+      "invalid": 0,
+      "TP": 2,
+      "TN": 2,
+      "FP": 0,
+      "FN": 0,
+      "correct_over_all_controls": 1.0,
+      "raw_FP_including_invalid": 0,
+      "raw_FN_including_invalid": 0,
+      "failure_types": {}
+    },
+    "City Planning and Development Office|english": {
+      "n": 4,
+      "valid": 3,
+      "invalid": 1,
+      "TP": 1,
+      "TN": 1,
+      "FP": 1,
+      "FN": 0,
+      "correct_over_all_controls": 0.5,
+      "raw_FP_including_invalid": 1,
+      "raw_FN_including_invalid": 0,
+      "failure_types": {
+        "QUOTE_NOT_IN_CONTEXT": 1
+      }
+    },
+    "City Planning and Development Office|taglish": {
+      "n": 4,
+      "valid": 3,
+      "invalid": 1,
+      "TP": 1,
+      "TN": 1,
+      "FP": 1,
+      "FN": 0,
+      "correct_over_all_controls": 0.5,
+      "raw_FP_including_invalid": 1,
+      "raw_FN_including_invalid": 0,
+      "failure_types": {
+        "QUOTE_NOT_IN_CONTEXT": 1
+      }
+    },
+    "City Planning and Development Office|bislish": {
+      "n": 4,
+      "valid": 4,
+      "invalid": 0,
+      "TP": 2,
+      "TN": 1,
+      "FP": 1,
+      "FN": 0,
+      "correct_over_all_controls": 0.75,
+      "raw_FP_including_invalid": 1,
+      "raw_FN_including_invalid": 0,
+      "failure_types": {}
+    },
+    "City Treasurer's Office|english": {
+      "n": 4,
+      "valid": 4,
+      "invalid": 0,
+      "TP": 2,
+      "TN": 2,
+      "FP": 0,
+      "FN": 0,
+      "correct_over_all_controls": 1.0,
+      "raw_FP_including_invalid": 0,
+      "raw_FN_including_invalid": 0,
+      "failure_types": {}
+    },
+    "City Treasurer's Office|taglish": {
+      "n": 4,
+      "valid": 4,
+      "invalid": 0,
+      "TP": 2,
+      "TN": 2,
+      "FP": 0,
+      "FN": 0,
+      "correct_over_all_controls": 1.0,
+      "raw_FP_including_invalid": 0,
+      "raw_FN_including_invalid": 0,
+      "failure_types": {}
+    },
+    "City Treasurer's Office|bislish": {
+      "n": 4,
+      "valid": 4,
+      "invalid": 0,
+      "TP": 2,
+      "TN": 2,
+      "FP": 0,
+      "FN": 0,
+      "correct_over_all_controls": 1.0,
+      "raw_FP_including_invalid": 0,
+      "raw_FN_including_invalid": 0,
+      "failure_types": {}
+    },
+    "Office of the City Building Official|english": {
+      "n": 4,
+      "valid": 2,
+      "invalid": 2,
+      "TP": 0,
+      "TN": 2,
+      "FP": 0,
+      "FN": 0,
+      "correct_over_all_controls": 0.5,
+      "raw_FP_including_invalid": 0,
+      "raw_FN_including_invalid": 0,
+      "failure_types": {
+        "QUOTE_NOT_IN_CONTEXT": 2
+      }
+    },
+    "Office of the City Building Official|taglish": {
+      "n": 4,
+      "valid": 4,
+      "invalid": 0,
+      "TP": 2,
+      "TN": 2,
+      "FP": 0,
+      "FN": 0,
+      "correct_over_all_controls": 1.0,
+      "raw_FP_including_invalid": 0,
+      "raw_FN_including_invalid": 0,
+      "failure_types": {}
+    },
+    "Office of the City Building Official|bislish": {
+      "n": 4,
+      "valid": 3,
+      "invalid": 1,
+      "TP": 2,
+      "TN": 1,
+      "FP": 0,
+      "FN": 0,
+      "correct_over_all_controls": 0.75,
+      "raw_FP_including_invalid": 1,
+      "raw_FN_including_invalid": 0,
+      "failure_types": {
+        "QUOTE_NOT_IN_CONTEXT": 1
+      }
+    }
+  },
+  "original_baseline": {
+    "n": 60,
+    "valid": 60,
+    "invalid_or_error": 0,
+    "correct_valid": 32,
+    "accuracy_on_valid": 0.5333333333333333,
+    "correct_over_all_controls": 0.5333333333333333,
+    "TP": 29,
+    "FN": 1,
+    "TN": 3,
+    "FP": 27,
+    "raw_false_positives_including_invalid_quotes": 27,
+    "raw_false_negatives_including_invalid_quotes": 1,
+    "failure_types": {}
+  },
+  "held_out_accessed": false,
+  "freeze": false,
+  "limits": "Same assistant-labeled development controls reused; adaptive diagnostics, not independent expert or held-out certification."
+}

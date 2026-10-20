@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What specialized BSP clearances must banks and pawnshops submit when applying for a Davao City business permit?"
+  ],
+  "answer": [
+    "For banks, when applying for a Davao City business permit, they are required to submit an application for registration with the Bangko Sentral ng Pilipinas (BSP) prior to the start of operations [S2].\n\nFor pawnshops, they are also required to submit an application for registration with the BSP prior to the start of operations [S2]."
+  ],
+  "contexts": [
+    [
+      "Automobile Rebuilder\nDepartment Of Trade And Industry \nAccreditation, Land Transportation Office \nAnd Highway Patrol Group Certificates\nBanks\nNew Application: Subject to BSP \nAuthority to Operate \n  \nRenewal: Required BSP Authority to \nOperate\nBio/Organic Fertilizers \nNotation forever for COR-Bureau of \nAgriculture & Fishery Standards (BAFS)\nBoat Building \nNew Application: Subject to the req.of \nMARINA \nRenewal: required Cert. of Compliance; \nCert. of Phil.Registry\nBuilding Contractor /  General \nEngineering /",
+      "prior to start of operations\nRenewal: required Cert. of Registration\nMotorcycle Rider \nContract With Food Delivery Franchise\nNuisance-Bar/Videoke /  \nRet. of Lumber w/ Machinery \nNew App.: mandatory Brgy. Res\nPawnshops\nNew Application: subject to submission \nof application for reg. with the BSP prior \nto start of operations\nRenewal: Cert. of Registration\nBranches: AO & BSP Clearance\nPesticide / Insecticide / Herbicide\nFood And Drug Administration License, \nCertificate",
+      "2. Issuance of Business Permit \nIt shall be unlawful for any person or entity to conduct or engage in any business, \ntrade or occupation within the territorial jurisdiction of the City of Davao for which a \npermit is required for the proper supervision and enforcement of existing laws and \nordinances without first having secured a permit therefore from the City Mayor and \npaying the necessary fees to the City Treasurer.\nThe Business Permit is granted for a period of not more than one (1) year and shall \nexpire on the thirty-first (31st) of December"
+    ]
+  ],
+  "ground_truth": [
+    "Banks require a Bangko Sentral ng Pilipinas (BSP) Authority to Operate for new applications and renewals. Pawnshops, forex dealers, and money remittance entities must submit proof of registration application with the BSP prior to commencement of operations."
+  ]
+}

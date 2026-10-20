@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ang bayad sa Demolition Permit matag metro kwadrado sa salog ug sa gitas-on sa building?"
+  ],
+  "answer": [
+    "Sa Demolition Permit, ang bayad sa building sa salog ug sa gitas-on ay matag-araw sa Php 3.00 per square meter floor area bilang nabasa sa [S3]. Para sa building systems/frames o portion thereof per vertical o horizontal dimensions, including fences, ang bayad ay Php 4.00 bilang nabasa sa iba't-ibang pagkakataon sa [S3]."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "10. Issuance of Demolition Permit\nA Demolition Permit shall be required prior to the demolition of any building or structure.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; \nG2G – Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1.     Demolition Form with 3 sets of \nCivil/Architectural Plans of the fence duly signed",
+      "DEMOLITION PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\nDESCRIPTION \nFEE\nBuildings in all Groups per sq.  \nmeter floor area\nPhp      3.00\nBuilding Systems/Frames or portion thereof per vertical \nor horizontal  \ndimensions, including fences\nPhp      4.00\nStructures of up to 10.00 meters in height \n  \nEvery meter or portion thereof"
+    ]
+  ],
+  "ground_truth": [
+    "Demolition fees under the National Building Code IRR are: PHP 3.00 per sq.m. of floor area for buildings in all groups; PHP 800.00 for structures up to 10m high plus PHP 50.00 per meter in excess; and PHP 3.00 per sq.m. of area to be moved."
+  ]
+}

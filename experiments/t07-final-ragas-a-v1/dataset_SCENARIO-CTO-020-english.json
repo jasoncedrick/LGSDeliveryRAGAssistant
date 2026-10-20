@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What are the calibration and sealing fees for commercial weighing scales and fuel dispensing pumps, and what penalty applies to unsealed units?"
+  ],
+  "answer": [
+    "The Citizens' Charter does not provide specific information about the calibration and sealing fees for commercial weighing scales and fuel dispensing pumps. However, it does mention that a payment is required for the assessment and calibration of these instruments. [S1, S2]\n\nRegarding penalties for unsealed units, the Charter does not explicitly state the penalty for unsealed commercial weighing scales and fuel dispensing pumps. [S1, S2]\n\nFor more detailed information about fees and penalties, it is recommended to contact the Office of the City Treasurer (CTO) directly."
+  ],
+  "contexts": [
+    [
+      "9. Sealing and Testing of Weights and Measures (For Weight and \nMeasure Instruments That Cannot be Presented at the City Treasurer’s \nOffice Due to Size, Weight, Quantity or Form – Newly Opened Business \nEstablishments) \nAssessment and Calibration Result issued to taxpayers for payment and sealing of Weight \nand Measure instruments in the field \nOffice or Division \nOffice of the City Treasurer (CTO) – Business Tax \nAssessment Division/ District Office\nClassification \nComplex\nType of Transaction \nG2C – Government to",
+      "8. Sealing and Testing of Weights and Measures (For Weight and \nMeasure Instruments Physically Presented at the Business Tax \nAssessment Division/CTO District Offices) \nAssessment and Calibration Result issued to taxpayers for payment and sealing of Weight \nand Measure instruments \nOffice or Division \nOffice of the City Treasurer (CTO) – Business Tax \nAssessment Division/ District Office\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1.",
+      "5.2 Prepare \nand attach \nsticker to OP\nAdm. Aide IV\n-or-\nAssigned\nPersonnel (CTO\nDistricts)\n5.3 Release \nstickers to \nfield inspector \nand advise \nthe same to \nsign in the \nlogbook\nRevenue\nCollection Clerk I\n-or-\nAssigned\nPersonnel (CTO\nDistricts)\n6. Present \ninstrument to the \nfield inspector for \nsealing, Client \nsigns the \ncalibration form to \nacknowledged the \nsticker sealed to \nthe instruments\n6. Sealed the \ninstrument \nand sign the \nCalibration \nResult Form \nand seals the \nweight and \nmeasure \ninstrument\nNone \n15"
+    ]
+  ],
+  "ground_truth": [
+    "Weights and measures testing fees are: scales up to 30 kg = PHP 80.00; scales 30-300 kg = PHP 160.00; scales over 3,000 kg = PHP 400.00. Sealing gasoline/diesel pumps is PHP 200.00 per pump. Operating unsealed instruments incurs a 500% surcharge penalty."
+  ]
+}

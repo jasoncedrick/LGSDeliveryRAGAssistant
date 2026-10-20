@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang karagdagang requirements ng OCBO kapag ang itatayong gusali ay may 3 floors pataas?"
+  ],
+  "answer": [
+    "[S3] Based on the information from OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf, printed page 512, chunk DEV120-OCBO-PDF0024-C002, there are no additional requirements specified for a building with 3 floors when applying for a building permit with the Office of the City Building Official (OCBO). However, the total processing time for a building permit application is 8 days, 3 hours, and 10 minutes. [S3]"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "mit Request \nLetter with all \nnecessary documents\n1.1 Received \nLetter Request \nwith \nrequirements  \n \n \n1.2 Forward \nRequest to \nAdmin Division\nNone \n3 Hours\n3 Hours\nAdministrative Service\nOfficer – OCBO\nStrategic Intelligence\nOfficer – OCBO\nRecords Custodian –\nOCBO",
+      "Day\nMechanical Engineer\n– OCBO\nAdministrative Officer\nTechnical Assistant –\nOCBO\nTOTAL:\n*Please\nrefer \nbelow\n8 Days, 3\nHours, and 10\nMinutes"
+    ]
+  ],
+  "ground_truth": [
+    "Conditional requirements state: construction/minor repair of buildings 3 storeys and above requires Construction Safety & Health Program, 1 original and 1 photocopy, with DOLE listed under Where to Secure. Boring and Plate Load Test Result/Report is listed if the structure is at least three storeys, 2 copies, with a licensed Civil/Geotechnical Engineer listed. For an additional storey, submit an affidavit that the foundation can carry the proposed additional floors, 2 originals."
+  ]
+}

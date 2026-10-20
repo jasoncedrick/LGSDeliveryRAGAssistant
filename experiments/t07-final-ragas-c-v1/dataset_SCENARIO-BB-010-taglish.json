@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Anong permit at security clearance ang kailangan kapag mag-oorganisa ng fun-run o motorcade sa Davao?"
+  ],
+  "answer": [
+    "Ang permit at ang security clearance na kailangan kapag mag-oorganisa ng fun-run o motorcade sa Davao ay ang Business Permit (private agency) (organizer) mula sa Business Bureau at ang Security Clearance mula sa Public Safety and Security Office. [S1, S2]"
+  ],
+  "contexts": [
+    [
+      "SP Ordinance (1 original)\n4. Barangay Resolution for barangay events (1 original)\n5. Security Clearance from Public Safety and Security Office\n6. Business Permit (private agency) (organizer)\n7. Detailed Plan/Floor Plan (For Exhibits)\n8. Affidavit of Undertaking to strictly follow recommendations.\nSCHEDULE OF FEES\nMeetings, Incentives, Conference, Sports Events and Exhibits - Php500.00/Day\nRecorrida - Php150/Day\nSampling - Php300/Day\nMotorcade - Ph",
+      "jurisdiction of Davao City.\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\nGENERAL REQUIREMENTS\n1. Security Clearance from Public Safety and \nSecurity Office\nPublic Safety and Security \nCommand Center\n2. Business Permit (private agency) (organizer) \nBusiness Bureau\n3. Affidavit of Undertaking to strictly follow \nrecommendations.\nClient\nCONCERTS, SHOWS OR EVENTS IN OPEN AREAS\n1. Barangay Resolution \nBarangay Hall\nMAHJONG\n1. Barangay Clearance \nBarangay Hall\n2. Cedula \nCity Treasurer’s Office\nREC",
+      "2. Issuance of Business Permit \nIt shall be unlawful for any person or entity to conduct or engage in any business, \ntrade or occupation within the territorial jurisdiction of the City of Davao for which a \npermit is required for the proper supervision and enforcement of existing laws and \nordinances without first having secured a permit therefore from the City Mayor and \npaying the necessary fees to the City Treasurer.\nThe Business Permit is granted for a period of not more than one (1) year and shall \nexpire on the thirty-first (31st) of December"
+    ]
+  ],
+  "ground_truth": [
+    "A Special Mayor's Permit is required for events involving groups of people such as concerts, bazaars, fun-runs, and motorcades. General requirements include Public Safety and Security Command Center clearance, organizer business permit, and an Affidavit of Undertaking."
+  ]
+}

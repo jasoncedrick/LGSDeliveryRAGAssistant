@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga rekisitos para makakuha ug Occupancy Permit sa OCBO human mahuman ang pagtukod sa edipisyo?"
+  ],
+  "answer": [
+    "Ang mga rekisito para makakuha ug Occupancy Permit sa OCBO sa pagtukod sa edipisyo ay nakalist sa mga ibabaw na source blocks:\n\n[S1]\n1. Sidewalk Enclosure and Occupancy Permit Form (3 sets) with 3 sets of Civil/Architectural Plans of the fence duly signed and sealed by a licensed Civil Engineer/Architect.\n   Note: Ang applicant maoy magamit sa A3 size of paper para sa structural design plan na signed at sealed ng licensed Civil/Structural Engineer.\n\n[S3]\n1. Sidewalk Enclosure\n\n[S2]\nA. FOR NEW APPLICATION\nA.1. Notarized Application (1 original, 1 photocopy)\nA.2. Signage Plan with\n\nAng mga rekisito sa Occupancy Permit na nakalist sa mga source blocks ay maoy nakahimo sa pagtukod sa edipisyo. Ang mga rekisito sa Sidewalk Enclosure ay kinahanglan para makakuha ug Occupancy Permit."
+  ],
+  "contexts": [
+    [
+      "CHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1.     Sidewalk Enclosure and Occupancy Permit Form \nwith 3 sets of Civil/Architectural Plans of the fence duly \nsigned and sealed by a licensed Civil \nEngineer/Architect  \n  \nNote: Applicant may use an A3 size of paper for the \nstructural design plan signed and sealed by a licensed \nCivil/Structural Engineer\nHired Professionals (All Engineers & \nArchitects)\n2. Sketch/Lot Plan with Vicin",
+      "11. Issuance of Sign Permit\nA Sign Permit shall be required before any sign or signboard shall be constructed or erected.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; G2G \n– Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\nA. FOR NEW APPLICATION \nA.1. Notarized Application \n – 1 original, 1 photocopy \n \nA.2. Signage Plan with",
+      "8. Issuance of Sidewalk Enclosure and Occupancy Permit\nA Sidewalk Enclosure and Occupancy Permit shall be required prior to or during the processing of \nthe building permit or before any enclosure shall be made.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to \nBusiness; G2G – Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1.     Sidewalk Enclosure"
+    ]
+  ],
+  "ground_truth": [
+    "Occupancy checklist: application letter (1 original); authorization letter if applicant is not owner (1 original); owner ID with 3 specimen signatures (1 photocopy); Certificate of Occupancy (1 original); Certificate of Completion (1 original); BFP Fire Safety Inspection Certificate (1 original); four-elevation project pictures (front/back/left/right); approved Building Construction, Architectural, Civil/Structural, Sanitary/Plumbing, Electrical and Mechanical installation permits (1 photocopy); approved building-permit plan (1 original).\n\nIf a different professional undertook/was assigned the project, the checklist requires a signed, notarized waiver from the previous professional in charge (1 original). It also lists Structure Images with CAAP clearance and structural survey for actual building height, signed/sealed by a licensed Geodetic Engineer. The authorization-letter source cell says CPDO and the picture source cell says Hired Geodetic Engineer; those unusual source associations are preserved."
+  ]
+}

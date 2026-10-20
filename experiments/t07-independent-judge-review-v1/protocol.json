@@ -1,0 +1,30 @@
+{
+  "purpose": "Independent usefulness review of existing adaptive development controls; not final employee ratings or held-out evaluation.",
+  "control_count": 60,
+  "distinct_groups": 5,
+  "blinding": "Model outputs, previous labels and original case IDs are omitted from the review form. Separate key retained. Prior reports may be known, so do not claim formal double blinding.",
+  "sources": {
+    "v2_after_format_retry": {
+      "path": "experiments\\context-precision-calibration-v2-format-retry\\results.with_retries.json",
+      "sha256": "d7aa61998516d8110eccc34b41bec9627cc427d8dae1111a541ce56d375788f6"
+    },
+    "v3_structured": {
+      "path": "experiments\\context-precision-calibration-v3-structured\\results.jsonl",
+      "sha256": "8926a8f4b884c9b048800e35b34311f7230a84437e812e3c3c610cdb892d3783"
+    },
+    "v4_source_span": {
+      "path": "experiments\\context-precision-source-span-validation-v4\\calibration.jsonl",
+      "sha256": "cf594bd23949424cf528377c9c958fd266b5afd05e294944d315b1ab9070c17d"
+    }
+  },
+  "source_controls_sha256": "3c3248c706dc80c85e46a48cf925222cca960ffddd34c592f5ba6b1d7f3efdbb",
+  "references_sha256": "ee15440a4643968034d4a6451b999a4fadddb2399f6b882acd25943ff66d6281",
+  "packet_snapshot_sha256": "e5d7a944626fe6065c6798ea8346e6d6f1fed0b792ddc27b8a7f37b73aae5ecd",
+  "private_key_sha256": "ed46f30c476f9c19595c28f92b664d55c10bc883d9f2fe4bc102c7564f0a850a",
+  "rule": "Partial evidence for a requested fact is useful; topic or service heading alone is not. Preserve source ambiguity and use uncertain where needed.",
+  "scoring": "Report validity, disagreement and uncertainty separately. No automatic judge adoption, no replacement of missing grid scores, no selection or freeze.",
+  "methodology": "20260923.pdf PDF33-34: development objective, leakage prevention and freeze before held-out; main Thesis Tracker T07.",
+  "provenance": "This independent check is a recommended validation response to observed judge failures, not an additional literal manuscript requirement.",
+  "held_out_accessed": false,
+  "app_defaults_changed": false
+}

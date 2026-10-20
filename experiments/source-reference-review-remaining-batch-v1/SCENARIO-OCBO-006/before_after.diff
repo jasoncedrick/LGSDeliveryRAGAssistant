@@ -1,0 +1,22 @@
+--- group.before.json
++++ group.candidate.json
+@@ -6,9 +6,10 @@
+     "DEV120-OCBO-PDF0103-C001",
+     "DEV120-OCBO-PDF0103-C002",
+     "DEV120-OCBO-PDF0104-C001",
+-    "DEV120-OCBO-PDF0104-C002"
++    "DEV120-OCBO-PDF0104-C002",
++    "DEV120-OCBO-PDF0103-C003"
+   ],
+-  "ground_truth_reference_answer": "To secure a Certified True Copy (CTC) of a Building Permit or related building documents from the OCBO Records Division, the applicant must submit: 1) Request Letter; 2) Photocopy of the Building Permit or reference details; 3) Photocopy of valid ID of owner with 3 specimen signatures; 4) Notarized SPA and processor's valid ID if represented; and 5) Original Affidavit of Loss if the original permit was lost. The statutory fee is PHP 50.00 per document (1 copy), paid at the City Treasurer's Office, with a standard turnaround time of 2 Days, 1 Hour, and 19 Minutes.",
++  "ground_truth_reference_answer": "For a Certified True Copy, submit request letter; photocopy of Building Permit and other related documents; owner valid-ID photocopy with 3 signatures; if not owner, processor valid-ID photocopy with 3 signatures and original SPA; if lost, original Affidavit of Loss. The checklist does not offer reference details as a substitute for the photocopy.\n\nPay PHP50 per document (1 copy) at the City Treasurer’s Office. The printed TOTAL is 2 Days, 1 Hour, and 19 Minutes. Preserve this as the source-listed total, not an independently verified sum: listed steps include two separate 3-hour entries plus 2 days and other minutes.",
+   "queries": {
+     "english": "What is the fee and requirement checklist to request a Certified True Copy of a lost Building Permit at OCBO?",
+     "taglish": "Magkano ang bayad at ano ang requirements para kumuha ng Certified True Copy ng nawalang Building Permit sa OCBO?",
+@@ -18,5 +19,5 @@
+     "CHUNK-OCBO-P591-C01",
+     "CHUNK-OCBO-P592-C01"
+   ],
+-  "mapping_status": "PROVISIONAL_EXACT_SPAN_MAPPING"
++  "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED"
+ }

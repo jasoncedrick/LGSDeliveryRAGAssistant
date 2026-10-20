@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Magkano ang bayad at anong requirements ang kailangan para kumuha ng Certified True Copy ng Building Permit sa records ng OCBO?"
+  ],
+  "answer": [
+    "Wala akong impormasyon bahin sa Citizens' Charter tungkol sa bayad at requirements para kumuha ng Certified True Copy ng Building Permit sa records ng OCBO.\n\n[S3] City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf | printed page 684 | chunk DEV120-CPDO-PDF0055-C001\nsa ibang mga procedures ang nakakita tungkol sa bayad at requirements para sa iba pang mga permit, pero wala pong nakatanggap ng impormasyon tungkol sa Certified True Copy ng Building Permit."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "application to \nAdmin Division \nfor release\nNone \n10 Minutes\nZoning\nOfficer IV \nCPDO\n3.9 Admin \nDivision updates \ndocument \ntracking system \nand routes to \nreceiving/releasi\nng personnel\nNone \n10 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\n4. Clients claim the \nLocational \nClearance\n4. \nReceiving/Releasi\nng personnel \nreleases \ndocuments to \nclients\nNone \n10 Minutes\nActing\nAdministrative\nOfficer  \nCPDO",
+      "Department \nHead for initial \napproval and \nOfficial \nRepresentativ\ne of the City \nMayor for the \nUEESZ for \nfinal signature\nZoning\nOfficer IV \nCPDO\n6.8 Furnishes \nthe Committee \nMembers copy \nof the MOM \nvia email\nNone \n5 Minutes\nZoning\nOfficer IV\nCPDO\nTOTAL:\nProcessi\nng Fee:\nPHP\n1,500.00\n30 Days, 3 \nHours, and \n45 Minutes"
+    ]
+  ],
+  "ground_truth": [
+    "Obtaining a Certified True Copy of building documents requires a request letter, photocopy of building permit, owner valid ID with 3 signatures (or SPA if representative), and an Affidavit of Loss if the original is lost. The fee is PHP 50.00 per document copy."
+  ]
+}

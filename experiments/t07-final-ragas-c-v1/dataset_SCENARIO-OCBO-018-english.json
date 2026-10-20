@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What electrical fees are assessed on standby emergency generators, transformers, and commercial UPS installations?"
+  ],
+  "answer": [
+    "The electrical fees for standby emergency generators, transformers, and commercial UPS installations are computed based on the Total Transformer/UPS/Generator Capacity. The fees are determined according to the following schedule as stated in [S2] under Section 4.e of the Electrical Fees:\n\n- Over 300 kVA to 1,500 kVA: 720.00 + 1.00/kVA\n- Over 1,500 kVA to 6,000 kVA: 1,920.00 + 0.50/kVA\n- Over 6,000 kVA: 4,170.00 + 0.25/kVA\n\nThe Note in [S2] specifies that the Total Transformer/UPS/Generator Capacity shall include all transformers, UPS, and generators which are owned/installed by the owner/applicant as shown in the electrical plans and specifications."
+  ],
+  "contexts": [
+    [
+      "es \nshall be charged to cover all inspection trips during construction.\nii. Annual Inspection Fees are the same as in Section 4.e.\nSection 4.e Electrical Fees:\nThe following schedule shall be used for computing electrical fees in residential, \ninstitutional, commercial and industrial structures:\na. Total Connected Load (kVA) Fee\n5 kVA or less \nP 200.00\nOver 5 kVA to 50 kVA \n200.00 + P 20.00/kVA\nOver 50 kVA to 300 kVA \n1,100.00 + 10.00/kVA\nOver 300",
+      "Over 300 kVA to 1,500 kVA \n720.00 + 1.00/kVA\nOver 1,500 kVA to 6,000 kVA \n1,920.00 + 0.50/kVA\nOver 6,000 kVA \n4,170.00 + 0.25/kVA\nNOTE: Total Transformer/UPS/Generator Capacity shall include all transformer, UPS \nand generators which are owned/installed by the owner/applicant as shown in the \nelectrical plans and specifications.\nc. Pole/Attachment Location Plan Permit\nPower Supply Pole Location",
+      "Issuance\nResidential \nP 15.00 \nP 15.00\nCommercial/Industrial \n60.00 \n36.00\nInstitutional \n30.00 \n12.00\ne. Formula for Computation of Fees\nThe Total Electrical Fees shall be the sum of Sections 4.a. to 4.d. of this Rule.\nf. Forfeiture of Fees\nIf the electrical work or installation is found not in conformity with the minimum safety \nrequirements of the\nPhilippine Electrical Codes and the Electrical Engineering Law (RA 7920), and the \nOwner fails to perform corrective actions within the reasonable time provided by the \nBuilding Official"
+    ]
+  ],
+  "ground_truth": [
+    "Transformer, UPS, and generator capacity fees under Section 4.b are: 5 kVA or less = PHP 40.00; over 5 to 50 kVA = PHP 40 + PHP 4/kVA; over 50 to 300 kVA = PHP 220 + PHP 2/kVA; over 300 to 1,500 kVA = PHP 720 + PHP 1/kVA; over 6,000 kVA = PHP 4,170 + PHP 0.25/kVA."
+  ]
+}

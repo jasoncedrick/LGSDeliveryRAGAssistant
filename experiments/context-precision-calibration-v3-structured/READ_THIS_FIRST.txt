@@ -1,0 +1,23 @@
+STRUCTURED OUTPUT CALIBRATION: SMALL TEST BEFORE ANY FULL GRID
+
+Why this exists
+The 1,560-pair v2 grid completed, but 110 outputs remained invalid after its one allowed format retry. None of the 68 grid conditions has a complete objective. This new experiment tests a separate evaluator request format; it is not an extra retry added to that completed grid.
+
+Single intervention
+Pass a JSON schema in Ollama's format parameter. Keep the existing v2 usefulness prompt, model digest, decoding settings, 60 controls, verbatim-evidence validator and single format-only retry. No control's expected answer is supplied to the model. Negative evidence arrays and actual quote fidelity still require independent validation; valid JSON alone is not success.
+Official technical reference: https://docs.ollama.com/capabilities/structured-outputs
+
+Methodology
+20260923.pdf PDF33-34: development-only tuning, Context Precision objective, freeze before held-out A/B/C evaluation. Main Thesis Tracker T07 requires executing and exporting the frozen three-architecture comparison. This diagnostic does not meet that final requirement on its own.
+The manuscript hash and archived authoritative tracker tab were checked before the experiment. App defaults, dictionary, retriever, corpus and old scores remain unchanged.
+
+Predeclared screening gate
+All 60 controls must have valid outputs after at most one format-only retry, at least 55 must agree with existing control labels, false positives must be at most four and false negatives zero. These are development screening criteria, not statutory correctness or independent validation. Same assistant-labeled controls are reused adaptively across only five groups.
+Even if screening passes, review a predeclared stress test of prior invalid and valid grid outputs before adopting the evaluator. No full grid is automatically started. Valid wrong judgments are never retried.
+
+Progress
+Get-Content .\experiments\context-precision-calibration-v3-structured\console.log -Tail 10 -Wait
+Read summary.json after 60/60. It records screening_gate_passed, semantic errors and invalid outputs separately.
+Results and full requests/responses are in results.jsonl. Existing v2 traces are preserved.
+
+No manual action is needed during this calibration. No held-out questions are read and nothing is frozen or pushed.

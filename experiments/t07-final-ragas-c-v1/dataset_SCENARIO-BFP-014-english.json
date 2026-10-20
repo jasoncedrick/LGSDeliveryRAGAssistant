@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What is the role of the Fire Code Assessor (FCA) and what is the maximum time standard for computing fire code fees?"
+  ],
+  "answer": [
+    "The Fire Code Assessor (FCA) is responsible for assessing fire code fees. The maximum time standard for computing fire code fees is not explicitly stated in the provided sources. However, the processing time for the one-time assessment through sharing of information with OSCP/BOSS is a maximum of ten (10) minutes [S1]. For local stations with a Memorandum of Agreement (MOA) with the Local Government Units (LGUs), the fire code fees/taxes are collected by the LGUs, but the sources do not provide information about the time standard for computing these fees [S2, S3]."
+  ],
+  "contexts": [
+    [
+      "applicant queuing number and issue OPS.\nFor OSCP/BOSS : Backroom operation with\nOSCP/BOSS for one-time assessment thru\nsharing of information\n\nPROCESSING TIME: maximum of ten (10) minutes\n\nPERSON RESPONSIBLE: Fire Code Assessor\n(FCA)\n\nAGENCY ROW 3\n\nCLIENTS STEP: 3. Present the OPS and pay the corresponding\nFire Code Fees indicated in the OPS.\nUpon receipt of the OR, proceed to releasing\nwindow to claim the stub by presenting the OR.\nNote: Re",
+      "proceed to releasing\nwindow to claim the stub by presenting the OR.\nNote: Releasing date and time of FSEC is\nindicated in the claim stub.\n\nAGENCY ACTION: 3. Collect the payment and issue Official\nReceipt (OR)\nFor OSCP/BOSS : Backroom operation with\nOSCP/BOSS for one-time payment thru\nco-location\nFor Local Stations with MOA with the LGUs, fire\ncode fees/taxes shall be collected by the LGUs\n\nPROCESSING TIME: maximum of ten (10) minutes\n\nPERSON",
+      "xes shall be collected by the LGUs\n\nPROCESSING TIME: maximum of ten (10) minutes\n\nPERSON RESPONSIBLE: Fire Code Collecting Agent (FCCA)\n\nAGENCY ROW 4\n\nCLIENTS STEP: [shared client-step 3 cell; source wording appears in agency row 3]\n\nAGENCY ACTION: 4.Check copy of OR, record in the official\nlogbook/log sheet the details of the payment\n(e.g. OR number amount paid, etc.) and\nrelease the claim stub.\n\nPROCESSING TIME: maximum of five (5) minutes\n\nPERSON"
+    ]
+  ],
+  "ground_truth": [
+    "The Fire Code Assessor (FCA) verifies documents, computes applicable fire code taxes and fees, and releases the Order of Payment Slip (OPS) to the applicant within a prescribed processing time of not more than 10 minutes."
+  ]
+}

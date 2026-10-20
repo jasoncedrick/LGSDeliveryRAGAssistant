@@ -1,0 +1,665 @@
+[
+  {
+    "id": "NF-01",
+    "group": "occupancy-receipt",
+    "language": "English",
+    "query": "For an occupancy permit, how long does OCBO take to encode and receive documents?",
+    "response": {
+      "status": "SUCCESS",
+      "term_id": null,
+      "clarification_prompt": null,
+      "normalized_query": "How long does OCBO take to encode and receive documents for an occupancy permit?",
+      "diagnostics": {
+        "raw_model_output": "How long does OCBO take to encode and receive documents for an occupancy permit?",
+        "done": true,
+        "done_reason": "stop",
+        "validation_errors": []
+      },
+      "injected_terms": [
+        "occupancy permit"
+      ],
+      "resolved_terms": [],
+      "tokens_generated": 19,
+      "eval_duration_ms": 358.1
+    },
+    "translation_api_calls": 1,
+    "automatic_failures": [],
+    "automatic_checks_passed": true,
+    "english_wording_preserved": false,
+    "semantic_human_review": "pending; regex matches cannot prove faithful translation"
+  },
+  {
+    "id": "NF-02",
+    "group": "occupancy-receipt",
+    "language": "Bislish",
+    "query": "Para sa occupancy permit, pila ka oras ang pag-encode ug pagdawat sa mga dokumento sa OCBO?",
+    "response": {
+      "status": "SUCCESS",
+      "term_id": null,
+      "clarification_prompt": null,
+      "normalized_query": "How much time does it take to encode and receive the documents for an occupancy permit at the OCBO?",
+      "diagnostics": {
+        "raw_model_output": "How much time does it take to encode and receive the documents for an occupancy permit at the OCBO?",
+        "done": true,
+        "done_reason": "stop",
+        "validation_errors": []
+      },
+      "injected_terms": [
+        "occupancy permit"
+      ],
+      "resolved_terms": [],
+      "tokens_generated": 24,
+      "eval_duration_ms": 453.331
+    },
+    "translation_api_calls": 1,
+    "automatic_failures": [],
+    "automatic_checks_passed": true,
+    "english_wording_preserved": null,
+    "semantic_human_review": "pending; regex matches cannot prove faithful translation"
+  },
+  {
+    "id": "NF-03",
+    "group": "occupancy-receipt",
+    "language": "Taglish",
+    "query": "Para sa occupancy permit, gaano katagal ang pag-encode at pagtanggap ng mga dokumento sa OCBO?",
+    "response": {
+      "status": "SUCCESS",
+      "term_id": null,
+      "clarification_prompt": null,
+      "normalized_query": "How long does the encoding and receiving of documents for an occupancy permit take at the OCBO?",
+      "diagnostics": {
+        "raw_model_output": "How long does the encoding and receiving of documents for an occupancy permit take at the OCBO?",
+        "done": true,
+        "done_reason": "stop",
+        "validation_errors": []
+      },
+      "injected_terms": [
+        "occupancy permit"
+      ],
+      "resolved_terms": [],
+      "tokens_generated": 22,
+      "eval_duration_ms": 533.131999
+    },
+    "translation_api_calls": 1,
+    "automatic_failures": [],
+    "automatic_checks_passed": true,
+    "english_wording_preserved": null,
+    "semantic_human_review": "pending; regex matches cannot prove faithful translation"
+  },
+  {
+    "id": "NF-04",
+    "group": "locational-three-storeys",
+    "language": "English",
+    "query": "For CPDO locational clearance for a three-storey building, how many building-plan sets are required?",
+    "response": {
+      "status": "SUCCESS",
+      "term_id": null,
+      "clarification_prompt": null,
+      "normalized_query": "How many building-plan sets are required for a CPDO locational clearance for a three-storey building?",
+      "diagnostics": {
+        "raw_model_output": "How many building-plan sets are required for a CPDO locational clearance for a three-storey building?",
+        "done": true,
+        "done_reason": "stop",
+        "validation_errors": []
+      },
+      "injected_terms": [
+        "locational clearance"
+      ],
+      "resolved_terms": [],
+      "tokens_generated": 25,
+      "eval_duration_ms": 476.862
+    },
+    "translation_api_calls": 1,
+    "automatic_failures": [],
+    "automatic_checks_passed": true,
+    "english_wording_preserved": false,
+    "semantic_human_review": "pending; regex matches cannot prove faithful translation"
+  },
+  {
+    "id": "NF-05",
+    "group": "locational-three-storeys",
+    "language": "Bislish",
+    "query": "Para sa CPDO locational clearance sa tulo ka andana nga building, pila ka sets sa building plans ang kinahanglan?",
+    "response": {
+      "status": "SUCCESS",
+      "term_id": null,
+      "clarification_prompt": null,
+      "normalized_query": "How many sets of building plans are required for a three-storey building's locational clearance from the CPDO?",
+      "diagnostics": {
+        "raw_model_output": "How many sets of building plans are required for a three-storey building's locational clearance from the CPDO?",
+        "done": true,
+        "done_reason": "stop",
+        "validation_errors": []
+      },
+      "injected_terms": [
+        "locational clearance"
+      ],
+      "resolved_terms": [],
+      "tokens_generated": 27,
+      "eval_duration_ms": 645.684
+    },
+    "translation_api_calls": 1,
+    "automatic_failures": [],
+    "automatic_checks_passed": true,
+    "english_wording_preserved": null,
+    "semantic_human_review": "pending; regex matches cannot prove faithful translation"
+  },
+  {
+    "id": "NF-06",
+    "group": "locational-three-storeys",
+    "language": "Taglish",
+    "query": "Para sa CPDO locational clearance ng tatlong palapag na building, ilang sets ng building plans ang kailangan?",
+    "response": {
+      "status": "SUCCESS",
+      "term_id": null,
+      "clarification_prompt": null,
+      "normalized_query": "How many sets of building plans are required for the CPDO locational clearance of three floors?",
+      "diagnostics": {
+        "raw_model_output": "How many sets of building plans are required for the CPDO locational clearance of three floors?",
+        "done": true,
+        "done_reason": "stop",
+        "validation_errors": []
+      },
+      "injected_terms": [
+        "locational clearance"
+      ],
+      "resolved_terms": [],
+      "tokens_generated": 21,
+      "eval_duration_ms": 434.688
+    },
+    "translation_api_calls": 1,
+    "automatic_failures": [],
+    "automatic_checks_passed": true,
+    "english_wording_preserved": null,
+    "semantic_human_review": "pending; regex matches cannot prove faithful translation"
+  },
+  {
+    "id": "NF-07",
+    "group": "renewal-representative",
+    "language": "English",
+    "query": "For business permit renewal, what authority document does a represented sole proprietor need?",
+    "response": {
+      "status": "SUCCESS",
+      "term_id": null,
+      "clarification_prompt": null,
+      "normalized_query": "What authority document does a represented sole proprietor need for business permit renewal?",
+      "diagnostics": {
+        "raw_model_output": "What authority document does a represented sole proprietor need for business permit renewal?",
+        "done": true,
+        "done_reason": "stop",
+        "validation_errors": []
+      },
+      "injected_terms": [],
+      "resolved_terms": [],
+      "tokens_generated": 17,
+      "eval_duration_ms": 430.503
+    },
+    "translation_api_calls": 1,
+    "automatic_failures": [],
+    "automatic_checks_passed": true,
+    "english_wording_preserved": false,
+    "semantic_human_review": "pending; regex matches cannot prove faithful translation"
+  },
+  {
+    "id": "NF-08",
+    "group": "renewal-representative",
+    "language": "Bislish",
+    "query": "Sa renewal sa business permit, unsang dokumento sa awtoridad ang kinahanglan kung naay representante ang sole proprietor?",
+    "response": {
+      "status": "SUCCESS",
+      "term_id": null,
+      "clarification_prompt": null,
+      "normalized_query": "What document from the authority is required during the renewal of a business permit if a sole proprietor has a representative?",
+      "diagnostics": {
+        "raw_model_output": "What document from the authority is required during the renewal of a business permit if a sole proprietor has a representative?",
+        "done": true,
+        "done_reason": "stop",
+        "validation_errors": []
+      },
+      "injected_terms": [],
+      "resolved_terms": [],
+      "tokens_generated": 25,
+      "eval_duration_ms": 612.012
+    },
+    "translation_api_calls": 1,
+    "automatic_failures": [],
+    "automatic_checks_passed": true,
+    "english_wording_preserved": null,
+    "semantic_human_review": "pending; regex matches cannot prove faithful translation"
+  },
+  {
+    "id": "NF-09",
+    "group": "renewal-representative",
+    "language": "Taglish",
+    "query": "Sa renewal ng business permit, anong dokumento ng awtoridad ang kailangan kung may kinatawan ang sole proprietor?",
+    "response": {
+      "status": "SUCCESS",
+      "term_id": null,
+      "clarification_prompt": null,
+      "normalized_query": "What document from the authority is required during the renewal of a business permit if the sole proprietor has a representative?",
+      "diagnostics": {
+        "raw_model_output": "What document from the authority is required during the renewal of a business permit if the sole proprietor has a representative?",
+        "done": true,
+        "done_reason": "stop",
+        "validation_errors": []
+      },
+      "injected_terms": [],
+      "resolved_terms": [],
+      "tokens_generated": 25,
+      "eval_duration_ms": 589.072
+    },
+    "translation_api_calls": 1,
+    "automatic_failures": [],
+    "automatic_checks_passed": true,
+    "english_wording_preserved": null,
+    "semantic_human_review": "pending; regex matches cannot prove faithful translation"
+  },
+  {
+    "id": "NF-10",
+    "group": "hog-fee",
+    "language": "English",
+    "query": "What is the City Treasurer fee for washing of hogs?",
+    "response": {
+      "status": "SUCCESS",
+      "term_id": null,
+      "clarification_prompt": null,
+      "normalized_query": "What is the City Treasurer's fee for hog washing?",
+      "diagnostics": {
+        "raw_model_output": "What is the City Treasurer's fee for hog washing?",
+        "done": true,
+        "done_reason": "stop",
+        "validation_errors": []
+      },
+      "injected_terms": [],
+      "resolved_terms": [],
+      "tokens_generated": 16,
+      "eval_duration_ms": 402.027
+    },
+    "translation_api_calls": 1,
+    "automatic_failures": [],
+    "automatic_checks_passed": true,
+    "english_wording_preserved": false,
+    "semantic_human_review": "pending; regex matches cannot prove faithful translation"
+  },
+  {
+    "id": "NF-11",
+    "group": "hog-fee",
+    "language": "Bislish",
+    "query": "Pila ang bayad sa City Treasurer para sa paghugas sa mga baboy?",
+    "response": {
+      "status": "SUCCESS",
+      "term_id": null,
+      "clarification_prompt": null,
+      "normalized_query": "How much is the monetary settlement of assessed regulatory fees for washing pigs at the City Treasurer?",
+      "diagnostics": {
+        "raw_model_output": "How much is the monetary settlement of assessed regulatory fees for washing pigs at the City Treasurer?",
+        "done": true,
+        "done_reason": "stop",
+        "validation_errors": []
+      },
+      "injected_terms": [
+        "bayad"
+      ],
+      "resolved_terms": [],
+      "tokens_generated": 24,
+      "eval_duration_ms": 585.238
+    },
+    "translation_api_calls": 1,
+    "automatic_failures": [],
+    "automatic_checks_passed": true,
+    "english_wording_preserved": null,
+    "semantic_human_review": "pending; regex matches cannot prove faithful translation"
+  },
+  {
+    "id": "NF-12",
+    "group": "hog-fee",
+    "language": "Taglish",
+    "query": "Magkano ang bayad sa City Treasurer para sa paghuhugas ng mga baboy?",
+    "response": {
+      "status": "SUCCESS",
+      "term_id": null,
+      "clarification_prompt": null,
+      "normalized_query": "What is the monetary settlement for the washing of pigs at the City Treasurer's office?",
+      "diagnostics": {
+        "raw_model_output": "What is the monetary settlement for the washing of pigs at the City Treasurer's office?",
+        "done": true,
+        "done_reason": "stop",
+        "validation_errors": []
+      },
+      "injected_terms": [
+        "bayad"
+      ],
+      "resolved_terms": [],
+      "tokens_generated": 23,
+      "eval_duration_ms": 530.606
+    },
+    "translation_api_calls": 1,
+    "automatic_failures": [
+      "missing_concept:fee_question"
+    ],
+    "automatic_checks_passed": false,
+    "english_wording_preserved": null,
+    "semantic_human_review": "pending; regex matches cannot prove faithful translation"
+  },
+  {
+    "id": "NF-13",
+    "group": "working-days-condition",
+    "language": "English",
+    "query": "For business permit renewal, does the processing time use working days or calendar days?",
+    "response": {
+      "status": "SUCCESS",
+      "term_id": null,
+      "clarification_prompt": null,
+      "normalized_query": "For business permit renewal, does the processing time use working days or calendar days?",
+      "diagnostics": {
+        "raw_model_output": "For business permit renewal, does the processing time use working days or calendar days?",
+        "done": true,
+        "done_reason": "stop",
+        "validation_errors": []
+      },
+      "injected_terms": [],
+      "resolved_terms": [],
+      "tokens_generated": 18,
+      "eval_duration_ms": 380.034
+    },
+    "translation_api_calls": 1,
+    "automatic_failures": [],
+    "automatic_checks_passed": true,
+    "english_wording_preserved": true,
+    "semantic_human_review": "pending; regex matches cannot prove faithful translation"
+  },
+  {
+    "id": "NF-14",
+    "group": "working-days-condition",
+    "language": "Bislish",
+    "query": "Sa renewal sa business permit, working days ba o calendar days ang processing time?",
+    "response": {
+      "status": "SUCCESS",
+      "term_id": null,
+      "clarification_prompt": null,
+      "normalized_query": "In the renewal of a business permit, is the processing time working days or calendar days?",
+      "diagnostics": {
+        "raw_model_output": "In the renewal of a business permit, is the processing time working days or calendar days?",
+        "done": true,
+        "done_reason": "stop",
+        "validation_errors": []
+      },
+      "injected_terms": [],
+      "resolved_terms": [],
+      "tokens_generated": 20,
+      "eval_duration_ms": 489.552
+    },
+    "translation_api_calls": 1,
+    "automatic_failures": [],
+    "automatic_checks_passed": true,
+    "english_wording_preserved": null,
+    "semantic_human_review": "pending; regex matches cannot prove faithful translation"
+  },
+  {
+    "id": "NF-15",
+    "group": "working-days-condition",
+    "language": "Taglish",
+    "query": "Sa renewal ng business permit, working days ba o calendar days ang processing time?",
+    "response": {
+      "status": "SUCCESS",
+      "term_id": null,
+      "clarification_prompt": null,
+      "normalized_query": "In the renewal of a business permit, is the processing time working days or calendar days?",
+      "diagnostics": {
+        "raw_model_output": "In the renewal of a business permit, is the processing time working days or calendar days?",
+        "done": true,
+        "done_reason": "stop",
+        "validation_errors": []
+      },
+      "injected_terms": [],
+      "resolved_terms": [],
+      "tokens_generated": 20,
+      "eval_duration_ms": 470.948
+    },
+    "translation_api_calls": 1,
+    "automatic_failures": [],
+    "automatic_checks_passed": true,
+    "english_wording_preserved": null,
+    "semantic_human_review": "pending; regex matches cannot prove faithful translation"
+  },
+  {
+    "id": "NF-16",
+    "group": "two-storey-not-three",
+    "language": "English",
+    "query": "For locational clearance, what requirements apply to a two-storey building, not a three-storey building?",
+    "response": {
+      "status": "SUCCESS",
+      "term_id": null,
+      "clarification_prompt": null,
+      "normalized_query": "What are the requirements for a two-storey building, not a three-storey building, for locational clearance?",
+      "diagnostics": {
+        "raw_model_output": "What are the requirements for a two-storey building, not a three-storey building, for locational clearance?",
+        "done": true,
+        "done_reason": "stop",
+        "validation_errors": []
+      },
+      "injected_terms": [
+        "locational clearance"
+      ],
+      "resolved_terms": [],
+      "tokens_generated": 27,
+      "eval_duration_ms": 600.486
+    },
+    "translation_api_calls": 1,
+    "automatic_failures": [],
+    "automatic_checks_passed": true,
+    "english_wording_preserved": false,
+    "semantic_human_review": "pending; regex matches cannot prove faithful translation"
+  },
+  {
+    "id": "NF-17",
+    "group": "two-storey-not-three",
+    "language": "Bislish",
+    "query": "Para sa locational clearance, unsang requirements para sa duha ka andana nga building, dili tulo ka andana?",
+    "response": {
+      "status": "SUCCESS",
+      "term_id": null,
+      "clarification_prompt": null,
+      "normalized_query": "What are the requirements for a locational clearance for two-storey buildings, not three-storey buildings?",
+      "diagnostics": {
+        "raw_model_output": "What are the requirements for a locational clearance for two-storey buildings, not three-storey buildings?",
+        "done": true,
+        "done_reason": "stop",
+        "validation_errors": []
+      },
+      "injected_terms": [
+        "locational clearance"
+      ],
+      "resolved_terms": [],
+      "tokens_generated": 25,
+      "eval_duration_ms": 537.093
+    },
+    "translation_api_calls": 1,
+    "automatic_failures": [],
+    "automatic_checks_passed": true,
+    "english_wording_preserved": null,
+    "semantic_human_review": "pending; regex matches cannot prove faithful translation"
+  },
+  {
+    "id": "NF-18",
+    "group": "two-storey-not-three",
+    "language": "Taglish",
+    "query": "Para sa locational clearance, anong requirements para sa dalawang palapag na building, hindi tatlong palapag?",
+    "response": {
+      "status": "SUCCESS",
+      "term_id": null,
+      "clarification_prompt": null,
+      "normalized_query": "What are the requirements for a two-story building (not three-story) locational clearance?",
+      "diagnostics": {
+        "raw_model_output": "What are the requirements for a two-story building (not three-story) locational clearance?",
+        "done": true,
+        "done_reason": "stop",
+        "validation_errors": []
+      },
+      "injected_terms": [
+        "locational clearance"
+      ],
+      "resolved_terms": [],
+      "tokens_generated": 22,
+      "eval_duration_ms": 528.109
+    },
+    "translation_api_calls": 1,
+    "automatic_failures": [
+      "missing_concept:two",
+      "missing_concept:three"
+    ],
+    "automatic_checks_passed": false,
+    "english_wording_preserved": null,
+    "semantic_human_review": "pending; regex matches cannot prove faithful translation"
+  },
+  {
+    "id": "NF-19",
+    "group": "dictionary-conflict-19",
+    "language": "Mixed",
+    "query": "Unsay kinahanglan para sa resibo?",
+    "response": {
+      "status": "FALLBACK_TRIGGERED",
+      "term_id": "DICT-CTO-042",
+      "clarification_prompt": "Did you mean [Option A: Official Receipt (OR) from City Treasurer for tax payment] or [Option B: Registering merchant sales receipts and books of accounts]?",
+      "normalized_query": null,
+      "injected_terms": [
+        "resibo"
+      ],
+      "resolved_terms": [],
+      "tokens_generated": 0,
+      "eval_duration_ms": 0.0
+    },
+    "translation_api_calls": 0,
+    "automatic_failures": [],
+    "automatic_checks_passed": true,
+    "english_wording_preserved": null,
+    "semantic_human_review": "pending; regex matches cannot prove faithful translation"
+  },
+  {
+    "id": "NF-20",
+    "group": "dictionary-conflict-20",
+    "language": "Mixed",
+    "query": "Magkano ang sedula?",
+    "response": {
+      "status": "FALLBACK_TRIGGERED",
+      "term_id": "DICT-BRGY-105",
+      "clarification_prompt": "Did you mean [Option A: Individual Community Tax Certificate (Cedula)] or [Option B: Corporate Community Tax Certificate for registered corporations]?",
+      "normalized_query": null,
+      "injected_terms": [
+        "sedula"
+      ],
+      "resolved_terms": [],
+      "tokens_generated": 0,
+      "eval_duration_ms": 0.0
+    },
+    "translation_api_calls": 0,
+    "automatic_failures": [],
+    "automatic_checks_passed": true,
+    "english_wording_preserved": null,
+    "semantic_human_review": "pending; regex matches cannot prove faithful translation"
+  },
+  {
+    "id": "NF-21",
+    "group": "dictionary-conflict-21",
+    "language": "Mixed",
+    "query": "What are the requirements for barangay clearance?",
+    "response": {
+      "status": "FALLBACK_TRIGGERED",
+      "term_id": "DICT-BRGY-101",
+      "clarification_prompt": "Did you mean [Option A: Barangay Business Clearance integrated into eBOSS] or [Option B: Individual Barangay Clearance for employment or residency]?",
+      "normalized_query": null,
+      "injected_terms": [
+        "barangay clearance"
+      ],
+      "resolved_terms": [],
+      "tokens_generated": 0,
+      "eval_duration_ms": 0.0
+    },
+    "translation_api_calls": 0,
+    "automatic_failures": [],
+    "automatic_checks_passed": true,
+    "english_wording_preserved": null,
+    "semantic_human_review": "pending; regex matches cannot prove faithful translation"
+  },
+  {
+    "id": "NF-22",
+    "group": "underspecified-22",
+    "language": "English",
+    "query": "What documents do I need for clearance?",
+    "response": {
+      "status": "SUCCESS",
+      "term_id": null,
+      "clarification_prompt": null,
+      "normalized_query": "What documents are required for clearance?",
+      "diagnostics": {
+        "raw_model_output": "What documents are required for clearance?",
+        "done": true,
+        "done_reason": "stop",
+        "validation_errors": []
+      },
+      "injected_terms": [],
+      "resolved_terms": [],
+      "tokens_generated": 9,
+      "eval_duration_ms": 272.812
+    },
+    "translation_api_calls": 1,
+    "automatic_failures": [],
+    "automatic_checks_passed": true,
+    "english_wording_preserved": false,
+    "semantic_human_review": "pending; regex matches cannot prove faithful translation"
+  },
+  {
+    "id": "NF-23",
+    "group": "underspecified-23",
+    "language": "English",
+    "query": "How long does OCBO take?",
+    "response": {
+      "status": "SUCCESS",
+      "term_id": null,
+      "clarification_prompt": null,
+      "normalized_query": "How long does the Office of the City Building Official take?",
+      "diagnostics": {
+        "raw_model_output": "How long does the Office of the City Building Official take?",
+        "done": true,
+        "done_reason": "stop",
+        "validation_errors": []
+      },
+      "injected_terms": [],
+      "resolved_terms": [],
+      "tokens_generated": 13,
+      "eval_duration_ms": 373.315
+    },
+    "translation_api_calls": 1,
+    "automatic_failures": [],
+    "automatic_checks_passed": true,
+    "english_wording_preserved": false,
+    "semantic_human_review": "pending; regex matches cannot prove faithful translation"
+  },
+  {
+    "id": "NF-24",
+    "group": "underspecified-24",
+    "language": "English",
+    "query": "How much is the permit fee?",
+    "response": {
+      "status": "SUCCESS",
+      "term_id": null,
+      "clarification_prompt": null,
+      "normalized_query": "What is the permit fee?",
+      "diagnostics": {
+        "raw_model_output": "What is the permit fee?",
+        "done": true,
+        "done_reason": "stop",
+        "validation_errors": []
+      },
+      "injected_terms": [],
+      "resolved_terms": [],
+      "tokens_generated": 7,
+      "eval_duration_ms": 219.127
+    },
+    "translation_api_calls": 1,
+    "automatic_failures": [],
+    "automatic_checks_passed": true,
+    "english_wording_preserved": false,
+    "semantic_human_review": "pending; regex matches cannot prove faithful translation"
+  }
+]

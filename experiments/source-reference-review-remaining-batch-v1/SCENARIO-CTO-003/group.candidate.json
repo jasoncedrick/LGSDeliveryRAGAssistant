@@ -1,0 +1,21 @@
+{
+  "group_id": "SCENARIO-CTO-003",
+  "pillar": "City Treasurer's Office",
+  "split": "development",
+  "ground_truth_chunk_ids": [
+    "DEV120-CTO-PDF0036-C001",
+    "DEV120-CTO-PDF0036-C002"
+  ],
+  "ground_truth_reference_answer": "Annex11 states Basic Real Property Tax is 1.5% of assessed value and the additional Special Education Fund levy is 1% of assessed value. Their arithmetic sum is 2.5% of assessed value; this sum is derived from the two stated rates.",
+  "queries": {
+    "english": "What are the tax rates for the Basic Real Property Tax and Special Education Fund levy in Davao City?",
+    "taglish": "Magkano ang porsyento ng Basic Real Property Tax at Special Education Fund sa Davao City?",
+    "bislish": "Pila ang porsyento sa amilyar sa Basic Real Property Tax ug SEF nga gasingilin sa City Treasurer?"
+  },
+  "legacy_ground_truth_chunk_ids": [
+    "CHUNK-CTO-P190-C01",
+    "CHUNK-CTO-P191-C01",
+    "CHUNK-CTO-P191-C02"
+  ],
+  "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED"
+}

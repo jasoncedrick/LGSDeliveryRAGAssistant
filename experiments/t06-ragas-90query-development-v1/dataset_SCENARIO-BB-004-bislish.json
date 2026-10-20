@@ -1,0 +1,20 @@
+{
+  "question": [
+    "Kinsa ang kailangan mukuha ug Occupational Permit, pila ang bayad, ug pila ang multa kung ma-late ug renew pagkahuman sa January 31?"
+  ],
+  "answer": [
+    "Ang kailangan mukuha nga Occupational Permit ay mga trabahante o empleyado nga wala'y valid na Professional Tax Receipt (PTR). Ang bayad sa Occupational Permit ay Php125 para sa bag-ong ug updated renewal, at Php156.25 para sa late renewal. Ang multa kung ma-late ang renewal pagkahuman sa January 31 ay 25%.\n\n[S1, S2, S3, S4]"
+  ],
+  "contexts": [
+    [
+      "4. Occupational Permit\nOccupational Permit is issued to any worker or employee who is not a holder of a validly \nissued Professional Tax Receipts, whether working on temporary and permanent basis. \nOccupational Permit is renewed annually on or before January 31. Late renewal is \nimposed a penalty of 25%. \nOffice or Division \nCity Mayor's Office – Permits & Licenses Division\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail\nAny employee or worker who is a Filipino citizen",
+      "nt to \nreapply.\nNone\n14 Minutes \n(Online and\nOnsite)\nOccupational\nPermit\nSection Head\nand\nOccupational\nPermit\nPersonnel\nBusiness \nBureau\nTOTAL:\nPhp125 \nfor new\nand\nupdated \nrenewal;\nPhp\n156.25 for\nlate\nrenewal\n33 Minutes",
+      "checklist of \nrequirements to \napplicant, and pay the \namount specified in the \norder of payment to the \nCity Treasurer’s Office\n(also provided online), \nand Order of Payment\nPhp156.25\nfor late\nrenewal to \n(Payment \nto the City \nTreasurer’\ns Office)\nBusiness \nBureau\nProcess Proper:\n2. Duly fill-out \napplication form and \nsubmit required \ndocuments including \nofficial receipt (walk-\nin) or Login to \nhttps://occupationalp\nermit.davaocity.gov.p\nh/, select Create \nApplication for New \nor Occupational \nPermit",
+      "city.gov.p\nh/, select Create \nApplication for New \nor Occupational \nPermit Renewal for \nRenewal, Fill out \nOnline Application \nForm and upload the \nrequired documents \nenumerated in the \nchecklist.\nNote: \n   If the applicant is an \nentertainer, masseur, \nor bar attendant 18-20 \nyears old, or the \napplicant is below 18 \nyears old, he or she \nmust present \nhimself/herself for an \ninterview.\nProcess Proper:\n2.1Receive application \nform and supporting \ndocuments including \nofficial receipt, and \nverify applicant \ninformation.\n2.2. Conduct interview",
+      "Taxpayer may now \nrenew his/her business \npermit, Print out the \napplication form and \nproceed to the City \nTreasurer’s Office for \nassessment and \npayment of dues. \nIf the permit is pending / \nblocked, comply with \nRegulatory Office \nrequirements and \nregulations. If denied, \nproceed to ROs denying \nthe application for\nOffice \nrequirements \nand \nregulations."
+    ]
+  ],
+  "ground_truth": [
+    "An Occupational Permit is required for workers not holding a Professional Tax Receipt (PTR). It must be renewed annually on or before January 31; late renewal incurs a statutory 25% penalty. Fees are PHP 125.00 for new applications and timely renewals, and PHP 156.25 for late renewals. Requirements include: 1) Application form; 2) Certificate of Employment; 3) Official Receipt from CTO; 4) Notarized Affidavit of Consent for minors below 18 (or ages 18-20 for amusement places/bars); and 5) PSA Birth Certificate, Health ID, and interview for entertainers, masseurs, and bar attendants."
+  ]
+}

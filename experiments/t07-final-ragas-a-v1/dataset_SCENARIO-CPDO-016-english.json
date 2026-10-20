@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Which high-density commercial developments are required to secure PALC and Development Permits directly from the City Council?"
+  ],
+  "answer": [
+    "Mall, Condominium, Hotel, and Apartment are the high-density commercial developments that are required to secure Preliminary Approval and Locational Clearance (PALC) and Development Permit (DP) directly from the Sangguniang Panlungsod, as stated in [S1]."
+  ],
+  "contexts": [
+    [
+      "15. Preliminary Subdivision Development Plan (PSDP) and \nDevelopment Permit (DP) for Mall, Condominium, Hotel and \nApartment \nArticle XI Section 1 of the Zoning Ordinance states that the projects that listed below \nare required to secure Preliminary Approval and Locational Clearance (PALC) and \nDevelopment Permit (DP) from the Sangguniang Panlungsod which shall be granted \nthrough a resolution by majority votes of all its members. \n \n(For Mall, Condominium, Warehouse, Hotel, Apartment) \nOffice or Division \nCity",
+      "1. Pre-Assessment \nPre-assessment is the process in which the Business Bureau assists the clients in \ncomplying with the prerequisites required by the Regulatory Offices prior to the \napplication of New Business Permit and certain Amendments to it. \nOffice or Division \nCity Mayor's Office – Permits & Licenses Division\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen; G2B – Government to \nBusiness\nWho may avail \nAny natural or juridical person who will be conducting   and \nengaging in any business, trade",
+      "BLE\n1. Client\nproceeds to \nthe Office of \nthe City \nTreasurer \n(CTO) and \npresent the \nrequired \ndocuments.\n1. Advise the\nclient to \nproceed to the \nverification \nsection of \nSAG.\nNone \n2 Minutes \nLocal Treasury\nOperations\nOfficer I\n–\nCity\nTreasurer’s\nOffice\n2. Present the\nOrder of \nPayment \nfrom the City \nEnvironment \nand Natural \nResources \nOffice \n(CENRO).\n2. Verify the\naccount from \nthe ledger, \ncheck \npayment \nhistory, and \nissue an \nOrder of \nPayment if \nthere are no \narrears.\nBased on \nthe 2017 \nRevenue \nCode of \nthe"
+    ]
+  ],
+  "ground_truth": [
+    "Under Article XI Section 1, malls, condominiums, hotels, warehouses, and apartments must secure Preliminary Approval and Locational Clearance (PALC) and Development Permit (DP) from the Sangguniang Panlungsod granted through a resolution by majority vote."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Kailan ang deadline ng renewal ng Occupational Permit at magkano ang penalty kapag lampas na sa deadline?"
+  ],
+  "answer": [
+    "The deadline for renewing an Occupational Permit is on or before January 31 [S2]. If renewal is done after the deadline, a penalty of 25% is imposed [S2].\n\nReference(s):\n[S2] Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf | printed page 104"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "4. Occupational Permit\nOccupational Permit is issued to any worker or employee who is not a holder of a validly \nissued Professional Tax Receipts, whether working on temporary and permanent basis. \nOccupational Permit is renewed annually on or before January 31. Late renewal is \nimposed a penalty of 25%. \nOffice or Division \nCity Mayor's Office – Permits & Licenses Division\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail\nAny employee or worker who is a Filipino citizen",
+      "nt to \nreapply.\nNone\n14 Minutes \n(Online and\nOnsite)\nOccupational\nPermit\nSection Head\nand\nOccupational\nPermit\nPersonnel\nBusiness \nBureau\nTOTAL:\nPhp125 \nfor new\nand\nupdated \nrenewal;\nPhp\n156.25 for\nlate\nrenewal\n33 Minutes"
+    ]
+  ],
+  "ground_truth": [
+    "Occupational Permits must be renewed annually on or before January 31. Late renewal incurs a 25% penalty, increasing the standard fee from PHP 125.00 to PHP 156.25."
+  ]
+}

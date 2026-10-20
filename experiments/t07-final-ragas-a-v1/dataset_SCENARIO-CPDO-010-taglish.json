@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang pinagkaiba ng Variance at Exception kapag nag-aaply ng dagdag na allowable use sa CPDO?"
+  ],
+  "answer": [
+    "Variance at Exception ay dalan para sa pag-aaply sa dagdag na allowable use sa CPDO (City Planning and Development Office). Ang Variance ay isang uri ng deviation na nagbibigay sa mga owner ng lupa relief mula sa mga provisyon ng mga reglas tungkol sa kalidad fizikal ng bilyon, kahit na ang pag-comply sa mga ito ay magbabawas sa kahirapan o kalamidad sa owner dahil sa mga kalagayan fizikal, shape o kalagayan topografiko ng lupa. Ang Exception, kumpara, ay isang uri ng deviation na nagbibigay sa mga owner ng lupa isang uri ng deviation na nagbibigay sa kanila relief mula sa mga reglas tungkol sa kalidad fizikal ng bilyon, kahit na ang pag-comply sa mga ito ay hindi kailangan sa kahirapan o kalamidad sa owner. [S2]\n\n[S3]"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "7. Request for Additional Allowable Use \nThere are two (2) types of applications under additional allowable use: \n \n1.) Variance - a form of deviation which grants a property owner relief from certain \nprovisions of these rules when strict compliance with physical standards/guidelines \nsuch as building height, area requirement, setback and the like would result in \nunnecessary hardship of difficulty upon the owner due to the peculiar physical \nsurroundings, shape   or   topographical conditions   of the   property. \n2.) Exception - a form of deviation which grants a property",
+      "application to \nAdmin Division \nfor release\nNone \n10 Minutes\nZoning\nOfficer IV \nCPDO\n3.9 Admin \nDivision updates \ndocument \ntracking system \nand routes to \nreceiving/releasi\nng personnel\nNone \n10 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\n4. Clients claim the \nLocational \nClearance\n4. \nReceiving/Releasi\nng personnel \nreleases \ndocuments to \nclients\nNone \n10 Minutes\nActing\nAdministrative\nOfficer  \nCPDO"
+    ]
+  ],
+  "ground_truth": [
+    "Under Article XI Section 42 of the Integrated Zoning Ordinance, property owners can apply for a Variance (relief due to physical/topographical hardship regarding height, setback, area) or Exception (relief from strict enforcement). Requires LZBAA review and City Council resolution."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Kinahanglan pa ba ug bag-ong inspeksyon sa sunog kung duna nay daan nga valid FSIC gikan sa occupancy permit?"
+  ],
+  "answer": [
+    "Wala kaayong kinahanglan bag-ong inspeksyon sa sunog kung duna nay daan nga valid FSIC gikan sa occupancy permit. Ang mga nakit-an nga requirements sa FSIC Application sa BFP Citizens Charter 2022 ay mayroon lamang sa mga bag-ong negosyo na may valid FSIC na nakahatag sa Occupancy Permit ([S1, S2]). Ang mga nakit-an nga requirements sa renewal ng Business Permit ay hindi kinahanglan may valid FSIC ([S2]). Ang mga nakit-an nga requirements sa maintenance at testing records ay kinahanglan sa mga regular annual fire safety inspection para sa issuance ng FSIC sa Business o Mayor's Permit renewal, Certificate of Annual Inspection, Permit to Operate, PHILHEALTH Accreditation for Hospitals, DOH License to Operate at iba pa ([S3])."
+  ],
+  "contexts": [
+    [
+      "s, etc.) as a prerequisite for the\nissuance of appropriate permits and licenses\nfrom the local and other government agencies\nconcerned.\n\nCHECKLIST OF\nREQUIREMENTS/\nDOCUMENTS\nBFP FRONT LINE SERVICES\nFIRE SAFETY  \nEVALUATION \nCLEARANCE\n(FSEC)\nAPPLICATION\nFIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION\nCERTIFICATE OF\nOCCUPANCY\nNEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPAN",
+      "NEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPANCY\nPERMIT STAGE\nNEW  BUSINESS    \nPERMIT WITHOUT\nVALID FSIC\nISSUED DURING\nOCCUPANCY\nPERMIT STAGE\nRENEWAL OF\nBUSINESS\nPERMIT\nRENEWAL OF\nBUSINESS PERMIT\nWITHOUT VALID FSIC\nOR EXPIRED FSIC/\nWITH EXISTING\nVIOLATION OF THE\nFIRE CODE/INCLUDED \nIN THE NEGATIVE LIST\nA   P   P   L   I   C   A   T   I   O   N",
+      "Building Administrator and his/her Fire Safety Practitioner\nduring the regular annual fire safety inspection. This  is a compilation of the maintenance and testing records kept by the building‘s engineering and maintenance department, as a prerequisite for the issuance of FSIC for Business or \nMayor‘s Permit renewal, Certificate of Annual Inspection , Permit to Operate, PHILHEALTH Accreditation for Hospitals, DOH License to Operate and other  permits or licenses being issued by other government agencies.\nNOTE (4) Section 9."
+    ]
+  ],
+  "ground_truth": [
+    "For new business permits where a valid FSIC was already issued during the Occupancy Permit stage, the applicant presents the certified true copy of the valid occupancy FSIC, paying the 15% FSIF assessment without requiring a separate pre-operational inspection."
+  ]
+}

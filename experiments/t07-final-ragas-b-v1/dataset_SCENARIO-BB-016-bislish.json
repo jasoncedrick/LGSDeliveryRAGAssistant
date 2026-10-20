@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Tagpila ang bayad sa Certified True Copy sa Mayor's Permit ug unsa ang mga kinahanglan i-presentar?"
+  ],
+  "answer": [
+    "Sa Certified True Copy sa Mayor's Permit, ang bayad ay Php100.00. Ang mga kinahanglan nga i-presentar sa Business Bureau ang Request Form at iba pang requirements. Sa iba pang mga kaso, mao ang mga kinahanglan nga i-presentar: [S1] Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf | printed page 108 | chunk DEV120-BB-PDF0069-C001."
+  ],
+  "contexts": [
+    [
+      "1. Client fills-\nout and \nsubmits \nRequest \nForm and \nother \nrequirements \nand receive \nOrder of \nPayment to \nbe paid to the \nCity \nTreasurer’s \nOffice\n1. Checks \nthe \nrequired \ndocument\ns and \nIssues \nOrder of \nPayment \nto be paid \nto the City \nTreasurer’\ns Office.\nPhp50.00\nfor\ncertificatio\nn\nPhp100.00\nfor\nCertified\nTrue Copy, \nP35.00 for\nevery\nadditional\nCopy\nP50.00 + \nP20.00 per\npage for \nMaster-\nlists\n3 Minutes\nRecords Staff\nBusiness Bureau\n2. Submits \nOfficial  \nReceipt, \nOrder of \nPayment, and \npertinent",
+      "5. Issuance of Certifications / Certified True Copy\nCertifications or Certified True Copy is issued to any natural or juridical entity, \ngovernment agencies or offices who wish to secure any copy of Business Permit or \nwho wish to know any status or record of a Taxpayer. \nOffice or \nDivision\nCity Mayor's Office – Permits & Licenses Division\nClassificati\non\nSimple (Certification, Certified True Copy and Master List without \nmodified parameters and formats), Highly Technical (Master List requiring \ntechnical parameters and format modification)\nType of",
+      "more) \n      Applicant\n15. \nCertified True Copy of Tax Declaration\ncovering the property(ies) subject of the \napplication for the year immediately proceeding\n16. \nEnvironmental Compliance Certificate or\nCertificate of Non-Coverage (1 photocopy)\nDepartment of Environment & \nNatural Resources – \nEnvironment and Management \nBureau\n17. \nCertified True Copy of DAR conversion\norder\nDAR\n18. \nCopies of project description for projects\n(1 hectare and above)-project profile, audited \nfinancial statement, income tax return, \nCertificate of Registration, Corporation by-laws \nand all implementing a"
+    ]
+  ],
+  "ground_truth": [
+    "Securing a Certified True Copy of a business permit requires a letter request, valid ID, and SPA/Board Resolution if represented. The fee is PHP 100.00 for the certified copy plus PHP 35.00 for each additional copy."
+  ]
+}

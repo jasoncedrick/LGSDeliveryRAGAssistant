@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang requirements at paano kinukwenta ang bayad sa FSEC sa BFP bago makakuha ng building permit?"
+  ],
+  "answer": [
+    "Sa BFP (Bureau of Fire Protection), ang mga requirements at ang pamamaraan sa paggawa ng bayad sa Fire Safety Engineering Check (FSEC) bago makakuha ng building permit ay hindi nakalagay sa Citizens' Charter ng BFP na nakalagay sa mga source na binigyan sa iyong katanungan. Ang mga detalye tungkol sa mga requirements at sa pamamaraan sa paggawa ng bayad ay hindi nakalagay sa mga source na binigyan.\n\nPara sa mga impormasyon tungkol sa building fee, maaari mong dahan-dahan tingnan ang source [S2]. Ang mga detalye tungkol sa FSEC at sa mga requirements na kailangan bago mag-apply ay hindi nakalagay sa mga source na binigyan. Ang mga kailangan mong gawin para mag-apply sa FSEC ay maaaring ibahagi ng BFP sa ibang source o sa kanilang website.\n\nAng mga kailangan mong gawin para mag-apply sa building permit ay maaaring ibahagi ng BFP sa ibang source o sa kanilang website. Ang mga detalye tungkol sa mga requirements at sa pamamaraan sa paggawa ng bayad ay hindi nakalagay sa mga source na binigyan."
+  ],
+  "contexts": [
+    [
+      "232; 8426-0246; 8426-0253 Local 607 or \nthrough the email at: bfpnhq_ias@yahoo.com or ias.nhq@bfp.gov.ph\nHow Complaints are processed\nIn BFP NHQ, complaints may be filed at the Internal Affairs Service (IAS), who will attend to the Client/Customer    \nconcerns by calling into attention the staff/office concerned from the national level down to the city/municipal level.\nIn BFP Regional and Provincial/District Offices, on",
+      "area bracket indicated in the Table above. \nEach sub-area and the fee corresponding to its area bracket are multiplied together. \nThe building fee is the sum of the individual products as shown in the following \nexample:\nSample Computation for Building Fee for a building having a floor area of 3,200 sq. \nmeters:\nNext 500 sq. meters @ 23.00 …………………………………………….Php   11,500.00\nNext 100 sq. meters @ 22.00.…………………………………………….Php     2,200.00\nNext 100 sq. meters @ 20.50…………………",
+      "REDIT” nor Recommend any Brand, Store or Distributor of Fire\nExtinguisher and Fire Fighting Equipment\nAs per BFP Memorandum Circular No. 2016-016\nProhibition of BFP Personnel from Engaging in any act of impropriety and/or corruption pertaining to the enforce-\nment and implementation of the Fire Code and providing sanction thereof.\nHow to file a complaint\nTo file a complaint against the BFP or any of its personnel, the Client/Customer should provide the  following details via \nemail or other form of"
+    ]
+  ],
+  "ground_truth": [
+    "The documentary checklist specifies three (3) sets of the listed documents. The FSEC column marks architectural, civil, electrical, mechanical, plumbing, electronics, sanitary and fire protection documents. Documents mean design plans, calculations and specifications signed and sealed by the Professional Engineer/Architect. Also listed for FSEC are one signed-and-sealed set of the estimated value of the building/structure or facilities, including materials and labor cost, and copies of valid PRC Professional Licenses of all involved professionals. The FSEC application fee is PHP 200.00; FCCT is 0.1% of the verified estimated materials-and-labor value of the building/structure or facility, capped at PHP 50,000.00. The fee note states that, when the UAF declared estimate differs substantially from current acceptable market construction cost per square meter or the value indicated in Table II.G.1 of PD 1096, the higher value will be adopted."
+  ]
+}

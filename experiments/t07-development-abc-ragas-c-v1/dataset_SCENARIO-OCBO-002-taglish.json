@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang karagdagang requirements ng OCBO kapag ang itatayong gusali ay may 3 floors pataas?"
+  ],
+  "answer": [
+    "Sa pagtatayo ng gusali na may tatlong tingin pataas, ang City Planning and Development Office (CPDO) ay magbibigay ng karagdagang requirements. Ang mga ito ay nakasaad sa [S3]. Ang CPDO ay magbibigay ng validation ng Locational Clearance para sa gusali na ito. Ang Locational Clearance ay ibinibigay ng Office of the City Planning & Development Coordinator (OCPDC). Ang CPDO ay ang nagbibigay ng classification at type of transaction na \"Complex\" para sa gusali na ito."
+  ],
+  "contexts": [
+    [
+      "20\nAbove 1,500 to 2,000 \nPhp \n  6.60\nAbove 2,000 to 3,000 \nPhp \n  6.00\nAbove 3,000 \nPhp \n  5.00\nNOTE: Computation of the building fee in item 3.d. follows the example of Section 3.c. \nof this Schedule.\n3.e Division J-2 structures shall be assessed 50% of the rate of the principal \nbuilding of which they are accessories (Sections 3.a. to 3.d.)",
+      "7. Request for Additional Allowable Use \nThere are two (2) types of applications under additional allowable use: \n \n1.) Variance - a form of deviation which grants a property owner relief from certain \nprovisions of these rules when strict compliance with physical standards/guidelines \nsuch as building height, area requirement, setback and the like would result in \nunnecessary hardship of difficulty upon the owner due to the peculiar physical \nsurroundings, shape   or   topographical conditions   of the   property. \n2.) Exception - a form of deviation which grants a property",
+      "2. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (3-Storey Buildings and Above and \n1,500 Building Floor Area and Above) \nFor 3-storey buildings and above and for building floor area of 1,500 square meters \nand above only.  \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nComplex\nType of Trans"
+    ]
+  ],
+  "ground_truth": [
+    "Conditional requirements state: construction/minor repair of buildings 3 storeys and above requires Construction Safety & Health Program, 1 original and 1 photocopy, with DOLE listed under Where to Secure. Boring and Plate Load Test Result/Report is listed if the structure is at least three storeys, 2 copies, with a licensed Civil/Geotechnical Engineer listed. For an additional storey, submit an affidavit that the foundation can carry the proposed additional floors, 2 originals."
+  ]
+}

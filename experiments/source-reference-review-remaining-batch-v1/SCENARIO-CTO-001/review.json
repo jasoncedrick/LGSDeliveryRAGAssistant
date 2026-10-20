@@ -1,0 +1,16 @@
+{
+  "group_id": "SCENARIO-CTO-001",
+  "review_status": "needs_correction",
+  "reviewer": "assistant",
+  "findings": [
+    "Answer substance supported, but existing PDF20 IDs concern weights and measures, not books registration.",
+    "Replace erroneous mapped pages with actual Annex9 PDF31/printed186."
+  ],
+  "manual_check": null,
+  "candidate_applied": false,
+  "limitations": [
+    "Fixed thesis sources, not present-day legal advice.",
+    "Assistant image review is not independent expert certification.",
+    "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "A": {
+    "ANSWERED": 90
+  },
+  "B": {
+    "ANSWERED": 83,
+    "GENERATION_INCOMPLETE": 1,
+    "CLARIFICATION_REQUIRED": 6
+  },
+  "C": {
+    "ANSWERED": 84,
+    "CLARIFICATION_REQUIRED": 6
+  }
+}

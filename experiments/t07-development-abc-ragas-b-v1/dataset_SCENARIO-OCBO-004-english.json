@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What is the validity period and fee schedule for a Ground Preparation and Excavation Permit (GP&EP)?"
+  ],
+  "answer": [
+    "The validity period for a Ground Preparation and Excavation Permit (GP&EP) is not explicitly stated in the provided sources. However, the fees for a GP&EP are as follows:\n\n- Per cubic meter of excavation for renewal: Php 4.00 [S3]\n- Per square meter of structure: Php 38.00 [S3]\n- For the first 10-meter height: Php 2,400.00 [S1, S3]\n- For every meter or fraction thereof in excess of 10.00 meters: Php 120.00 per meter [S1]\n- Additional accessory fees may apply [S1, S2]\n\nFor more detailed information about the validity period, please refer to the National Building Code of the Philippines (PD 1096) and its Revised Implementing Rules and Regulations."
+  ],
+  "contexts": [
+    [
+      "(Trilon Guyed)\nUSE OR CHARACTER OF  \nOCCUPANCY SUPPORT\nSELF-\nSUPPORTING\nTRILON GUYED\nCommercial/Industrial (Groups B,E,F,G)  \n up to 10.00 meters in height\nPhp 2,400.00 \n240.00\nEvery meter or fraction thereof in \nexcess of 10.00 meters\nPhp 120.00 \n12.00\nAccessory fees\nGround Preparation and Excavation Fee\nWhile the application for building Permit is still being processed, the Building Official \nmay issue Ground Preparation and Excavation Permit (GP&",
+      "EXCAVATION PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\nWhile the application for Building Permit is still being processed, the Building Official \nmay issue Ground Preparation and Excavation Permit (GP&EP) for foundation, subject \nto the verification, inspection and review by the Line and Grade Section of the \nInspection and Enforcement Division",
+      "processed, the Building Official \nmay issue Ground Preparation and Excavation Permit (GP&EP) for foundation, subject \nto the verification, inspection and review by the Line and Grade Section of the \nInspection and Enforcement Division to determine compliance to line and grade, \nsetbacks, yards/ easements and parking requirement.\nPer cu.meter of excavation for renewal  \nPhp 4.00\nPer sq. meter of structure \nPhp 38.00\nFirst 10-meter height \nPhp 2,400.00\nMore than 10 meters height (additional)"
+    ]
+  ],
+  "ground_truth": [
+    "While the Building Permit is being processed, the Building Official may issue GP&EP for foundation subject to line-and-grade verification, inspection and review. It is valid only for 30 days or superseded upon Building Permit issuance. Fees: inspection/verification PHP200; excavation PHP3 per cubic meter; GP&EP issuance PHP50; foundation excavation with basement PHP4 per cubic meter; excavation other than foundation/basement PHP3 per cubic meter; permitted footing/foundation encroachment into public areas PHP250 per square meter or fraction thereof."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What are the fees per cubic meter for securing an Excavation Permit for building foundations with basements?"
+  ],
+  "answer": [
+    "The fees for securing an Excavation Permit for building foundations with basements are 4.00 per cubic meter, as stated in [S1] and [S2]."
+  ],
+  "contexts": [
+    [
+      "cavation for foundation with basement \n4.00\nExcavation other than foundation or basement, per cu. meter \n3.00\nEncroachment of footings or foundations of buildings/structures to \npublic areas as permitted, per sq. meter or fraction thereof of footing \nor foundation encroachment\n250.00",
+      "ion and review by the Line and Grade Section of the \nInspection and Enforcement Division to determine compliance to line and grade, \nsetbacks, yards/easements and parking requirements.\nInspection and Verification Fee \nP 200.00\nPer cu. meters of excavation \n3.00\nIssuance of GP & EP, valid only for thirty (30) days or superseded \nupon issuance of Building Permit\n50.00\nPer cu. meter of excavation for foundation with basement \n4.00\nExcavation other than foundation or basement, per",
+      "(Trilon Guyed)\nUSE OR CHARACTER OF  \nOCCUPANCY SUPPORT\nSELF-\nSUPPORTING\nTRILON GUYED\nCommercial/Industrial (Groups B,E,F,G)  \n up to 10.00 meters in height\nPhp 2,400.00 \n240.00\nEvery meter or fraction thereof in \nexcess of 10.00 meters\nPhp 120.00 \n12.00\nAccessory fees\nGround Preparation and Excavation Fee\nWhile the application for building Permit is still being processed, the Building Official \nmay issue Ground Preparation and Excavation Permit (GP&"
+    ]
+  ],
+  "ground_truth": [
+    "Ground Preparation and Excavation Permit (GP&EP) fees are: PHP 50.00 issuance fee (valid 30 days), PHP 200.00 inspection fee, PHP 4.00/cu.m. for foundations with basement, PHP 3.00/cu.m. for other excavations, and PHP 250.00/sq.m. for permitted public footing encroachments."
+  ]
+}

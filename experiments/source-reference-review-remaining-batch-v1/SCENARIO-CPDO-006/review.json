@@ -1,0 +1,16 @@
+{
+  "group_id": "SCENARIO-CPDO-006",
+  "review_status": "needs_correction",
+  "reviewer": "assistant",
+  "findings": [
+    "Core purpose, fee and total supported.",
+    "Remove unquoted adjacent-zoning expansion and add availability qualification."
+  ],
+  "manual_check": null,
+  "candidate_applied": false,
+  "limitations": [
+    "Fixed thesis sources, not present-day legal advice.",
+    "Assistant image review is not independent expert certification.",
+    "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+  ]
+}

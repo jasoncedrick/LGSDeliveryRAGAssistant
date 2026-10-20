@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Kailangan pa ba ng bagong fire inspection para sa business permit kung may valid FSIC na galing sa Occupancy Permit?"
+  ],
+  "answer": [
+    "Based on the provided sources, if you already have a valid Fire Safety Inspection Certificate (FSIC) issued during the Occupancy Permit stage, you do not need a new fire inspection for a new Business Permit. [S1, S3] However, the sources do not specify if the FSIC should be the same as the one used during the Occupancy Permit or a new one is acceptable. For clarity, it is best to confirm this with the Bureau of Fire Protection (BFP).\n\nWala akoy nakit-an nga impormasyon bahin niini sa Citizens' Charter kung kailangan ba ng bagong fire inspection kung may valid FSIC na galing sa Occupancy Permit na pwede pa rin gamitin para sa business permit. Para sa klaridad, maaayos nga ipagtatanggi sa Bureau of Fire Protection (BFP)."
+  ],
+  "contexts": [
+    [
+      "NEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPANCY\nPERMIT STAGE\nNEW  BUSINESS    \nPERMIT WITHOUT\nVALID FSIC\nISSUED DURING\nOCCUPANCY\nPERMIT STAGE\nRENEWAL OF\nBUSINESS\nPERMIT\nRENEWAL OF\nBUSINESS PERMIT\nWITHOUT VALID FSIC\nOR EXPIRED FSIC/\nWITH EXISTING\nVIOLATION OF THE\nFIRE CODE/INCLUDED \nIN THE NEGATIVE LIST\nA   P   P   L   I   C   A   T   I   O   N",
+      "s, etc.) as a prerequisite for the\nissuance of appropriate permits and licenses\nfrom the local and other government agencies\nconcerned.\n\nCHECKLIST OF\nREQUIREMENTS/\nDOCUMENTS\nBFP FRONT LINE SERVICES\nFIRE SAFETY  \nEVALUATION \nCLEARANCE\n(FSEC)\nAPPLICATION\nFIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION\nCERTIFICATE OF\nOCCUPANCY\nNEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPAN",
+      "FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST. Other service cells are blank in source; blank is not an exemption statement.]\n\nCopy of Fire Insurance, if any\n[REPRESENTATION: Matrix dot shown for: NEW BUSINESS PERMIT WITH"
+    ]
+  ],
+  "ground_truth": [
+    "For new business permits where a valid FSIC was already issued during the Occupancy Permit stage, the applicant presents the certified true copy of the valid occupancy FSIC, paying the 15% FSIF assessment without requiring a separate pre-operational inspection."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "How are general building contractors taxed on gross receipts exceeding PHP 2 million, and can material costs be deducted?"
+  ],
+  "answer": [
+    "General building contractors taxed on gross receipts exceeding PHP 2 million are subject to a tax rate of 60% of 1% of the total contract price, payable in equal annual installments within the project term [S1]. For these contractors, the cost of materials they furnish in the construction work can be deducted from their gross receipts for the purpose of determining the tax due [S1].\n\nReference(s):\n- [S1] City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 213 | chunk DEV120-CTO-PDF0058-C001\n- [S2] City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 213 | chunk DEV120-CTO-PDF0058-C002"
+  ],
+  "contexts": [
+    [
+      "In excess 2,000,000.00 \nAt a rate of sixty (60%) \npercent of one percent\n(1%)\nFor purposes of this section, the tax on general engineering, general building, and \nspecialty contractors shall initially be based on the total contract price, payable in equal \nannual installments within the project term. Should a contractor (applicable only to general \nengineering and general building contractor) undertake to furnish the materials in the \nconstruction work, only the cost of such materials shall be deducted from his gross \nreceipts for the purpose of determining the tax due",
+      "shall be deducted from his gross \nreceipts for the purpose of determining the tax due.\nUpon completion of the project, the taxes shall be recomputed on the basis of the \ngross receipts for the preceding calendar years and the deficiency tax, if there be any, \nshall be collected as provided in this Code or the excess tax payment shall be refunded.\nLessors and Dealers of Real Estate shall be taxed at the same rate provided in \nparagraph (e) of this section.\n(f) On Banks and Other Financial Institution",
+      "the exclusive power to levy taxes on stores whose \ngross sales or receipts of the preceding calendar year does not exceed Fifty Thousand \nPesos (P 50,000.00) subject to existing laws and regulations.\n(e) On Contractors and other Independent Contractors in accordance with the \n           following schedule:\nGross Sales/Receipts for the Preceding Calendar Year \nAmount of Tax Per\nAnnum\nLess than 50,000.00 \n998.25\n50,000.00 or more but less than 75,000.00 \n1,597.20\n75,000.00 or more but less than 100,"
+    ]
+  ],
+  "ground_truth": [
+    "General engineering, building, and specialty contractors are taxed on graduated brackets up to PHP 20,993.50 (up to 2M). Gross receipts exceeding PHP 2,000,000.00 are taxed at 60% of 1.0%. Material costs furnished by the contractor are deducted from gross receipts."
+  ]
+}

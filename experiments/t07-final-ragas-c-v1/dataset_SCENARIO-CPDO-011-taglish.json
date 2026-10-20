@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Anong mga environmental clearances at drainage plans ang kailangan kapag magtatayo ng negosyo sa loob ng Water Resource Zone sa Davao?"
+  ],
+  "answer": [
+    "To establish a business within the Water Resource Zone in Davao City, the following environmental clearances and drainage plans are required:\n\n1. Water Resource Management Council Clearance [S2]\n2. Clearance for projects within water resource zone [S1, S2]\n\nFor the drainage plan, it is not explicitly stated in the provided sources, but it may be necessary to comply with the city's zoning and development regulations. It is recommended to consult the City Planning and Development Office (CPDO) for more information on drainage plans. [S2]"
+  ],
+  "contexts": [
+    [
+      "22. \nWater Resource Management\nClearance for projects within water \nresource zone\nWater Resource Management \nCouncil\n23. \nBarangay Watershed Management\nCouncil and City Watershed Management \nCouncil Clearance for areas in \nConservation Zone\nBarangay Watershed Management \nCouncil / City Watershed \nManagement Council\n24. \nGolf Construction and Development\nCommittee Clearance (for golf course)\nGolf Construction and \nDevelopment Committee\n25. \nCivil Aviation Authority of the\nPhilippines and Philippine Air Force \nCommand Davao City Clearance (for \nPrivate landing strip, airports, and heliports \nand helipads)\nCivil Aviation Authority of the \nPhilippines / Philippine Air Force \nCommand Davao City Clearance",
+      "8. Issuance of Water Resource Management Council Clearance \nAn application for those areas within the water resource zone wherein a clearance \nshould be secured from the Water Resource Management Council which functions as \nan inter-departmental body to protect the water resources of Davao City. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nHighly Technical\nType of Transaction \nG2G – Government to Government; G2B – \nGovernment to Business; G2C – Government to \nCitizen\nWho may avail \nProperty Owner or Authorized Representa",
+      "2. Issuance of Business Permit \nIt shall be unlawful for any person or entity to conduct or engage in any business, \ntrade or occupation within the territorial jurisdiction of the City of Davao for which a \npermit is required for the proper supervision and enforcement of existing laws and \nordinances without first having secured a permit therefore from the City Mayor and \npaying the necessary fees to the City Treasurer.\nThe Business Permit is granted for a period of not more than one (1) year and shall \nexpire on the thirty-first (31st) of December"
+    ]
+  ],
+  "ground_truth": [
+    "Projects inside a Water Resource Zone must secure a WRMC Clearance. Requirements include 1 folder of drawing plans, site development plan, DCWD Certificate of No Objection, geohazard certification, ECC/CNC, drainage plan, sewage treatment facility designs, and oil separator plans (for carwash/shops)."
+  ]
+}

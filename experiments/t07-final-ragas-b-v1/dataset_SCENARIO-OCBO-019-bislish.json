@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Tagpila ang bayad ug unsa ang mga kinahanglan para makakuha ug Certified True Copy sa karaang Building Permit sa OCBO?"
+  ],
+  "answer": [
+    "Wala akong impormasyon bahin sa Citizens' Charter tungkol sa bayad para sa Certified True Copy ng Building Permit sa OCBO. Ang mga kinahanglan sa proseso ay nakalistado sa [S1]. Ang mga kinahanglan sa checklist ay ang Request Letter at photocopy ng Building Permit at iba pang kopya ng mga kas Sundalan-sundalan na dokumento."
+  ],
+  "contexts": [
+    [
+      "16. Issuance of Certified True Copy of Documents\nCertified True Copy of documents may be issued upon request.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; G2G \n– Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Request Letter \nApplicant\n2. Photocopy of Building Permit and other \nrelated documents\nApplicant\n3. Photocopy of Valid ID of the Owner with \nthree (3) Sig",
+      "DO\n4. SPA from the building owner to \nprocess application for Locational \nClearance\nApplicant\n5. Seven (7) complete sets of Building \nPlans (original copy) \na. Filled-up title blocks \nb. Signed and sealed by CE / Architect\nApplicant\n6. Certified True Copy of Title issued \nby the Registry of Deeds (ROD) or \nshow original copy of title for validation \n(1 original for validation, 1 photocopy)\nRegistry of Deeds\n7. Locational Clearance Application \nduly notarized and signed by the \napplicant (1 photocopy)",
+      ") \nCPDO\n4. SPA from the building owner to \nprocess application for Locational \nClearance\nApplicant\n5. Seven (7) complete sets of Building \nPlans (original) \na. Filled-up title blocks \nb. Signed and sealed by CE / Architect\nApplicant\n6. Certified True Copy of Title issued \nby the Registry of Deeds (ROD) or \nshow original copy of title for validation \n(1 original for validation, 1 photocopy)\nRegistry of Deeds\n7. Locational Clearance Application \nduly notarized and signed by the \napplicant (1 photocopy"
+    ]
+  ],
+  "ground_truth": [
+    "Obtaining a Certified True Copy of building documents requires a request letter, photocopy of building permit, owner valid ID with 3 signatures (or SPA if representative), and an Affidavit of Loss if the original is lost. The fee is PHP 50.00 per document copy."
+  ]
+}

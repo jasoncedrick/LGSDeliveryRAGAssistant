@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Magkano ang Pavement Permit fee para sa commercial parking area at gas station premises?"
+  ],
+  "answer": [
+    "Sa commercial parking area at gasoline station premises, ang Pavement Permit fee ay P57.00. [S1, S3]"
+  ],
+  "contexts": [
+    [
+      "PAVEMENT PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\nConstruction of Pavements, up to 20.00 sq. meters \nP 24.00\nIn excess of 20% or a fraction thereof of paved areas intended for \ncommercial/industrial/institutional use, such as parking and sidewalk areas, \ngasoline station premises, skating rinks, pelo",
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "as parking and sidewalk areas, \ngasoline station premises, skating rinks, pelota courts, tennis and basketball \ncourts, and the like\n3.00"
+    ]
+  ],
+  "ground_truth": [
+    "Pavement construction up to 20.00 sq.m. costs PHP 24.00. Paved areas in excess of 20 sq.m. intended for commercial, industrial, or institutional parking, sidewalks, and gas station premises are assessed PHP 3.00 per sq.m. or fraction thereof."
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "question": [
+    "Unsaon pag-process sa full retirement sa business permit kung manira na ang tindahan ug pila ang multa kung lapas na 30 days?"
+  ],
+  "answer": [
+    "Sa pag-process sa full retirement sa business permit kung manira na ang tindahan ug pila ang mga buhaton, maa-assess ang late filing fee sa range ng P1,000 hanggang P5,000. Ang mga buhaton na ito maa-aplikahan kung ang application for full retirement ay huluban sa 30 days mula sa pag-stop ng operasyon ng negosyo. [S3]\n\nAng late filing fee ay maa-aplikahan sa chunk DEV120-BB-PDF0075-C001 sa Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf."
+  ],
+  "contexts": [
+    [
+      "6. Full Retirement of Business Permit\nFull retirement of Business Permit is issued to any natural or juridical entity whose \nbusiness operations have ceased.\nOffice or Division \nCity Mayor's Office – Permits & Licenses Division\nClassification \nSimple\nType of Transaction G2C – Government to Citizen\nWho may avail \nAny natural or juridical entity who is a holder of a valid issued \nbusiness permit but whose business operations had ceased\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Latest Business Permit (1 \noriginal or 1 certified",
+      "or terminates business \noperation(s) shall be subject to the payment of taxes, fees and charges on business. \nWithin the period of thirty (30) days of the discontinuance, closure, or termination of \nbusiness, shall surrender to the Permits and Licensing Division the latest original \nbusiness permit/license, present latest official receipt issued for the payment of the \nbusiness taxes, and submit a sworn statement of the gross sales or receipt for the current \nyear or quarter so the corresponding taxes can then be assed and collect",
+      "RETIRED \nannotation\n3.Receive \nthe\nretired business \npermit and other \napplicant’s copy \nof \nrequired\ndocuments.\n3. \nProcessin\ng Staff \nreceives \nclaim stub \nand \nreleases \nthe retired \nbusiness \npermit \nand other \napplicant’\ns copy of \nrequired \ndocument\ns\nNone\n5 Minutes\nProcessing Section\nPersonnel Business Bureau\nTOTAL: Tax Obligation\nbased on\ngross sales.\nLate filing fee \nfor    applicati\non filed more \nthan 30 days\nfrom\ncessation\n=P1,000 to\nP5,000\n1 Hour and \n45 Minutes",
+      "QUIREMENT \nWHERE TO SECURE\n1. Latest Business Permit (1 \noriginal or 1 certified copy)\nApplicant or Records Section, Business Bureau\n2. Affidavit of Full Retirement \nindicating the reason and the \neffective date of retirement if Single \nProprietorship. (1 original)\nApplicant, notarized by any Notary Public\n3. Partnership Resolution duly \nsigned by all the Partners stating \nthe reason, effective date of \nretirement and the authorized \nrepresentative indicated therein if \nPartnership. (1 original)\nApplicant, notarized by any",
+      "2. Issuance of Business Permit \nIt shall be unlawful for any person or entity to conduct or engage in any business, \ntrade or occupation within the territorial jurisdiction of the City of Davao for which a \npermit is required for the proper supervision and enforcement of existing laws and \nordinances without first having secured a permit therefore from the City Mayor and \npaying the necessary fees to the City Treasurer.\nThe Business Permit is granted for a period of not more than one (1) year and shall \nexpire on the thirty-first (31st) of December"
+    ]
+  ],
+  "ground_truth": [
+    "For Full Retirement of a Business Permit upon cessation of operations, applicants must submit: 1) Latest original Business Permit or certified copy; 2) Notarized Affidavit of Full Retirement stating the reason and exact effective date of retirement (Single Proprietorship), or Partnership/Board Resolution; 3) Valid ID and SPA if represented; and 4) Physical surrender of the Business Identification Plate. Late filing fees range from PHP 1,000.00 to PHP 5,000.00 if the retirement application is submitted more than 30 days from actual business cessation, in addition to gross sales tax obligations assessed by the CTO."
+  ]
+}

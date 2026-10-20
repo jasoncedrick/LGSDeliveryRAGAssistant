@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Magkano ang bayad kada buwan kapag nagtayo ng scaffolding na sumasakop sa pampublikong daan?"
+  ],
+  "answer": [
+    "Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa inyong tanong tungkol sa bayad bawasan kapag nagtayo ng scaffolding sa pampublikong daan. Ang bayad sa scaffolding permit ay hindi nakalagay sa mga nakalunsod na source blocks. [S2] [S3]"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "9. Issuance of Scaffolding Permit\nA Scaffolding Permit shall be required prior to or during the processing of the building permit or \nbefore the scaffolding is to be erected on the roadway area or pedestrian passage or such areas \nwhere the safety, protection, security and convenience of the general public is primarily considered.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; \nG2G – Government to Government",
+      "5.4 Stamp \nScaffolding \nPermit number on \nplans and \ndocuments \n  \n \n \n \n \n5.5 Notify client \nthat approved \nplans and \ndocuments are \nready for claiming\n4 Hours\n10 Minutes\nRecords\nManagement\nAssistant – OCBO\n6. Claim the approved \nplans and documents with \nScaffolding Permit \nNumber\n6. Release \napproved plans \nand documents to \nclient\n5 Minutes \nRecords\nManagement\nAssistant – OCBO\nTOTAL: \n*Please\nrefer \nbelow\n10 Days, 2\nHours, and 15\nMinutes"
+    ]
+  ],
+  "ground_truth": [
+    "Scaffolding occupying public areas is assessed PHP 150.00 per calendar month for lengths up to 10.00 meters, and PHP 12.00 per month for every lineal meter or fraction thereof in excess of 10.00 meters."
+  ]
+}

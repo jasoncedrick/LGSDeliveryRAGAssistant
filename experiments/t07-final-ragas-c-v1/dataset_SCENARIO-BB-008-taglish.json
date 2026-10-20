@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Anong mga requirements ang kailangan para magpalit o magtama ng business name sa Mayor's Permit?"
+  ],
+  "answer": [
+    "To change or correct a business name in the Mayor's Permit, the following requirements are needed:\n\n1. Application for Change of Name and/or Correction of Business Name form [S1, S2]\n2. Valid ID of the representative (if newly designated) [S3]\n3. Birth Certificate or Marriage Contract for the Change of Name (for the applicant) [S3]\n4. DTI Trade name for the correction of business name [S3]\n5. SEC / CDA Registration in case of Corporation / Partnership / Cooperative (if applicable) [S3]\n6. Amended Registration (if applicable) [S3]\n7. Current Original Mayor’s Permit, Application for Renewal of Business Permit, or Certified True Copy of [S3]"
+  ],
+  "contexts": [
+    [
+      "for Change of \nName and / or \nCorrection of \nBusiness Name, \nand order of \npayment to be \npaid at the City \nTreasurer’s \nOffice\n1.1 Assess \nApplication for \nChange of Name \nand / or Correction \nof Business Name\n1.2 Verify and \nEncode Application \nfor Change of \nName and / or \nCorrection of \nBusiness Name\n1.3. Return \npertinent \ndocuments, print \nout application \nform for Change of \nName and / or \nCorrection of \nBusiness Name, \nand issue an order \nof payment to be\nNone \n10 Minutes \nLicensing Officer \nBusiness Bureau",
+      "Permit \nat the Business \nBureau office and \nSign Logbook\n3.1 Receive \nApplication for \nChange of Name \nand / or Correction \nof Business Name \nand Complete \nAttachments / \nDocuments (claim \nstub is released to \nthe client on this \nstep)\nNone \n10 Minutes \nProcessing\nSection\nPersonnel\nBusiness Bureau\n/\n3.2 Check and \nApprove \nApplication Forms \nfor Change of \nName and / or \nCorrection of \nBusiness Name\nNone \n20 Minutes \nLicensing\nOfficer\nBusiness Bureau\n3.3 Encode \nAmendments and \nNotations, and \nPrint Business \nPermit\nNone \n20 Minutes \nEDP Personnel \nBusiness Bureau\nRecords Section",
+      "representative (Corporation and \nCooperative) \n3. \nValid ID of the representative (1\nphotocopy), if newly designated\nApplicant\n4. \nBirth Cert. / Marriage Contract for the\nChange of Name\nApplicant\n5. \nDTI Trade name for the correction of\nbusiness name\nDepartment of Trade and Industry\n6. \nSEC / CDA Registration in case of\nCorporation / Partnership / Cooperative\nSecurity and Exchange Commission / \nCooperative \nDevelopment \nAuthority\nAmended Registration\n7. \nCurrent Original Mayor’s Permit,\nApplication for Renewal of Business Permit, \nor Certified True Copy of"
+    ]
+  ],
+  "ground_truth": [
+    "Changing or correcting a business name requires a notarized Affidavit of Change of Name/Correction, SPA or Board Resolution, valid ID of representative, birth/marriage certificate if applicable, DTI trade name or amended SEC/CDA registration, and latest Mayor's Permit. A PHP 50.00 amendment fee applies."
+  ]
+}

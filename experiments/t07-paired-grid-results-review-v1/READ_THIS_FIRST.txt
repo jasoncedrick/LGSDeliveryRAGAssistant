@@ -1,0 +1,55 @@
+T07 COMPLETED RESCORE REVIEW
+
+Outcome: the run completed; configuration selection did not.
+1,560 unique query/context judgments were attempted.
+1,450 passed the registered output/evidence contract; 110 (7.05%) failed after their one allowed format-only retry.
+These failures affect 55 queries across 28 groups. None of the 68 original/punctuation grid conditions has a complete Context Precision objective. comparison.json correctly records best=null.
+
+Failure breakdown
+66 QUOTE_NOT_IN_CONTEXT: one or more purported evidence quotes are not verbatim in the actual context after whitespace normalization.
+29 NEGATIVE_WITH_EVIDENCE_QUOTES: the verdict is zero but evidence_quotes is not empty, contrary to the registered contract.
+15 INVALID_JSON: the output cannot be parsed as the declared object.
+These are evaluator-contract failures, not 110 demonstrated retrieval failures. Valid output also does not prove that the judgment is semantically correct.
+
+Checks performed
+Verified all registered input and implementation hashes, including the manuscript and archived main tracker evidence.
+Confirmed 1,560 unique pairs and no active scoring lock.
+Rebuilt every prompt hash and reparsed each saved final response against its actual retrieved context. Stored verdicts match the raw traces.
+Reconciled all 68 condition failure lists against the original comparison.
+Computed diagnostic objective bounds by enumerating every binary completion of missing verdicts within each retrieved list. Average precision is not monotone in individual verdicts, so simply setting all missing verdicts to one is not a valid maximum. No strictly dominating configuration exists within these bounds. These are not replacement scores, confidence intervals or authorization to select a configuration.
+Six focused tests passed for aggregation, stopped-query handling, null blocking and the objective-bound calculation.
+
+Illustrative source-context comparisons (assistant diagnostic notes, not independent expert ratings)
+Case 1: BFP-006 English / C053 contains the explicit fire-extinguisher selling/recommendation prohibition. The final output identifies this evidence but lacks its closing JSON object brace. The original invalid result remains unchanged.
+Case 2: BFP-001 Bislish / C021 mostly contains service/matrix headings. The output quotes a recased/reformatted service heading as if verbatim and does not establish the requested plans or FCCT amount. This requires a semantic check as well as format compliance.
+Case 3: BFP-004 Taglish / C005 contains the FSMR signatories and annual inspection condition. The final output identifies that evidence but lacks its closing JSON object brace. The original invalid result remains unchanged.
+Case 4: BFP-005 English / C021 does not explicitly establish the requested welding/cutting/hot-works condition. The output equates an FSEC heading with the requested clearance and gives a nonverbatim quote. Merely fixing the JSON would not establish judgment accuracy.
+
+BFP-002 Taglish regression check
+The saved v2 judgments reject C006 (maintenance report), C008 (risk classification) and C021 (matrix/service headings) for the FSIF amount/minimum question. They accept C019, which actually states the 15% formula and PHP500 minimum. This is progress relative to the old judge's false acceptance. It does not establish full fee evidence coverage: C020's zero-assessment exception still requires retrieval coverage as documented previously.
+
+Files
+summary.json: counts, failure distribution, integrity hashes and completion status.
+condition_coverage.csv: 68 conditions, failed query counts and diagnostic bounds; J remains blank.
+failed_judgments_review.json: 110 cases sorted by number of affected conditions; question, reference, actual context, source metadata, both original attempts and pending review fields. No reviewer name is requested. Supplemental review notes must not replace archived automated scores.
+objective_bounds.json: calculation interpretation and bounds, not a new selection objective.
+
+What happens next
+1. Address evaluator output reliability in a NEW registered evaluator experiment, preserving this run. A constrained output format is a candidate, not an established fix: quote fidelity and semantic accuracy still need testing.
+2. Test the candidate against the existing declared controls, with all disagreements and invalids retained, before another full grid. Evaluate usefulness criteria as well as JSON validity. Do not pick a judge because it favors a retrieval configuration.
+3. If a defensible evaluator is adopted, apply it consistently across both complete grids. Do not patch only 110 cases with a different evaluator or blend versions. No additional retry is allowed under the exhausted v2 protocol.
+4. Select weights/tokenization/K using the manuscript's development Context Precision objective, verify the selected artifacts and A/B/C ablation, then register the complete freeze before held-out evaluation.
+5. Execute and export the frozen final A/B/C comparison to satisfy final T07.
+
+Manual checking
+You do not need to recheck all source PDFs immediately or rewrite 110 scores by hand. An independent usefulness audit is still valuable, especially for heading-only or wrong-service positives, and must be labeled separately from automated RAGAS. The pending fields in the packet are review aids, not an instruction that you must complete all 110 before any evaluator development can continue. Existing statutory ambiguities remain documented and cannot be resolved by changing judge formatting.
+
+Methodology grounding
+20260923.pdf PDF33: choose fusion parameters by Context Precision over the five categories and three languages on the 30-group development set.
+PDF34: development-only adjustments, complete freeze before single-pass held-out evaluation and retain unfavorable outputs.
+Main Thesis Tracker T07: execute the three frozen architectures and export the comparison CSV.
+The verbatim-evidence schema and one-retry ceiling are this experiment's registered evaluator safeguards; they are not claimed to be literal manuscript requirements.
+
+Status
+T06 harness implementation remains complete with documented evaluator limitations.
+T07 remains pending. No candidate was promoted, no app defaults changed, no held-out data accessed, no freeze made and no branch pushed by this review.

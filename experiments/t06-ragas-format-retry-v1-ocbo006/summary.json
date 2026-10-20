@@ -1,0 +1,34 @@
+{
+  "selected": 1,
+  "fully_scored": 1,
+  "not_scored": 0,
+  "failed_or_partial": 0,
+  "metric_aggregates": {
+    "answer_relevancy": {
+      "valid_scores": 1,
+      "mean_on_valid_scores": 0.9175673311761628,
+      "failed_scores": 0
+    }
+  },
+  "results": [
+    {
+      "record_id": "SCENARIO-OCBO-006-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "answer_relevancy": 0.9175673311761628
+      },
+      "language": "english",
+      "group_id": "SCENARIO-OCBO-006",
+      "pillar": "Office of the City Building Official",
+      "reference_status": "legacy_semantics_not_independently_certified",
+      "status": "SCORED"
+    }
+  ],
+  "limits": [
+    "Local 7B judge may fail structured-output parsing; null scores are not zeros.",
+    "Same-model judging can introduce bias.",
+    "Means exclude nulls and skipped records; inspect metric-specific denominators.",
+    "Five reference groups source-reviewed by assistant; other 25 retain provisional legacy semantics.",
+    "Archived generation is K=5 only; this is not frozen A/B/C evaluation or independent expert certification."
+  ]
+}

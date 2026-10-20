@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Kailan ang deadline ng renewal ng Occupational Permit at magkano ang penalty kapag lampas na sa deadline?"
+  ],
+  "answer": [
+    "The deadline for renewing an Occupational Permit is not specified in the provided sources. As for the penalty for renewing after the deadline, it is also not mentioned in the sources [S1, S2]."
+  ],
+  "contexts": [
+    [
+      "3.Receive \nOccupational Permit / \nDenied Application\nNote: \n If application is \napproved, proceed to \nhttps://occupationalper\nmit.davaocity.gov.ph/, \nselect Check \nApplication Status, and \ndownload the \nOccupational Permit, or \nproceed to the link \nautomatically sent by \nthe Online \nOccupational Permit \nSystem though e-mail \nor SMS and download \nthe Occupational \nPermit for online \napplicants. Physically \nclaim hard copy of \nOccupational Permit for \nwalk-in applicants.\nIn case of denial, \nreceive returned \ndocuments",
+      "city.gov.p\nh/, select Create \nApplication for New \nor Occupational \nPermit Renewal for \nRenewal, Fill out \nOnline Application \nForm and upload the \nrequired documents \nenumerated in the \nchecklist.\nNote: \n   If the applicant is an \nentertainer, masseur, \nor bar attendant 18-20 \nyears old, or the \napplicant is below 18 \nyears old, he or she \nmust present \nhimself/herself for an \ninterview.\nProcess Proper:\n2.1Receive application \nform and supporting \ndocuments including \nofficial receipt, and \nverify applicant \ninformation.\n2.2. Conduct interview",
+      "ing \ndocuments including \nofficial receipt, and \nverify applicant \ninformation.\n2.2. Conduct interviews \nif the applicant is an \nentertainer, masseur, \nor bar attendant 18-20 \nyears old, or the \napplicant is below 18 \nyears old.\nNone\n14 Minutes \n(Online and \nOnsite)\nOccupational\nPermit\nSection Head\nand\nOccupational\nPermit\nPersonnel\nBusiness \nBureau"
+    ]
+  ],
+  "ground_truth": [
+    "Occupational Permits must be renewed annually on or before January 31. Late renewal incurs a 25% penalty, increasing the standard fee from PHP 125.00 to PHP 156.25."
+  ]
+}

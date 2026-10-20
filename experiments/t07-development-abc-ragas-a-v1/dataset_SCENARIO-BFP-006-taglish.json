@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Kailangan ba na accredited brand ng BFP ang bibilhing fire extinguisher, at pwede bang magbenta ang inspector ng bombero?"
+  ],
+  "answer": [
+    "Wala kaayong kailangan nga accredited brand ng BFP ang bibilhin na fire extinguisher. Ang BFP ay hindi nag-i-accredit o nagrekomenda ng anumang brand, store o distributor ng fire extinguisher. [S3]\n\nAng pagbenta ng fire extinguisher ay hindi pinapayagang gawin ng mga kawani ng BFP. [S1, S2, S3]"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "applied in Fire\nStation/Lone District\nFire Office)\nThree (3) set of the  following documents\n\n[IMAGE PANEL TRANSCRIPTION — BFP PDF page 1]\nWARNING: BFP PERSONNEL ARE PROHIBITED FROM SELLING OR RECOMMENDING SPECIFIC BRAND OF FIRE EXTINGUISHER.\nREPORT SUCH IRREGULARITY AT THE FOLLOWING CONTACT NUMBERS:\nOFFICE OF THE CHIEF, BFP\nDirect line 426-43-99 Trunk line 426-02-19/426-02-46 Local 7",
+      "on government services, whether positive or negative, to the Contact Center ng\nBayan via following access channels:\nSMS: 09088816565\nEmail: email@contactcenterngbayan.gov.ph            \n     Web: https://contactcenterngbayan.gov.ph/            \n     FB: https://facebook.com/civilservicegovph/\nCall: 165 65 (P5 +VAT per call anywhere in the Philippines via PLDT Landline)\nPUBLIC WARNING\nThe BFP Does not “ACCREDIT” nor Recommend any Brand, Store or Distributor of Fire\nExtinguisher"
+    ]
+  ],
+  "ground_truth": [
+    "The BFP public warning says it does not accredit or recommend any brand, store or distributor of fire extinguishers/fire-fighting equipment. Its warning prohibits personnel from selling or recommending a specific fire-extinguisher brand.\n\nThe image panel says portable fire extinguishers are regulated by DTI through BPS and that each type must comply with appropriate Philippine National Standards for product safety/reliability. This supports no BFP brand accreditation; it should not be expanded into a claim that any product is suitable regardless of type or hazard."
+  ]
+}

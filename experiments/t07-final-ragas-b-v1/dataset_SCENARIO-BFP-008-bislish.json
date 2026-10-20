@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Kinahanglan pa ba ug bag-ong inspeksyon sa sunog kung duna nay daan nga valid FSIC gikan sa occupancy permit?"
+  ],
+  "answer": [
+    "Wala kaayong kinahanglan bag-ong inspeksyon sa sunog kung duna nay daan nga valid FSIC gikan sa occupancy permit. Ang FSIC (Fire Safety Inspection Certificate) ay isa sa mga requirement sa pag-apply sa mga permit at lisensya mula sa iba't ibang gobyerno agyon sa [S1]. Ang FSIC ay maaayos sa regular annual fire safety inspection kasama ang Building Administrator at Fire Safety Practitioner ([S2]). Ang Certificate of Annual Inspection (CAI) ay isa sa mga maaaring ibig sabihin nga lisensya na maaari mag-apply sa iba't ibang gobyerno, kasama ang OCBO (Office of the City Building Official) sa Davao City. Ang CAI ay maaayos sa annual inspection ng building/structure upang makita kung properly maintained ang architectural well-being, structural stability, electrical, mechanical sanitation, plumbing, electronics, interior design, at fire protective properties, at wala ang building/structure sa iba't ibang pangyayari kundi sa intended use ([S3]). Ang FSIC ay isang prerequisite sa pag-apply sa CAI, kasama ang New Business Permit with valid FSIC ([S1]). Ang CAI ay hindi kinakailangan para sa pag-apply sa FSIC."
+  ],
+  "contexts": [
+    [
+      "s, etc.) as a prerequisite for the\nissuance of appropriate permits and licenses\nfrom the local and other government agencies\nconcerned.\n\nCHECKLIST OF\nREQUIREMENTS/\nDOCUMENTS\nBFP FRONT LINE SERVICES\nFIRE SAFETY  \nEVALUATION \nCLEARANCE\n(FSEC)\nAPPLICATION\nFIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION\nCERTIFICATE OF\nOCCUPANCY\nNEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPAN",
+      "Building Administrator and his/her Fire Safety Practitioner\nduring the regular annual fire safety inspection. This  is a compilation of the maintenance and testing records kept by the building‘s engineering and maintenance department, as a prerequisite for the issuance of FSIC for Business or \nMayor‘s Permit renewal, Certificate of Annual Inspection , Permit to Operate, PHILHEALTH Accreditation for Hospitals, DOH License to Operate and other  permits or licenses being issued by other government agencies.\nNOTE (4) Section 9.",
+      "15. Issuance of Certificate of Annual Inspection of Buildings\nA Certificate of Annual Electrical Inspection is issued after conducting an annual inspection of a \nbuilding/structure to ensure that the architectural well-being, structural stability, electrical, \nmechanical sanitation, plumbing, electronics, interior design, and fire protective properties are \nproperly maintained and that the building/structure is not occupied or used for purposes other than \nits intended use.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHigh"
+    ]
+  ],
+  "ground_truth": [
+    "For new business permits where a valid FSIC was already issued during the Occupancy Permit stage, the applicant presents the certified true copy of the valid occupancy FSIC, paying the 15% FSIF assessment without requiring a separate pre-operational inspection."
+  ]
+}

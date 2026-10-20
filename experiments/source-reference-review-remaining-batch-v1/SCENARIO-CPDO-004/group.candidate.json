@@ -1,0 +1,32 @@
+{
+  "group_id": "SCENARIO-CPDO-004",
+  "pillar": "City Planning and Development Office",
+  "split": "development",
+  "ground_truth_chunk_ids": [
+    "DEV120-CPDO-PDF0026-C001",
+    "DEV120-CPDO-PDF0026-C002",
+    "DEV120-CPDO-PDF0026-C003",
+    "DEV120-CPDO-PDF0026-C004",
+    "DEV120-CPDO-PDF0027-C001",
+    "DEV120-CPDO-PDF0027-C002",
+    "DEV120-CPDO-PDF0028-C001",
+    "DEV120-CPDO-PDF0028-C002",
+    "DEV120-CPDO-PDF0029-C001",
+    "DEV120-CPDO-PDF0030-C001",
+    "DEV120-CPDO-PDF0030-C002",
+    "DEV120-CPDO-PDF0032-C001",
+    "DEV120-CPDO-PDF0032-C002"
+  ],
+  "ground_truth_reference_answer": "Motion for Reconsideration is an appeal against denial of Locational Clearance by the Zoning Administrator. The checklist lists: Letter of Reconsideration; Denial Letter; Order of Payment; Official Receipt; Business Permit Application Form/Building Permit Application Form (for building permit); certified true copy of title(s)/Contract of Lease/Deed of Sale; site sketch with vicinity map and landmarks; Barangay Council Resolution Interposing No Objection; affidavit of non-objection of adjoining property owners; locational mapping of neighbor consent signatories; Affidavit of Undertaking; and Building Permit for a business-permit application.\n\nSecure checklist and pre-evaluation; once documents are complete, obtain the order for the PHP600 processing fee. Submit original and photocopied official receipt with one complete set of documents. The process includes TWG site inspection/evaluation, TWG meeting with the applicant, committee deliberation, and, if approved, resolution and endorsement to OBO or Business Bureau. Claim the endorsement with attached resolution. Non-approved/deferred cases may receive NOC, NOD or disapproval.",
+  "queries": {
+    "english": "What is the procedure, fee, and requirement checklist to appeal a denied Locational Clearance before the LZBAA?",
+    "taglish": "Ano ang proseso, magkano ang processing fee, at ano ang kailangang ipasa kapag na-deny ang Locational Clearance at mag-aapela sa LZBAA?",
+    "bislish": "Unsaon pag-apela sa LZBAA kung gibalibaran ang Locational Clearance sa CPDO ug unsa ang mga requirements ug bayad sa processing fee?"
+  },
+  "legacy_ground_truth_chunk_ids": [
+    "CHUNK-CPDO-P655-C01",
+    "CHUNK-CPDO-P656-C01",
+    "CHUNK-CPDO-P661-C01"
+  ],
+  "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED"
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What is the official procedure for reclassifying agricultural land to commercial use under the Davao City Comprehensive Land Use Plan?"
+  ],
+  "answer": [
+    "To reclassify agricultural land to commercial use under the Davao City Comprehensive Land Use Plan, the following procedure can be followed based on the provided sources:\n\n1. Prepare a Preliminary Subdivision Development Plan (PSDP) and Development Permit (DP) for the specific land. [S1]\n2. The application for subdivision approval should be based on BP 220, PD 957, and other related laws. [S1]\n3. The application should be encoded in the document tracking system and routed to the GIS for map location. [S2]\n4. The business address and business identification should be located and encoded on the Davao City Map. [S2]\n5. The application will be evaluated and recommendations will be made based on the Integrated Zoning Ordinance 2019-2028, Article 5 – Zone Regulations. [S2, S4]\n6. If the application is approved, the right to use or Deed of Sale of Right-of-Way for access road and other utilities may be required, subject to just compensation for private land. [S3]\n7. A Subdivision Development Plan consisting of the site development plan showing roads, easements, or ROW, lot layout, and other necessary details should be submitted. [S3]\n\nPlease note that the exact procedure and requirements may vary depending on the specific circumstances of the land and the application. It is advisable to consult with the City Planning and Development Office (CPDO) for more detailed information. [S1, S2, S3]"
+  ],
+  "contexts": [
+    [
+      "14. Preliminary Subdivision Development Plan (PSDP) and \nDevelopment Permit (DP) for High End, Low End, Farm Lot and \nMemorial Park \nAn application for subdivision approval based on BP 220, PD 957, and other related \nlaws. Executive Order No. 71, Series of 1993, pursuant to RA 7160, was signed into \nlaw to devolve the powers of the Housing Land Use Regulatory Board to approve \nsubdivision plans to the cities through the City Housing Land Use and Regulatory \nUnit as the technical arm of the Sang",
+      "lacking, advised \nclient to comply)\n2.2 Encodes \napplication in the \ndocument tracking \nsystem and routes \nto GIS for map \nlocation\nNone \n5 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\n2.3 Locates \nbusiness address \nand encodes \nbusiness \nIdentification on \nthe Davao City \nMap and routes \ndocument to the \nbusiness \nevaluators\nNone \n15 Minutes\nDivision Chief\nof GIS\n2.4 Evaluates \napplication and \nmakes \nrecommendations \n(based on the \nIntegrated ZO \n2019-2028, Art. 5 \n– Zone \nRegulations) \n \nNote: Applications \nare evaluated \nbased on the \nproposed land use",
+      "Tax Receipts \n      City Treasurer’s Office\n10. \nRight to use or Deed of Sale of Right-of-\nWay for access road and other utilities when \napplicable, subject to just compensation for \nprivate land \n      Applicant\n11. \nSubdivision Development Plan\nconsisting of the site development plan \nshowing roads, easements, or ROW, lot \n     Applicant"
+    ]
+  ],
+  "ground_truth": [
+    "Reclassification specifies how agricultural lands shall be utilized for non-agricultural uses (residential, commercial, industrial) under the CLUP. It requires CPDO evaluation, Barangay endorsement, City Development Council review, and Sangguniang Panlungsod ordinance approval."
+  ]
+}

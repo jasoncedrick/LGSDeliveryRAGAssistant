@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What is the purpose of a Certificate of Completion of Subdivision and which body inspects it before endorsement to DHSUD?"
+  ],
+  "answer": [
+    "The purpose of a Certificate of Completion of Subdivision is to endorse a subdivision application that has been completed based on the approved plan, as stated in [S1]. The City Housing Land Use and Regulatory Unit (CHLURU) inspects and favorably endorses the subdivision application before it is endorsed to the Department of Human Settlements and Urban Development (DHSUD). [S1]"
+  ],
+  "contexts": [
+    [
+      "16. Certificate of Completion of Subdivision \nA resolution of the City Housing Land Use and Regulatory Unit (CHLURU) favorably \nendorsing a subdivision application wherein the project has been completed based on \nthe approved plan to the HLURB. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nHighly Technical\nType of Transaction \nG2G – Government to Government; G2B – \nGovernment to Business; G2C – Government to \nCitizen\nWho may avail \nProperty Owner or Authorized Representa",
+      "2. Issuance of Business Permit \nIt shall be unlawful for any person or entity to conduct or engage in any business, \ntrade or occupation within the territorial jurisdiction of the City of Davao for which a \npermit is required for the proper supervision and enforcement of existing laws and \nordinances without first having secured a permit therefore from the City Mayor and \npaying the necessary fees to the City Treasurer.\nThe Business Permit is granted for a period of not more than one (1) year and shall \nexpire on the thirty-first (31st) of December",
+      "Representative \nof the City Mayor \nfor the LZBA for \nfinal signature\n4.7 Circulates \napproval of \nresolution for \nLZBA Members \nsignature\nNone \n7 Days\nActing\nAdministrative\nOfficer  \nCPDO\n4.8 Upon \ncompletion of \nsignatures, \nprepares \nendorsement of \nthe application \nwith favorable \naction to Office of \nthe Building \nOfficial (for \nbuilding permit) \nor Business \nBureau (for \nbusiness permit) \nand signed by \nDepartment \nHead\nNone \n1 Day \n \nZoning Officer\nIV\nCPDO\n4.9 LZBA \nSecretariat \nencodes \nendorsement in \ndocument \ntracking system \nand indorses to \nZED"
+    ]
+  ],
+  "ground_truth": [
+    "The Certificate of Completion of Subdivision (COC) is a resolution from the City Housing Land Use and Regulatory Unit (CHLURU) favorably endorsing to DHSUD/HLURB that the project has been fully completed according to approved engineering plans."
+  ]
+}

@@ -1,0 +1,46 @@
+T07 NEXT STEP: INDEPENDENT USEFULNESS REVIEW
+
+Start here
+Open human_review.json. It contains 60 existing development controls, in shuffled order, across five groups and all three language variants. Each item shows the question, reference answer and actual retrieved passage. Model outputs, old labels and original case IDs are deliberately absent. No reviewer name is requested.
+Do not open PRIVATE_comparison_key.json or old model outputs while completing the review. packet.snapshot.json is the untouched integrity copy; leave it unchanged.
+
+For each item, edit only decision and notes
+decision: "useful", "not_useful", or "uncertain".
+notes: one brief reason referring to what the ACTUAL RETRIEVED CONTEXT states or omits.
+Example formatting only: "decision": "not_useful", "notes": "Only a service heading; no requested fee or condition is stated."
+Judge each actual passage; do not copy this example decision across items.
+
+Criterion
+Useful: the context directly supports at least one fact requested by the question, consistent with the reference. It need not contain the complete answer.
+Not useful: only a shared topic, office heading, cover page, unrelated service, or no requested fact. Reference-answer text is not proof that the retrieved context contains it.
+Uncertain: the passage or reference is ambiguous, association is detached, the language is unclear, or source support cannot be determined. Do not infer an unstated rate, exception or relationship. Explain the uncertainty in notes.
+Compare question -> reference -> actual context. The exact source metadata is retained in the separate key for later source checks; this task primarily judges the text actually supplied to the model. Flag a doubtful reference as uncertain rather than inventing a resolution.
+
+After all items
+Set independent_human_review_completed to true only after an actual human has reviewed all 60 items.
+Fill review_basis with a short description of the review process and any prior familiarity with the labels/reports. No name is needed. This is independence from automated judgments, not a claim of independent expert certification. Disclose any prior role in creating labels.
+Keep all question, reference and passage fields unchanged.
+
+Then run from the clean project
+D:\thesis\venv\Scripts\python.exe -B scripts/review_t07_judge_controls.py --compare-output t07-independent-judge-comparison-v1
+
+The comparison command rejects missing decisions, missing notes, changed source fields, duplicate IDs or an incomplete human-review attestation. It reports evaluator validity, human uncertainty and agreement separately. It does not fill missing RAGAS values, change old labels or choose a final system. Further outputs require fresh folder names.
+
+Why this is the next step
+T06's implementation is complete. T07 selection is blocked by the 110 invalid grid judgments and observed semantic errors. Structured JSON improved formatting but still failed its gate. Source-span selection produced 14 false positives and was rejected. Another automatic prompt revision would not establish trustworthy selection evidence.
+This is a recommended validation response to observed failures, not a literal additional Chapter 3 requirement. It is separate from the later three-expert employee audit and does not count as those ratings. These controls are adaptive, cover only five groups and are not a representative independent accuracy estimate. Prior reports may be known, so this packet must not be described as a formal double-blind study.
+
+Grounding checked before preparation
+20260923.pdf PDF33: Context Precision macro objective over the development set, then select weights.
+PDF34: keep held-out groups isolated and freeze all components before final testing.
+Main Thesis Tracker T07: execute the three frozen A/B/C architectures and export their comparison metrics CSV.
+Manuscript SHA256 and archived main tracker evidence verified. protocol.json records control, evaluator output and integrity hashes.
+
+What follows the review
+Compare the existing evaluator versions against independently entered judgments, inspect disagreements and decide whether any evaluator is defensible. Independent review does not automatically approve one. If an evaluator protocol is adopted, consistently rescore the full competing grids without blending versions; resolve remaining failures; select using the registered Context Precision objective; verify artifacts and A/B/C settings; freeze; then run final held-out comparison.
+
+Current status
+No model calls are running from this step. No benchmarks, app defaults, indices, corpus, dictionaries, prior results or tracker workbook were changed. No branch or freeze was created. T06 implementation remains complete; T07 is awaiting evaluator-validation input.
+
+
+WORKFLOW CORRECTION: This packet is an optional independent evaluator audit, not a mandatory Chapter 3 requirement and not a required duplicate of earlier user reviews. It may remain unfilled. See experiments/t07-methodology-reconciliation-v1/READ_THIS_FIRST.txt.

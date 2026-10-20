@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ilang porsyento ang local business tax sa interes at commissions ng mga bangko sa Davao City?"
+  ],
+  "answer": [
+    "Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungkol sa interes at commissions ng mga bangko sa Davao City. [S2] ang nakahusay na mag-aral tungkol sa impostong local business tax, pero wala ito tungkol sa interes at commissions ng mga bangko."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      ") at \nthe Business \nTax \nAssessment \nDivision, City \nTreasurer’s \nOffice, \nSangguniang \nPanlungsod, \nor CTO \nDistrict \nOffices.\nBased on \nthe 2017 \nRevenue\nCode of the\nCity of \nDavao\nOrdinance \nNo. 0291- \n17, series \nof 2017, \nsection 72\n–\nImposition \nof Tax on\nAnnual\nFixed Tax \nfor Delivery\nVehicle; \nsection 76\n–\nGraduated\nTax on \nBusiness\n3 Minutes \nWindow 1-4,\nLocal Treasury\nOperations\nOfficer I/ Local\nRevenue \nCollection \nOfficer I –\nCity\nTreasurer’s\nOffice\n-or-\nAssigned\nCollectors at \nCTO",
+      "of \nPayment if \nthere are no \narrears.\nBased on \nthe 2017 \nRevenue \nCode of \nthe City of\nDavao\nOrdinance \nNo. 0291-\n17,\nseries \nof 2017, \nsection 44\n–\nTax on \nSand,\n30 Minutes \nLocal Treasury\nOperations\nOfficer I/Local\nTreasury \nOperations\nOffice I\n-\nCity\nTreasurer’s\nOffice\n3. Submit the\nTax Order of \nPayment to \nthe District \nCollector at\n3. Accept the\npayment \nand issue \nthe Official \nReceipt at\n20 Minutes \nLocal Revenue\nCollection\nOfficer I/ Admin\nAide IV/ \nRevenue"
+    ]
+  ],
+  "ground_truth": [
+    "Banks and financial institutions pay an annual local business tax of 60.50% of 1.0% of gross receipts derived from interest, commissions, discounts, leasing, dividends, and property rentals from transactions negotiated within Davao City branches."
+  ]
+}

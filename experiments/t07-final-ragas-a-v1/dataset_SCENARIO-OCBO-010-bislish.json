@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ang bayad sa permit sa pagsemento sa commercial parking lot ug agianan sa sakyanan sa OCBO?"
+  ],
+  "answer": [
+    "Sa permit sa commercial parking lot ug sa sakyanan sa OCBO (City Transport and Parking Office), ang mga bayad nga nakapag-uumaan sa pagsemento sa ila ay nakakita sa Annex – 10 sa Citizen Charter ng City Treasurer. [S3]\n\nAng mga bayad sa ila ay nakalistahan sa Annex – 10 sa Citizen Charter ng City Treasurer. Ang mga ito ay:\n\na. Docking Fee - P 82.00\nb. Vacant Stalls - 400.00\nc. Delinquent - 10.00/sq.m/day\nd. Vehicle Entry - 10.00\ne. Day Parking - 20.00\nf. Overnight Parking - 30.00\ng. Trisikad - 5.00\n\n[S3] City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 189 | chunk DEV120-CTO-PDF0034-C003"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "Than 5 Hectares, Commercial \nSand And Gravel Permit. If More Than 5 \nHectares, Mines And Geo Sciences \nBureau / Industrial Sand And Gravel/ \nEarthfill Permit\nNew Application: mandatory Mayor’s \nPermit to Quarry\nIndicate the gross capacity of the trucks",
+      "TAL: \nAttached \nAnnex - 13 \n3 Minutes\nANNEX – 10\nAmount of Fee\na. Docking Fee \nP 82.00\nb. Vacant Stalls \n400.00\nc. Delinquent \n10.00/sq.m/day\nd. Vehicle Entry \n10.00\ne. Day Parking \n20.00\nf. Overnight Parking \n30.00\ng. Trisikad \n5.00"
+    ]
+  ],
+  "ground_truth": [
+    "Pavement construction up to 20.00 sq.m. costs PHP 24.00. Paved areas in excess of 20 sq.m. intended for commercial, industrial, or institutional parking, sidewalks, and gas station premises are assessed PHP 3.00 per sq.m. or fraction thereof."
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "group_id": "SCENARIO-CPDO-003",
+  "review_status": "needs_correction",
+  "reviewer": "assistant",
+  "findings": [
+    "Focus candidate on fee calculation actually asked by all three variants; remove incomplete unsolicited checklist.",
+    "Add missing PDF21 map-plotting evidence.",
+    "Do not assume institutional filing fee or invent combined total."
+  ],
+  "manual_check": {
+    "type": "conditional_official_clarification",
+    "question": "If institutional filing fees or a consolidated payable total are needed, confirm the fee aggregation with CPDO.",
+    "source": "PDF21-22,25",
+    "blocking": "No block to quoting individually listed charges."
+  },
+  "candidate_applied": false,
+  "limitations": [
+    "Fixed thesis sources, not present-day legal advice.",
+    "Assistant image review is not independent expert certification.",
+    "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga rekisitos para sa Occupational Permit sa mga ordinaryong trabahante ug langyaw nga trabahante?"
+  ],
+  "answer": [
+    "Sa mga ordinaryong trabahante ug langyaw nga trabahante, ang mga rekisitos para sa Occupational Permit sa Davao City ay nakatanggap sa [S2] Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf, chunk DEV120-BB-PDF0067-C001 at DEV120-BB-PDF0067-C003. Ang mga rekisitos sa Occupational Permit sa inyong trabahanto sa Davao City ay nakalistado sa mga detalye sa mga link na nabigyan sa [S2]. Wala nako nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa mga rekisito para sa mga langyaw nga trabahante."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "3.Receive \nOccupational Permit / \nDenied Application\nNote: \n If application is \napproved, proceed to \nhttps://occupationalper\nmit.davaocity.gov.ph/, \nselect Check \nApplication Status, and \ndownload the \nOccupational Permit, or \nproceed to the link \nautomatically sent by \nthe Online \nOccupational Permit \nSystem though e-mail \nor SMS and download \nthe Occupational \nPermit for online \napplicants. Physically \nclaim hard copy of \nOccupational Permit for \nwalk-in applicants.\nIn case of denial, \nreceive returned \ndocuments",
+      "nt to \nreapply.\nNone\n14 Minutes \n(Online and\nOnsite)\nOccupational\nPermit\nSection Head\nand\nOccupational\nPermit\nPersonnel\nBusiness \nBureau\nTOTAL:\nPhp125 \nfor new\nand\nupdated \nrenewal;\nPhp\n156.25 for\nlate\nrenewal\n33 Minutes"
+    ]
+  ],
+  "ground_truth": [
+    "An Occupational Permit is required for workers without a Professional Tax Receipt. General requirements: application form, Certificate of Employment, and Official Receipt from CTO (PHP 125.00). Foreigners must submit an Alien Employment Permit from DOLE."
+  ]
+}

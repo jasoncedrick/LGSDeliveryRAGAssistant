@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ka adlaw ang gitagal sa BFP Citizens Charter para sa Simple, Complex, ug Highly Technical nga mga application?"
+  ],
+  "answer": [
+    "Sa BFP Citizens Charter sa 2022, ang gitagal sa Simple, Complex, ug Highly Technical mga application ang:\n\n1. Simple Transactions - gitagal sa isang (1) araw: [S1] DEV120-BFP-PDF0001-C002\n2. Complex Transactions - gitagal sa tatlong (3) araw: [S1] DEV120-BFP-PDF0001-C002\n3. Highly Technical Transactions - gitagal sa anim (7) araw: [S1] DEV120-BFP-PDF0001-C002\n\nAng mga detalye sa Joint Memorandum Circular (JMC) No. 2021-01 ay maaoy nakit-an sa [S1]."
+  ],
+  "contexts": [
+    [
+      "STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION - TRANSACTION PROCESSED WITHIN ONE (1) DAY \n2. COMPLEX TRANSACTION - TRANSACTION PROCESSED WITHIN THREE (3) DAYS \n3. HIGHLY TECHNICAL TRANSACTION - TRANSACTION PROCESSED WITHIN SEVEN (7) DAYS\nNOTE: For the coverage of Simple, Complex and Highly Technical Transactions refer to Joint Memorandum Circular (JMC) No. 2021-01  \nSeries of 2021 “Amending the DILG",
+      "232; 8426-0246; 8426-0253 Local 607 or \nthrough the email at: bfpnhq_ias@yahoo.com or ias.nhq@bfp.gov.ph\nHow Complaints are processed\nIn BFP NHQ, complaints may be filed at the Internal Affairs Service (IAS), who will attend to the Client/Customer    \nconcerns by calling into attention the staff/office concerned from the national level down to the city/municipal level.\nIn BFP Regional and Provincial/District Offices, on",
+      "REDIT” nor Recommend any Brand, Store or Distributor of Fire\nExtinguisher and Fire Fighting Equipment\nAs per BFP Memorandum Circular No. 2016-016\nProhibition of BFP Personnel from Engaging in any act of impropriety and/or corruption pertaining to the enforce-\nment and implementation of the Fire Code and providing sanction thereof.\nHow to file a complaint\nTo file a complaint against the BFP or any of its personnel, the Client/Customer should provide the  following details via \nemail or other form of"
+    ]
+  ],
+  "ground_truth": [
+    "The BFP charter classifies Simple transactions as processed within 1 day, Complex within 3 days, and Highly Technical within 7 days. It directs readers to JMC2021-01 for classification coverage. The source says days, not working days, and identifies FIRE STATION/OSCP/BOSS."
+  ]
+}

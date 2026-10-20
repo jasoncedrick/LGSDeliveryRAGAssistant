@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Anong mga commercial developments tulad ng mall at condo ang kailangang kumuha ng PALC sa Sangguniang Panlungsod?"
+  ],
+  "answer": [
+    "Anong mga commercial developments tulad ng mall at condo ang kailangang kumuha ng PALC sa Sangguniang Panlungsod?\n\nWala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungkol sa mall at condo na kailangang kumuha ng PALC sa Sangguniang Panlungsod. [S1] ang nakatayo lamang sa sand and gravel permit para sa commercial na hindi lamang 5 hektares. [S3] ay nakatayo sa mga commercial developments na may parking at sidewalk areas, gasoline station premises, skating rinks, pelota courts, tennis at basketball courts, at iba pa. Ang mga ito ay hindi lamang mall at condo."
+  ],
+  "contexts": [
+    [
+      "Than 5 Hectares, Commercial \nSand And Gravel Permit. If More Than 5 \nHectares, Mines And Geo Sciences \nBureau / Industrial Sand And Gravel/ \nEarthfill Permit\nNew Application: mandatory Mayor’s \nPermit to Quarry\nIndicate the gross capacity of the trucks",
+      "7. Request for Additional Allowable Use \nThere are two (2) types of applications under additional allowable use: \n \n1.) Variance - a form of deviation which grants a property owner relief from certain \nprovisions of these rules when strict compliance with physical standards/guidelines \nsuch as building height, area requirement, setback and the like would result in \nunnecessary hardship of difficulty upon the owner due to the peculiar physical \nsurroundings, shape   or   topographical conditions   of the   property. \n2.) Exception - a form of deviation which grants a property",
+      "as parking and sidewalk areas, \ngasoline station premises, skating rinks, pelota courts, tennis and basketball \ncourts, and the like\n3.00"
+    ]
+  ],
+  "ground_truth": [
+    "Under Article XI Section 1, malls, condominiums, hotels, warehouses, and apartments must secure Preliminary Approval and Locational Clearance (PALC) and Development Permit (DP) from the Sangguniang Panlungsod granted through a resolution by majority vote."
+  ]
+}

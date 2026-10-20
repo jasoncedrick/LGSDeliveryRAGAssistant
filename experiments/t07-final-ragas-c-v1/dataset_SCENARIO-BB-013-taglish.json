@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang mga kailangan para makakuha ng Occupational Permit ang mga regular na empleyado at dayuhang manggagawa?"
+  ],
+  "answer": [
+    "Ang mga kailangan para makakuha ng Occupational Permit ng mga regular na empleyado at dayuhang manggagawa ay nababasa sa Citizens' Charter ng Business Bureau sa pages 104 at 106 ng CGD_Citizen Charter 2026_VOL.I & II.pdf.\n\nPara sa mga Pilipino na empleyado o manggagawa, ang kailangan ay:\n- Application Form (makukuha sa Business Bureau Office) [S2, S3]\n- Professional Tax Receipt kung mayroon (hindi na kailangan kung mayroon na ang isang valid na Professional Tax Receipt) [S1]\n\nPara sa mga dayuhang manggagawa, ang kailangan ay:\n- Alien Employment Permit mula sa Department of Labor and Employment (kung mayroon) [S2]\n- Affidavit of Consent kung mayroon pa man nakakapagtrabaho ang isang kabataan na hindi pa 18 years old (kung mayroon na nakakapagtrabaho ang isang kabataan na mayroon na raw ang kapangyarihan na makapagtrabaho) [S2]\n\nAng Occupational Permit ay renewed annually on or before January 31. Mayroon din pang penalty ng 25% kung hindi ito renewed late. [S1]\n\nAng Occupational Permit ay maaaring makukuha sa website https://occupationalpermit.davaocity.gov.ph/ o sa kopya na maaaring ipadala sa e-mail o SMS para sa mga online applicants. Para sa mga walk-in applicants, maaaring kumuha ng hard copy ng Occupational Permit sa Office ng City Mayor's Office – Permits & Licenses Division. [S3]"
+  ],
+  "contexts": [
+    [
+      "4. Occupational Permit\nOccupational Permit is issued to any worker or employee who is not a holder of a validly \nissued Professional Tax Receipts, whether working on temporary and permanent basis. \nOccupational Permit is renewed annually on or before January 31. Late renewal is \nimposed a penalty of 25%. \nOffice or Division \nCity Mayor's Office – Permits & Licenses Division\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail\nAny employee or worker who is a Filipino citizen",
+      "2C – Government to Citizen\nWho may avail\nAny employee or worker who is a Filipino citizen and 18 years \nof age at the time of application. Foreigner may apply if he has \nalready secured an Alien Employment Permit from the \nDepartment of Labor and Employment. In instances where the \nlaw allows a person below 18 years of age to work, the applicant \nshall submit an Affidavit of Consent from his/her parent or \nguardian.\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Application Form \nBusiness Bureau Office,",
+      "3.Receive \nOccupational Permit / \nDenied Application\nNote: \n If application is \napproved, proceed to \nhttps://occupationalper\nmit.davaocity.gov.ph/, \nselect Check \nApplication Status, and \ndownload the \nOccupational Permit, or \nproceed to the link \nautomatically sent by \nthe Online \nOccupational Permit \nSystem though e-mail \nor SMS and download \nthe Occupational \nPermit for online \napplicants. Physically \nclaim hard copy of \nOccupational Permit for \nwalk-in applicants.\nIn case of denial, \nreceive returned \ndocuments"
+    ]
+  ],
+  "ground_truth": [
+    "An Occupational Permit is required for workers without a Professional Tax Receipt. General requirements: application form, Certificate of Employment, and Official Receipt from CTO (PHP 125.00). Foreigners must submit an Alien Employment Permit from DOLE."
+  ]
+}

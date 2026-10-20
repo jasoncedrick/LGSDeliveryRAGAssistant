@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What additional engineering and safety requirements are imposed by OCBO for buildings that are 3 storeys and above?"
+  ],
+  "answer": [
+    "For buildings that are 3 storeys and above, the following additional engineering and safety requirements are imposed by OCBO:\n\n1. Construction Safety & Health Program (CSHP) [S1]\n   - Submit 1 original and 1 photocopy of the Construction Safety & Health Program (CSHP) to the Department of Labor and Employment (DOLE).\n\n2. Regular annual fire safety inspection [S2]\n   - The building administrator and his/her Fire Safety Practitioner must undergo a regular annual fire safety inspection. This is a compilation of the maintenance and testing records kept by the building’s engineering and maintenance department, as a prerequisite for the issuance of FSIC for Business or Mayor’s Permit renewal, Certificate of Annual Inspection, Permit to Operate, PHILHEALTH Accreditation for Hospitals, DOH License to Operate, and other permits or licenses being issued by other government agencies."
+  ],
+  "contexts": [
+    [
+      "and sealed by hired professional \n(licensed Architect) \n4 copies\nOwner/Applicant\n19. Seismic Analysis \nHired Professionals (All Engineers & Architect)\n20. Photographs of Location with Landmarks or \nImage of the location taken from Google Maps \n(Clear and Detailed)\nOwner/Applicant\nConditional Requirements\na.       Construction/minor repair of buildings 3- \nstoreys and above - Construction Safety & \nHealth Program (CSHP)  \n1 original, 1 photocopy\nDepartment of Labor and Employment (DOLE)\nb.     Bor",
+      "Building Administrator and his/her Fire Safety Practitioner\nduring the regular annual fire safety inspection. This  is a compilation of the maintenance and testing records kept by the building‘s engineering and maintenance department, as a prerequisite for the issuance of FSIC for Business or \nMayor‘s Permit renewal, Certificate of Annual Inspection , Permit to Operate, PHILHEALTH Accreditation for Hospitals, DOH License to Operate and other  permits or licenses being issued by other government agencies.\nNOTE (4) Section 9.",
+      "mendation \n  \n \n5.3 Forward to \nBuilding Official \n(BO) for signing \nand approval \n  \n5.4 Stamp Fencing \nPermit number on \nplans and \ndocuments \n  \n \n \n \n \n \n5.5 Notify client \nthat approved \nplans and \ndocuments are \nready for claiming\nNone \n30 Minutes\n4 Hours\n1 Day\n4 Hours\n10 Minutes\nTechnical\nAssistant on \nPlanning and \nDevelopment\nOCBO\nPED Chief –\nOCBO\nBuilding Official\n– OCBO\nEngineering\nStaff\nRecords\nCustodian –\nOCBO\nRecords\nManagement \nAssistant –\nOCBO"
+    ]
+  ],
+  "ground_truth": [
+    "Conditional requirements state: construction/minor repair of buildings 3 storeys and above requires Construction Safety & Health Program, 1 original and 1 photocopy, with DOLE listed under Where to Secure. Boring and Plate Load Test Result/Report is listed if the structure is at least three storeys, 2 copies, with a licensed Civil/Geotechnical Engineer listed. For an additional storey, submit an affidavit that the foundation can carry the proposed additional floors, 2 originals."
+  ]
+}

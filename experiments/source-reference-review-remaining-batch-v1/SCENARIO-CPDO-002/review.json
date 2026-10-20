@@ -1,0 +1,30 @@
+{
+  "group_id": "SCENARIO-CPDO-002",
+  "review_status": "source_wording_preserved_user_interpretation_recorded",
+  "findings": [
+    "Preserve PDF AND wording and label user OR interpretation separately.",
+    "Restore if applicable and missing payment documents.",
+    "Qualify processing time."
+  ],
+  "manual_check": {
+    "type": "official_interpretation",
+    "question": "Do both the 3-storey and 1,500-sqm criteria apply together, or are they alternative triggers?",
+    "source": "CPDO PDF5/printed634",
+    "blocking": "Definitive eligibility interpretation only; preserve source wording meanwhile.",
+    "handling": "Preserve source statements and user interpretation explicitly; no repeated user confirmation requested. Official clarification is needed only to remove the documented source limitation."
+  },
+  "candidate_applied": false,
+  "limitations": [
+    "Fixed thesis sources, not present-day legal advice.",
+    "Assistant image review is not independent expert certification.",
+    "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+  ],
+  "human_review": {
+    "status": "source_wording_preserved_user_interpretation_recorded",
+    "finding": "User states both categories can qualify; recorded as alternative triggers based on their earlier clarification, not as an independently verified official interpretation.",
+    "evidence": "CPDO PDF5/printed634",
+    "basis": "User instruction in conversation plus cited PDF; not new issuing-office evidence."
+  },
+  "follow_up_required_now": false,
+  "source_interpretation_fully_verified": false
+}

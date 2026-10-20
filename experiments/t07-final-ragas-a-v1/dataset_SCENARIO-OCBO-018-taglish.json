@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Magkano ang electrical inspection fee para sa mga standby generators at transformers na nakakabit sa building?"
+  ],
+  "answer": [
+    "The electrical inspection fee for standby generators and transformers connected to a building is not explicitly stated in the provided sources. However, it is mentioned that for electrical inspections, a one-time fee equivalent to 10% of the Total Electrical Permit Fees shall be charged [S2]. The Total Electrical Permit Fees may include fees for standby generators and transformers, but the specific fee for these is not specified in the provided sources [S2].\n\nFor more detailed information about the fees for standby generators and transformators, you may need to refer to the specific implementing rules and regulations related to these specific equipment types, which are not included in the provided sources.\n\n[S2] OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 578 | chunk DEV120-OCBO-PDF0090-C001"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "ISSUANCE OF CERTIFICATE OF ANNUAL INSPECTION FOR ELECTRICAL NEW \nSCHEDULE OF FEES AND OTHER CHARGES OF THE REVISED IMPLEMENTING \nRULES AND REGULATIONS (IRR) OF THE NATIONAL BUILDING CODE OF THE \nPHILIPPINES (PD 1096)\nElectrical Inspection Fees:\ni. A one time electrical inspection fee equivalent to 10% of Total Electrical Permit Fees \nshall be charged to cover all inspection trips during construction.\nii. Annual",
+      "2.3 Conduct \ninspection \n \n \n \n \n \n \n \n \n \n \n \n \n2.4 Assess \napplication for OP\n5 Days\n30 Minutes\nTechnical Assistant on\nPlanning and \nDevelopment\nOCBO\nTechnical Assistant –\nOCBO\n3. Claim OP and pay \nfee at City Treasurer’s \nOffice\n3. Issue OP to \nclient\nNone \n30 Minutes \nTechnical Assistant –\nOCBO\n4. Present OP and OR \n4.1 Receive and \nverify OR \n \n4.2 Attach OR \nwith Certificate of \nAnnual Inspection \n \n \n4.3 Forward \nCertificate of\nNone \n5 Minutes\n2 Days\nTechnical Assistant –\nOCBO\nTechnical Assistant –\nOCBO\nElectrical Engineer\nElectrical Engine"
+    ]
+  ],
+  "ground_truth": [
+    "Transformer, UPS, and generator capacity fees under Section 4.b are: 5 kVA or less = PHP 40.00; over 5 to 50 kVA = PHP 40 + PHP 4/kVA; over 50 to 300 kVA = PHP 220 + PHP 2/kVA; over 300 to 1,500 kVA = PHP 720 + PHP 1/kVA; over 6,000 kVA = PHP 4,170 + PHP 0.25/kVA."
+  ]
+}

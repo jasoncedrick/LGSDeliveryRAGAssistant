@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang tax rate para sa mga restaurant, carenderia, at catering business kapag lumagpas sa 2 million ang gross receipts?"
+  ],
+  "answer": [
+    "The tax rate for restaurants, carenderias, and catering businesses that exceed 2 million in gross receipts is as follows:\n\nPhp 385,000.00 plus 1.1% of gross receipts in excess of Php 20,000,000.00 [S2]\n\nFor more detailed information, you may refer to the City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf, specifically chunk DEV120-CTO-PDF0060-C002."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "Valid and Existing Dealership \nAgreement, tax rate is as follows:\nSPARE PARTS:\nFrom \nTo Less Than \nAnnual Tax\n0 \nPhp 10,000,000.00 \n2.2%\nPhp 10,000,000.00 \nPhp 20,000,000.00 \nPhp 220,000.00 plus \n1.65% of gross receipts in \nexcess of Php \n10,000,000.00\nPhp 20,000,000.00 \nPhp 30,000,000.00 \nPhp 385,000.00 plus 1.1% \nof gross receipts in excess \nof Php 20,000,000.00\nPhp 30,000,000.00 \nand above \nPhp 495,000.00",
+      "shall be deducted from his gross \nreceipts for the purpose of determining the tax due.\nUpon completion of the project, the taxes shall be recomputed on the basis of the \ngross receipts for the preceding calendar years and the deficiency tax, if there be any, \nshall be collected as provided in this Code or the excess tax payment shall be refunded.\nLessors and Dealers of Real Estate shall be taxed at the same rate provided in \nparagraph (e) of this section.\n(f) On Banks and Other Financial Institution"
+    ]
+  ],
+  "ground_truth": [
+    "Restaurants, cafes, eateries, caterers, and amusement places without wagering pay graduated taxes up to PHP 9,160.31 for receipts up to PHP 2,000,000.00. Gross receipts in excess of PHP 2,000,000.00 are taxed at 43% of 1.0%."
+  ]
+}

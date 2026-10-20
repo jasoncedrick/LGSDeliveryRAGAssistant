@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang mga hakbang at notices na ibinibigay ng Business Bureau bago tuluyang ipasara ang isang erring establishment?"
+  ],
+  "answer": [
+    "The Business Bureau provides the following steps and notices before terminating an erring establishment, as stated in [S2] Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf | printed page 79 | chunk DEV120-BB-PDF0040-C001:\n\n1. Conduct an inspection prior to the approval of the retirement application. [S2]\n2. Request the client to sign in the logbook. [S3]\n\nThese steps are part of the process for termination of business, specifically under section 83(i) - Termination of Business in CTO Districts. [S2]"
+  ],
+  "contexts": [
+    [
+      "the designated \nwindow in CTO \nDistrict Offices.\nTax Order \nof Payment \nslip for \nunpaid \ntaxes and \nobligations, \nand give a \nclaim stub.\nNo. 0291- \n17, series \nof 2017, \nsection 83\n(i)  \n-\nTerminatio\nn of\nBusiness\n(CTO Districts)\n2.2 Conduct an\ninspection \nprior to the \napproval of \nthe \nretirement \napplication.\nBased on \nthe 2017 \nRevenue \nCode of \nthe City of\nDavao\nOrdinance \nNo. 0291- \n17, series \nof 2017, \nsection 83\n(i) \n –\nTerminatio\nn of\nBusiness\n1 Day and 4\nHours\nLocal",
+      "for\nAmendment\nof\nBusiness\nPermit.\n(paid at the\nCity\nTreasurer’s\nOffice)\nPls. See\nSchedule of\nFees and \nCharges\n3. Submit the \nrecommended \napproval of \nApplication for \nChange of \nBusiness Address, \nofficial receipts and \npertinent \ndocuments. Claim \nBusiness Permit at \nthe Business \nBureau office and \nSign Logbook\n3.1 Receive and \ncheck \nrecommended \napproval of \nApplication for \nChange of \nBusiness Address \nand Complete \nAttachments / \nDocuments (claim \nstub is released \nto the client on \nthis step)\nNone \n30 Minutes \nProcessing\nSection\npersonnel \nBusiness \nBureau\n3.2 Encode \nNotations",
+      "3.6. Release \nBusiness permit \nand documents \nto the client\nNone \n10 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau\n3.7. Request the \nclient to sign in \nthe logbook\nNone \n6 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau\nTOTAL:\nMayor’s\nPermit Fee\nis\nbased on\nthe\nasset size  \nand nature\nof\nbusiness.  \nService fee  \nis Php50.00\nfor\nAmendment\nof\nBusiness\nPermit.\n(paid at the\nCity\nTreasurer’s\nOffice)\nPls. See\nSchedule of\nFees and \nCharges\n1 Hour and \n55 Minutes\nG. Amendment of Business Per"
+    ]
+  ],
+  "ground_truth": [
+    "Non-compliant businesses receive a 1st Notice of Violation with an inspection report. If uncorrected after re-inspection within 15 days, a 2nd and Final Notice with Cease-and-Desist Order is recommended. Continued non-compliance results in a physical Closure Order within 1 day."
+  ]
+}

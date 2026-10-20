@@ -1,0 +1,13 @@
+{
+  "status": "user_directions_recorded",
+  "backup_directory": "experiments/source-reference-review-remaining-batch-v1/review-backups/user-directions-20261019-081827",
+  "groups": [
+    "SCENARIO-CTO-002",
+    "SCENARIO-OCBO-001",
+    "SCENARIO-CPDO-002",
+    "SCENARIO-OCBO-005"
+  ],
+  "reviewer_names_included": false,
+  "original_labels_or_scores_changed": false,
+  "note": "Candidate prose includes explicitly attributed user interpretations; unresolved claims must not be treated as independently verified gold. Review scripts predate these overrides; do not rerun them over the reviewed files."
+}

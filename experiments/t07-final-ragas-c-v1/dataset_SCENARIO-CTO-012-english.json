@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What business tax rate applies to commercial wholesalers and distributors with annual gross sales exceeding PHP 2 million?"
+  ],
+  "answer": [
+    "The business tax rate for commercial wholesalers and distributors with annual gross sales exceeding PHP 2 million is not explicitly stated in the provided sources. However, the closest applicable rate can be found in the City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf [S1, S2, S3] for dealerships and car dealers. Since wholesalers and distributors are not explicitly mentioned, it is recommended to consult with the appropriate city office for a definitive answer. [Wala akoy nakit-an nga impormasyon bahin niini sa Citizens' Charter.]"
+  ],
+  "contexts": [
+    [
+      "the total sales and shall be \nsubject to the rates not exceeding one-half (1/2) of the rates prescribed under paragraphs \n(a), (b), and (d) of this Article.\n(d) On Retailers:\nGross Sales/Receipts for the Preceding Year \nRate of Tax Per Annum\nMore than P50,000.00 but not over P400,000.00 \n2.2%\nIn excess of P400,000.00 \n1.21%\nHowever, barangays shall have the exclusive power to levy taxes on stores whose \ngross sales or receipts of the preceding",
+      "Valid and Existing Dealership \nAgreement, tax rate is as follows:\nSPARE PARTS:\nFrom \nTo Less Than \nAnnual Tax\n0 \nPhp 10,000,000.00 \n2.2%\nPhp 10,000,000.00 \nPhp 20,000,000.00 \nPhp 220,000.00 plus \n1.65% of gross receipts in \nexcess of Php \n10,000,000.00\nPhp 20,000,000.00 \nPhp 30,000,000.00 \nPhp 385,000.00 plus 1.1% \nof gross receipts in excess \nof Php 20,000,000.00\nPhp 30,000,000.00 \nand above \nPhp 495,000.00",
+      "ing not otherwise stated in this code.\n(i) On Authorized Franchise Car Dealers\nImposition of Tax – There is hereby levied an annual tax on the following business \nundertakings at the rates prescribed herein:\ni.1 On Car Dealers engaged in the business of selling brand new vehicles and \ngenuine parts pursuant to a valid and existing dealership agreement with manufacturers \nand distributors shall be taxed as follows:\nCAR DEALERS\nFrom \nTo Less Than \nAnnual Tax\nPhp 0 \nPhp 100,000,000.00 \n90."
+    ]
+  ],
+  "ground_truth": [
+    "Wholesalers, distributors, and dealers are taxed on graduated tiers from PHP 1,210.00 (under 50k) up to PHP 18,150.00 (up to 2M). Gross sales in excess of PHP 2,000,000.00 are taxed at 66% of 1.0%. Businesses subject to manufacturer taxes are exempt from wholesaler tax."
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "group_id": "SCENARIO-CPDO-004",
+  "pillar": "City Planning and Development Office",
+  "split": "development",
+  "ground_truth_chunk_ids": [
+    "DEV120-CPDO-PDF0026-C001",
+    "DEV120-CPDO-PDF0026-C002",
+    "DEV120-CPDO-PDF0027-C001",
+    "DEV120-CPDO-PDF0027-C002",
+    "DEV120-CPDO-PDF0032-C001",
+    "DEV120-CPDO-PDF0032-C002"
+  ],
+  "ground_truth_reference_answer": "If a Locational Clearance is denied by the Zoning Administrator, an applicant may file a Motion for Reconsideration before the Local Zoning Board of Adjustment and Appeals (LZBAA). Requirements are: 1) Letter of Reconsideration; 2) Denial Letter; 3) Title/Lease Contract; 4) Site sketch plan with vicinity landmarks; 5) Barangay Council Resolution of No Objection; 6) Locational mapping of neighbor's consent signatories; and 7) Notarized Affidavit of Non-Objection from adjoining property owners. The processing fee is PHP 600.00, and evaluation involves TWG site inspection, committee deliberation, and LZBAA board resolution.",
+  "queries": {
+    "english": "What is the procedure, fee, and requirement checklist to appeal a denied Locational Clearance before the LZBAA?",
+    "taglish": "Ano ang proseso, magkano ang processing fee, at ano ang kailangang ipasa kapag na-deny ang Locational Clearance at mag-aapela sa LZBAA?",
+    "bislish": "Unsaon pag-apela sa LZBAA kung gibalibaran ang Locational Clearance sa CPDO ug unsa ang mga requirements ug bayad sa processing fee?"
+  },
+  "legacy_ground_truth_chunk_ids": [
+    "CHUNK-CPDO-P655-C01",
+    "CHUNK-CPDO-P656-C01",
+    "CHUNK-CPDO-P661-C01"
+  ],
+  "mapping_status": "PROVISIONAL_EXACT_SPAN_MAPPING"
+}

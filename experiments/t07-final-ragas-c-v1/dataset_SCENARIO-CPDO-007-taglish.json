@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang requirements at magkano ang bayad sa CPDO para i-validate ang Occupancy Permit ng 3-storey building pataas?"
+  ],
+  "answer": [
+    "Sa iyong kahilingan, ang requirements at ang bayad para i-validate ang Occupancy Permit ng 3-storey building pataas ay nakasaad sa [S1]. Ang mga requirements ay ang validation ng Locational Clearance na issued ng Office ng City Planning & Development Coordinator (CPDO) - Zoning Enforcement Division. Ang bayad ay hindi nakasaad sa mga nabanggit na source, kaya hindi natin maaaring mag-supply ng exact amount. Ang mga detalye na ito ay maaaring nakasaad sa ibang parte ng Citizens' Charter."
+  ],
+  "contexts": [
+    [
+      "2. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (3-Storey Buildings and Above and \n1,500 Building Floor Area and Above) \nFor 3-storey buildings and above and for building floor area of 1,500 square meters \nand above only.  \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nComplex\nType of Trans",
+      "OIC), Business\nBureau\n3.6.  Release \nBusiness permit \nand documents to \nthe client\nNone \n10 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau\n3.7. Request the \nclient to sign in \nthe logbook\nNone \n6 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau\nTOTAL:\nMayor’s\nPermit Fee\nis\nbased on\nthe\nasset size  \nand nature\nof\nbusiness.  \nService fee\nis Php \n50.00\nfor\nAmendment\nof\nBusiness\nPermit.\n(paid at the\nCity\nTreasurer’s\nOffice).\nPls. See\nSchedule of\nFees and \nCharges\n1 Hour and \n55 Minutes\nF. A",
+      "4. Issuance of Locational Clearance (LC) for Building based on the \nIntegrated Zoning Ordinance (2019-2028) (for 3-storey and above) \nA written authority / permit granted by the City Planning and Development Office \n(previously by the Board) pursuant to applicable laws on land use planning and zoning \nfor the establishment or operation of projects of national / local significance. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nComplex\nType of Transaction \nG2G – Government to Government"
+    ]
+  ],
+  "ground_truth": [
+    "Validation of Occupancy Permit for buildings 3-storeys and above or floor area of 1,500 sq.m. and above requires approved building plans, approved building permit, Certificate of Occupancy form, locational clearance, and site photos. A PHP 150.00 filing fee is paid to CTO."
+  ]
+}

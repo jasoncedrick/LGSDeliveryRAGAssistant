@@ -1,0 +1,20 @@
+{
+  "question": [
+    "Gaano katagal valid ang Excavation Permit at magkano ang bayad kada cubic meter ng hukay?"
+  ],
+  "answer": [
+    "The Excavation Permit is valid for thirty (30) days and the fee per cubic meter of excavation is Php 3.00, as stated in [S1]. For excavation for foundation with basement, the fee is Php 4.00 per cubic meter, as mentioned in [S1]. The renewal fee per cubic meter of excavation is Php 4.00, as stated in [S2]. The Excavation Permit is issued by the Office of the City Building Official (OCBO) and the classification is Highly Technical, as per [S4]."
+  ],
+  "contexts": [
+    [
+      "ion and review by the Line and Grade Section of the \nInspection and Enforcement Division to determine compliance to line and grade, \nsetbacks, yards/easements and parking requirements.\nInspection and Verification Fee \nP 200.00\nPer cu. meters of excavation \n3.00\nIssuance of GP & EP, valid only for thirty (30) days or superseded \nupon issuance of Building Permit\n50.00\nPer cu. meter of excavation for foundation with basement \n4.00\nExcavation other than foundation or basement, per",
+      "processed, the Building Official \nmay issue Ground Preparation and Excavation Permit (GP&EP) for foundation, subject \nto the verification, inspection and review by the Line and Grade Section of the \nInspection and Enforcement Division to determine compliance to line and grade, \nsetbacks, yards/ easements and parking requirement.\nPer cu.meter of excavation for renewal  \nPhp 4.00\nPer sq. meter of structure \nPhp 38.00\nFirst 10-meter height \nPhp 2,400.00\nMore than 10 meters height (additional)",
+      "(Trilon Guyed)\nUSE OR CHARACTER OF  \nOCCUPANCY SUPPORT\nSELF-\nSUPPORTING\nTRILON GUYED\nCommercial/Industrial (Groups B,E,F,G)  \n up to 10.00 meters in height\nPhp 2,400.00 \n240.00\nEvery meter or fraction thereof in \nexcess of 10.00 meters\nPhp 120.00 \n12.00\nAccessory fees\nGround Preparation and Excavation Fee\nWhile the application for building Permit is still being processed, the Building Official \nmay issue Ground Preparation and Excavation Permit (GP&",
+      "6. Issuance of Excavation Permit\nAn Excavation Permit shall be required prior to the commencement of excavation of the proposed \nproject and construction. \nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to \nBusiness; G2G – Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Excavation Permit form with 3 sets of \nCivil/Architectural Plans",
+      "cavation for foundation with basement \n4.00\nExcavation other than foundation or basement, per cu. meter \n3.00\nEncroachment of footings or foundations of buildings/structures to \npublic areas as permitted, per sq. meter or fraction thereof of footing \nor foundation encroachment\n250.00"
+    ]
+  ],
+  "ground_truth": [
+    "While a main Building Permit is undergoing evaluation, the Building Official may issue a Ground Preparation and Excavation Permit (GP&EP) for foundation work, valid for thirty (30) days or until superseded by the building permit. Statutory fees are: 1) Inspection and Verification Fee of PHP 200.00; 2) Issuance fee of PHP 50.00; 3) Excavation fee of PHP 3.00 per cubic meter (or PHP 4.00 per cubic meter for foundations with basements); and 4) PHP 250.00 per square meter for authorized foundation encroachments into public areas."
+  ]
+}

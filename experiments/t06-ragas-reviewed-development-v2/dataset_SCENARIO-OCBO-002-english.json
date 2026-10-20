@@ -1,0 +1,20 @@
+{
+  "question": [
+    "What additional engineering and safety requirements are imposed by OCBO for buildings that are 3 storeys and above?"
+  ],
+  "answer": [
+    "For buildings that are 3 storeys and above, the following additional engineering and safety requirements are imposed by OCBD (Office of the City Building Official) as stated in [S1] and [S3]:\n\n1. Seismic Analysis: Hired Professionals (All Engineers & Architects) [S1]\n2. Construction Safety & Health Program (CSHP): Department of Labor and Employment (DOLE) [S1]\n3. Validation of Occupancy Permit based on the Integrated Zoning Ordinance (2019-2028) (3-Storey Buildings and Above and 1,500 Building Floor Area and Above): City Planning and Development Office (CPDO) – Zoning Enforcement Division [S3]\n\nIn addition, a Sidewalk Enclosure and Occupancy Permit Form with 3 sets of Civil/Architectural Plans of the fence duly signed and sealed by a licensed Civil Engineer/Architect is required. This can be found in [S4]."
+  ],
+  "contexts": [
+    [
+      "and sealed by hired professional \n(licensed Architect) \n4 copies\nOwner/Applicant\n19. Seismic Analysis \nHired Professionals (All Engineers & Architect)\n20. Photographs of Location with Landmarks or \nImage of the location taken from Google Maps \n(Clear and Detailed)\nOwner/Applicant\nConditional Requirements\na.       Construction/minor repair of buildings 3- \nstoreys and above - Construction Safety & \nHealth Program (CSHP)  \n1 original, 1 photocopy\nDepartment of Labor and Employment (DOLE)\nb.     Bor",
+      "3. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (2-Storey Buildings and Below and \n1,500 Building Floor Area and Below) \nFor 2-storey buildings and below and for building floor area of 1,500 square meters \nand below only. \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator.  \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nSimple\nType of Trans",
+      "2. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (3-Storey Buildings and Above and \n1,500 Building Floor Area and Above) \nFor 3-storey buildings and above and for building floor area of 1,500 square meters \nand above only.  \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nComplex\nType of Trans",
+      "CHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1.     Sidewalk Enclosure and Occupancy Permit Form \nwith 3 sets of Civil/Architectural Plans of the fence duly \nsigned and sealed by a licensed Civil \nEngineer/Architect  \n  \nNote: Applicant may use an A3 size of paper for the \nstructural design plan signed and sealed by a licensed \nCivil/Structural Engineer\nHired Professionals (All Engineers & \nArchitects)\n2. Sketch/Lot Plan with Vicin",
+      "mendation \n  \n \n5.3 Forward to \nBuilding Official \n(BO) for signing \nand approval \n  \n5.4 Stamp Fencing \nPermit number on \nplans and \ndocuments \n  \n \n \n \n \n \n5.5 Notify client \nthat approved \nplans and \ndocuments are \nready for claiming\nNone \n30 Minutes\n4 Hours\n1 Day\n4 Hours\n10 Minutes\nTechnical\nAssistant on \nPlanning and \nDevelopment\nOCBO\nPED Chief –\nOCBO\nBuilding Official\n– OCBO\nEngineering\nStaff\nRecords\nCustodian –\nOCBO\nRecords\nManagement \nAssistant –\nOCBO"
+    ]
+  ],
+  "ground_truth": [
+    "Conditional requirements state: construction/minor repair of buildings 3 storeys and above requires Construction Safety & Health Program, 1 original and 1 photocopy, with DOLE listed under Where to Secure. Boring and Plate Load Test Result/Report is listed if the structure is at least three storeys, 2 copies, with a licensed Civil/Geotechnical Engineer listed. For an additional storey, submit an affidavit that the foundation can carry the proposed additional floors, 2 originals."
+  ]
+}

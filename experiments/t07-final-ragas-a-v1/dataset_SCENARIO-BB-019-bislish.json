@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga notice ug proseso nga ipatuman sa Business Bureau sa dili pa ipasira ang usa ka negosyo nga dunay kalapasan?"
+  ],
+  "answer": [
+    "Sa Business Bureau, kung wala pa ipasira ang isang negosyo, mao ang mga notice ug proseso na ipatuman:\n\n1. [S3] Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf | printed page 120 | chunk DEV120-BB-PDF0081-C001\n   - 3. Wait for scheduled inspection\n   - 3.1 Route the complaint / request for inspection\n   - 3.2 Assign the complaint/request to the Inspection Team\n   - 4. Receive Inspection Report/ 1st Notice of Violation/ICAB Accreditation\n   - 4. Conduct Ocular Inspection and issue Inspection Report as proof of inspection (no violation) or 1st Notice (with violation) and ICAB Accreditation with Order of Payment for Accreditation if compliant\n\nWala pa nga kini ang mga detalye sa proseso sa mga notice ug mga deadlines, kay wala pa nga nakit-an sa Citizens' Charter ang mga detalye sa mga ito. ([S3])"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "5. Claims \nendorsement letter \nwith attached \nresolution from the \nLZBAA Secretariat \n \nNote: Client/s is \nfurnished with the \nendorsement to \nOBO/BB, signed \nresolution and their \ndocumentary \nrequirements \nsubmitted in the \nOffice.\n5. Endorses \napplication to \nOffice of the \nBuilding Official \n(for building \npermit) or \nBusiness Bureau \n(for business \npermit)  \n \nNote: \n \n- If not \napproved/deferre\nd due to further \nevaluation and \nvalidation, drafts \nand finalizes \nNotice of \nCompliance \n(NOC) / Notice of \nDeficiency (NOD",
+      "3. Wait for \nscheduled \ninspection\n3.1 Route the \ncomplaint / request \nfor inspection\nNone\n1 Hour\n3.2 Assign the \ncomplaint/request \nto the Inspection \nTeam\nNone\n1 Hour\nLicensing \nOfficer IV -\nBusiness Bureau\n4. Receive \nInspection \nReport/ 1st \nNotice of \nViolation/ICAB \nAccreditation\n4. Conduct Ocular \nInspection and \nissue Inspection \nReport as proof of \ninspection (no \nviolation) or 1st \nNotice (with \nviolation) and ICAB \nAccreditation with \nOrder of Payment \nfor Accreditation if \ncompliant\nNo"
+    ]
+  ],
+  "ground_truth": [
+    "Non-compliant businesses receive a 1st Notice of Violation with an inspection report. If uncorrected after re-inspection within 15 days, a 2nd and Final Notice with Cease-and-Desist Order is recommended. Continued non-compliance results in a physical Closure Order within 1 day."
+  ]
+}

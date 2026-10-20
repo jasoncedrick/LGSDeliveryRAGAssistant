@@ -13,3 +13,8 @@ ragas==0.1.5
 fastapi==0.110.0
 uvicorn==0.28.0
 datasets==2.18.0
+
+# Evaluator versions recorded in the archived successful local run.
+# This file is not a complete platform/model environment lock.
+langchain-community==0.3.27
+langchain-core==0.3.86

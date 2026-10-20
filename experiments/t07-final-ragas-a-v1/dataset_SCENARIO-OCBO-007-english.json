@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What engineering plans and clearances are mandatory when applying for a Demolition Permit from OCBO?"
+  ],
+  "answer": [
+    "To apply for a Demolition Permit from OCBO, the following engineering plans and clearances are mandatory:\n\n1. Submit the plans and documents [S1, S2].\n2. The plans and documents should include an Order of Payment (OP) and Official Receipt (OR) [S1, S2].\n3. The plans and documents are to be forwarded to the PED Chief for final recommendation [S1, S2].\n4. The plans and documents are then forwarded to the Building Official (BO) for signing and approval [S1, S2].\n5. The Demolition Permit number is stamped on the plans and documents [S1].\n6. The approved plans and documents are ready for claiming [S2].\n\n[S1] OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 558 | chunk DEV120-OCBO-PDF0070-C001\n[S2] OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 558 | chunk DEV120-OCBO-PDF0070-C002"
+  ],
+  "contexts": [
+    [
+      "5. Resubmit plans and \ndocuments along with \nOrder of Payment and \nOfficial Receipt (OR)\n5.1 Receive \nplans, \ndocuments, OP \nand OR \n  \n \n \n5.2 Forward to \nPED Chief for \nFinal \nRecommendation \n  \n5.3 Forward to \nBuilding Official \n(BO) for signing \nand approval \n  \n \n5.4 Stamp \nDemolition Permit \nnumber on plans \nand documents \n  \n \n \n5.5 Notify client \nthat approved \nplans and \ndocuments are \nready for claiming\nNone \n30 Minutes\n4 Hours\n1 Day\n4 Hours\n10 Minutes\nTechnical Assistant\non Planning and\nDevelopment\nRecords Personnel\n– OCBO\nPED Chief –",
+      "Minutes\nTechnical Assistant\non Planning and\nDevelopment\nRecords Personnel\n– OCBO\nPED Chief – OCBO\nBuilding Official –\nOCBO\nEngineering Staff,\nRecords Custodian\n– OCBO\nRecords\nManagement\nAssistant – OCBO\n6. Claim the approved \nplans and documents with \nDemolition Permit Number\n6. Release \napproved plans \nand documents to \nclient\nNone \n5 Minutes \nRecords\nManagement\nAssistant – OCBO\nTOTAL:\n*Please\nrefer \nbelow\n10 Days, 2\nHours, and 23\nMinutes",
+      "Official Receipt (OR) \ndocuments, OP \nand OR \n  \n \n \n \n5.2 Forward to \nPED Chief for \nFinal \nRecommendation \n  \n5.3 Forward to \nBuilding Official \n(BO) for signing \nand approval \n  \n5.4 Stamp \nSidewalk \nOccupancy \nPermit number on \nplans and \ndocuments \n     \n \n \n5.5 Notify client \nthat approved \nplans and \ndocuments are \nready for claiming\n4 Hours\n1 Day\n4 Hours\n10 Minutes\nPlanning and \nDevelopment\nOCBO\nPED Chief –\nOCBO\nBuilding Official –\nOCBO\nEngineering Staff\nRecords\nCustodian –\nOCBO\nRecords\nManagement \nAssistant –\nOCBO\n6. Claim the approved plans \nand"
+    ]
+  ],
+  "ground_truth": [
+    "A Demolition Permit requires a demolition form, 3 sets of civil/architectural plans signed and sealed by a civil engineer/architect, vicinity sketch plan by a geodetic engineer, bill of materials, owner ID, and DPWH clearance if along a national highway."
+  ]
+}

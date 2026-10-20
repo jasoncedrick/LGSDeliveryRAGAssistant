@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Paano ang proseso ng pagpapapalit ng agricultural land patungong commercial use sa ilalim ng CLUP sa Davao?"
+  ],
+  "answer": [
+    "Ang proseso ng pagpapalit ng agricultural land patungong commercial use sa Davao ay nakakita sa Reclassification at Re-Zoning sa Citizen's Charter ng Davao City. Para sa mga detalye, maaari mong dahan-dahan nakit-an sa [S1] sa chunk DEV120-CPDO-PDF0056-C001 sa pages 685. Ang Reclassification ay ang act of specifying na ang agricultural lands ay magagamit para sa non-agricultural uses, tulad ng residential, industrial, at commercial, na nakakita sa CLUP. Ang Re-Zoning, kumakatawan sa process ng pagbabago ng existing zoning ng isang particular area at nakakita sa text at maps ng Ordinance. Ang mga responsable sa pagpapalit ng zoning ay ang City Planning and Development Office (CPDO) at ang kanyang Zoning Enforcement Division."
+  ],
+  "contexts": [
+    [
+      "10. Reclassification and Re-Zoning \nRECLASSIFICATION- The act of specifying how agricultural lands shall be utilized \nfor non-agricultural uses such as residential, industrial, commercial, as embodied in \nthe CLUP. \n \nRE-ZONING – a process of introducing amendments to or change in the existing \nzoning of a particular area and reflected in the text and maps of the Ordinance. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nHighly Technical\nType of",
+      "14. Preliminary Subdivision Development Plan (PSDP) and \nDevelopment Permit (DP) for High End, Low End, Farm Lot and \nMemorial Park \nAn application for subdivision approval based on BP 220, PD 957, and other related \nlaws. Executive Order No. 71, Series of 1993, pursuant to RA 7160, was signed into \nlaw to devolve the powers of the Housing Land Use Regulatory Board to approve \nsubdivision plans to the cities through the City Housing Land Use and Regulatory \nUnit as the technical arm of the Sang",
+      "ANNUAL INSPECTION NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\na. Divisions A-1 and A-2:\ni. Single detached dwelling units and duplexes are not subject to annual inspections.\nii. If the owner request inspections, the fee for each of the services enumerated below is \nP 120.00\nLand Use Conformity\nArchitect"
+    ]
+  ],
+  "ground_truth": [
+    "Reclassification specifies how agricultural lands shall be utilized for non-agricultural uses (residential, commercial, industrial) under the CLUP. It requires CPDO evaluation, Barangay endorsement, City Development Council review, and Sangguniang Panlungsod ordinance approval."
+  ]
+}

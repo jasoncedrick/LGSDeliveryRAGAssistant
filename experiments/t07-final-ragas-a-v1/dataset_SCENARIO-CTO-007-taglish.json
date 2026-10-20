@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Magkano ang extraction fee kada cubic meter at annual fee sa quarrying ng buhangin at graba sa Davao?"
+  ],
+  "answer": [
+    "The extraction fee for each cubic meter of quarrying sand and gravel in Davao is 30.00 Philippine Pesos, as stated in [S2], chunk DEV120-CTO-PDF0008-C003. The annual fee is not specified in the provided sources."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      ". \nd. over 1,500 sq.m. but not more than 2,000 sq. m. \ne. over 2,000 sq.m.\nP 1,500.00\n1,750.00 \n2,000.00 \n2,500.00 \n3,500.00\nSpecial Permit Fee \n200.00\nExtraction Fee \n30.00/cubic meter",
+      "Service fee  \nis Php50.00\nfor\nAmendment\nof\nBusiness\nPermit.\n(paid at the\nCity\nTreasurer’s  \nOffice prior  \nto this step)"
+    ]
+  ],
+  "ground_truth": [
+    "Under Ordinance No. 0291-17 Section 44, commercial sand and gravel extraction requires a Permit to Quarry from CENRO, an approved Business Permit, and monthly extraction reports. The extraction fee is PHP 30.00 per cubic meter, with an annual fee of PHP 1,500.00 to PHP 3,500.00 based on area size."
+  ]
+}

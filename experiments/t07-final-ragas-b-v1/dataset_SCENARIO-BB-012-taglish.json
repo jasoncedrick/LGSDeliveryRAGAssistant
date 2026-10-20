@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang mga requirements at bayarin kapag magsasagawa ng recruitment o job fair ang agency na galing sa labas ng Davao?"
+  ],
+  "answer": [
+    "Sa pagpapagawa ng recruitment o job fair ng isang agency mula sa labas ng Davao, ang mga kailangan ninyong ibigay at bayaran ay nasa mga nababang source blocks:\n\n1. Certificate of Good Standing (1 original) - (From DOLE for local and POEA for overseas) [S2]\n2. Job Order Balances Report duly authenticated by POEA [S2]\n3. Pagkatapos ng pagsubmit ng mga kailangan, ang bayaran ay Php0. Ang proseso ng panahon ay hindi nakalagay sa mga source blocks."
+  ],
+  "contexts": [
+    [
+      "gallery and other similar \ncontrivances – Php300 for the first 5 Days and Php50 per Day thereafter\nBazaar/Exhibit:\n  Event Organizer from Davao - Php500 per Day per location\n Event Organizer Outside Davao (less than 30 exhibitors)- Php1,000/Day per\nactivity exhibitors\n Event Organizer Outside Davao (31-60 exhibitors)- Php2,000/Day per activity\nexhibitors\n Event Organizer Outside Davao (61-100 exhibitors)- Php3,000/Day per activity\nexhibitors",
+      "PERTINENT DOCUMENTS TO BE SUBMITTED SPECIAL PERMIT\nAPPLICATION TO BUSINESS BUREAU\n1. Specific requirements:\n1. Barangay Resolution for concerts, shows or events in open areas (1 original)\n2. Barangay Clearance and cedula for Mahjong (1 original)\n3. Recruitment Activity for recruiter and/or recruitment agencies not based in\nDavao City:\n1.  Certificate of Good Standing (1 original) - (From DOLE for local and POEA\nfor overseas)\n2. Job Order Balances Report duly authenticated by POEA,",
+      "vao City and an Undertaking \nto voluntarily remove all improvements to the \nproperty subject of the application in case of \nmisrepresentation.\n14. Approved Sangguniang Panlungsod Resolution \nthat the area/land subject of the application is \noutside the Higher Susceptibility to Landslide Area\nCLIENT STEPS \nAGENCY \nACTION\nFEES TO \nBE PAID\nPROCESSI\nNG TIME\nPERSON\nRESPONSIB\nLE\n1. Secures checklist of \nrequirements; Submits \nrequirements for pre-\nevaluation\n1.1 Provides \nthe checklist \nof \nrequirements \nand answers \nqueries \nregarding"
+    ]
+  ],
+  "ground_truth": [
+    "Recruitment activities by agencies not based in Davao City require a Certificate of Good Standing from DOLE/POEA, POEA-authenticated Job Order Balances Report, PESO No Objection Certificate, and POEA Special Recruitment Authority. The fee is PHP 1,000.00 (overseas) or PHP 1,200.00 (local) per schedule."
+  ]
+}

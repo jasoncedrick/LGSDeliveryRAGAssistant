@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga technical structural analysis ug CAAP clearance nga kinahanglan para makatukod ug dako nga billboard?"
+  ],
+  "answer": [
+    "Ang mga technical structural analysis ug CAAP clearance ang kinahanglan para makatukod ug dako nga billboard. Ang mga technical structural analysis ay kinakailangan nga mag-submit sa mga kasunduan sa [S2] (OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 567 | chunk DEV120-OCBO-PDF0079-C002). Ang CAAP clearance ay kinakailangan nga mag-submit sa mga kasunduan sa [S1] (OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 501 | chunk DEV120-OCBO-PDF0013-C004)."
+  ],
+  "contexts": [
+    [
+      "Applicant\n9. Approved plan of Building Permit  \n1 original\nOwner/Applicant\n10. If the project has been undertaken/assigned \nto a professional other than the professional-in-\ncharge upon application of building permit, \nsigned and duly notarized waiver from previous \nprofessional in-charge \n     1 original\nWaiving Party\n11. Structure Images with CAAP \nclearance(Submit structural survey for the actual \nbuilding height) signed and sealed by a duly \nlicensed Geodetic Engineer\nCAAP & Hired Geodetic Engineer\nCLIENT",
+      ": \nA.1 Notarized Application Letter \n – 1 original, 1 photocopy \n \nA.2 Structural Plan (Signed & sealed by duly \nlicensed Civil/Structural Engineer) \n – 3 original  \n \nA.3 Project Technical Specification (Signed \nand sealed by a duly licensed designer \n – 1 original \n \nA.4 Bill of Materials (Signed and sealed by a \nduly licensed Architect/Civil Engineer) \n – 1 original \n \nA.5 Structural Design Analysis (Signed and \nsealed by a duly licensed",
+      "Structural Plans\nPlan duly signed and sealed \nby a licensed Civil Engineer \nand Structural Engineer\n10. Drainage Plan with hydraulic computation  \n      Applicant\nPlan signed and sealed by a \nduly licensed Civil Engineer\n11. Geotechnical analysis signed and sealed by a \nduly licensed geologist\nApplicant\nPlan duly signed and sealed \nby a licensed Geologist\n12. MGB Geohazard Certification \nDepartment of Environment \nand Natural Resources- \nMines and Geosciences \nBureau\n13. Additional requirements if applying for"
+    ]
+  ],
+  "ground_truth": [
+    "New Billboard applications require structural plans, design analysis signed by a civil/structural engineer, CPDO locational clearance, Certificate of Structural Stability, insurance policy, DPWH clearance (if along national highway), and CAAP clearance if within 2km of the airport."
+  ]
+}

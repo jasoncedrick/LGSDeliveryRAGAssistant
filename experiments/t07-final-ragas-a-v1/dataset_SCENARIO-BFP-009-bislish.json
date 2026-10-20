@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang proseso para sa bag-ong negosyo kung walay daang valid nga FSIC gikan sa pagkuha ug occupancy permit?"
+  ],
+  "answer": [
+    "Sa pag-apply sa bag-ong negosyo kung walay daang valid nga FSIC gikan sa pagkuha ug occupancy permit, mao ang proseso:\n\n1. Mag-apply sa Business Processing and Licensing Office (BPLO) para sa assessment ng Business Permit Fee/ Tax Assessment Bill. [S2]\n2. Sa pag-apply sa BPLO, maa-require ang wala nga valid na Fire Safety Inspection Certificate (FSIC). [S3]\n3. Sa pag-apply sa BPLO, maa-require ang mga dokumento nga nakalistado sa Citizens' Charter. [S2]\n4. Sa pag-apply sa BPLO, maa-require ang mga business-specific requirements. [S2]\n5. Sa pag-apply sa BPLO, maa-require ang mga dokumento nga nakalistado sa BFP Citizens' Charter. [S3]\n6. Sa pag-apply sa BPLO, maa-require ang mga dokumento nga nakalistado sa BFP Citizens' Charter, kung walay daang valid nga FSIC. [S3]\n7. Sa pag-apply sa BPLO, maa-require ang mga dokumento nga nakalistado sa BFP Citizens' Charter, kung walay daang valid nga FSIC gikan sa pagkuha ug occupancy permit. [S3]\n8. Sa pag-apply sa BPLO, maa-require ang mga dokumento nga nakalistado sa BFP Citizens' Charter, kung walay daang valid nga FSIC gikan sa pagkuha ug occupancy permit, at wala pa rin daang valid nga FSIC. [S3]\n\nWala nakit-an nga impormasyon bahin sa Citizens' Charter kung saan nga maa-require ang mga dokumento nga nakalistado sa BFP Citizens' Charter, kung walay daang valid nga FSIC gikan sa pagkuha ug occupancy permit, at mayroon na daang expired FSIC."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "Assessment of Business Permit Fee/ Tax Assessment Bill from              \nBusiness Processing and Licensing Office (BPLO)\n[REPRESENTATION: Matrix dot shown for: NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC",
+      "any\n[REPRESENTATION: Matrix dot shown for: NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE N"
+    ]
+  ],
+  "ground_truth": [
+    "If a new business permit applicant has no valid FSIC from the occupancy stage, they must submit the Unified Application Form (BOSS) and tax assessment bill, pay the 15% FSIF, and undergo a joint ocular inspection by the BFP."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Anong mga structural stability certs at CAAP clearance ang kailangan para magtayo ng malaking billboard malapit sa airport?"
+  ],
+  "answer": [
+    "Anong mga kailangan para magtayo ng malaking billboard malapit sa airport:\n\n1. Certificate of Structural Stability - 2 original copies [S2, B.6]\n2. DPWH Clearance - 1 original, 1 photocopy [S2, B.8]\n3. CAAP Clearance (with structure images and signed and sealed by a duly licensed Geodetic Engineer) [S3, 11]\n\nReference(s):\n[S2] OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 569\n[S3] OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 501"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "photocopy \n \nB.6. If roof mounted, Certificate of Structural \nStability \n – 2 original \n \nB.7. If rented, Notarized Lease of Contract  \n– 2 original \n \nB.8 For projects along National Highway, \nDPWH Clearance \n– 1 original, 1 photocopy\nOwner/Applicant \n \n \nOwner/Applicant \n \n \n \nOwner/Applicant \n \nOCBO \n \nHired Geodetic Engineer \n \n \n \n \n \nOwner/Applicant \n \n \n \nOwner/Applicant \n \n \nDPWH\nCLIENT STEPS \nAGENCY ACTION \nFEES TO \nBE PAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\n1.",
+      "Applicant\n9. Approved plan of Building Permit  \n1 original\nOwner/Applicant\n10. If the project has been undertaken/assigned \nto a professional other than the professional-in-\ncharge upon application of building permit, \nsigned and duly notarized waiver from previous \nprofessional in-charge \n     1 original\nWaiving Party\n11. Structure Images with CAAP \nclearance(Submit structural survey for the actual \nbuilding height) signed and sealed by a duly \nlicensed Geodetic Engineer\nCAAP & Hired Geodetic Engineer\nCLIENT"
+    ]
+  ],
+  "ground_truth": [
+    "New Billboard applications require structural plans, design analysis signed by a civil/structural engineer, CPDO locational clearance, Certificate of Structural Stability, insurance policy, DPWH clearance (if along national highway), and CAAP clearance if within 2km of the airport."
+  ]
+}

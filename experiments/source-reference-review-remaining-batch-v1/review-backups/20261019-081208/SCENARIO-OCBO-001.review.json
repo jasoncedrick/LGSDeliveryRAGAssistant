@@ -1,0 +1,28 @@
+{
+  "group_id": "SCENARIO-OCBO-001",
+  "review_status": "source_conflict_requires_clarification",
+  "reviewer": "assistant",
+  "findings": [
+    "Correct forms-versus-plans quantities and include omitted Electronics.",
+    "Do not silently fix Mechanical row professional/quantity conflicts.",
+    "Restore other plan/clearance evidence; do not call conditional clearances universal."
+  ],
+  "manual_check": {
+    "type": "blocking_source_conflict",
+    "question": "Confirm Mechanical-plan set count and licensed signing professional: the printed row conflicts internally and names Electronics Engineer.",
+    "source": "OCBO PDF3/printed491 row8",
+    "blocking": "Mechanical subclaim cannot be certified until clarified."
+  },
+  "candidate_applied": false,
+  "limitations": [
+    "Fixed thesis sources, not present-day legal advice.",
+    "Assistant image review is not independent expert certification.",
+    "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+  ],
+  "human_review": {
+  "status": "unresolved",
+  "finding": "It says these mechanical plans must be duly signed and sealed by a licensed Electronics Engineer. The checklist also needs 2 copies of accomplished Form and 5 sets of plans",
+  "evidence": "OCBO PDF3/printed491",
+  "reviewer": "Your name"
+}
+}

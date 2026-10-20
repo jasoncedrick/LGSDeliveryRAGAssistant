@@ -1,0 +1,958 @@
+{
+  "interpretation": "Diagnostic bounds over every binary completion of missing verdicts, with existing valid verdicts fixed. These are not imputed scores, uncertainty intervals or confidence intervals. Remaining judge semantic errors are outside these bounds.",
+  "conditions": [
+    {
+      "tokenizer": "original",
+      "grid_id": 0,
+      "weights": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "k": 3,
+      "failed_queries": 3,
+      "J": null,
+      "lower_bound": 0.1925925925788889,
+      "upper_bound": 0.2157407407250463
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 0,
+      "weights": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "k": 5,
+      "failed_queries": 8,
+      "J": null,
+      "lower_bound": 0.21433641974109732,
+      "upper_bound": 0.23878086418446462
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 1,
+      "weights": [
+        0.0,
+        0.25,
+        0.75
+      ],
+      "k": 3,
+      "failed_queries": 24,
+      "J": null,
+      "lower_bound": 0.6212962962588425,
+      "upper_bound": 0.7462962962529629
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 1,
+      "weights": [
+        0.0,
+        0.25,
+        0.75
+      ],
+      "k": 5,
+      "failed_queries": 28,
+      "J": null,
+      "lower_bound": 0.6025617283668877,
+      "upper_bound": 0.7279166666324348
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 2,
+      "weights": [
+        0.0,
+        0.5,
+        0.5
+      ],
+      "k": 3,
+      "failed_queries": 24,
+      "J": null,
+      "lower_bound": 0.6212962962588425,
+      "upper_bound": 0.7462962962529629
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 2,
+      "weights": [
+        0.0,
+        0.5,
+        0.5
+      ],
+      "k": 5,
+      "failed_queries": 28,
+      "J": null,
+      "lower_bound": 0.6025617283668877,
+      "upper_bound": 0.7279166666324348
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 3,
+      "weights": [
+        0.0,
+        0.75,
+        0.25
+      ],
+      "k": 3,
+      "failed_queries": 24,
+      "J": null,
+      "lower_bound": 0.6249999999621759,
+      "upper_bound": 0.7499999999562963
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 3,
+      "weights": [
+        0.0,
+        0.75,
+        0.25
+      ],
+      "k": 5,
+      "failed_queries": 28,
+      "J": null,
+      "lower_bound": 0.6090432098476654,
+      "upper_bound": 0.7343981481132126
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 4,
+      "weights": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "k": 3,
+      "failed_queries": 24,
+      "J": null,
+      "lower_bound": 0.5925925925512963,
+      "upper_bound": 0.7185185184710186
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 4,
+      "weights": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "k": 5,
+      "failed_queries": 28,
+      "J": null,
+      "lower_bound": 0.5841358024357641,
+      "upper_bound": 0.7021141974930009
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 5,
+      "weights": [
+        0.25,
+        0.0,
+        0.75
+      ],
+      "k": 3,
+      "failed_queries": 23,
+      "J": null,
+      "lower_bound": 0.5851851851483334,
+      "upper_bound": 0.7296296295848148
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 5,
+      "weights": [
+        0.25,
+        0.0,
+        0.75
+      ],
+      "k": 5,
+      "failed_queries": 36,
+      "J": null,
+      "lower_bound": 0.5640123456525854,
+      "upper_bound": 0.7175308641605253
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 6,
+      "weights": [
+        0.25,
+        0.25,
+        0.5
+      ],
+      "k": 3,
+      "failed_queries": 24,
+      "J": null,
+      "lower_bound": 0.6537037036674073,
+      "upper_bound": 0.7694444444031944
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 6,
+      "weights": [
+        0.25,
+        0.25,
+        0.5
+      ],
+      "k": 5,
+      "failed_queries": 32,
+      "J": null,
+      "lower_bound": 0.6459259258977198,
+      "upper_bound": 0.770138888853559
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 7,
+      "weights": [
+        0.25,
+        0.5,
+        0.25
+      ],
+      "k": 3,
+      "failed_queries": 25,
+      "J": null,
+      "lower_bound": 0.6481481481117591,
+      "upper_bound": 0.7759259258847222
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 7,
+      "weights": [
+        0.25,
+        0.5,
+        0.25
+      ],
+      "k": 5,
+      "failed_queries": 32,
+      "J": null,
+      "lower_bound": 0.637515432071273,
+      "upper_bound": 0.7664043209544914
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 8,
+      "weights": [
+        0.25,
+        0.75,
+        0.0
+      ],
+      "k": 3,
+      "failed_queries": 22,
+      "J": null,
+      "lower_bound": 0.6398148147743057,
+      "upper_bound": 0.7574074073635184
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 8,
+      "weights": [
+        0.25,
+        0.75,
+        0.0
+      ],
+      "k": 5,
+      "failed_queries": 35,
+      "J": null,
+      "lower_bound": 0.6200154320677538,
+      "upper_bound": 0.7474537036675197
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 9,
+      "weights": [
+        0.5,
+        0.0,
+        0.5
+      ],
+      "k": 3,
+      "failed_queries": 23,
+      "J": null,
+      "lower_bound": 0.5851851851483334,
+      "upper_bound": 0.7296296295848148
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 9,
+      "weights": [
+        0.5,
+        0.0,
+        0.5
+      ],
+      "k": 5,
+      "failed_queries": 36,
+      "J": null,
+      "lower_bound": 0.5640123456525854,
+      "upper_bound": 0.7175308641605253
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 10,
+      "weights": [
+        0.5,
+        0.25,
+        0.25
+      ],
+      "k": 3,
+      "failed_queries": 23,
+      "J": null,
+      "lower_bound": 0.6620370369971759,
+      "upper_bound": 0.7851851851380557
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 10,
+      "weights": [
+        0.5,
+        0.25,
+        0.25
+      ],
+      "k": 5,
+      "failed_queries": 32,
+      "J": null,
+      "lower_bound": 0.6402932098459929,
+      "upper_bound": 0.7716820987262297
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 11,
+      "weights": [
+        0.5,
+        0.5,
+        0.0
+      ],
+      "k": 3,
+      "failed_queries": 25,
+      "J": null,
+      "lower_bound": 0.6453703703327315,
+      "upper_bound": 0.761111111069074
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 11,
+      "weights": [
+        0.5,
+        0.5,
+        0.0
+      ],
+      "k": 5,
+      "failed_queries": 32,
+      "J": null,
+      "lower_bound": 0.6404320987352108,
+      "upper_bound": 0.7550308641629736
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 12,
+      "weights": [
+        0.75,
+        0.0,
+        0.25
+      ],
+      "k": 3,
+      "failed_queries": 23,
+      "J": null,
+      "lower_bound": 0.5935185184806945,
+      "upper_bound": 0.737962962917176
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 12,
+      "weights": [
+        0.75,
+        0.0,
+        0.25
+      ],
+      "k": 5,
+      "failed_queries": 36,
+      "J": null,
+      "lower_bound": 0.5704320987380905,
+      "upper_bound": 0.7239506172460303
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 13,
+      "weights": [
+        0.75,
+        0.25,
+        0.0
+      ],
+      "k": 3,
+      "failed_queries": 22,
+      "J": null,
+      "lower_bound": 0.6175925925544907,
+      "upper_bound": 0.7407407406982407
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 13,
+      "weights": [
+        0.75,
+        0.25,
+        0.0
+      ],
+      "k": 5,
+      "failed_queries": 31,
+      "J": null,
+      "lower_bound": 0.6007098765133737,
+      "upper_bound": 0.7309104937922678
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 14,
+      "weights": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "k": 3,
+      "failed_queries": 22,
+      "J": null,
+      "lower_bound": 0.5592592592249074,
+      "upper_bound": 0.6907407406997222
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 14,
+      "weights": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "k": 5,
+      "failed_queries": 34,
+      "J": null,
+      "lower_bound": 0.5470370370112878,
+      "upper_bound": 0.6841203703377172
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 15,
+      "weights": [
+        0.4,
+        0.6,
+        0
+      ],
+      "k": 3,
+      "failed_queries": 26,
+      "J": null,
+      "lower_bound": 0.6416666666277314,
+      "upper_bound": 0.7648148147712036
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 15,
+      "weights": [
+        0.4,
+        0.6,
+        0
+      ],
+      "k": 5,
+      "failed_queries": 30,
+      "J": null,
+      "lower_bound": 0.6321141975006035,
+      "upper_bound": 0.7522067900876906
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 16,
+      "weights": [
+        0.4,
+        0.5,
+        0.1
+      ],
+      "k": 3,
+      "failed_queries": 28,
+      "J": null,
+      "lower_bound": 0.6675925925542129,
+      "upper_bound": 0.7972222221785649
+    },
+    {
+      "tokenizer": "original",
+      "grid_id": 16,
+      "weights": [
+        0.4,
+        0.5,
+        0.1
+      ],
+      "k": 5,
+      "failed_queries": 33,
+      "J": null,
+      "lower_bound": 0.6546759258972789,
+      "upper_bound": 0.7823302468792119
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 0,
+      "weights": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "k": 3,
+      "failed_queries": 3,
+      "J": null,
+      "lower_bound": 0.1925925925788889,
+      "upper_bound": 0.2157407407250463
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 0,
+      "weights": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "k": 5,
+      "failed_queries": 8,
+      "J": null,
+      "lower_bound": 0.21433641974109732,
+      "upper_bound": 0.23878086418446462
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 1,
+      "weights": [
+        0.0,
+        0.25,
+        0.75
+      ],
+      "k": 3,
+      "failed_queries": 24,
+      "J": null,
+      "lower_bound": 0.6212962962588425,
+      "upper_bound": 0.7462962962529629
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 1,
+      "weights": [
+        0.0,
+        0.25,
+        0.75
+      ],
+      "k": 5,
+      "failed_queries": 28,
+      "J": null,
+      "lower_bound": 0.6025617283668877,
+      "upper_bound": 0.7279166666324348
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 2,
+      "weights": [
+        0.0,
+        0.5,
+        0.5
+      ],
+      "k": 3,
+      "failed_queries": 24,
+      "J": null,
+      "lower_bound": 0.6212962962588425,
+      "upper_bound": 0.7462962962529629
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 2,
+      "weights": [
+        0.0,
+        0.5,
+        0.5
+      ],
+      "k": 5,
+      "failed_queries": 28,
+      "J": null,
+      "lower_bound": 0.6025617283668877,
+      "upper_bound": 0.7279166666324348
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 3,
+      "weights": [
+        0.0,
+        0.75,
+        0.25
+      ],
+      "k": 3,
+      "failed_queries": 24,
+      "J": null,
+      "lower_bound": 0.6249999999621759,
+      "upper_bound": 0.7499999999562963
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 3,
+      "weights": [
+        0.0,
+        0.75,
+        0.25
+      ],
+      "k": 5,
+      "failed_queries": 28,
+      "J": null,
+      "lower_bound": 0.6090432098476654,
+      "upper_bound": 0.7343981481132126
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 4,
+      "weights": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "k": 3,
+      "failed_queries": 24,
+      "J": null,
+      "lower_bound": 0.5925925925512963,
+      "upper_bound": 0.7185185184710186
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 4,
+      "weights": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "k": 5,
+      "failed_queries": 28,
+      "J": null,
+      "lower_bound": 0.5841358024357641,
+      "upper_bound": 0.7021141974930009
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 5,
+      "weights": [
+        0.25,
+        0.0,
+        0.75
+      ],
+      "k": 3,
+      "failed_queries": 24,
+      "J": null,
+      "lower_bound": 0.6444444444077778,
+      "upper_bound": 0.7685185184775928
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 5,
+      "weights": [
+        0.25,
+        0.0,
+        0.75
+      ],
+      "k": 5,
+      "failed_queries": 35,
+      "J": null,
+      "lower_bound": 0.6315586419475541,
+      "upper_bound": 0.7586111110782029
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 6,
+      "weights": [
+        0.25,
+        0.25,
+        0.5
+      ],
+      "k": 3,
+      "failed_queries": 28,
+      "J": null,
+      "lower_bound": 0.6675925925544907,
+      "upper_bound": 0.7842592592202313
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 6,
+      "weights": [
+        0.25,
+        0.25,
+        0.5
+      ],
+      "k": 5,
+      "failed_queries": 35,
+      "J": null,
+      "lower_bound": 0.6566512345408063,
+      "upper_bound": 0.7830401234258242
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 7,
+      "weights": [
+        0.25,
+        0.5,
+        0.25
+      ],
+      "k": 3,
+      "failed_queries": 25,
+      "J": null,
+      "lower_bound": 0.6916666666288426,
+      "upper_bound": 0.8027777777363424
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 7,
+      "weights": [
+        0.25,
+        0.5,
+        0.25
+      ],
+      "k": 5,
+      "failed_queries": 33,
+      "J": null,
+      "lower_bound": 0.6806018518226515,
+      "upper_bound": 0.7909413579918046
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 8,
+      "weights": [
+        0.25,
+        0.75,
+        0.0
+      ],
+      "k": 3,
+      "failed_queries": 22,
+      "J": null,
+      "lower_bound": 0.6499999999610184,
+      "upper_bound": 0.7555555555151852
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 8,
+      "weights": [
+        0.25,
+        0.75,
+        0.0
+      ],
+      "k": 5,
+      "failed_queries": 35,
+      "J": null,
+      "lower_bound": 0.6344135802161329,
+      "upper_bound": 0.751959876508875
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 9,
+      "weights": [
+        0.5,
+        0.0,
+        0.5
+      ],
+      "k": 3,
+      "failed_queries": 24,
+      "J": null,
+      "lower_bound": 0.6444444444077778,
+      "upper_bound": 0.7685185184775928
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 9,
+      "weights": [
+        0.5,
+        0.0,
+        0.5
+      ],
+      "k": 5,
+      "failed_queries": 35,
+      "J": null,
+      "lower_bound": 0.6315586419475541,
+      "upper_bound": 0.7586111110782029
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 10,
+      "weights": [
+        0.5,
+        0.25,
+        0.25
+      ],
+      "k": 3,
+      "failed_queries": 27,
+      "J": null,
+      "lower_bound": 0.6768518518114351,
+      "upper_bound": 0.8018518518092592
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 10,
+      "weights": [
+        0.5,
+        0.25,
+        0.25
+      ],
+      "k": 5,
+      "failed_queries": 32,
+      "J": null,
+      "lower_bound": 0.653287037008255,
+      "upper_bound": 0.7855864197209157
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 11,
+      "weights": [
+        0.5,
+        0.5,
+        0.0
+      ],
+      "k": 3,
+      "failed_queries": 31,
+      "J": null,
+      "lower_bound": 0.6564814814417129,
+      "upper_bound": 0.7925925925487962
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 11,
+      "weights": [
+        0.5,
+        0.5,
+        0.0
+      ],
+      "k": 5,
+      "failed_queries": 36,
+      "J": null,
+      "lower_bound": 0.6430555555276967,
+      "upper_bound": 0.7898302468796287
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 12,
+      "weights": [
+        0.75,
+        0.0,
+        0.25
+      ],
+      "k": 3,
+      "failed_queries": 26,
+      "J": null,
+      "lower_bound": 0.6648148147756481,
+      "upper_bound": 0.7888888888467593
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 12,
+      "weights": [
+        0.75,
+        0.0,
+        0.25
+      ],
+      "k": 5,
+      "failed_queries": 36,
+      "J": null,
+      "lower_bound": 0.6464506172546899,
+      "upper_bound": 0.7772685184844527
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 13,
+      "weights": [
+        0.75,
+        0.25,
+        0.0
+      ],
+      "k": 3,
+      "failed_queries": 27,
+      "J": null,
+      "lower_bound": 0.641666666628287,
+      "upper_bound": 0.7768518518093983
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 13,
+      "weights": [
+        0.75,
+        0.25,
+        0.0
+      ],
+      "k": 5,
+      "failed_queries": 32,
+      "J": null,
+      "lower_bound": 0.6330864197244055,
+      "upper_bound": 0.7655864197212999
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 14,
+      "weights": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "k": 3,
+      "failed_queries": 25,
+      "J": null,
+      "lower_bound": 0.6212962962602316,
+      "upper_bound": 0.7675925925501389
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 14,
+      "weights": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "k": 5,
+      "failed_queries": 33,
+      "J": null,
+      "lower_bound": 0.622083333305127,
+      "upper_bound": 0.752638888856113
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 15,
+      "weights": [
+        0.4,
+        0.6,
+        0
+      ],
+      "k": 3,
+      "failed_queries": 28,
+      "J": null,
+      "lower_bound": 0.6712962962560648,
+      "upper_bound": 0.7787037036624536
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 15,
+      "weights": [
+        0.4,
+        0.6,
+        0
+      ],
+      "k": 5,
+      "failed_queries": 35,
+      "J": null,
+      "lower_bound": 0.6508950616988937,
+      "upper_bound": 0.7692746913255853
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 16,
+      "weights": [
+        0.4,
+        0.5,
+        0.1
+      ],
+      "k": 3,
+      "failed_queries": 28,
+      "J": null,
+      "lower_bound": 0.6861111110700462,
+      "upper_bound": 0.8092592592173148
+    },
+    {
+      "tokenizer": "punctuation",
+      "grid_id": 16,
+      "weights": [
+        0.4,
+        0.5,
+        0.1
+      ],
+      "k": 5,
+      "failed_queries": 35,
+      "J": null,
+      "lower_bound": 0.673163580217107,
+      "upper_bound": 0.8024845678679143
+    }
+  ],
+  "selection_allowed": false
+}

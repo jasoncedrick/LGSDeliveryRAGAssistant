@@ -1,0 +1,9 @@
+{
+  "normalization_prompt_revision": "REJECT_FOR_PROMOTION: B Hit@3 declines, exact English-copy compliance worsens; acronym retention alone is insufficient.",
+  "sparse_punctuation_candidate": "RETAIN_FOR_CONTEXT_PRECISION_EVALUATION_ONLY: all-query Hit/MRR improve with archived normalization, but no final objective-based selection has occurred.",
+  "BFP_fee_case": "NOT_FULLY_RESOLVED: combined candidate formula rank3, exception rank42. With punctuation only, archived B formula rank11, exception rank34.",
+  "next_step": "Evaluate the punctuation candidate using Chapter 3 Context Precision across all 15 office-language cells; investigate remaining normalization and evidence-coverage limitations before any freeze.",
+  "held_out_accessed": false,
+  "app_defaults_changed": false,
+  "freeze": false
+}

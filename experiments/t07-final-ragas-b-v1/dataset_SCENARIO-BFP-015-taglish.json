@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Paano ang proseso ng pagbabayad sa BFP collecting agent at ilang minuto bago ma-release ang claim stub?"
+  ],
+  "answer": [
+    "Ang proseso ng pagbabayad sa BFP collecting agent ay nakakalabas sa mga hakbang na nabasa sa mga chunk DEV120-BFP-PDF0001-C012 at DEV120-BFP-PDF0001-C013 sa Citizens' Charter ng BFP 2022.\n\n1. Pag-collect ng Official Receipt (OR) at i-issue sa inyong kabuhayan o negosyo (sa kaso ng OSCP/BOSS, ang pagbayad at pag-issue ng OR ay ginagawa sa backroom operation sa kasamaan ng OSCP/BOSS; para sa mga local stations na may MOA sa LGUs, ang pagbayad ng fire code fees/taxes ay ginagawa ng mga LGUs). [S2, S3]\n2. I-record ang detalye ng pagbayad sa logbook/log sheet ng BFP, kasama ang OR number at amount na nabayad. [S1]\n3. I-release ang claim stub. [S1]\n\nAng maximum processing time para sa pagbayad at pag-release ng claim stub ay maaaring makahaba ng ten (10) minutes. [S1, S2]"
+  ],
+  "contexts": [
+    [
+      "xes shall be collected by the LGUs\n\nPROCESSING TIME: maximum of ten (10) minutes\n\nPERSON RESPONSIBLE: Fire Code Collecting Agent (FCCA)\n\nAGENCY ROW 4\n\nCLIENTS STEP: [shared client-step 3 cell; source wording appears in agency row 3]\n\nAGENCY ACTION: 4.Check copy of OR, record in the official\nlogbook/log sheet the details of the payment\n(e.g. OR number amount paid, etc.) and\nrelease the claim stub.\n\nPROCESSING TIME: maximum of five (5) minutes\n\nPERSON",
+      "proceed to releasing\nwindow to claim the stub by presenting the OR.\nNote: Releasing date and time of FSEC is\nindicated in the claim stub.\n\nAGENCY ACTION: 3. Collect the payment and issue Official\nReceipt (OR)\nFor OSCP/BOSS : Backroom operation with\nOSCP/BOSS for one-time payment thru\nco-location\nFor Local Stations with MOA with the LGUs, fire\ncode fees/taxes shall be collected by the LGUs\n\nPROCESSING TIME: maximum of ten (10) minutes\n\nPERSON",
+      "232; 8426-0246; 8426-0253 Local 607 or \nthrough the email at: bfpnhq_ias@yahoo.com or ias.nhq@bfp.gov.ph\nHow Complaints are processed\nIn BFP NHQ, complaints may be filed at the Internal Affairs Service (IAS), who will attend to the Client/Customer    \nconcerns by calling into attention the staff/office concerned from the national level down to the city/municipal level.\nIn BFP Regional and Provincial/District Offices, on"
+    ]
+  ],
+  "ground_truth": [
+    "The Fire Code Collecting Agent (FFCC) collects fire fees, issues the Official Receipt within 10 minutes, records payment details in the official logbook, and releases the claim stub indicating the release date/time for the FSEC/FSIC within 5 minutes."
+  ]
+}

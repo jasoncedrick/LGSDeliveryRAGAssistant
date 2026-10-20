@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Hain nga bili o kantidad ang sundon sa pagkwenta sa buhis sa sunog kung magkalahi ang deklarasyon sa tag-iya ug ang cost table sa balaod?"
+  ],
+  "answer": [
+    "Sa pag-kwenta sa buhis sa sunog, kung magkalahi ang deklarasyon sa tag-iya ug ang cost table sa balaod, ma-adopt ang higher value. Ito ang nakakita sa [S3]. [S2] ang nagbibigay ng impormasyon kung paano mag-compute ang sundon sa pag-evaluate sa cost ng construction."
+  ],
+  "contexts": [
+    [
+      "BUILDING PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\nBases of assessment\nCharacter of occupancy or use of building/structure \nCost of construction \nFloor area \nHeight\nRegardless of the type of construction, the cost of construction of any \nbuilding/structure for the purpose of assessing the corresponding fees shall be \nbased on the following:\nTable II.G.1",
+      "ified estimated value\n(materials and labor) of the building/structure or\nfacility but not more than Php 50,000.00\nSample computation:\nFCCT = (Verified estimated value) x (.1%) = ___Php\nbut not more than Php 50, 000.00\nNote: Section 8.3.6 of JMC 2021-01 Series of\n2021—In the event that there is substantial\ndifference between the cost estimate of the building\nor structure as declared by the owner or applicant\nin the UAF from current acceptable market\nconstruction cost per square meter or as indicated\nin",
+      "nt\nin the UAF from current acceptable market\nconstruction cost per square meter or as indicated\nin Table II.G.1 of PD 1096, the higher the value will\nbe adopted\nFor FSIC (Certificate of Occupancy)/FSIC (New\nBusiness and Renewal of Business) Applica-\ntion\nFSIF = 15% of all fees charge by LGU/Philippine\nEconomic Zone Authority (PEZA) but in no case\nshall be lower than Php 500.00\nSample computation:\nFSIF = (All fees charged by the LGU/"
+    ]
+  ],
+  "ground_truth": [
+    "Under Section 8.3.6 of JMC 2021-01, if there is a substantial difference between the building cost declared by the owner and current market costs in Table II.G.1 of PD 1096, the higher value is adopted for computing fire construction taxes."
+  ]
+}

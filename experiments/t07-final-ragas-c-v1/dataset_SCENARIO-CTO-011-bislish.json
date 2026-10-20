@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ang porsyento sa buhis sa negosyo para sa mga pabrika ug processors kung molapas sa 6.5 milyon ang gross sales?"
+  ],
+  "answer": [
+    "Sa mga pabrika ug processors, ang porsyento sa buhis sa negosyo para sa mga nakapasok sa 6.5 milyon ang gross sales ay hindi nakalabas sa Citizens' Charter. Ang Citizens' Charter lamang nakalabas ng impormasyon sa mga tax rates para sa mga negosyo na molapas sa 50,000.00, 400,000.00, at mas mataas pa. [S1, S2]\n\nSa kaso ng mga negosyo na molapas sa 6.5 milyon ang gross sales, maaaring mag-aral ng mga impormasyon sa mga existing laws at regulations para sa mga tax rates na maaaring ibinibigay sa kanila. [S1]"
+  ],
+  "contexts": [
+    [
+      "the exclusive power to levy taxes on stores whose \ngross sales or receipts of the preceding calendar year does not exceed Fifty Thousand \nPesos (P 50,000.00) subject to existing laws and regulations.\n(e) On Contractors and other Independent Contractors in accordance with the \n           following schedule:\nGross Sales/Receipts for the Preceding Calendar Year \nAmount of Tax Per\nAnnum\nLess than 50,000.00 \n998.25\n50,000.00 or more but less than 75,000.00 \n1,597.20\n75,000.00 or more but less than 100,",
+      "the total sales and shall be \nsubject to the rates not exceeding one-half (1/2) of the rates prescribed under paragraphs \n(a), (b), and (d) of this Article.\n(d) On Retailers:\nGross Sales/Receipts for the Preceding Year \nRate of Tax Per Annum\nMore than P50,000.00 but not over P400,000.00 \n2.2%\nIn excess of P400,000.00 \n1.21%\nHowever, barangays shall have the exclusive power to levy taxes on stores whose \ngross sales or receipts of the preceding",
+      "or terminates business \noperation(s) shall be subject to the payment of taxes, fees and charges on business. \nWithin the period of thirty (30) days of the discontinuance, closure, or termination of \nbusiness, shall surrender to the Permits and Licensing Division the latest original \nbusiness permit/license, present latest official receipt issued for the payment of the \nbusiness taxes, and submit a sworn statement of the gross sales or receipt for the current \nyear or quarter so the corresponding taxes can then be assed and collect"
+    ]
+  ],
+  "ground_truth": [
+    "Manufacturers, assemblers, and processors are subject to graduated fixed taxes ranging from PHP 1,497.38 for gross sales under PHP 50,000 up to PHP 44,240.63 for sales up to PHP 6.5M. Gross sales in excess of PHP 6,500,000.00 are taxed at 46% of 1.0%."
+  ]
+}

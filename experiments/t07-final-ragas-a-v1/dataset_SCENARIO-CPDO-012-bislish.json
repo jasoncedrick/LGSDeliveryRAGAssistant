@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang proseso sa pagpa-reclassify sa agricultural nga yuta ngadto sa commercial use ubos sa CLUP sa siyudad?"
+  ],
+  "answer": [
+    "Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa proseso sa pagpa-reclassify sa agricultural nga yuta ngadto sa commercial use ubos sa CLUP sa siyudad. [S1, S3] do not provide specific information regarding the process of reclassifying agricultural land to commercial use within the Comprehensive Land Use Plan (CLUP) of the city."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "(1) Rice and Corn; \n(2) Wheat or cassava flour, meat, dairy products, locally manufactured, processed or\npreserved food, sugar, salt and agricultural marine, and fresh water products, \nwhether in their original state or not;\n(3) Cooking oil and cooking gas; \n(4) Laundry soap, detergents, and medicine; \n(5) Agricultural implements, equipment and post-harvest facilities, fertilizers,\npesticides, insecticides, herbicides and other farm inputs;\n(6) Poultry feeds and other",
+      "Than 5 Hectares, Commercial \nSand And Gravel Permit. If More Than 5 \nHectares, Mines And Geo Sciences \nBureau / Industrial Sand And Gravel/ \nEarthfill Permit\nNew Application: mandatory Mayor’s \nPermit to Quarry\nIndicate the gross capacity of the trucks"
+    ]
+  ],
+  "ground_truth": [
+    "Reclassification specifies how agricultural lands shall be utilized for non-agricultural uses (residential, commercial, industrial) under the CLUP. It requires CPDO evaluation, Barangay endorsement, City Development Council review, and Sangguniang Panlungsod ordinance approval."
+  ]
+}

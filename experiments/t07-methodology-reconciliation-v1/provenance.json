@@ -1,0 +1,60 @@
+{
+  "input_hashes": {
+    "experiments\\t06-formal-development-validation-v4\\methodology_and_tracker.json": "ee15440a4643968034d4a6451b999a4fadddb2399f6b882acd25943ff66d6281",
+    "experiments\\t07-development-abc-v1\\protocol.json": "fdc7560da6c43e7f61c02c43a6517ad3fa5d7067203d97dfd7d0c66a6f364ee2",
+    "experiments\\t07-development-abc-v1\\A\\interactions.jsonl": "6038a9e4610b9094a8f17474e728b00f7fd85a6954bbb1cae7af37137922baca",
+    "experiments\\t07-development-abc-ragas-a-v1\\scores.json": "7b6a14025b2d4e2afb931142d8b0b426a49b7dfff022435045d5fd9f9861633e",
+    "experiments\\t06-t07-development-closeout-v1\\scores_A.with_retries.json": "47a3c7e66cefd39a1c129c03e801433fa63af742e8ee849e19aded1d0eb83de0",
+    "experiments\\t07-development-abc-v1\\B\\interactions.jsonl": "f1e397d637ad87885736aac21e274a115477e84c35dac3abe478ce430152dd8f",
+    "experiments\\t07-development-abc-ragas-b-v1\\scores.json": "bfe08565e0f338cf19332bad79ff8a7bf680feca6a2de16e5974e444ca78c7fd",
+    "experiments\\t06-t07-development-closeout-v1\\scores_B.with_retries.json": "57b9312fdc23218596a9d25fc39622cfe5bbd68b46c504571092f52ad6d1c17d",
+    "experiments\\t07-development-abc-v1\\C\\interactions.jsonl": "44bf343c4b1d2ed793eb62e2e717c43a6fbd02874b467b31515b8a6c48510963",
+    "experiments\\t07-development-abc-ragas-c-v1\\scores.json": "44bce58c4eb90ee2e0e11a074ff343afbef5c2f47b187b25fdc1d1683b74a88f",
+    "experiments\\t06-t07-development-closeout-v1\\scores_C.with_retries.json": "44bce58c4eb90ee2e0e11a074ff343afbef5c2f47b187b25fdc1d1683b74a88f",
+    "experiments\\t06-t07-development-closeout-v1\\matched_query_comparison.csv": "e977af49787f51cb19b1b2a7138910bb7cd899a3ef54b0f9f61bea807a234663"
+  },
+  "implementation_sha256": "2fe6885d7f4bd8256634baa3b6a93528abadb838971713b57e28eafbf380d2e7",
+  "source_protocol": {
+    "held_out_accessed": false,
+    "freeze": false,
+    "scope": "Paired development diagnostic comparison, not final T07 held-out comparison",
+    "k": 3,
+    "weights_B_C": [
+      0.75,
+      0.25,
+      0.0
+    ],
+    "selection_J": 0.8685185184830554,
+    "source_sha256": "0ae03ce4d3fe9cc36a7b90d46416e5f69ddc4d2d22067496bd3c72d96104d411",
+    "grid_result_sha256": "f73b799ae045293b1a80398e6f071af426ab664979334e19fca8d653d64bf58a",
+    "artifact_hashes": {
+      "corpus": "a0d996dd178eb681825880381741482001b72da5466b2effcf7b870a610017f3",
+      "dictionary": "5ecbcc99538d9a88c7905378abe8a3712831afdfe8e9647cfdf2698600bdab62",
+      "bm25": "3d4ec7020d117f47d59c4a8dbbcfb2b79f69e0471736bd8f2f4bf24af2e4a5c5",
+      "faiss": "19b7d1a025db7daa426afd513d0b20851491053f66d58d857edfb74008c07128",
+      "manifest": "6ac5aca9ffc311ae02945b76979f95ffa80da71af0afc20b15b7090b190fe9f5",
+      "source_pages": "d355eec5c7da652ef8d9a0fbdb914d3d63976be3a20f1b3614b1162984418cbf",
+      "provenance": "47420e8e98d07ad66741b88d7625aa4c0ad2b82c4ada7cedd15e714dde150f79"
+    },
+    "normalization_prompt_sha256": "78bdd64d802aff0a7a36b99553507afe739eda9b8c8f328c5fbeecc128055c86",
+    "answer_prompt_sha256": "c122e29b7e174d0104b01d5e8667611081fa8b53c3e1e5c57b090366a1b56831",
+    "model_digest": "39d9f435aeed825a340db73dfba9e7ce346664aa00727c9066bb1f0352406a6f",
+    "generation_settings": {
+      "temperature": 0,
+      "top_p": 0,
+      "num_ctx": 8192,
+      "num_predict": 1536
+    },
+    "A": "Raw query BM25 only; no normalization or dictionary ambiguity gate",
+    "B": "Archived dictionary-injected normalization; selected fusion weights",
+    "C": "Fresh normalization, matched glossary entries omitted; identical ambiguity gate and retrieval boost",
+    "C_limitation": "Shared static lexical examples in the normalization prompt remain; ablation removes query-specific dictionary injection only.",
+    "retained_outcomes": "All 90 per configuration, including clarification and errors; no hidden retries",
+    "app_defaults_changed": false
+  },
+  "original_scores_changed": false,
+  "new_model_calls": 0,
+  "manual_reviews_required_by_this_export": 0,
+  "held_out_accessed": false,
+  "freeze": false
+}

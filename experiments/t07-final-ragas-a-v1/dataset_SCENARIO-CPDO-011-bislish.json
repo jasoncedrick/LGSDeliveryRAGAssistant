@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga drainage plans ug environmental clearances nga kinahanglan kung magtukod ug negosyo sa Water Resource Zone?"
+  ],
+  "answer": [
+    "Sa negosyo sa Water Resource Zone, kinahanglan ang mga drainage plans ug environmental clearances. Ang mga impormasyon sa mga ito maaabot sa City Planning and Development Office (CPDO) - Zoning Enforcement Division sa chunk DEV120-CPDO-PDF0041-C001 sa page 670 [S2] at sa chunk DEV120-CPDO-PDF0035-C001 sa page 664 [S3] sa Citizen's Charter 2026 ng CPDO."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "8. Issuance of Water Resource Management Council Clearance \nAn application for those areas within the water resource zone wherein a clearance \nshould be secured from the Water Resource Management Council which functions as \nan inter-departmental body to protect the water resources of Davao City. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nHighly Technical\nType of Transaction \nG2G – Government to Government; G2B – \nGovernment to Business; G2C – Government to \nCitizen\nWho may avail \nProperty Owner or Authorized Representa",
+      "22. \nWater Resource Management\nClearance for projects within water \nresource zone\nWater Resource Management \nCouncil\n23. \nBarangay Watershed Management\nCouncil and City Watershed Management \nCouncil Clearance for areas in \nConservation Zone\nBarangay Watershed Management \nCouncil / City Watershed \nManagement Council\n24. \nGolf Construction and Development\nCommittee Clearance (for golf course)\nGolf Construction and \nDevelopment Committee\n25. \nCivil Aviation Authority of the\nPhilippines and Philippine Air Force \nCommand Davao City Clearance (for \nPrivate landing strip, airports, and heliports \nand helipads)\nCivil Aviation Authority of the \nPhilippines / Philippine Air Force \nCommand Davao City Clearance"
+    ]
+  ],
+  "ground_truth": [
+    "Projects inside a Water Resource Zone must secure a WRMC Clearance. Requirements include 1 folder of drawing plans, site development plan, DCWD Certificate of No Objection, geohazard certification, ECC/CNC, drainage plan, sewage treatment facility designs, and oil separator plans (for carwash/shops)."
+  ]
+}

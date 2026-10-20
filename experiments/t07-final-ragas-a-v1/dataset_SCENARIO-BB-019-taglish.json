@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang mga hakbang at notices na ibinibigay ng Business Bureau bago tuluyang ipasara ang isang erring establishment?"
+  ],
+  "answer": [
+    "Before an erring establishment can be closed by the Business Bureau, the following steps and notices are given:\n\n1. Pre-Assessment:\n   - Client Application [S3, S120-BB-PDF0058-C002]\n\nThe Business Bureau first assesses the erring establishment through a client application process."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "CLIENT STEPS \nAGENCY ACTION \nFEES \nTO BE \nPAID\nPROCESSI\nNG TIME\nPERSON\nRESPONSIBLE\n1. Client submits\ncomplete \nrequirements to \nEDP Head and \nreceive Claim \nStub:\n1. EDP Head Receives\ncomplete \nrequirements for \ncancellation, checks \ncompletion of \nrequirements, and \nfills out application \nform for approval of \nBusiness Bureau \nOIC.\nNone\n5 Minutes\nEDP Head -\nBusiness Bureau\n(Window 8 or 9)\n(c/o Mrs. Helen C.\nPore)\n2. \nBusiness Bureau\nOIC approves \napplication for \nCancellation of Business \nPermit",
+      "iang Panlungsod Ordinance (1 original) \nSangguniang Panlungsod\nCOCKFIGHT/DERBY\n1. Business Permit of Cockpit (1 photocopy) \nBusiness Bureau\n2. SP Ordinance (1 original) \nSangguniang Panlungsod\nBARANGAY EVENTS\n1. Barangay Resolution (1 original) \nBarangay Hall\nEXHIBITS\n1. Detailed Plan/Floor Plan \nClient\nCLIENT STEPS \nAGENCY \nACTION\nFEES \nTO BE \nPAID\nPROCESSI\nNG TIME\nPERSON \nRESPONSI\nBLE\nPre-Assessment:\n1.1. Client Application"
+    ]
+  ],
+  "ground_truth": [
+    "Non-compliant businesses receive a 1st Notice of Violation with an inspection report. If uncorrected after re-inspection within 15 days, a 2nd and Final Notice with Cease-and-Desist Order is recommended. Continued non-compliance results in a physical Closure Order within 1 day."
+  ]
+}

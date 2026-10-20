@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Paano kinukwenta ang Transfer Tax sa lupa sa Davao City at magkano ang bayad sa certification fee?"
+  ],
+  "answer": [
+    "The Real Property Transfer Tax in Davao City is calculated based on the total property owned by the taxpayer and the total gross receipts or earnings derived by them. The calculation details are not explicitly provided in the given sources [S1, S2].\n\nFor the Certification Fee, it is not specified in the provided sources [S1, S2]. However, you may need to secure a Real Property Tax Certification, and the process for generating and signing it is outlined in [S1]. The fee for this service might be different and should be inquired directly from the City Treasurer's Office."
+  ],
+  "contexts": [
+    [
+      "4. Real Property Tax Transfer Ownership with Certification\nAssessment issued to taxpayer for payment (Local Revenue Code of Davao City) \nCertification of Payment \nOffice or Division \nOffice of the City Treasurer (CTO) / Real Property Tax Division \n– Assessment / Cash Receipts Division – Collection / \nCertification and Other District Offices\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Title – Photocopy for\nverification only\nRegister of Deeds\n2. No",
+      "in imposed shall be based \nupon the total property owned by them and the total gross receipts or earnings derived \nby them.\nJuridical Persons Liable to Community Tax\nEvery corporation no matter how created or organized, whether domestic or resident-\nforeign, engaged in or doing business in the Philippines whose principal office is located \nin this city shall pay an annual Community Tax of Five Hundred Pesos (P500.00) and an \nadditional tax, which in no case, shall exceed Ten Thousand Pesos (P10,000.00) in \naccordance with the following",
+      "respective District \nOffices.\n4.2 Generate\nand sign \nthe Real \nProperty \nTransfer \nTax \nCertificatio\nn.\n1 Hour \nLocal Treasury\nOperations \nOfficer IV\n-or-\nCTO District \nTreasurers\n5. Client signs the\nlogbook as proof \nof Transfer Tax \nCertification \nrelease at \nWindow 10, \nRPTD, CTO SP \nOffice, or the \nrespective \nDistrict Offices.\n5. Release\nthe Real \nProperty \nTransfer \nTax \nCertificatio\nn to the \nclient.\nNone\n15 Minutes\nTicket Checker\n(CTO\nPoblacion)\n-or-\nAssigned \nPersonnel\n(CTO District\nOffices)\nTOTAL:\nAttach"
+    ]
+  ],
+  "ground_truth": [
+    "The charter literally states: \"Transfer Tax is equal to 87% or 1% based on the consideration or the market value whichever is higher.\" This reports the printed wording; the intended applicable rate is not resolved by that statement. Do not silently replace it with 0.75%.\n\nThe certification fee table lists PHP50 plus PHP20 for each additional page. Requirements: title photocopy for verification only; notarized Deed of Transfer (1 original); Tax Declaration/Declaration of Real Property Tax Valuation (1 original)."
+  ]
+}

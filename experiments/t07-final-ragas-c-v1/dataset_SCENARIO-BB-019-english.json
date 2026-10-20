@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What progressive enforcement actions and notices are issued by the Business Bureau when a business fails ocular inspection?"
+  ],
+  "answer": [
+    "The Business Bureau issues the following progressive enforcement actions and notices when a business fails ocular inspection:\n\n1. Cancellation of the permit and forfeiture of fees: If the business owner fails to perform corrective actions within the reasonable time provided by the Building Official, the latter and/or their duly authorized representative shall forthwith cancel the permit and the fees thereon shall be forfeited. [S2]\n\n2. Internet Café Accreditation is a specific requirement for the issuance of Business Permit, and ocular inspections are conducted to validate business activities. If a business activity related to Internet Cafes does not comply with internet café regulation requirements, it may not receive Internet Café Accreditation, which is necessary for the issuance of a Business Permit. [S1]"
+  ],
+  "contexts": [
+    [
+      "8. Ocular Inspection and ICAB Inspection\nBusiness activities being applied will be validated through ocular inspections. For Internet \nCafes, this procedure intends to issue Internet Café Accreditation to internet cafes and \ncoin operated internet machine business operators who are compliant with internet café \nregulation requirement. Internet Café Accreditation is a specific requirement for the \nissuance of Business Permit. \nOffice or \nDivision\nCity Mayor's Office – Permits & Licenses Division\nClassification Simple (Regular), Complex (Complaint), Highly Technic",
+      ", and the \nOwner fails to perform corrective actions within the reasonable time provided by the \nBuilding Official, the latter and/or their duly authorized representative shall forthwith \ncancel the permit and the fees thereon shall be forfeited.",
+      "conditions   of the   property. \n2.) Exception - a form of deviation which grants a property owner relief from certain \nprovisions of these rules when strict enforcement thereof would result in an \nunnecessary hardship or difficulty upon the owner. \n \nArticle XI Section 42 of the Integrated Zoning Ordinance states that the uses \nenumerated in the proceeding articles on general zone and all sub-zones are not \nexhaustive nor all-inclusive. The Sangguniang Panlungsod; upon application of \nproject proponent and upon favorable recommendation by Local Zoning Board of"
+    ]
+  ],
+  "ground_truth": [
+    "Non-compliant businesses receive a 1st Notice of Violation with an inspection report. If uncorrected after re-inspection within 15 days, a 2nd and Final Notice with Cease-and-Desist Order is recommended. Continued non-compliance results in a physical Closure Order within 1 day."
+  ]
+}

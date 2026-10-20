@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Kailan kailangang mag-submit ng FSCR, FSCCR, at FSMR sa bombero at sinong practitioner ang dapat pumirma nito?"
+  ],
+  "answer": [
+    "The Fire Safety Compliance Report (FSCR), Fire Safety Compliance Certificate (FSCCR), and Fire Safety Maintenance Report (FSMR) should be submitted to the Bureau of Fire Protection (BFP) [S1, S2]. The Fire Safety Practitioner of the contractor or building owner should sign these reports [S2]."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "test and acceptance forms of all fire protection and life safety features, which shall form part of the ―as-built‖\ndocuments turned over by the contractor to the building owner duly signed by the Contractor/Construction Manager and his/her Fire Safety Practitioner.\nNOTE (3) Fire Safety Maintenance Report (FSMR) - A written report prepared by the building owner, his/her fire safety practitioner or authorized representative duly signed by the Building Administrator and his/her Fire Safety Practitioner\nduring the regular annual fire safety inspection.",
+      "Revenue\nCollection Clerk \nI (For Events)\nand\nTicket Checker \n(For Cinema)\n3. Pay the\namusement \ntax at \nCounters 1-4, \nPoblacion, or \nassigned \npersonnel at \nCTO District \nOffices.\n3. Issue Official\nReceipts as \nproof of \npayment at \nCounter 23, \nBusiness Tax \nAssessment \nDivision, City \nTreasurer’s \nOffice, \nSangguniang \nPanlungsod.\n3 Minutes \nWindow 1-4,\nLocal Treasury\nOperations\nOfficer I/ Local\nRevenue \nCollection \nOfficer I –\nCity\nTreasurer’s\nOffice\n-or-\nAssigned\nCollectors at \nCTO District"
+    ]
+  ],
+  "ground_truth": [
+    "FSCR/FSCCR/FSMR are required if the building/facilities/structures are required to install any or a combination of wet standpipe, automatic fire suppression, or automatic fire detection and alarm systems. FSCR consists of plans, specifications and design analysis per building, prepared and duly signed by the Engineer/Architect-of-Record and his/her Fire Safety Practitioner. FSCCR compiles approved submittals, test and acceptance forms for fire protection and life safety features as part of as-built documents turned over by the contractor to the owner; it is duly signed by the Contractor/Construction Manager and his/her Fire Safety Practitioner. FSMR is prepared by the building owner, his/her fire safety practitioner or authorized representative, and duly signed by the Building Administrator and his/her Fire Safety Practitioner during regular annual fire safety inspection. The matrix associates FSCR with FSEC, FSCCR with occupancy FSIC, and FSMR with new business without valid occupancy-stage FSIC and the two renewal columns; blank cells are not exemption statements."
+  ]
+}

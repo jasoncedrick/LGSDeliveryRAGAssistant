@@ -1,0 +1,9 @@
+{
+  "completed": 120,
+  "total": 120,
+  "latest": {
+    "case_id": "SCENARIO-BFP-002-bislish-CONTROL4",
+    "judge_version": "evidence_candidate",
+    "status": "INVALID"
+  }
+}

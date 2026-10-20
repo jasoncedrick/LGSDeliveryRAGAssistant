@@ -1,0 +1,16 @@
+{
+  "group_id": "SCENARIO-CTO-005",
+  "review_status": "needs_correction",
+  "reviewer": "assistant",
+  "findings": [
+    "Restore certification original quantity and new-registrant scope.",
+    "The supplied pages give PHP300 and reference Section58 but do not themselves state the annual-period claim; do not add external legal text."
+  ],
+  "manual_check": null,
+  "candidate_applied": false,
+  "limitations": [
+    "Fixed thesis sources, not present-day legal advice.",
+    "Assistant image review is not independent expert certification.",
+    "Supporting IDs use overlap with explicitly reviewed source spans; an individual ID need not contain the complete answer."
+  ]
+}

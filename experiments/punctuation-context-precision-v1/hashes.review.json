@@ -1,0 +1,16 @@
+{
+  "baseline_comparison.json": "660c38169adbf60c39a1e6ffff327d68384265fe3361f6395677d92d72db27e6",
+  "conceptual_framework_page24.png": "68500f0a7a802eaec3e830798d9af9564e7a3e7b0fd4cd31fc4714ff0c6e0d97",
+  "console.log": "9eede4d2b902fe4f1b4e23c15091a954c63dfaf69eba29b03fb9a647fbbfe879",
+  "context_precision_grid.json": "5d2bf5341ec7c24979716b38627d17466607c6d242b5feb2b24514eb7af5c315",
+  "hashes.post_judging.json": "9b7fa0f378b5827fc006d10dabad5a23cd0c0a5bf3e3c8dfcfcff24c5198e120",
+  "hashes.pre_judging.json": "e98f17c55dcff33b5efcd8b896e7d25257677500678de5fb69e23a2dbd115d58",
+  "judge_progress.json": "ae00fc42a0f9506817c3a0ee80ee05fbedef4deed24439973d14b34f21ba4826",
+  "judge_verdicts.jsonl": "9e956a32f3cbe65ccb909c5bb94161a85ee15d1549ffe29e7258e08d22574894",
+  "METHOD_ALIGNMENT.txt": "45120b4c2af6e5cba49fb63848a8b5009d8a9cf4bba170d952b2412ed72b2af7",
+  "protocol.json": "aee81a1a78ddae9ac4faa16a6d4f847c5775f0bd0daa68acb3783c673fa8f177",
+  "rankings.jsonl": "af30e1eb9de8ba3f1ee566e1f6f618e4c6ec2faedb4549c3229300fdab18cad0",
+  "review_decision.json": "aa31870f0f8ac7a37528532909671198ce397aa837d94bdae69e3e255e876b6c",
+  "REVIEW_RESULTS.txt": "6e0ae8f1a3382080f5f9be46ccde8db0ab70286c105516160456075ae6e61ef9",
+  "validation.json": "5c6b43f528108e1047c128ae3d23574ba5e76acccf5a63c673ad702c48243408"
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Paano mag-request ng official data tungkol sa zoning o land use sa CPDO at ilang araw bago ito marelease?"
+  ],
+  "answer": [
+    "To request official data regarding zoning or land use from the City Planning and Development Office (CPDO), you need to follow these steps:\n\n1. Submit an application for zoning consultation or zoning clearance, depending on your needs. [S2]\n   - The application is evaluated based on the proposed land use activity and its land classification. [S2]\n   - The application is evaluated by the Zoning Officer within 10 minutes. [S2]\n   - If necessary, the Zoning Officer may consult with the ZED Division Chief and Acting Zoning Administration for approval. [S2]\n   - After approval, the Acting Zoning Administrator makes a positive recommendation and updates the BPLS system. [S2]\n\n2. If you are a vendor and wish to operate during special occasions such as Araw ng Dabaw, Kadayawan Festival, City Fiesta, and other celebrations or similar occasions, you may need to pay a fee. [S3]\n   - For special cockfights (Pintakasi), the fee is Php3,000.00 for the first three (3) days. [S3]\n   - If applicable, there is an additional fee of Php400.00. [S3]"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "5 \n– Zone \nRegulations) \n \nNote: Applications \nare evaluated \nbased on the \nproposed land use \nactivity and its land \nclassification\nNone \n10 Minutes \n \nZoning Officer\nIV\nCPDO\n2.5 Consultation \nwith the ZED \nDivision Chief and \nActing Zoning \nAdministration in \nthe approval \napplication\nNone \n10 Minutes \n \nActing Zoning \nAdministrator\nCPDO\n2.6 Makes positive \nrecommendation \nand updates the \nBPLS system\nNone \n5 Minutes \n \nZoning Officer\nIV\nCPDO",
+      "al vendors during special occasions such as Araw ng Dabaw, \nKadayawan Festival, City Fiesta, and other celebrations or similar occasions - \n400.00 if applicable\nCockfighting:\nSpecial Cockfights (Pintakasi)\n First three (3) days –                     Php3,000.00"
+    ]
+  ],
+  "ground_truth": [
+    "Requesting official demographic, zoning, or land-use data from CPDO requires a written letter request (hard copy or email). The request is routed via the Document Tracking System, approved by the Department Head, and processed within 2 days, 3 hours."
+  ]
+}

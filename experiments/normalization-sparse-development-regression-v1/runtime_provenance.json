@@ -1,0 +1,22 @@
+{
+  "checked_at": "2026-10-19T17:27:35.813025",
+  "judge_or_generator_calls": false,
+  "normalizer_model_name": "eboss-mistral",
+  "model_digest": "39d9f435aeed825a340db73dfba9e7ce346664aa00727c9066bb1f0352406a6f",
+  "matches_archived_ABC_model_digest": true,
+  "normalization_settings": {
+    "temperature": 0,
+    "top_p": 0,
+    "num_predict": 150
+  },
+  "code_sha256": {
+    "scripts\\test_normalization_sparse_candidate.py": "e51705aa42002624646b81cfdc2d24c4774dd8afb4778601d006852ca7a72c1e",
+    "src\\query_normalizer.py": "06d874d718e81773d8eb279aa1c9f4b97c3bd1b890c324ee23d9c76f9f0d2b77",
+    "src\\chunk_retriever.py": "626e75dfa905ccbecf8c277660a940d573243e6798abcbde1baf2c28a4920b3b"
+  },
+  "BM25_parameters": {
+    "k1": 1.5,
+    "b": 0.75,
+    "epsilon": 0.25
+  }
+}

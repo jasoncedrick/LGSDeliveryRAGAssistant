@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa nga mga clearance gikan sa Bangko Sentral ang kinahanglan i-presentar sa mga bangko ug pawnshop para sa business permit?"
+  ],
+  "answer": [
+    "Wala nga nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa mga clearance gikan sa Bangko Sentral ang kinahanglan i-presentar sa mga bangko ug pawnshop para sa business permit. [S1, S3]"
+  ],
+  "contexts": [
+    [
+      "15. Preliminary Subdivision Development Plan (PSDP) and \nDevelopment Permit (DP) for Mall, Condominium, Hotel and \nApartment \nArticle XI Section 1 of the Zoning Ordinance states that the projects that listed below \nare required to secure Preliminary Approval and Locational Clearance (PALC) and \nDevelopment Permit (DP) from the Sangguniang Panlungsod which shall be granted \nthrough a resolution by majority votes of all its members. \n \n(For Mall, Condominium, Warehouse, Hotel, Apartment) \nOffice or Division \nCity",
+      "Assessed \nBusiness Permit \nApplication \npresented by the \nclient\nSTEP 2: PAYMENT\n2. Proceed to the \nCity Treasurer’s \nOffice for payment\n2. Process under \nCity Treasurer’s \nOffice\nMayor’s\nPermit Fee is \nbased on the\nasset size\nand nature of\nbusiness\n(paid at the\nCity\nTreasurer’s\nOffice)\nPls. See\nSchedule of\nFees and \nCharges\n9 Minutes \nCity Treasurer’s\nOffice\nEmployees\nSTEP 3: RELEASE\n3. Client uploads \nbusiness line \nspecific documents \nnot required during \npre-assessment \n(BPLS automatically \ninforms",
+      "provided in \nparagraph (e) of this section.\n(f) On Banks and Other Financial Institutions, at the rate of sixty and half percent \n(60.50%) of one percent (1%) of the gross receipts of the preceding calendar year derived \nfrom interest, commissions and discounts from lending activities, income from financial \nleasing, dividends, rentals on property, and profit from exchange or sale of property, \ninsurance premium, including holding companies. All bank transactions filed or negotiated \nwithin Davao City branches, gross receipts of"
+    ]
+  ],
+  "ground_truth": [
+    "Banks require a Bangko Sentral ng Pilipinas (BSP) Authority to Operate for new applications and renewals. Pawnshops, forex dealers, and money remittance entities must submit proof of registration application with the BSP prior to commencement of operations."
+  ]
+}

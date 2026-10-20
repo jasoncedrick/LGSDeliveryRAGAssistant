@@ -1,0 +1,25 @@
+[
+  {
+    "claim": "While the Building Permit is being processed, the Building Official may issue GP&EP for foundation subject to line-and-grade verification, inspection and review. It is valid only for 30 days or superseded upon Building Permit issuance. Fees: inspection/verification PHP200; excavation PHP3 per cubic meter; GP&EP issuance PHP50; foundation excavation with basement PHP4 per cubic meter; excavation other than foundation/basement PHP3 per cubic meter; permitted footing/foundation encroachment into public areas PHP250 per square meter or fraction thereof.",
+    "evidence": [
+      {
+        "source_page_id": "OCBO-PDF0042",
+        "pdf_relative_page": 42,
+        "printed_page": 530,
+        "source_span": "While the application for Building Permit is still being processed, the Building Official \nmay issue Ground Preparation and Excavation Permit (GP&EP) for foundation, subject \nto the verification, inspection and review by the Line and Grade Section of the \nInspection and Enforcement Division to determine compliance to line and grade, \nsetbacks, yards/easements and parking requirements.\nInspection and Verification Fee \nP 200.00\nPer cu. meters of excavation \n3.00\nIssuance of GP & EP, valid only for thirty (30) days or superseded \nupon issuance of Building Permit\n50.00\nPer cu. meter of excavation for foundation with basement \n4.00\nExcavation other than foundation or basement, per cu. meter \n3.00\nEncroachment of footings or foundations of buildings/structures to \npublic areas as permitted, per sq. meter or fraction thereof of footing \nor foundation encroachment\n250.00",
+        "char_start": 174,
+        "char_end": 1049,
+        "supporting_chunk_ids": [
+          "DEV120-OCBO-PDF0042-C001",
+          "DEV120-OCBO-PDF0042-C002",
+          "DEV120-OCBO-PDF0042-C003"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-OCBO-PDF0042-C001",
+      "DEV120-OCBO-PDF0042-C002",
+      "DEV120-OCBO-PDF0042-C003"
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Which high-density commercial developments are required to secure PALC and Development Permits directly from the City Council?"
+  ],
+  "answer": [
+    "Mall, Condominium, Hotel, and Apartment developments are required to secure Preliminary Approval and Locational Clearance (PALC) and Development Permit (DP) directly from the Sangguniang Panlungsod, as stated in [S1]."
+  ],
+  "contexts": [
+    [
+      "15. Preliminary Subdivision Development Plan (PSDP) and \nDevelopment Permit (DP) for Mall, Condominium, Hotel and \nApartment \nArticle XI Section 1 of the Zoning Ordinance states that the projects that listed below \nare required to secure Preliminary Approval and Locational Clearance (PALC) and \nDevelopment Permit (DP) from the Sangguniang Panlungsod which shall be granted \nthrough a resolution by majority votes of all its members. \n \n(For Mall, Condominium, Warehouse, Hotel, Apartment) \nOffice or Division \nCity",
+      "1. Pre-Assessment \nPre-assessment is the process in which the Business Bureau assists the clients in \ncomplying with the prerequisites required by the Regulatory Offices prior to the \napplication of New Business Permit and certain Amendments to it. \nOffice or Division \nCity Mayor's Office – Permits & Licenses Division\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen; G2B – Government to \nBusiness\nWho may avail \nAny natural or juridical person who will be conducting   and \nengaging in any business, trade",
+      "2. Issuance of Business Permit \nIt shall be unlawful for any person or entity to conduct or engage in any business, \ntrade or occupation within the territorial jurisdiction of the City of Davao for which a \npermit is required for the proper supervision and enforcement of existing laws and \nordinances without first having secured a permit therefore from the City Mayor and \npaying the necessary fees to the City Treasurer.\nThe Business Permit is granted for a period of not more than one (1) year and shall \nexpire on the thirty-first (31st) of December"
+    ]
+  ],
+  "ground_truth": [
+    "Under Article XI Section 1, malls, condominiums, hotels, warehouses, and apartments must secure Preliminary Approval and Locational Clearance (PALC) and Development Permit (DP) from the Sangguniang Panlungsod granted through a resolution by majority vote."
+  ]
+}

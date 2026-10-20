@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsaon pag-apply ug Locational Clearance sa negosyo online pinaagi sa BPLS system sa Davao?"
+  ],
+  "answer": [
+    "Sa pag-apply sa Locational Clearance sa negosyo online, mao ang proseso:\n\n1. Mag-apply ka sa City Planning and Development Office (CPDO) sa BPLS system ([S1] DEV120-CPDO-PDF0070-C001).\n2. I-evaluate ang application sa CPDO ([S2] DEV120-CPDO-PDF0071-C001).\n3. Kung ma-approve ang application, mao ang proseso ng ibang offices sa evaluation sa system ([S2] DEV120-CPDO-PDF0071-C001).\n4. Kung ma-deny ang application, mao ang proseso ng pag-update sa status sa BPLS system sa CPDO ([S4] DEV120-CPDO-PDF0074-C001).\n5. Kung ma-deny ang application, mao rin ang proseso ng pag-draft sa Denial Letter sa CPDO ([S4] DEV120-CPDO-PDF0074-C001).\n\nAng mga dokumento na kinakailangan sa application sa online business ay hindi nakalistado sa mga source na ibinigay. Huwag po kamo mahiya magtanong sa CPDO kung saan mo maaari mag-obtain ng impormasyon sa mga kailangan na dokumento."
+  ],
+  "contexts": [
+    [
+      "12. Enforcement of the Integrated Zoning Ordinance (ZO) 2019 – \n2028 in the Issuance of the Locational Clearance (LC) for Business \n– Online Application\nA written authority / permit granted by the City Planning and Development Office \n(previously by the Board) pursuant to applicable laws on land use planning and zoning \nfor the establishment or operation of projects of national / local significance. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nSimple\nType of Transaction \nG2B –",
+      "2. Uploads \nDocumentary \nRequirements\n2.1 Evaluates \napplication\nNone \n5 Minutes \n \nZoning Officer\nIV\nCPDO\n2.2 For Approval \nand Conditional \nApproval, updates \nthe BPLS system \nof the status of \napplication and \nstipulates \nconditions if \nnecessary.  \n \nNote: Once \napproved, other \noffices will \nevaluate \napplication through \nthe system\nNone \n5 Minutes \n \nZoning Officer\nIV\nCPDO\n2.3 For Denied \napplications, \nupdates BPLS \nsystem of the \nstatus of the \napplication.\nNone \n5 Minutes \n \nZoning Officer\nIV\nCPDO\n2.4 Drafts the \nDenial Letter\nNone \n15 Minute",
+      "owners Association\nCertificate of No Objection\nApplicant\n4. \nCertificate of Actual Land\nOccupancy for Migrant (based on RA \n8371)\nApplicant\n5. \nLocational Clearance for Building\nPermit (if applicable)\nApplicant/ City Planning and \nDevelopment Office\n6. \nPRC ID (for license Broker) /\nLicense to Sell / Affidavit of Undertaking \nas not to engage in selling raw lots \n(based PD 957)\nApplicant\n7. \nAffidavit of Undertaking for Online\nBusiness / Booking Office / On-Job Site / \nOn-Call"
+    ]
+  ],
+  "ground_truth": [
+    "Online Locational Clearance for Business is filed via the appbts portal. Clients upload required forms, sketch map, and HOA consent. CPDO evaluates within 5 minutes. If approved, status updates in BPLS; if denied, a denial letter is generated for appeal to LZBAA."
+  ]
+}

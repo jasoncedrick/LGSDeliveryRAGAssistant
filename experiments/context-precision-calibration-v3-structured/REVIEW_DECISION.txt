@@ -1,0 +1,33 @@
+STRUCTURED-OUTPUT CALIBRATION COMPLETE: DO NOT PROMOTE YET
+
+All 60 original controls were evaluated with the unchanged v2 usefulness prompt, model digest, decoding options, controls and evidence validator. Only the Ollama JSON-schema format parameter was added. Expected labels were never supplied to the model.
+
+Observed results
+60/60 initial responses and all four format-only retry responses parse as JSON.
+56/60 passed the evidence/output contract on the first attempt.
+58/60 passed after the allowed single retry for invalid outputs.
+57/60 were both contract-valid and consistent with the existing control labels.
+One contract-valid false positive remains: SCENARIO-OCBO-006-bislish-CONTROL4.
+No contract-valid false negatives occurred.
+Two quote failures remain: SCENARIO-BB-001-english-CONTROL2 and SCENARIO-BB-001-taglish-CONTROL2.
+
+Comparison
+The prior v2 calibration after retries had 59 valid, 55 correct, four false positives and one invalid. Structured output improved semantic agreement on these reused controls and eliminated JSON syntax failures, but did not meet this experiment's predeclared requirement for 60 valid controls. Neither experiment proves independent judge accuracy. Reusing the same controls makes these adaptive diagnostics, not independent evaluation.
+
+Decision
+Do not start the 1,560-pair grid with this candidate. Do not substitute its outputs for the 110 invalid outputs in the old run. Do not lower the screening rule after observing these results. All original traces remain unchanged.
+
+Next focused development task
+Test a separately registered source-linked evidence-selection format that can point to exact source spans without rewriting their text. Keep the usefulness criterion, official context and reference unchanged, and continue checking semantic false positives: guaranteeing quote syntax does not guarantee relevance. First assess the same controls with explicit adaptive-calibration limitations; if the screening rule passes, predeclare a stress test covering old invalid and valid grid outputs before full adoption. No new source reconstruction or retrieval changes are justified by this formatting experiment.
+
+This is an evaluator implementation refinement within the development split. Any resulting evaluator must be versioned and consistently applied to both complete competing grids. Its ranked average-precision calculation and the manuscript's 15-cell Context Precision objective must remain explicit and unchanged. Freeze must precede any held-out A/B/C run.
+
+References
+20260923.pdf PDF33-34 and authoritative main Thesis Tracker T07, checked through the archived methodology_and_tracker.json and manuscript SHA256 before running.
+Ollama structured-output API: https://docs.ollama.com/capabilities/structured-outputs
+
+Verification
+Seven focused unit tests passed. All preserved model responses were independently JSON-parsed after completion. No app defaults, held-out data, corpus, dictionary, original scores, branch or freeze were changed.
+
+Manual action
+No immediate manual source checking is requested. The known negative control disagreement remains visible for independent usefulness auditing. Assistant control labels and notes are not independent employee ratings.

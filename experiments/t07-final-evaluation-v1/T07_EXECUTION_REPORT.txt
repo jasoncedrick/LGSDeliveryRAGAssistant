@@ -1,0 +1,11 @@
+T07 FINAL A/B/C EXECUTION AND CSV EXPORT COMPLETE WITH DOCUMENTED LIMITATIONS
+
+All 630 held-out query/configuration outcomes are archived. Each of 210 queries was retained for A, B and C. Offline RAGAS scoring was attempted once for every eligible answer; clarification, incomplete generation, judge failures and interruptions remain explicit.
+
+master_metrics.csv contains all metric-specific denominators. per_query_metrics.csv retains every outcome; matched_metrics.csv is a shared complete-case descriptive comparison.
+
+Gold coverage is incomplete: 77/87 legacy source spans were identity-transferred, covering 59/70 complete groups (177/210 query variants). The other 11 groups remain in the run with Hit/MRR null. This is execution/export completion, not complete retrieval-label coverage or independent factual certification. Boundary-overlap transfer can broaden relevance; original references and known judge limitations are preserved.
+
+Settings: historical development-selected whitespace BM25, weights .75/.25/0, K3, same Mistral generator and legacy offline evaluator for A/B/C. No model/prompt/weight changes or regeneration were made from test outcomes. Original benchmark hash, candidate registration and execution addendum are archived.
+
+Methodology: 20260923.pdf Chapter3 PDF28,30,32-34; main Thesis Tracker T07. Human employee auditing remains separate.

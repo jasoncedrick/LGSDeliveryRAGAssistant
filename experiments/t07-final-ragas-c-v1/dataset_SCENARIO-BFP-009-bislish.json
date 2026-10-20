@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang proseso para sa bag-ong negosyo kung walay daang valid nga FSIC gikan sa pagkuha ug occupancy permit?"
+  ],
+  "answer": [
+    "Sa pag-apply sa bag-ong negosyo kung walay daang valid nga FSIC gikan sa pagkuha ug occupancy permit, mao ang proseso:\n\n1. Pag-apply sa New Business Permit Without Valid FSIC Issued During Occupancy Permit Stage [S1]\n2. Submit documents, na kini mao ang mga nakit-an:\n   - Design plans, calculations, and specifications signed and sealed by the Professional Engineer/Architect [S2]\n   - As-built plan together with the building permit (If there is changes/modifications) [S2]\n   - Business ID number (If pending, comply with requirements. If denied, proceed to ROs denying the application for further information) [S3]\n   - Affidavit of Undertaking that there had been no substantial changes made on the building) [S3]\n   - Issue Notice to Proceed for the approval by the Regulatory Offices. [S3]\n\nWala pa kini ang impormasyon kung saan mao ang mga lugar na mao nga mag-issue ang FSIC. (Wala akoy nakit-an nga impormasyon bahin niini sa Citizens' Charter)"
+  ],
+  "contexts": [
+    [
+      "NEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPANCY\nPERMIT STAGE\nNEW  BUSINESS    \nPERMIT WITHOUT\nVALID FSIC\nISSUED DURING\nOCCUPANCY\nPERMIT STAGE\nRENEWAL OF\nBUSINESS\nPERMIT\nRENEWAL OF\nBUSINESS PERMIT\nWITHOUT VALID FSIC\nOR EXPIRED FSIC/\nWITH EXISTING\nVIOLATION OF THE\nFIRE CODE/INCLUDED \nIN THE NEGATIVE LIST\nA   P   P   L   I   C   A   T   I   O   N",
+      "Note: \nDocuments \nrefers \nto \ndesign \nplans, \ncalculations \nand\nspecifications signed and sealed by the Professional Engineer/\nArchitect\nAs-built plan together with the building permit (If there is changes/\n[REPRESENTATION: Matrix dot shown for: CERTIFICATE OF OCCUPANCY; NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF",
+      "of Business ID \nnumber. If pending, \ncomply with \nrequirements. If \ndenied, proceed to \nROs denying the \napplication for further \ninformation.\nAffidavit of \nUndertaking that there \nhad been no \nsubstantial changes \nmade on the building) \nand no history, Issue \nNotice to Proceed for \nthe approval by the \nRegulatory Offices.\n- If Complete \nDocumentary \nRequirements (with \nFSIC for Occupancy + \nAffidavit of \nUndertaking that there \nhad been no \nsubstantial changes \nmade on the building) \nbut with history, tag \nPending with \nDeficien"
+    ]
+  ],
+  "ground_truth": [
+    "If a new business permit applicant has no valid FSIC from the occupancy stage, they must submit the Unified Application Form (BOSS) and tax assessment bill, pay the 15% FSIF, and undergo a joint ocular inspection by the BFP."
+  ]
+}

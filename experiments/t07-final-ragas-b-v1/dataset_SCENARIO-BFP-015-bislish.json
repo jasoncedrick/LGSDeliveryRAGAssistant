@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang pamaagi sa pagbayad sa BFP cashier ug pila ka minuto makuha ang claim stub para sa release sa permit?"
+  ],
+  "answer": [
+    "Sa pagbayad sa BFP (Bureau of Fire Protection), ang claim stub para sa release sa permit mo maaabot ka sa BFP cashier. Ang pila ka minuto para makuha ang claim stub ay maaayos nga maximum of ten (10) minutes, basahon sa [S1]. Wala nako nakit-an nga impormasyon bahin sa pang-aabot sa BFP cashier."
+  ],
+  "contexts": [
+    [
+      "proceed to releasing\nwindow to claim the stub by presenting the OR.\nNote: Releasing date and time of FSEC is\nindicated in the claim stub.\n\nAGENCY ACTION: 3. Collect the payment and issue Official\nReceipt (OR)\nFor OSCP/BOSS : Backroom operation with\nOSCP/BOSS for one-time payment thru\nco-location\nFor Local Stations with MOA with the LGUs, fire\ncode fees/taxes shall be collected by the LGUs\n\nPROCESSING TIME: maximum of ten (10) minutes\n\nPERSON",
+      "232; 8426-0246; 8426-0253 Local 607 or \nthrough the email at: bfpnhq_ias@yahoo.com or ias.nhq@bfp.gov.ph\nHow Complaints are processed\nIn BFP NHQ, complaints may be filed at the Internal Affairs Service (IAS), who will attend to the Client/Customer    \nconcerns by calling into attention the staff/office concerned from the national level down to the city/municipal level.\nIn BFP Regional and Provincial/District Offices, on",
+      "2. Issuance of Business Permit \nIt shall be unlawful for any person or entity to conduct or engage in any business, \ntrade or occupation within the territorial jurisdiction of the City of Davao for which a \npermit is required for the proper supervision and enforcement of existing laws and \nordinances without first having secured a permit therefore from the City Mayor and \npaying the necessary fees to the City Treasurer.\nThe Business Permit is granted for a period of not more than one (1) year and shall \nexpire on the thirty-first (31st) of December"
+    ]
+  ],
+  "ground_truth": [
+    "The Fire Code Collecting Agent (FFCC) collects fire fees, issues the Official Receipt within 10 minutes, records payment details in the official logbook, and releases the claim stub indicating the release date/time for the FSEC/FSIC within 5 minutes."
+  ]
+}

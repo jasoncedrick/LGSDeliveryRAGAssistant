@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Magkano ang bayad sa Professional Tax Receipt (PTR) sa Davao at ano ang kailangang dalhin para makakuha?"
+  ],
+  "answer": [
+    "Sa Davao City, ang bayad sa Professional Tax Receipt (PTR) ay hindi nakalalaman sa mga nakalampasan ng mga ibinigay na source blocks. Ngunit, para makakuha ng PTR, kailangan mo ng isang original na Professional Regulatory Commission ID o Integrated Bar of the Philippines ID. Ito ay maaaring kukuhanan mo sa Professional Regulatory Commission sa Juna Subd., Matina, Davao City o sa Integrated Bar of the Philippines. Ang mga ito ay nakalaman sa [S1]. Ang bayad sa PTR ay hindi nakalalaman sa mga nakalampasan ng mga source blocks."
+  ],
+  "contexts": [
+    [
+      "15. Professional Tax \nAssessment issued to taxpayers / clients for payment of Professional Tax Receipt. \nOffice or Division \nOffice of the City Treasurer (CTO) – Business Tax \nAssessment Division/ District Offices\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail \nAll\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Unexpired Professional\nRegulatory Commission ID/ \nIntegrated Bar of the Philippines \nID – 1 original\nProfessional Regulatory Commission, Juna \nSubd., Matina, Davao City / Integrated Bar \nof the",
+      "2. Issuance of Business Permit \nIt shall be unlawful for any person or entity to conduct or engage in any business, \ntrade or occupation within the territorial jurisdiction of the City of Davao for which a \npermit is required for the proper supervision and enforcement of existing laws and \nordinances without first having secured a permit therefore from the City Mayor and \npaying the necessary fees to the City Treasurer.\nThe Business Permit is granted for a period of not more than one (1) year and shall \nexpire on the thirty-first (31st) of December",
+      "In excess 2,000,000.00 \nAt a rate of sixty (60%) \npercent of one percent\n(1%)\nFor purposes of this section, the tax on general engineering, general building, and \nspecialty contractors shall initially be based on the total contract price, payable in equal \nannual installments within the project term. Should a contractor (applicable only to general \nengineering and general building contractor) undertake to furnish the materials in the \nconstruction work, only the cost of such materials shall be deducted from his gross \nreceipts for the purpose of determining the tax due"
+    ]
+  ],
+  "ground_truth": [
+    "The Professional Tax service lists a TOTAL fee of PHP300. Requirements: unexpired PRC/IBP ID (1 original); PRC/IBP certification for new registrants/passers (1 original); current Davao City address and valid contact number/email address.\n\nRegister/log in at ptr.davaocity.gov.ph, generate an Order of Payment, then pay at a Miscellaneous Fees counter or the listed Landbank payment portal."
+  ]
+}

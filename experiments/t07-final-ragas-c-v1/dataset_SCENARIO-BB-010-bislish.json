@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsang permit ug security clearance ang kinahanglan kuhaon kung magpahigayon ug fun-run o motorcade sa siyudad?"
+  ],
+  "answer": [
+    "Ang unsang permit at ang security clearance na kinahanglan kuhaon kung magpahigayon ug fun-run o motorcade sa siyudad ay nakalistado sa [S1] at [S2]. Ang permit na kinahanglan ay ang Business Permit (private agency) (organizer) at ang security clearance ay makukuha sa Public Safety and Security Command Center. [S1] at [S2] ang mga nakalagay na source ng mga impormasyon."
+  ],
+  "contexts": [
+    [
+      "SP Ordinance (1 original)\n4. Barangay Resolution for barangay events (1 original)\n5. Security Clearance from Public Safety and Security Office\n6. Business Permit (private agency) (organizer)\n7. Detailed Plan/Floor Plan (For Exhibits)\n8. Affidavit of Undertaking to strictly follow recommendations.\nSCHEDULE OF FEES\nMeetings, Incentives, Conference, Sports Events and Exhibits - Php500.00/Day\nRecorrida - Php150/Day\nSampling - Php300/Day\nMotorcade - Ph",
+      "jurisdiction of Davao City.\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\nGENERAL REQUIREMENTS\n1. Security Clearance from Public Safety and \nSecurity Office\nPublic Safety and Security \nCommand Center\n2. Business Permit (private agency) (organizer) \nBusiness Bureau\n3. Affidavit of Undertaking to strictly follow \nrecommendations.\nClient\nCONCERTS, SHOWS OR EVENTS IN OPEN AREAS\n1. Barangay Resolution \nBarangay Hall\nMAHJONG\n1. Barangay Clearance \nBarangay Hall\n2. Cedula \nCity Treasurer’s Office\nREC",
+      "9. Issuance of Scaffolding Permit\nA Scaffolding Permit shall be required prior to or during the processing of the building permit or \nbefore the scaffolding is to be erected on the roadway area or pedestrian passage or such areas \nwhere the safety, protection, security and convenience of the general public is primarily considered.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; \nG2G – Government to Government"
+    ]
+  ],
+  "ground_truth": [
+    "A Special Mayor's Permit is required for events involving groups of people such as concerts, bazaars, fun-runs, and motorcades. General requirements include Public Safety and Security Command Center clearance, organizer business permit, and an Affidavit of Undertaking."
+  ]
+}

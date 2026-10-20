@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang mga dagdag na interview at dokumento para sa mga masahista, bar attendants, at menor de edad na kukuha ng Occupational Permit?"
+  ],
+  "answer": [
+    "Sa mga masahista, bar attendants, at mga menor de edad na kukuha ng Occupational Permit, magkakaroon sila ng interview. Ang mga dokumento na kailangan nila ay hindi nakalistado sa mga checklist, pero kung mayroon silang kailangan mag-interview, ang mga kawalan na nakalistado sa [S1] at [S2] ay maaaring kailangan nilang ibigay. [S1] at [S2] ay makakabuo ng impormasyon tungkol sa mga kawalan na kailangan ng mga masahista, bar attendants, at mga menor de edad na kukuha ng Occupational Permit."
+  ],
+  "contexts": [
+    [
+      "ing \ndocuments including \nofficial receipt, and \nverify applicant \ninformation.\n2.2. Conduct interviews \nif the applicant is an \nentertainer, masseur, \nor bar attendant 18-20 \nyears old, or the \napplicant is below 18 \nyears old.\nNone\n14 Minutes \n(Online and \nOnsite)\nOccupational\nPermit\nSection Head\nand\nOccupational\nPermit\nPersonnel\nBusiness \nBureau",
+      "city.gov.p\nh/, select Create \nApplication for New \nor Occupational \nPermit Renewal for \nRenewal, Fill out \nOnline Application \nForm and upload the \nrequired documents \nenumerated in the \nchecklist.\nNote: \n   If the applicant is an \nentertainer, masseur, \nor bar attendant 18-20 \nyears old, or the \napplicant is below 18 \nyears old, he or she \nmust present \nhimself/herself for an \ninterview.\nProcess Proper:\n2.1Receive application \nform and supporting \ndocuments including \nofficial receipt, and \nverify applicant \ninformation.\n2.2. Conduct interview",
+      "ational Permit for \nwalk-in applicants.\nIn case of denial, \nreceive returned \ndocuments and denied \napplication form, and \nreapply.\n3. Approve and \nrelease or deny \napplication.\nNote:\nIf approved, Online \nOccupational Permits \nare digitally signed and \nready for download. \nPrint, sign, and release \nhard copy of \nOccupational Permits in \ncase of walk-in \napplicants.\nIf denied, return \nsubmitted documents \nand ask applicant to \nreapply.\nNone\n14 Minutes \n(Online and\nOnsite)\nOccupa"
+    ]
+  ],
+  "ground_truth": [
+    "Entertainers, masseurs, and bar attendants aged 18-20, or workers below 18, must present themselves for an interview and submit a PSA Birth Certificate, parent/guardian valid ID with appearance, notarized Affidavit of Consent, and City Health ID."
+  ]
+}

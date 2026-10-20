@@ -1,0 +1,20 @@
+{
+  "question": [
+    "What are the required documents for the pre-assessment of a new business permit in Davao City?"
+  ],
+  "answer": [
+    "The required documents for the pre-assessment of a new business permit in Davao City are:\n\n1. Duly filled-out Unified Application Form (1 original) - Business Bureau or at the Web site <https://busbureau.davaocity.gov.ph/> or apply online at <https://appbts.davaocity.gov.ph/> [S4]\n2. Sketch / Google map of Business location (1 original) with pictures of the premise location - App [S4]"
+  ],
+  "contexts": [
+    [
+      "2. Issuance of Business Permit \nIt shall be unlawful for any person or entity to conduct or engage in any business, \ntrade or occupation within the territorial jurisdiction of the City of Davao for which a \npermit is required for the proper supervision and enforcement of existing laws and \nordinances without first having secured a permit therefore from the City Mayor and \npaying the necessary fees to the City Treasurer.\nThe Business Permit is granted for a period of not more than one (1) year and shall \nexpire on the thirty-first (31st) of December",
+      "20. Payment for Permit to Operate (New Mayor’s Permit Application)\nAssessment of Business, Official Receipts issued to new applicants for Business Permits \n(Revenue Code of Davao City). \nOffice or Division \nOffice of the City Treasurer (CTO) – Business Tax \nAssessment Division and CTO District Offices\nClassification \nSimple\nType of Transaction \nG2B – Government to Business\nWho may avail \nAll\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Permit Application approved by\nRegulatory Offices – 1 original\nRequestor\nC",
+      "1. Pre-Assessment \nPre-assessment is the process in which the Business Bureau assists the clients in \ncomplying with the prerequisites required by the Regulatory Offices prior to the \napplication of New Business Permit and certain Amendments to it. \nOffice or Division \nCity Mayor's Office – Permits & Licenses Division\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen; G2B – Government to \nBusiness\nWho may avail \nAny natural or juridical person who will be conducting   and \nengaging in any business, trade",
+      "ail \nAny natural or juridical person who will be conducting   and \nengaging in any business, trade or occupation within the \nterritorial jurisdiction of Davao City\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\nNEW \n1. Duly filled-out Unified Application Form (1 \noriginal)\nBusiness Bureau or at the Web\n site \nhttps://busbureau.davaocity.gov.ph/ \nor apply online at \nhttps://appbts.davaocity.gov.ph/\n2. Sketch / Google map of Business location (1 \noriginal) with pictures of the premise location\nApp",
+      "21. Payment for Permit Operate (Renewal Mayor’s Permit Application)\nAssessment issued to taxpayers for payment (Local Revenue Code of Davao City)\nOffice or Division \nOffice of the City Treasurer (CTO) – Business Tax \nAssessment Division and CTO District Offices\nClassification \nSimple\nType of Transaction \nG2B – Government to Business\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Application for business permit\nrenewal – 1 original\nBusiness Bureau, Sangguniang Panlungsod, \nGround Floor\n2."
+    ]
+  ],
+  "ground_truth": [
+    "For New Business Permit Pre-Assessment, applicants must submit: 1) Duly filled-out Unified Application Form (1 original); 2) Sketch / Google Map of business location with pictures of premises (1 original); 3) Notarized Certified List of Employees or Certification of No Employee (1 original); 4) Valid DTI Registration for Sole Proprietorship, SEC Registration/Articles of Incorporation for Corporation/Partnership, or CDA Registration for Cooperatives (1 photocopy); and 5) Contract of Lease with Lessor's proof of ownership if rented, or proof of ownership if owned (1 photocopy). Applications can be filed online at appbts.davaocity.gov.ph or onsite."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsaon pagsumbong sa OCBO kung naay ilegal o delikado nga construction ug pila ka adlaw sila mag-inspeksyon?"
+  ],
+  "answer": [
+    "Wala akong impormasyon bahin sa Citizens' Charter tungod sa ilang ilang nga mga kaso. Para sa ilang kaso sa illegal o delikado na construction, mao ang proseso sa ilang mga kaso:\n\n1. Pag-sumbong sa BFP (Bureau of Fire Protection) sa ilang mga kaso tungod sa ilang mga violations sa Fire Code. Maaoy gipang-uli sa BFP ang mga kaso, kasama ang mga personnel. Para sa ilang mga kaso, mao ang proseso:\n   - Mag-email ang Client/Customer ang mga detalye sa BFP ([S1]).\n\n2. Para sa ilang mga kaso sa illegal o delikado na construction sa ilang mga lugar, mao ang proseso sa ilang mga kaso sa City Planning and Development Office (CPDO):\n   - Reclassification at Re-Zoning ([S2]):\n     - Reclassification - ang act of specifying how agricultural lands shall be utilized for non-agricultural uses, as embodied in the Comprehensive Land Use Plan (CLUP).\n     - Re-Zoning - ang process of introducing amendments to or change in the existing zoning of a particular area and reflected in the text and maps of the Ordinance.\n   - Validation of Occupancy Permit ([S3]):\n     - Para sa 3-storey buildings and above and for building floor area of 1,500 square meters and above only, ang validation of the Locational Clearance issued by the Office of the City Planning & Development Coordinator ang ginagamit.\n\nSa ilang mga kaso, mao ang proseso:\n   - Mag-inspeksyon ang CPDO ang ilang mga lugar para sa ilang mga kaso."
+  ],
+  "contexts": [
+    [
+      "REDIT” nor Recommend any Brand, Store or Distributor of Fire\nExtinguisher and Fire Fighting Equipment\nAs per BFP Memorandum Circular No. 2016-016\nProhibition of BFP Personnel from Engaging in any act of impropriety and/or corruption pertaining to the enforce-\nment and implementation of the Fire Code and providing sanction thereof.\nHow to file a complaint\nTo file a complaint against the BFP or any of its personnel, the Client/Customer should provide the  following details via \nemail or other form of",
+      "10. Reclassification and Re-Zoning \nRECLASSIFICATION- The act of specifying how agricultural lands shall be utilized \nfor non-agricultural uses such as residential, industrial, commercial, as embodied in \nthe CLUP. \n \nRE-ZONING – a process of introducing amendments to or change in the existing \nzoning of a particular area and reflected in the text and maps of the Ordinance. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nHighly Technical\nType of",
+      "2. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (3-Storey Buildings and Above and \n1,500 Building Floor Area and Above) \nFor 3-storey buildings and above and for building floor area of 1,500 square meters \nand above only.  \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nComplex\nType of Trans"
+    ]
+  ],
+  "ground_truth": [
+    "Complaints regarding Building Code violations require submitting a request/complaint letter. OCBO inspects within 5 days, prepares an Inspection Report, and issues a Notice of Violation or Cease-and-Desist order if illegal construction or structural hazards exist."
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "question": [
+    "Tinuod ba nga kailangan accredited sa BFP ang brand sa fire extinguisher o pwede ba mamaligya ang inspector sa bombero?"
+  ],
+  "answer": [
+    "Wala kaayong kailangan nga i-accredited ang brand sa fire extinguisher sa BFP. Ang BFP ay hindi pwedeng mag-recommend ng isang spesifik na brand ng fire extinguisher. Kung mayroon mga irregularidad, maaari kang mag-report sa mga contact numbers na nabigyan sa isang imahe sa BFP Citizens' Charter 2022 ([S2] at [S3])."
+  ],
+  "contexts": [
+    [
+      "REDIT” nor Recommend any Brand, Store or Distributor of Fire\nExtinguisher and Fire Fighting Equipment\nAs per BFP Memorandum Circular No. 2016-016\nProhibition of BFP Personnel from Engaging in any act of impropriety and/or corruption pertaining to the enforce-\nment and implementation of the Fire Code and providing sanction thereof.\nHow to file a complaint\nTo file a complaint against the BFP or any of its personnel, the Client/Customer should provide the  following details via \nemail or other form of",
+      "applied in Fire\nStation/Lone District\nFire Office)\nThree (3) set of the  following documents\n\n[IMAGE PANEL TRANSCRIPTION — BFP PDF page 1]\nWARNING: BFP PERSONNEL ARE PROHIBITED FROM SELLING OR RECOMMENDING SPECIFIC BRAND OF FIRE EXTINGUISHER.\nREPORT SUCH IRREGULARITY AT THE FOLLOWING CONTACT NUMBERS:\nOFFICE OF THE CHIEF, BFP\nDirect line 426-43-99 Trunk line 426-02-19/426-02-46 Local 7",
+      "s, etc.) as a prerequisite for the\nissuance of appropriate permits and licenses\nfrom the local and other government agencies\nconcerned.\n\nCHECKLIST OF\nREQUIREMENTS/\nDOCUMENTS\nBFP FRONT LINE SERVICES\nFIRE SAFETY  \nEVALUATION \nCLEARANCE\n(FSEC)\nAPPLICATION\nFIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION\nCERTIFICATE OF\nOCCUPANCY\nNEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPAN",
+      "FP\nDirect line 426-43-99 Trunk line 426-02-19/426-02-46 Local 701\nOFFICE OF THE DIRECTORATE FOR FIRE SAFETY AND PREVENTION\nDirect line 426-93-10 Trunk line 426-02-19/426-02-46 Local 404\n\n1. RECHARGE FIRE EXTINGUISHER WHEN IT WAS USED.\n2. RECONDITION FIRE EXTINGUISHER WHEN:\na). The pressure gauge indicates low pressure.\nb). The need is obvious or as recommended by a competent servicing agent.\nc",
+      "city/municipal level.\nIn BFP Regional and Provincial/District Offices, on the other hand, the customer/client can call into attention the    \nRegional, Provincial and District Fire Marshal or their authorized representative staff  officer or the Head of the Unit/\nOffice concerned to resolve complaints and other issues raised. Formal complaints may be coursed through the \nBFP NHQ IAS or the Regional IAS.\nAt the City/Municipal Fire Station level, the Customer Relations Officer (CRO) are responsible or resolving    \nmatters, issues or dispute"
+    ]
+  ],
+  "ground_truth": [
+    "Under BFP Memorandum Circular No. 2016-016 and public anti-corruption warnings, the Bureau of Fire Protection does not accredit, endorse, or recommend any specific brand, store, or distributor of fire extinguishers or fire fighting equipment. BFP personnel are strictly prohibited from selling or recommending fire extinguishers. Portable fire extinguishers are regulated by the Department of Trade and Industry (DTI) through the Bureau of Product Standards (BPS), and establishments may purchase any brand that complies with Philippine National Standards (PNS)."
+  ]
+}

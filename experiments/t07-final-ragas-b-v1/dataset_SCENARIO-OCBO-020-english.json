@@ -1,0 +1,18 @@
+{
+  "question": [
+    "How can citizens report illegal or unsafe building construction in Davao City, and what is the OCBO inspection timeframe?"
+  ],
+  "answer": [
+    "To report illegal or unsafe building construction in Davao City, citizens can contact the Davao City Planning and Development Office (CPDO). However, the Citizens' Charter does not provide specific information on how to report such issues.\n\nRegarding the inspection timeframe for building construction, the City Planning Office (CPDO) conducts inspections and makes an inspection report in accordance with the provisions stipulated in the Integrated Zoning Ordinance (2019-2028) [S3]. The timeframe for this inspection is not explicitly stated in the provided sources.\n\nFor non-compliant applications, an ocular inspection may be conducted for further appropriate action [S3]."
+  ],
+  "contexts": [
+    [
+      "PAVEMENT PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\nConstruction of Pavements, up to 20.00 sq. meters \nP 24.00\nIn excess of 20% or a fraction thereof of paved areas intended for \ncommercial/industrial/institutional use, such as parking and sidewalk areas, \ngasoline station premises, skating rinks, pelo",
+      "EXCAVATION PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\nWhile the application for Building Permit is still being processed, the Building Official \nmay issue Ground Preparation and Excavation Permit (GP&EP) for foundation, subject \nto the verification, inspection and review by the Line and Grade Section of the \nInspection and Enforcement Division",
+      "6.3 Admin \nDivision encodes \napplication to \ndocument \ntracking system \nand routes to \nZED\nNone\n5 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\n6.4 ZED updates \ndocument \ntracking system \nand endorses to \nTechnical \nEvaluators for \nevaluation\nNone \n10 Minutes \n \nZoning Officer\nIV\nCPDO\n6.5 Conducts \nInspection and \nmakes inspection \nreport in \naccordance with \nthe provisions \nstipulated in the \nIntegrated Zoning \nOrdinance (2019-\n2028). \n \nNote: Non-\ncompliant \napplication is \nsubject for \ninspection for \nfurther \nappropriate \naction. \n \n-Ocular \nInspection,"
+    ]
+  ],
+  "ground_truth": [
+    "Complaints regarding Building Code violations require submitting a request/complaint letter. OCBO inspects within 5 days, prepares an Inspection Report, and issues a Notice of Violation or Cease-and-Desist order if illegal construction or structural hazards exist."
+  ]
+}

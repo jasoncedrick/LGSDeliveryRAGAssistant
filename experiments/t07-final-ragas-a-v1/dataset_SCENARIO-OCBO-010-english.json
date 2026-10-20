@@ -1,0 +1,18 @@
+{
+  "question": [
+    "How much is the permit fee for paving commercial parking lots and driveway sidewalks under the National Building Code?"
+  ],
+  "answer": [
+    "The permit fee for paving commercial parking lots and driveway sidewalks under the National Building Code is not explicitly stated in the provided sources. However, the closest related fee is for the use of streets and sidewalks, which is P240.00 for up to 20.00 sq. meters, and every sq. meter or fraction thereof in excess of 20.00 sq. meters is P12.00 [S2]. It's important to note that this fee is for the use of streets and sidewalks, not specifically for commercial parking lots and driveway sidewalks. For more accurate information, it's recommended to contact the Davao City government or visit their official website.\n\n[S2] OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 545 | chunk DEV120-OCBO-PDF0057-C001"
+  ],
+  "contexts": [
+    [
+      "Association Board Resolution \n– 1 original, 1 photocopy\nApplicant (Community Association)\nApplicant’s Certificate of Membership in that \nCommunity Association  \n– 1 original, 1 photocopy\nApplicant (Community Association)\nCity Housing Clearance, in case of government \nhousing projects  \n– 1 original, 1 photocopy  \n  \nIf the housing project is under  \nthe City, the signatory for Lot Owner on the \nBuilding Permit Form should be the City \nAdministrator \n  \nIf the housing project is under the National \nHousing Authority (NHA), the signatory for Lot \nOwner on Building Permit Form should",
+      "SIDEWALK OCCUPANCY PERMIT NEW SCHEDULE OF FEES AND OTHER \nCHARGES OF THE REVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF \nTHE NATIONAL BUILDING CODE OF THE PHILIPPINES (PD 1096)\nUse of Streets and Sidewalks, Enclosures and \nOccupancy of Sidewalks up to 20.00 sq. meters, per \ncalendar month\nP 240.00\nEvery sq. meter or fraction thereof in excess of 20.00 \nsq. meters\n12.00",
+      "EXCAVATION PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\nWhile the application for Building Permit is still being processed, the Building Official \nmay issue Ground Preparation and Excavation Permit (GP&EP) for foundation, subject \nto the verification, inspection and review by the Line and Grade Section of the \nInspection and Enforcement Division"
+    ]
+  ],
+  "ground_truth": [
+    "Pavement construction up to 20.00 sq.m. costs PHP 24.00. Paved areas in excess of 20 sq.m. intended for commercial, industrial, or institutional parking, sidewalks, and gas station premises are assessed PHP 3.00 per sq.m. or fraction thereof."
+  ]
+}

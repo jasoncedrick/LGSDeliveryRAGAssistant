@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga rekisitos ug pirma sa enhinyero nga kinahanglan i-pass sa OCBO sa dili pa mag-guba ug building?"
+  ],
+  "answer": [
+    "Wala akong impormasyon bahin sa Citizens' Charter tungod sa iyong tanan.\n\nAng mga rekisito ug pirma sa enhinyero nga kinahanglan i-pass sa Office of the City Building Official (OCBO) sa wala pa mag-guba ug building ay hindi maaayos nakahusgahan sa mga nakalista sa Citizens' Charter. Ang mga rekisito sa OCBO sa building permit application ay maaari nga makita sa City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf, chunk DEV120-CPDO-PDF0102-C001 sa paggawa ng building permit."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "23. Cemetery Charges\nCollection of fees of grave lots/ pantheons/ niches in all public cemeteries. \nOffice or Division \nOffice of the City Treasurer (CTO) – Cash Receipts \nDivision and CTO Districts Offices\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail \nAll\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Tax Order of Payment – 1 original \nCity Economic Enterprise Office – City Hall, \nDavao City\nCLIENT STEPS \nAGENCY \nACTIONS\nFEES TO \nBE PA",
+      "17. Data Request \nA document given by the Office of the City Planning & Development Coordinator \nbased on the letter request. \nOffice or \nDivision\nCity Planning and Development Office (CPDO) / Administrative \nDivision\nClassification \nSimple\nType of \nTransaction\nG2G – Government to Government; G2C – Government to \nCitizen\nWho may avail \nStakeholders or Authorized Representative\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Letter request; hard copy or via email \nApplicant\nCLIENT STEPS \nAGENCY ACTION \nFEES\nTO \nBE \nPA"
+    ]
+  ],
+  "ground_truth": [
+    "A Demolition Permit requires a demolition form, 3 sets of civil/architectural plans signed and sealed by a civil engineer/architect, vicinity sketch plan by a geodetic engineer, bill of materials, owner ID, and DPWH clearance if along a national highway."
+  ]
+}

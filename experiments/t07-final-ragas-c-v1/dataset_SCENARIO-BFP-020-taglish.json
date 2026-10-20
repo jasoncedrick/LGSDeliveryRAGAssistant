@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Sino ang opisyal sa fire station na namamahala sa pagresolba ng mga reklamo at aberya sa frontline permit processing?"
+  ],
+  "answer": [
+    "Sa Fire Station, ang Customer Relations Officer (CRO) ang nag-aalaga sa pagresolba ng mga reklamo at aberya sa frontline transactions, lalung-lalo na sa mga nakababasa sa pag-uusapan ng application para sa mga permits, clearances at certifications na kaugnay sa implementasyon ng Fire Code at ang kanyang Revised Implementing Rules and Regulations. [S1]\n\nSa ibang pagkakataon, sa BFP Regional at Provincial/District Offices, ang Customer/Client ay maaaring ipakilahok ang Regional, Provincial at District Fire Marshal o ang kanilang authorized representative staff officer o ang Head ng Unit/Office na naunang nakakarating upang magresolba ng mga reklamo at iba pang mga isyu. [S2]\n\nSa City/Municipal Fire Station level, ang Customer Relations Officer (CRO) ang namamahala sa pagresolba ng mga reklamo at iba pang mga isyu. [S3]"
+  ],
+  "contexts": [
+    [
+      "the Customer Relations Officer (CRO) are responsible or resolving    \nmatters, issues or dispute raised by the Client/Customer regarding frontline transactions, specifically those    \narising from the filing of application for permits, clearances and certifications relative to the implementation of the Fire \nCode and its Revised Implementing Rules and Regulations.\nComplaints may be filed at the Regional IAS who has jurisdiction over these matters at the local level.\nIf applied in Fire\nStation/Lone District\nFire Office)\nThree (3) set of the  following documents\n\n[IMA",
+      "city/municipal level.\nIn BFP Regional and Provincial/District Offices, on the other hand, the customer/client can call into attention the    \nRegional, Provincial and District Fire Marshal or their authorized representative staff  officer or the Head of the Unit/\nOffice concerned to resolve complaints and other issues raised. Formal complaints may be coursed through the \nBFP NHQ IAS or the Regional IAS.\nAt the City/Municipal Fire Station level, the Customer Relations Officer (CRO) are responsible or resolving    \nmatters, issues or dispute",
+      "232; 8426-0246; 8426-0253 Local 607 or \nthrough the email at: bfpnhq_ias@yahoo.com or ias.nhq@bfp.gov.ph\nHow Complaints are processed\nIn BFP NHQ, complaints may be filed at the Internal Affairs Service (IAS), who will attend to the Client/Customer    \nconcerns by calling into attention the staff/office concerned from the national level down to the city/municipal level.\nIn BFP Regional and Provincial/District Offices, on"
+    ]
+  ],
+  "ground_truth": [
+    "At the City/Municipal Fire Station level, the Customer Relations Officer (CRO) is responsible for resolving issues, matters, or disputes raised by clients regarding frontline transactions, specifically filing permits, clearances, and fee assessments."
+  ]
+}

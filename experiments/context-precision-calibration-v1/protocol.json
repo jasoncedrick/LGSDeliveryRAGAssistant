@@ -1,0 +1,29 @@
+{
+  "scope": "Offline evaluator calibration only; no pipeline, benchmark, reference or retrieval modifications",
+  "held_out_accessed": false,
+  "freeze": false,
+  "cases": 60,
+  "offices": 5,
+  "languages": 3,
+  "controls_per_office_language": 4,
+  "positives_per_cell": 2,
+  "negatives_per_cell": 2,
+  "source_groups_sha256": "5fd1d4d9f86ccc1f7f3cbf8bd5018c9b88e0085bdd3935b20214eac9445ddfaf",
+  "corpus_sha256": "a0d996dd178eb681825880381741482001b72da5466b2effcf7b870a610017f3",
+  "controls_sha256": "3c3248c706dc80c85e46a48cf925222cca960ffddd34c592f5ba6b1d7f3efdbb",
+  "candidate_instruction_version": "context-precision-evidence-control-v1",
+  "candidate_instruction_sha256": "51652db2c4ada7eff20515a3f7343a4df5850afeb7c43e459c174499112b09ce",
+  "source_review": "Original PDF hashes checked for every control; source passages and prior reviewed reference maps compared before declaring labels.",
+  "judge_versions": [
+    "Original RAGAS 0.1.5 Context Precision prompt plus existing strict JSON format contract",
+    "Same RAGAS prompt with evidence-grounding instruction appended, requiring verbatim context evidence for positive verdicts"
+  ],
+  "expected_labels_not_sent_to_judge": true,
+  "raw_outputs_preserved": true,
+  "invalid_output_policy": "Missing/invalid, never relabeled zero. Quote mismatch is a contract failure, not proof the context is irrelevant.",
+  "classification_policy": "Useful evidence for at least one requested fact is positive; mere topic/office overlap without requested facts is negative. Partial answers are not penalized as irrelevant.",
+  "review_policy": "Report FP/FN, format/evidence failures and valid coverage separately by office/language. No automatic promotion or statistical certification based on this small reused development calibration set.",
+  "supplemental_engineering_scope": "Calibration labels and evidence-quote validator are development diagnostics, not new manuscript performance metrics. Any revised judge must later rescore baseline and candidate with identical settings.",
+  "methodology": "20260923.pdf PDF24-25,31-34: offline evaluation, 15-cell Context Precision objective, development-only tuning and freeze before held-out testing.",
+  "tracker": "Thesis Tracker main tab requirements archived in t06-formal-development-validation-v4/methodology_and_tracker.json; no workbook changes."
+}

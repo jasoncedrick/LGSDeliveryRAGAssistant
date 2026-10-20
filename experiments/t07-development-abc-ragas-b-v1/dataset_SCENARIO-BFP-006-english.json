@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Does the BFP require a specific accredited brand of fire extinguisher, and can BFP inspectors sell equipment?"
+  ],
+  "answer": [
+    "Based on the provided sources [S1] and [S2], the BFP does not require a specific accredited brand of fire extinguisher. Additionally, BFP personnel are prohibited from selling or recommending any brand, store, or distributor of fire extinguishers and firefighting equipment, as per BFP Memorandum Circular No. 2016-016 [S2]. It is also important to note that BFP personnel are prohibited from engaging in any act of impropriety and/or corruption pertaining to the enforcement and implementation of the Fire Code [S2].\n\nRegarding the sale of equipment, the sources do not provide information about BFP inspectors selling equipment. However, a warning is given that BFP personnel are prohibited from selling or recommending specific brands of fire extinguishers, and any irregularity should be reported [S1]."
+  ],
+  "contexts": [
+    [
+      "applied in Fire\nStation/Lone District\nFire Office)\nThree (3) set of the  following documents\n\n[IMAGE PANEL TRANSCRIPTION — BFP PDF page 1]\nWARNING: BFP PERSONNEL ARE PROHIBITED FROM SELLING OR RECOMMENDING SPECIFIC BRAND OF FIRE EXTINGUISHER.\nREPORT SUCH IRREGULARITY AT THE FOLLOWING CONTACT NUMBERS:\nOFFICE OF THE CHIEF, BFP\nDirect line 426-43-99 Trunk line 426-02-19/426-02-46 Local 7",
+      "REDIT” nor Recommend any Brand, Store or Distributor of Fire\nExtinguisher and Fire Fighting Equipment\nAs per BFP Memorandum Circular No. 2016-016\nProhibition of BFP Personnel from Engaging in any act of impropriety and/or corruption pertaining to the enforce-\nment and implementation of the Fire Code and providing sanction thereof.\nHow to file a complaint\nTo file a complaint against the BFP or any of its personnel, the Client/Customer should provide the  following details via \nemail or other form of",
+      "city/municipal level.\nIn BFP Regional and Provincial/District Offices, on the other hand, the customer/client can call into attention the    \nRegional, Provincial and District Fire Marshal or their authorized representative staff  officer or the Head of the Unit/\nOffice concerned to resolve complaints and other issues raised. Formal complaints may be coursed through the \nBFP NHQ IAS or the Regional IAS.\nAt the City/Municipal Fire Station level, the Customer Relations Officer (CRO) are responsible or resolving    \nmatters, issues or dispute"
+    ]
+  ],
+  "ground_truth": [
+    "The BFP public warning says it does not accredit or recommend any brand, store or distributor of fire extinguishers/fire-fighting equipment. Its warning prohibits personnel from selling or recommending a specific fire-extinguisher brand.\n\nThe image panel says portable fire extinguishers are regulated by DTI through BPS and that each type must comply with appropriate Philippine National Standards for product safety/reliability. This supports no BFP brand accreditation; it should not be expanded into a claim that any product is suitable regardless of type or hazard."
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "group_id": "SCENARIO-CPDO-005",
+  "pillar": "City Planning and Development Office",
+  "split": "development",
+  "ground_truth_chunk_ids": [
+    "DEV120-CPDO-PDF0070-C002",
+    "DEV120-CPDO-PDF0070-C003",
+    "DEV120-CPDO-PDF0070-C004",
+    "DEV120-CPDO-PDF0071-C001",
+    "DEV120-CPDO-PDF0071-C002",
+    "DEV120-CPDO-PDF0072-C001"
+  ],
+  "ground_truth_reference_answer": "For online business locational clearance, the checklist lists: uploaded application form; Affidavit of Undertaking for neighbor consent with sketch map showing neighbor location (1 photocopy); Homeowners Association Certificate of No Objection; Certificate of Actual Land Occupancy for Migrant (based on RA8371); Locational Clearance for Building Permit, if applicable; PRC ID for licensed broker/License to Sell/Affidavit of Undertaking not to sell raw lots (PD957); Affidavit of Undertaking for Online Business/Booking Office/On-Job Site/On-Call/Private Garage; pictures showing working area including roads; and sketch map. Additional requirements may be required as the need arises.\n\nThe fee columns and TOTAL state None. The TOTAL is 1 Day and 50 Minutes. This includes denial-letter steps, with signature time dependent on administrator availability; it is not a guaranteed approval deadline. Approved/conditionally approved cases have their BPLS status updated and other offices then evaluate the application.",
+  "queries": {
+    "english": "What are the required documents and processing fees for online business locational clearance evaluated by CPDO?",
+    "taglish": "Ano ang mga kailangang i-upload at magkano ang bayad para sa online business locational clearance sa CPDO?",
+    "bislish": "Unsa ang mga i-upload nga dokumento ug pila ang bayad para sa online Locational Clearance sa negosyo sa CPDO?"
+  },
+  "legacy_ground_truth_chunk_ids": [
+    "CHUNK-CPDO-P699-C01",
+    "CHUNK-CPDO-P699-C02",
+    "CHUNK-CPDO-P701-C01"
+  ],
+  "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED"
+}

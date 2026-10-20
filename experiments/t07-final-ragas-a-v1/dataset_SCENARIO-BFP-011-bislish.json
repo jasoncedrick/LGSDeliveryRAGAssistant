@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Giunsa pagtinabangay ang BFP ug eBOSS sa Davao para sa usa ka assessment ug usa ka bayaran sa permit?"
+  ],
+  "answer": [
+    "Wala akong impormasyon bahin sa Citizens' Charter tungod sa BFP tungod sa assessment ug bayaran sa permit. Ang BFP wala nga mag-rekomendasyon sa bawat brand ng fire extinguisher at fire fighting equipment ([S3]). Ang BFP wala rin mag-benta o mag-rekomendasyon sa bawat store o distributor ng fire extinguisher ([S3]). Ang BFP ay nakapag-proklamasyon sa prohibisyon sa mga kawani nito sa pagbenta o pagrekomendasyon ng bawat brand ng fire extinguisher ([S1]). Ang mga kawani ng BFP ay nakapag-proklamasyon sa prohibisyon sa mga kawani nito sa pagbenta o pagrekomendasyon ng bawat store o distributor ng fire extinguisher ([S1]). Ang mga kawani ng BFP ay nakapag-proklamasyon sa prohibisyon sa mga kawani nito sa pagbenta o pagrekomendasyon ng bawat brand ng fire extinguisher at fire fighting equipment ([S2]). Ang mga kawani ng BFP ay nakapag-proklamasyon sa prohibisyon sa mga kawani nito sa pagbenta o pagrekomendasyon ng bawat store o distributor ng fire extinguisher at fire fighting equipment ([S2]). Ang mga kawani ng BFP ay nakapag-proklamasyon sa prohibisyon sa mga kawani nito sa pagbenta o pagrekomendasyon ng bawat brand ng fire extinguisher, store o distributor ng fire extinguisher at fire fighting equipment ([S1]). Ang mga kawani ng BFP ay nakapag-proklamasyon sa prohibisyon sa mga kawani nito sa pagbenta o pagrekomendasyon ng bawat brand ng fire extinguisher, store o distributor ng fire extinguisher at fire fighting equipment ([S2]). Ang mga kawani ng BFP ay nakapag-proklamasyon sa prohibisyon sa mga kawani nito sa pagbenta o pagrekomendasyon ng bawat brand ng fire extinguisher, store o distributor ng fire extinguisher at fire fighting equipment ([S3]).\n\nAng mga kawani ng BFP ay nakapag-proklamasyon sa prohibisyon sa mga kawani nito sa pagbenta o pagrekomendasyon ng bawat brand ng fire extinguisher, store o distributor ng fire extinguisher at fire fighting equipment ([S1], [S2], [S3])."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "applied in Fire\nStation/Lone District\nFire Office)\nThree (3) set of the  following documents\n\n[IMAGE PANEL TRANSCRIPTION — BFP PDF page 1]\nWARNING: BFP PERSONNEL ARE PROHIBITED FROM SELLING OR RECOMMENDING SPECIFIC BRAND OF FIRE EXTINGUISHER.\nREPORT SUCH IRREGULARITY AT THE FOLLOWING CONTACT NUMBERS:\nOFFICE OF THE CHIEF, BFP\nDirect line 426-43-99 Trunk line 426-02-19/426-02-46 Local 7",
+      "REDIT” nor Recommend any Brand, Store or Distributor of Fire\nExtinguisher and Fire Fighting Equipment\nAs per BFP Memorandum Circular No. 2016-016\nProhibition of BFP Personnel from Engaging in any act of impropriety and/or corruption pertaining to the enforce-\nment and implementation of the Fire Code and providing sanction thereof.\nHow to file a complaint\nTo file a complaint against the BFP or any of its personnel, the Client/Customer should provide the  following details via \nemail or other form of"
+    ]
+  ],
+  "ground_truth": [
+    "Under the eBOSS backroom framework, BFP coordinates with the LGU via automated information sharing for one-time assessment within a maximum of 10 minutes, and co-located one-time payment within 10 minutes."
+  ]
+}

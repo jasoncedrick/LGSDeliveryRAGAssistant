@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang layunin ng Joint Inspection Teams (JIT) ng BFP at LGU sa pag-iinspeksyon ng mga negosyo?"
+  ],
+  "answer": [
+    "Ang layunin ng Joint Inspection Teams (JIT) ng BFP at LGU sa pag-iinspeksyon ng mga negosyo ay limutin ang pag-interaksyon ng mga applicant sa mga opisyal ng LGU, kasama ang pag-inspeksyon ng office/premises ng applicant, in relation sa application for new business permit o renewal. [S1]\n\nSa iba pang pagpapahalaga sa kaligtasan, ang LGUs ay nakakapag-encourage para magamit ang system ng risk classification ng mga negosyo at adopting ang inspection prioritization scheme sa baba sa ito, sa close coordination with the Department of Health para sa Sanitary Permits, at ang BFP para sa Fire Safety Inspection Certificate. [S2]"
+  ],
+  "contexts": [
+    [
+      "te and other  permits or licenses being issued by other government agencies.\nNOTE (4) Section 9.1.2 of JMC No. 01 Series of 2021—To limit the face-to-face interaction between the applicant and the LGU officials, joint inspection teams (‗JITs‖) shall be organized to conduct inspection of the applicant‘s office/\npremises, in relation to an application for new business permit or renewal. (BOSS)\nSection 9.1.4 of JMC No. 01 Series of 2021—To address the lack of personnel of inspect",
+      "9.1.4 of JMC No. 01 Series of 2021—To address the lack of personnel of inspection departments and agencies compared to the number of establishments, LGUs are encouraged to use a system of risk classification of various \nbusinesses and adopt an inspection prioritization scheme on this basis, in close coordination with the Department of Health for Sanitary Permits, the BFP for the Fire Safety Inspection Certificate for the issuance of uniform guidelines on \nrisk inspection for specific sectors. (BOSS)\nAGENCY ROW 1\n\nCLIENTS",
+      "s, etc.) as a prerequisite for the\nissuance of appropriate permits and licenses\nfrom the local and other government agencies\nconcerned.\n\nCHECKLIST OF\nREQUIREMENTS/\nDOCUMENTS\nBFP FRONT LINE SERVICES\nFIRE SAFETY  \nEVALUATION \nCLEARANCE\n(FSEC)\nAPPLICATION\nFIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION\nCERTIFICATE OF\nOCCUPANCY\nNEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPAN"
+    ]
+  ],
+  "ground_truth": [
+    "Section 9.1.2 of JMC 2021-01 mandates the organization of Joint Inspection Teams (JIT) combining LGU inspectors and BFP personnel to conduct joint physical inspections, limiting face-to-face contact and eliminating redundant multiple visits."
+  ]
+}

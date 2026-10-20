@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Tinuod ba nga kailangan accredited sa BFP ang brand sa fire extinguisher o pwede ba mamaligya ang inspector sa bombero?"
+  ],
+  "answer": [
+    "Wala nga kailangan ang brand ng fire extinguisher na mag-apply para sa accreditation sa BFP. Ang mamaligya sa inspector ang BFP ang mag-a-accredit sa fire extinguisher, kabalo nga sa BFP Memorandum Circular No. 2016-016 [S2]."
+  ],
+  "contexts": [
+    [
+      "FP\nDirect line 426-43-99 Trunk line 426-02-19/426-02-46 Local 701\nOFFICE OF THE DIRECTORATE FOR FIRE SAFETY AND PREVENTION\nDirect line 426-93-10 Trunk line 426-02-19/426-02-46 Local 404\n\n1. RECHARGE FIRE EXTINGUISHER WHEN IT WAS USED.\n2. RECONDITION FIRE EXTINGUISHER WHEN:\na). The pressure gauge indicates low pressure.\nb). The need is obvious or as recommended by a competent servicing agent.\nc",
+      "REDIT” nor Recommend any Brand, Store or Distributor of Fire\nExtinguisher and Fire Fighting Equipment\nAs per BFP Memorandum Circular No. 2016-016\nProhibition of BFP Personnel from Engaging in any act of impropriety and/or corruption pertaining to the enforce-\nment and implementation of the Fire Code and providing sanction thereof.\nHow to file a complaint\nTo file a complaint against the BFP or any of its personnel, the Client/Customer should provide the  following details via \nemail or other form of",
+      "importers of these products are required to apply from the BPS for the:\nPhilippine Standard (PS) License (for manufacturers)\nor the\nImport Commodity Clearance (ICC) Certificate (for importers).\nTheir products are subjected to tests based on the requirements of relevant PNS at the BPS Testing Center or DTI-accredited testing laboratories.\n\nKnow your product\nEvery fire extinguisher type has different color bands to distinguish their type. Each type is intended for use for specific flammable materials that are classified into codes:"
+    ]
+  ],
+  "ground_truth": [
+    "The BFP public warning says it does not accredit or recommend any brand, store or distributor of fire extinguishers/fire-fighting equipment. Its warning prohibits personnel from selling or recommending a specific fire-extinguisher brand.\n\nThe image panel says portable fire extinguishers are regulated by DTI through BPS and that each type must comply with appropriate Philippine National Standards for product safety/reliability. This supports no BFP brand accreditation; it should not be expanded into a claim that any product is suitable regardless of type or hazard."
+  ]
+}

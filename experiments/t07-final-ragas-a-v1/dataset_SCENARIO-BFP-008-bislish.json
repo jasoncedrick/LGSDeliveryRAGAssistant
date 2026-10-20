@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Kinahanglan pa ba ug bag-ong inspeksyon sa sunog kung duna nay daan nga valid FSIC gikan sa occupancy permit?"
+  ],
+  "answer": [
+    "Wala kaayong kailangan bag-ong inspeksyon sa sunog kung duna nay daan nga valid FSIC gikan sa occupancy permit. Ang impormasyon na ito maaabot sa [S1] at [S2]. [S1] ang nakakatakda na kung may valid FSIC ang negosyo, wala kaayong kailangan bag-ong inspeksyon sa sunog. [S2] ang nakakatakda na kung wala pa man o expired ang FSIC, wala kaayong kailangan bag-ong inspeksyon sa sunog. Ang FSIC (Fire Safety Inspection Certificate) ay maaaring makakuha sa Fire Safety Inspector Certificate Form (FSIC Application Form) na maaari mo makakuha sa [S3]."
+  ],
+  "contexts": [
+    [
+      "Assessment of Business Permit Fee/ Tax Assessment Bill from              \nBusiness Processing and Licensing Office (BPLO)\n[REPRESENTATION: Matrix dot shown for: NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC",
+      "any\n[REPRESENTATION: Matrix dot shown for: NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE N",
+      "FSIC Application Form (DCN No. BFP-QSF-FSED-002 REV.02 (08.24.20))\n[REPRESENTATION: Application-form cell spans: CERTIFICATE OF OCCUPANCY; NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSIN"
+    ]
+  ],
+  "ground_truth": [
+    "For new business permits where a valid FSIC was already issued during the Occupancy Permit stage, the applicant presents the certified true copy of the valid occupancy FSIC, paying the 15% FSIF assessment without requiring a separate pre-operational inspection."
+  ]
+}

@@ -767,11 +767,11 @@
   "locational clearance": {
     "term_id": "DICT-OCBO-055",
     "language": "Bislish",
-    "verified_english_definition": "Certificate of Locational Viability",
-    "governance_context_tag": "OCBO",
-    "polysemy_flag": true,
-    "disambiguation_rule": "Did you mean [Option A: Locational Clearance for Business Permit via online eBOSS] or [Option B: Locational Clearance for Building Construction of 3-storey structures]?",
-    "curation_source": "manual"
+    "verified_english_definition": "Locational Clearance (LC), a written authority or permit granted by the City Planning and Development Office (CPDO) pursuant to applicable land-use planning and zoning laws for the establishment or operation of projects of national or local significance.",
+    "governance_context_tag": "CPDO",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual; Davao City Citizens Charter 2026, CPDO, printed pages 640, 648, 655, 695 and 699 (PDF pages 11, 19, 26, 66 and 70); OCBO, printed pages 491 and 567 (PDF pages 3 and 79)"
   },
   "lokasyon sa barangay": {
     "term_id": "DICT-BRGY-115",
@@ -848,11 +848,11 @@
   "occupancy permit": {
     "term_id": "DICT-OCBO-052",
     "language": "Bislish",
-    "verified_english_definition": "Certificate of Occupancy",
+    "verified_english_definition": "OCBO Occupancy Permit (Certificate of Occupancy), required before a building or structure, or a portion thereof, is used or occupied, or when its existing use or occupancy classification changes.",
     "governance_context_tag": "OCBO",
-    "polysemy_flag": true,
-    "disambiguation_rule": "Did you mean [Option A: OCBO Certificate of Occupancy for structural safety] or [Option B: Contract of Lease proving authority to occupy business space]?",
-    "curation_source": "manual"
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual; Davao City Citizens Charter 2026, OCBO, Issuance of Occupancy Permit, printed pages 501-504, PDF-relative pages 13-16"
   },
   "occupant load": {
     "term_id": "DICT-BFP-095",
@@ -1345,6 +1345,159 @@
     "language": "Bislish",
     "verified_english_definition": "Locational and Zoning Clearance",
     "governance_context_tag": "OCBO",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "mag renew": {
+    "term_id": "DICT-BB-151",
+    "language": "Bislish",
+    "verified_english_definition": "Business permit renewal application",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "mag-renew": {
+    "term_id": "DICT-BB-152",
+    "language": "Bislish",
+    "verified_english_definition": "Business permit renewal application",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "i-renew": {
+    "term_id": "DICT-BB-153",
+    "language": "Bislish",
+    "verified_english_definition": "Business permit renewal application",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "i-renew ang permit": {
+    "term_id": "DICT-BB-154",
+    "language": "Bislish",
+    "verified_english_definition": "Business permit renewal application",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "lista sa empleyado": {
+    "term_id": "DICT-BB-155",
+    "language": "Bisaya",
+    "verified_english_definition": "List of employees stating name and position (1 copy), required for business permit renewal",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "listahan ng empleyado": {
+    "term_id": "DICT-BB-156",
+    "language": "Tagalog",
+    "verified_english_definition": "List of employees with names and positions for permit renewal",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "SPA": {
+    "term_id": "DICT-CROSS-157",
+    "language": "Bislish",
+    "verified_english_definition": "Special Power of Attorney notarized by a Notary Public, authorizing a representative to act on behalf of a business owner",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "espesyal na kapangyarihan": {
+    "term_id": "DICT-CROSS-158",
+    "language": "Tagalog",
+    "verified_english_definition": "Special Power of Attorney (SPA)",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "partnership resolution": {
+    "term_id": "DICT-BB-159",
+    "language": "Bislish",
+    "verified_english_definition": "Notarized Partnership Resolution granting specific authority and capacity to a representative for business permit transactions",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "board resolution": {
+    "term_id": "DICT-BB-160",
+    "language": "Bislish",
+    "verified_english_definition": "Notarized Board Resolution or Secretary's Certificate granting authority to a business representative for permit applications",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "secretary's certificate": {
+    "term_id": "DICT-BB-161",
+    "language": "Bislish",
+    "verified_english_definition": "Notarized Secretary's Certificate granting representative authority for business permit applications",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "linya sa bisnes": {
+    "term_id": "DICT-BB-162",
+    "language": "Bisaya",
+    "verified_english_definition": "Specific business line or type of business activity declared to the Business Bureau",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "linya sa negosyo": {
+    "term_id": "DICT-BB-163",
+    "language": "Bisaya",
+    "verified_english_definition": "Specific business line or type of business activity",
+    "governance_context_tag": "Business Bureau",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "ugma": {
+    "term_id": "DICT-CROSS-164",
+    "language": "Bisaya",
+    "verified_english_definition": "Tomorrow — temporal expression indicating the following day (used in deadline and appointment queries)",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "karong adlawa": {
+    "term_id": "DICT-CROSS-165",
+    "language": "Bisaya",
+    "verified_english_definition": "Today — temporal expression",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "sa sunod na adlaw": {
+    "term_id": "DICT-CROSS-166",
+    "language": "Bisaya",
+    "verified_english_definition": "The next day or tomorrow",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "sa hapon": {
+    "term_id": "DICT-CROSS-167",
+    "language": "Bisaya",
+    "verified_english_definition": "This afternoon — temporal expression",
+    "governance_context_tag": "Cross_Cutting",
     "polysemy_flag": false,
     "disambiguation_rule": "",
     "curation_source": "manual"

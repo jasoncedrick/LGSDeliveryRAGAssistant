@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ang bayad sa buhis sa mga kan-anan, restaurant, ug catering kung molapas sa 2 milyon ang tinuig nga halin?"
+  ],
+  "answer": [
+    "Sa mga kan-anan, restaurant, ug catering kung molapas sa 2 milyon ang tinuig nga halin, ang bayad sa buhis sa City Treasurer ay 3,993.00. [S1]"
+  ],
+  "contexts": [
+    [
+      ",\nRectifiers, and Compounders of liquors, distilled spirits, and wines or \nmanufacturers of any article of commerce of whatever kind or nature in accordance \nwith the following schedule:\nAmount of Gross Sales/Receipts for the Preceding Tax Per\nAnnum\nLess than 50,000.00 \n1,497.38\n50,000.00 or more but less than 75,000.00 \n2,395.80\n75,000.00 or more but less than 100,000.00 \n2,994.75\n100,000.00 or more but less than 150,000.00 \n3,993.00",
+      "the exclusive power to levy taxes on stores whose \ngross sales or receipts of the preceding calendar year does not exceed Fifty Thousand \nPesos (P 50,000.00) subject to existing laws and regulations.\n(e) On Contractors and other Independent Contractors in accordance with the \n           following schedule:\nGross Sales/Receipts for the Preceding Calendar Year \nAmount of Tax Per\nAnnum\nLess than 50,000.00 \n998.25\n50,000.00 or more but less than 75,000.00 \n1,597.20\n75,000.00 or more but less than 100,",
+      "2. Issuance of Business Permit \nIt shall be unlawful for any person or entity to conduct or engage in any business, \ntrade or occupation within the territorial jurisdiction of the City of Davao for which a \npermit is required for the proper supervision and enforcement of existing laws and \nordinances without first having secured a permit therefore from the City Mayor and \npaying the necessary fees to the City Treasurer.\nThe Business Permit is granted for a period of not more than one (1) year and shall \nexpire on the thirty-first (31st) of December"
+    ]
+  ],
+  "ground_truth": [
+    "Restaurants, cafes, eateries, caterers, and amusement places without wagering pay graduated taxes up to PHP 9,160.31 for receipts up to PHP 2,000,000.00. Gross receipts in excess of PHP 2,000,000.00 are taxed at 43% of 1.0%."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga requirements, pila ang bayad kada hektarya, ug pila ka adlaw makuha ang Zoning Certification sa CPDO?"
+  ],
+  "answer": [
+    "Sa CPDO (City Planning and Development Office), ang mga requirements sa Zoning Certification wala nay bayad. Ang mga detalye sa proseso nga nakapasok sa Zoning Certification maoy nakatanggap sa [S1] sa chunk DEV120-CPDO-PDF0003-C002. Ang mga adlaw na nakatabang sa pagsulod sa Zoning Certification ay 2 araw sa pag-sign ng certification ng Zoning Officer at 5 hours sa pag-re-evaluate ng documents ng Division Chief of GIS.\n\nSa re-classification at re-zoning, ang mga detalye maoy nakatanggap sa [S2] sa chunk DEV120-CPDO-PDF0056-C001. Ang mga requirements sa re-classification at re-zoning ay ma-handle sa Office or Division ng City Planning and Development Office (CPDO) - Zoning Enforcement Division. Ang mga adlaw na nakatabang sa pagsulod sa re-classification at re-zoning wala nay nakatanggap sa mga nakatanggap sa mga source.\n\nSa BFP (Bureau of Fire Protection), ang mga complaints maoy makakuha sa Internal Affairs Service (IAS) sa BFP NHQ sa email address: bfpnhq_ias@yahoo.com o ias.nhq@bfp.gov.ph o sa Local 607. Ang mga detalye sa mga complaints sa BFP maoy nakatanggap sa [S3] sa chunk DEV120-BFP-PDF0001-C050. Ang mga adlaw na nakatabang sa pagsulod sa complaints sa BFP wala nay nakatanggap sa mga nakatanggap sa mga source."
+  ],
+  "contexts": [
+    [
+      "CPDO\n4.4 Plots the \ntechnical \ndescription of the \nproperty, prints \nmap and it will \nbe returned the \ndocuments to \nZED\nNone \n1 Day \n \nDivision Chief of\nGIS\n4.5 Re-evaluates \nthe documents \nand prepares the \nZoning \nCertification\nNone \n5 Hours \n \nZoning Officer\nIV\nCPDO\n4.6 Signs the \ncertification \n(initial and final)\nNone \n2 Days\ndepending upon \nthe availability\nof Zoning\nAdministrator\nActing Zoning \nAdministrator\nCPDO",
+      "10. Reclassification and Re-Zoning \nRECLASSIFICATION- The act of specifying how agricultural lands shall be utilized \nfor non-agricultural uses such as residential, industrial, commercial, as embodied in \nthe CLUP. \n \nRE-ZONING – a process of introducing amendments to or change in the existing \nzoning of a particular area and reflected in the text and maps of the Ordinance. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nHighly Technical\nType of",
+      "232; 8426-0246; 8426-0253 Local 607 or \nthrough the email at: bfpnhq_ias@yahoo.com or ias.nhq@bfp.gov.ph\nHow Complaints are processed\nIn BFP NHQ, complaints may be filed at the Internal Affairs Service (IAS), who will attend to the Client/Customer    \nconcerns by calling into attention the staff/office concerned from the national level down to the city/municipal level.\nIn BFP Regional and Provincial/District Offices, on"
+    ]
+  ],
+  "ground_truth": [
+    "The CPDO Zoning Enforcement Division issues Zoning Certification based on the Integrated Zoning Ordinance (2019-2028). The checklist requires: Certified True Copy of Title(s), 1 photocopy, from the Registry of Deeds; duly accomplished application form, 1 original, from CPDO; Subdivision/Sketch Plan, 1 original, from Bureau of Land/private Geodetic Engineer; Order of Payment, 1 original, from CPDO; and Official Receipt, 1 original, from the City Treasurer's Office. The zoning fee is PHP 750 per hectare; the payment step depends on CTO processing time, described as uncontrollable time. The charter lists a TOTAL processing time of 3 Days, 6 Hours, and 50 Minutes."
+  ]
+}

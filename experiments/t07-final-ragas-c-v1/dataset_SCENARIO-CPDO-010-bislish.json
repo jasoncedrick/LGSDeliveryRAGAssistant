@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang kalainan sa Variance ug Exception kung mag-apply ug pabor sa physical standards o zoning rules sa siyudad?"
+  ],
+  "answer": [
+    "Variance at Exception sa Davao City ang kalainan sa property owner nga mag-apply sa relief sa baw-an nga mga provisyon sa physical standards o zoning rules sa siyudad. Ang Variance ay isa sa mga pang-unsa na nakatanggi sa deviation, na nakatanggi sa kasunduan tungod sa kasalukuyang rules sa building height, area requirement, setback at iba pa. Ang Exception, kasama na rito ang kasunduan tungod sa kasalukuyang rules, nakatanggi sa kasunduan tungod sa kasalukuyang enforcement, na mag-result sa kahirapan o kadunggan sa property owner. [S1, S2]\n\nArticle XI Section 42 sa Integrated Zoning Ordinance nga nakatanggi sa mga uses sa mga artikulo sa general zone at sub-zones ay hindi exhaustive o all-inclusive. Ang Sangguniang Panlungsod, pag-apply sa proyekto proponent at pag-approve ng Local Zoning Board, ma-approve ang mga pang-unsa na nakatanggi sa physical standards o zoning rules. [S2]"
+  ],
+  "contexts": [
+    [
+      "7. Request for Additional Allowable Use \nThere are two (2) types of applications under additional allowable use: \n \n1.) Variance - a form of deviation which grants a property owner relief from certain \nprovisions of these rules when strict compliance with physical standards/guidelines \nsuch as building height, area requirement, setback and the like would result in \nunnecessary hardship of difficulty upon the owner due to the peculiar physical \nsurroundings, shape   or   topographical conditions   of the   property. \n2.) Exception - a form of deviation which grants a property",
+      "conditions   of the   property. \n2.) Exception - a form of deviation which grants a property owner relief from certain \nprovisions of these rules when strict enforcement thereof would result in an \nunnecessary hardship or difficulty upon the owner. \n \nArticle XI Section 42 of the Integrated Zoning Ordinance states that the uses \nenumerated in the proceeding articles on general zone and all sub-zones are not \nexhaustive nor all-inclusive. The Sangguniang Panlungsod; upon application of \nproject proponent and upon favorable recommendation by Local Zoning Board of",
+      "Natural Resources- \nMines and Geosciences \nBureau\n13. Additional requirements if applying for \nexemptions for residential purposes:\n Proof that the lot was acquired prior to the\neffectivity of the 2013 Zoning Ordinance \namendment, except if the property was \nacquired through hereditary succession.\n Omnibus \nAffidavit \nstating \nthat \nthe\napplicant/landowner has no other property \nclassified as residential for zoning purposes, \nanywhere in Davao City and an Undertaking \nto voluntarily remove all improvements to the \nproperty subject of the"
+    ]
+  ],
+  "ground_truth": [
+    "Under Article XI Section 42 of the Integrated Zoning Ordinance, property owners can apply for a Variance (relief due to physical/topographical hardship regarding height, setback, area) or Exception (relief from strict enforcement). Requires LZBAA review and City Council resolution."
+  ]
+}

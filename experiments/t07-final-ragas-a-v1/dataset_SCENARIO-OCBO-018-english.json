@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What electrical fees are assessed on standby emergency generators, transformers, and commercial UPS installations?"
+  ],
+  "answer": [
+    "The electrical fees for standby emergency generators, transformers, and commercial UPS installations are determined based on the Total Transformer/UPS/Generator Capacity. The fees are calculated according to the kVA (Kilovolt-Ampere) of the total capacity.\n\nFor the electrical fees schedule, refer to Section 4.e Electrical Fees in the Citizen Charter 2026 [S1]. The fees are as follows:\n\n- Over 300 kVA to 1,500 kVA: 720.00 + 1.00/kVA\n- Over 1,500 kVA to 6,000 kVA: 1,920.00 + 0.50/kVA\n- Over 6,000 kVA: 4,170.00 + 0.25/kVA\n\nThe Note in [S1] states that the Total Transformer/UPS/Generator Capacity shall include all transformers, UPS, and generators which are owned/installed by the owner/applicant as shown in the electrical plans and specifications.\n\nFor the fees assessment on construction, refer to Table II.G.1 On Fixed Cost of Construction Per Sq. Meter in the Citizen Charter 2026 [S3]. However, the table does not explicitly mention standby emergency generators, transformers, and commercial UPS installations. It provides fees for construction/additional/renovation/alteration of buildings/structures, but the fees are based on the location and group of the construction, not on the specific equipment like generators or UPS."
+  ],
+  "contexts": [
+    [
+      "es \nshall be charged to cover all inspection trips during construction.\nii. Annual Inspection Fees are the same as in Section 4.e.\nSection 4.e Electrical Fees:\nThe following schedule shall be used for computing electrical fees in residential, \ninstitutional, commercial and industrial structures:\na. Total Connected Load (kVA) Fee\n5 kVA or less \nP 200.00\nOver 5 kVA to 50 kVA \n200.00 + P 20.00/kVA\nOver 50 kVA to 300 kVA \n1,100.00 + 10.00/kVA\nOver 300",
+      "Over 300 kVA to 1,500 kVA \n720.00 + 1.00/kVA\nOver 1,500 kVA to 6,000 kVA \n1,920.00 + 0.50/kVA\nOver 6,000 kVA \n4,170.00 + 0.25/kVA\nNOTE: Total Transformer/UPS/Generator Capacity shall include all transformer, UPS \nand generators which are owned/installed by the owner/applicant as shown in the \nelectrical plans and specifications.\nc. Pole/Attachment Location Plan Permit\nPower Supply Pole Location",
+      "of assessing the corresponding fees shall be \nbased on the following:\nTable II.G.1 On Fixed Cost of Construction Per Sq. Meter\nLOCATION \nGROUP\nAll Cities and \nMunicipalities\nA,B,C,D,E,G,H,I \nF \nJ\nP10,000.00 \nP8,000.00 \nP6,000.00\nConstruction/additional/renovation/alteration of buildings/structures under \nGroup/s and Sub-Divisions shall be assessed as follows:\n3.a Division A-1\nArea in sq.meter \nFee per sq"
+    ]
+  ],
+  "ground_truth": [
+    "Transformer, UPS, and generator capacity fees under Section 4.b are: 5 kVA or less = PHP 40.00; over 5 to 50 kVA = PHP 40 + PHP 4/kVA; over 50 to 300 kVA = PHP 220 + PHP 2/kVA; over 300 to 1,500 kVA = PHP 720 + PHP 1/kVA; over 6,000 kVA = PHP 4,170 + PHP 0.25/kVA."
+  ]
+}

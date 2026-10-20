@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Which valuation is adopted for fire code tax computation if a building owner's cost estimate differs from Table II.G.1 of PD 1096?"
+  ],
+  "answer": [
+    "If a building owner's cost estimate differs from Table II.G.1 of PD 1096 for the fire code tax computation, the higher value will be adopted, as stated in [S1]."
+  ],
+  "contexts": [
+    [
+      "nt\nin the UAF from current acceptable market\nconstruction cost per square meter or as indicated\nin Table II.G.1 of PD 1096, the higher the value will\nbe adopted\nFor FSIC (Certificate of Occupancy)/FSIC (New\nBusiness and Renewal of Business) Applica-\ntion\nFSIF = 15% of all fees charge by LGU/Philippine\nEconomic Zone Authority (PEZA) but in no case\nshall be lower than Php 500.00\nSample computation:\nFSIF = (All fees charged by the LGU/",
+      "BUILDING PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\nBases of assessment\nCharacter of occupancy or use of building/structure \nCost of construction \nFloor area \nHeight\nRegardless of the type of construction, the cost of construction of any \nbuilding/structure for the purpose of assessing the corresponding fees shall be \nbased on the following:\nTable II.G.1",
+      "of assessing the corresponding fees shall be \nbased on the following:\nTable II.G.1 On Fixed Cost of Construction Per Sq. Meter\nLOCATION \nGROUP\nAll Cities and \nMunicipalities\nA,B,C,D,E,G,H,I \nF \nJ\nP10,000.00 \nP8,000.00 \nP6,000.00\nConstruction/additional/renovation/alteration of buildings/structures under \nGroup/s and Sub-Divisions shall be assessed as follows:\n3.a Division A-1\nArea in sq.meter \nFee per sq"
+    ]
+  ],
+  "ground_truth": [
+    "Under Section 8.3.6 of JMC 2021-01, if there is a substantial difference between the building cost declared by the owner and current market costs in Table II.G.1 of PD 1096, the higher value is adopted for computing fire construction taxes."
+  ]
+}

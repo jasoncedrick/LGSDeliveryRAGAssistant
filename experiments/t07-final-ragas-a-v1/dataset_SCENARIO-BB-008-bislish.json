@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsay kinahanglan i-submit kung mag-ilis o magtarong sa ngalan sa negosyo sa business permit?"
+  ],
+  "answer": [
+    "Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa iyong tanong tungkol sa i-submit sa Fire Safety Compliance Report (FSCR) o Fire Safety Evaluation Clearance (FSEC) kung mag-inis o magtarong sa ngalan sa negosyo sa business permit. Ang mga detalye sa mga aplikasyon form sa FSCR at FSEC maaoy nakita sa [S3] at [S4]. Ang mga detalye sa business permit maaoy nakita sa [S2]."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "WAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST. Other service cells are blank in source; blank is not an exemption statement.]\n\nO   T   H   E   R     D   O   C   U   M   E   N   T   S\nFire Safety Compliance Report (FSCR) NOTE (1)\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION",
+      "UDED \nIN THE NEGATIVE LIST\nA   P   P   L   I   C   A   T   I   O   N      F   O   R   M\nApplied in Fire Station/Lone District Fire Office \nBFP FSEC\nApplication Form\n(DCN No. BFP-QSF-\nFSED-001 REV.02\n(08.24.20))\n[REPRESENTATION: Application-form cell spans: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION.]\n\nBFP FSIC Application Form (DCN No. BFP-QSF-FSED-002 RE"
+    ]
+  ],
+  "ground_truth": [
+    "Changing or correcting a business name requires a notarized Affidavit of Change of Name/Correction, SPA or Board Resolution, valid ID of representative, birth/marriage certificate if applicable, DTI trade name or amended SEC/CDA registration, and latest Mayor's Permit. A PHP 50.00 amendment fee applies."
+  ]
+}

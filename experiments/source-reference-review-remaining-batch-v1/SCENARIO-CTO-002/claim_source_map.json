@@ -1,0 +1,55 @@
+[
+  {
+    "claim": "The charter literally states: \"Transfer Tax is equal to 87% or 1% based on the consideration or the market value whichever is higher.\" This reports the printed wording; the intended applicable rate is not resolved by that statement. Do not silently replace it with 0.75%.",
+    "evidence": [
+      {
+        "source_page_id": "CTO-PDF0011",
+        "pdf_relative_page": 11,
+        "printed_page": 166,
+        "source_span": "Transfer Tax is equal to 87% or 1% based on the consideration or the market value \nwhichever is higher",
+        "char_start": 716,
+        "char_end": 818,
+        "supporting_chunk_ids": [
+          "DEV120-CTO-PDF0011-C002"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-CTO-PDF0011-C002"
+    ],
+    "interpretation_note": "User requests that the printed 87% or 1% be explicitly stated."
+  },
+  {
+    "claim": "The certification fee table lists PHP50 plus PHP20 for each additional page. Requirements: title photocopy for verification only; notarized Deed of Transfer (1 original); Tax Declaration/Declaration of Real Property Tax Valuation (1 original).",
+    "evidence": [
+      {
+        "source_page_id": "CTO-PDF0011",
+        "pdf_relative_page": 11,
+        "printed_page": 166,
+        "source_span": "Clearances, certifications issued by other \noffices not herein specified (plus Twenty Pesos {P 20.00} for every \nadditional page)\nP 50.00",
+        "char_start": 578,
+        "char_end": 715,
+        "supporting_chunk_ids": [
+          "DEV120-CTO-PDF0011-C002"
+        ]
+      },
+      {
+        "source_page_id": "CTO-PDF0009",
+        "pdf_relative_page": 9,
+        "printed_page": 164,
+        "source_span": "CHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Title – Photocopy for\nverification only\nRegister of Deeds\n2. Notarized Deed of Transfer –\n1 original\nLawyer – as per taxpayer’s reference\n3. Tax Declaration/Declaration of\nReal Property Tax Valuation \n(DRPV) – 1 original\nOffice of the City Assessor, \nSangguniang Panlungsod, Ground \nFloor\nCLIENT STEPS",
+        "char_start": 434,
+        "char_end": 781,
+        "supporting_chunk_ids": [
+          "DEV120-CTO-PDF0009-C001",
+          "DEV120-CTO-PDF0009-C002"
+        ]
+      }
+    ],
+    "supporting_chunk_ids": [
+      "DEV120-CTO-PDF0011-C002",
+      "DEV120-CTO-PDF0009-C001",
+      "DEV120-CTO-PDF0009-C002"
+    ]
+  }
+]

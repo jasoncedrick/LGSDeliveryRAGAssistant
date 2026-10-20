@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What special interview and documentation rules apply to minors and nightclub entertainers applying for an Occupational Permit?"
+  ],
+  "answer": [
+    "If the applicant is an entertainer, masseur, or bar attendant aged 18-20 years old, or the applicant is below 18 years old, they must undergo an interview. [S1]\n\nFor minors (below 18 years old), they are also required to present themselves for an interview. [S1]\n\nNo specific documentation requirements are mentioned for minors or nightclub entertainers beyond the general requirements for Occupational Permit applications. [S1]"
+  ],
+  "contexts": [
+    [
+      "city.gov.p\nh/, select Create \nApplication for New \nor Occupational \nPermit Renewal for \nRenewal, Fill out \nOnline Application \nForm and upload the \nrequired documents \nenumerated in the \nchecklist.\nNote: \n   If the applicant is an \nentertainer, masseur, \nor bar attendant 18-20 \nyears old, or the \napplicant is below 18 \nyears old, he or she \nmust present \nhimself/herself for an \ninterview.\nProcess Proper:\n2.1Receive application \nform and supporting \ndocuments including \nofficial receipt, and \nverify applicant \ninformation.\n2.2. Conduct interview",
+      "nt to \nreapply.\nNone\n14 Minutes \n(Online and\nOnsite)\nOccupational\nPermit\nSection Head\nand\nOccupational\nPermit\nPersonnel\nBusiness \nBureau\nTOTAL:\nPhp125 \nfor new\nand\nupdated \nrenewal;\nPhp\n156.25 for\nlate\nrenewal\n33 Minutes",
+      "3.Receive \nOccupational Permit / \nDenied Application\nNote: \n If application is \napproved, proceed to \nhttps://occupationalper\nmit.davaocity.gov.ph/, \nselect Check \nApplication Status, and \ndownload the \nOccupational Permit, or \nproceed to the link \nautomatically sent by \nthe Online \nOccupational Permit \nSystem though e-mail \nor SMS and download \nthe Occupational \nPermit for online \napplicants. Physically \nclaim hard copy of \nOccupational Permit for \nwalk-in applicants.\nIn case of denial, \nreceive returned \ndocuments"
+    ]
+  ],
+  "ground_truth": [
+    "Entertainers, masseurs, and bar attendants aged 18-20, or workers below 18, must present themselves for an interview and submit a PSA Birth Certificate, parent/guardian valid ID with appearance, notarized Affidavit of Consent, and City Health ID."
+  ]
+}

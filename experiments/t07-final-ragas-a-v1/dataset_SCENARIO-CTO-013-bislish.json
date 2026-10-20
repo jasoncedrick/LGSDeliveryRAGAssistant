@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsaon pagbuhis sa mga construction contractors kung molapas sa 2 milyon ang kita ug pwede ba i-deduct ang gasto sa materyales?"
+  ],
+  "answer": [
+    "Sa mga construction contractor, kung molapas sa 2 milyon ang kita, ma-deduct ang gasto sa materyales para sa paggawa sa tax due. Ito ay nakasaad sa [S2] sa City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf, chunk DEV120-CTO-PDF0058-C001. Ang tax sa mga construction contractor ay based sa total contract price, payable in equal annual installments within the project term, at ang gasto sa materyales sa construction work ay ma-deduct sa gross receipts para sa determination ng tax due."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "In excess 2,000,000.00 \nAt a rate of sixty (60%) \npercent of one percent\n(1%)\nFor purposes of this section, the tax on general engineering, general building, and \nspecialty contractors shall initially be based on the total contract price, payable in equal \nannual installments within the project term. Should a contractor (applicable only to general \nengineering and general building contractor) undertake to furnish the materials in the \nconstruction work, only the cost of such materials shall be deducted from his gross \nreceipts for the purpose of determining the tax due",
+      "the exclusive power to levy taxes on stores whose \ngross sales or receipts of the preceding calendar year does not exceed Fifty Thousand \nPesos (P 50,000.00) subject to existing laws and regulations.\n(e) On Contractors and other Independent Contractors in accordance with the \n           following schedule:\nGross Sales/Receipts for the Preceding Calendar Year \nAmount of Tax Per\nAnnum\nLess than 50,000.00 \n998.25\n50,000.00 or more but less than 75,000.00 \n1,597.20\n75,000.00 or more but less than 100,"
+    ]
+  ],
+  "ground_truth": [
+    "General engineering, building, and specialty contractors are taxed on graduated brackets up to PHP 20,993.50 (up to 2M). Gross receipts exceeding PHP 2,000,000.00 are taxed at 60% of 1.0%. Material costs furnished by the contractor are deducted from gross receipts."
+  ]
+}

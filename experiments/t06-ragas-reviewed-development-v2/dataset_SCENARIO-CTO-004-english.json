@@ -1,0 +1,20 @@
+{
+  "question": [
+    "What is the annual fixed tax schedule for commercial delivery trucks, vans, and motorcycles in Davao City?"
+  ],
+  "answer": [
+    "The annual fixed tax for commercial delivery vehicles (trucks, vans, or motorcycles) in Davao City is imposed based on the provisions of the City Treasurer's Charter. Specifically, it is covered under Section 72 of the City of Davao Ordinance No. 0291-17, series of 2017 [S3]. However, the tax schedule for these vehicles is not explicitly stated in the provided sources. For delivery vehicles, the tax is an annual fixed tax, but the specific rates are not detailed in the given sources. For more detailed information about the tax rates, it is recommended to refer to the City Treasurer's Office or the Sangguniang Panlungsod."
+  ],
+  "contexts": [
+    [
+      ") at \nthe Business \nTax \nAssessment \nDivision, City \nTreasurer’s \nOffice, \nSangguniang \nPanlungsod, \nor CTO \nDistrict \nOffices.\nBased on \nthe 2017 \nRevenue\nCode of the\nCity of \nDavao\nOrdinance \nNo. 0291- \n17, series \nof 2017, \nsection 72\n–\nImposition \nof Tax on\nAnnual\nFixed Tax \nfor Delivery\nVehicle; \nsection 76\n–\nGraduated\nTax on \nBusiness\n3 Minutes \nWindow 1-4,\nLocal Treasury\nOperations\nOfficer I/ Local\nRevenue \nCollection \nOfficer I –\nCity\nTreasurer’s\nOffice\n-or-\nAssigned\nCollectors at \nCTO",
+      "Assessment \nDivision, City \nTreasurer’s \nOffice, \nSangguniang \nPanlungsod, to \nassess and \npay fees, and \nsecure an \nOfficial Receipt \nand \nCommunity \nTax Certificate \n(Cedula).\nReceipts, \nand process \nthe Cedula.\nCode of\nthe City of\nDavao\nOrdinance \nNo. 0291- \n17, series \nof 2017, \nsection 72\n–\nImposition \nof Tax on\nAnnual\nFixed Tax\nfor\nDelivery \nVehicle;\nSection 76\n–\nGraduated\nTax on \nBusiness\nLocal Treasury\nOperations\nOfficer I/Local\nRevenue\nCollection Officer \nI/Local Revenue \nCollection Officer \nI/Local Revenue",
+      "ANNEX – 15\nSection 72. Imposition of Tax. - There is hereby imposed an annual fixed tax for every \ndelivery vehicle, truck, van, or any motor vehicle, vessels or watercraft used by \nmanufacturers, producers, wholesalers, dealers or retailers in the delivery or distribution \nof distilled spirits, fermented liquors, soft drinks, cigars and cigarettes and other essential \nproducts and sales of goods as may hereinafter be determined by the Sangguniang \nPanlungsod to sales outlets or consumer",
+      "ANNUAL INSPECTION NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\na. Divisions A-1 and A-2:\ni. Single detached dwelling units and duplexes are not subject to annual inspections.\nii. If the owner request inspections, the fee for each of the services enumerated below is \nP 120.00\nLand Use Conformity\nArchitect",
+      "in imposed shall be based \nupon the total property owned by them and the total gross receipts or earnings derived \nby them.\nJuridical Persons Liable to Community Tax\nEvery corporation no matter how created or organized, whether domestic or resident-\nforeign, engaged in or doing business in the Philippines whose principal office is located \nin this city shall pay an annual Community Tax of Five Hundred Pesos (P500.00) and an \nadditional tax, which in no case, shall exceed Ten Thousand Pesos (P10,000.00) in \naccordance with the following"
+    ]
+  ],
+  "ground_truth": [
+    "Annex15, Section72 lists annual fixed delivery-vehicle taxes: motorcycle/motorized tricycle PHP240; delivery jeepney/similar utility vehicle PHP600; truck, van, or any vehicle with six wheels and above PHP1,000; water vessel, barges, ferry boats, tugboats and similar watercraft PHP2,000; airplane/aircraft PHP5,000. The section applies to vehicles used by manufacturers, producers, wholesalers, dealers or retailers in delivery/distribution of the listed products and goods within the City. Preserve the six-wheel row wording when classifying a vehicle."
+  ]
+}

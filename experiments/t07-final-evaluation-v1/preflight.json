@@ -1,0 +1,331 @@
+{
+  "ready": false,
+  "errors": [
+    "WRONG_SPLIT:SCENARIO-BB-007",
+    "WRONG_SPLIT:SCENARIO-BB-008",
+    "WRONG_SPLIT:SCENARIO-BB-009",
+    "WRONG_SPLIT:SCENARIO-BB-010",
+    "WRONG_SPLIT:SCENARIO-BB-011",
+    "WRONG_SPLIT:SCENARIO-BB-012",
+    "WRONG_SPLIT:SCENARIO-BB-013",
+    "WRONG_SPLIT:SCENARIO-BB-014",
+    "WRONG_SPLIT:SCENARIO-BB-015",
+    "WRONG_SPLIT:SCENARIO-BB-016",
+    "WRONG_SPLIT:SCENARIO-BB-017",
+    "WRONG_SPLIT:SCENARIO-BB-018",
+    "WRONG_SPLIT:SCENARIO-BB-019",
+    "WRONG_SPLIT:SCENARIO-BB-020",
+    "WRONG_SPLIT:SCENARIO-CTO-007",
+    "WRONG_SPLIT:SCENARIO-CTO-008",
+    "WRONG_SPLIT:SCENARIO-CTO-009",
+    "WRONG_SPLIT:SCENARIO-CTO-010",
+    "WRONG_SPLIT:SCENARIO-CTO-011",
+    "WRONG_SPLIT:SCENARIO-CTO-012",
+    "WRONG_SPLIT:SCENARIO-CTO-013",
+    "WRONG_SPLIT:SCENARIO-CTO-014",
+    "WRONG_SPLIT:SCENARIO-CTO-015",
+    "WRONG_SPLIT:SCENARIO-CTO-016",
+    "WRONG_SPLIT:SCENARIO-CTO-017",
+    "WRONG_SPLIT:SCENARIO-CTO-018",
+    "WRONG_SPLIT:SCENARIO-CTO-019",
+    "WRONG_SPLIT:SCENARIO-CTO-020",
+    "WRONG_SPLIT:SCENARIO-OCBO-007",
+    "WRONG_SPLIT:SCENARIO-OCBO-008",
+    "WRONG_SPLIT:SCENARIO-OCBO-009",
+    "WRONG_SPLIT:SCENARIO-OCBO-010",
+    "WRONG_SPLIT:SCENARIO-OCBO-011",
+    "WRONG_SPLIT:SCENARIO-OCBO-012",
+    "WRONG_SPLIT:SCENARIO-OCBO-013",
+    "WRONG_SPLIT:SCENARIO-OCBO-014",
+    "WRONG_SPLIT:SCENARIO-OCBO-015",
+    "WRONG_SPLIT:SCENARIO-OCBO-016",
+    "WRONG_SPLIT:SCENARIO-OCBO-017",
+    "WRONG_SPLIT:SCENARIO-OCBO-018",
+    "WRONG_SPLIT:SCENARIO-OCBO-019",
+    "WRONG_SPLIT:SCENARIO-OCBO-020",
+    "WRONG_SPLIT:SCENARIO-CPDO-007",
+    "WRONG_SPLIT:SCENARIO-CPDO-008",
+    "WRONG_SPLIT:SCENARIO-CPDO-009",
+    "WRONG_SPLIT:SCENARIO-CPDO-010",
+    "WRONG_SPLIT:SCENARIO-CPDO-011",
+    "WRONG_SPLIT:SCENARIO-CPDO-012",
+    "WRONG_SPLIT:SCENARIO-CPDO-013",
+    "WRONG_SPLIT:SCENARIO-CPDO-014",
+    "WRONG_SPLIT:SCENARIO-CPDO-015",
+    "WRONG_SPLIT:SCENARIO-CPDO-016",
+    "WRONG_SPLIT:SCENARIO-CPDO-017",
+    "WRONG_SPLIT:SCENARIO-CPDO-018",
+    "WRONG_SPLIT:SCENARIO-CPDO-019",
+    "WRONG_SPLIT:SCENARIO-CPDO-020",
+    "WRONG_SPLIT:SCENARIO-BFP-007",
+    "WRONG_SPLIT:SCENARIO-BFP-008",
+    "WRONG_SPLIT:SCENARIO-BFP-009",
+    "WRONG_SPLIT:SCENARIO-BFP-010",
+    "WRONG_SPLIT:SCENARIO-BFP-011",
+    "WRONG_SPLIT:SCENARIO-BFP-012",
+    "WRONG_SPLIT:SCENARIO-BFP-013",
+    "WRONG_SPLIT:SCENARIO-BFP-014",
+    "WRONG_SPLIT:SCENARIO-BFP-015",
+    "WRONG_SPLIT:SCENARIO-BFP-016",
+    "WRONG_SPLIT:SCENARIO-BFP-017",
+    "WRONG_SPLIT:SCENARIO-BFP-018",
+    "WRONG_SPLIT:SCENARIO-BFP-019",
+    "WRONG_SPLIT:SCENARIO-BFP-020",
+    "GOLD_IDS_NOT_IN_FROZEN_CORPUS"
+  ],
+  "group_count": 70,
+  "query_count": 210,
+  "groups_per_office": {
+    "Business Bureau": 14,
+    "City Treasurer's Office": 14,
+    "Office of the City Building Official": 14,
+    "City Planning and Development Office": 14,
+    "Bureau of Fire Protection": 14
+  },
+  "missing_gold_ids": {
+    "SCENARIO-BB-007": [
+      "CHUNK-BB-P057-C04"
+    ],
+    "SCENARIO-BB-008": [
+      "CHUNK-BB-P058-C04"
+    ],
+    "SCENARIO-BB-009": [
+      "CHUNK-BB-P059-C02"
+    ],
+    "SCENARIO-BB-010": [
+      "CHUNK-BB-P096-C01",
+      "CHUNK-BB-P096-C02"
+    ],
+    "SCENARIO-BB-011": [
+      "CHUNK-BB-P102-C02",
+      "CHUNK-BB-P102-C03"
+    ],
+    "SCENARIO-BB-012": [
+      "CHUNK-BB-P097-C01",
+      "CHUNK-BB-P101-C01"
+    ],
+    "SCENARIO-BB-013": [
+      "CHUNK-BB-P095-C01",
+      "CHUNK-BB-P104-C01"
+    ],
+    "SCENARIO-BB-014": [
+      "CHUNK-BB-P104-C04"
+    ],
+    "SCENARIO-BB-015": [
+      "CHUNK-BB-P104-C01"
+    ],
+    "SCENARIO-BB-016": [
+      "CHUNK-BB-P108-C01",
+      "CHUNK-BB-P110-C01"
+    ],
+    "SCENARIO-BB-017": [
+      "CHUNK-BB-P108-C01"
+    ],
+    "SCENARIO-BB-018": [
+      "CHUNK-BB-P118-C04",
+      "CHUNK-BB-P119-C01"
+    ],
+    "SCENARIO-BB-019": [
+      "CHUNK-BB-P120-C01",
+      "CHUNK-BB-P120-C03"
+    ],
+    "SCENARIO-BB-020": [
+      "CHUNK-BB-P061-C01"
+    ],
+    "SCENARIO-CTO-007": [
+      "CHUNK-CTO-P162-C01"
+    ],
+    "SCENARIO-CTO-008": [
+      "CHUNK-CTO-P164-C02",
+      "CHUNK-CTO-P034-C01"
+    ],
+    "SCENARIO-CTO-009": [
+      "CHUNK-CTO-P167-C01",
+      "CHUNK-CTO-P167-C03"
+    ],
+    "SCENARIO-CTO-010": [
+      "CHUNK-CTO-P191-C01"
+    ],
+    "SCENARIO-CTO-011": [
+      "CHUNK-CTO-P210-C03"
+    ],
+    "SCENARIO-CTO-012": [
+      "CHUNK-CTO-P211-C02",
+      "CHUNK-CTO-P211-C04"
+    ],
+    "SCENARIO-CTO-013": [
+      "CHUNK-CTO-P212-C04",
+      "CHUNK-CTO-P213-C01"
+    ],
+    "SCENARIO-CTO-014": [
+      "CHUNK-CTO-P213-C03"
+    ],
+    "SCENARIO-CTO-015": [
+      "CHUNK-CTO-P213-C04",
+      "CHUNK-CTO-P214-C01"
+    ],
+    "SCENARIO-CTO-016": [
+      "CHUNK-CTO-P214-C05",
+      "CHUNK-CTO-P215-C01"
+    ],
+    "SCENARIO-CTO-017": [
+      "CHUNK-CTO-P196-C03",
+      "CHUNK-CTO-P217-C02"
+    ],
+    "SCENARIO-CTO-018": [
+      "CHUNK-CTO-P198-C02",
+      "CHUNK-CTO-P198-C03"
+    ],
+    "SCENARIO-CTO-019": [
+      "CHUNK-CTO-P200-C01"
+    ],
+    "SCENARIO-CTO-020": [
+      "CHUNK-CTO-P186-C03",
+      "CHUNK-CTO-P179-C02"
+    ],
+    "SCENARIO-OCBO-007": [
+      "CHUNK-OCBO-P553-C01"
+    ],
+    "SCENARIO-OCBO-008": [
+      "CHUNK-OCBO-P559-C01"
+    ],
+    "SCENARIO-OCBO-009": [
+      "CHUNK-OCBO-P530-C01",
+      "CHUNK-OCBO-P574-C02"
+    ],
+    "SCENARIO-OCBO-010": [
+      "CHUNK-OCBO-P538-C01"
+    ],
+    "SCENARIO-OCBO-011": [
+      "CHUNK-OCBO-P545-C01"
+    ],
+    "SCENARIO-OCBO-012": [
+      "CHUNK-OCBO-P552-C01"
+    ],
+    "SCENARIO-OCBO-013": [
+      "CHUNK-OCBO-P566-C02"
+    ],
+    "SCENARIO-OCBO-014": [
+      "CHUNK-OCBO-P501-C04",
+      "CHUNK-OCBO-P567-C01"
+    ],
+    "SCENARIO-OCBO-015": [
+      "CHUNK-OCBO-P580-C01",
+      "CHUNK-OCBO-P580-C02"
+    ],
+    "SCENARIO-OCBO-016": [
+      "CHUNK-OCBO-P583-C01"
+    ],
+    "SCENARIO-OCBO-017": [
+      "CHUNK-OCBO-P578-C02"
+    ],
+    "SCENARIO-OCBO-018": [
+      "CHUNK-OCBO-P578-C03"
+    ],
+    "SCENARIO-OCBO-019": [
+      "CHUNK-OCBO-P591-C01"
+    ],
+    "SCENARIO-OCBO-020": [
+      "CHUNK-OCBO-P593-C01"
+    ],
+    "SCENARIO-CPDO-007": [
+      "CHUNK-CPDO-P634-C01"
+    ],
+    "SCENARIO-CPDO-008": [
+      "CHUNK-CPDO-P637-C01"
+    ],
+    "SCENARIO-CPDO-009": [
+      "CHUNK-CPDO-P648-C01"
+    ],
+    "SCENARIO-CPDO-010": [
+      "CHUNK-CPDO-P662-C01"
+    ],
+    "SCENARIO-CPDO-011": [
+      "CHUNK-CPDO-P670-C01"
+    ],
+    "SCENARIO-CPDO-012": [
+      "CHUNK-CPDO-P685-C01"
+    ],
+    "SCENARIO-CPDO-013": [
+      "CHUNK-CPDO-P686-C02"
+    ],
+    "SCENARIO-CPDO-014": [
+      "CHUNK-CPDO-P704-C01",
+      "CHUNK-CPDO-P707-C03"
+    ],
+    "SCENARIO-CPDO-015": [
+      "CHUNK-CPDO-P704-C01",
+      "CHUNK-CPDO-P707-C03"
+    ],
+    "SCENARIO-CPDO-016": [
+      "CHUNK-CPDO-P714-C01"
+    ],
+    "SCENARIO-CPDO-017": [
+      "CHUNK-CPDO-P707-C01",
+      "CHUNK-CPDO-P716-C04"
+    ],
+    "SCENARIO-CPDO-018": [
+      "CHUNK-CPDO-P724-C01"
+    ],
+    "SCENARIO-CPDO-019": [
+      "CHUNK-CPDO-P699-C01"
+    ],
+    "SCENARIO-CPDO-020": [
+      "CHUNK-CPDO-P731-C01"
+    ],
+    "SCENARIO-BFP-007": [
+      "CHUNK-BFP-P001-C09",
+      "CHUNK-BFP-P001-C10"
+    ],
+    "SCENARIO-BFP-008": [
+      "CHUNK-BFP-P001-C19",
+      "CHUNK-BFP-P001-C20"
+    ],
+    "SCENARIO-BFP-009": [
+      "CHUNK-BFP-P001-C20"
+    ],
+    "SCENARIO-BFP-010": [
+      "CHUNK-BFP-P001-C20"
+    ],
+    "SCENARIO-BFP-011": [
+      "CHUNK-BFP-P001-C14"
+    ],
+    "SCENARIO-BFP-012": [
+      "CHUNK-BFP-P001-C07"
+    ],
+    "SCENARIO-BFP-013": [
+      "CHUNK-BFP-P001-C08"
+    ],
+    "SCENARIO-BFP-014": [
+      "CHUNK-BFP-P001-C14"
+    ],
+    "SCENARIO-BFP-015": [
+      "CHUNK-BFP-P001-C15"
+    ],
+    "SCENARIO-BFP-016": [
+      "CHUNK-BFP-P001-C10"
+    ],
+    "SCENARIO-BFP-017": [
+      "CHUNK-BFP-P001-C25"
+    ],
+    "SCENARIO-BFP-018": [
+      "CHUNK-BFP-P001-C12"
+    ],
+    "SCENARIO-BFP-019": [
+      "CHUNK-BFP-P001-C27",
+      "CHUNK-BFP-P001-C28"
+    ],
+    "SCENARIO-BFP-020": [
+      "CHUNK-BFP-P001-C32"
+    ]
+  },
+  "affected_groups": 70,
+  "unique_missing_gold_ids": 87,
+  "test_sha256": "ec91a961df48ea165291a9e5e306de88b2668b42be927922e88f3255f6781054",
+  "test_path": "D:\\thesis\\LGSDeliveryRAGAssistant-main\\data\\benchmark_scenarios_test.json",
+  "held_out_structure_accessed": true,
+  "query_text_output_to_console": false,
+  "test_contents_changed": false,
+  "new_model_inference_calls": 0,
+  "final_status": "PREFLIGHT_BLOCKED_NO_FINAL_INFERENCE"
+}

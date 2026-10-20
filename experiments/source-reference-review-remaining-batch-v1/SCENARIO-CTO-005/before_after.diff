@@ -1,0 +1,25 @@
+--- group.before.json
++++ group.candidate.json
+@@ -3,12 +3,13 @@
+   "pillar": "City Treasurer's Office",
+   "split": "development",
+   "ground_truth_chunk_ids": [
++    "DEV120-CTO-PDF0038-C001",
+     "DEV120-CTO-PDF0037-C001",
+     "DEV120-CTO-PDF0037-C002",
+     "DEV120-CTO-PDF0037-C003",
+-    "DEV120-CTO-PDF0038-C001"
++    "DEV120-CTO-PDF0037-C004"
+   ],
+-  "ground_truth_reference_answer": "Under Section 58 of the 2017 Revenue Code, the Professional Tax is PHP 300.00 per annum for individuals legally authorized to practice their profession. Applicants can register and generate an Order of Payment online via ptr.davaocity.gov.ph or pay at CTO counters. Requirements are: 1) Unexpired PRC ID or IBP ID (1 original); 2) Certification from PRC/IBP for new passers; and 3) Current Davao City address and contact details.",
++  "ground_truth_reference_answer": "The Professional Tax service lists a TOTAL fee of PHP300. Requirements: unexpired PRC/IBP ID (1 original); PRC/IBP certification for new registrants/passers (1 original); current Davao City address and valid contact number/email address.\n\nRegister/log in at ptr.davaocity.gov.ph, generate an Order of Payment, then pay at a Miscellaneous Fees counter or the listed Landbank payment portal.",
+   "queries": {
+     "english": "How much is the Professional Tax Receipt (PTR) in Davao City and what are the requirements to secure it?",
+     "taglish": "Magkano ang bayad sa Professional Tax Receipt (PTR) sa Davao at ano ang kailangang dalhin para makakuha?",
+@@ -19,5 +20,5 @@
+     "CHUNK-CTO-P192-C02",
+     "CHUNK-CTO-P193-C01"
+   ],
+-  "mapping_status": "PROVISIONAL_EXACT_SPAN_MAPPING"
++  "mapping_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED"
+ }

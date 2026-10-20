@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What clearances and fees are required for non-Davao recruitment agencies conducting job fairs in the city?"
+  ],
+  "answer": [
+    "For non-Davao recruitment agencies conducting job fairs in the city, the following clearances and documents are required:\n\n1. Barangay Clearance [S2]\n2. Cedula [S2]\n3. Certificate of Good Standing (1 original) from the Department of Labor and Employment for local agencies and the Philippine Overseas Employment Administration for overseas agencies [S2]\n\nNo specific fee information is provided in the sources for these requirements. Please refer to the City Government of Davao's official website or contact the Business Bureau or City Planning and Development Office for the latest fee details."
+  ],
+  "contexts": [
+    [
+      "PERTINENT DOCUMENTS TO BE SUBMITTED SPECIAL PERMIT\nAPPLICATION TO BUSINESS BUREAU\n1. Specific requirements:\n1. Barangay Resolution for concerts, shows or events in open areas (1 original)\n2. Barangay Clearance and cedula for Mahjong (1 original)\n3. Recruitment Activity for recruiter and/or recruitment agencies not based in\nDavao City:\n1.  Certificate of Good Standing (1 original) - (From DOLE for local and POEA\nfor overseas)\n2. Job Order Balances Report duly authenticated by POEA,",
+      "JONG\n1. Barangay Clearance \nBarangay Hall\n2. Cedula \nCity Treasurer’s Office\nRECRUITMENT ACTIVITY FOR RECRUITER AND/OR RECRUITMENT AGENCIES \nNOT BASED IN DAVAO CITY\n1. Certificate of Good Standing (1 original)  \n(From Department of Labor and \nEmployment for Local and \nPhilippine Overseas \nEmployment Administration for \nOverseas)",
+      "justments and \nAppeals \n \n-If conditional \napproval clients \nare required to \nsubmit additional \nrequirements for \nthe sufficiency of \nthe application and \nthe conditions \nshould be \ncomplied with \nduring the \nbusiness \noperations \ncommence.\nNone \n5 Minutes\nActing\nAdministrative\nOfficer  \nCPDO"
+    ]
+  ],
+  "ground_truth": [
+    "Recruitment activities by agencies not based in Davao City require a Certificate of Good Standing from DOLE/POEA, POEA-authenticated Job Order Balances Report, PESO No Objection Certificate, and POEA Special Recruitment Authority. The fee is PHP 1,000.00 (overseas) or PHP 1,200.00 (local) per schedule."
+  ]
+}

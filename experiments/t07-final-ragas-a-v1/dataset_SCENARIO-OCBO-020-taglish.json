@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Paano magreklamo laban sa ilegal o mapanganib na construction sa OCBO at ilang araw bago sila mag-inspeksyon?"
+  ],
+  "answer": [
+    "Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa ilang reklamo laban sa ilegal o mapanganib na construction sa OCBO at ilang araw bago sila mag-inspeksyon.\n\nHowever, based on the provided sources, it seems that citizens can report illegal or dangerous construction to the Bureau of Fire Protection (BFP). Here's how to do it according to the BFP Citizens' Charter 2022 [S1] and the Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf [S2]:\n\n1. If you notice illegal or dangerous construction, you can report it to the Fire Station/Lone District Fire Office. To do this, you need to fill out the Fire Safety Evaluation Clearance (FSEC) Application Form [S3].\n\nPlease note that the provided sources do not specify the number of days before inspection, so it's best to contact the BFP directly for more information.\n\n[S1] BFP-CITIZENS-CHARTER-2022.pdf | printed page None | chunk DEV120-BFP-PDF0001-C023\n[S2] Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf | printed page 102 | chunk DEV120-BB-PDF0063-C004\n[S3] BFP-CITIZENS-CHARTER-2022.pdf | printed page None | chunk DEV120-BFP-PDF0001-C023"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "al vendors during special occasions such as Araw ng Dabaw, \nKadayawan Festival, City Fiesta, and other celebrations or similar occasions - \n400.00 if applicable\nCockfighting:\nSpecial Cockfights (Pintakasi)\n First three (3) days –                     Php3,000.00",
+      "UDED \nIN THE NEGATIVE LIST\nA   P   P   L   I   C   A   T   I   O   N      F   O   R   M\nApplied in Fire Station/Lone District Fire Office \nBFP FSEC\nApplication Form\n(DCN No. BFP-QSF-\nFSED-001 REV.02\n(08.24.20))\n[REPRESENTATION: Application-form cell spans: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION.]\n\nBFP FSIC Application Form (DCN No. BFP-QSF-FSED-002 RE"
+    ]
+  ],
+  "ground_truth": [
+    "Complaints regarding Building Code violations require submitting a request/complaint letter. OCBO inspects within 5 days, prepares an Inspection Report, and issues a Notice of Violation or Cease-and-Desist order if illegal construction or structural hazards exist."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang trabaho ng Fire Code Assessor (FCA) at ilang minuto ang itinakdang oras sa pag-isyu ng Order of Payment?"
+  ],
+  "answer": [
+    "The Fire Code Assessor (FCA) is responsible for assessing fire code compliance. The time taken to issue an Order of Payment (OPS) is not specified in the provided sources. However, the processing time for simple transactions, which includes the issuance of OPS, is a maximum of ten (10) minutes as stated in [S2]. The FCA's specific role in the processing of the OPS is mentioned in [S2]. For any feedback or complaints about government services, citizens can contact the Contact Center ng Bayan as stated in [S3]."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "applicant queuing number and issue OPS.\nFor OSCP/BOSS : Backroom operation with\nOSCP/BOSS for one-time assessment thru\nsharing of information\n\nPROCESSING TIME: maximum of ten (10) minutes\n\nPERSON RESPONSIBLE: Fire Code Assessor\n(FCA)\n\nAGENCY ROW 3\n\nCLIENTS STEP: 3. Present the OPS and pay the corresponding\nFire Code Fees indicated in the OPS.\nUpon receipt of the OR, proceed to releasing\nwindow to claim the stub by presenting the OR.\nNote: Re",
+      "on government services, whether positive or negative, to the Contact Center ng\nBayan via following access channels:\nSMS: 09088816565\nEmail: email@contactcenterngbayan.gov.ph            \n     Web: https://contactcenterngbayan.gov.ph/            \n     FB: https://facebook.com/civilservicegovph/\nCall: 165 65 (P5 +VAT per call anywhere in the Philippines via PLDT Landline)\nPUBLIC WARNING\nThe BFP Does not “ACCREDIT” nor Recommend any Brand, Store or Distributor of Fire\nExtinguisher"
+    ]
+  ],
+  "ground_truth": [
+    "The Fire Code Assessor (FCA) verifies documents, computes applicable fire code taxes and fees, and releases the Order of Payment Slip (OPS) to the applicant within a prescribed processing time of not more than 10 minutes."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "How are authorized motor vehicle franchise dealerships and their spare parts sales taxed under the Davao City Revenue Code?"
+  ],
+  "answer": [
+    "Authorized motor vehicle franchise dealerships and their spare parts sales are taxed under the Davao City Revenue Code as follows:\n\n1. For car dealers engaged in the business of selling brand new vehicles and genuine parts pursuant to a valid and existing dealership agreement with manufacturers and distributors, the annual tax is levied as follows:\n\n- From 0 PHP to 100,000,000.00, the annual tax is 90%.\n\n[Source: City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 214 | chunk DEV120-CTO-PDF0059-C005]"
+  ],
+  "contexts": [
+    [
+      "ing not otherwise stated in this code.\n(i) On Authorized Franchise Car Dealers\nImposition of Tax – There is hereby levied an annual tax on the following business \nundertakings at the rates prescribed herein:\ni.1 On Car Dealers engaged in the business of selling brand new vehicles and \ngenuine parts pursuant to a valid and existing dealership agreement with manufacturers \nand distributors shall be taxed as follows:\nCAR DEALERS\nFrom \nTo Less Than \nAnnual Tax\nPhp 0 \nPhp 100,000,000.00 \n90.",
+      ", and the \nOwner fails to perform corrective actions within the reasonable time provided by the \nBuilding Official, the latter and/or their duly authorized representative shall forthwith \ncancel the permit and the fees thereon shall be forfeited.",
+      "their \nnumber is \ncalled.\nNone \n    10 Minutes \nRevenue\nCollection Clerk I\n–\nCity Treasurer’s\nOffice\n2. Submit the\nrequired \ndocuments \nand proceed \nto Counter \n23.\n2. Prepare and\nissue the \npayment slip \nfor \nAmusement \nTax.\nBased on \nthe 2017 \nRevenue\nCode of the\nCity of \nDavao\nOrdinance \nNo. 0291-\n17, series of \n2017, Article\n8, section\n64 -\nImposition of\nTaxes for\nAmusement \nPlaces and \nActivities\n5 Minutes \nCounter 23: \nRevenue\nCollection Clerk \nI (For Events)\nand\nTicket Checker \n(For Cinema)\n3. Pay"
+    ]
+  ],
+  "ground_truth": [
+    "Brand new car dealerships are taxed at 90.75% of 1% (up to 100M gross sales) scaling down to PHP 14.6M + 11% of 1% for sales over 3 Billion. Dealership spare parts are taxed at 2.2% (under 10M) down to 60.50% of 1% (above 30M)."
+  ]
+}

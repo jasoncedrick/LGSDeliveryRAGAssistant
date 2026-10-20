@@ -1,0 +1,8 @@
+{
+  "completed": 1560,
+  "total": 1560,
+  "latest_record": "SCENARIO-OCBO-006-taglish",
+  "latest_chunk": "DEV120-OCBO-PDF0103-C001",
+  "latest_status": "JUDGE_FAILURE",
+  "elapsed_seconds": 7276.8
+}

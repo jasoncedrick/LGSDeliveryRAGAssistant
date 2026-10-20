@@ -1,0 +1,18 @@
+{
+  "question": [
+    "How much are the processing and inspection fees per hectare when applying for a Subdivision Development Permit (DP)?"
+  ],
+  "answer": [
+    "The processing fee for a Subdivision Development Permit (DP) is PHP 2,880.00 per hectare, and the inspection fee is also PHP 2,880.00 per hectare. [S1, S3]"
+  ],
+  "contexts": [
+    [
+      "documents are \nlacking, advised \nclient to comply)\nCPDO\n1.3 Upon initial \nassessment of \ndocuments, if \ncomplete, Issues \nOrder of Payment \nfor Processing \nFee\nProcessing\nFee: \nPSDP: \nPHP\n360.00\nper hectare\nDP: PHP \n2,880.00\nper hectare \n \nInspection\nFee: \nPSDP: \nPHP\n1,500.00\nper\nhectare\nDP: PHP \n2,880.00\nper hectare\n10 Minutes\n2. Submits \nOriginal O.R. \nwith Complete \nDocuments\n2.1 Rechecks and \nReceives \ndocuments then \nendorses to \nAdmin Division for \ndocument tracking \nsystem encoding",
+      "Tax Receipts \n      City Treasurer’s Office\n10. \nRight to use or Deed of Sale of Right-of-\nWay for access road and other utilities when \napplicable, subject to just compensation for \nprivate land \n      Applicant\n11. \nSubdivision Development Plan\nconsisting of the site development plan \nshowing roads, easements, or ROW, lot \n     Applicant",
+      "Compliance \nbased on the \nMinutes of \nMeeting\nTOTAL:\nProcessin\ng Fee: \nPSDP: \nPHP\n360.00\nper\nhectare\nDP: PHP \n2,880.00\nper\nhectare\nInspection\nFee: \nPSDP:\nPHP\n1,500.00\nper\nhectare\nDP: PHP \n2,880.00\nper\nhectare\n24 Days, 2\nHours, and 5\nMinutes"
+    ]
+  ],
+  "ground_truth": [
+    "For a Subdivision Development Permit (DP), the processing fee is PHP 2,880.00 per hectare, and the site inspection fee is PHP 2,880.00 per hectare."
+  ]
+}

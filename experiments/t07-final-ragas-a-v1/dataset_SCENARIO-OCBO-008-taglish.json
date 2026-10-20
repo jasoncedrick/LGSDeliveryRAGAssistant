@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Paano kinokwenta ang bayad sa Demolition Permit kada metro kwadrado ng floor area at taas ng gusali?"
+  ],
+  "answer": [
+    "Ang bayad sa Demolition Permit ay kinokwenta sa National Building Code of the Philippines (PD 1096) na nakatanggap ng bagong Implementing Rules and Regulations (IRR). Sa ilalim ng mga ito, ang bayad ay kinokwenta per square meter ng floor area ng bawat gusali ([S3]).\n\nPara sa mga bawat metro kwadrado ng floor area, ang bayad ay Php 3.00 ([S3]).\n\nPara sa mga building systems/frames o portion thereof per vertical o horizontal dimensions, including fences, ang bayad ay Php 4.00 ([S3]).\n\nPara sa mga structures na may taas ng 10.00 meters o mas mataas, ang bayad ay kinokwenta every meter o portion thereof ([S3]).\n\nWala pong nakit-an nga impormasyon bahin sa bayad para sa mga gusali na may floor area above 10,000.00 sq.meters.\n\nSa iba pang mga transaksyon, maaari mong dahan-dahan pansinin ang Citizens' Charter ng BFP ([S1]) at ng Office of the City/Municipal Building Official (OCBO) ([S2])."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "Division J-I Buildings/Structures:\nWith floor area up to 20.00 sq.meters \nPhp \n50.00\nWith floor area above 20.00 sq.meters \nUp to 500.00 sq.meters\nPhp      240.00\nWith floor area above 500.00 sq.meters  \nUp to 1,000 sq.meters\nPhp \n360.00\nWith floor area above 1,000 sq.meters \nUp to 5,000.00 sq.meters\nPhp \n480.00\nWith floor area above 5,000 sq.meters \nPhp \n200.00\nWith floor area above 10,000.00 \nsq",
+      "DEMOLITION PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\nDESCRIPTION \nFEE\nBuildings in all Groups per sq.  \nmeter floor area\nPhp      3.00\nBuilding Systems/Frames or portion thereof per vertical \nor horizontal  \ndimensions, including fences\nPhp      4.00\nStructures of up to 10.00 meters in height \n  \nEvery meter or portion thereof"
+    ]
+  ],
+  "ground_truth": [
+    "Demolition fees under the National Building Code IRR are: PHP 3.00 per sq.m. of floor area for buildings in all groups; PHP 800.00 for structures up to 10m high plus PHP 50.00 per meter in excess; and PHP 3.00 per sq.m. of area to be moved."
+  ]
+}

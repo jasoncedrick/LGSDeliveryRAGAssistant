@@ -1,0 +1,722 @@
+[
+  {
+    "record_id": "SCENARIO-BB-001-bislish",
+    "same_normalized_query": false,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BB-001-english",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": true,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BB-001-taglish",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "GENERATION_INCOMPLETE",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BB-002-bislish",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BB-002-english",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BB-002-taglish",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BB-003-bislish",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BB-003-english",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BB-003-taglish",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BB-004-bislish",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BB-004-english",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BB-004-taglish",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BB-005-bislish",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BB-005-english",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BB-005-taglish",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BB-006-bislish",
+    "same_normalized_query": false,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BB-006-english",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BB-006-taglish",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BFP-001-bislish",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BFP-001-english",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BFP-001-taglish",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-bislish",
+    "same_normalized_query": false,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-english",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": true,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BFP-002-taglish",
+    "same_normalized_query": false,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BFP-003-bislish",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BFP-003-english",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BFP-003-taglish",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": true,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BFP-004-bislish",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BFP-004-english",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BFP-004-taglish",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BFP-005-bislish",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BFP-005-english",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": true,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BFP-005-taglish",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BFP-006-bislish",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BFP-006-english",
+    "same_normalized_query": false,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-BFP-006-taglish",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CPDO-001-bislish",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CPDO-001-english",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CPDO-001-taglish",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CPDO-002-bislish",
+    "same_normalized_query": false,
+    "same_rankings": true,
+    "same_answer": true,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CPDO-002-english",
+    "same_normalized_query": false,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CPDO-002-taglish",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CPDO-003-bislish",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CPDO-003-english",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CPDO-003-taglish",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CPDO-004-bislish",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CPDO-004-english",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CPDO-004-taglish",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CPDO-005-bislish",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CPDO-005-english",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CPDO-005-taglish",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CPDO-006-bislish",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CPDO-006-english",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": true,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CPDO-006-taglish",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CTO-001-bislish",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": true,
+    "B_status": "CLARIFICATION_REQUIRED",
+    "C_status": "CLARIFICATION_REQUIRED"
+  },
+  {
+    "record_id": "SCENARIO-CTO-001-english",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": true,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CTO-001-taglish",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": true,
+    "B_status": "CLARIFICATION_REQUIRED",
+    "C_status": "CLARIFICATION_REQUIRED"
+  },
+  {
+    "record_id": "SCENARIO-CTO-002-bislish",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CTO-002-english",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CTO-002-taglish",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CTO-003-bislish",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CTO-003-english",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CTO-003-taglish",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CTO-004-bislish",
+    "same_normalized_query": false,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CTO-004-english",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CTO-004-taglish",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CTO-005-bislish",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": true,
+    "B_status": "CLARIFICATION_REQUIRED",
+    "C_status": "CLARIFICATION_REQUIRED"
+  },
+  {
+    "record_id": "SCENARIO-CTO-005-english",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CTO-005-taglish",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-CTO-006-bislish",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": true,
+    "B_status": "CLARIFICATION_REQUIRED",
+    "C_status": "CLARIFICATION_REQUIRED"
+  },
+  {
+    "record_id": "SCENARIO-CTO-006-english",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": true,
+    "B_status": "CLARIFICATION_REQUIRED",
+    "C_status": "CLARIFICATION_REQUIRED"
+  },
+  {
+    "record_id": "SCENARIO-CTO-006-taglish",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": true,
+    "B_status": "CLARIFICATION_REQUIRED",
+    "C_status": "CLARIFICATION_REQUIRED"
+  },
+  {
+    "record_id": "SCENARIO-OCBO-001-bislish",
+    "same_normalized_query": false,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-OCBO-001-english",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-OCBO-001-taglish",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-OCBO-002-bislish",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-OCBO-002-english",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-OCBO-002-taglish",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": true,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-OCBO-003-bislish",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-OCBO-003-english",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-OCBO-003-taglish",
+    "same_normalized_query": false,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-OCBO-004-bislish",
+    "same_normalized_query": false,
+    "same_rankings": true,
+    "same_answer": true,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-OCBO-004-english",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-OCBO-004-taglish",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-OCBO-005-bislish",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-OCBO-005-english",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-OCBO-005-taglish",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-OCBO-006-bislish",
+    "same_normalized_query": true,
+    "same_rankings": true,
+    "same_answer": true,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-OCBO-006-english",
+    "same_normalized_query": false,
+    "same_rankings": false,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  },
+  {
+    "record_id": "SCENARIO-OCBO-006-taglish",
+    "same_normalized_query": false,
+    "same_rankings": true,
+    "same_answer": false,
+    "B_status": "ANSWERED",
+    "C_status": "ANSWERED"
+  }
+]

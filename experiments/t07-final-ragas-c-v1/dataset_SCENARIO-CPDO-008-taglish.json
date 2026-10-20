@@ -1,0 +1,18 @@
+{
+  "question": [
+    "May bayad ba ang pag-validate ng Occupancy Permit sa CPDO para sa mga gusaling 2-storey pababa na mababa sa 1,500 sq.m.?"
+  ],
+  "answer": [
+    "Wala kaayong bayad sa pag-validate ng Occupancy Permit sa CPDO para sa mga gusaling 2-storey pababa na mababa sa 1,500 sq.m. [S1]"
+  ],
+  "contexts": [
+    [
+      "3. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (2-Storey Buildings and Below and \n1,500 Building Floor Area and Below) \nFor 2-storey buildings and below and for building floor area of 1,500 square meters \nand below only. \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator.  \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nSimple\nType of Trans",
+      "2. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (3-Storey Buildings and Above and \n1,500 Building Floor Area and Above) \nFor 3-storey buildings and above and for building floor area of 1,500 square meters \nand above only.  \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nComplex\nType of Trans",
+      ", the fee for each of the services enumerated below is \nP 120.00\nLand Use Conformity\nArchitectural Presentability\nStructural Stability\nSanitary and Health Requirements\nFire-Resistive Requirements\nb. Divisions B-1/D-1, 2, 3/E-1, 2, 3/F-1/G-1, 2, 3, 4, 5/ H-1, 2, 3, 4/ and I-1, Commercial, \nIndustrial Institutional buildings and appendages shall be assessed area as follows:\nAppendage of up"
+    ]
+  ],
+  "ground_truth": [
+    "For structures 2-storeys and below with floor area under 1,500 sq.m., Occupancy Permit validation requires approved plans, building permit, certificate of occupancy form, locational clearance, and photos. No filing fee is charged (exempt), taking 1 day, 4 hours to process."
+  ]
+}

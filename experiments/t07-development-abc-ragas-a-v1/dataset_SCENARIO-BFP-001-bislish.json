@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga plano nga kailangan i-submit sa bombero ug pila ang bayad sa FCCT para makakuha ug FSEC sa BFP?"
+  ],
+  "answer": [
+    "Ang mga plano nga kailangan i-submit sa BFP para makakuha ug Fire Safety Evaluation Clearance (FSEC) ay ang aplikasyon form sa BFP FSEC at FSIC. Ang aplikasyon form na ito ay maaoy nakalagay sa [S3].\n\nPara sa bayad sa FCCT, ang bayad ay 0.1% ng verified estimated value (materials at labor) ng building/structure o facility, hindi mas masamang Php 50,000.00. Ang bayad na ito ay hindi maaoy nakalagay sa mga detalye sa source, kaya hindi maaoy nakatanggap ang bayad sa FCCT sa BFP. Ang bayad na ito ay maaoy magpapahintulutan ng BFP sa pag-release ng FSEC.\n\nAng bayad para sa application fee ay Php 200.00, na maaoy nakalagay sa [S2]."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "Issuance of FSEC/NOD/\nFSIC for Certificate of Occupancy/FSIC for\nBusiness Permit (new/renewal) is thru OSCP/\nBOSS Releasing Officer\n\nPROCESSING TIME: maximum of five (5) minutes\n\nPERSON RESPONSIBLE: CRO\n\nFEES TO BE PAID [shared cell spanning all six agency rows]:\nFor FSEC\nApplication Fee: Php 200.00\nFCCT = 0.1% of the verified estimated value\n(materials and labor) of the building/structure or\nfacility but not more",
+      "UDED \nIN THE NEGATIVE LIST\nA   P   P   L   I   C   A   T   I   O   N      F   O   R   M\nApplied in Fire Station/Lone District Fire Office \nBFP FSEC\nApplication Form\n(DCN No. BFP-QSF-\nFSED-001 REV.02\n(08.24.20))\n[REPRESENTATION: Application-form cell spans: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION.]\n\nBFP FSIC Application Form (DCN No. BFP-QSF-FSED-002 RE"
+    ]
+  ],
+  "ground_truth": [
+    "The documentary checklist specifies three (3) sets of the listed documents. The FSEC column marks architectural, civil, electrical, mechanical, plumbing, electronics, sanitary and fire protection documents. Documents mean design plans, calculations and specifications signed and sealed by the Professional Engineer/Architect. Also listed for FSEC are one signed-and-sealed set of the estimated value of the building/structure or facilities, including materials and labor cost, and copies of valid PRC Professional Licenses of all involved professionals. The FSEC application fee is PHP 200.00; FCCT is 0.1% of the verified estimated materials-and-labor value of the building/structure or facility, capped at PHP 50,000.00. The fee note states that, when the UAF declared estimate differs substantially from current acceptable market construction cost per square meter or the value indicated in Table II.G.1 of PD 1096, the higher value will be adopted."
+  ]
+}

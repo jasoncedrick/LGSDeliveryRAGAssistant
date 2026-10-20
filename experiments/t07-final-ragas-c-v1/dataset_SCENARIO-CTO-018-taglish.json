@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Paano kinokwenta ang renta sa pwesto sa palengke at magkano ang dagdag kapag nasa front corner ang stall?"
+  ],
+  "answer": [
+    "Sa palengke, ang renta sa pwesto ay kinokwenta sa presyo na nakalistado sa City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf [S1]. Para sa mga stall na nasa front corner, magkakaroon sila ng dagdag sa renta na 20% ng mga rates na nakalistado [S1]. Hindi pa nakalistado ang presyo ng mga stall na nasa front corner dahil hindi nakalistado ang presyo ng mga rates na dapat gumamit para sa mga ito. Ang mga rates na nakalistado ay para sa mga ordinaryong stall/stalls o booth/booths [S1]."
+  ],
+  "contexts": [
+    [
+      "months.\nClass D \nThose with an average monthly income of less than P \n700,000.00 during the preceding six (6) months.\nSection 348\nMARKET RENTAL FEES, OTHER CHARGES\nThat for better located stall/stalls or booth/booths such as those facing the street or \nthose corner booth/stalls, the following will be added to the above-prescribed fees, as \nfollows:\n1. Front corner stall/stalls or\nbooth/booths  \n20% of the rates imposed\n2. Front stall/stalls or",
+      "in imposed shall be based \nupon the total property owned by them and the total gross receipts or earnings derived \nby them.\nJuridical Persons Liable to Community Tax\nEvery corporation no matter how created or organized, whether domestic or resident-\nforeign, engaged in or doing business in the Philippines whose principal office is located \nin this city shall pay an annual Community Tax of Five Hundred Pesos (P500.00) and an \nadditional tax, which in no case, shall exceed Ten Thousand Pesos (P10,000.00) in \naccordance with the following",
+      "19. Payment for Certification/ Clearances-Market Operations\nCollection of Market Certification and Clearances issued to Stall Holders. \nOffice or Division \nOffice of the City Treasurer (CTO) – Market\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail \nAll\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\nNone \nNone\nCLIENT STEPS \nAGENCY \nACTIONS\nFEES TO BE\nPAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\n1. Get a priority \nnumber from the \nassigned Officer of \nthe Day."
+    ]
+  ],
+  "ground_truth": [
+    "Public market rental rates vary by classification and section (e.g., Meat Class A is PHP 40.00/sq.m./day; Class D is PHP 13.50). Additional location surcharges apply: 20% for front corner stalls, 15% for front stalls, and 10% for inside corner stalls."
+  ]
+}

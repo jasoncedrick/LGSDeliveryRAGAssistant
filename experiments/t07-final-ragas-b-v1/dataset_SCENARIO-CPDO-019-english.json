@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What is the process for securing a Locational Clearance for Business through the online BPLS portal?"
+  ],
+  "answer": [
+    "To secure a Locational Clearance for Business through the online BPLS portal, the process involves the following steps as outlined in [S1] and [S2]:\n\n1. Submit an online application for Locational Clearance through the City Planning and Development Office's (CPDO) BPLS portal. [S1]\n\n2. Obtain a written authority/permit, previously granted by the Board, from the CPDO's Zoning Enforcement Division for the establishment or operation of projects of national or local significance. [S1]\n\n3. Prepare seven (7) complete sets of building plans (original copies):\n   a. Fill up the title blocks.\n   b. Have the plans signed and sealed by a Civil Engineer (CE) or Architect. [S2, S3]\n\n4. Provide a SPA (Sale-Purchase Agreement) from the building owner to process the application for Locational Clearance. [S2, S3]\n\n5. Submit a Certified True Copy of Title issued by the Registry of Deeds (ROD) or show the original copy of the title for validation (1 original for validation, 1 photocopy). [S2, S3]\n\n6. Prepare a Locational Clearance Application that is duly notarized and signed by the applicant (1 photocopy). [S2, S3]"
+  ],
+  "contexts": [
+    [
+      "12. Enforcement of the Integrated Zoning Ordinance (ZO) 2019 – \n2028 in the Issuance of the Locational Clearance (LC) for Business \n– Online Application\nA written authority / permit granted by the City Planning and Development Office \n(previously by the Board) pursuant to applicable laws on land use planning and zoning \nfor the establishment or operation of projects of national / local significance. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nSimple\nType of Transaction \nG2B –",
+      "DO\n4. SPA from the building owner to \nprocess application for Locational \nClearance\nApplicant\n5. Seven (7) complete sets of Building \nPlans (original copy) \na. Filled-up title blocks \nb. Signed and sealed by CE / Architect\nApplicant\n6. Certified True Copy of Title issued \nby the Registry of Deeds (ROD) or \nshow original copy of title for validation \n(1 original for validation, 1 photocopy)\nRegistry of Deeds\n7. Locational Clearance Application \nduly notarized and signed by the \napplicant (1 photocopy)",
+      ") \nCPDO\n4. SPA from the building owner to \nprocess application for Locational \nClearance\nApplicant\n5. Seven (7) complete sets of Building \nPlans (original) \na. Filled-up title blocks \nb. Signed and sealed by CE / Architect\nApplicant\n6. Certified True Copy of Title issued \nby the Registry of Deeds (ROD) or \nshow original copy of title for validation \n(1 original for validation, 1 photocopy)\nRegistry of Deeds\n7. Locational Clearance Application \nduly notarized and signed by the \napplicant (1 photocopy"
+    ]
+  ],
+  "ground_truth": [
+    "Online Locational Clearance for Business is filed via the appbts portal. Clients upload required forms, sketch map, and HOA consent. CPDO evaluates within 5 minutes. If approved, status updates in BPLS; if denied, a denial letter is generated for appeal to LZBAA."
+  ]
+}

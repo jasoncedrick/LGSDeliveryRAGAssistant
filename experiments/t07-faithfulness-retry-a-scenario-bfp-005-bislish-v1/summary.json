@@ -1,0 +1,34 @@
+{
+  "selected": 1,
+  "fully_scored": 1,
+  "not_scored": 0,
+  "failed_or_partial": 0,
+  "metric_aggregates": {
+    "faithfulness": {
+      "valid_scores": 1,
+      "mean_on_valid_scores": 0.0,
+      "failed_scores": 0
+    }
+  },
+  "results": [
+    {
+      "record_id": "SCENARIO-BFP-005-bislish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.0
+      },
+      "language": "bislish",
+      "group_id": "SCENARIO-BFP-005",
+      "pillar": "Bureau of Fire Protection",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_DEVELOPMENT_LABELS",
+      "status": "SCORED"
+    }
+  ],
+  "limits": [
+    "Local 7B judge may fail structured-output parsing; null scores are not zeros.",
+    "Same-model judging can introduce bias.",
+    "Means exclude nulls and skipped records; inspect metric-specific denominators.",
+    "Reference provenance is recorded per interaction; source review and user interpretation do not constitute independent expert certification.",
+    "Generation K and configuration are recorded in the source protocol; development scoring is not frozen held-out evaluation or independent expert certification."
+  ]
+}

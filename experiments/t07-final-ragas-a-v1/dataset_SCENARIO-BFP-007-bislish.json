@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ang application fee ug kinatas-ang tax cap sa pagkuha ug FSEC sa Bureau of Fire Protection?"
+  ],
+  "answer": [
+    "Wala akong nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa pagkuha ug FSEC sa Bureau of Fire Protection tungod sa mga application fee ug kinatas-ang tax cap.\n\n[S2] Sa BFP-Citizens-Charter-2022.pdf, wala pud nakit-an nga impormasyon sa application fee ug kinatas-ang tax cap sa pagkuha ug FSEC.\n\n[S3] Sa Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf, wala rin pud nakit-an nga impormasyon sa application fee ug kinatas-ang tax cap sa pagkuha ug FSEC.\n\nAng FSEC (Fire Safety Evaluation Clearance) ay isa sa mga simple transaction sa BFP (Bureau of Fire Protection), pero wala pud nakit-an nga impormasyon sa application fee ug kinatas-ang tax cap sa mga nakapag-apply sa FSEC. Ang mga citizen na gusto magkuha ug FSEC sa BFP mao ang kailangan mag-apply sa FSEC Application Form (DCN No. BFP-QSF-FSED-001 REV.02) o BFP FSIC Application Form (DCN No. BFP-QSF-FSED-002 RE)."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "UDED \nIN THE NEGATIVE LIST\nA   P   P   L   I   C   A   T   I   O   N      F   O   R   M\nApplied in Fire Station/Lone District Fire Office \nBFP FSEC\nApplication Form\n(DCN No. BFP-QSF-\nFSED-001 REV.02\n(08.24.20))\n[REPRESENTATION: Application-form cell spans: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION.]\n\nBFP FSIC Application Form (DCN No. BFP-QSF-FSED-002 RE",
+      "9. \nValid Fire Safety Inspection\nCertificate for Business\nBureau of Fire Protection\nAMENDMENT OF BUSINESS PERMIT – ADDITIONAL BUSINESS LINE \n1. Current Original Mayor’s Permit,\nApplication for Renewal of Business \nPermit, or Certified True Copy of \nBusiness Permit w/ Affidavit of Loss in \ncase of lost permits\nApplicant \nor \nRecords \nSection,\nBusiness Bureau or Any Notary \nPublic for affidavit of loss\n2. \nAffidavit of Additional Line of\nBusiness (notarized) stating the business \nline to be added and additional"
+    ]
+  ],
+  "ground_truth": [
+    "Applying for a Fire Safety Evaluation Clearance (FSEC) requires an application fee of PHP 200.00 plus Fire Code Construction Tax (FCCT) of 0.1% of verified estimated value (materials and labor) up to PHP 50,000.00 maximum."
+  ]
+}

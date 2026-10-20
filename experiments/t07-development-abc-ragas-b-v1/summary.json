@@ -1,0 +1,1359 @@
+{
+  "selected": 90,
+  "fully_scored": 82,
+  "not_scored": 7,
+  "failed_or_partial": 1,
+  "metric_aggregates": {
+    "faithfulness": {
+      "valid_scores": 82,
+      "mean_on_valid_scores": 0.8152095871608065,
+      "failed_scores": 1
+    },
+    "context_precision": {
+      "valid_scores": 83,
+      "mean_on_valid_scores": 0.9407630521699303,
+      "failed_scores": 0
+    },
+    "context_recall": {
+      "valid_scores": 83,
+      "mean_on_valid_scores": 0.912516733601071,
+      "failed_scores": 0
+    },
+    "answer_relevancy": {
+      "valid_scores": 83,
+      "mean_on_valid_scores": 0.5779448897503179,
+      "failed_scores": 0
+    }
+  },
+  "results": [
+    {
+      "record_id": "SCENARIO-BB-001-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.3333333333333333,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.9977118799737018
+      },
+      "language": "english",
+      "group_id": "SCENARIO-BB-001",
+      "pillar": "Business Bureau",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BB-001-taglish",
+      "generation_status": "GENERATION_INCOMPLETE",
+      "scores": {},
+      "language": "taglish",
+      "group_id": "SCENARIO-BB-001",
+      "pillar": "Business Bureau",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "NOT_SCORED",
+      "reason": "Requires completed answer and reference; original record retained"
+    },
+    {
+      "record_id": "SCENARIO-BB-001-bislish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.75,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.761921024925984
+      },
+      "language": "bislish",
+      "group_id": "SCENARIO-BB-001",
+      "pillar": "Business Bureau",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BB-002-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 0.8666666666666667,
+        "answer_relevancy": 0.9425874070672959
+      },
+      "language": "english",
+      "group_id": "SCENARIO-BB-002",
+      "pillar": "Business Bureau",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BB-002-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 0.8888888888888888,
+        "answer_relevancy": 0.6823371428869528
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-BB-002",
+      "pillar": "Business Bureau",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BB-002-bislish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.5718728273569954
+      },
+      "language": "bislish",
+      "group_id": "SCENARIO-BB-002",
+      "pillar": "Business Bureau",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BB-003-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.9366099123678691
+      },
+      "language": "english",
+      "group_id": "SCENARIO-BB-003",
+      "pillar": "Business Bureau",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BB-003-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.6666666666666666,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.0
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-BB-003",
+      "pillar": "Business Bureau",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BB-003-bislish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.6666666666666666,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.0
+      },
+      "language": "bislish",
+      "group_id": "SCENARIO-BB-003",
+      "pillar": "Business Bureau",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BB-004-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.5576057575467858
+      },
+      "language": "english",
+      "group_id": "SCENARIO-BB-004",
+      "pillar": "Business Bureau",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BB-004-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.42926881129960703
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-BB-004",
+      "pillar": "Business Bureau",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BB-004-bislish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.20678414388648056
+      },
+      "language": "bislish",
+      "group_id": "SCENARIO-BB-004",
+      "pillar": "Business Bureau",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BB-005-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.9354643443971793
+      },
+      "language": "english",
+      "group_id": "SCENARIO-BB-005",
+      "pillar": "Business Bureau",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BB-005-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.5861965056409045
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-BB-005",
+      "pillar": "Business Bureau",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BB-005-bislish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.5173731827012074
+      },
+      "language": "bislish",
+      "group_id": "SCENARIO-BB-005",
+      "pillar": "Business Bureau",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BB-006-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.8,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.9985536013632251
+      },
+      "language": "english",
+      "group_id": "SCENARIO-BB-006",
+      "pillar": "Business Bureau",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_DEVELOPMENT_LABELS",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BB-006-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.7142857142857143,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.44066292343688174
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-BB-006",
+      "pillar": "Business Bureau",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_DEVELOPMENT_LABELS",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BB-006-bislish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.8737153102875889
+      },
+      "language": "bislish",
+      "group_id": "SCENARIO-BB-006",
+      "pillar": "Business Bureau",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_DEVELOPMENT_LABELS",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CTO-001-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.8326352471851896
+      },
+      "language": "english",
+      "group_id": "SCENARIO-CTO-001",
+      "pillar": "City Treasurer's Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CTO-001-taglish",
+      "generation_status": "CLARIFICATION_REQUIRED",
+      "scores": {},
+      "language": "taglish",
+      "group_id": "SCENARIO-CTO-001",
+      "pillar": "City Treasurer's Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "NOT_SCORED",
+      "reason": "Requires completed answer and reference; original record retained"
+    },
+    {
+      "record_id": "SCENARIO-CTO-001-bislish",
+      "generation_status": "CLARIFICATION_REQUIRED",
+      "scores": {},
+      "language": "bislish",
+      "group_id": "SCENARIO-CTO-001",
+      "pillar": "City Treasurer's Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "NOT_SCORED",
+      "reason": "Requires completed answer and reference; original record retained"
+    },
+    {
+      "record_id": "SCENARIO-CTO-002-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999,
+        "context_recall": 0.75,
+        "answer_relevancy": 0.0
+      },
+      "language": "english",
+      "group_id": "SCENARIO-CTO-002",
+      "pillar": "City Treasurer's Office",
+      "reference_status": "USER_REVIEWED_CANDIDATE_WITH_EXPLICIT_SOURCE_LIMITATIONS_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CTO-002-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.0,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.0
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-CTO-002",
+      "pillar": "City Treasurer's Office",
+      "reference_status": "USER_REVIEWED_CANDIDATE_WITH_EXPLICIT_SOURCE_LIMITATIONS_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CTO-002-bislish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.49999999995,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.34877057877688067
+      },
+      "language": "bislish",
+      "group_id": "SCENARIO-CTO-002",
+      "pillar": "City Treasurer's Office",
+      "reference_status": "USER_REVIEWED_CANDIDATE_WITH_EXPLICIT_SOURCE_LIMITATIONS_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CTO-003-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.9283525722291244
+      },
+      "language": "english",
+      "group_id": "SCENARIO-CTO-003",
+      "pillar": "City Treasurer's Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CTO-003-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.8719189028127806
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-CTO-003",
+      "pillar": "City Treasurer's Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CTO-003-bislish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.6666666666666666,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.6490385448073118
+      },
+      "language": "bislish",
+      "group_id": "SCENARIO-CTO-003",
+      "pillar": "City Treasurer's Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CTO-004-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.8,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 0.75,
+        "answer_relevancy": 0.0
+      },
+      "language": "english",
+      "group_id": "SCENARIO-CTO-004",
+      "pillar": "City Treasurer's Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CTO-004-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 0.75,
+        "answer_relevancy": 0.7752432543017328
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-CTO-004",
+      "pillar": "City Treasurer's Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CTO-004-bislish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.5,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 0.75,
+        "answer_relevancy": 0.6367520404892593
+      },
+      "language": "bislish",
+      "group_id": "SCENARIO-CTO-004",
+      "pillar": "City Treasurer's Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CTO-005-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.75,
+        "context_precision": 0.99999999995,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.9552167628844916
+      },
+      "language": "english",
+      "group_id": "SCENARIO-CTO-005",
+      "pillar": "City Treasurer's Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CTO-005-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.5,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.8081211403296921
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-CTO-005",
+      "pillar": "City Treasurer's Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CTO-005-bislish",
+      "generation_status": "CLARIFICATION_REQUIRED",
+      "scores": {},
+      "language": "bislish",
+      "group_id": "SCENARIO-CTO-005",
+      "pillar": "City Treasurer's Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "NOT_SCORED",
+      "reason": "Requires completed answer and reference; original record retained"
+    },
+    {
+      "record_id": "SCENARIO-CTO-006-english",
+      "generation_status": "CLARIFICATION_REQUIRED",
+      "scores": {},
+      "language": "english",
+      "group_id": "SCENARIO-CTO-006",
+      "pillar": "City Treasurer's Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "NOT_SCORED",
+      "reason": "Requires completed answer and reference; original record retained"
+    },
+    {
+      "record_id": "SCENARIO-CTO-006-taglish",
+      "generation_status": "CLARIFICATION_REQUIRED",
+      "scores": {},
+      "language": "taglish",
+      "group_id": "SCENARIO-CTO-006",
+      "pillar": "City Treasurer's Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "NOT_SCORED",
+      "reason": "Requires completed answer and reference; original record retained"
+    },
+    {
+      "record_id": "SCENARIO-CTO-006-bislish",
+      "generation_status": "CLARIFICATION_REQUIRED",
+      "scores": {},
+      "language": "bislish",
+      "group_id": "SCENARIO-CTO-006",
+      "pillar": "City Treasurer's Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "NOT_SCORED",
+      "reason": "Requires completed answer and reference; original record retained"
+    },
+    {
+      "record_id": "SCENARIO-OCBO-001-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.6666666666666666,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.7508812147126539
+      },
+      "language": "english",
+      "group_id": "SCENARIO-OCBO-001",
+      "pillar": "Office of the City Building Official",
+      "reference_status": "USER_REVIEWED_CANDIDATE_WITH_EXPLICIT_SOURCE_LIMITATIONS_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-OCBO-001-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.75,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.5742404455036506
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-OCBO-001",
+      "pillar": "Office of the City Building Official",
+      "reference_status": "USER_REVIEWED_CANDIDATE_WITH_EXPLICIT_SOURCE_LIMITATIONS_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-OCBO-001-bislish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.696393993997924
+      },
+      "language": "bislish",
+      "group_id": "SCENARIO-OCBO-001",
+      "pillar": "Office of the City Building Official",
+      "reference_status": "USER_REVIEWED_CANDIDATE_WITH_EXPLICIT_SOURCE_LIMITATIONS_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-OCBO-002-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.9650802148319967
+      },
+      "language": "english",
+      "group_id": "SCENARIO-OCBO-002",
+      "pillar": "Office of the City Building Official",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-OCBO-002-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.75,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.3880711131373397
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-OCBO-002",
+      "pillar": "Office of the City Building Official",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-OCBO-002-bislish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.99999999995,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.5976366429680947
+      },
+      "language": "bislish",
+      "group_id": "SCENARIO-OCBO-002",
+      "pillar": "Office of the City Building Official",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-OCBO-003-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 0.5,
+        "answer_relevancy": 0.9967460825127441
+      },
+      "language": "english",
+      "group_id": "SCENARIO-OCBO-003",
+      "pillar": "Office of the City Building Official",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-OCBO-003-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.7992094311985035
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-OCBO-003",
+      "pillar": "Office of the City Building Official",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-OCBO-003-bislish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.99999999995,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.4628926788043109
+      },
+      "language": "bislish",
+      "group_id": "SCENARIO-OCBO-003",
+      "pillar": "Office of the City Building Official",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-OCBO-004-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.5833333333041666,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.0
+      },
+      "language": "english",
+      "group_id": "SCENARIO-OCBO-004",
+      "pillar": "Office of the City Building Official",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-OCBO-004-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.99999999995,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.6837688090485773
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-OCBO-004",
+      "pillar": "Office of the City Building Official",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-OCBO-004-bislish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.75,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.5456999315388201
+      },
+      "language": "bislish",
+      "group_id": "SCENARIO-OCBO-004",
+      "pillar": "Office of the City Building Official",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-OCBO-005-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.0,
+        "context_recall": 0.9166666666666666,
+        "answer_relevancy": 0.877171238964026
+      },
+      "language": "english",
+      "group_id": "SCENARIO-OCBO-005",
+      "pillar": "Office of the City Building Official",
+      "reference_status": "USER_REVIEWED_CANDIDATE_WITH_EXPLICIT_SOURCE_LIMITATIONS_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-OCBO-005-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.5714285714285714,
+        "context_precision": 0.3333333333,
+        "context_recall": 0.6,
+        "answer_relevancy": 0.6933435149495152
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-OCBO-005",
+      "pillar": "Office of the City Building Official",
+      "reference_status": "USER_REVIEWED_CANDIDATE_WITH_EXPLICIT_SOURCE_LIMITATIONS_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-OCBO-005-bislish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.5833333333041666,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.552390685319152
+      },
+      "language": "bislish",
+      "group_id": "SCENARIO-OCBO-005",
+      "pillar": "Office of the City Building Official",
+      "reference_status": "USER_REVIEWED_CANDIDATE_WITH_EXPLICIT_SOURCE_LIMITATIONS_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-OCBO-006-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.9332190406142823
+      },
+      "language": "english",
+      "group_id": "SCENARIO-OCBO-006",
+      "pillar": "Office of the City Building Official",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-OCBO-006-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.25,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.7662968608648374
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-OCBO-006",
+      "pillar": "Office of the City Building Official",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-OCBO-006-bislish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.6666666666666666,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.7147426568897979
+      },
+      "language": "bislish",
+      "group_id": "SCENARIO-OCBO-006",
+      "pillar": "Office of the City Building Official",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CPDO-001-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.8333333333333334,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.9559360964185123
+      },
+      "language": "english",
+      "group_id": "SCENARIO-CPDO-001",
+      "pillar": "City Planning and Development Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_DEVELOPMENT_LABELS",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CPDO-001-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.0,
+        "context_precision": 0.5833333333041666,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.6510764633476493
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-CPDO-001",
+      "pillar": "City Planning and Development Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_DEVELOPMENT_LABELS",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CPDO-001-bislish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.2857142857142857,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.5671108639292552
+      },
+      "language": "bislish",
+      "group_id": "SCENARIO-CPDO-001",
+      "pillar": "City Planning and Development Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_DEVELOPMENT_LABELS",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CPDO-002-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.0,
+        "context_precision": 0.9999999999,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.9090310776817674
+      },
+      "language": "english",
+      "group_id": "SCENARIO-CPDO-002",
+      "pillar": "City Planning and Development Office",
+      "reference_status": "USER_REVIEWED_CANDIDATE_WITH_EXPLICIT_SOURCE_LIMITATIONS_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CPDO-002-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.5,
+        "context_precision": 0.8333333332916666,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.4070193539927765
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-CPDO-002",
+      "pillar": "City Planning and Development Office",
+      "reference_status": "USER_REVIEWED_CANDIDATE_WITH_EXPLICIT_SOURCE_LIMITATIONS_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CPDO-002-bislish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.8333333332916666,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.5911083562465878
+      },
+      "language": "bislish",
+      "group_id": "SCENARIO-CPDO-002",
+      "pillar": "City Planning and Development Office",
+      "reference_status": "USER_REVIEWED_CANDIDATE_WITH_EXPLICIT_SOURCE_LIMITATIONS_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CPDO-003-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.0,
+        "context_precision": 0.9999999999,
+        "context_recall": 0.5,
+        "answer_relevancy": 0.847526008666672
+      },
+      "language": "english",
+      "group_id": "SCENARIO-CPDO-003",
+      "pillar": "City Planning and Development Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CPDO-003-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 0.5,
+        "answer_relevancy": 0.0
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-CPDO-003",
+      "pillar": "City Planning and Development Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CPDO-003-bislish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.99999999995,
+        "context_recall": 0.3333333333333333,
+        "answer_relevancy": 0.0
+      },
+      "language": "bislish",
+      "group_id": "SCENARIO-CPDO-003",
+      "pillar": "City Planning and Development Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CPDO-004-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.9090909090909091,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.8927725361320981
+      },
+      "language": "english",
+      "group_id": "SCENARIO-CPDO-004",
+      "pillar": "City Planning and Development Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CPDO-004-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.8,
+        "context_precision": 0.8333333332916666,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.36502649074883425
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-CPDO-004",
+      "pillar": "City Planning and Development Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CPDO-004-bislish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.6152491753174932
+      },
+      "language": "bislish",
+      "group_id": "SCENARIO-CPDO-004",
+      "pillar": "City Planning and Development Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CPDO-005-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.99999999995,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.845816789185371
+      },
+      "language": "english",
+      "group_id": "SCENARIO-CPDO-005",
+      "pillar": "City Planning and Development Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CPDO-005-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.3333333333333333,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 0.5,
+        "answer_relevancy": 0.6736733304863137
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-CPDO-005",
+      "pillar": "City Planning and Development Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CPDO-005-bislish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.99999999995,
+        "context_recall": 0.6666666666666666,
+        "answer_relevancy": 0.6078967664181706
+      },
+      "language": "bislish",
+      "group_id": "SCENARIO-CPDO-005",
+      "pillar": "City Planning and Development Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CPDO-006-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.6666666666666666,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 0.8,
+        "answer_relevancy": 0.0
+      },
+      "language": "english",
+      "group_id": "SCENARIO-CPDO-006",
+      "pillar": "City Planning and Development Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CPDO-006-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.99999999995,
+        "context_recall": 0.0,
+        "answer_relevancy": 0.0
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-CPDO-006",
+      "pillar": "City Planning and Development Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-CPDO-006-bislish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.3333333333333333,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 0.0,
+        "answer_relevancy": 0.5942179605513394
+      },
+      "language": "bislish",
+      "group_id": "SCENARIO-CPDO-006",
+      "pillar": "City Planning and Development Office",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BFP-001-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.75,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.8512976500011211
+      },
+      "language": "english",
+      "group_id": "SCENARIO-BFP-001",
+      "pillar": "Bureau of Fire Protection",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_DEVELOPMENT_LABELS",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BFP-001-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.617494360051364
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-BFP-001",
+      "pillar": "Bureau of Fire Protection",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_DEVELOPMENT_LABELS",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BFP-001-bislish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.75,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.4809478542082839
+      },
+      "language": "bislish",
+      "group_id": "SCENARIO-BFP-001",
+      "pillar": "Bureau of Fire Protection",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_DEVELOPMENT_LABELS",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BFP-002-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.0
+      },
+      "language": "english",
+      "group_id": "SCENARIO-BFP-002",
+      "pillar": "Bureau of Fire Protection",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BFP-002-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": null,
+        "context_precision": 0.99999999995,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.0
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-BFP-002",
+      "pillar": "Bureau of Fire Protection",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "PARTIAL_OR_FAILED_JUDGE"
+    },
+    {
+      "record_id": "SCENARIO-BFP-002-bislish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.99999999995,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.566304828103846
+      },
+      "language": "bislish",
+      "group_id": "SCENARIO-BFP-002",
+      "pillar": "Bureau of Fire Protection",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BFP-003-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.5513737837076432
+      },
+      "language": "english",
+      "group_id": "SCENARIO-BFP-003",
+      "pillar": "Bureau of Fire Protection",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BFP-003-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.44652434157171833
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-BFP-003",
+      "pillar": "Bureau of Fire Protection",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BFP-003-bislish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.99999999995,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.44718384327375466
+      },
+      "language": "bislish",
+      "group_id": "SCENARIO-BFP-003",
+      "pillar": "Bureau of Fire Protection",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BFP-004-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.3333333333333333,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.6499900451532068
+      },
+      "language": "english",
+      "group_id": "SCENARIO-BFP-004",
+      "pillar": "Bureau of Fire Protection",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_DEVELOPMENT_LABELS",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BFP-004-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.8,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.39633188649402235
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-BFP-004",
+      "pillar": "Bureau of Fire Protection",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_DEVELOPMENT_LABELS",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BFP-004-bislish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.99999999995,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.46081258797627006
+      },
+      "language": "bislish",
+      "group_id": "SCENARIO-BFP-004",
+      "pillar": "Bureau of Fire Protection",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_DEVELOPMENT_LABELS",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BFP-005-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.99999999995,
+        "context_recall": 0.6666666666666666,
+        "answer_relevancy": 0.7836814555718824
+      },
+      "language": "english",
+      "group_id": "SCENARIO-BFP-005",
+      "pillar": "Bureau of Fire Protection",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_DEVELOPMENT_LABELS",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BFP-005-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.806845376944001
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-BFP-005",
+      "pillar": "Bureau of Fire Protection",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_DEVELOPMENT_LABELS",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BFP-005-bislish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.99999999995,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.27125853146125994
+      },
+      "language": "bislish",
+      "group_id": "SCENARIO-BFP-005",
+      "pillar": "Bureau of Fire Protection",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_DEVELOPMENT_LABELS",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BFP-006-english",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.9098198955403647
+      },
+      "language": "english",
+      "group_id": "SCENARIO-BFP-006",
+      "pillar": "Bureau of Fire Protection",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BFP-006-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 0.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.5659310988763893
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-BFP-006",
+      "pillar": "Bureau of Fire Protection",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    },
+    {
+      "record_id": "SCENARIO-BFP-006-bislish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "faithfulness": 1.0,
+        "context_precision": 0.9999999999666667,
+        "context_recall": 1.0,
+        "answer_relevancy": 0.39766866640705767
+      },
+      "language": "bislish",
+      "group_id": "SCENARIO-BFP-006",
+      "pillar": "Bureau of Fire Protection",
+      "reference_status": "ASSISTANT_SOURCE_REVIEWED_CANDIDATE_NOT_APPLIED",
+      "status": "SCORED"
+    }
+  ],
+  "limits": [
+    "Local 7B judge may fail structured-output parsing; null scores are not zeros.",
+    "Same-model judging can introduce bias.",
+    "Means exclude nulls and skipped records; inspect metric-specific denominators.",
+    "Reference provenance is recorded per interaction; source review and user interpretation do not constitute independent expert certification.",
+    "Generation K and configuration are recorded in the source protocol; development scoring is not frozen held-out evaluation or independent expert certification."
+  ]
+}

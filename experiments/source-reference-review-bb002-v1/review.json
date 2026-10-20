@@ -1,0 +1,26 @@
+{
+  "group_id": "SCENARIO-BB-002",
+  "review_status": "needs_correction",
+  "reviewer": "assistant",
+  "candidate_status": "not_applied",
+  "findings": [
+    "Preserve Single Proprietorship scope of item 2 and if represented condition of item 3.",
+    "Preserve authority/capacity and new-location clauses for partnership/corporation/cooperative documents.",
+    "Include Board Resolution alternative and Cooperative scope.",
+    "Item 6: valid representative ID is 1 photocopy, if newly designated.",
+    "Item 7: map is 1 original with pictures.",
+    "Item 8: include Consent from Property Owner if not rented; retain notarization row association.",
+    "PHP50 service fee is supported; payment row also specifies variable Mayor’s Permit Fee based on asset size and nature of business.",
+    "Remove DEV120-BB-PDF0003-C002: preceding NEW checklist with only incomplete next-service heading; complete correct heading exists in C003."
+  ],
+  "manual_action_required_now": false,
+  "limitations": [
+    "Assistant review is not independent expert certification.",
+    "Do not reinterpret FSIC valid in the last 9 months.",
+    "No fixed total fee can be derived from this row.",
+    "These existing chunks contain reviewed claims, but some cross service boundaries or split rows. No chunk reconstruction or retrieval change was made.",
+    "A relevant-chunk Hit@K is not proof of full answer coverage."
+  ],
+  "progress": "2 of 25 provisional groups reviewed; 23 remain. Separate BFP context and BB ICAB ambiguous-fee reviews remain open.",
+  "unchanged": "Original labels and scores, corpus and indices, app defaults, held-out benchmarks."
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ang bayad sa permit sa pagsemento sa commercial parking lot ug agianan sa sakyanan sa OCBO?"
+  ],
+  "answer": [
+    "Sa pagsemento sa permit para sa commercial parking lot ug agianan sa sakyanan sa OCBO (Off-street Commercial and Off-street Parking Lots for Vehicles), ang bayad ay hindi nakalalaman sa mga nakalagay na mga source na binigyan sa inyo. Ang bayad para sa mga permit na ito ay maaaring magbago sa loob ng panahon, kaya kailangan nga mag-check sa mga pinakamahalagang impormasyon sa mga tag-ulila o sa mga tulay ng pamahalaan.\n\n[S1, S2, S3] Wala akoy nakit-an nga impormasyon bahin niini sa Citizens' Charter tungkol sa bayad para sa permit para sa commercial parking lot ug agianan sa sakyanan sa OCBO."
+  ],
+  "contexts": [
+    [
+      "paid at the City \nTreasurer’s Office\nSTEP 2: PAYMENT\n2.Proceed to the \nCity Treasurer’s \nOffice for \npayment.\n2. Process under \nCity Treasurer’s \nOffice\nService fee  \nis Php50.00\nfor\nAmendment\nof\nBusiness\nPermit.\n9 Minutes \nCity Treasurer’s\nOffice\nEmployees\nSTEP 3: RELEASE\nSubmit \nApplications for \nChange of Name \nand / or \nCorrection of \nBusiness Name, \nofficial receipts \nand pertinent \ndocuments. Claim \nBusiness Permit \nat the Business \nBureau office and \nSign Logbook\n3.1 Receive \nApplication for \nChange of Name \nand",
+      "2.Proceed to the \nCity Treasurer’s \nOffice for payment.\n2. Process \nunder City \nTreasurer’s \nOffice\nMayor’s\nPermit Fee is \nbased on the\nasset size\nand nature of\nbusiness\n(paid at the\nCity\nTreasurer’s\nOffice)\nPls. See\nSchedule of\nFees and \nCharges\n9 Minutes \nCity Treasurer’s\nOffice\nEmployees\nSTEP 3: RELEASE\n3. Submit the \nrecommended \napproval of \napplication for new \nbusiness permit, \nofficial receipts and \npertinent \ndocuments. Then \nclaim Business \nPermit, Business \nIdentification Plate \nand Sticker at the",
+      "Application for \nAdditional Line of \nBusiness\napproval of \nApplication for \nAdditional Line of \nBusiness.\nSTEP 2: PAYMENT\n2.Proceed to the \nCity Treasurer’s \nOffice for payment.\n2. Process under \nCity Treasurer’s \nOffice\nMayor’s\nPermit Fee\nis\nbased on\nthe\nasset size  \nand nature\nof\nbusiness.  \nService fee  \nis Php50.00\nfor\nAmendment\nof\nBusiness\nPermit.\n(paid at the\nCity\nTreasurer’s\nOffice)\nPls. See\nSchedule of\nFees and \nCharges\n9 Minutes \nCity Treasurer’s\nOffice\nEmployees\nSTEP"
+    ]
+  ],
+  "ground_truth": [
+    "Pavement construction up to 20.00 sq.m. costs PHP 24.00. Paved areas in excess of 20 sq.m. intended for commercial, industrial, or institutional parking, sidewalks, and gas station premises are assessed PHP 3.00 per sq.m. or fraction thereof."
+  ]
+}

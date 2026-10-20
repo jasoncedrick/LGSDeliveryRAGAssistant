@@ -1,0 +1,8 @@
+{
+  "dataset_SCENARIO-BFP-005-bislish.json": "defed14d26488ac5b1b319372a05a248c809be0d700f991b07767be6fcebf201",
+  "judge_calls.jsonl": "be1ed9e0a774b37f71988d75c5aac814e6f33e3f0487857bce725455bfe50129",
+  "protocol.json": "91cb27a4906f3d5f1cf2e803d207fa33bca1ab4ef15b83087797e21322577721",
+  "scores.csv": "94e08c23f004e4ae25438980ccf22b337b3c9c6dfc30d922d14e2afa2828359e",
+  "scores.json": "712ae57f70223ce69f20a55c2ae4ba211cc87ca2144732fdaa8af9a9997429a2",
+  "summary.json": "d9d853a2046e9f79e43030e980ce475615d3847fa40b89e1413ee3b2d724eead"
+}

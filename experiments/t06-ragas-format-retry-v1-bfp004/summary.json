@@ -1,0 +1,34 @@
+{
+  "selected": 1,
+  "fully_scored": 1,
+  "not_scored": 0,
+  "failed_or_partial": 0,
+  "metric_aggregates": {
+    "answer_relevancy": {
+      "valid_scores": 1,
+      "mean_on_valid_scores": 0.3305636286762123,
+      "failed_scores": 0
+    }
+  },
+  "results": [
+    {
+      "record_id": "SCENARIO-BFP-004-taglish",
+      "generation_status": "ANSWERED",
+      "scores": {
+        "answer_relevancy": 0.3305636286762123
+      },
+      "language": "taglish",
+      "group_id": "SCENARIO-BFP-004",
+      "pillar": "Bureau of Fire Protection",
+      "reference_status": "assistant_source_reviewed",
+      "status": "SCORED"
+    }
+  ],
+  "limits": [
+    "Local 7B judge may fail structured-output parsing; null scores are not zeros.",
+    "Same-model judging can introduce bias.",
+    "Means exclude nulls and skipped records; inspect metric-specific denominators.",
+    "Five reference groups source-reviewed by assistant; other 25 retain provisional legacy semantics.",
+    "Archived generation is K=5 only; this is not frozen A/B/C evaluation or independent expert certification."
+  ]
+}

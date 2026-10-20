@@ -1,0 +1,48 @@
+{
+  "passed": true,
+  "chunk_count": 1042,
+  "source_page_count": 358,
+  "window_tokens": 120,
+  "stride_tokens": 100,
+  "overlap_tokens": 20,
+  "verified_overlap_pairs": 684,
+  "max_embedding_input_tokens": 122,
+  "display_text_retokenized_over_120": 54,
+  "embedding_path": "verified source token IDs; display text is not re-tokenized",
+  "text_extraction_review_items": [],
+  "source_pdfs": [
+    {
+      "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+      "sha256": "5ec6c626b194ad14fabfd6bd5b29671144f335d8fd38ccdae1d1dab6bff17145",
+      "pdf_pages": 83
+    },
+    {
+      "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "sha256": "b492eb8d220d1d9fb8b1d3acad2bba254d711e227063853415182b1715e546de",
+      "pdf_pages": 64
+    },
+    {
+      "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+      "sha256": "6f081dde0a63ade8aaa3f4dc5a26ceb0c7fde85f896951931d8222eaa86b3093",
+      "pdf_pages": 107
+    },
+    {
+      "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+      "sha256": "6d1572dc7ef1122064b3db8d799f27356231dd2cbeafb84231c6f315820b1005",
+      "pdf_pages": 103
+    },
+    {
+      "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+      "sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+      "pdf_pages": 1
+    }
+  ],
+  "embedding_dimension": 384,
+  "faiss_rows": 1042,
+  "bm25_rows": 1042,
+  "direct_embedding_matches_encode": true,
+  "serialized_faiss_vectors_verified": true,
+  "benchmark_accessed": false,
+  "source_layout_review_complete": false,
+  "note": "Technical token/index validation only; table fidelity still requires source-page review."
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang mga physical requirements tulad ng taas ng cubicle at ilaw para ma-accredit ng ICAB ang isang internet cafe?"
+  ],
+  "answer": [
+    "Sa isang internet cafe na gustong ma-accredit sa ICAB (Internet Café Accreditation Board), ang mga kailangan nga physical requirements nga ma-require sa applicant ang:\n\n1. Half-closed cubicle with not more than 5 feet from the floor (Internet Cafe only) - [S3, DEV120-BB-PDF0079-C004]\n\nAng ilaw, hindi nakit-an nga impormasyon bahin sa mga nakalistang requirements sa ICAB. Wala akoy nakit-an nga impormasyon bahin niini sa Citizens' Charter. (Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa ilaw.)"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "application to \nAdmin Division \nfor release\nNone \n10 Minutes\nZoning\nOfficer IV \nCPDO\n3.9 Admin \nDivision updates \ndocument \ntracking system \nand routes to \nreceiving/releasi\nng personnel\nNone \n10 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\n4. Clients claim the \nLocational \nClearance\n4. \nReceiving/Releasi\nng personnel \nreleases \ndocuments to \nclients\nNone \n10 Minutes\nActing\nAdministrative\nOfficer  \nCPDO",
+      ", notarized by any Notary Public\n3. Official Receipt for Internet Café \nAccreditation \nBoard \n(ICAB)\nAccreditation (1 original)\nRevenue Collection Officer, City Treasurer’s Office\n4. Sketch Map of Business Location \n(1 original)\nApplicant\n5. Compliance of the following ICAB \nrequirements:\nApplicant\nInternet \nService \nProvider \n(ISP\nContract, Certification or Current \nReceipt of Payment\nApplicant\nHalf-closed cubicle with not more \nthan 5 feet from the floor (Internet \nCafe only)\nApplicant"
+    ]
+  ],
+  "ground_truth": [
+    "ICAB inspection requires an ISP contract/receipt, half-closed cubicles not exceeding 5 feet from the floor, minimum lighting of 25 Lux (fluorescent/LED) or 50 Lux (incandescent), 12x18 inch warning signs against pornography/gambling/minors during school hours, content filtering software, and fixed webcams."
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "question": [
+    "When must a business or contractor secure a BFP Fire Safety Clearance for welding, cutting, and hot works?"
+  ],
+  "answer": [
+    "The Fire Safety Clearance for welding, cutting, and hot works should be secured during the project duration for new construction or renovation (during construction) [S2]. This clearance should be applied during construction after the conduct of fire safety inspection [S4]."
+  ],
+  "contexts": [
+    [
+      "s, etc.) as a prerequisite for the\nissuance of appropriate permits and licenses\nfrom the local and other government agencies\nconcerned.\n\nCHECKLIST OF\nREQUIREMENTS/\nDOCUMENTS\nBFP FRONT LINE SERVICES\nFIRE SAFETY  \nEVALUATION \nCLEARANCE\n(FSEC)\nAPPLICATION\nFIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION\nCERTIFICATE OF\nOCCUPANCY\nNEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPAN",
+      "LIST. Other service cells are blank in source; blank is not an exemption statement.]\n\nNote: FSCR/FSCCR/FSMR  is required if the building/facilities/structures are \nrequired to install any or combination of the following: \n       1) Wet standpipe system; \n       2) Automatic fire suppression system; and \n       3) Automatic fire detection and alarm system.\nFire Safety Clearance for welding, cutting, and other hot work operations\n(if   required), shall be secured:\n1) \nPer \nProject \nDuration \n– \nfor \nnew \nconstruction \nor \nrenovation\n(during construction)",
+      "REDIT” nor Recommend any Brand, Store or Distributor of Fire\nExtinguisher and Fire Fighting Equipment\nAs per BFP Memorandum Circular No. 2016-016\nProhibition of BFP Personnel from Engaging in any act of impropriety and/or corruption pertaining to the enforce-\nment and implementation of the Fire Code and providing sanction thereof.\nHow to file a complaint\nTo file a complaint against the BFP or any of its personnel, the Client/Customer should provide the  following details via \nemail or other form of",
+      "be secured:\n1) \nPer \nProject \nDuration \n– \nfor \nnew \nconstruction \nor \nrenovation\n(during construction) This clearance should be applied during                      \nconstruction after the conduct of fire safety inspection\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n\n2)  Annual – for business establishments requiring almost daily repair or\nmaintenance due to its nature of business or operations.\n[REPRESENTATION: Matrix dot shown for:",
+      "AUTHORIZE REPRESENTATIVE, CONTRACTOR OR BUSINESS ENTITY\nNOTE (1) Fire Safety Compliance Report (FSCR) - A written report composed of plans, specifications and design analysis per building prepared and duly signed by the Engineer/Architect-of-Record and his/her Fire Safety Practitioner. \nNOTE (2) Fire Safety Compliance and Commissioning Report (FSCCR) - A compilation report of all approved submittals, test and acceptance forms of all fire protection and life safety features, which shall form part of"
+    ]
+  ],
+  "ground_truth": [
+    "Fire Safety Clearance for welding, cutting and other hot work operations shall be secured if required. Per Project Duration applies to new construction or renovation; the clearance should be applied for during construction after the conduct of fire safety inspection. Annual applies to business establishments requiring almost daily repair or maintenance due to the nature of their business or operations. The matrix marks the per-project row under FSEC and the annual row under the two renewal columns; blank cells are not exemption statements."
+  ]
+}

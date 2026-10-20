@@ -1,0 +1,18 @@
+{
+  "question": [
+    "How can citizens report illegal or unsafe building construction in Davao City, and what is the OCBO inspection timeframe?"
+  ],
+  "answer": [
+    "Citizens can report illegal or unsafe building construction in Davao City by contacting the City Planning and Development Office (CPDO). The process involves submitting an application to the CPDO's document tracking system, which is then routed to the Zoning Evaluation and Development (ZED) for evaluation [S1, S2].\n\nOnce the application is non-compliant, it is subject to inspection for further appropriate action, including an ocular inspection [S1]. The timeframe for the Ocular Inspection is not explicitly stated in the provided sources.\n\nFor fire safety concerns, citizens can refer to the Bureau of Fire Protection (BFP) Citizens Charter. However, the sources do not provide specific details on reporting illegal or unsafe building construction related to fire safety [S3]. It is recommended to consult the BFP for more information on this matter."
+  ],
+  "contexts": [
+    [
+      "6.3 Admin \nDivision encodes \napplication to \ndocument \ntracking system \nand routes to \nZED\nNone\n5 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\n6.4 ZED updates \ndocument \ntracking system \nand endorses to \nTechnical \nEvaluators for \nevaluation\nNone \n10 Minutes \n \nZoning Officer\nIV\nCPDO\n6.5 Conducts \nInspection and \nmakes inspection \nreport in \naccordance with \nthe provisions \nstipulated in the \nIntegrated Zoning \nOrdinance (2019-\n2028). \n \nNote: Non-\ncompliant \napplication is \nsubject for \ninspection for \nfurther \nappropriate \naction. \n \n-Ocular \nInspection,",
+      "ipt for the current \nyear or quarter so the corresponding taxes can then be assed and collected before any \nbusiness or undertaking is finally terminated.",
+      "test and acceptance forms of all fire protection and life safety features, which shall form part of the ―as-built‖\ndocuments turned over by the contractor to the building owner duly signed by the Contractor/Construction Manager and his/her Fire Safety Practitioner.\nNOTE (3) Fire Safety Maintenance Report (FSMR) - A written report prepared by the building owner, his/her fire safety practitioner or authorized representative duly signed by the Building Administrator and his/her Fire Safety Practitioner\nduring the regular annual fire safety inspection."
+    ]
+  ],
+  "ground_truth": [
+    "Complaints regarding Building Code violations require submitting a request/complaint letter. OCBO inspects within 5 days, prepares an Inspection Report, and issues a Notice of Violation or Cease-and-Desist order if illegal construction or structural hazards exist."
+  ]
+}

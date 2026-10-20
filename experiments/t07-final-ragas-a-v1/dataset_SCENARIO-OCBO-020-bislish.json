@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsaon pagsumbong sa OCBO kung naay ilegal o delikado nga construction ug pila ka adlaw sila mag-inspeksyon?"
+  ],
+  "answer": [
+    "Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa inyong tanong tungkol sa inspeksyon sa illegal o delikado nga construction sa OCBO (Office of the City Building Official).\n\nHowever, I found some related information about inspections in the City Planning Citizens Charter 2026_VOL.I & II-3.pdf [S3]. Specifically, for water treatment facilities and retarding ponds, the applicant is required to submit a Sworn Statement [S3, S3]. For golf course construction and development, the applicant needs to secure a Golf Construction and Development Committee Clearance [S3]. These requirements may not be specific to illegal or dangerous constructions, but they do involve inspections by the City Building Official.\n\nFor more detailed information about inspections related to illegal or dangerous constructions, I recommend reaching out to the Office of the City Building Official directly."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "UDED \nIN THE NEGATIVE LIST\nA   P   P   L   I   C   A   T   I   O   N      F   O   R   M\nApplied in Fire Station/Lone District Fire Office \nBFP FSEC\nApplication Form\n(DCN No. BFP-QSF-\nFSED-001 REV.02\n(08.24.20))\n[REPRESENTATION: Application-form cell spans: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION.]\n\nBFP FSIC Application Form (DCN No. BFP-QSF-FSED-002 RE",
+      "water \nTreatment Facility and Retarding Pond\nApplicant\n35. \nSworn Statement \nApplicant\n36. \nGolf Construction and\nDevelopment Committee Clearance (for \ngolf course)\nGolf Construction and Development \nCommittee"
+    ]
+  ],
+  "ground_truth": [
+    "Complaints regarding Building Code violations require submitting a request/complaint letter. OCBO inspects within 5 days, prepares an Inspection Report, and issues a Notice of Violation or Cease-and-Desist order if illegal construction or structural hazards exist."
+  ]
+}

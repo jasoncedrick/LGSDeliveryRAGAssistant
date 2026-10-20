@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Tagpila ang binulan nga bayad kung magbutang ug koral sa sidewalk o agianan sa tawo habang nag-construct?"
+  ],
+  "answer": [
+    "Sa pag-construct ng bangunan, ang Sidewalk Enclosure at Occupancy Permit (SEOP) ang kinakailangan bago mag-start ang construction (makita sa [S2]). Hindi ito kailangan bago mag-start ang pag-construct ng koral sa sidewalk o agianan sa tawo. Wala akoy nakit-an nga binulan nga bayad kung magbutang ug koral sa sidewalk o agianan sa tawo habang nag-construct (hindi nakit-an sa mga ibinigay na impormasyon).\n\n[S2] OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 539 | chunk DEV120-OCBO-PDF0051-C001\n[S1] BFP-CITIZENS-CHARTER-2022.pdf | printed page None | chunk DEV120-BFP-PDF0001-C023"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "8. Issuance of Sidewalk Enclosure and Occupancy Permit\nA Sidewalk Enclosure and Occupancy Permit shall be required prior to or during the processing of \nthe building permit or before any enclosure shall be made.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to \nBusiness; G2G – Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1.     Sidewalk Enclosure",
+      "UDED \nIN THE NEGATIVE LIST\nA   P   P   L   I   C   A   T   I   O   N      F   O   R   M\nApplied in Fire Station/Lone District Fire Office \nBFP FSEC\nApplication Form\n(DCN No. BFP-QSF-\nFSED-001 REV.02\n(08.24.20))\n[REPRESENTATION: Application-form cell spans: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION.]\n\nBFP FSIC Application Form (DCN No. BFP-QSF-FSED-002 RE"
+    ]
+  ],
+  "ground_truth": [
+    "A Sidewalk Enclosure and Occupancy Permit costs PHP 240.00 per calendar month for sidewalk enclosures up to 20.00 sq.m., and PHP 12.00 for every square meter or fraction thereof in excess of 20.00 sq.m. per month."
+  ]
+}

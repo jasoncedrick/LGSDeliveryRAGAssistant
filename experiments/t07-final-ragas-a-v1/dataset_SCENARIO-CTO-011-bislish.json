@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ang porsyento sa buhis sa negosyo para sa mga pabrika ug processors kung molapas sa 6.5 milyon ang gross sales?"
+  ],
+  "answer": [
+    "Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa inyong tanong tungkol sa porsyento sa buhis sa negosyo para sa mga pabrika ug processors kung molapas sa 6.5 milyon ang gross sales. Ang mga impormasyon sa buhis sa negosyo ay hindi nakalagay sa mga nakalista sa Citizens' Charter na nakalagay sa mga source blocks na [S1], [S2], at [S3]."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "RS\nFrom \nTo Less Than \nAnnual Tax\nPhp 0 \nPhp 100,000,000.00 \n90.75% of 1.0% of gross \nreceipts\nPhp 100,000,000.00 \nPhp 2,000,000,000.00 \nPhp \n907,500.00 \nplus\n60.50% of 1.0% of gross",
+      "Officer\nIV\nCPDO\n6.3 Encodes \nendorsement in \ndocument \ntracking system \nand indorses \nthe same to \nZED \nCommunication-\nIn-Charge\nNone \n5 Minutes\n6.4 Endorses \nthe signed \nresolution to the \nAdmin Division\nNone \n5 Minutes \n \nZoning Officer\nIV\nCPDO\n6.5 Endorses \nthe signed \nresolution to the \nCity \nAdministrator’s \nOffice\nNone \n1 Day \n \nZoning Officer\nIV\nCPDO"
+    ]
+  ],
+  "ground_truth": [
+    "Manufacturers, assemblers, and processors are subject to graduated fixed taxes ranging from PHP 1,497.38 for gross sales under PHP 50,000 up to PHP 44,240.63 for sales up to PHP 6.5M. Gross sales in excess of PHP 6,500,000.00 are taxed at 46% of 1.0%."
+  ]
+}

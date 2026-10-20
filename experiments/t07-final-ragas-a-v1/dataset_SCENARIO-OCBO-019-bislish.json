@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Tagpila ang bayad ug unsa ang mga kinahanglan para makakuha ug Certified True Copy sa karaang Building Permit sa OCBO?"
+  ],
+  "answer": [
+    "Sa kasagutan ko, para makakuha ug Certified True Copy sa Building Permit sa Office ng City Building Official (OCBO), ang kinahanglan nga mga requirements sa inyohang checklist ay:\n\n1. Request Letter (sa applicant)\n2. Photocopy ng Building Permit at iba pang kasunduan na dokumento (sa applicant)\n3. Photocopy ng Valid ID ng Owner (sa applicant)\n\nAng mga requirements na ito ay maaoy nakalistado sa [S2] OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf, chunk DEV120-OCBO-PDF0103-C001. Wala pa nga nakit-an nga bayad sa mga nakalistang requirements sa inyohang kasagutan."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "16. Issuance of Certified True Copy of Documents\nCertified True Copy of documents may be issued upon request.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; G2G \n– Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Request Letter \nApplicant\n2. Photocopy of Building Permit and other \nrelated documents\nApplicant\n3. Photocopy of Valid ID of the Owner with \nthree (3) Sig",
+      "5. Issuance of Certifications / Certified True Copy\nCertifications or Certified True Copy is issued to any natural or juridical entity, \ngovernment agencies or offices who wish to secure any copy of Business Permit or \nwho wish to know any status or record of a Taxpayer. \nOffice or \nDivision\nCity Mayor's Office – Permits & Licenses Division\nClassificati\non\nSimple (Certification, Certified True Copy and Master List without \nmodified parameters and formats), Highly Technical (Master List requiring \ntechnical parameters and format modification)\nType of"
+    ]
+  ],
+  "ground_truth": [
+    "Obtaining a Certified True Copy of building documents requires a request letter, photocopy of building permit, owner valid ID with 3 signatures (or SPA if representative), and an Affidavit of Loss if the original is lost. The fee is PHP 50.00 per document copy."
+  ]
+}

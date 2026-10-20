@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Kailan kailangang kumuha ng Fire Safety Clearance para sa welding o hot works at paano ang validity nito?"
+  ],
+  "answer": [
+    "The Fire Safety Clearance (FSCR) is required for welding or hot works. The validity of the Fire Safety Clearance is not specified in the provided sources. However, the Fire Safety Evaluation Clearance (FSEC) Application Form is provided for obtaining the Fire Safety Clearance [S3]. The validity of the FSEC is not explicitly stated in the sources.\n\nFor the question about when to obtain the Fire Safety Clearance for welding or hot works, the sources do not provide a specific answer. It is recommended to contact the BFP Fire Station or Lone District Fire Office for more information. [S3]"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "WAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST. Other service cells are blank in source; blank is not an exemption statement.]\n\nO   T   H   E   R     D   O   C   U   M   E   N   T   S\nFire Safety Compliance Report (FSCR) NOTE (1)\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION",
+      "UDED \nIN THE NEGATIVE LIST\nA   P   P   L   I   C   A   T   I   O   N      F   O   R   M\nApplied in Fire Station/Lone District Fire Office \nBFP FSEC\nApplication Form\n(DCN No. BFP-QSF-\nFSED-001 REV.02\n(08.24.20))\n[REPRESENTATION: Application-form cell spans: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION.]\n\nBFP FSIC Application Form (DCN No. BFP-QSF-FSED-002 RE"
+    ]
+  ],
+  "ground_truth": [
+    "Fire Safety Clearance for welding, cutting and other hot work operations shall be secured if required. Per Project Duration applies to new construction or renovation; the clearance should be applied for during construction after the conduct of fire safety inspection. Annual applies to business establishments requiring almost daily repair or maintenance due to the nature of their business or operations. The matrix marks the per-project row under FSEC and the annual row under the two renewal columns; blank cells are not exemption statements."
+  ]
+}

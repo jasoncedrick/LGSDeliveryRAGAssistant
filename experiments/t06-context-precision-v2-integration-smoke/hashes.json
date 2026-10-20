@@ -1,0 +1,8 @@
+{
+  "dataset_SCENARIO-BFP-002-taglish.json": "a827cae8ea35c3ac4bc57ca8a0189875d54afb0120ebba1d2cd95c72e81bd30f",
+  "judge_calls.jsonl": "d3dd9c5f6ae31fb4b559432a470ea2041ef4376a2ec815040d31fb5dcbcb465c",
+  "protocol.json": "bc946c92229aa09810759a8af60714a016f621539dde119cd8cc3682ff5baee3",
+  "scores.csv": "4589988d2864301f3f984966e039f0962942ab48dc632977f6e2b011d6bd9ae8",
+  "scores.json": "99059c2d384087c24fc5cba79661c60f3233b2c3d6dcd0f3bb5a8a078c7fe1f5",
+  "summary.json": "e10594738265e49df0dbf852587e4c5f91853604bec223e547aa0f19c2621b44"
+}

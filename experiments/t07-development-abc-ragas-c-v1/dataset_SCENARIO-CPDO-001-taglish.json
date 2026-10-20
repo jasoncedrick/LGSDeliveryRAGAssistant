@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang requirements, magkano ang bayad kada hektarya, at gaano katagal ang processing ng Zoning Certification sa CPDO?"
+  ],
+  "answer": [
+    "Sa Zoning Certification sa CPDO (City Planning and Development Office), wala nga nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa iyong kahibaw-an. Ang reklamo sa reclassification at re-zoning ay ma-apply sa mga agricultural lands na ma-utilize sa non-agricultural uses, tulad ng residential, industrial, at commercial ([S2]). Ang proseso sa re-zoning ay nakatanggap ng amendments o bag-ong pagbabago sa existing zoning ng isang lugar at ma-reflektohan sa text at maps ng Ordinance ([S2]).\n\nAng requirements, ang bayad, at ang processing time sa Zoning Certification ay hindi ma-aknayon sa iyong kahibaw-an. Ang mga requirements, kasama ang mga requirements sa CLUP (Comprehensive Land Use Plan), ay ma-determine sa CPDO ([S2]). Ang bayad at ang processing time ay ma-determine sa mga nakatanggap sa reklamo sa reclassification at re-zoning ([S2]).\n\nAng mga interested parties ay ma-encouraged na mag-contact sa CPDO upang makatanggap ng mas mabuting impormasyon tungkol sa requirements, ang bayad, at ang processing time sa Zoning Certification ([S2])."
+  ],
+  "contexts": [
+    [
+      "is replaced every 5 years during the periodic hydrostatic test and the teardown is done at that time.\nSource Table 7.3.1.1.2, NFPA 10-Standard for Portable Fire Extinguishers, 2007 Edition.\n\nThis product is one of the critical products that are required to undergo product certification under the BPS Product Certification Scheme. The list is downloadable at http://www.bps.dti.gov.ph\nUnder this scheme, the manufacturers and importers of these products are required to apply from the BPS for the:\nPhilippine Standard (PS",
+      "10. Reclassification and Re-Zoning \nRECLASSIFICATION- The act of specifying how agricultural lands shall be utilized \nfor non-agricultural uses such as residential, industrial, commercial, as embodied in \nthe CLUP. \n \nRE-ZONING – a process of introducing amendments to or change in the existing \nzoning of a particular area and reflected in the text and maps of the Ordinance. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nHighly Technical\nType of",
+      "3.6. Release \nBusiness permit \nand documents \nto the client\nNone \n10 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau\n3.7. Request the \nclient to sign in \nthe logbook\nNone \n6 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau\nTOTAL:\nMayor’s\nPermit Fee\nis\nbased on\nthe\nasset size  \nand nature\nof\nbusiness.  \nService fee  \nis Php50.00\nfor\nAmendment\nof\nBusiness\nPermit.\n(paid at the\nCity\nTreasurer’s\nOffice)\nPls. See\nSchedule of\nFees and \nCharges\n1 Hour and \n55 Minutes\nG. Amendment of Business Per"
+    ]
+  ],
+  "ground_truth": [
+    "The CPDO Zoning Enforcement Division issues Zoning Certification based on the Integrated Zoning Ordinance (2019-2028). The checklist requires: Certified True Copy of Title(s), 1 photocopy, from the Registry of Deeds; duly accomplished application form, 1 original, from CPDO; Subdivision/Sketch Plan, 1 original, from Bureau of Land/private Geodetic Engineer; Order of Payment, 1 original, from CPDO; and Official Receipt, 1 original, from the City Treasurer's Office. The zoning fee is PHP 750 per hectare; the payment step depends on CTO processing time, described as uncontrollable time. The charter lists a TOTAL processing time of 3 Days, 6 Hours, and 50 Minutes."
+  ]
+}

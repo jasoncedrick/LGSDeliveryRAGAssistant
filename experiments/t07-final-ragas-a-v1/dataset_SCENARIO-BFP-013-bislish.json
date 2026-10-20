@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Giunsa pagpili sa BFP kung kinsang negosyo ang unahon ug inspeksyon gamit ang risk classification ubos sa JMC?"
+  ],
+  "answer": [
+    "Sa pagpili sa BFP (Bureau of Fire Protection), ang negosyo na unahon ug inspeksyon sa kabuuan, maaoy makita sa JMC (Joint Memorandum Circular) No. 01 Series of 2021. Ang JMC na ito nag-encourage ang mga LGU (Local Government Units) sa pag-utilization ng system ng risk classification sa mga iban-ibang negosyo, upang makatugon sa kawalan ng personnel ng inspection departments at agencies sa bilang ng mga establishments. Ang BFP (Bureau of Fire Protection) ang nag-aaral ng Fire Safety Inspection Certificate sa mga ito. Ang detalye sa mga uniform guidelines sa risk inspection sa mga sector maaoy makita sa [S2]. (Source: BFP-CITIZENS-CHARTER-2022.pdf, chunk DEV120-BFP-PDF0001-C008)\n\nAng mga negosyo na maaoy makita sa risk classification maaoy makita sa mga documents na i-submit sa Fire Station/Lone District Fire Office. Ang mga ito maaoy makita sa [S3]. (Source: BFP-CITIZENS-CHARTER-2022.pdf, chunk DEV120-BFP-PDF0001-C053)"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "9.1.4 of JMC No. 01 Series of 2021—To address the lack of personnel of inspection departments and agencies compared to the number of establishments, LGUs are encouraged to use a system of risk classification of various \nbusinesses and adopt an inspection prioritization scheme on this basis, in close coordination with the Department of Health for Sanitary Permits, the BFP for the Fire Safety Inspection Certificate for the issuance of uniform guidelines on \nrisk inspection for specific sectors. (BOSS)\nAGENCY ROW 1\n\nCLIENTS",
+      "applied in Fire\nStation/Lone District\nFire Office)\nThree (3) set of the  following documents\n\n[IMAGE PANEL TRANSCRIPTION — BFP PDF page 1]\nWARNING: BFP PERSONNEL ARE PROHIBITED FROM SELLING OR RECOMMENDING SPECIFIC BRAND OF FIRE EXTINGUISHER.\nREPORT SUCH IRREGULARITY AT THE FOLLOWING CONTACT NUMBERS:\nOFFICE OF THE CHIEF, BFP\nDirect line 426-43-99 Trunk line 426-02-19/426-02-46 Local 7"
+    ]
+  ],
+  "ground_truth": [
+    "Section 9.1.4 encourages LGUs and BFP to adopt a risk classification scheme for business sectors to address personnel shortages, prioritizing high-risk fire establishments for physical inspection while low-risk businesses receive routine post-issuance audits."
+  ]
+}

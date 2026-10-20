@@ -1,0 +1,44 @@
+{
+  "total_pairs": 1560,
+  "valid": 1450,
+  "invalid": 110,
+  "invalid_fraction": 0.07051282051282051,
+  "failure_types": {
+    "QUOTE_NOT_IN_CONTEXT": 66,
+    "NEGATIVE_WITH_EVIDENCE_QUOTES": 29,
+    "INVALID_JSON": 15
+  },
+  "affected_queries": 55,
+  "affected_groups": 28,
+  "failed_by_office_language": {
+    "Business Bureau|english": 4,
+    "Business Bureau|taglish": 7,
+    "Business Bureau|bislish": 4,
+    "Bureau of Fire Protection|bislish": 10,
+    "Bureau of Fire Protection|taglish": 4,
+    "Bureau of Fire Protection|english": 7,
+    "City Planning and Development Office|english": 13,
+    "City Planning and Development Office|taglish": 12,
+    "City Planning and Development Office|bislish": 8,
+    "City Treasurer's Office|english": 9,
+    "City Treasurer's Office|bislish": 4,
+    "City Treasurer's Office|taglish": 7,
+    "Office of the City Building Official|bislish": 6,
+    "Office of the City Building Official|english": 6,
+    "Office of the City Building Official|taglish": 9
+  },
+  "complete_conditions": 0,
+  "total_conditions": 68,
+  "bounded_dominating_candidates": [],
+  "status": "EVALUATOR_OUTPUT_FAILURES_BLOCK_SELECTION",
+  "held_out_accessed": false,
+  "freeze": false,
+  "next_action": "Review failed raw outputs against actual contexts; choose and predeclare a defensible evaluator protocol before new judging. No additional retries under the exhausted v2 policy.",
+  "methodology": "20260923.pdf PDF33-34 and main Thesis Tracker T07; selection requires development Context Precision, then freeze before held-out A/B/C.",
+  "input_hashes": {
+    "experiments\\t07-paired-grid-evaluator-v2\\judge_verdicts.jsonl": "44918436d7c0c99f9914f08d425b7e3c01a145d3a74ce673643481f866ad8ca2",
+    "experiments\\t07-paired-grid-evaluator-v2\\comparison.json": "90e9747f8538545925734823dbe1da755fca95f4b63b2458206161f89b333e21",
+    "experiments\\t07-paired-grid-evaluator-v2\\protocol.json": "b80bf00d0dda0e6f08443b7fca51180dff46a19d5a4cbb6e67a6946f5dee3272",
+    "experiments\\t06-formal-development-validation-v4\\methodology_and_tracker.json": "ee15440a4643968034d4a6451b999a4fadddb2399f6b882acd25943ff66d6281"
+  }
+}

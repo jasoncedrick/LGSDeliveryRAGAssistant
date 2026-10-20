@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ano ang mga physical requirements tulad ng taas ng cubicle at ilaw para ma-accredit ng ICAB ang isang internet cafe?"
+  ],
+  "answer": [
+    "Ang mga pangunahing pangangailangan ng isang internet cafe para ma-accredit ng ICAB (Internet Cafe Accreditation Board) ay nababasa sa [S1] at [S3].\n\nAng taas ng half-closed cubicle na kailangan ay hindi mas mataas sa 5 feet mula sa lantay (Internet Cafe lang ang nakakahusay na pangangailangan). Ang impormasyon na ito ay nababasa sa [S3].\n\nSa iba't-ibang pangyayari, ang ilaw ay hindi nababasa sa mga nakalaman sa mga source na nabigyan ng impormasyon. Ngunit, ang ilaw ay maaaring kailangan para sa seguridad at komfort ng mga kliyente ng internet cafe. Ang impormasyon na ito ay maaaring nababasa sa Citizens' Charter na hindi nabigyan ng impormasyon.\n\nWala akoy nakit-an nga impormasyon bahin niini sa Citizens' Charter tungkol sa ilaw."
+  ],
+  "contexts": [
+    [
+      "8. Ocular Inspection and ICAB Inspection\nBusiness activities being applied will be validated through ocular inspections. For Internet \nCafes, this procedure intends to issue Internet Café Accreditation to internet cafes and \ncoin operated internet machine business operators who are compliant with internet café \nregulation requirement. Internet Café Accreditation is a specific requirement for the \nissuance of Business Permit. \nOffice or \nDivision\nCity Mayor's Office – Permits & Licenses Division\nClassification Simple (Regular), Complex (Complaint), Highly Technic",
+      "and ICAB \nAccreditation with \nOrder of Payment \nfor Accreditation if \ncompliant\nNone\n2 Days\nLicensing Officer\nwith massive\ninspectors\n* For Internet \nCafé and \nPisonet \nOwners: \n5. Proceed to \nCity \nTreasurer’s \nOffice for ICAB \nAccreditation \nfee\n5. Receive \nPayment and Order \nof Payment and \nRelease Official \nReceipt\nPHP100.00 \nfor the first \n10 units and \nPHP10.00 \nfor every\nunit\n10 Minutes\n(May be done on the\nsame day Internet\nAccreditation is\nreceived depending\non the will of the\napplicant)\nLocal Re",
+      ", notarized by any Notary Public\n3. Official Receipt for Internet Café \nAccreditation \nBoard \n(ICAB)\nAccreditation (1 original)\nRevenue Collection Officer, City Treasurer’s Office\n4. Sketch Map of Business Location \n(1 original)\nApplicant\n5. Compliance of the following ICAB \nrequirements:\nApplicant\nInternet \nService \nProvider \n(ISP\nContract, Certification or Current \nReceipt of Payment\nApplicant\nHalf-closed cubicle with not more \nthan 5 feet from the floor (Internet \nCafe only)\nApplicant"
+    ]
+  ],
+  "ground_truth": [
+    "ICAB inspection requires an ISP contract/receipt, half-closed cubicles not exceeding 5 feet from the floor, minimum lighting of 25 Lux (fluorescent/LED) or 50 Lux (incandescent), 12x18 inch warning signs against pornography/gambling/minors during school hours, content filtering software, and fixed webcams."
+  ]
+}

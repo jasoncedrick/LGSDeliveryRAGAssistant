@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Anong mga BSP clearances ang kailangang ipasa ng mga bangko at sanglaan bago bigyan ng Mayor's Permit sa Davao?"
+  ],
+  "answer": [
+    "Wala akong impormasyon bahin sa Citizens' Charter tungkol sa mga BSP clearances ang kailangang ipasa ng mga bangko at sanglaan bago bigyan ng Mayor's Permit sa Davao. [S1] Ang hindi nakit-an ang mga BSP clearances sa mga nakalistang requirements sa bangko at sanglaan sa Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf."
+  ],
+  "contexts": [
+    [
+      "Automobile Rebuilder\nDepartment Of Trade And Industry \nAccreditation, Land Transportation Office \nAnd Highway Patrol Group Certificates\nBanks\nNew Application: Subject to BSP \nAuthority to Operate \n  \nRenewal: Required BSP Authority to \nOperate\nBio/Organic Fertilizers \nNotation forever for COR-Bureau of \nAgriculture & Fishery Standards (BAFS)\nBoat Building \nNew Application: Subject to the req.of \nMARINA \nRenewal: required Cert. of Compliance; \nCert. of Phil.Registry\nBuilding Contractor /  General \nEngineering /",
+      "4. Occupational Permit\nOccupational Permit is issued to any worker or employee who is not a holder of a validly \nissued Professional Tax Receipts, whether working on temporary and permanent basis. \nOccupational Permit is renewed annually on or before January 31. Late renewal is \nimposed a penalty of 25%. \nOffice or Division \nCity Mayor's Office – Permits & Licenses Division\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail\nAny employee or worker who is a Filipino citizen",
+      "8. Issuance of Sidewalk Enclosure and Occupancy Permit\nA Sidewalk Enclosure and Occupancy Permit shall be required prior to or during the processing of \nthe building permit or before any enclosure shall be made.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to \nBusiness; G2G – Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1.     Sidewalk Enclosure"
+    ]
+  ],
+  "ground_truth": [
+    "Banks require a Bangko Sentral ng Pilipinas (BSP) Authority to Operate for new applications and renewals. Pawnshops, forex dealers, and money remittance entities must submit proof of registration application with the BSP prior to commencement of operations."
+  ]
+}

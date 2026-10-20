@@ -1,0 +1,20 @@
+{
+  "question": [
+    "What is the fee and requirement checklist to request a Certified True Copy of a lost Building Permit at OCBO?"
+  ],
+  "answer": [
+    "To request a Certified True Copy of a lost Building Permit at the Office of the City Building Official (OCBO), the following are the requirements and fee:\n\n1. Request Letter - Applicant\n2. Photocopy of Valid ID of the Owner with three (3) signatures - Applicant\n3. Photocopy of the lost Building Permit and other related documents - Applicant\n\nThe fee for this service is not specified in the provided sources. For the most accurate and up-to-date fee information, it is recommended to contact the OCBO directly.\n\n[S1] OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 591 | chunk DEV120-OCBO-PDF0103-C001"
+  ],
+  "contexts": [
+    [
+      "16. Issuance of Certified True Copy of Documents\nCertified True Copy of documents may be issued upon request.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; G2G \n– Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Request Letter \nApplicant\n2. Photocopy of Building Permit and other \nrelated documents\nApplicant\n3. Photocopy of Valid ID of the Owner with \nthree (3) Sig",
+      "Application for Renewal of Business Permit, \nor Certified True Copy of Business Permit \nw/ Affidavit of Loss in case of lost permits\nApplicant\n5. \nBarangay Clearance from correct\nBarangay and Certification of No Operation \nfrom incorrect Barangay\nLocal Barangay Hall\n6. \nSketch / Google map of Business\nlocation (1 original) with pictures of the \npremise location for correction of address\nApplicant\nREQUIRED DOCUMENTS FOR SPECIFIC BUSINESS LINES\nBUSINESS DESCRIPTION \nREQUIRED DOCUMENTS\nAircraft Companie",
+      "owned, \nrented and not rented) and Lease Contract \nif rented or Consent from Property Owner if \nnot rented\nApplicant, notarized by any Notary \nPublic\n6. \nCurrent Original Mayor’s Permit,\nApplication for Renewal of Business Permit, \nor Certified True Copy of Business Permit \nw/ Affidavit of Loss in    case of lost permits.\nApplicant\n7. \nDTI Certificate New Owner –\nSingle Proprietorship\nDepartment of Trade and Industry\n8. \nSEC Registration, Article of\nIncorporation for Partnership and \nCorporation (1 photocopy) Certifica",
+      "of Undertaking that there had\nbeen no substantial changes made on the \nbuilding\nApplicant, notarized by any Notary \nPublic\nAMENDMENT OF BUSINESS PERMIT – ADDITIONAL BUSINESS LINE\n1. Current Original Mayor’s Permit,\nApplication for Renewal of Business \nPermit, or Certified True Copy of \nBusiness Permit w/ Affidavit of Loss in \ncase of lost permits\nApplicant or Records Section, \nBusiness Bureau or Any Notary \nPublic for affidavit of loss\n2. \nAffidavit of Additional Line of Business\n(notarized)",
+      "5. Issuance of Certifications / Certified True Copy\nCertifications or Certified True Copy is issued to any natural or juridical entity, \ngovernment agencies or offices who wish to secure any copy of Business Permit or \nwho wish to know any status or record of a Taxpayer. \nOffice or \nDivision\nCity Mayor's Office – Permits & Licenses Division\nClassificati\non\nSimple (Certification, Certified True Copy and Master List without \nmodified parameters and formats), Highly Technical (Master List requiring \ntechnical parameters and format modification)\nType of"
+    ]
+  ],
+  "ground_truth": [
+    "To secure a Certified True Copy (CTC) of a Building Permit or related building documents from the OCBO Records Division, the applicant must submit: 1) Request Letter; 2) Photocopy of the Building Permit or reference details; 3) Photocopy of valid ID of owner with 3 specimen signatures; 4) Notarized SPA and processor's valid ID if represented; and 5) Original Affidavit of Loss if the original permit was lost. The statutory fee is PHP 50.00 per document (1 copy), paid at the City Treasurer's Office, with a standard turnaround time of 2 Days, 1 Hour, and 19 Minutes."
+  ]
+}

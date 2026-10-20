@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang pamaagi sa pagbayad sa BFP cashier ug pila ka minuto makuha ang claim stub para sa release sa permit?"
+  ],
+  "answer": [
+    "Sa pagbayad sa BFP (Bureau of Fire Protection), ang pamaagi nga nakapasok sa Citizens' Charter ay sa cashier nga nakatagpuan sa BFP. Ang pila ka minuto nga makuha ang claim stub para sa release sa permit, ang maximum na pila ka minuto nga nakapasok sa Charter ay ten (10) minutes. [S2]\n\nFor payment at BFP (Bureau of Fire Protection), the way to pay is at the cashier located at BFP. The number of minutes to get the claim stub for the release of the permit, according to the Charter, is a maximum of ten (10) minutes. [S2]"
+  ],
+  "contexts": [
+    [
+      "Permit.\n(paid at the\nCity\nTreasurer’s\nOffice)\nPls. See\nSchedule of\nFees and \nCharges\nSTEP 3: RELEASE\n3.Submit the \nrecommended \napproval of \nApplication for \nAdditional Line of \nBusiness, official \nreceipts and \npertinent \ndocuments. Claim \nBusiness Permit at \nthe Business \nBureau office and \nSign Logbook.\n3.1 Receive and \nCheck \nApplication for \nAmendment of \nBusiness Permit \nfor Additional \nLine of Business \nand Complete \nAttachments / \nDocuments \n(claim stub is \nreleased to the \nclient on this \nstep)\nNone \n30 Minutes \nProcessing\nSection",
+      "proceed to releasing\nwindow to claim the stub by presenting the OR.\nNote: Releasing date and time of FSEC is\nindicated in the claim stub.\n\nAGENCY ACTION: 3. Collect the payment and issue Official\nReceipt (OR)\nFor OSCP/BOSS : Backroom operation with\nOSCP/BOSS for one-time payment thru\nco-location\nFor Local Stations with MOA with the LGUs, fire\ncode fees/taxes shall be collected by the LGUs\n\nPROCESSING TIME: maximum of ten (10) minutes\n\nPERSON",
+      "for\nAmendment\nof\nBusiness\nPermit.\n(paid at the\nCity\nTreasurer’s\nOffice)\nPls. See\nSchedule of\nFees and \nCharges\n3. Submit the \nrecommended \napproval of \nApplication for \nChange of \nBusiness Address, \nofficial receipts and \npertinent \ndocuments. Claim \nBusiness Permit at \nthe Business \nBureau office and \nSign Logbook\n3.1 Receive and \ncheck \nrecommended \napproval of \nApplication for \nChange of \nBusiness Address \nand Complete \nAttachments / \nDocuments (claim \nstub is released \nto the client on \nthis step)\nNone \n30 Minutes \nProcessing\nSection\npersonnel \nBusiness \nBureau\n3.2 Encode \nNotations"
+    ]
+  ],
+  "ground_truth": [
+    "The Fire Code Collecting Agent (FFCC) collects fire fees, issues the Official Receipt within 10 minutes, records payment details in the official logbook, and releases the claim stub indicating the release date/time for the FSEC/FSIC within 5 minutes."
+  ]
+}

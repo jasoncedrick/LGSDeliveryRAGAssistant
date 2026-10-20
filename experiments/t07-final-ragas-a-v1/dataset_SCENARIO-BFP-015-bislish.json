@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang pamaagi sa pagbayad sa BFP cashier ug pila ka minuto makuha ang claim stub para sa release sa permit?"
+  ],
+  "answer": [
+    "Wala akong impormasyon bahin sa Citizens' Charter tungod sa BFP tungod sa iyong tanan. Ang mga impormasyon sa pagbayad sa BFP cashier at ang mga minuto para makuha ang claim stub para sa release sa permit ay hindi nakalagay sa mga nakapag-aral sa BFP-CITIZENS-CHARTER-2022.pdf. [S1, S3]"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "(1) day\nComplex Transaction - Three (3) days\nHighly Technical Transaction - Seven (7)\ndays\n\nPERSON RESPONSIBLE: Building Plan Evaluator (BPE)/\nChief, Fire Safety Enforcement\nSection/Unit (C, FSES/FSEU)/\nCity/Municipal Fire Marshal\n(C/MFM)\n\nAGENCY ROW 6\n\nCLIENTS STEP: 4. On the date of release indicated in the Claim\nStub, present the Claim Stub to the releasing\nwindow, claim the FSEC/NOD/FSIC for\nCertifica",
+      "of\nFees and \nCharges\n9 Minutes \nCity Treasurer’s\nOffice\nEmployees\nSTEP 3: RELEASE\nSubmit \nApplications for \nOther \nAmendments, \nofficial receipts and \npertinent \ndocuments. Claim \nBusiness Permit at \nthe Business \nBureau office and \nSign Logbook\n3.1. Receive \nApplication for \nOther \nAmendments \nand Complete \nAttachments / \nDocuments \n(claim stub is \nreleased to the \nclient on this \nstep)\nNone \n10 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau"
+    ]
+  ],
+  "ground_truth": [
+    "The Fire Code Collecting Agent (FFCC) collects fire fees, issues the Official Receipt within 10 minutes, records payment details in the official logbook, and releases the claim stub indicating the release date/time for the FSEC/FSIC within 5 minutes."
+  ]
+}

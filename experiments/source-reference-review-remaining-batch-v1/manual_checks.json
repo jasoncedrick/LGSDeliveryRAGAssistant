@@ -1,0 +1,67 @@
+[
+  {
+    "group_id": "SCENARIO-CPDO-002",
+    "type": "official_interpretation",
+    "question": "Do both the 3-storey and 1,500-sqm criteria apply together, or are they alternative triggers?",
+    "source": "CPDO PDF5/printed634",
+    "blocking": "Definitive eligibility interpretation only; preserve source wording meanwhile.",
+    "handling": "User directions recorded in candidate; no immediate further user action. Source limitations remain explicit."
+  },
+  {
+    "group_id": "SCENARIO-CPDO-003",
+    "type": "conditional_official_clarification",
+    "question": "If institutional filing fees or a consolidated payable total are needed, confirm the fee aggregation with CPDO.",
+    "source": "PDF21-22,25",
+    "blocking": "No block to quoting individually listed charges."
+  },
+  {
+    "group_id": "SCENARIO-CPDO-004",
+    "type": "conditional_source_inconsistency",
+    "question": "Confirm committee naming if precise routing terminology is needed; source alternates LZBA/LZBAA and mentions UEESZ.",
+    "source": "PDF26-32",
+    "blocking": "No block to source-preserving process summary."
+  },
+  {
+    "group_id": "SCENARIO-CTO-002",
+    "type": "blocking_reference_computation",
+    "question": "Obtain authoritative correction/confirmation of the transfer-tax rate; rendered Annex4 says 87% or 1%, while old reference says 0.75% or up to 1%.",
+    "source": "CTO PDF11/printed166",
+    "blocking": "Do not approve computed tax labels or treat this rate question as fully validated.",
+    "handling": "User directions recorded in candidate; no immediate further user action. Source limitations remain explicit."
+  },
+  {
+    "group_id": "SCENARIO-OCBO-001",
+    "type": "blocking_source_conflict",
+    "question": "Confirm Mechanical-plan set count and licensed signing professional: the printed row conflicts internally and names Electronics Engineer.",
+    "source": "OCBO PDF3/printed491 row8",
+    "blocking": "Mechanical subclaim cannot be certified until clarified.",
+    "handling": "User directions recorded in candidate; no immediate further user action. Source limitations remain explicit."
+  },
+  {
+    "group_id": "SCENARIO-OCBO-005",
+    "type": "official_source_clarification",
+    "question": "Confirm duplicated Tax Declaration/CTO row and permit scope for fences above 1.80m; the introduction and fee table differ.",
+    "source": "OCBO PDF29/printed517 and PDF35/printed523",
+    "blocking": "Affected checklist/scope interpretations only.",
+    "handling": "User directions recorded in candidate; no immediate further user action. Source limitations remain explicit."
+  },
+  {
+    "group_id": "SCENARIO-OCBO-006",
+    "type": "conditional_source_clarification",
+    "question": "If using exact turnaround as a validated performance target, confirm printed TOTAL against listed step durations.",
+    "source": "OCBO PDF103-104/printed591-592",
+    "blocking": "No block to clearly labeling it as printed TOTAL."
+  },
+  {
+    "group_id": "SCENARIO-BB-005",
+    "type": "conditional_official_clarification",
+    "question": "Exact late fee within P1,000-P5,000 range only if a numeric scenario needs it.",
+    "source": "BB PDF75/printed114"
+  },
+  {
+    "group_id": "SCENARIO-BB-006",
+    "type": "conditional_official_clarification",
+    "question": "Does ICAB every unit mean additional units? Preserve exact wording unless officially clarified.",
+    "source": "BB PDF81/printed120"
+  }
+]

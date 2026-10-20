@@ -1,0 +1,632 @@
+[
+  {
+    "group_id": "SCENARIO-BB-006",
+    "reviewer": "assistant, user-authorized; not independent expert certification",
+    "claims": [
+      {
+        "claim_id": "SCENARIO-BB-006-CLAIM-01",
+        "claim": "The ICAB checklist includes an ISP contract, certification or current receipt of payment; half-closed cubicles not more than 5 feet from the floor apply to Internet Cafes only.",
+        "support_type": "source-reviewed; multiple chunks may be jointly necessary",
+        "supporting_chunks": [
+          {
+            "chunk_id": "DEV120-BB-PDF0079-C004",
+            "source_page_id": "BB-PDF0079",
+            "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+            "pdf_relative_page": 79,
+            "source_page": 118,
+            "pdf_sha256": "5ec6c626b194ad14fabfd6bd5b29671144f335d8fd38ccdae1d1dab6bff17145",
+            "char_start": 1320,
+            "char_end": 1812,
+            "text_content": ", notarized by any Notary Public\n3. Official Receipt for Internet Café \nAccreditation \nBoard \n(ICAB)\nAccreditation (1 original)\nRevenue Collection Officer, City Treasurer’s Office\n4. Sketch Map of Business Location \n(1 original)\nApplicant\n5. Compliance of the following ICAB \nrequirements:\nApplicant\nInternet \nService \nProvider \n(ISP\nContract, Certification or Current \nReceipt of Payment\nApplicant\nHalf-closed cubicle with not more \nthan 5 feet from the floor (Internet \nCafe only)\nApplicant"
+          }
+        ]
+      },
+      {
+        "claim_id": "SCENARIO-BB-006-CLAIM-02",
+        "claim": "Lighting must be at least 25 Lux for fluorescent/LED lights or 50 Lux for incandescent lights.",
+        "support_type": "source-reviewed; multiple chunks may be jointly necessary",
+        "supporting_chunks": [
+          {
+            "chunk_id": "DEV120-BB-PDF0080-C001",
+            "source_page_id": "BB-PDF0080",
+            "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+            "pdf_relative_page": 80,
+            "source_page": 119,
+            "pdf_sha256": "5ec6c626b194ad14fabfd6bd5b29671144f335d8fd38ccdae1d1dab6bff17145",
+            "char_start": 0,
+            "char_end": 520,
+            "text_content": "Proper Lighting: 25 Lux minimum for \nfluorescent and LED lights, 50 lux \nminimum for incandescent\nApplicant\n \nWarning sign with minimum size \nof 12 x 18 inches with the \nfollowing text:\n \nNo pornography\n \nNo Gambling\n \nNo Hacking\n \nNo minors are allowed prior to \n6:00 AM and beyond 9:00 PM\n \nStudents are not allowed to play \ngames during prescribed school \nhours.\nApplicant\nSystem for blocking or filtering \naccess \nto \npornographic\nsites/contents\nApplicant\nWebcams \npermanently \nfixed\n(Internet Cafe only)\nAppli"
+          }
+        ]
+      },
+      {
+        "claim_id": "SCENARIO-BB-006-CLAIM-03",
+        "claim": "A warning sign at least 12 x 18 inches must state: no pornography, no gambling, no hacking, no minors prior to 6:00 AM and beyond 9:00 PM, and students may not play games during prescribed school hours.",
+        "support_type": "source-reviewed; multiple chunks may be jointly necessary",
+        "supporting_chunks": [
+          {
+            "chunk_id": "DEV120-BB-PDF0080-C001",
+            "source_page_id": "BB-PDF0080",
+            "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+            "pdf_relative_page": 80,
+            "source_page": 119,
+            "pdf_sha256": "5ec6c626b194ad14fabfd6bd5b29671144f335d8fd38ccdae1d1dab6bff17145",
+            "char_start": 0,
+            "char_end": 520,
+            "text_content": "Proper Lighting: 25 Lux minimum for \nfluorescent and LED lights, 50 lux \nminimum for incandescent\nApplicant\n \nWarning sign with minimum size \nof 12 x 18 inches with the \nfollowing text:\n \nNo pornography\n \nNo Gambling\n \nNo Hacking\n \nNo minors are allowed prior to \n6:00 AM and beyond 9:00 PM\n \nStudents are not allowed to play \ngames during prescribed school \nhours.\nApplicant\nSystem for blocking or filtering \naccess \nto \npornographic\nsites/contents\nApplicant\nWebcams \npermanently \nfixed\n(Internet Cafe only)\nAppli"
+          }
+        ]
+      },
+      {
+        "claim_id": "SCENARIO-BB-006-CLAIM-04",
+        "claim": "A system must block or filter pornographic sites/content; permanently fixed webcams are required for Internet Cafes only.",
+        "support_type": "source-reviewed; multiple chunks may be jointly necessary",
+        "supporting_chunks": [
+          {
+            "chunk_id": "DEV120-BB-PDF0080-C001",
+            "source_page_id": "BB-PDF0080",
+            "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+            "pdf_relative_page": 80,
+            "source_page": 119,
+            "pdf_sha256": "5ec6c626b194ad14fabfd6bd5b29671144f335d8fd38ccdae1d1dab6bff17145",
+            "char_start": 0,
+            "char_end": 520,
+            "text_content": "Proper Lighting: 25 Lux minimum for \nfluorescent and LED lights, 50 lux \nminimum for incandescent\nApplicant\n \nWarning sign with minimum size \nof 12 x 18 inches with the \nfollowing text:\n \nNo pornography\n \nNo Gambling\n \nNo Hacking\n \nNo minors are allowed prior to \n6:00 AM and beyond 9:00 PM\n \nStudents are not allowed to play \ngames during prescribed school \nhours.\nApplicant\nSystem for blocking or filtering \naccess \nto \npornographic\nsites/contents\nApplicant\nWebcams \npermanently \nfixed\n(Internet Cafe only)\nAppli"
+          },
+          {
+            "chunk_id": "DEV120-BB-PDF0080-C002",
+            "source_page_id": "BB-PDF0080",
+            "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+            "pdf_relative_page": 80,
+            "source_page": 119,
+            "pdf_sha256": "5ec6c626b194ad14fabfd6bd5b29671144f335d8fd38ccdae1d1dab6bff17145",
+            "char_start": 433,
+            "char_end": 911,
+            "text_content": "graphic\nsites/contents\nApplicant\nWebcams \npermanently \nfixed\n(Internet Cafe only)\nApplicant\nNo selling and consumption of \nintoxicating drinks and cigarettes \nwithin the premises\nApplicant\nCopy of ICAB ordinances (227-04, \n0387-12 \nand \n0270-15), \nas\namended.\nBusiness Bureau, Licensing Officer I\nHeadphones (Internet Cafe only) \nApplicant\nUrinal for 30 units and below and \nseparate male and female CRs for \n31 units and above (Internet Cafe \nonly)\nApplicant\nCLIENT \nSTEPS\nAGEN"
+          }
+        ]
+      },
+      {
+        "claim_id": "SCENARIO-BB-006-CLAIM-05",
+        "claim": "The checklist also prohibits selling and consuming intoxicating drinks and cigarettes on the premises and lists a copy of ICAB ordinances 227-04, 0387-12 and 0270-15, as amended.",
+        "support_type": "source-reviewed; multiple chunks may be jointly necessary",
+        "supporting_chunks": [
+          {
+            "chunk_id": "DEV120-BB-PDF0080-C002",
+            "source_page_id": "BB-PDF0080",
+            "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+            "pdf_relative_page": 80,
+            "source_page": 119,
+            "pdf_sha256": "5ec6c626b194ad14fabfd6bd5b29671144f335d8fd38ccdae1d1dab6bff17145",
+            "char_start": 433,
+            "char_end": 911,
+            "text_content": "graphic\nsites/contents\nApplicant\nWebcams \npermanently \nfixed\n(Internet Cafe only)\nApplicant\nNo selling and consumption of \nintoxicating drinks and cigarettes \nwithin the premises\nApplicant\nCopy of ICAB ordinances (227-04, \n0387-12 \nand \n0270-15), \nas\namended.\nBusiness Bureau, Licensing Officer I\nHeadphones (Internet Cafe only) \nApplicant\nUrinal for 30 units and below and \nseparate male and female CRs for \n31 units and above (Internet Cafe \nonly)\nApplicant\nCLIENT \nSTEPS\nAGEN"
+          }
+        ]
+      },
+      {
+        "claim_id": "SCENARIO-BB-006-CLAIM-06",
+        "claim": "Headphones, a urinal for 30 units and below, and separate male and female CRs for 31 units and above are listed for Internet Cafes only.",
+        "support_type": "source-reviewed; multiple chunks may be jointly necessary",
+        "supporting_chunks": [
+          {
+            "chunk_id": "DEV120-BB-PDF0080-C002",
+            "source_page_id": "BB-PDF0080",
+            "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+            "pdf_relative_page": 80,
+            "source_page": 119,
+            "pdf_sha256": "5ec6c626b194ad14fabfd6bd5b29671144f335d8fd38ccdae1d1dab6bff17145",
+            "char_start": 433,
+            "char_end": 911,
+            "text_content": "graphic\nsites/contents\nApplicant\nWebcams \npermanently \nfixed\n(Internet Cafe only)\nApplicant\nNo selling and consumption of \nintoxicating drinks and cigarettes \nwithin the premises\nApplicant\nCopy of ICAB ordinances (227-04, \n0387-12 \nand \n0270-15), \nas\namended.\nBusiness Bureau, Licensing Officer I\nHeadphones (Internet Cafe only) \nApplicant\nUrinal for 30 units and below and \nseparate male and female CRs for \n31 units and above (Internet Cafe \nonly)\nApplicant\nCLIENT \nSTEPS\nAGEN"
+          }
+        ]
+      },
+      {
+        "claim_id": "SCENARIO-BB-006-CLAIM-07",
+        "claim": "For Internet Cafe and Pisonet owners, the fee cell states \"PHP100.00 for the first 10 units and PHP10.00 for every unit\". This wording is preserved without interpreting \"every unit\" as \"each additional unit\".",
+        "support_type": "source-reviewed; multiple chunks may be jointly necessary",
+        "supporting_chunks": [
+          {
+            "chunk_id": "DEV120-BB-PDF0081-C002",
+            "source_page_id": "BB-PDF0081",
+            "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+            "pdf_relative_page": 81,
+            "source_page": 120,
+            "pdf_sha256": "5ec6c626b194ad14fabfd6bd5b29671144f335d8fd38ccdae1d1dab6bff17145",
+            "char_start": 420,
+            "char_end": 929,
+            "text_content": "and ICAB \nAccreditation with \nOrder of Payment \nfor Accreditation if \ncompliant\nNone\n2 Days\nLicensing Officer\nwith massive\ninspectors\n* For Internet \nCafé and \nPisonet \nOwners: \n5. Proceed to \nCity \nTreasurer’s \nOffice for ICAB \nAccreditation \nfee\n5. Receive \nPayment and Order \nof Payment and \nRelease Official \nReceipt\nPHP100.00 \nfor the first \n10 units and \nPHP10.00 \nfor every\nunit\n10 Minutes\n(May be done on the\nsame day Internet\nAccreditation is\nreceived depending\non the will of the\napplicant)\nLocal Re"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group_id": "SCENARIO-CPDO-001",
+    "reviewer": "assistant, user-authorized; not independent expert certification",
+    "claims": [
+      {
+        "claim_id": "SCENARIO-CPDO-001-CLAIM-01",
+        "claim": "The CPDO Zoning Enforcement Division issues Zoning Certification based on the Integrated Zoning Ordinance (2019-2028).",
+        "support_type": "source-reviewed; multiple chunks may be jointly necessary",
+        "supporting_chunks": [
+          {
+            "chunk_id": "DEV120-CPDO-PDF0002-C001",
+            "source_page_id": "CPDO-PDF0002",
+            "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+            "pdf_relative_page": 2,
+            "source_page": 631,
+            "pdf_sha256": "6d1572dc7ef1122064b3db8d799f27356231dd2cbeafb84231c6f315820b1005",
+            "char_start": 0,
+            "char_end": 525,
+            "text_content": "1. Zoning Certification \nA certification issued by the Office of the City Planning & Development Coordinator \nbased on the Integrated Zoning Ordinance (2019-2028). \nOffice or \nDivision\nCity Planning and Development Office (CPDO) – Zoning \nEnforcement Division\nClassification \nComplex\nType of \nTransaction\nG2G – Government to Government; G2C – Government to \nCitizen\nWho may avail \nProperty Owner or Authorized Representative\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Certified True Copy of Title(s) (1\nphotocopy)\nRegistry"
+          }
+        ]
+      },
+      {
+        "claim_id": "SCENARIO-CPDO-001-CLAIM-02",
+        "claim": "The checklist requires: Certified True Copy of Title(s), 1 photocopy, from the Registry of Deeds; duly accomplished application form, 1 original, from CPDO; Subdivision/Sketch Plan, 1 original, from Bureau of Land/private Geodetic Engineer; Order of Payment, 1 original, from CPDO; and Official Receipt, 1 original, from the City Treasurer's Office.",
+        "support_type": "source-reviewed; multiple chunks may be jointly necessary",
+        "supporting_chunks": [
+          {
+            "chunk_id": "DEV120-CPDO-PDF0002-C002",
+            "source_page_id": "CPDO-PDF0002",
+            "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+            "pdf_relative_page": 2,
+            "source_page": 631,
+            "pdf_sha256": "6d1572dc7ef1122064b3db8d799f27356231dd2cbeafb84231c6f315820b1005",
+            "char_start": 454,
+            "char_end": 946,
+            "text_content": "ERE TO SECURE\n1. Certified True Copy of Title(s) (1\nphotocopy)\nRegistry of Deeds\n2. Duly accomplished application form\n(1 original)\nCity Planning & Development Office\n3. Subdivision /Sketch Plan (1 original) \nBureau of Land / private Geodetic Engineer\n4. Order of Payment (1 original) \nCity Planning & Development Office\n5. Official Receipt (1 original) \nCity Treasurer's Office\nCLIENT STEPS \nAGENCY \nACTION\nFEES \nTO BE \nPAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\n1. Gets \napplication form \nfrom"
+          }
+        ]
+      },
+      {
+        "claim_id": "SCENARIO-CPDO-001-CLAIM-03",
+        "claim": "The zoning fee is PHP 750 per hectare; the payment step depends on CTO processing time, described as uncontrollable time.",
+        "support_type": "source-reviewed; multiple chunks may be jointly necessary",
+        "supporting_chunks": [
+          {
+            "chunk_id": "DEV120-CPDO-PDF0002-C004",
+            "source_page_id": "CPDO-PDF0002",
+            "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+            "pdf_relative_page": 2,
+            "source_page": 631,
+            "pdf_sha256": "6d1572dc7ef1122064b3db8d799f27356231dd2cbeafb84231c6f315820b1005",
+            "char_start": 1364,
+            "char_end": 1541,
+            "text_content": "DO\n3. Pays Zoning \nFee at the City \nTreasurer's \nOffice, SP Bldg.\n3. Issues \nReceipt \nPHP \n750 /\nhectare\nDepends on the \nprocessing time\nof CTO\n(uncontrollable\ntime)\nCashier-CTO"
+          }
+        ]
+      },
+      {
+        "claim_id": "SCENARIO-CPDO-001-CLAIM-04",
+        "claim": "The charter lists a TOTAL processing time of 3 Days, 6 Hours, and 50 Minutes.",
+        "support_type": "source-reviewed; multiple chunks may be jointly necessary",
+        "supporting_chunks": [
+          {
+            "chunk_id": "DEV120-CPDO-PDF0004-C001",
+            "source_page_id": "CPDO-PDF0004",
+            "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+            "pdf_relative_page": 4,
+            "source_page": 633,
+            "pdf_sha256": "6d1572dc7ef1122064b3db8d799f27356231dd2cbeafb84231c6f315820b1005",
+            "char_start": 0,
+            "char_end": 303,
+            "text_content": "4.7 Endorses the \nZoning \nCertification to \nCPDO \nAdministrative \nDivision for \nreleasing\nNone \n10 Minutes \n \nZoning Officer\nIV\nCPDO\n5. Claims the \nZoning \nCertification\n5. Releases \ndocuments\nNone \n5 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\nTOTAL:\nPHP \n750/\nHectare\n3 Days, 6 Hours, \nand 50 Minutes"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group_id": "SCENARIO-BFP-001",
+    "reviewer": "assistant, user-authorized; not independent expert certification",
+    "claims": [
+      {
+        "claim_id": "SCENARIO-BFP-001-CLAIM-01",
+        "claim": "The documentary checklist specifies three (3) sets of the listed documents.",
+        "support_type": "source-reviewed; multiple chunks may be jointly necessary",
+        "supporting_chunks": [
+          {
+            "chunk_id": "DEV120-BFP-PDF0001-C052",
+            "source_page_id": "BFP-PDF0001",
+            "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+            "pdf_relative_page": 1,
+            "source_page": null,
+            "pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+            "char_start": 18604,
+            "char_end": 19176,
+            "text_content": "the Customer Relations Officer (CRO) are responsible or resolving    \nmatters, issues or dispute raised by the Client/Customer regarding frontline transactions, specifically those    \narising from the filing of application for permits, clearances and certifications relative to the implementation of the Fire \nCode and its Revised Implementing Rules and Regulations.\nComplaints may be filed at the Regional IAS who has jurisdiction over these matters at the local level.\nIf applied in Fire\nStation/Lone District\nFire Office)\nThree (3) set of the  following documents\n\n[IMA"
+          }
+        ]
+      },
+      {
+        "claim_id": "SCENARIO-BFP-001-CLAIM-02",
+        "claim": "The FSEC column marks architectural, civil, electrical, mechanical, plumbing, electronics, sanitary and fire protection documents.",
+        "support_type": "source-reviewed; multiple chunks may be jointly necessary",
+        "supporting_chunks": [
+          {
+            "chunk_id": "DEV120-BFP-PDF0001-C027",
+            "source_page_id": "BFP-PDF0001",
+            "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+            "pdf_relative_page": 1,
+            "source_page": null,
+            "pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+            "char_start": 9208,
+            "char_end": 9592,
+            "text_content": "WAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST.]\n\nD   O   C   U   M   E   N   T   A   R   Y     R   E   Q   U   I   R   E   M   E   N   T   S\n1)Architectural documents\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service"
+          },
+          {
+            "chunk_id": "DEV120-BFP-PDF0001-C028",
+            "source_page_id": "BFP-PDF0001",
+            "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+            "pdf_relative_page": 1,
+            "source_page": null,
+            "pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+            "char_start": 9527,
+            "char_end": 9964,
+            "text_content": "IRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n\n2) Civil documents\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n\n3) Electrical documents\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION"
+          },
+          {
+            "chunk_id": "DEV120-BFP-PDF0001-C029",
+            "source_page_id": "BFP-PDF0001",
+            "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+            "pdf_relative_page": 1,
+            "source_page": null,
+            "pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+            "char_start": 9908,
+            "char_end": 10339,
+            "text_content": "for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n\n4) Mechanical documents\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n\n5) Plumbing documents\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FS"
+          },
+          {
+            "chunk_id": "DEV120-BFP-PDF0001-C030",
+            "source_page_id": "BFP-PDF0001",
+            "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+            "pdf_relative_page": 1,
+            "source_page": null,
+            "pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+            "char_start": 10274,
+            "char_end": 10719,
+            "text_content": "ATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n\n6) Electronics documents\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n\n7) Sanitary documents\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CL"
+          },
+          {
+            "chunk_id": "DEV120-BFP-PDF0001-C031",
+            "source_page_id": "BFP-PDF0001",
+            "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+            "pdf_relative_page": 1,
+            "source_page": null,
+            "pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+            "char_start": 10655,
+            "char_end": 11127,
+            "text_content": "[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n\n8) Fire Protection documents\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n\nNote: \nDocuments \nrefers \nto \ndesign \nplans, \ncalculations \nand\nspecifications signed and sealed by"
+          }
+        ]
+      },
+      {
+        "claim_id": "SCENARIO-BFP-001-CLAIM-03",
+        "claim": "Documents mean design plans, calculations and specifications signed and sealed by the Professional Engineer/Architect.",
+        "support_type": "source-reviewed; multiple chunks may be jointly necessary",
+        "supporting_chunks": [
+          {
+            "chunk_id": "DEV120-BFP-PDF0001-C032",
+            "source_page_id": "BFP-PDF0001",
+            "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+            "pdf_relative_page": 1,
+            "source_page": null,
+            "pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+            "char_start": 11028,
+            "char_end": 11461,
+            "text_content": "Note: \nDocuments \nrefers \nto \ndesign \nplans, \ncalculations \nand\nspecifications signed and sealed by the Professional Engineer/\nArchitect\nAs-built plan together with the building permit (If there is changes/\n[REPRESENTATION: Matrix dot shown for: CERTIFICATE OF OCCUPANCY; NEW BUSINESS PERMIT WITH VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF"
+          }
+        ]
+      },
+      {
+        "claim_id": "SCENARIO-BFP-001-CLAIM-04",
+        "claim": "Also listed for FSEC are one signed-and-sealed set of the estimated value of the building/structure or facilities, including materials and labor cost, and copies of valid PRC Professional Licenses of all involved professionals.",
+        "support_type": "source-reviewed; multiple chunks may be jointly necessary",
+        "supporting_chunks": [
+          {
+            "chunk_id": "DEV120-BFP-PDF0001-C035",
+            "source_page_id": "BFP-PDF0001",
+            "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+            "pdf_relative_page": 1,
+            "source_page": null,
+            "pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+            "char_start": 12011,
+            "char_end": 12465,
+            "text_content": "EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST. Other service cells are blank in source; blank is not an exemption statement.]\n\nOne (1) set of the estimate value of the building/structure or facilities (materials \nand   labor cost) signed and sealed\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n\nCopy of valid"
+          },
+          {
+            "chunk_id": "DEV120-BFP-PDF0001-C036",
+            "source_page_id": "BFP-PDF0001",
+            "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+            "pdf_relative_page": 1,
+            "source_page": null,
+            "pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+            "char_start": 12378,
+            "char_end": 12862,
+            "text_content": "service cells are blank in source; blank is not an exemption statement.]\n\nCopy of valid PRC Professional License of all involved professionals\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n\nEndorsement from the Office of Building Official (OBO)\n[REPRESENTATION: Matrix dot shown for: CERTIFICATE OF OCCUPANCY. Other service cells are blank in source; blank is"
+          }
+        ]
+      },
+      {
+        "claim_id": "SCENARIO-BFP-001-CLAIM-05",
+        "claim": "The FSEC application fee is PHP 200.00; FCCT is 0.1% of the verified estimated materials-and-labor value of the building/structure or facility, capped at PHP 50,000.00.",
+        "support_type": "source-reviewed; multiple chunks may be jointly necessary",
+        "supporting_chunks": [
+          {
+            "chunk_id": "DEV120-BFP-PDF0001-C017",
+            "source_page_id": "BFP-PDF0001",
+            "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+            "pdf_relative_page": 1,
+            "source_page": null,
+            "pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+            "char_start": 5960,
+            "char_end": 6377,
+            "text_content": "Issuance of FSEC/NOD/\nFSIC for Certificate of Occupancy/FSIC for\nBusiness Permit (new/renewal) is thru OSCP/\nBOSS Releasing Officer\n\nPROCESSING TIME: maximum of five (5) minutes\n\nPERSON RESPONSIBLE: CRO\n\nFEES TO BE PAID [shared cell spanning all six agency rows]:\nFor FSEC\nApplication Fee: Php 200.00\nFCCT = 0.1% of the verified estimated value\n(materials and labor) of the building/structure or\nfacility but not more"
+          },
+          {
+            "chunk_id": "DEV120-BFP-PDF0001-C018",
+            "source_page_id": "BFP-PDF0001",
+            "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+            "pdf_relative_page": 1,
+            "source_page": null,
+            "pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+            "char_start": 6283,
+            "char_end": 6789,
+            "text_content": "ified estimated value\n(materials and labor) of the building/structure or\nfacility but not more than Php 50,000.00\nSample computation:\nFCCT = (Verified estimated value) x (.1%) = ___Php\nbut not more than Php 50, 000.00\nNote: Section 8.3.6 of JMC 2021-01 Series of\n2021—In the event that there is substantial\ndifference between the cost estimate of the building\nor structure as declared by the owner or applicant\nin the UAF from current acceptable market\nconstruction cost per square meter or as indicated\nin"
+          }
+        ]
+      },
+      {
+        "claim_id": "SCENARIO-BFP-001-CLAIM-06",
+        "claim": "The fee note states that, when the UAF declared estimate differs substantially from current acceptable market construction cost per square meter or the value indicated in Table II.G.1 of PD 1096, the higher value will be adopted.",
+        "support_type": "source-reviewed; multiple chunks may be jointly necessary",
+        "supporting_chunks": [
+          {
+            "chunk_id": "DEV120-BFP-PDF0001-C018",
+            "source_page_id": "BFP-PDF0001",
+            "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+            "pdf_relative_page": 1,
+            "source_page": null,
+            "pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+            "char_start": 6283,
+            "char_end": 6789,
+            "text_content": "ified estimated value\n(materials and labor) of the building/structure or\nfacility but not more than Php 50,000.00\nSample computation:\nFCCT = (Verified estimated value) x (.1%) = ___Php\nbut not more than Php 50, 000.00\nNote: Section 8.3.6 of JMC 2021-01 Series of\n2021—In the event that there is substantial\ndifference between the cost estimate of the building\nor structure as declared by the owner or applicant\nin the UAF from current acceptable market\nconstruction cost per square meter or as indicated\nin"
+          },
+          {
+            "chunk_id": "DEV120-BFP-PDF0001-C019",
+            "source_page_id": "BFP-PDF0001",
+            "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+            "pdf_relative_page": 1,
+            "source_page": null,
+            "pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+            "char_start": 6691,
+            "char_end": 7127,
+            "text_content": "nt\nin the UAF from current acceptable market\nconstruction cost per square meter or as indicated\nin Table II.G.1 of PD 1096, the higher the value will\nbe adopted\nFor FSIC (Certificate of Occupancy)/FSIC (New\nBusiness and Renewal of Business) Applica-\ntion\nFSIF = 15% of all fees charge by LGU/Philippine\nEconomic Zone Authority (PEZA) but in no case\nshall be lower than Php 500.00\nSample computation:\nFSIF = (All fees charged by the LGU/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group_id": "SCENARIO-BFP-004",
+    "reviewer": "assistant, user-authorized; not independent expert certification",
+    "claims": [
+      {
+        "claim_id": "SCENARIO-BFP-004-CLAIM-01",
+        "claim": "FSCR/FSCCR/FSMR are required if the building/facilities/structures are required to install any or a combination of wet standpipe, automatic fire suppression, or automatic fire detection and alarm systems.",
+        "support_type": "source-reviewed; multiple chunks may be jointly necessary",
+        "supporting_chunks": [
+          {
+            "chunk_id": "DEV120-BFP-PDF0001-C043",
+            "source_page_id": "BFP-PDF0001",
+            "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+            "pdf_relative_page": 1,
+            "source_page": null,
+            "pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+            "char_start": 14911,
+            "char_end": 15469,
+            "text_content": "LIST. Other service cells are blank in source; blank is not an exemption statement.]\n\nNote: FSCR/FSCCR/FSMR  is required if the building/facilities/structures are \nrequired to install any or combination of the following: \n       1) Wet standpipe system; \n       2) Automatic fire suppression system; and \n       3) Automatic fire detection and alarm system.\nFire Safety Clearance for welding, cutting, and other hot work operations\n(if   required), shall be secured:\n1) \nPer \nProject \nDuration \n– \nfor \nnew \nconstruction \nor \nrenovation\n(during construction)"
+          }
+        ]
+      },
+      {
+        "claim_id": "SCENARIO-BFP-004-CLAIM-02",
+        "claim": "FSCR consists of plans, specifications and design analysis per building, prepared and duly signed by the Engineer/Architect-of-Record and his/her Fire Safety Practitioner.",
+        "support_type": "source-reviewed; multiple chunks may be jointly necessary",
+        "supporting_chunks": [
+          {
+            "chunk_id": "DEV120-BFP-PDF0001-C004",
+            "source_page_id": "BFP-PDF0001",
+            "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+            "pdf_relative_page": 1,
+            "source_page": null,
+            "pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+            "char_start": 903,
+            "char_end": 1406,
+            "text_content": "AUTHORIZE REPRESENTATIVE, CONTRACTOR OR BUSINESS ENTITY\nNOTE (1) Fire Safety Compliance Report (FSCR) - A written report composed of plans, specifications and design analysis per building prepared and duly signed by the Engineer/Architect-of-Record and his/her Fire Safety Practitioner. \nNOTE (2) Fire Safety Compliance and Commissioning Report (FSCCR) - A compilation report of all approved submittals, test and acceptance forms of all fire protection and life safety features, which shall form part of"
+          }
+        ]
+      },
+      {
+        "claim_id": "SCENARIO-BFP-004-CLAIM-03",
+        "claim": "FSCCR compiles approved submittals, test and acceptance forms for fire protection and life safety features as part of as-built documents turned over by the contractor to the owner; it is duly signed by the Contractor/Construction Manager and his/her Fire Safety Practitioner.",
+        "support_type": "source-reviewed; multiple chunks may be jointly necessary",
+        "supporting_chunks": [
+          {
+            "chunk_id": "DEV120-BFP-PDF0001-C004",
+            "source_page_id": "BFP-PDF0001",
+            "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+            "pdf_relative_page": 1,
+            "source_page": null,
+            "pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+            "char_start": 903,
+            "char_end": 1406,
+            "text_content": "AUTHORIZE REPRESENTATIVE, CONTRACTOR OR BUSINESS ENTITY\nNOTE (1) Fire Safety Compliance Report (FSCR) - A written report composed of plans, specifications and design analysis per building prepared and duly signed by the Engineer/Architect-of-Record and his/her Fire Safety Practitioner. \nNOTE (2) Fire Safety Compliance and Commissioning Report (FSCCR) - A compilation report of all approved submittals, test and acceptance forms of all fire protection and life safety features, which shall form part of"
+          },
+          {
+            "chunk_id": "DEV120-BFP-PDF0001-C005",
+            "source_page_id": "BFP-PDF0001",
+            "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+            "pdf_relative_page": 1,
+            "source_page": null,
+            "pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+            "char_start": 1307,
+            "char_end": 1861,
+            "text_content": "test and acceptance forms of all fire protection and life safety features, which shall form part of the ―as-built‖\ndocuments turned over by the contractor to the building owner duly signed by the Contractor/Construction Manager and his/her Fire Safety Practitioner.\nNOTE (3) Fire Safety Maintenance Report (FSMR) - A written report prepared by the building owner, his/her fire safety practitioner or authorized representative duly signed by the Building Administrator and his/her Fire Safety Practitioner\nduring the regular annual fire safety inspection."
+          }
+        ]
+      },
+      {
+        "claim_id": "SCENARIO-BFP-004-CLAIM-04",
+        "claim": "FSMR is prepared by the building owner, his/her fire safety practitioner or authorized representative, and duly signed by the Building Administrator and his/her Fire Safety Practitioner during regular annual fire safety inspection.",
+        "support_type": "source-reviewed; multiple chunks may be jointly necessary",
+        "supporting_chunks": [
+          {
+            "chunk_id": "DEV120-BFP-PDF0001-C005",
+            "source_page_id": "BFP-PDF0001",
+            "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+            "pdf_relative_page": 1,
+            "source_page": null,
+            "pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+            "char_start": 1307,
+            "char_end": 1861,
+            "text_content": "test and acceptance forms of all fire protection and life safety features, which shall form part of the ―as-built‖\ndocuments turned over by the contractor to the building owner duly signed by the Contractor/Construction Manager and his/her Fire Safety Practitioner.\nNOTE (3) Fire Safety Maintenance Report (FSMR) - A written report prepared by the building owner, his/her fire safety practitioner or authorized representative duly signed by the Building Administrator and his/her Fire Safety Practitioner\nduring the regular annual fire safety inspection."
+          }
+        ]
+      },
+      {
+        "claim_id": "SCENARIO-BFP-004-CLAIM-05",
+        "claim": "The matrix associates FSCR with FSEC, FSCCR with occupancy FSIC, and FSMR with new business without valid occupancy-stage FSIC and the two renewal columns; blank cells are not exemption statements.",
+        "support_type": "source-reviewed; multiple chunks may be jointly necessary",
+        "supporting_chunks": [
+          {
+            "chunk_id": "DEV120-BFP-PDF0001-C040",
+            "source_page_id": "BFP-PDF0001",
+            "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+            "pdf_relative_page": 1,
+            "source_page": null,
+            "pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+            "char_start": 13894,
+            "char_end": 14297,
+            "text_content": "WAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST. Other service cells are blank in source; blank is not an exemption statement.]\n\nO   T   H   E   R     D   O   C   U   M   E   N   T   S\nFire Safety Compliance Report (FSCR) NOTE (1)\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION"
+          },
+          {
+            "chunk_id": "DEV120-BFP-PDF0001-C041",
+            "source_page_id": "BFP-PDF0001",
+            "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+            "pdf_relative_page": 1,
+            "source_page": null,
+            "pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+            "char_start": 14241,
+            "char_end": 14693,
+            "text_content": "for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n\nFire Safety Compliance and Commissioning   Report (FSCCR) NOTE (2)\n[REPRESENTATION: Matrix dot shown for: CERTIFICATE OF OCCUPANCY. Other service cells are blank in source; blank is not an exemption statement.]\n\nFire Safety Maintenance Report (FSMR) NOTE (3)\n[REPRESENTATION: Matrix dot shown for: NEW BUSINESS PER"
+          },
+          {
+            "chunk_id": "DEV120-BFP-PDF0001-C042",
+            "source_page_id": "BFP-PDF0001",
+            "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+            "pdf_relative_page": 1,
+            "source_page": null,
+            "pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+            "char_start": 14625,
+            "char_end": 14995,
+            "text_content": "MR) NOTE (3)\n[REPRESENTATION: Matrix dot shown for: NEW BUSINESS PERMIT WITHOUT VALID FSIC ISSUED DURING OCCUPANCY PERMIT STAGE; RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST. Other service cells are blank in source; blank is not an exemption statement.]"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group_id": "SCENARIO-BFP-005",
+    "reviewer": "assistant, user-authorized; not independent expert certification",
+    "claims": [
+      {
+        "claim_id": "SCENARIO-BFP-005-CLAIM-01",
+        "claim": "Fire Safety Clearance for welding, cutting and other hot work operations shall be secured if required.",
+        "support_type": "source-reviewed; multiple chunks may be jointly necessary",
+        "supporting_chunks": [
+          {
+            "chunk_id": "DEV120-BFP-PDF0001-C043",
+            "source_page_id": "BFP-PDF0001",
+            "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+            "pdf_relative_page": 1,
+            "source_page": null,
+            "pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+            "char_start": 14911,
+            "char_end": 15469,
+            "text_content": "LIST. Other service cells are blank in source; blank is not an exemption statement.]\n\nNote: FSCR/FSCCR/FSMR  is required if the building/facilities/structures are \nrequired to install any or combination of the following: \n       1) Wet standpipe system; \n       2) Automatic fire suppression system; and \n       3) Automatic fire detection and alarm system.\nFire Safety Clearance for welding, cutting, and other hot work operations\n(if   required), shall be secured:\n1) \nPer \nProject \nDuration \n– \nfor \nnew \nconstruction \nor \nrenovation\n(during construction)"
+          }
+        ]
+      },
+      {
+        "claim_id": "SCENARIO-BFP-005-CLAIM-02",
+        "claim": "Per Project Duration applies to new construction or renovation; the clearance should be applied for during construction after the conduct of fire safety inspection.",
+        "support_type": "source-reviewed; multiple chunks may be jointly necessary",
+        "supporting_chunks": [
+          {
+            "chunk_id": "DEV120-BFP-PDF0001-C044",
+            "source_page_id": "BFP-PDF0001",
+            "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+            "pdf_relative_page": 1,
+            "source_page": null,
+            "pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+            "char_start": 15366,
+            "char_end": 15930,
+            "text_content": "be secured:\n1) \nPer \nProject \nDuration \n– \nfor \nnew \nconstruction \nor \nrenovation\n(during construction) This clearance should be applied during                      \nconstruction after the conduct of fire safety inspection\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n\n2)  Annual – for business establishments requiring almost daily repair or\nmaintenance due to its nature of business or operations.\n[REPRESENTATION: Matrix dot shown for:"
+          }
+        ]
+      },
+      {
+        "claim_id": "SCENARIO-BFP-005-CLAIM-03",
+        "claim": "Annual applies to business establishments requiring almost daily repair or maintenance due to the nature of their business or operations.",
+        "support_type": "source-reviewed; multiple chunks may be jointly necessary",
+        "supporting_chunks": [
+          {
+            "chunk_id": "DEV120-BFP-PDF0001-C044",
+            "source_page_id": "BFP-PDF0001",
+            "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+            "pdf_relative_page": 1,
+            "source_page": null,
+            "pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+            "char_start": 15366,
+            "char_end": 15930,
+            "text_content": "be secured:\n1) \nPer \nProject \nDuration \n– \nfor \nnew \nconstruction \nor \nrenovation\n(during construction) This clearance should be applied during                      \nconstruction after the conduct of fire safety inspection\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n\n2)  Annual – for business establishments requiring almost daily repair or\nmaintenance due to its nature of business or operations.\n[REPRESENTATION: Matrix dot shown for:"
+          }
+        ]
+      },
+      {
+        "claim_id": "SCENARIO-BFP-005-CLAIM-04",
+        "claim": "The matrix marks the per-project row under FSEC and the annual row under the two renewal columns; blank cells are not exemption statements.",
+        "support_type": "source-reviewed; multiple chunks may be jointly necessary",
+        "supporting_chunks": [
+          {
+            "chunk_id": "DEV120-BFP-PDF0001-C044",
+            "source_page_id": "BFP-PDF0001",
+            "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+            "pdf_relative_page": 1,
+            "source_page": null,
+            "pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+            "char_start": 15366,
+            "char_end": 15930,
+            "text_content": "be secured:\n1) \nPer \nProject \nDuration \n– \nfor \nnew \nconstruction \nor \nrenovation\n(during construction) This clearance should be applied during                      \nconstruction after the conduct of fire safety inspection\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n\n2)  Annual – for business establishments requiring almost daily repair or\nmaintenance due to its nature of business or operations.\n[REPRESENTATION: Matrix dot shown for:"
+          },
+          {
+            "chunk_id": "DEV120-BFP-PDF0001-C045",
+            "source_page_id": "BFP-PDF0001",
+            "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+            "pdf_relative_page": 1,
+            "source_page": null,
+            "pdf_sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74",
+            "char_start": 15851,
+            "char_end": 16302,
+            "text_content": "to its nature of business or operations.\n[REPRESENTATION: Matrix dot shown for: RENEWAL OF BUSINESS PERMIT; RENEWAL OF BUSINESS PERMIT WITHOUT VALID FSIC OR EXPIRED FSIC/ WITH EXISTING VIOLATION OF THE FIRE CODE/INCLUDED IN THE NEGATIVE LIST. Other service cells are blank in source; blank is not an exemption statement.]\n\nSend feedback on government services, whether positive or negative, to the Contact Center ng\nBayan via following access channels"
+          }
+        ]
+      }
+    ]
+  }
+]

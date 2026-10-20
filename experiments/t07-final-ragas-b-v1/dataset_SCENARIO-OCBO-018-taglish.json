@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Magkano ang electrical inspection fee para sa mga standby generators at transformers na nakakabit sa building?"
+  ],
+  "answer": [
+    "Wala akong impormasyon bahin sa Citizens' Charter tungkol sa electrical inspection fee para sa mga standby generators at transformers na nakakabit sa building. Ang electrical inspection fee para sa mga residential, institutional, commercial at industrial structures ay nakalistado sa [S2]. Ngunit wala akong natagpuan na eksaktong impormasyon tungkol sa standby generators at transformers sa mga nakalistad sa Citizens' Charter."
+  ],
+  "contexts": [
+    [
+      "ISSUANCE OF CERTIFICATE OF ANNUAL INSPECTION FOR ELECTRICAL NEW \nSCHEDULE OF FEES AND OTHER CHARGES OF THE REVISED IMPLEMENTING \nRULES AND REGULATIONS (IRR) OF THE NATIONAL BUILDING CODE OF THE \nPHILIPPINES (PD 1096)\nElectrical Inspection Fees:\ni. A one time electrical inspection fee equivalent to 10% of Total Electrical Permit Fees \nshall be charged to cover all inspection trips during construction.\nii. Annual",
+      "es \nshall be charged to cover all inspection trips during construction.\nii. Annual Inspection Fees are the same as in Section 4.e.\nSection 4.e Electrical Fees:\nThe following schedule shall be used for computing electrical fees in residential, \ninstitutional, commercial and industrial structures:\na. Total Connected Load (kVA) Fee\n5 kVA or less \nP 200.00\nOver 5 kVA to 50 kVA \n200.00 + P 20.00/kVA\nOver 50 kVA to 300 kVA \n1,100.00 + 10.00/kVA\nOver 300",
+      "13. Issuance of Certificate of Annual Electrical Inspection\nA Certificate of Annual Electrical Inspection is issued after conducting an annual inspection of a \nbuilding/structure to ensure that electrical and electronic systems coincide with the approved plans \nand conform with the safety standards and other provisions of the Code and its Revised \nImplementing Rules and Regulations\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; \nG2G"
+    ]
+  ],
+  "ground_truth": [
+    "Transformer, UPS, and generator capacity fees under Section 4.b are: 5 kVA or less = PHP 40.00; over 5 to 50 kVA = PHP 40 + PHP 4/kVA; over 50 to 300 kVA = PHP 220 + PHP 2/kVA; over 300 to 1,500 kVA = PHP 720 + PHP 1/kVA; over 6,000 kVA = PHP 4,170 + PHP 0.25/kVA."
+  ]
+}

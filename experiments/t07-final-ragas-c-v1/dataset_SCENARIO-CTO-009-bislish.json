@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang proseso ug bayad para makakuha ug Real Property Tax Clearance o clearance sa amilyar sa City Treasurer?"
+  ],
+  "answer": [
+    "Ang proseso para makakuha ug Real Property Tax (RPT) Clearance sa City Treasurer sa Davao City ay nakapasok sa checklist na nabasa sa [S1] at [S2]. Ang mga kailangan nga requirements sa checklist ay:\n\n1. Tax Declaration / Declaration of Real Property Tax Valuation (makakuha sa [S1])\n2. Present the Official Receipt for the issuance of Real Property Tax Clearance sa Counter 8, Real Property Tax Division, CTO Sangguniang Panlungsod, o sa ilang CTO District Offices (nag-aral sa [S2]).\n3. Generate the Tax Clearance at Counter 8, Tax Clearance Section, Real Property Tax Division (CTO Poblacion), o sa ilang CTO District Offices, o sa assigned personnel sa ilang CTO District Offices (nag-aral sa [S3]).\n\nAng mga oras ng proseso ay nasabing 30 minutes sa [S2] at 20 minutes sa [S3]."
+  ],
+  "contexts": [
+    [
+      "14. Payment for Real Property Tax (RPT) Clearance\nStatement of Account issued to clients for payment/ issuance of Tax Clearance (Local \nRevenue Code of Davao City). \nOffice or Division \nOffice of the City Treasurer (CTO) – Real Property Tax \nDivision and CTO District Offices\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen\nWho may avail \nAll real property owners in Davao City\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Tax Declaration /Declaration of \nReal Property Tax Valuation",
+      "through \nassigned \npersonnel at \nthe District \nOffices.\nNone \n30 Minutes \nLocal\nTreasury\nOperations I/\nLocal\nRevenue \nCollection \nOfficer I/ \nRevenue \nCollection\nClerk I, Ticket\nCheckers\n(CTO\nPoblacion)\n-or-\nAssigned \nPersonnel\n(CTO District\nOffices)\n4. Present the\nOfficial Receipt \nfor the issuance \nof Real \nProperty Tax \nClearance at \nCounter 8, Real \nProperty Tax \nDivision, CTO \nSangguniang \nPanlungsod, or \nthe respective \nCTO District \nOffices.\n4.1 Generate the \nTax Clearance \nand issue a \nclaim stub",
+      "respective \nCTO District \nOffices.\n4.1 Generate the \nTax Clearance \nand issue a \nclaim stub at \nCounter 8, Tax \nClearance \nSection, Real \nProperty Tax \nDivision (CTO \nPoblacion), or \nthrough \nassigned \npersonnel at \nthe CTO \nDistrict Offices.\nBased on\n2017\nRevenue \nCode of \nthe City of\nDavao\nOrdinance \nNo. 0291- \n17, series \nof 2017, \nsection 7\n–\nImposition\nof the \nBasic \nReal\nProperty\nTax\n20 Minutes \nRevenue\nCollection Clerk\nI\n(CTO\nPoblacion)\n-or-\nAssigned \nPersonnel\n(CTO District\nOffices) \nOffice"
+    ]
+  ],
+  "ground_truth": [
+    "Securing an RPT Tax Clearance requires a photocopy of the Tax Declaration from the City Assessor. After verifying payment history and settling outstanding dues, the tax clearance is approved and released with a PHP 50.00 certification fee."
+  ]
+}

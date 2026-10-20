@@ -1,0 +1,29 @@
+{
+  "group_id": "SCENARIO-BB-002",
+  "pillar": "Business Bureau",
+  "split": "development",
+  "ground_truth_chunk_ids": [
+    "DEV120-BB-PDF0003-C002",
+    "DEV120-BB-PDF0003-C003",
+    "DEV120-BB-PDF0003-C004",
+    "DEV120-BB-PDF0003-C005",
+    "DEV120-BB-PDF0004-C001",
+    "DEV120-BB-PDF0004-C002",
+    "DEV120-BB-PDF0039-C001",
+    "DEV120-BB-PDF0039-C002",
+    "DEV120-BB-PDF0039-C003"
+  ],
+  "ground_truth_reference_answer": "To amend a business permit due to a Change of Business Address, the applicant must provide: 1) Current Original Mayor's Permit or Application for Renewal (or Certified True Copy with Affidavit of Loss); 2) Notarized Application Affidavit of Change of Business Address; 3) Notarized SPA (Sole Proprietorship), Partnership Resolution, or Secretary's Certificate (Corporation); 4) Valid ID of representative; 5) Sketch / Google map of new location with pictures; 6) Tax Declaration or proof of ownership and Lease Contract if rented; 7) Valid FSIC for Occupancy Permit within last 9 months; and 8) Notarized Affidavit of Undertaking of no substantial building changes. A service fee of PHP 50.00 is charged at the CTO.",
+  "queries": {
+    "english": "What are the requirements and service fees to change my registered business address at the Business Bureau?",
+    "taglish": "Ano ang mga requirements at service fee kapag magpapalit ng registered business address sa Business Bureau?",
+    "bislish": "Unsa ang mga rekisitos ug service fee kung mag-amend ko sa address sa akong negosyo sa Business Bureau?"
+  },
+  "legacy_ground_truth_chunk_ids": [
+    "CHUNK-BB-P042-C03",
+    "CHUNK-BB-P042-C04",
+    "CHUNK-BB-P043-C01",
+    "CHUNK-BB-P078-C02"
+  ],
+  "mapping_status": "PROVISIONAL_EXACT_SPAN_MAPPING"
+}

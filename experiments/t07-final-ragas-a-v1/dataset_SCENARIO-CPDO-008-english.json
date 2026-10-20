@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Is there a filing fee for validating Occupancy Permits for 2-storey and below residential structures at CPDO?"
+  ],
+  "answer": [
+    "Based on the information provided in [S1], there is no explicit mention of a filing fee for validating Occupancy Permits for 2-storey and below residential structures at the City Planning and Development Office (CPDO). However, it's important to note that the document only covers 2-storey buildings and below and building floor area of 1,500 square meters and below. For more detailed information about fees, you may need to refer to other documents or contact the CPDO directly."
+  ],
+  "contexts": [
+    [
+      "3. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (2-Storey Buildings and Below and \n1,500 Building Floor Area and Below) \nFor 2-storey buildings and below and for building floor area of 1,500 square meters \nand below only. \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator.  \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nSimple\nType of Trans",
+      "Section 352\nTRANSFER FEE FOR TRANSFEROR AND OCCUPANCY FEE FOR TRANSFEREE\nTransfer Fee for Transferor and Occupancy Fee for\nTransferee\nClass A \nClass B \nClass C \nClass D\nMeat Section \nP 50,000.00 \nP 35,000.00 \nP 21,000.00 \nP 17,000.00\nFish Section \n50,000.00 \n35,000.00 \n21,000.00 \n17,000.00\nFruits and Vegetables \n24,000.00 \n16,000.00 \n12,000.00 \n8,000.00\nRice and Corn \n24,000.00 \n16,000.00 \n12,000.00 \n8,000.00\nGroceries \n24,000.00 \n16,000.00 \n12,000.00",
+      "80 \n6.80 \n5.40\n11. Miscellaneous and all other\nPermanent stalls/booths \nspecial services not subject \nto any particular market fee \nbut shall pay rental fees for \noccupancy\n16.00 \n10.80 \n6.80 \n5.40\nThere shall be collected from persons, corporations, partnerships or entities offering \nfor sale merchandise in jeepneys, pick-ups, trucks, bancas, fishing boats or any other \nconveyances including wholesalers and suppliers parked or displayed at or within the \nvicinities of the public markets or in"
+    ]
+  ],
+  "ground_truth": [
+    "For structures 2-storeys and below with floor area under 1,500 sq.m., Occupancy Permit validation requires approved plans, building permit, certificate of occupancy form, locational clearance, and photos. No filing fee is charged (exempt), taking 1 day, 4 hours to process."
+  ]
+}

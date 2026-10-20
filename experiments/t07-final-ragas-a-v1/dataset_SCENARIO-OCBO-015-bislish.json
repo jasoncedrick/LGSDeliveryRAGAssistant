@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga rekisitos para ma-renew ang Certificate of Annual Mechanical Inspection sa mga makinarya sa building?"
+  ],
+  "answer": [
+    "Sa mga rekisito para ma-renew ang Certificate of Annual Mechanical Inspection sa mga makinarya sa building, wala nakit-an nga impormasyon bahin sa mga nakalistang Citizens' Charter.\n\nHowever, based on the provided sources, the process for issuance of a new Certificate of Annual Mechanical Inspection is detailed. To renew, it might be necessary to follow a similar process, but specific requirements for renewal may not be explicitly stated.\n\nRefer to the following sources for the process of issuance of a new Certificate of Annual Mechanical Inspection:\n\n[S2] OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 580 | chunk DEV120-OCBO-PDF0092-C001\n[S3] OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 582 | chunk DEV120-OCBO-PDF0094-C001"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "14. Issuance of Certificate of Annual Mechanical Inspection\nA Certificate of Annual Mechanical Inspection is issued after conducting an annual inspection of a \nbuilding/structure to ensure that mechanical systems coincide with the approved plans and conform \nwith the safety standards and other provisions of the Code and its Revised Implementing Rules and \nRegulations\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; G2G – \nGovernment",
+      "4.2 Attach OR with \nCertificate of \nAnnual Inspection \n \n \n4.3 Forward \nCertificate of \nAnnual Inspection \nfor approval \n \n \n \n4.4 Notify client \nthat Certificate is \nready to claim\n2 Days\n1 Day\n5 Minutes\nAdministrative Officer –\nOCBO\nMechanical Engineer\nBuilding Official – OCBO\nAdministrative Officer \nTechnical Assistant –\nOCBO\n5. Claim Approved \nCertificate of \nAnnual Inspection\n5. Issue Certificate \nof Annual \nInspection to client\nNone \n30 Minutes \nAdministrative Officer\nTechnical Assistant –\nOCBO\nTOTAL: \n*Please\nrefer \nbelow\n9 Days, 1"
+    ]
+  ],
+  "ground_truth": [
+    "Annual Mechanical Inspection ensures mechanical systems comply with safety standards. Applying requires an inspection notice signed by the mechanical inspector, request letter, and a photocopy of the previous Certificate to Operate. The certificate is released after verification and payment."
+  ]
+}

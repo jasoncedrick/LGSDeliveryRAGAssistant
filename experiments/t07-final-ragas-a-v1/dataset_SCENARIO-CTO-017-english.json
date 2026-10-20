@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What are the amusement tax rates on admission tickets for concerts featuring foreign artists compared to local performers?"
+  ],
+  "answer": [
+    "The amusement tax rate for concerts featuring foreign artists is 10%, as stated in [S1], [S2], and [S3]. For concerts featuring local performers, the amusement tax rate is 5%, as also stated in the same sources."
+  ],
+  "contexts": [
+    [
+      "Offices\nTOTAL: \nAttached \nAnnex- 16 \n18 Minutes\nANNEX – 16\nThere shall be collected from the producers and promoters or amusement activities, \na tax with the rate herein prescribed based on the gross receipts from admission fees:\nAmusement Activities \nRate\nMovie Premiers \n- \n10% from the showing of foreign \nfilms\n- \n5% for the showing of local films\nMusical \nConcerts, \nTheatrical \nPlays,\nFashion \nShows \nand \nother \nLive\nPerformances\n- \n10% from those performed by \nforeign Artists\n- \n5% from those performed by local",
+      "Performances\n- \n10% from those performed by \nforeign Artists\n- \n5% from those performed by local \nArtists\nCockfights and Derbies held in a regular \nlicensed cockpit \nAdditional Fee per Sultada\n- \n30%\n- \nP 100.00\nAll \nother \nAmusement \nActivities \nnot\nspecifically \nfalling \nunder \nthe \nabove\nenumeration\n- \n10% from those performed by \nforeign artists/athletes\n- \n5% from those performed by local \nartists",
+      "Concerts, Theatrical\nPlays, Fashion Shows and other \nLive Performances\n- \n10% from those performed by \nforeign Artists\n- \n5% from those performed by local \nArtists\nc. Cockfights and Derbies held in\nregular licensed cockpit\nAdditional Fee per\nSultada\n- \n30%\n- \nP 100.00\nd. All other Amusement Activities not\nspecifically falling under the above \nenumeration\n- \n10% from those performed by \nforeign artists/athletes\n- \n5% from those performed by local \nartists"
+    ]
+  ],
+  "ground_truth": [
+    "Amusement tax on gross admission receipts for musical concerts, theatrical plays, and performances is 10% for performances by foreign artists, and 5% for performances by local artists. Movie premieres follow the same 10% foreign / 5% local rate."
+  ]
+}

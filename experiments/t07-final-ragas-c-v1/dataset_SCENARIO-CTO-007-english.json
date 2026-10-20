@@ -1,0 +1,18 @@
+{
+  "question": [
+    "How much is the extraction fee per cubic meter and annual fee for commercial sand and gravel quarrying in Davao City?"
+  ],
+  "answer": [
+    "The Citizens' Charter does not provide specific information about the extraction fee per cubic meter for commercial sand and gravel quarrying in Davao City. However, it does provide information about the fee for a Commercial Sand And Gravel Permit when the area is more than 5 hectares [S1]. For this case, the fee is not explicitly stated.\n\nRegarding the annual fee, the City Treasurer's Charter mentions fees for Producers, Distributors or Wholesalers of goods not subject to any particular fee above prescribed, which includes charcoal, scrapped iron, fire woods, copra, and all other similar goods/commodities/merchandise [S3]. For one truckload of these goods, the annual fee is P 0.88 per kilo. Unfortunately, the Charter does not specify if this fee applies to commercial sand and gravel quarrying."
+  ],
+  "contexts": [
+    [
+      "Than 5 Hectares, Commercial \nSand And Gravel Permit. If More Than 5 \nHectares, Mines And Geo Sciences \nBureau / Industrial Sand And Gravel/ \nEarthfill Permit\nNew Application: mandatory Mayor’s \nPermit to Quarry\nIndicate the gross capacity of the trucks",
+      "the \ndesignated \ndistrict office.\nthe CTO \nDistrict \nOffice \nwhere the \nconcession \nis located.\nGravel and\nOther \nQuarry\nResources\nCollection \nClerk I–\nCity\nTreasurer’s\nOffice\n4. Present the\nOfficial \nReceipt of \npayment to \nthe Sand & \nGravel In-\nCharge.\n4. Release\nQuarry \nTickets (Sand \n& Gravel \nTickets) to \nthe \nconcessionair\ne at the CTO \nDistrict Office \nwhere the \nconcession is \nlocated.\n15 Minutes \nLocal Revenue\nCollection\nOfficer I/ Cash \nClerk I/ Local\nRevenue \nCollection \nOfficer I/ \nRevenue \nCollection \nClerk I–\nCity\nTreasurer’",
+      "the territorial jurisdiction of the City of Davao by \nProducers, Distributors or Wholesalers\nP 0.88 per kilo\nn. For one truckload of charcoal, scrapped iron, fire woods,\ncopra and all other similar goods/ commodities/merchandise \nnot subject to any particular fee above prescribed.\n418.00"
+    ]
+  ],
+  "ground_truth": [
+    "Under Ordinance No. 0291-17 Section 44, commercial sand and gravel extraction requires a Permit to Quarry from CENRO, an approved Business Permit, and monthly extraction reports. The extraction fee is PHP 30.00 per cubic meter, with an annual fee of PHP 1,500.00 to PHP 3,500.00 based on area size."
+  ]
+}

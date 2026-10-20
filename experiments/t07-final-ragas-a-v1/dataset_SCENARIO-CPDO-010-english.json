@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What is the legal difference between a Variance and an Exception when applying for additional allowable land use under the Zoning Ordinance?"
+  ],
+  "answer": [
+    "The legal difference between a Variance and an Exception when applying for additional allowable land use under the Zoning Ordinance is as follows:\n\n1. Variance: This is a form of deviation which grants a property owner relief from certain provisions of the rules when strict compliance with physical standards/guidelines such as building height, area requirement, setback, and the like would result in unnecessary hardship or difficulty upon the owner due to the peculiar physical surroundings, shape, or topographical conditions of the property. [S1]\n\n2. Exception: This is a form of deviation which grants a property owner relief from certain provisions of the rules when strict enforcement thereof would result in an unnecessary hardship or difficulty upon the owner. However, the Integrated Zoning Ordinance does not explicitly state that the property's peculiar physical surroundings, shape, or topographical conditions are a requirement for an Exception. Instead, it states that the Sangguniang Panlungsod may grant an Exception upon application of the project proponent and upon favorable recommendation by the Local Zoning Board of Appeals if strict enforcement of the rules would cause unnecessary hardship or difficulty. [S1, S3]"
+  ],
+  "contexts": [
+    [
+      "7. Request for Additional Allowable Use \nThere are two (2) types of applications under additional allowable use: \n \n1.) Variance - a form of deviation which grants a property owner relief from certain \nprovisions of these rules when strict compliance with physical standards/guidelines \nsuch as building height, area requirement, setback and the like would result in \nunnecessary hardship of difficulty upon the owner due to the peculiar physical \nsurroundings, shape   or   topographical conditions   of the   property. \n2.) Exception - a form of deviation which grants a property",
+      "original, 1 photocopy\nDepartment of Labor and Employment (DOLE)\nb.     Boring and Plate Load Test Result/Report \n(if the structure is at least three storeys)  \n2 copies  \nTRANSFERRED TO CONDITIONAL \n \nNote: If applying for an additional storey; submit \nan Affidavit manifesting that the foundation can \ncarry the proposed additional floors. \n2 original\nHired professional (licensed Civil/Geotechnical \nEngineer)\nc.     Structures located along a National \nHighway – DPWH Clearance \n1 original, 1",
+      "conditions   of the   property. \n2.) Exception - a form of deviation which grants a property owner relief from certain \nprovisions of these rules when strict enforcement thereof would result in an \nunnecessary hardship or difficulty upon the owner. \n \nArticle XI Section 42 of the Integrated Zoning Ordinance states that the uses \nenumerated in the proceeding articles on general zone and all sub-zones are not \nexhaustive nor all-inclusive. The Sangguniang Panlungsod; upon application of \nproject proponent and upon favorable recommendation by Local Zoning Board of"
+    ]
+  ],
+  "ground_truth": [
+    "Under Article XI Section 42 of the Integrated Zoning Ordinance, property owners can apply for a Variance (relief due to physical/topographical hardship regarding height, setback, area) or Exception (relief from strict enforcement). Requires LZBAA review and City Council resolution."
+  ]
+}

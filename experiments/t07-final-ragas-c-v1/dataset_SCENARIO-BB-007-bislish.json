@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga papeles ug bayad kung mag-transfer sa pagpanag-iya sa business permit sa Davao?"
+  ],
+  "answer": [
+    "Sa pag-transfer sa pagpanag-iya sa business permit sa Davao, ang mga kailangan nga papeles ug bayad sa ilahang kasabot sa [S1] at [S2].\n\nSa [S1], ang mga kailangan nga papeles ug bayad sa pag-apply sa Business Permit aron makapag-transfer:\n- Business Permit (kung mayroon)\n- Necessary fees sa City Treasurer\n\nSa [S2], ang mga kailangan nga papeles ug bayad sa pag-apply sa Renewal ng Business Permit aron makapag-transfer:\n- Barangay Clearance (mula sa correct Barangay)\n- Certification of No Operation (mula sa incorrect Barangay)\n- Sketch o Google map ng negosyo location (1 original) with pictures ng premise location\n\nWala pa nga nakit-an nga kailangan nga bayad para sa pag-transfer sa Business Permit sa Davao, kundi ang mga nakit-an sa [S1] at [S2]. Ang mga kailangan nga bayad sa ilahang kasabot sa [S1] at [S2] ay maaoy makabalo sa City Treasurer."
+  ],
+  "contexts": [
+    [
+      "2. Issuance of Business Permit \nIt shall be unlawful for any person or entity to conduct or engage in any business, \ntrade or occupation within the territorial jurisdiction of the City of Davao for which a \npermit is required for the proper supervision and enforcement of existing laws and \nordinances without first having secured a permit therefore from the City Mayor and \npaying the necessary fees to the City Treasurer.\nThe Business Permit is granted for a period of not more than one (1) year and shall \nexpire on the thirty-first (31st) of December",
+      "Application for Renewal of Business Permit, \nor Certified True Copy of Business Permit \nw/ Affidavit of Loss in case of lost permits\nApplicant\n5. \nBarangay Clearance from correct\nBarangay and Certification of No Operation \nfrom incorrect Barangay\nLocal Barangay Hall\n6. \nSketch / Google map of Business\nlocation (1 original) with pictures of the \npremise location for correction of address\nApplicant\nREQUIRED DOCUMENTS FOR SPECIFIC BUSINESS LINES\nBUSINESS DESCRIPTION \nREQUIRED DOCUMENTS\nAircraft Companie",
+      "Requirements \n(no FSIC for \nOccupancy), tag \nPending with \nDeficiency Note \nto renew or \nretire, to comply \nwith inspection \nrecord, and for \nthe compliance \nof required \ndocuments. \nOnce complied, \nAccept and \nForward the \nApplication for \nthe approval by \nthe Regulatory \nOffices.\nTOTAL:\nNone \n20 Minutes\nB. Pre-Assessment for New Business Permit (Onsite)\nCLIENT STEPS \nAGENCY ACTION\nFEES\nTO \nBE \nPAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\n1. Submit pertinent\ndocuments"
+    ]
+  ],
+  "ground_truth": [
+    "Transfer of business ownership requires an Application for Transfer of Ownership, notarized Deed of Transfer/Sale/Assignment, SPA or Board Resolution, valid IDs, property proof (Tax Declaration/Lease Contract), current original Mayor's Permit, and new DTI/SEC/CDA registration. A PHP 50.00 service fee applies."
+  ]
+}

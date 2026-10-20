@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga patakaran sa gitas-on sa cubicle, suga, ug warning signs para sa akreditasyon sa internet cafe ubos sa ICAB?"
+  ],
+  "answer": [
+    "Sa internet cafe na nakatanggi sa ICAB Accreditation, ang mga patakaran sa gitas-on sa cubicle, suga, ug warning signs ay hindi nakalaman sa mga nabasa namin sa mga source na ibinigay. Ang mga nakalaman sa mga source ay ang mga requirements sa ICAB Accreditation para sa internet cafes at coin-operated internet machine business operators ([S1] at [S2]). Ang mga requirements sa ICAB ay hindi nakalaman ang mga patakaran sa gitas-on sa cubicle, suga, ug warning signs. Ang mga ito ay maaaring nakalaman sa ibang mga requirements na hindi nakalaman sa mga source na ibinigay.\n\nPara sa mga kabayan na gustong malaman ang mga patakaran sa gitas-on sa cubicle, suga, ug warning signs para sa internet cafe, maaaring magtanong sa City Mayor's Office – Permits & Licenses Division o sa ICAB upang malaman ang mga detalye.\n\n[S1] Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf | printed page 120 | chunk DEV120-BB-PDF0081-C002\n[S2] Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf | printed page 118 | chunk DEV120-BB-PDF0079-C001"
+  ],
+  "contexts": [
+    [
+      "and ICAB \nAccreditation with \nOrder of Payment \nfor Accreditation if \ncompliant\nNone\n2 Days\nLicensing Officer\nwith massive\ninspectors\n* For Internet \nCafé and \nPisonet \nOwners: \n5. Proceed to \nCity \nTreasurer’s \nOffice for ICAB \nAccreditation \nfee\n5. Receive \nPayment and Order \nof Payment and \nRelease Official \nReceipt\nPHP100.00 \nfor the first \n10 units and \nPHP10.00 \nfor every\nunit\n10 Minutes\n(May be done on the\nsame day Internet\nAccreditation is\nreceived depending\non the will of the\napplicant)\nLocal Re",
+      "8. Ocular Inspection and ICAB Inspection\nBusiness activities being applied will be validated through ocular inspections. For Internet \nCafes, this procedure intends to issue Internet Café Accreditation to internet cafes and \ncoin operated internet machine business operators who are compliant with internet café \nregulation requirement. Internet Café Accreditation is a specific requirement for the \nissuance of Business Permit. \nOffice or \nDivision\nCity Mayor's Office – Permits & Licenses Division\nClassification Simple (Regular), Complex (Complaint), Highly Technic",
+      ", notarized by any Notary Public\n3. Official Receipt for Internet Café \nAccreditation \nBoard \n(ICAB)\nAccreditation (1 original)\nRevenue Collection Officer, City Treasurer’s Office\n4. Sketch Map of Business Location \n(1 original)\nApplicant\n5. Compliance of the following ICAB \nrequirements:\nApplicant\nInternet \nService \nProvider \n(ISP\nContract, Certification or Current \nReceipt of Payment\nApplicant\nHalf-closed cubicle with not more \nthan 5 feet from the floor (Internet \nCafe only)\nApplicant"
+    ]
+  ],
+  "ground_truth": [
+    "ICAB inspection requires an ISP contract/receipt, half-closed cubicles not exceeding 5 feet from the floor, minimum lighting of 25 Lux (fluorescent/LED) or 50 Lux (incandescent), 12x18 inch warning signs against pornography/gambling/minors during school hours, content filtering software, and fixed webcams."
+  ]
+}

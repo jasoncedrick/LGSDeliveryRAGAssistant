@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Within how many days must business books of accounts and receipts be registered with the City Treasurer, and what is the late fine?"
+  ],
+  "answer": [
+    "The business books of accounts and receipts must be registered with the City Treasurer within 15 working days from the time of filing the application for a new or renewal of business permit. If not registered within the given period, an administrative fine of Five Thousand Pesos (P 5,000.00) will be imposed. [S2]"
+  ],
+  "contexts": [
+    [
+      "ERE TO SECURE\n1. Application for Renewal of Mayors\nPermit – 1 original, 1 duplicate copy\nBusiness Bureau, Sangguniang \nPanlungsod, Ground Floor\n2. Books of Accounts or Other Record\nof Transaction – 1 original\nBookstore or any school supplies store\n3. Official Receipts or Other Receipts\n(first and last stub only) - receipts \nused in the Business operations\nPrinting press\n4. Duly accomplished form for\nregistration – 2 originals from the \nCity Treasurer’s Office\nSangguniang Panlungsod – Business Tax \nAssessment",
+      "(natural or juridical) to register in the City Treasurer \ntheir book of accounts, book of records and official receipts, cash sales, cash invoice, \ndelivery receipt and other receipts used in the collection within fifteen (15) working days \nfrom time of filling the application for new or renewal of business permit shall be \nadministratively fined Five Thousand Pesos (P 5,000.00).",
+      "Electrical Permit Form \nwith 3 sets Electrical Plans duly signed and sealed by a \nlicensed (Professional/Registered) Electrical Engineer\nDepartment of Public Works and \nHighways (DPWH) \n  \n  \nDPWH / City Engineer’s Office (CEO) \n  \n \n \n  \nCity Engineer's Office (CEO) \n  \n  \n  \n  \nHired Professionals (All Engineers & \nArchitect)\nIf the applicant is NOT the registered owner of the lot, \nthe following must be submitted, whichever is \napplicable: \n  \na. Notarized Deed of Absolute Sale  \n–  1 original,"
+    ]
+  ],
+  "ground_truth": [
+    "The charter Annex 9 states that failure to register books of accounts, books of records, official receipts, cash sales, cash invoices, delivery receipts and other collection receipts within fifteen (15) working days from filing a new or renewal business-permit application incurs an administrative fine of PHP5,000."
+  ]
+}

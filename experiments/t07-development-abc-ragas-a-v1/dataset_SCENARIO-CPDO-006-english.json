@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What is the purpose, filing fee, and processing time of a CPDO Certificate of Compatibility?"
+  ],
+  "answer": [
+    "The purpose of a CPDO (City Planning and Development Office) Certificate of Compatibility is to ensure that a proposed development is compatible with the zoning classification of the area. The filing fee for this certificate is not explicitly stated in the provided sources. However, it is mentioned that for zoning and filing fees, an Order of Payment and an Official Receipt should be secured [S1, S3]. The processing time for this certificate is not specified in the provided sources.\n\n[S1, S3] City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf | printed page 649, 641 | chunk DEV120-CPDO-PDF0020-C003, DEV120-CPDO-PDF0012-C004"
+  ],
+  "contexts": [
+    [
+      "solution of No \nObjection \nc. GIS plotting with 1km radius / zoning \nclassification \nd. Certificate of Compatibility\na. Department of Environment & Natural \nResources – Environment and \nManagement Bureau \nb. Barangay Council \nc. City Planning and Development Office\nd. City Planning and Development \nOffice\n17. If application is for processing, \nsecure the following for zoning and \nfiling fees: \n(1 original) \na. Order of payment \nb. Official Receipt for zoning and filing \nfees\na. City Planning and Development Office\nb.",
+      "bor’s Consent \nApplicant\n19. Certification that property is not \nwithin the Strategic Agriculture and \nFisheries Development Zone (SAFDZ)\nDepartment of Agriculture\nAfter submission of complete requirements:\n20. Visible project sign posted at the \nproject site (Notice of Pending \nApplication to be issued by the Zoning \nAdministrator)\nCPDO\n21.  Photo of Visible Project Sign \nApplicant\n22. Notice of Pending Application \npublished in a newspaper once a week \nfor three (3) weeks\nApplicant\nCLIENT STEPS \nAGENCY \nACTION\nFEES TO \nBE PAID\nPROCESSING\nTIME",
+      "following for zoning and \nfiling fees: \n(1 original) \na. Order of payment \nb. Official Receipt for zoning and filing \nfees\na. City Planning and Development Office\nb. City Treasurer’s Office\nCLIENT STEPS \nAGENCY \nACTION\nFEES TO \nBE PAID\nPROCESSIN\nG\nTIME\nPERSON\nRESPONSIB\nLE\n1. Secures \nChecklist of\n1. Pre-evaluates \nthe Submitted\nNone \n30 Minutes"
+    ]
+  ],
+  "ground_truth": [
+    "The Certificate of Compatibility certifies uses or land activities capable of existing together harmoniously. Checklist: Application Letter, Zoning Certificate from CPDO, and Official Receipt from CTO.\n\nFiling fee is PHP300. The stated TOTAL is 1 Hour and 20 Minutes. The initial/final signature step is 15 minutes depending on availability of the Acting Zoning Administrator."
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "item": 1,
+    "pdf_relative_page": 3,
+    "printed_page": 42,
+    "source_row_with_where_to_secure": "Current Original Mayor’s Permit, Application for Renewal of Business Permit, or Certified True Copy of Business Permit w/ Affidavit of Loss in case of lost permits Applicant or Records Section, Business Bureau or Any Notary Public for affidavit of loss.",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0003-C003"
+    ],
+    "review_status": "assistant_visual_source_comparison_supported"
+  },
+  {
+    "item": 2,
+    "pdf_relative_page": 3,
+    "printed_page": 42,
+    "source_row_with_where_to_secure": "Application Affidavit of Change of Business Address (notarized) stating the new location of the business-Single Proprietorship Applicant, notarized by any Notary Public",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0003-C003",
+      "DEV120-BB-PDF0003-C004"
+    ],
+    "review_status": "assistant_visual_source_comparison_supported"
+  },
+  {
+    "item": 3,
+    "pdf_relative_page": 3,
+    "printed_page": 42,
+    "source_row_with_where_to_secure": "For Sole Proprietorship, if represented, Special Power of Attorney, indicating specific authority and capacity granted to representative. Applicant, notarized by any Notary Public",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0003-C004"
+    ],
+    "review_status": "assistant_visual_source_comparison_supported"
+  },
+  {
+    "item": 4,
+    "pdf_relative_page": 3,
+    "printed_page": 42,
+    "source_row_with_where_to_secure": "For Partnership, Partnership Resolution indicating specific authority and capacity granted to representative, and stating the new location of the business Applicant, notarized by any Notary Public",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0003-C004"
+    ],
+    "review_status": "assistant_visual_source_comparison_supported"
+  },
+  {
+    "item": 5,
+    "pdf_relative_page": 3,
+    "printed_page": 42,
+    "source_row_with_where_to_secure": "For Corporation / Cooperative, Board Resolution or Secretary’s Certificate, indicating specific authority and capacity granted to representative, and stating the new location of the business Applicant, notarized by any Notary Public",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0003-C005"
+    ],
+    "review_status": "assistant_visual_source_comparison_supported"
+  },
+  {
+    "item": 6,
+    "pdf_relative_page": 3,
+    "printed_page": 42,
+    "source_row_with_where_to_secure": "Valid ID of the representative (1 photocopy), if newly designated Applicant",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0003-C005"
+    ],
+    "review_status": "assistant_visual_source_comparison_supported"
+  },
+  {
+    "item": 7,
+    "pdf_relative_page": 4,
+    "printed_page": 43,
+    "source_row_with_where_to_secure": "Sketch / Google map of Business location (1 original) with pictures of the premise location Applicant",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0004-C001"
+    ],
+    "review_status": "assistant_visual_source_comparison_supported"
+  },
+  {
+    "item": 8,
+    "pdf_relative_page": 4,
+    "printed_page": 43,
+    "source_row_with_where_to_secure": "Tax Declaration of the Property or any proof of property ownership (owned, rented and not rented) and Lease Contract if rented or Consent from Property Owner if not rented Applicant, notarized by any Notary Public",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0004-C001"
+    ],
+    "review_status": "assistant_visual_source_comparison_supported"
+  },
+  {
+    "item": 9,
+    "pdf_relative_page": 4,
+    "printed_page": 43,
+    "source_row_with_where_to_secure": "FSIC for Occupancy Permit valid in the last 9 months Bureau of Fire Protection",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0004-C001"
+    ],
+    "review_status": "assistant_visual_source_comparison_supported"
+  },
+  {
+    "item": 10,
+    "pdf_relative_page": 4,
+    "printed_page": 43,
+    "source_row_with_where_to_secure": "Affidavit of Undertaking that there had been no substantial changes made on the building Applicant, notarized by any Notary Public",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0004-C001",
+      "DEV120-BB-PDF0004-C002"
+    ],
+    "review_status": "assistant_visual_source_comparison_supported"
+  },
+  {
+    "claim_id": "fees",
+    "pdf_relative_page": 39,
+    "printed_page": 78,
+    "source_wording": "Mayor’s Permit Fee is based on the asset size and nature of business. Service fee is Php50.00",
+    "row_association": "STEP 2: PAYMENT; proceed to City Treasurer’s Office for payment. STEP 1 APPLICATION has fees None.",
+    "supporting_chunk_ids": [
+      "DEV120-BB-PDF0039-C001",
+      "DEV120-BB-PDF0039-C002",
+      "DEV120-BB-PDF0039-C003"
+    ],
+    "roles": {
+      "DEV120-BB-PDF0039-C001": "service heading and application context",
+      "DEV120-BB-PDF0039-C002": "payment step, CTO, fee basis and service amount",
+      "DEV120-BB-PDF0039-C003": "overlapping service amount and CTO association"
+    },
+    "review_status": "assistant_visual_source_comparison_supported"
+  }
+]

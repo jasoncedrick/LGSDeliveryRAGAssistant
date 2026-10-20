@@ -1,0 +1,95 @@
+{
+  "status": "REGISTERED_CANDIDATE_BEFORE_HELD_OUT_PREFLIGHT",
+  "registered_at_utc": "2026-10-19T12:55:57.614747+00:00",
+  "selection_basis": "Historical completed development grid, not later incomplete evaluator experiments.",
+  "historical_J": 0.8685185184830554,
+  "grid_id": 13,
+  "weights_B_C": [
+    0.75,
+    0.25,
+    0.0
+  ],
+  "k": 3,
+  "tokenizer": "Existing whitespace BM25 tokenizer, unchanged",
+  "model": "eboss-mistral",
+  "model_digest": "39d9f435aeed825a340db73dfba9e7ce346664aa00727c9066bb1f0352406a6f",
+  "packages": {
+    "ragas": "0.1.5",
+    "torch": "2.2.1+cu121",
+    "transformers": "4.38.2",
+    "sentence-transformers": "2.5.1",
+    "rank-bm25": "0.2.2",
+    "faiss-cpu": "1.8.0",
+    "langchain-community": "0.3.27"
+  },
+  "normalizer_settings": {
+    "num_predict": 150,
+    "temperature": 0,
+    "top_p": 0
+  },
+  "generation_settings": {
+    "num_ctx": 8192,
+    "num_predict": 1536,
+    "temperature": 0,
+    "top_p": 0
+  },
+  "evaluator": "Existing RAGAS 0.1.5 legacy output-contract-v1, identical across A/B/C. Failures remain null; no quote-perfectness gate or new evaluator experiments.",
+  "evaluator_settings": {
+    "num_ctx": 8192,
+    "num_predict": 4096,
+    "temperature": 0,
+    "top_p": 0,
+    "timeout": 600,
+    "max_workers": 1,
+    "max_retries": 0
+  },
+  "configurations": {
+    "A": "Raw query BM25 only, same generator/prompt.",
+    "B": "Query-specific dictionary injection, normalization, chunk-level hybrid retrieval.",
+    "C": "Same as B with query-specific dictionary injection disabled; identical ambiguity gate and retrieval boost. Shared static prompt guidance remains."
+  },
+  "known_limitations": [
+    "Legacy judge semantic errors documented; numbers are automated judgments, not validated factual truth.",
+    "Floating-point near tie in historical grid; no meaningful superiority claim.",
+    "Shared static lexical prompt guidance retained in C.",
+    "Existing source ambiguity and incomplete-generation risk retained.",
+    "Current answer prompt includes inline citation format guidance; not asserted to fully implement the manuscript wording about two complete examples."
+  ],
+  "held_out_path": "D:\\thesis\\LGSDeliveryRAGAssistant-main\\data\\benchmark_scenarios_test.json",
+  "held_out_contents_inspected_before_registration": false,
+  "preflight_policy": "After registration, validate 70 groups, no group overlap, 210 queries, 14 groups per office, gold IDs present. No rewriting test IDs/reference answers. Stop before inference if incompatible.",
+  "manuscript_sha256": "628193ea55abc364c06dd3251a79126fa55ca2af2cb9d23e25cb584e7757f98a",
+  "authoritative_tracker_tab": "Thesis Tracker",
+  "file_hashes": {
+    "app\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "app\\main.py": "dced2f4c7d26609d84a5e7c29cf98ad89fb96affc4339c44ef9bcd56a1bf7a13",
+    "app\\pipeline.py": "c773ede0be8a7f31ca53124a5ed9d9cad29ccf3726634b25c162a0321ac84cd2",
+    "config\\normalization_intent_candidate.txt": "78bdd64d802aff0a7a36b99553507afe739eda9b8c8f328c5fbeecc128055c86",
+    "config\\pipeline_manifest.json": "6ddcc7465376d07c542dfac7f9a083fb82e4eab190af841dd7832b2a23d3c0d0",
+    "data\\benchmark_scenarios_dev.json": "a95ca5d24c758416eaa82d5e374ee93620e980db5f92d9eed802f945655e841d",
+    "data\\municipal_dictionary_v1.json": "5ecbcc99538d9a88c7905378abe8a3712831afdfe8e9647cfdf2698600bdab62",
+    "experiments\\chapter3-table-repaired-development-v1\\bm25_index.pkl": "3d4ec7020d117f47d59c4a8dbbcfb2b79f69e0471736bd8f2f4bf24af2e4a5c5",
+    "experiments\\chapter3-table-repaired-development-v1\\corpus.json": "a0d996dd178eb681825880381741482001b72da5466b2effcf7b870a610017f3",
+    "experiments\\chapter3-table-repaired-development-v1\\faiss_index.bin": "19b7d1a025db7daa426afd513d0b20851491053f66d58d857edfb74008c07128",
+    "experiments\\chapter3-table-repaired-development-v1\\index_provenance.json": "47420e8e98d07ad66741b88d7625aa4c0ad2b82c4ada7cedd15e714dde150f79",
+    "experiments\\chapter3-table-repaired-development-v1\\pipeline_manifest.json": "6ac5aca9ffc311ae02945b76979f95ffa80da71af0afc20b15b7090b190fe9f5",
+    "experiments\\chapter3-table-repaired-development-v1\\source_pages.json": "d355eec5c7da652ef8d9a0fbdb914d3d63976be3a20f1b3614b1162984418cbf",
+    "experiments\\chapter3-table-repaired-development-v1\\validation.json": "9dd5b26592f7bde1ac850e3c5fc9cfb1bf6318d06a1662b4e49d4b496943b4a8",
+    "experiments\\t07-development-grid-format-retry-v2\\context_precision_grid.json": "f73b799ae045293b1a80398e6f071af426ab664979334e19fca8d653d64bf58a",
+    "experiments\\t07-development-grid-format-retry-v2\\protocol.json": "c94578891eb3ee2a8bf5c896e97fa86e90dbf4526405f264def04269a9278bf4",
+    "scripts\\prepare_t07_final_evaluation.py": "a01f61c201feca47cbc20b7cc8bc9736c8679198377d9a20cee9c34a58e53bdd",
+    "scripts\\run_t07_development_abc.py": "2242e5ae2b89affb0aad238fc5f8713ac3c93633ad6c013f5fa64f2496c0ab0b",
+    "scripts\\score_development_ragas.py": "0cb7a128a6589f3c9bc7c030cc20c81951731bd5e666fc4750a325f0cf1b89b5",
+    "src\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src\\chunk_retriever.py": "626e75dfa905ccbecf8c277660a940d573243e6798abcbde1baf2c28a4920b3b",
+    "src\\context_precision_judge_v2.py": "afebbbb649ec2bcfa8cf7a5b2ce23a74daff945e60d32c7ee00f5ae10aeb6b1d",
+    "src\\development_retrieval_metrics.py": "4596ddc22ec9b21d662ad0c64f7991af1060aaf497a923897fd7bf65a9e7b6a0",
+    "src\\offline_judge_grounding.py": "4a93ea26f5e8eca14d5b59197ad9b3d63d294c337fd8abafd6f65adbebe465a5",
+    "src\\query_normalizer.py": "06d874d718e81773d8eb279aa1c9f4b97c3bd1b890c324ee23d9c76f9f0d2b77",
+    "src\\ragas_context_precision_v2.py": "3068c1c9fefc00d716fe537ebdfaa862463cdff8b95d91580883937a243767d3",
+    "src\\ragas_output_contracts.py": "4dac26993cd905bf534fbf1ecdc5f300ef90bcf3052702a833c1fcd94541410f",
+    "src\\source_span_judge.py": "0c616a9ddd5e59559df1c95c8abedbc53592af6abc02d59dcfae2ef57ff56ce3",
+    "src\\token_windows.py": "fcf32489c78e3c02984a6b16572018940e7792324f972d588a8aec5be1d87023"
+  },
+  "app_defaults_changed": false
+}

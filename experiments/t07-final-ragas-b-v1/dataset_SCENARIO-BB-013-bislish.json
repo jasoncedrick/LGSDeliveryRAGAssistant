@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga rekisitos para sa Occupational Permit sa mga ordinaryong trabahante ug langyaw nga trabahante?"
+  ],
+  "answer": [
+    "Sa mga ordinaryong trabahante ug langyaw nga trabahante, ang mga rekisitos para sa Occupational Permit sa Davao City ay nakatanggap sa Business Bureau's Citizen Charter 2026. Ang mga rekisito sa Occupational Permit ay nakalistado sa mga chunk DEV120-BB-PDF0067-C001 at DEV120-BB-PDF0067-C002 sa pagkakabuo ng mga chunk 3 sa pag. 106 ng Citizen Charter.\n\nAng mga rekisito sa Occupational Permit sa mga ordinaryong trabahante ay:\n\n1. [S1] - Mag-submit ng application form para sa Occupational Permit.\n2. [S1] - Mag-present ng mga nakakatugon na dokumento sa application form, kabilang ang:\n   - Proof of Business Name Registration (for self-employed individuals)\n   - Proof of Employment (for employees)\n   - Community Tax Certificate (Cedula)\n   - Barangay Clearance\n   - Police Clearance\n   - Birth Certificate\n   - Marriage Certificate (kung may kasama ang asawa)\n   - Photocopy ng Professional Regulation Commission (PRC) ID (kung mayroon)\n   - Photocopy ng Securities and Exchange Commission (SEC) ID (kung mayroon)\n   - Photocopy ng Business Permit (kung mayroon)\n   - Photocopy ng Tax Identification Number (TIN)\n\n3. [S2] - Magbayad ng fee:\n   - Php125 para sa new at updated renewal\n   - Php156.25 para sa late renewal\n\n4. [S3] - Mag-submit ng hard copy ng Occupational Permit sa Business Bureau kung walk-in applicant (kung mayroon) o mag-download ang online applicant ang Occupational Permit sa website https://occupationalpermit.davaocity.gov.ph/ o sa link na ipinadala sa e-mail o SMS."
+  ],
+  "contexts": [
+    [
+      "3.Receive \nOccupational Permit / \nDenied Application\nNote: \n If application is \napproved, proceed to \nhttps://occupationalper\nmit.davaocity.gov.ph/, \nselect Check \nApplication Status, and \ndownload the \nOccupational Permit, or \nproceed to the link \nautomatically sent by \nthe Online \nOccupational Permit \nSystem though e-mail \nor SMS and download \nthe Occupational \nPermit for online \napplicants. Physically \nclaim hard copy of \nOccupational Permit for \nwalk-in applicants.\nIn case of denial, \nreceive returned \ndocuments",
+      "nt to \nreapply.\nNone\n14 Minutes \n(Online and\nOnsite)\nOccupational\nPermit\nSection Head\nand\nOccupational\nPermit\nPersonnel\nBusiness \nBureau\nTOTAL:\nPhp125 \nfor new\nand\nupdated \nrenewal;\nPhp\n156.25 for\nlate\nrenewal\n33 Minutes",
+      "ational Permit for \nwalk-in applicants.\nIn case of denial, \nreceive returned \ndocuments and denied \napplication form, and \nreapply.\n3. Approve and \nrelease or deny \napplication.\nNote:\nIf approved, Online \nOccupational Permits \nare digitally signed and \nready for download. \nPrint, sign, and release \nhard copy of \nOccupational Permits in \ncase of walk-in \napplicants.\nIf denied, return \nsubmitted documents \nand ask applicant to \nreapply.\nNone\n14 Minutes \n(Online and\nOnsite)\nOccupa"
+    ]
+  ],
+  "ground_truth": [
+    "An Occupational Permit is required for workers without a Professional Tax Receipt. General requirements: application form, Certificate of Employment, and Official Receipt from CTO (PHP 125.00). Foreigners must submit an Alien Employment Permit from DOLE."
+  ]
+}

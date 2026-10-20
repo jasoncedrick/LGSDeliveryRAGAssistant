@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Ilang porsyento ang buwis sa gross sales para sa mga wholesalers at distributors na lumagpas sa 2 million pesos?"
+  ],
+  "answer": [
+    "Wala akoy nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa inyong tanong tungkol sa buwis sa gross sales para sa mga wholesalers at distributors na lumagpas sa 2 million pesos. Ang mga impormasyon sa Citizens' Charter tungkol sa buwis sa gross sales ay hindi nakatanggap ng detalye tungkol sa mga wholesalers at distributors na lumagpas sa 2 million pesos. [S3]"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "the territorial jurisdiction of the City of Davao by \nProducers, Distributors or Wholesalers\nP 0.88 per kilo\nn. For one truckload of charcoal, scrapped iron, fire woods,\ncopra and all other similar goods/ commodities/merchandise \nnot subject to any particular fee above prescribed.\n418.00",
+      "the total sales and shall be \nsubject to the rates not exceeding one-half (1/2) of the rates prescribed under paragraphs \n(a), (b), and (d) of this Article.\n(d) On Retailers:\nGross Sales/Receipts for the Preceding Year \nRate of Tax Per Annum\nMore than P50,000.00 but not over P400,000.00 \n2.2%\nIn excess of P400,000.00 \n1.21%\nHowever, barangays shall have the exclusive power to levy taxes on stores whose \ngross sales or receipts of the preceding"
+    ]
+  ],
+  "ground_truth": [
+    "Wholesalers, distributors, and dealers are taxed on graduated tiers from PHP 1,210.00 (under 50k) up to PHP 18,150.00 (up to 2M). Gross sales in excess of PHP 2,000,000.00 are taxed at 66% of 1.0%. Businesses subject to manufacturer taxes are exempt from wholesaler tax."
+  ]
+}

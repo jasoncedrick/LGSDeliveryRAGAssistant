@@ -1,0 +1,18 @@
+{
+  "question": [
+    "What is the procedure and required fee for obtaining a Real Property Tax Clearance from the City Treasurer?"
+  ],
+  "answer": [
+    "To obtain a Real Property Tax Clearance from the City Treasurer, the procedure is as follows:\n\n1. The client proceeds to the Office of the City Treasurer (CTO) and presents the required documents. [S3, DEV120-CTO-PDF0007-C003]\n2. The client is advised to proceed to the verification section of SAG. [S3, DEV120-CTO-PDF0007-C003]\n3. Present the Order of Payment from the City Environment and Natural Resources Office (CENRO). [S3, DEV120-CTO-PDF0007-C003]\n4. Verify the account from the ledger, check payment history, and issue an Order of Payment if there are no arrears. [S3, DEV120-CTO-PDF0007-C003]\n\nRegarding the required fee, the source does not provide specific information about the fee for Real Property Tax Clearance. For more detailed information, it is recommended to contact the City Treasurer's Office directly. [S3, DEV120-CTO-PDF0007-C003]\n\nWala akoy nakit-an nga impormasyon bahin niini sa Real Property Tax Clearance fee sa Citizens' Charter."
+  ],
+  "contexts": [
+    [
+      "2. Issuance of Business Permit \nIt shall be unlawful for any person or entity to conduct or engage in any business, \ntrade or occupation within the territorial jurisdiction of the City of Davao for which a \npermit is required for the proper supervision and enforcement of existing laws and \nordinances without first having secured a permit therefore from the City Mayor and \npaying the necessary fees to the City Treasurer.\nThe Business Permit is granted for a period of not more than one (1) year and shall \nexpire on the thirty-first (31st) of December",
+      "Pesos or more, or who is required by law to file an income tax \nreturn shall pay an annual community tax of Five (P5.00) Pesos and an annual additional \ntax of One Peso (P1.00) for every One Thousand Pesos (P1,000.00) of income \nregardless of whether from business, exercise of profession or from property which in no \ncase shall exceed Five Thousand Pesos (P5,000.00).\nIn the case of husband and wife, the additional tax herein imposed shall be based \nupon the total property owned by them and the total gross receip",
+      "BLE\n1. Client\nproceeds to \nthe Office of \nthe City \nTreasurer \n(CTO) and \npresent the \nrequired \ndocuments.\n1. Advise the\nclient to \nproceed to the \nverification \nsection of \nSAG.\nNone \n2 Minutes \nLocal Treasury\nOperations\nOfficer I\n–\nCity\nTreasurer’s\nOffice\n2. Present the\nOrder of \nPayment \nfrom the City \nEnvironment \nand Natural \nResources \nOffice \n(CENRO).\n2. Verify the\naccount from \nthe ledger, \ncheck \npayment \nhistory, and \nissue an \nOrder of \nPayment if \nthere are no \narrears.\nBased on \nthe 2017 \nRevenue \nCode of \nthe"
+    ]
+  ],
+  "ground_truth": [
+    "Securing an RPT Tax Clearance requires a photocopy of the Tax Declaration from the City Assessor. After verifying payment history and settling outstanding dues, the tax clearance is approved and released with a PHP 50.00 certification fee."
+  ]
+}

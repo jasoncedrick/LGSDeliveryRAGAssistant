@@ -1,0 +1,20 @@
+{
+  "question": [
+    "Kanus-a kinahanglan ang CPDO validation sa Occupancy Permit ug pila ang filing fee kung 3-storey pataas o 1,500 sqm ang building?"
+  ],
+  "answer": [
+    "Ang CPDO validation sa Occupancy Permit sa 3-storey pataas o 1,500 sqm ang building ay kinahanglan nga ma-validate sa Integrated Zoning Ordinance (2019-2028) (3-Storey Buildings and Above and 1,500 Building Floor Area and Above) [S1]. Ang filing fee sa CPDO validation sa Occupancy Permit sa 3-storey pataas o 1,500 sqm ang building ay PHP 150.00 [S4]."
+  ],
+  "contexts": [
+    [
+      "2. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (3-Storey Buildings and Above and \n1,500 Building Floor Area and Above) \nFor 3-storey buildings and above and for building floor area of 1,500 square meters \nand above only.  \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator. \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nComplex\nType of Trans",
+      "3. \nValidation of Occupancy Permit based on the Integrated\nZoning Ordinance (2019-2028) (2-Storey Buildings and Below and \n1,500 Building Floor Area and Below) \nFor 2-storey buildings and below and for building floor area of 1,500 square meters \nand below only. \n \nThe validation of the Locational Clearance issued by the Office of the City Planning & \nDevelopment Coordinator.  \nOffice or Division \nCity Planning and Development Office (CPDO) – \nZoning Enforcement Division\nClassification \nSimple\nType of Trans",
+      ") \nCPDO\n4. SPA from the building owner to \nprocess application for Locational \nClearance\nApplicant\n5. Seven (7) complete sets of Building \nPlans (original) \na. Filled-up title blocks \nb. Signed and sealed by CE / Architect\nApplicant\n6. Certified True Copy of Title issued \nby the Registry of Deeds (ROD) or \nshow original copy of title for validation \n(1 original for validation, 1 photocopy)\nRegistry of Deeds\n7. Locational Clearance Application \nduly notarized and signed by the \napplicant (1 photocopy",
+      "mitted \nDocuments based \non the checklist \nissued by Office of \nthe Building Official \n(OBO)\nNone \n20 Minutes \nZoning Officer\nIV\nCPDO\n2. Secures order \nof payment for \nfiling fee\n2. Issuance of \norder  payment\nFilling Fee\nPHP \n150.00\n10 Minutes \nZoning Officer\nIV\nCPDO\n3. Submits \ndocuments per \nchecklist of \nrequirements with \nOriginal Receipt\n3.1 Re-evaluation \nof documents by \nthe ZED Technical \npersonnel and \nafter it will be \nforwarded/received\nNone \n15 Minutes \n \nZoning Officer\nIV\nCPDO",
+      "(Trilon Guyed)\nUSE OR CHARACTER OF  \nOCCUPANCY SUPPORT\nSELF-\nSUPPORTING\nTRILON GUYED\nCommercial/Industrial (Groups B,E,F,G)  \n up to 10.00 meters in height\nPhp 2,400.00 \n240.00\nEvery meter or fraction thereof in \nexcess of 10.00 meters\nPhp 120.00 \n12.00\nAccessory fees\nGround Preparation and Excavation Fee\nWhile the application for building Permit is still being processed, the Building Official \nmay issue Ground Preparation and Excavation Permit (GP&"
+    ]
+  ],
+  "ground_truth": [
+    "Under the Integrated Zoning Ordinance (2019–2028), CPDO executes mandatory Validation of Occupancy Permits for structures that are 3-storeys and above OR possess a building floor area of 1,500 square meters and above. Requirements are: 1) Approved Building Plans (1 original); 2) Approved Building Permit from OBO (1 original); 3) Certificate of Occupancy Form (1 original); 4) Locational Clearance photocopy; and 5) Actual pictures of the building (1 original). The filing fee is PHP 150.00, and processing time is 3 Days, 2 Hours, and 10 Minutes."
+  ]
+}

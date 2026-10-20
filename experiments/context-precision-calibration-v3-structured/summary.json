@@ -1,0 +1,178 @@
+{
+  "overall": {
+    "total": 60,
+    "valid": 58,
+    "invalid": 2,
+    "correct": 57,
+    "FP": 1,
+    "FN": 0,
+    "failure_types": {
+      "QUOTE_NOT_IN_CONTEXT": 2
+    }
+  },
+  "screening_gate_passed": false,
+  "by_office_language": {
+    "Bureau of Fire Protection|english": {
+      "total": 4,
+      "valid": 4,
+      "invalid": 0,
+      "correct": 4,
+      "FP": 0,
+      "FN": 0,
+      "failure_types": {}
+    },
+    "Bureau of Fire Protection|taglish": {
+      "total": 4,
+      "valid": 4,
+      "invalid": 0,
+      "correct": 4,
+      "FP": 0,
+      "FN": 0,
+      "failure_types": {}
+    },
+    "Bureau of Fire Protection|bislish": {
+      "total": 4,
+      "valid": 4,
+      "invalid": 0,
+      "correct": 4,
+      "FP": 0,
+      "FN": 0,
+      "failure_types": {}
+    },
+    "Business Bureau|english": {
+      "total": 4,
+      "valid": 3,
+      "invalid": 1,
+      "correct": 3,
+      "FP": 0,
+      "FN": 0,
+      "failure_types": {
+        "QUOTE_NOT_IN_CONTEXT": 1
+      }
+    },
+    "Business Bureau|taglish": {
+      "total": 4,
+      "valid": 3,
+      "invalid": 1,
+      "correct": 3,
+      "FP": 0,
+      "FN": 0,
+      "failure_types": {
+        "QUOTE_NOT_IN_CONTEXT": 1
+      }
+    },
+    "Business Bureau|bislish": {
+      "total": 4,
+      "valid": 4,
+      "invalid": 0,
+      "correct": 4,
+      "FP": 0,
+      "FN": 0,
+      "failure_types": {}
+    },
+    "City Planning and Development Office|english": {
+      "total": 4,
+      "valid": 4,
+      "invalid": 0,
+      "correct": 4,
+      "FP": 0,
+      "FN": 0,
+      "failure_types": {}
+    },
+    "City Planning and Development Office|taglish": {
+      "total": 4,
+      "valid": 4,
+      "invalid": 0,
+      "correct": 4,
+      "FP": 0,
+      "FN": 0,
+      "failure_types": {}
+    },
+    "City Planning and Development Office|bislish": {
+      "total": 4,
+      "valid": 4,
+      "invalid": 0,
+      "correct": 4,
+      "FP": 0,
+      "FN": 0,
+      "failure_types": {}
+    },
+    "City Treasurer's Office|english": {
+      "total": 4,
+      "valid": 4,
+      "invalid": 0,
+      "correct": 4,
+      "FP": 0,
+      "FN": 0,
+      "failure_types": {}
+    },
+    "City Treasurer's Office|taglish": {
+      "total": 4,
+      "valid": 4,
+      "invalid": 0,
+      "correct": 4,
+      "FP": 0,
+      "FN": 0,
+      "failure_types": {}
+    },
+    "City Treasurer's Office|bislish": {
+      "total": 4,
+      "valid": 4,
+      "invalid": 0,
+      "correct": 4,
+      "FP": 0,
+      "FN": 0,
+      "failure_types": {}
+    },
+    "Office of the City Building Official|english": {
+      "total": 4,
+      "valid": 4,
+      "invalid": 0,
+      "correct": 4,
+      "FP": 0,
+      "FN": 0,
+      "failure_types": {}
+    },
+    "Office of the City Building Official|taglish": {
+      "total": 4,
+      "valid": 4,
+      "invalid": 0,
+      "correct": 4,
+      "FP": 0,
+      "FN": 0,
+      "failure_types": {}
+    },
+    "Office of the City Building Official|bislish": {
+      "total": 4,
+      "valid": 4,
+      "invalid": 0,
+      "correct": 3,
+      "FP": 1,
+      "FN": 0,
+      "failure_types": {}
+    }
+  },
+  "old_v2_baseline": {
+    "cases": 60,
+    "valid_after_retries": 59,
+    "invalid_remaining": 1,
+    "correct_over_all_controls": 0.9166666666666666,
+    "FP": 4,
+    "FN": 0,
+    "false_positive_cases": [
+      "SCENARIO-OCBO-006-bislish-CONTROL4",
+      "SCENARIO-CPDO-003-english-CONTROL4",
+      "SCENARIO-CPDO-003-taglish-CONTROL4",
+      "SCENARIO-CPDO-003-bislish-CONTROL4"
+    ],
+    "false_negative_cases": [],
+    "valid_disagreements_not_retried": true,
+    "original_results_preserved": true,
+    "held_out_accessed": false,
+    "interpretation": "Development sanity-check evidence only; report residual judge errors and repeated-control limitation. Not expert certification."
+  },
+  "selection_allowed": false,
+  "held_out_accessed": false,
+  "freeze": false,
+  "decision": "NOT_READY_FOR_FULL_GRID"
+}

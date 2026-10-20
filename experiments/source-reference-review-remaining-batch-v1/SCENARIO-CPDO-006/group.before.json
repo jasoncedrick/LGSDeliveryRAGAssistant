@@ -1,0 +1,24 @@
+{
+  "group_id": "SCENARIO-CPDO-006",
+  "pillar": "City Planning and Development Office",
+  "split": "development",
+  "ground_truth_chunk_ids": [
+    "DEV120-CPDO-PDF0073-C001",
+    "DEV120-CPDO-PDF0073-C002",
+    "DEV120-CPDO-PDF0073-C003",
+    "DEV120-CPDO-PDF0074-C001",
+    "DEV120-CPDO-PDF0074-C002"
+  ],
+  "ground_truth_reference_answer": "A Certificate of Compatibility is issued by the CPDO Zoning Enforcement Division to certify that proposed land activities are capable of co-existing harmoniously with adjacent zoning classifications. Requirements include: 1) Application Letter; 2) Zoning Certificate from CPDO; and 3) CTO Official Receipt. The filing fee is PHP 300.00, and the total administrative processing time is 1 Hour and 20 Minutes.",
+  "queries": {
+    "english": "What is the purpose, filing fee, and processing time of a CPDO Certificate of Compatibility?",
+    "taglish": "Para saan ang Certificate of Compatibility sa CPDO, magkano ang bayad, at gaano kabilis makuha?",
+    "bislish": "Para asa ang Certificate of Compatibility sa CPDO, pila ang filing fee, ug unsa kadugay ang pag-release?"
+  },
+  "legacy_ground_truth_chunk_ids": [
+    "CHUNK-CPDO-P702-C01",
+    "CHUNK-CPDO-P702-C02",
+    "CHUNK-CPDO-P703-C01"
+  ],
+  "mapping_status": "PROVISIONAL_EXACT_SPAN_MAPPING"
+}

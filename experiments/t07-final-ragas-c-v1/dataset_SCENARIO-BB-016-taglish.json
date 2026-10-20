@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Magkano ang bayad sa Certified True Copy ng Mayor's Permit at anong requirements ang dapat dalhin?"
+  ],
+  "answer": [
+    "Ang bayad sa Certified True Copy ng Mayor's Permit ay Php100.00. Ang mga kailangan dalhin ng requirements ay nakalistado sa [S2]. Ang mga kailangan dalhin ay ang Request Form at iba pang requirements na kailangan mag-submit para sa Certified True Copy. [S2]"
+  ],
+  "contexts": [
+    [
+      "5. Issuance of Certifications / Certified True Copy\nCertifications or Certified True Copy is issued to any natural or juridical entity, \ngovernment agencies or offices who wish to secure any copy of Business Permit or \nwho wish to know any status or record of a Taxpayer. \nOffice or \nDivision\nCity Mayor's Office – Permits & Licenses Division\nClassificati\non\nSimple (Certification, Certified True Copy and Master List without \nmodified parameters and formats), Highly Technical (Master List requiring \ntechnical parameters and format modification)\nType of",
+      "1. Client fills-\nout and \nsubmits \nRequest \nForm and \nother \nrequirements \nand receive \nOrder of \nPayment to \nbe paid to the \nCity \nTreasurer’s \nOffice\n1. Checks \nthe \nrequired \ndocument\ns and \nIssues \nOrder of \nPayment \nto be paid \nto the City \nTreasurer’\ns Office.\nPhp50.00\nfor\ncertificatio\nn\nPhp100.00\nfor\nCertified\nTrue Copy, \nP35.00 for\nevery\nadditional\nCopy\nP50.00 + \nP20.00 per\npage for \nMaster-\nlists\n3 Minutes\nRecords Staff\nBusiness Bureau\n2. Submits \nOfficial  \nReceipt, \nOrder of \nPayment, and \npertinent",
+      "16. Issuance of Certified True Copy of Documents\nCertified True Copy of documents may be issued upon request.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nSimple\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; G2G \n– Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENT \nWHERE TO SECURE\n1. Request Letter \nApplicant\n2. Photocopy of Building Permit and other \nrelated documents\nApplicant\n3. Photocopy of Valid ID of the Owner with \nthree (3) Sig"
+    ]
+  ],
+  "ground_truth": [
+    "Securing a Certified True Copy of a business permit requires a letter request, valid ID, and SPA/Board Resolution if represented. The fee is PHP 100.00 for the certified copy plus PHP 35.00 for each additional copy."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsaon pag-renew sa FSIC sa negosyo kung naapil kini sa negative list o dunay pending nga bayrunon sa Fire Code?"
+  ],
+  "answer": [
+    "Wala kaayong pag-renew sa FSIC sa negosyo kung naapil kini sa negative list o dunay pending nga bayrunon sa Fire Code. [S2]\n\nSa ilahang pag-renewal, ang BFP ay hindi mag-issue ng FSIC kung ang negosyo ay naapil sa negative list o may pending bayrunon sa Fire Code. [S2]"
+  ],
+  "contexts": [
+    [
+      "s, etc.) as a prerequisite for the\nissuance of appropriate permits and licenses\nfrom the local and other government agencies\nconcerned.\n\nCHECKLIST OF\nREQUIREMENTS/\nDOCUMENTS\nBFP FRONT LINE SERVICES\nFIRE SAFETY  \nEVALUATION \nCLEARANCE\n(FSEC)\nAPPLICATION\nFIRE SAFETY INSPECTION CERTIFICATE (FSIC) APPLICATION\nCERTIFICATE OF\nOCCUPANCY\nNEW\nBUSINESS\nPERMIT WITH\nVALID FSIC\nISSUED DURING\nOCCUPAN",
+      "18. Valid Fire Safety Inspection Certificate\nfor Business\nBureau of Fire Protection\n19. Other Requirements depending on the\nBusiness Activity declared\nConcerned Agency\nRENEWAL \n1. List of Employees stating the Name and\nPosition of the Employees (1 copy)\nApplicant\n2. For Sole Proprietorship, if represented,\nSpecial Power of Attorney, indicating \nspecific authority and capacity granted to \nrepresentative.\nApplicant, notarized by any Notary \nPublic\n3. For Partnership, Partnership Resolution,\nindicating specific authority and",
+      "Building Administrator and his/her Fire Safety Practitioner\nduring the regular annual fire safety inspection. This  is a compilation of the maintenance and testing records kept by the building‘s engineering and maintenance department, as a prerequisite for the issuance of FSIC for Business or \nMayor‘s Permit renewal, Certificate of Annual Inspection , Permit to Operate, PHILHEALTH Accreditation for Hospitals, DOH License to Operate and other  permits or licenses being issued by other government agencies.\nNOTE (4) Section 9."
+    ]
+  ],
+  "ground_truth": [
+    "Renewals without a valid FSIC or those included in the Negative List must resolve all existing Fire Code violations, settle outstanding penalties, pay the 15% FSIF, and pass a mandatory re-inspection before the FSIC for business renewal is released."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsaon pagkwenta sa buhis sa mga franchised car dealer ug sa ilang halin sa spare parts ubos sa Revenue Code?"
+  ],
+  "answer": [
+    "Sa mga franchised car dealer, ang buhis sa mga spare parts ug sa ilang halin sa kanilang dealership agreement ay nakabasa sa Revenue Code. Ang imposta sa spare parts ug sa ilang halin sa mga franchised car dealer ay nakabuo sa wala nay ibang nakabasa sa code.\n\nSa Revenue Code, ang imposta sa spare parts ug sa ilang halin sa mga franchised car dealer ay nakabuo sa wala nay ibang nakabasa sa code. Ang imposta sa spare parts ay nakabuo sa wala nay ibang nakabasa sa code.\n\nPara sa mga franchised car dealer, ang imposta sa spare parts ay nakabuo sa wala nay ibang nakabasa sa Revenue Code. Ang imposta sa ilang halin sa mga franchised car dealer ay nakabuo sa wala nay ibang nakabasa sa Revenue Code.\n\n[S1, S3]"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "receipts in excess of Php \n100,000,000.00\nPhp 2,000,000,000.00 \nPhp 3,000,000,000.00 \nPhp 12,402,500.00 plus \n22.0% of 1.0% of gross \nreceipt in excess of Php \n2,000,000,000.00\nPhp 3,000,000,000.00 \nand above \nPhp 14,602,500.00 plus \n11% of 1.0% of gross \nreceipts in excess of Php \n3,000,000,000.00\ni.2 On Spare Parts and Services of Car Dealers with Valid and Existing Dealership \nAgreement, tax rate is as follows:\nSPARE",
+      "ing not otherwise stated in this code.\n(i) On Authorized Franchise Car Dealers\nImposition of Tax – There is hereby levied an annual tax on the following business \nundertakings at the rates prescribed herein:\ni.1 On Car Dealers engaged in the business of selling brand new vehicles and \ngenuine parts pursuant to a valid and existing dealership agreement with manufacturers \nand distributors shall be taxed as follows:\nCAR DEALERS\nFrom \nTo Less Than \nAnnual Tax\nPhp 0 \nPhp 100,000,000.00 \n90."
+    ]
+  ],
+  "ground_truth": [
+    "Brand new car dealerships are taxed at 90.75% of 1% (up to 100M gross sales) scaling down to PHP 14.6M + 11% of 1% for sales over 3 Billion. Dealership spare parts are taxed at 2.2% (under 10M) down to 60.50% of 1% (above 30M)."
+  ]
+}

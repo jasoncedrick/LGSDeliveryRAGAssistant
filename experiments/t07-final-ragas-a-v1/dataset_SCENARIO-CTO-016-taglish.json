@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Paano kinokwenta ang buwis para sa mga car dealers at sa benta ng kanilang spare parts sa Davao?"
+  ],
+  "answer": [
+    "Ang buwis para sa mga car dealers sa Davao ay kinokwenta sa pamamagitan ng City Treasurer's Office. Ang impormasyon sa buwis na ito ay maaaring nakita sa Citizen's Charter ng City Treasurer sa mga dokumento na:\n\n- [S3] City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 214 | chunk DEV120-CTO-PDF0059-C005\n- [S3] City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 214 | chunk DEV120-CTO-PDF0060-C001\n\nSa mga car dealers, ang buwis ay nakakalipas sa 90% ng kanilang mga kita sa pagbebenta ng bagong sasakyan at original na bahagi. Ang impormasyon sa mga buwis na ito ay nakakatitig sa mga kita na:\n\n- Php 0 - Php 100,000,000.00: Wala kang buwis dahil ang kita mo ay hindi masyadong mataas.\n- Php 100,000,001.00 - Php 2,000,000,000.00: Ang buwis mo ay Php 2,000,000.00.\n- Php 2,000,000,001.00 - Php 3,000,000,000.00: Ang buwis mo ay Php 12,402,500.00 plus 22.0% ng 1.0% ng kanilang mga kita sa excess ng Php 2,000,000,000.00.\n- Php 3,000,000,001.00 at ulit na ibabaw: Ang buwis mo ay Php 14,602,500.00 plus 11% ng 1.0% ng kanilang mga kita sa excess ng Php 3,000,000,000.00.\n\nPara sa mga spare parts ng sasakyan, ang buwis ay kinokwenta sa pamamagitan ng City Treasurer's Office sa pamamagitan ng impormasyon sa [S3] City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 214 | chunk DEV120-CTO-PDF0059-C005. Ang mga spare parts na ito ay kinokwenta sa pamamagitan ng 1.5% ng kanilang mga kita. Ang mga spare parts na ito ay maaaring makakuha ng tax exemption kung mayroon silang valid at existing dealership agreement at kung hindi maaaring makakuha ng tax exemption, maaaring makakuha ng tax exemption kung ang kanilang mga spare parts ay hindi masyadong mataas."
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      "receipts in excess of Php \n100,000,000.00\nPhp 2,000,000,000.00 \nPhp 3,000,000,000.00 \nPhp 12,402,500.00 plus \n22.0% of 1.0% of gross \nreceipt in excess of Php \n2,000,000,000.00\nPhp 3,000,000,000.00 \nand above \nPhp 14,602,500.00 plus \n11% of 1.0% of gross \nreceipts in excess of Php \n3,000,000,000.00\ni.2 On Spare Parts and Services of Car Dealers with Valid and Existing Dealership \nAgreement, tax rate is as follows:\nSPARE",
+      "ing not otherwise stated in this code.\n(i) On Authorized Franchise Car Dealers\nImposition of Tax – There is hereby levied an annual tax on the following business \nundertakings at the rates prescribed herein:\ni.1 On Car Dealers engaged in the business of selling brand new vehicles and \ngenuine parts pursuant to a valid and existing dealership agreement with manufacturers \nand distributors shall be taxed as follows:\nCAR DEALERS\nFrom \nTo Less Than \nAnnual Tax\nPhp 0 \nPhp 100,000,000.00 \n90."
+    ]
+  ],
+  "ground_truth": [
+    "Brand new car dealerships are taxed at 90.75% of 1% (up to 100M gross sales) scaling down to PHP 14.6M + 11% of 1% for sales over 3 Billion. Dealership spare parts are taxed at 2.2% (under 10M) down to 60.50% of 1% (above 30M)."
+  ]
+}

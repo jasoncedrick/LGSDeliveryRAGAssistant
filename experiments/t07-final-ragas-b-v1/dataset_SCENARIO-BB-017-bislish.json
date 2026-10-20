@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Pila ang bayad ug pila ka adlaw makuha ang opisyal nga master list sa mga negosyo gikan sa Business Bureau?"
+  ],
+  "answer": [
+    "Sa Business Bureau, ang bayad sa Mayor's Permit ay based sa aset size at nature ng negosyo. Ang service fee ay Php50.00. Ang mga negosyo mao ang magpabayad sa City Treasurer's Office. Para sa detalye sa bayad, mao ang nakatanggap ng mga detalye sa Schedule of Fees and Charges. Wala nako nakit-an nga impormasyon bahin sa mga adlaw na kailangan upang makuha ang opisyal nga master list sa mga negosyo gikan sa Business Bureau. [S1, S2, S3]"
+  ],
+  "contexts": [
+    [
+      "3.6. Release \nBusiness permit \nand documents \nto the client\nNone \n10 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau\n3.7. Request the \nclient to sign in \nthe logbook\nNone \n6 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau\nTOTAL:\nMayor’s\nPermit Fee\nis\nbased on\nthe\nasset size  \nand nature\nof\nbusiness.  \nService fee  \nis Php50.00\nfor\nAmendment\nof\nBusiness\nPermit.\n(paid at the\nCity\nTreasurer’s\nOffice)\nPls. See\nSchedule of\nFees and \nCharges\n1 Hour and \n55 Minutes\nG. Amendment of Business Per",
+      "OIC), Business\nBureau\n3.6.  Release \nBusiness permit \nand documents to \nthe client\nNone \n10 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau\n3.7. Request the \nclient to sign in \nthe logbook\nNone \n6 Minutes \nProcessing\nSection\nPersonnel \nBusiness \nBureau\nTOTAL:\nMayor’s\nPermit Fee\nis\nbased on\nthe\nasset size  \nand nature\nof\nbusiness.  \nService fee\nis Php \n50.00\nfor\nAmendment\nof\nBusiness\nPermit.\n(paid at the\nCity\nTreasurer’s\nOffice).\nPls. See\nSchedule of\nFees and \nCharges\n1 Hour and \n55 Minutes\nF. A",
+      "1.1. Encode \nadditional details \nfrom the RO-\napproved Change \nof Business \nAddress (after \napproval of \nRegulatory \nOffices) \napplication.\n1.2. Return the \npre-assessed \ndocuments to the \nclient for payment \nwith attached \nRecommended \napproval of \nApplication for \nChange of \nBusiness Address\nNone \n10 Minutes \nEDP personnel \nBusiness Bureau\nSTEP 2: PAYMENT\n2.Proceed to the \nCity Treasurer’s \nOffice for payment.\n2. Process under \nCity Treasurer’s \nOffice\nMayor’s\nPermit Fee\nis\nbased on\nthe\nasset size  \nand nature\nof\nbusiness.  \nService fee  \nis Php50.00"
+    ]
+  ],
+  "ground_truth": [
+    "Requesting a master list of registered businesses costs PHP 50.00 plus PHP 20.00 per page. Processing takes 2 days without format modifications, and up to 13 days if technical parameters or formatting must be modified."
+  ]
+}

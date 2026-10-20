@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Tagpila ang processing fee ug inspection fee matag ektarya para sa Preliminary Subdivision Development Plan (PSDP)?"
+  ],
+  "answer": [
+    "Sa PSDP (Preliminary Subdivision Development Plan), wala nga nakit-an nga impormasyon bahin sa Citizens' Charter tungod sa iyang processing fee at inspection fee ektarya. Ang processing fee sa PSDP ay hindi matagpuan sa mga ma-offer na source blocks. [S1, S2, S3]\n\nSa iba pang serbisyo, maaoy nga ma-find ang processing fee sa mga kasama sa Citizens' Charter. Kung kailangan nga mo ang impormasyon sa processing fee sa iba pang serbisyo, mao na ang taw-an nga panggamiton:\n\n* [S1] - Para sa Mall, Condominium, Hotel, Apartment, at Warehouse, mao ang processing fee: Php 10,000.00.\n* [S2] - Para sa High End, Low End, Farm Lot, at Memorial Park, mao ang processing fee: Php 5,000.00.\n\nSa iba pang kaso, mao ang taw-an nga panggamiton para sa inspection fee:\n\n* [S1] - Para sa Mall, Condominium, Hotel, Apartment, at Warehouse, mao ang inspection fee: Php 10,000.00.\n* [S2] - Para sa High End, Low End, Farm Lot, at Memorial Park, mao ang inspection fee: Php 5,000.00."
+  ],
+  "contexts": [
+    [
+      "15. Preliminary Subdivision Development Plan (PSDP) and \nDevelopment Permit (DP) for Mall, Condominium, Hotel and \nApartment \nArticle XI Section 1 of the Zoning Ordinance states that the projects that listed below \nare required to secure Preliminary Approval and Locational Clearance (PALC) and \nDevelopment Permit (DP) from the Sangguniang Panlungsod which shall be granted \nthrough a resolution by majority votes of all its members. \n \n(For Mall, Condominium, Warehouse, Hotel, Apartment) \nOffice or Division \nCity",
+      "14. Preliminary Subdivision Development Plan (PSDP) and \nDevelopment Permit (DP) for High End, Low End, Farm Lot and \nMemorial Park \nAn application for subdivision approval based on BP 220, PD 957, and other related \nlaws. Executive Order No. 71, Series of 1993, pursuant to RA 7160, was signed into \nlaw to devolve the powers of the Housing Land Use Regulatory Board to approve \nsubdivision plans to the cities through the City Housing Land Use and Regulatory \nUnit as the technical arm of the Sang",
+      "area bracket indicated in the Table above. \nEach sub-area and the fee corresponding to its area bracket are multiplied together. \nThe building fee is the sum of the individual products as shown in the following \nexample:\nSample Computation for Building Fee for a building having a floor area of 3,200 sq. \nmeters:\nNext 500 sq. meters @ 23.00 …………………………………………….Php   11,500.00\nNext 100 sq. meters @ 22.00.…………………………………………….Php     2,200.00\nNext 100 sq. meters @ 20.50…………………"
+    ]
+  ],
+  "ground_truth": [
+    "Applying for a Preliminary Subdivision Development Plan (PSDP) incurs a processing fee of PHP 360.00 per hectare, and an inspection fee of PHP 1,500.00 per hectare."
+  ]
+}

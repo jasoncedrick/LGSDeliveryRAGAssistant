@@ -1,0 +1,37 @@
+{
+  "status": "ASSEMBLED_DEVELOPMENT_SOURCE_NOT_INDEXED",
+  "pages": 358,
+  "changed_from_staged_v1": [
+    "BFP-PDF0001"
+  ],
+  "unchanged_from_staged_v1": 357,
+  "procedure_source_character_inventory_preserved": true,
+  "nonprocedure_text_preserved_exactly": true,
+  "selected_duplicate_checks_passed": true,
+  "token_validation": {
+    "passed": true,
+    "chunk_count": 67,
+    "source_page_count": 1,
+    "window_tokens": 120,
+    "stride_tokens": 100,
+    "overlap_tokens": 20,
+    "verified_overlap_pairs": 66,
+    "max_embedding_input_tokens": 122,
+    "display_text_retokenized_over_120": 12,
+    "embedding_path": "verified source token IDs; display text is not re-tokenized"
+  },
+  "inputs": {
+    "experiments\\table-repairs-staged-v1\\source_pages.json": "8dbc820b5e307c9c4b5fe49a7fe2452879e4b0dc55dd1f17882cee572552fdca",
+    "experiments\\bfp-panel-review\\poster_corrected.txt": "28e05a5b86450424666f61b9095c489adfa4a441ccb30ead0f1a3c93dc9e8b47",
+    "experiments\\bfp-step2-ocr-review\\procedure_cells.json": "9699f94ac7caf8f080a91b2a28a535f7869d9b4ec84b442d2d75cdeb7f487d98"
+  },
+  "remaining_limits": [
+    "Photographed cylinder microprint is preserved as imagery, not fully transcribed.",
+    "Similar source warnings remain where wording differs; no broad semantic deduplication was applied.",
+    "CTO Ice Crusher missing unit remains unresolved."
+  ],
+  "app_changed": false,
+  "indices_rebuilt": false,
+  "benchmark_accessed": false,
+  "frozen": false
+}

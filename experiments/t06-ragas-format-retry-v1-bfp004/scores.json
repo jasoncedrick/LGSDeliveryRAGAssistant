@@ -1,0 +1,14 @@
+[
+  {
+    "record_id": "SCENARIO-BFP-004-taglish",
+    "generation_status": "ANSWERED",
+    "scores": {
+      "answer_relevancy": 0.3305636286762123
+    },
+    "language": "taglish",
+    "group_id": "SCENARIO-BFP-004",
+    "pillar": "Bureau of Fire Protection",
+    "reference_status": "assistant_source_reviewed",
+    "status": "SCORED"
+  }
+]

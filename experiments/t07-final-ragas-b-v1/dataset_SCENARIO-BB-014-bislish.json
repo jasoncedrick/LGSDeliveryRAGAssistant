@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga espesyal nga rekisitos ug interview para sa mga masahista, bar attendant, ug menor de edad nga magkuha ug Occupational Permit?"
+  ],
+  "answer": [
+    "Ang mga masahista, bar attendant, ug mga menor de edad na magkuha ug Occupational Permit sa Davao City ay kailangan mag-present sa interview. Ito ay nabasa sa [S1] at [S2]. Sa mga 18-20 na taon old, entertainer, masseur, o bar attendant ay nakakapasok sa kondisyon. Ngunit, sa mga menor de edad na walang edad na 18 taon, ang interview ay required."
+  ],
+  "contexts": [
+    [
+      "city.gov.p\nh/, select Create \nApplication for New \nor Occupational \nPermit Renewal for \nRenewal, Fill out \nOnline Application \nForm and upload the \nrequired documents \nenumerated in the \nchecklist.\nNote: \n   If the applicant is an \nentertainer, masseur, \nor bar attendant 18-20 \nyears old, or the \napplicant is below 18 \nyears old, he or she \nmust present \nhimself/herself for an \ninterview.\nProcess Proper:\n2.1Receive application \nform and supporting \ndocuments including \nofficial receipt, and \nverify applicant \ninformation.\n2.2. Conduct interview",
+      "ing \ndocuments including \nofficial receipt, and \nverify applicant \ninformation.\n2.2. Conduct interviews \nif the applicant is an \nentertainer, masseur, \nor bar attendant 18-20 \nyears old, or the \napplicant is below 18 \nyears old.\nNone\n14 Minutes \n(Online and \nOnsite)\nOccupational\nPermit\nSection Head\nand\nOccupational\nPermit\nPersonnel\nBusiness \nBureau",
+      "3.Receive \nOccupational Permit / \nDenied Application\nNote: \n If application is \napproved, proceed to \nhttps://occupationalper\nmit.davaocity.gov.ph/, \nselect Check \nApplication Status, and \ndownload the \nOccupational Permit, or \nproceed to the link \nautomatically sent by \nthe Online \nOccupational Permit \nSystem though e-mail \nor SMS and download \nthe Occupational \nPermit for online \napplicants. Physically \nclaim hard copy of \nOccupational Permit for \nwalk-in applicants.\nIn case of denial, \nreceive returned \ndocuments"
+    ]
+  ],
+  "ground_truth": [
+    "Entertainers, masseurs, and bar attendants aged 18-20, or workers below 18, must present themselves for an interview and submit a PSA Birth Certificate, parent/guardian valid ID with appearance, notarized Affidavit of Consent, and City Health ID."
+  ]
+}

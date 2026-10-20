@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Unsa ang mga papeles ug bayad kung mag-transfer sa pagpanag-iya sa business permit sa Davao?"
+  ],
+  "answer": [
+    "Sa pag-transfer sa pagpanag-iya sa business permit sa Davao, ang mga nakit-an nga papeles ug bayad sa Business Bureau ay nakahimo sa mga source blocks S1 at S3.\n\nSa S1, ang mga papeles na kailangan nga i-submit sa pag-apply sa transfer sa business permit ay ang pre-assessed documents for payment with attached Recommended approval of Application for Additional Line of Business. Ang bayad nga kailangan nga i-bayad ay wala nakit-an sa source block na ito.\n\nSa S3, ang mga papeles na kailangan nga i-submit sa Regulatory Offices ay ang Application for the approval by the Regulatory Offices. Ang bayad nga kailangan nga i-bayad ay wala rin nakit-an sa source block na ito.\n\nWala nakit-an sa source blocks na kung ana nga ang mga bayad nga kailangan nga i-bayad sa pag-transfer sa business permit sa Davao. Ang mga citizen na mag-apply sa transfer sa business permit ay huluban sa Business Bureau upang makita ang mga kailangan nga papeles at bayad sa kanilang kaso.\n\n[S1] Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf | printed page 81 | chunk DEV120-BB-PDF0042-C001\n[S3] Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf | printed page 45 | chunk DEV120-BB-PDF0006-C003"
+  ],
+  "contexts": [
+    [
+      "CLIENT STEPS \nAGENCY \nACTION\nFEES TO BE\nPAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\nSTEP 1: APPLICATION\n1.Submit the pre-\nassessed \ndocuments  for \npayment with \nattached \nRecommended \napproval of \nApplication for \nAdditional Line of \nBusiness and \nReceive the pre-\nassessed and \nencoded \ndocuments  for \npayment with \nattached \nRecommended \napproval of \nApplication for \nAdditional Line of \nBusiness\n1.1.  Encode of \nadditional details \nfrom the RO-\napproved \nAdditional Line of \nBusiness (after \napproval of \nRegulatory \nOffices) \napplication\n1.2. Return the \npre",
+      "TION\nFEES TO BE\nPAID\nPROCESSING\nTIME\nPERSON\nRESPONSIBLE\nSTEP 1: APPLICATION\n1.Submit the pre-\nassessed \ndocuments  for \npayment with \nattached \nRecommended \napproval of \nApplication for \nAdditional Line of \nBusiness and \nReceive the pre-\nassessed and \nencoded \ndocuments  for \npayment with \nattached \nRecommended \napproval of\n1.1. Encode of \nadditional details \nfrom the RO-\napproved Other \nAmendments \n(after approval of \nRegulatory \nOffices) \napplication\n1.2. Return the \npre-assessed \ndocuments to the \nclient for \npayment with \nattached \nRecommended\nNone \n10 Minute",
+      "history, \nAccept and \nForward the \nApplication for \nthe approval by \nthe Regulatory \nOffices.\n- If Complete \nDocumentary \nRequirements \n(with FSIC for \nOccupancy + \nAffidavit of\nNone \n10 Minutes \nLicensing Officer \nBusiness Bureau"
+    ]
+  ],
+  "ground_truth": [
+    "Transfer of business ownership requires an Application for Transfer of Ownership, notarized Deed of Transfer/Sale/Assignment, SPA or Board Resolution, valid IDs, property proof (Tax Declaration/Lease Contract), current original Mayor's Permit, and new DTI/SEC/CDA registration. A PHP 50.00 service fee applies."
+  ]
+}

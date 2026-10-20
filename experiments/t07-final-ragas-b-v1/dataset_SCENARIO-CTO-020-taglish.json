@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Magkano ang bayad sa pagpapatatak ng timbangan at gasoline pumps sa City Treasurer at ano ang multa kapag walang selyo?"
+  ],
+  "answer": [
+    "Sa pagpapatak ng timbangan at gasoline pumps sa City Treasurer, ang bayad ay:\n\n- Per gasoline/diesel pump: 200.00 [S1]\n- Per pump (oil dispenser): 100.00 [S1]\n- Per compartment ng gasoline/diesel at iba pang petroleum products: 100.00 [S1]\n- Para sa bawat re-testing at re-sealing ng weights and measures instruments, including gasoline pumps, outside the office upon request ng owner o operator, magbabayad ng additional service charge of One Hundred Pesos (P 100.00) per instrument [S1]\n\nWalang nakit-an nga impormasyon bahin sa multa kapag walang selyo."
+  ],
+  "contexts": [
+    [
+      "(e) For sealing of gasoline/diesel pumps\nPer pump \nPer pump (oil dispenser)\n200.00 \n100.00\n(f) For sealing of every tanker compartment of gasoline/diesel\nand other petroleum products per compartment \n100.00\n(g) For each and every re-testing and re-sealing of weights and measures\ninstruments including gasoline pumps outside the office upon request of the \nowner or operator, an additional service charge of One Hundred Pesos (P \n100.00) for each instrument shall",
+      "status of the \napplication. If the permit \nis pending / blocked, \ncomply with Regulatory \nOffice requirements and \nregulations. If denied, \nproceed to ROs \ndenying the application \nfor further information. \nClient may still proceed \nto the City Treasurer’s \nOffice for assessment \nand payment of dues.\nand \nregulations.\nSTEP 2: PAYMENT\n2.Proceed to the City \nTreasurer’s Office for \npayment.\n2. Process \nunder City \nTreasurer’s \nOffice\nMayor’s\nPermit Fee is \nbased on the\nasset size\nand nature of\nbusiness\n9 Minutes \nCity Treasurer’s\nOffice",
+      "’s Office for \nassessment and \npayment of dues. If the \npermit is pending / \nblocked, comply with \nRegulatory Office \nrequirements and \nregulations.  If denied, \nproceed to ROs denying \nthe application for \nfurther information. \nClient may still proceed \nto the City Treasurer’s \nOffice for assessment \nand payment of dues.\nALTERNATIVE:\n1.1. Assess \nBusiness \nPermit \nRenewal \nApplication.\n1.2. Printing \nout of \nBusiness \nPermit \nRenewal \nForm and \nreturn \napplicant’s \ndocuments.\n1.3. If the \npermit is \nblocked, \ninform the \nclient to \ncomply with \nRegulatory\nNo"
+    ]
+  ],
+  "ground_truth": [
+    "Weights and measures testing fees are: scales up to 30 kg = PHP 80.00; scales 30-300 kg = PHP 160.00; scales over 3,000 kg = PHP 400.00. Sealing gasoline/diesel pumps is PHP 200.00 per pump. Operating unsealed instruments incurs a 500% surcharge penalty."
+  ]
+}

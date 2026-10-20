@@ -1,0 +1,18 @@
+{
+  "question": [
+    "Kailan ang deadline ng buwanang bayad sa pwesto sa palengke at magkano ang surcharge at interes sa delay?"
+  ],
+  "answer": [
+    "The deadline for paying the market stall fee and the surcharge and interest for delay are not explicitly stated in the provided sources. However, for the surcharge, it is mentioned that there is a surcharge of 500% based on the Registration of weights and measures [S2]. For the interest on delay, it is not specified in the provided sources.\n\nFor the payment deadline, it is not explicitly stated in the provided sources. It is recommended to contact the City Treasurer's Office for the specific payment deadline and any applicable surcharges or interests for delay.\n\n[S2] City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 182 | chunk DEV120-CTO-PDF0027-C004\n[S2] City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf | printed page 216 | chunk DEV120-CTO-PDF0061-C004"
+  ],
+  "contexts": [
+    [
+      "BUREAU  OF FIRE PROTECTION\n(REGIONAL OFFICE)\n(City/Municipal Fire Station)\nBFP CITIZEN'S CHARTER\nPAALALA: “MAHIGPIT NA IPINAGBABAWAL  NG PAMUNUAN NG BUREAU OF FIRE PROTECTION SA MGA KAWANI NITO ANG MAGBENTA O MAGREKOMENDA NG\nANUMANG BRAND NG FIRE EXTINGUISHER”\nOFFICE \n FIRE STATION/OSCP/BOSS\nCLASSIFICATIONS\n1. SIMPLE TRANSACTION -",
+      ", an additional service charge of One Hundred Pesos (P \n100.00) for each instrument shall be collected.\n(h) Surcharge of 500% based on the Registration of weights and measures.",
+      "Revenue\nCollection Clerk \nI (For Events)\nand\nTicket Checker \n(For Cinema)\n3. Pay the\namusement \ntax at \nCounters 1-4, \nPoblacion, or \nassigned \npersonnel at \nCTO District \nOffices.\n3. Issue Official\nReceipts as \nproof of \npayment at \nCounter 23, \nBusiness Tax \nAssessment \nDivision, City \nTreasurer’s \nOffice, \nSangguniang \nPanlungsod.\n3 Minutes \nWindow 1-4,\nLocal Treasury\nOperations\nOfficer I/ Local\nRevenue \nCollection \nOfficer I –\nCity\nTreasurer’s\nOffice\n-or-\nAssigned\nCollectors at \nCTO District"
+    ]
+  ],
+  "ground_truth": [
+    "Monthly market stall rentals are due within the first 20 days of each month. Late payments incur a 25% surcharge on the rental fee plus an interest of 2% per month, not to exceed 36 months."
+  ]
+}
