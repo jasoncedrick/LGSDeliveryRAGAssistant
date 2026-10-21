@@ -1,0 +1,3031 @@
+{
+  "protocol": "Source-annotation span transfer across chunk-boundary changes; whole old span need not fit inside one new window.",
+  "identity_rule": "Same file/page, exact NFC-decomposed letter/digit sequence after removal of exact leading printed-page artifact; protect decimal/percentage signature, require unique occurrence and complete source-character coverage.",
+  "relevance_rule": "New chunk IDs whose source windows intersect an original gold source extent. This preserves the old annotated extent, not newly claim-specific expert labels. Tiny boundary overlaps can broaden relevance; disclose this transfer limitation.",
+  "unresolved_policy": "Keep every query; Hit/MRR null for incomplete group mappings, never a miss or partial-gold score. Generation and reference-based RAGAS still run on all eligible records.",
+  "known_limits": "Not new expert annotation; nine or other unresolved spans remain missing rather than inferred from question/reference/returned results.",
+  "mappings": {
+    "CHUNK-BB-P057-C04": {
+      "legacy_id": "CHUNK-BB-P057-C04",
+      "mapped_ids": [
+        "DEV120-BB-PDF0018-C003",
+        "DEV120-BB-PDF0018-C004",
+        "DEV120-BB-PDF0018-C005"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "BB-PDF0018",
+      "source_char_start": 1402,
+      "source_char_end": 1927,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "390e228de7305071023fad7ea2f2ac3f9f3109aafa5859ec76d5237081696e43",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-BB-PDF0018-C003",
+          "start": 1402,
+          "end": 1486
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0018-C004",
+          "start": 1402,
+          "end": 1917
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0018-C005",
+          "start": 1845,
+          "end": 1927
+        }
+      ]
+    },
+    "CHUNK-BB-P058-C04": {
+      "legacy_id": "CHUNK-BB-P058-C04",
+      "mapped_ids": [
+        "DEV120-BB-PDF0019-C003",
+        "DEV120-BB-PDF0019-C004",
+        "DEV120-BB-PDF0019-C005"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "BB-PDF0019",
+      "source_char_start": 1352,
+      "source_char_end": 1826,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "859086404c6d3e6699d50b834405db2ba69d992591765c979d6d5a676f3a1fd6",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-BB-PDF0019-C003",
+          "start": 1352,
+          "end": 1419
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0019-C004",
+          "start": 1352,
+          "end": 1800
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0019-C005",
+          "start": 1692,
+          "end": 1826
+        }
+      ]
+    },
+    "CHUNK-BB-P059-C02": {
+      "legacy_id": "CHUNK-BB-P059-C02",
+      "mapped_ids": [
+        "DEV120-BB-PDF0020-C001",
+        "DEV120-BB-PDF0020-C002",
+        "DEV120-BB-PDF0020-C003"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "BB-PDF0020",
+      "source_char_start": 476,
+      "source_char_end": 959,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "226b746e05dcb9e889a42263b44cae93c13f8d9e8f33576fc638549ebc33452c",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-BB-PDF0020-C001",
+          "start": 476,
+          "end": 562
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0020-C002",
+          "start": 481,
+          "end": 956
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0020-C003",
+          "start": 865,
+          "end": 959
+        }
+      ]
+    },
+    "CHUNK-BB-P061-C01": {
+      "legacy_id": "CHUNK-BB-P061-C01",
+      "mapped_ids": [
+        "DEV120-BB-PDF0022-C001",
+        "DEV120-BB-PDF0022-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "BB-PDF0022",
+      "source_char_start": 0,
+      "source_char_end": 513,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "928f637f758b0208aabc9bafb7f102d2bca6b030b978220f0aa226b09c0356a1",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-BB-PDF0022-C001",
+          "start": 0,
+          "end": 513
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0022-C002",
+          "start": 431,
+          "end": 513
+        }
+      ]
+    },
+    "CHUNK-BB-P095-C01": {
+      "legacy_id": "CHUNK-BB-P095-C01",
+      "mapped_ids": [
+        "DEV120-BB-PDF0056-C001",
+        "DEV120-BB-PDF0056-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "BB-PDF0056",
+      "source_char_start": 0,
+      "source_char_end": 379,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "8a1afb3c0f92efb69d1745517e921b5651daae2c1f3b9ad77b4ae719bb5e8195",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-BB-PDF0056-C001",
+          "start": 0,
+          "end": 379
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0056-C002",
+          "start": 321,
+          "end": 379
+        }
+      ]
+    },
+    "CHUNK-BB-P096-C01": {
+      "legacy_id": "CHUNK-BB-P096-C01",
+      "mapped_ids": [
+        "DEV120-BB-PDF0057-C001",
+        "DEV120-BB-PDF0057-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "BB-PDF0057",
+      "source_char_start": 0,
+      "source_char_end": 527,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "8a3d41d8822331a18cdf30adf24154f0637ba30086e7f907db8d87a64af45c2e",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-BB-PDF0057-C001",
+          "start": 0,
+          "end": 526
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0057-C002",
+          "start": 439,
+          "end": 527
+        }
+      ]
+    },
+    "CHUNK-BB-P096-C02": {
+      "legacy_id": "CHUNK-BB-P096-C02",
+      "mapped_ids": [
+        "DEV120-BB-PDF0057-C001",
+        "DEV120-BB-PDF0057-C002",
+        "DEV120-BB-PDF0057-C003"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "BB-PDF0057",
+      "source_char_start": 439,
+      "source_char_end": 960,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "ce0af7cd41d9a05a77bfcbe0957fb7e8042037ad9a73c1f3b342730354558445",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-BB-PDF0057-C001",
+          "start": 439,
+          "end": 526
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0057-C002",
+          "start": 439,
+          "end": 945
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0057-C003",
+          "start": 883,
+          "end": 960
+        }
+      ]
+    },
+    "CHUNK-BB-P097-C01": {
+      "legacy_id": "CHUNK-BB-P097-C01",
+      "mapped_ids": [
+        "DEV120-BB-PDF0058-C001",
+        "DEV120-BB-PDF0058-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "BB-PDF0058",
+      "source_char_start": 0,
+      "source_char_end": 478,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "20725bce3192013fb9fbff99e76a3c74907f6269ec917b47dca650558d0a6951",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-BB-PDF0058-C001",
+          "start": 0,
+          "end": 478
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0058-C002",
+          "start": 411,
+          "end": 478
+        }
+      ]
+    },
+    "CHUNK-BB-P101-C01": {
+      "legacy_id": "CHUNK-BB-P101-C01",
+      "mapped_ids": [
+        "DEV120-BB-PDF0062-C001",
+        "DEV120-BB-PDF0062-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "BB-PDF0062",
+      "source_char_start": 0,
+      "source_char_end": 484,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "9a567cb0d8396ff9f337c945428f4555aff5c30ebda2db7fef9d1352cefc61cf",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-BB-PDF0062-C001",
+          "start": 0,
+          "end": 484
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0062-C002",
+          "start": 412,
+          "end": 484
+        }
+      ]
+    },
+    "CHUNK-BB-P102-C02": {
+      "legacy_id": "CHUNK-BB-P102-C02",
+      "mapped_ids": [
+        "DEV120-BB-PDF0063-C001",
+        "DEV120-BB-PDF0063-C002",
+        "DEV120-BB-PDF0063-C003"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "BB-PDF0063",
+      "source_char_start": 338,
+      "source_char_end": 807,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "826e27d07cdf346aa9f7d21b0947deb566abaa41c9c2c75327e5b073930ccf92",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-BB-PDF0063-C001",
+          "start": 338,
+          "end": 403
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0063-C002",
+          "start": 338,
+          "end": 775
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0063-C003",
+          "start": 704,
+          "end": 807
+        }
+      ]
+    },
+    "CHUNK-BB-P102-C03": {
+      "legacy_id": "CHUNK-BB-P102-C03",
+      "mapped_ids": [
+        "DEV120-BB-PDF0063-C002",
+        "DEV120-BB-PDF0063-C003",
+        "DEV120-BB-PDF0063-C004"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "BB-PDF0063",
+      "source_char_start": 726,
+      "source_char_end": 1221,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "ec7f28dc3f3f7164881c5185ff77f0a8827dc2e7917f14487c9a4587f83859bd",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-BB-PDF0063-C002",
+          "start": 726,
+          "end": 775
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0063-C003",
+          "start": 726,
+          "end": 1154
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0063-C004",
+          "start": 1075,
+          "end": 1221
+        }
+      ]
+    },
+    "CHUNK-BB-P104-C01": {
+      "legacy_id": "CHUNK-BB-P104-C01",
+      "mapped_ids": [
+        "DEV120-BB-PDF0065-C001",
+        "DEV120-BB-PDF0065-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "BB-PDF0065",
+      "source_char_start": 0,
+      "source_char_end": 515,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "c644ec4c4655b0d23c22e5f85399da4cbabafdfe6c0d93cc7b9e39a561b029ac",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-BB-PDF0065-C001",
+          "start": 0,
+          "end": 511
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0065-C002",
+          "start": 422,
+          "end": 515
+        }
+      ]
+    },
+    "CHUNK-BB-P104-C04": {
+      "legacy_id": "CHUNK-BB-P104-C04",
+      "mapped_ids": [
+        "DEV120-BB-PDF0065-C003",
+        "DEV120-BB-PDF0065-C004",
+        "DEV120-BB-PDF0065-C005"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "BB-PDF0065",
+      "source_char_start": 1261,
+      "source_char_end": 1726,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "be107807ba72975d4f8c873f26ce1588486d649b693de5c5670c9e31ada8efc8",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-BB-PDF0065-C003",
+          "start": 1261,
+          "end": 1328
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0065-C004",
+          "start": 1261,
+          "end": 1719
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0065-C005",
+          "start": 1648,
+          "end": 1726
+        }
+      ]
+    },
+    "CHUNK-BB-P108-C01": {
+      "legacy_id": "CHUNK-BB-P108-C01",
+      "mapped_ids": [
+        "DEV120-BB-PDF0069-C001",
+        "DEV120-BB-PDF0069-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "BB-PDF0069",
+      "source_char_start": 0,
+      "source_char_end": 526,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "367b8ebe7e3d40c72bb51c7a327a63a29f10a0598befc37555ae2cf70d495779",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-BB-PDF0069-C001",
+          "start": 0,
+          "end": 515
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0069-C002",
+          "start": 419,
+          "end": 526
+        }
+      ]
+    },
+    "CHUNK-BB-P110-C01": {
+      "legacy_id": "CHUNK-BB-P110-C01",
+      "mapped_ids": [
+        "DEV120-BB-PDF0071-C001"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "BB-PDF0071",
+      "source_char_start": 0,
+      "source_char_end": 161,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "3208c85d3ec9dede195d6c4baa4751f173af47ee40a9a5b30dde6ca6326266be",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-BB-PDF0071-C001",
+          "start": 0,
+          "end": 161
+        }
+      ]
+    },
+    "CHUNK-BB-P118-C04": {
+      "legacy_id": "CHUNK-BB-P118-C04",
+      "mapped_ids": [],
+      "status": "UNRESOLVED",
+      "reason": "NO_FULL_SOURCE_IDENTITY"
+    },
+    "CHUNK-BB-P119-C01": {
+      "legacy_id": "CHUNK-BB-P119-C01",
+      "mapped_ids": [
+        "DEV120-BB-PDF0080-C001",
+        "DEV120-BB-PDF0080-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "BB-PDF0080",
+      "source_char_start": 0,
+      "source_char_end": 546,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "e0fd277f89893549abdc395792cfe7242014b620a0508aa7b7ffc8a743ee2227",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-BB-PDF0080-C001",
+          "start": 0,
+          "end": 520
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0080-C002",
+          "start": 433,
+          "end": 546
+        }
+      ]
+    },
+    "CHUNK-BB-P120-C01": {
+      "legacy_id": "CHUNK-BB-P120-C01",
+      "mapped_ids": [
+        "DEV120-BB-PDF0081-C001",
+        "DEV120-BB-PDF0081-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "BB-PDF0081",
+      "source_char_start": 0,
+      "source_char_end": 499,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "71ebf0577845f71c0ccfc4585e9904277dbd99b090c4e83e61a12e112263af7a",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-BB-PDF0081-C001",
+          "start": 0,
+          "end": 499
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0081-C002",
+          "start": 420,
+          "end": 499
+        }
+      ]
+    },
+    "CHUNK-BB-P120-C03": {
+      "legacy_id": "CHUNK-BB-P120-C03",
+      "mapped_ids": [
+        "DEV120-BB-PDF0081-C002",
+        "DEV120-BB-PDF0081-C003",
+        "DEV120-BB-PDF0081-C004"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "BB-PDF0081",
+      "source_char_start": 833,
+      "source_char_end": 1363,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "d26f3153e95fda1483941b04b1afd2c8c08c512f778df0c7a0166ec3f8a7d897",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-BB-PDF0081-C002",
+          "start": 833,
+          "end": 929
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0081-C003",
+          "start": 837,
+          "end": 1363
+        },
+        {
+          "chunk_id": "DEV120-BB-PDF0081-C004",
+          "start": 1279,
+          "end": 1363
+        }
+      ]
+    },
+    "CHUNK-BFP-P001-C07": {
+      "legacy_id": "CHUNK-BFP-P001-C07",
+      "mapped_ids": [
+        "DEV120-BFP-PDF0001-C006",
+        "DEV120-BFP-PDF0001-C007",
+        "DEV120-BFP-PDF0001-C008"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "BFP-PDF0001",
+      "source_char_start": 2225,
+      "source_char_end": 2740,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "9f4e77d25adcd1ae148f62a4d50175e086e01d858ec4bd5c21c9fb7e1cbf4bc4",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-BFP-PDF0001-C006",
+          "start": 2225,
+          "end": 2281
+        },
+        {
+          "chunk_id": "DEV120-BFP-PDF0001-C007",
+          "start": 2225,
+          "end": 2666
+        },
+        {
+          "chunk_id": "DEV120-BFP-PDF0001-C008",
+          "start": 2588,
+          "end": 2740
+        }
+      ]
+    },
+    "CHUNK-BFP-P001-C08": {
+      "legacy_id": "CHUNK-BFP-P001-C08",
+      "mapped_ids": [],
+      "status": "UNRESOLVED",
+      "reason": "NO_FULL_SOURCE_IDENTITY"
+    },
+    "CHUNK-BFP-P001-C09": {
+      "legacy_id": "CHUNK-BFP-P001-C09",
+      "mapped_ids": [],
+      "status": "UNRESOLVED",
+      "reason": "NO_FULL_SOURCE_IDENTITY"
+    },
+    "CHUNK-BFP-P001-C10": {
+      "legacy_id": "CHUNK-BFP-P001-C10",
+      "mapped_ids": [
+        "DEV120-BFP-PDF0001-C017",
+        "DEV120-BFP-PDF0001-C018",
+        "DEV120-BFP-PDF0001-C019"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "BFP-PDF0001",
+      "source_char_start": 6228,
+      "source_char_end": 6700,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "881afd7fe833c4e1f7cb0ffc1ec22650c5dcfa7bb55c7aa51de5aa3dc7474d1b",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-BFP-PDF0001-C017",
+          "start": 6228,
+          "end": 6377
+        },
+        {
+          "chunk_id": "DEV120-BFP-PDF0001-C018",
+          "start": 6283,
+          "end": 6700
+        },
+        {
+          "chunk_id": "DEV120-BFP-PDF0001-C019",
+          "start": 6691,
+          "end": 6700
+        }
+      ]
+    },
+    "CHUNK-BFP-P001-C12": {
+      "legacy_id": "CHUNK-BFP-P001-C12",
+      "mapped_ids": [
+        "DEV120-BFP-PDF0001-C019",
+        "DEV120-BFP-PDF0001-C020",
+        "DEV120-BFP-PDF0001-C021"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "BFP-PDF0001",
+      "source_char_start": 6994,
+      "source_char_end": 7407,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "be05eb89de33583e96566afcb2269ff9e0cb6b12d1a5572c9e88d1e863bdde53",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-BFP-PDF0001-C019",
+          "start": 6994,
+          "end": 7127
+        },
+        {
+          "chunk_id": "DEV120-BFP-PDF0001-C020",
+          "start": 7064,
+          "end": 7407
+        },
+        {
+          "chunk_id": "DEV120-BFP-PDF0001-C021",
+          "start": 7401,
+          "end": 7407
+        }
+      ]
+    },
+    "CHUNK-BFP-P001-C14": {
+      "legacy_id": "CHUNK-BFP-P001-C14",
+      "mapped_ids": [],
+      "status": "UNRESOLVED",
+      "reason": "NO_FULL_SOURCE_IDENTITY"
+    },
+    "CHUNK-BFP-P001-C15": {
+      "legacy_id": "CHUNK-BFP-P001-C15",
+      "mapped_ids": [],
+      "status": "UNRESOLVED",
+      "reason": "NO_FULL_SOURCE_IDENTITY"
+    },
+    "CHUNK-BFP-P001-C19": {
+      "legacy_id": "CHUNK-BFP-P001-C19",
+      "mapped_ids": [],
+      "status": "UNRESOLVED",
+      "reason": "NO_FULL_SOURCE_IDENTITY"
+    },
+    "CHUNK-BFP-P001-C20": {
+      "legacy_id": "CHUNK-BFP-P001-C20",
+      "mapped_ids": [
+        "DEV120-BFP-PDF0001-C021",
+        "DEV120-BFP-PDF0001-C022",
+        "DEV120-BFP-PDF0001-C023"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "BFP-PDF0001",
+      "source_char_start": 7727,
+      "source_char_end": 8082,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "da2759fea06c2ed9c4d3ba3b9fe64bbc1fd9a26695e0643adc970265a6d9d8a4",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-BFP-PDF0001-C021",
+          "start": 7727,
+          "end": 7790
+        },
+        {
+          "chunk_id": "DEV120-BFP-PDF0001-C022",
+          "start": 7733,
+          "end": 8082
+        },
+        {
+          "chunk_id": "DEV120-BFP-PDF0001-C023",
+          "start": 8022,
+          "end": 8082
+        }
+      ]
+    },
+    "CHUNK-BFP-P001-C25": {
+      "legacy_id": "CHUNK-BFP-P001-C25",
+      "mapped_ids": [],
+      "status": "UNRESOLVED",
+      "reason": "NO_FULL_SOURCE_IDENTITY"
+    },
+    "CHUNK-BFP-P001-C27": {
+      "legacy_id": "CHUNK-BFP-P001-C27",
+      "mapped_ids": [
+        "DEV120-BFP-PDF0001-C046",
+        "DEV120-BFP-PDF0001-C047"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "BFP-PDF0001",
+      "source_char_start": 16488,
+      "source_char_end": 16955,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "809f959fd0be2f022ce6413b19d4dcc2051b1c7f001adbb3748933c91c28d756",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-BFP-PDF0001-C046",
+          "start": 16488,
+          "end": 16669
+        },
+        {
+          "chunk_id": "DEV120-BFP-PDF0001-C047",
+          "start": 16596,
+          "end": 16955
+        }
+      ]
+    },
+    "CHUNK-BFP-P001-C28": {
+      "legacy_id": "CHUNK-BFP-P001-C28",
+      "mapped_ids": [
+        "DEV120-BFP-PDF0001-C047",
+        "DEV120-BFP-PDF0001-C048"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "BFP-PDF0001",
+      "source_char_start": 16856,
+      "source_char_end": 17411,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "fd953091e142dedab2e5ae72e8e8013b62fabb6cda7b422306295776297d673b",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-BFP-PDF0001-C047",
+          "start": 16856,
+          "end": 17099
+        },
+        {
+          "chunk_id": "DEV120-BFP-PDF0001-C048",
+          "start": 16999,
+          "end": 17411
+        }
+      ]
+    },
+    "CHUNK-BFP-P001-C32": {
+      "legacy_id": "CHUNK-BFP-P001-C32",
+      "mapped_ids": [
+        "DEV120-BFP-PDF0001-C051",
+        "DEV120-BFP-PDF0001-C052"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "BFP-PDF0001",
+      "source_char_start": 18505,
+      "source_char_end": 19046,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "016e14d1bcdafb4bcdfa17bd8e82fe869472ee1049654fdba578e6a3fc96da6e",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-BFP-PDF0001-C051",
+          "start": 18505,
+          "end": 18700
+        },
+        {
+          "chunk_id": "DEV120-BFP-PDF0001-C052",
+          "start": 18604,
+          "end": 19046
+        }
+      ]
+    },
+    "CHUNK-CPDO-P634-C01": {
+      "legacy_id": "CHUNK-CPDO-P634-C01",
+      "mapped_ids": [
+        "DEV120-CPDO-PDF0005-C001",
+        "DEV120-CPDO-PDF0005-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CPDO-PDF0005",
+      "source_char_start": 0,
+      "source_char_end": 506,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "a809a11fe0ef0933ed2f82d3ff85368a748202c5d1ae0c6124ee60635982f751",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CPDO-PDF0005-C001",
+          "start": 0,
+          "end": 506
+        },
+        {
+          "chunk_id": "DEV120-CPDO-PDF0005-C002",
+          "start": 414,
+          "end": 506
+        }
+      ]
+    },
+    "CHUNK-CPDO-P637-C01": {
+      "legacy_id": "CHUNK-CPDO-P637-C01",
+      "mapped_ids": [
+        "DEV120-CPDO-PDF0008-C001",
+        "DEV120-CPDO-PDF0008-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CPDO-PDF0008",
+      "source_char_start": 0,
+      "source_char_end": 505,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "83da5ac435fe27c1e3cf3599c6c67916f4af364cfca774fba2b656ce7fa19ca2",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CPDO-PDF0008-C001",
+          "start": 0,
+          "end": 505
+        },
+        {
+          "chunk_id": "DEV120-CPDO-PDF0008-C002",
+          "start": 414,
+          "end": 505
+        }
+      ]
+    },
+    "CHUNK-CPDO-P648-C01": {
+      "legacy_id": "CHUNK-CPDO-P648-C01",
+      "mapped_ids": [
+        "DEV120-CPDO-PDF0019-C001",
+        "DEV120-CPDO-PDF0019-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CPDO-PDF0019",
+      "source_char_start": 0,
+      "source_char_end": 549,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "d7419488427121a9a02c7e925e4f2630453d108e37741851427f9fefa1013657",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CPDO-PDF0019-C001",
+          "start": 0,
+          "end": 549
+        },
+        {
+          "chunk_id": "DEV120-CPDO-PDF0019-C002",
+          "start": 455,
+          "end": 549
+        }
+      ]
+    },
+    "CHUNK-CPDO-P662-C01": {
+      "legacy_id": "CHUNK-CPDO-P662-C01",
+      "mapped_ids": [
+        "DEV120-CPDO-PDF0033-C001",
+        "DEV120-CPDO-PDF0033-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CPDO-PDF0033",
+      "source_char_start": 0,
+      "source_char_end": 570,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "4fea04d189123130fe891a6d796f9fe9b8521f75997ac7dc7f7547dd0e1e3e0b",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CPDO-PDF0033-C001",
+          "start": 0,
+          "end": 570
+        },
+        {
+          "chunk_id": "DEV120-CPDO-PDF0033-C002",
+          "start": 489,
+          "end": 570
+        }
+      ]
+    },
+    "CHUNK-CPDO-P670-C01": {
+      "legacy_id": "CHUNK-CPDO-P670-C01",
+      "mapped_ids": [
+        "DEV120-CPDO-PDF0041-C001",
+        "DEV120-CPDO-PDF0041-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CPDO-PDF0041",
+      "source_char_start": 0,
+      "source_char_end": 601,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "9a51f5c355941769abfdbeaf094b5e800a39f084da863b114f65b5e72f742d72",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CPDO-PDF0041-C001",
+          "start": 0,
+          "end": 593
+        },
+        {
+          "chunk_id": "DEV120-CPDO-PDF0041-C002",
+          "start": 497,
+          "end": 601
+        }
+      ]
+    },
+    "CHUNK-CPDO-P685-C01": {
+      "legacy_id": "CHUNK-CPDO-P685-C01",
+      "mapped_ids": [
+        "DEV120-CPDO-PDF0056-C001",
+        "DEV120-CPDO-PDF0056-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CPDO-PDF0056",
+      "source_char_start": 0,
+      "source_char_end": 513,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "4a6f280626e2a114350530e1af9f35f473289b333c6fbf176f2df91198e2ce4c",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CPDO-PDF0056-C001",
+          "start": 0,
+          "end": 513
+        },
+        {
+          "chunk_id": "DEV120-CPDO-PDF0056-C002",
+          "start": 428,
+          "end": 513
+        }
+      ]
+    },
+    "CHUNK-CPDO-P686-C02": {
+      "legacy_id": "CHUNK-CPDO-P686-C02",
+      "mapped_ids": [
+        "DEV120-CPDO-PDF0057-C001",
+        "DEV120-CPDO-PDF0057-C002",
+        "DEV120-CPDO-PDF0057-C003"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CPDO-PDF0057",
+      "source_char_start": 476,
+      "source_char_end": 1029,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "e7273bcdbabc36668b9c5cbace98c354399aa474a62d252d13b445dd32f7dc7a",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CPDO-PDF0057-C001",
+          "start": 476,
+          "end": 569
+        },
+        {
+          "chunk_id": "DEV120-CPDO-PDF0057-C002",
+          "start": 479,
+          "end": 1029
+        },
+        {
+          "chunk_id": "DEV120-CPDO-PDF0057-C003",
+          "start": 963,
+          "end": 1029
+        }
+      ]
+    },
+    "CHUNK-CPDO-P699-C01": {
+      "legacy_id": "CHUNK-CPDO-P699-C01",
+      "mapped_ids": [
+        "DEV120-CPDO-PDF0070-C001",
+        "DEV120-CPDO-PDF0070-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CPDO-PDF0070",
+      "source_char_start": 0,
+      "source_char_end": 562,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "4536a3398d08438a3ac909767ebc4953a8781c3ddb163ee055dc3cd93c2304eb",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CPDO-PDF0070-C001",
+          "start": 0,
+          "end": 548
+        },
+        {
+          "chunk_id": "DEV120-CPDO-PDF0070-C002",
+          "start": 464,
+          "end": 562
+        }
+      ]
+    },
+    "CHUNK-CPDO-P704-C01": {
+      "legacy_id": "CHUNK-CPDO-P704-C01",
+      "mapped_ids": [
+        "DEV120-CPDO-PDF0075-C001",
+        "DEV120-CPDO-PDF0075-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CPDO-PDF0075",
+      "source_char_start": 0,
+      "source_char_end": 490,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "d111f991b8c70ed4fa02e347c89f09e0e2fdf771adf5b517febe79157c341412",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CPDO-PDF0075-C001",
+          "start": 0,
+          "end": 490
+        },
+        {
+          "chunk_id": "DEV120-CPDO-PDF0075-C002",
+          "start": 401,
+          "end": 490
+        }
+      ]
+    },
+    "CHUNK-CPDO-P707-C01": {
+      "legacy_id": "CHUNK-CPDO-P707-C01",
+      "mapped_ids": [
+        "DEV120-CPDO-PDF0078-C001",
+        "DEV120-CPDO-PDF0078-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CPDO-PDF0078",
+      "source_char_start": 1,
+      "source_char_end": 500,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "d621a8cfc5d8f55a4b5d30d67243eef8ddd172b85e4e0918c201e0170220bd65",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CPDO-PDF0078-C001",
+          "start": 1,
+          "end": 500
+        },
+        {
+          "chunk_id": "DEV120-CPDO-PDF0078-C002",
+          "start": 444,
+          "end": 500
+        }
+      ]
+    },
+    "CHUNK-CPDO-P707-C03": {
+      "legacy_id": "CHUNK-CPDO-P707-C03",
+      "mapped_ids": [
+        "DEV120-CPDO-PDF0078-C002",
+        "DEV120-CPDO-PDF0078-C003"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CPDO-PDF0078",
+      "source_char_start": 853,
+      "source_char_end": 1119,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "ab95473b7ccf9b1a64c38b056bb4903980b4749f33279313df8a14f5c8241ed8",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CPDO-PDF0078-C002",
+          "start": 853,
+          "end": 953
+        },
+        {
+          "chunk_id": "DEV120-CPDO-PDF0078-C003",
+          "start": 855,
+          "end": 1119
+        }
+      ]
+    },
+    "CHUNK-CPDO-P714-C01": {
+      "legacy_id": "CHUNK-CPDO-P714-C01",
+      "mapped_ids": [
+        "DEV120-CPDO-PDF0085-C001",
+        "DEV120-CPDO-PDF0085-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CPDO-PDF0085",
+      "source_char_start": 0,
+      "source_char_end": 501,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "e4c6392aa940ca9078735ec609418aaf3cbb8f0d4b5964b4f064c991e3a81457",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CPDO-PDF0085-C001",
+          "start": 0,
+          "end": 501
+        },
+        {
+          "chunk_id": "DEV120-CPDO-PDF0085-C002",
+          "start": 433,
+          "end": 501
+        }
+      ]
+    },
+    "CHUNK-CPDO-P716-C04": {
+      "legacy_id": "CHUNK-CPDO-P716-C04",
+      "mapped_ids": [
+        "DEV120-CPDO-PDF0087-C003",
+        "DEV120-CPDO-PDF0087-C004"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CPDO-PDF0087",
+      "source_char_start": 1376,
+      "source_char_end": 1893,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "648739c7f0181548b93057f4bb05dc2337616a79e0267a0d28691a2bfbe5c11f",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CPDO-PDF0087-C003",
+          "start": 1376,
+          "end": 1479
+        },
+        {
+          "chunk_id": "DEV120-CPDO-PDF0087-C004",
+          "start": 1376,
+          "end": 1893
+        }
+      ]
+    },
+    "CHUNK-CPDO-P724-C01": {
+      "legacy_id": "CHUNK-CPDO-P724-C01",
+      "mapped_ids": [
+        "DEV120-CPDO-PDF0095-C001",
+        "DEV120-CPDO-PDF0095-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CPDO-PDF0095",
+      "source_char_start": 0,
+      "source_char_end": 549,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "f33ac65d9b56f0fb81b389d0963db5ef48d4dde214a7fcf4e725f165762d3eb1",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CPDO-PDF0095-C001",
+          "start": 0,
+          "end": 541
+        },
+        {
+          "chunk_id": "DEV120-CPDO-PDF0095-C002",
+          "start": 445,
+          "end": 549
+        }
+      ]
+    },
+    "CHUNK-CPDO-P731-C01": {
+      "legacy_id": "CHUNK-CPDO-P731-C01",
+      "mapped_ids": [],
+      "status": "UNRESOLVED",
+      "reason": "NO_FULL_SOURCE_IDENTITY"
+    },
+    "CHUNK-CTO-P034-C01": {
+      "legacy_id": "CHUNK-CTO-P034-C01",
+      "mapped_ids": [],
+      "status": "UNRESOLVED",
+      "reason": "NO_FULL_SOURCE_IDENTITY"
+    },
+    "CHUNK-CTO-P162-C01": {
+      "legacy_id": "CHUNK-CTO-P162-C01",
+      "mapped_ids": [
+        "DEV120-CTO-PDF0007-C001",
+        "DEV120-CTO-PDF0007-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CTO-PDF0007",
+      "source_char_start": 0,
+      "source_char_end": 489,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "2dfed415a95c4be466dd42a208896b569c44352106179d95b8fbaf0069cf3da4",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CTO-PDF0007-C001",
+          "start": 0,
+          "end": 484
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0007-C002",
+          "start": 416,
+          "end": 489
+        }
+      ]
+    },
+    "CHUNK-CTO-P164-C02": {
+      "legacy_id": "CHUNK-CTO-P164-C02",
+      "mapped_ids": [
+        "DEV120-CTO-PDF0009-C001",
+        "DEV120-CTO-PDF0009-C002",
+        "DEV120-CTO-PDF0009-C003"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CTO-PDF0009",
+      "source_char_start": 470,
+      "source_char_end": 961,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "758ea8062f4f92f47cdaa1029846c8aefb45d6748fb42b7e6ba5f853dc34057e",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CTO-PDF0009-C001",
+          "start": 470,
+          "end": 543
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0009-C002",
+          "start": 470,
+          "end": 936
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0009-C003",
+          "start": 845,
+          "end": 961
+        }
+      ]
+    },
+    "CHUNK-CTO-P167-C01": {
+      "legacy_id": "CHUNK-CTO-P167-C01",
+      "mapped_ids": [
+        "DEV120-CTO-PDF0012-C001",
+        "DEV120-CTO-PDF0012-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CTO-PDF0012",
+      "source_char_start": 0,
+      "source_char_end": 485,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "5bf956feb5a6e7833dc8a82cafe3c47cd5fadc98988dbbe828eabaeeab5341db",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CTO-PDF0012-C001",
+          "start": 0,
+          "end": 475
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0012-C002",
+          "start": 406,
+          "end": 485
+        }
+      ]
+    },
+    "CHUNK-CTO-P167-C03": {
+      "legacy_id": "CHUNK-CTO-P167-C03",
+      "mapped_ids": [
+        "DEV120-CTO-PDF0012-C002",
+        "DEV120-CTO-PDF0012-C003",
+        "DEV120-CTO-PDF0012-C004"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CTO-PDF0012",
+      "source_char_start": 819,
+      "source_char_end": 1355,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "b6d3e924c08ce05f430f0aee8399e70a412c4869f459b68d4a72711865fdf6a1",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CTO-PDF0012-C002",
+          "start": 819,
+          "end": 904
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0012-C003",
+          "start": 819,
+          "end": 1344
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0012-C004",
+          "start": 1257,
+          "end": 1355
+        }
+      ]
+    },
+    "CHUNK-CTO-P179-C02": {
+      "legacy_id": "CHUNK-CTO-P179-C02",
+      "mapped_ids": [
+        "DEV120-CTO-PDF0024-C001",
+        "DEV120-CTO-PDF0024-C002",
+        "DEV120-CTO-PDF0024-C003"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CTO-PDF0024",
+      "source_char_start": 428,
+      "source_char_end": 851,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "6e806f11d69c06a00ebb9bbc15b15bae4fd5b00c57136d3f6406edfc598501e7",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CTO-PDF0024-C001",
+          "start": 428,
+          "end": 517
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0024-C002",
+          "start": 428,
+          "end": 851
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0024-C003",
+          "start": 765,
+          "end": 851
+        }
+      ]
+    },
+    "CHUNK-CTO-P186-C03": {
+      "legacy_id": "CHUNK-CTO-P186-C03",
+      "mapped_ids": [
+        "DEV120-CTO-PDF0020-C002",
+        "DEV120-CTO-PDF0020-C003",
+        "DEV120-CTO-PDF0020-C004"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CTO-PDF0020",
+      "source_char_start": 871,
+      "source_char_end": 1406,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "07e297876e18ca755f0211851478cf6abe56a930faf7121db30c53854cef767e",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CTO-PDF0020-C002",
+          "start": 871,
+          "end": 967
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0020-C003",
+          "start": 871,
+          "end": 1396
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0020-C004",
+          "start": 1318,
+          "end": 1406
+        }
+      ]
+    },
+    "CHUNK-CTO-P191-C01": {
+      "legacy_id": "CHUNK-CTO-P191-C01",
+      "mapped_ids": [
+        "DEV120-CTO-PDF0036-C001",
+        "DEV120-CTO-PDF0036-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CTO-PDF0036",
+      "source_char_start": 2,
+      "source_char_end": 462,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "137f9f0a01b30bf47ccc5623b1e521db90a4dd0dec59990e9cf1e6fc9cee6287",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CTO-PDF0036-C001",
+          "start": 2,
+          "end": 450
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0036-C002",
+          "start": 372,
+          "end": 462
+        }
+      ]
+    },
+    "CHUNK-CTO-P196-C03": {
+      "legacy_id": "CHUNK-CTO-P196-C03",
+      "mapped_ids": [
+        "DEV120-CTO-PDF0041-C002",
+        "DEV120-CTO-PDF0041-C003"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CTO-PDF0041",
+      "source_char_start": 797,
+      "source_char_end": 1255,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "1c01a5b1384ce05fbd03800c52723f758fe9240f7d0f9ac842f2b263916c2d87",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CTO-PDF0041-C002",
+          "start": 797,
+          "end": 885
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0041-C003",
+          "start": 797,
+          "end": 1255
+        }
+      ]
+    },
+    "CHUNK-CTO-P198-C02": {
+      "legacy_id": "CHUNK-CTO-P198-C02",
+      "mapped_ids": [
+        "DEV120-CTO-PDF0043-C001",
+        "DEV120-CTO-PDF0043-C002",
+        "DEV120-CTO-PDF0043-C003"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CTO-PDF0043",
+      "source_char_start": 442,
+      "source_char_end": 889,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "2a7c63db6a3cf095c83c5c084eb7d1c73aaf7aea9e598cfebaef08cb08c5e668",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CTO-PDF0043-C001",
+          "start": 442,
+          "end": 540
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0043-C002",
+          "start": 442,
+          "end": 889
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0043-C003",
+          "start": 825,
+          "end": 889
+        }
+      ]
+    },
+    "CHUNK-CTO-P198-C03": {
+      "legacy_id": "CHUNK-CTO-P198-C03",
+      "mapped_ids": [
+        "DEV120-CTO-PDF0043-C002",
+        "DEV120-CTO-PDF0043-C003",
+        "DEV120-CTO-PDF0043-C004"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CTO-PDF0043",
+      "source_char_start": 825,
+      "source_char_end": 1308,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "a179eb1678007f3030b7f941f6238dd566835aa41198da1cc1387ad329d4e4aa",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CTO-PDF0043-C002",
+          "start": 825,
+          "end": 889
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0043-C003",
+          "start": 825,
+          "end": 1308
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0043-C004",
+          "start": 1231,
+          "end": 1308
+        }
+      ]
+    },
+    "CHUNK-CTO-P200-C01": {
+      "legacy_id": "CHUNK-CTO-P200-C01",
+      "mapped_ids": [
+        "DEV120-CTO-PDF0045-C001",
+        "DEV120-CTO-PDF0045-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CTO-PDF0045",
+      "source_char_start": 0,
+      "source_char_end": 473,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "fb8156a8c6a010d2bc2ec0122f4998365837d9b087262537b1b9e267fa33890e",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CTO-PDF0045-C001",
+          "start": 0,
+          "end": 473
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0045-C002",
+          "start": 398,
+          "end": 473
+        }
+      ]
+    },
+    "CHUNK-CTO-P210-C03": {
+      "legacy_id": "CHUNK-CTO-P210-C03",
+      "mapped_ids": [
+        "DEV120-CTO-PDF0055-C002",
+        "DEV120-CTO-PDF0055-C003",
+        "DEV120-CTO-PDF0055-C004"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CTO-PDF0055",
+      "source_char_start": 815,
+      "source_char_end": 1280,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "d3fdb25db02df04ce475277da9c51980beaa169205ee8f3af1c154dd6270e0c6",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CTO-PDF0055-C002",
+          "start": 815,
+          "end": 879
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0055-C003",
+          "start": 815,
+          "end": 1280
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0055-C004",
+          "start": 1221,
+          "end": 1280
+        }
+      ]
+    },
+    "CHUNK-CTO-P211-C02": {
+      "legacy_id": "CHUNK-CTO-P211-C02",
+      "mapped_ids": [
+        "DEV120-CTO-PDF0056-C001",
+        "DEV120-CTO-PDF0056-C002",
+        "DEV120-CTO-PDF0056-C003"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CTO-PDF0056",
+      "source_char_start": 341,
+      "source_char_end": 847,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "0a7695d605b0652a4277b69a94d6ffe35cc6b4de7d1f7ed5143c4ecf0c49124f",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CTO-PDF0056-C001",
+          "start": 341,
+          "end": 438
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0056-C002",
+          "start": 345,
+          "end": 847
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0056-C003",
+          "start": 754,
+          "end": 847
+        }
+      ]
+    },
+    "CHUNK-CTO-P211-C04": {
+      "legacy_id": "CHUNK-CTO-P211-C04",
+      "mapped_ids": [
+        "DEV120-CTO-PDF0056-C003",
+        "DEV120-CTO-PDF0056-C004",
+        "DEV120-CTO-PDF0056-C005"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CTO-PDF0056",
+      "source_char_start": 1150,
+      "source_char_end": 1605,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "46367e715b4000f54adf8001cdbf2d1342fdfbe2dcd73eec22fe164c88200e31",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CTO-PDF0056-C003",
+          "start": 1150,
+          "end": 1227
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0056-C004",
+          "start": 1155,
+          "end": 1605
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0056-C005",
+          "start": 1519,
+          "end": 1605
+        }
+      ]
+    },
+    "CHUNK-CTO-P212-C04": {
+      "legacy_id": "CHUNK-CTO-P212-C04",
+      "mapped_ids": [
+        "DEV120-CTO-PDF0057-C003",
+        "DEV120-CTO-PDF0057-C004",
+        "DEV120-CTO-PDF0057-C005"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CTO-PDF0057",
+      "source_char_start": 1183,
+      "source_char_end": 1689,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "fa6a4be6d45cdb2b1460448eb1d3137d3efc0bfc5305adb40cca78096416c56d",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CTO-PDF0057-C003",
+          "start": 1183,
+          "end": 1279
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0057-C004",
+          "start": 1188,
+          "end": 1689
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0057-C005",
+          "start": 1620,
+          "end": 1689
+        }
+      ]
+    },
+    "CHUNK-CTO-P213-C01": {
+      "legacy_id": "CHUNK-CTO-P213-C01",
+      "mapped_ids": [
+        "DEV120-CTO-PDF0058-C001",
+        "DEV120-CTO-PDF0058-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CTO-PDF0058",
+      "source_char_start": 0,
+      "source_char_end": 571,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "743fa34c493b8b320d1480fed782fc3a6d1a4ca62a87e9db9a4a3fa05c5fdcf4",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CTO-PDF0058-C001",
+          "start": 0,
+          "end": 571
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0058-C002",
+          "start": 490,
+          "end": 571
+        }
+      ]
+    },
+    "CHUNK-CTO-P213-C03": {
+      "legacy_id": "CHUNK-CTO-P213-C03",
+      "mapped_ids": [
+        "DEV120-CTO-PDF0058-C002",
+        "DEV120-CTO-PDF0058-C003",
+        "DEV120-CTO-PDF0058-C004"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CTO-PDF0058",
+      "source_char_start": 901,
+      "source_char_end": 1437,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "87d4e19f64613b8cd2a4c444f5647635b6329f33ddf1e4a796966ba921144c30",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CTO-PDF0058-C002",
+          "start": 901,
+          "end": 994
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0058-C003",
+          "start": 906,
+          "end": 1437
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0058-C004",
+          "start": 1361,
+          "end": 1437
+        }
+      ]
+    },
+    "CHUNK-CTO-P213-C04": {
+      "legacy_id": "CHUNK-CTO-P213-C04",
+      "mapped_ids": [
+        "DEV120-CTO-PDF0058-C003",
+        "DEV120-CTO-PDF0058-C004",
+        "DEV120-CTO-PDF0058-C005"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CTO-PDF0058",
+      "source_char_start": 1356,
+      "source_char_end": 1852,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "a3c26e28048748db6e9b06a7b58c6703814fd64642c2386433110ffe920a648d",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CTO-PDF0058-C003",
+          "start": 1356,
+          "end": 1440
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0058-C004",
+          "start": 1361,
+          "end": 1852
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0058-C005",
+          "start": 1759,
+          "end": 1852
+        }
+      ]
+    },
+    "CHUNK-CTO-P214-C01": {
+      "legacy_id": "CHUNK-CTO-P214-C01",
+      "mapped_ids": [
+        "DEV120-CTO-PDF0059-C001",
+        "DEV120-CTO-PDF0059-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CTO-PDF0059",
+      "source_char_start": 0,
+      "source_char_end": 408,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "42c89307bf401df31c0c1158d8fa21a3edd5f8e16b5b41029990846e03731798",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CTO-PDF0059-C001",
+          "start": 0,
+          "end": 408
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0059-C002",
+          "start": 345,
+          "end": 408
+        }
+      ]
+    },
+    "CHUNK-CTO-P214-C05": {
+      "legacy_id": "CHUNK-CTO-P214-C05",
+      "mapped_ids": [],
+      "status": "UNRESOLVED",
+      "reason": "NUMERIC_SIGNATURE_MISMATCH"
+    },
+    "CHUNK-CTO-P215-C01": {
+      "legacy_id": "CHUNK-CTO-P215-C01",
+      "mapped_ids": [
+        "DEV120-CTO-PDF0060-C001",
+        "DEV120-CTO-PDF0060-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CTO-PDF0060",
+      "source_char_start": 0,
+      "source_char_end": 420,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "047746accdb5dcd8bc12a3ae93aa0bf13de100132cdc9223cd635399ab5ed7df",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CTO-PDF0060-C001",
+          "start": 0,
+          "end": 420
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0060-C002",
+          "start": 352,
+          "end": 420
+        }
+      ]
+    },
+    "CHUNK-CTO-P217-C02": {
+      "legacy_id": "CHUNK-CTO-P217-C02",
+      "mapped_ids": [
+        "DEV120-CTO-PDF0062-C001",
+        "DEV120-CTO-PDF0062-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "CTO-PDF0062",
+      "source_char_start": 424,
+      "source_char_end": 829,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "6b991acdd007a35b2f14d770056424b67b37039ebc639569c66899c286cdb5d8",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-CTO-PDF0062-C001",
+          "start": 424,
+          "end": 520
+        },
+        {
+          "chunk_id": "DEV120-CTO-PDF0062-C002",
+          "start": 424,
+          "end": 829
+        }
+      ]
+    },
+    "CHUNK-OCBO-P501-C04": {
+      "legacy_id": "CHUNK-OCBO-P501-C04",
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0013-C003",
+        "DEV120-OCBO-PDF0013-C004",
+        "DEV120-OCBO-PDF0013-C005"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "OCBO-PDF0013",
+      "source_char_start": 1282,
+      "source_char_end": 1797,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "fd4367357bce0eabfdfbfd142b99d700a47b3b185b817ca4c1a5bc699306ab2a",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0013-C003",
+          "start": 1282,
+          "end": 1355
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0013-C004",
+          "start": 1282,
+          "end": 1791
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0013-C005",
+          "start": 1727,
+          "end": 1797
+        }
+      ]
+    },
+    "CHUNK-OCBO-P530-C01": {
+      "legacy_id": "CHUNK-OCBO-P530-C01",
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0042-C001",
+        "DEV120-OCBO-PDF0042-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "OCBO-PDF0042",
+      "source_char_start": 0,
+      "source_char_end": 456,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "813a2d6474bee2b7686c82e78f9b34fc83fe19624c40cde742846f71746a3be2",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0042-C001",
+          "start": 0,
+          "end": 456
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0042-C002",
+          "start": 377,
+          "end": 456
+        }
+      ]
+    },
+    "CHUNK-OCBO-P538-C01": {
+      "legacy_id": "CHUNK-OCBO-P538-C01",
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0050-C001",
+        "DEV120-OCBO-PDF0050-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "OCBO-PDF0050",
+      "source_char_start": 0,
+      "source_char_end": 417,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "00fe182c0ef52a1b4f62d344f5cbb7bf70f8d0c9879c7036927ff67cc40fd763",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0050-C001",
+          "start": 0,
+          "end": 417
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0050-C002",
+          "start": 345,
+          "end": 417
+        }
+      ]
+    },
+    "CHUNK-OCBO-P545-C01": {
+      "legacy_id": "CHUNK-OCBO-P545-C01",
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0057-C001"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "OCBO-PDF0057",
+      "source_char_start": 0,
+      "source_char_end": 376,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "e5e6170e78763a91f9ba4f864b9f9a337d83e2cedd2ce33b8e1eddd898133e9a",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0057-C001",
+          "start": 0,
+          "end": 376
+        }
+      ]
+    },
+    "CHUNK-OCBO-P552-C01": {
+      "legacy_id": "CHUNK-OCBO-P552-C01",
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0064-C001"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "OCBO-PDF0064",
+      "source_char_start": 0,
+      "source_char_end": 355,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "7e406844089532e9ecf1bb76c8f8252100f39a2661011630e34be13a01552c8b",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0064-C001",
+          "start": 0,
+          "end": 355
+        }
+      ]
+    },
+    "CHUNK-OCBO-P553-C01": {
+      "legacy_id": "CHUNK-OCBO-P553-C01",
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0065-C001",
+        "DEV120-OCBO-PDF0065-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "OCBO-PDF0065",
+      "source_char_start": 0,
+      "source_char_end": 479,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "4e9a32a5985eb420434e83ef70a37bbba1cbf6a82d45b280ef07475ec87b3c09",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0065-C001",
+          "start": 0,
+          "end": 474
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0065-C002",
+          "start": 408,
+          "end": 479
+        }
+      ]
+    },
+    "CHUNK-OCBO-P559-C01": {
+      "legacy_id": "CHUNK-OCBO-P559-C01",
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0071-C001",
+        "DEV120-OCBO-PDF0071-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "OCBO-PDF0071",
+      "source_char_start": 0,
+      "source_char_end": 441,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "a43c10898b44cf94b82cfb67535d798258a936d96e1c5574b645d737155ec210",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0071-C001",
+          "start": 0,
+          "end": 441
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0071-C002",
+          "start": 360,
+          "end": 441
+        }
+      ]
+    },
+    "CHUNK-OCBO-P566-C02": {
+      "legacy_id": "CHUNK-OCBO-P566-C02",
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0078-C001",
+        "DEV120-OCBO-PDF0078-C002",
+        "DEV120-OCBO-PDF0078-C003"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "OCBO-PDF0078",
+      "source_char_start": 319,
+      "source_char_end": 841,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "2d12a721127da3ac141eb0ddcd4aa7ac3b066d184168ddca02076536c93bf2b0",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0078-C001",
+          "start": 319,
+          "end": 382
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0078-C002",
+          "start": 319,
+          "end": 836
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0078-C003",
+          "start": 768,
+          "end": 841
+        }
+      ]
+    },
+    "CHUNK-OCBO-P567-C01": {
+      "legacy_id": "CHUNK-OCBO-P567-C01",
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0079-C001",
+        "DEV120-OCBO-PDF0079-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "OCBO-PDF0079",
+      "source_char_start": 0,
+      "source_char_end": 489,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "f894185fa689418b907413a3cd7f912bc78ed642785289d25df2091bb4c5df15",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0079-C001",
+          "start": 0,
+          "end": 483
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0079-C002",
+          "start": 408,
+          "end": 489
+        }
+      ]
+    },
+    "CHUNK-OCBO-P574-C02": {
+      "legacy_id": "CHUNK-OCBO-P574-C02",
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0086-C001",
+        "DEV120-OCBO-PDF0086-C002",
+        "DEV120-OCBO-PDF0086-C003"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "OCBO-PDF0086",
+      "source_char_start": 337,
+      "source_char_end": 800,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "244a2da72c0252bc38461058a8106e525a3f58cc2ff15e58bc28944f87bbe83d",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0086-C001",
+          "start": 337,
+          "end": 410
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0086-C002",
+          "start": 352,
+          "end": 800
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0086-C003",
+          "start": 716,
+          "end": 800
+        }
+      ]
+    },
+    "CHUNK-OCBO-P578-C02": {
+      "legacy_id": "CHUNK-OCBO-P578-C02",
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0090-C001",
+        "DEV120-OCBO-PDF0090-C002",
+        "DEV120-OCBO-PDF0090-C003"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "OCBO-PDF0090",
+      "source_char_start": 326,
+      "source_char_end": 774,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "fd9b6cd5211d8c584ec417cd392636799a251b1f9424ec4f01a5a64e71b02d05",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0090-C001",
+          "start": 326,
+          "end": 414
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0090-C002",
+          "start": 332,
+          "end": 774
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0090-C003",
+          "start": 725,
+          "end": 774
+        }
+      ]
+    },
+    "CHUNK-OCBO-P578-C03": {
+      "legacy_id": "CHUNK-OCBO-P578-C03",
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0090-C002",
+        "DEV120-OCBO-PDF0090-C003",
+        "DEV120-OCBO-PDF0090-C004"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "OCBO-PDF0090",
+      "source_char_start": 718,
+      "source_char_end": 1054,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "425f0b17cf944cebff3d57882808a95acfc73668e96a112d96a1017e12d49756",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0090-C002",
+          "start": 718,
+          "end": 783
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0090-C003",
+          "start": 725,
+          "end": 1054
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0090-C004",
+          "start": 1017,
+          "end": 1054
+        }
+      ]
+    },
+    "CHUNK-OCBO-P580-C01": {
+      "legacy_id": "CHUNK-OCBO-P580-C01",
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0092-C001",
+        "DEV120-OCBO-PDF0092-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "OCBO-PDF0092",
+      "source_char_start": 0,
+      "source_char_end": 555,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "4dd5af4fe1ec0896702aa15fe34ffd2faaa4cf61597bda39b689b5699491ae7a",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0092-C001",
+          "start": 0,
+          "end": 552
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0092-C002",
+          "start": 477,
+          "end": 555
+        }
+      ]
+    },
+    "CHUNK-OCBO-P580-C02": {
+      "legacy_id": "CHUNK-OCBO-P580-C02",
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0092-C001",
+        "DEV120-OCBO-PDF0092-C002",
+        "DEV120-OCBO-PDF0092-C003"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "OCBO-PDF0092",
+      "source_char_start": 468,
+      "source_char_end": 928,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "c0c12461e043b9208af86c332d6f0f5506d5180fd5e045e562ef5aaf577c200a",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0092-C001",
+          "start": 468,
+          "end": 552
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0092-C002",
+          "start": 477,
+          "end": 926
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0092-C003",
+          "start": 850,
+          "end": 928
+        }
+      ]
+    },
+    "CHUNK-OCBO-P583-C01": {
+      "legacy_id": "CHUNK-OCBO-P583-C01",
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0095-C001",
+        "DEV120-OCBO-PDF0095-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "OCBO-PDF0095",
+      "source_char_start": 0,
+      "source_char_end": 380,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "d9fee49363fe4616ac49803c7a8bd8067385ac9ccb5e510e51ec8aea2ce0d58f",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0095-C001",
+          "start": 0,
+          "end": 377
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0095-C002",
+          "start": 303,
+          "end": 380
+        }
+      ]
+    },
+    "CHUNK-OCBO-P591-C01": {
+      "legacy_id": "CHUNK-OCBO-P591-C01",
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0103-C001",
+        "DEV120-OCBO-PDF0103-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "OCBO-PDF0103",
+      "source_char_start": 0,
+      "source_char_end": 521,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "c72261ca6f34d5f7b5d4c078a57ab77e9895e81ecb6ebe86c2107099f43d13c9",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0103-C001",
+          "start": 0,
+          "end": 515
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0103-C002",
+          "start": 423,
+          "end": 521
+        }
+      ]
+    },
+    "CHUNK-OCBO-P593-C01": {
+      "legacy_id": "CHUNK-OCBO-P593-C01",
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0105-C001",
+        "DEV120-OCBO-PDF0105-C002"
+      ],
+      "status": "SOURCE_SPAN_TRANSFERRED",
+      "source_page_id": "OCBO-PDF0105",
+      "source_char_start": 0,
+      "source_char_end": 514,
+      "numeric_signature_verified": true,
+      "source_text_sha256": "dfb0de569646b0e54b1a63a5df3d6a8f2d80e5018d821e2407213de56393285a",
+      "window_intersections": [
+        {
+          "chunk_id": "DEV120-OCBO-PDF0105-C001",
+          "start": 0,
+          "end": 505
+        },
+        {
+          "chunk_id": "DEV120-OCBO-PDF0105-C002",
+          "start": 427,
+          "end": 514
+        }
+      ]
+    }
+  },
+  "groups": {
+    "SCENARIO-BB-007": {
+      "original_ids": [
+        "CHUNK-BB-P057-C04"
+      ],
+      "mapped_ids": [
+        "DEV120-BB-PDF0018-C003",
+        "DEV120-BB-PDF0018-C004",
+        "DEV120-BB-PDF0018-C005"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-BB-008": {
+      "original_ids": [
+        "CHUNK-BB-P058-C04"
+      ],
+      "mapped_ids": [
+        "DEV120-BB-PDF0019-C003",
+        "DEV120-BB-PDF0019-C004",
+        "DEV120-BB-PDF0019-C005"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-BB-009": {
+      "original_ids": [
+        "CHUNK-BB-P059-C02"
+      ],
+      "mapped_ids": [
+        "DEV120-BB-PDF0020-C001",
+        "DEV120-BB-PDF0020-C002",
+        "DEV120-BB-PDF0020-C003"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-BB-010": {
+      "original_ids": [
+        "CHUNK-BB-P096-C01",
+        "CHUNK-BB-P096-C02"
+      ],
+      "mapped_ids": [
+        "DEV120-BB-PDF0057-C001",
+        "DEV120-BB-PDF0057-C002",
+        "DEV120-BB-PDF0057-C003"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-BB-011": {
+      "original_ids": [
+        "CHUNK-BB-P102-C02",
+        "CHUNK-BB-P102-C03"
+      ],
+      "mapped_ids": [
+        "DEV120-BB-PDF0063-C001",
+        "DEV120-BB-PDF0063-C002",
+        "DEV120-BB-PDF0063-C003",
+        "DEV120-BB-PDF0063-C004"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-BB-012": {
+      "original_ids": [
+        "CHUNK-BB-P097-C01",
+        "CHUNK-BB-P101-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-BB-PDF0058-C001",
+        "DEV120-BB-PDF0058-C002",
+        "DEV120-BB-PDF0062-C001",
+        "DEV120-BB-PDF0062-C002"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-BB-013": {
+      "original_ids": [
+        "CHUNK-BB-P095-C01",
+        "CHUNK-BB-P104-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-BB-PDF0056-C001",
+        "DEV120-BB-PDF0056-C002",
+        "DEV120-BB-PDF0065-C001",
+        "DEV120-BB-PDF0065-C002"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-BB-014": {
+      "original_ids": [
+        "CHUNK-BB-P104-C04"
+      ],
+      "mapped_ids": [
+        "DEV120-BB-PDF0065-C003",
+        "DEV120-BB-PDF0065-C004",
+        "DEV120-BB-PDF0065-C005"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-BB-015": {
+      "original_ids": [
+        "CHUNK-BB-P104-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-BB-PDF0065-C001",
+        "DEV120-BB-PDF0065-C002"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-BB-016": {
+      "original_ids": [
+        "CHUNK-BB-P108-C01",
+        "CHUNK-BB-P110-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-BB-PDF0069-C001",
+        "DEV120-BB-PDF0069-C002",
+        "DEV120-BB-PDF0071-C001"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-BB-017": {
+      "original_ids": [
+        "CHUNK-BB-P108-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-BB-PDF0069-C001",
+        "DEV120-BB-PDF0069-C002"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-BB-018": {
+      "original_ids": [
+        "CHUNK-BB-P118-C04",
+        "CHUNK-BB-P119-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-BB-PDF0080-C001",
+        "DEV120-BB-PDF0080-C002"
+      ],
+      "unresolved_ids": [
+        "CHUNK-BB-P118-C04"
+      ],
+      "complete": false
+    },
+    "SCENARIO-BB-019": {
+      "original_ids": [
+        "CHUNK-BB-P120-C01",
+        "CHUNK-BB-P120-C03"
+      ],
+      "mapped_ids": [
+        "DEV120-BB-PDF0081-C001",
+        "DEV120-BB-PDF0081-C002",
+        "DEV120-BB-PDF0081-C003",
+        "DEV120-BB-PDF0081-C004"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-BB-020": {
+      "original_ids": [
+        "CHUNK-BB-P061-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-BB-PDF0022-C001",
+        "DEV120-BB-PDF0022-C002"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-CTO-007": {
+      "original_ids": [
+        "CHUNK-CTO-P162-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-CTO-PDF0007-C001",
+        "DEV120-CTO-PDF0007-C002"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-CTO-008": {
+      "original_ids": [
+        "CHUNK-CTO-P164-C02",
+        "CHUNK-CTO-P034-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-CTO-PDF0009-C001",
+        "DEV120-CTO-PDF0009-C002",
+        "DEV120-CTO-PDF0009-C003"
+      ],
+      "unresolved_ids": [
+        "CHUNK-CTO-P034-C01"
+      ],
+      "complete": false
+    },
+    "SCENARIO-CTO-009": {
+      "original_ids": [
+        "CHUNK-CTO-P167-C01",
+        "CHUNK-CTO-P167-C03"
+      ],
+      "mapped_ids": [
+        "DEV120-CTO-PDF0012-C001",
+        "DEV120-CTO-PDF0012-C002",
+        "DEV120-CTO-PDF0012-C003",
+        "DEV120-CTO-PDF0012-C004"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-CTO-010": {
+      "original_ids": [
+        "CHUNK-CTO-P191-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-CTO-PDF0036-C001",
+        "DEV120-CTO-PDF0036-C002"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-CTO-011": {
+      "original_ids": [
+        "CHUNK-CTO-P210-C03"
+      ],
+      "mapped_ids": [
+        "DEV120-CTO-PDF0055-C002",
+        "DEV120-CTO-PDF0055-C003",
+        "DEV120-CTO-PDF0055-C004"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-CTO-012": {
+      "original_ids": [
+        "CHUNK-CTO-P211-C02",
+        "CHUNK-CTO-P211-C04"
+      ],
+      "mapped_ids": [
+        "DEV120-CTO-PDF0056-C001",
+        "DEV120-CTO-PDF0056-C002",
+        "DEV120-CTO-PDF0056-C003",
+        "DEV120-CTO-PDF0056-C004",
+        "DEV120-CTO-PDF0056-C005"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-CTO-013": {
+      "original_ids": [
+        "CHUNK-CTO-P212-C04",
+        "CHUNK-CTO-P213-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-CTO-PDF0057-C003",
+        "DEV120-CTO-PDF0057-C004",
+        "DEV120-CTO-PDF0057-C005",
+        "DEV120-CTO-PDF0058-C001",
+        "DEV120-CTO-PDF0058-C002"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-CTO-014": {
+      "original_ids": [
+        "CHUNK-CTO-P213-C03"
+      ],
+      "mapped_ids": [
+        "DEV120-CTO-PDF0058-C002",
+        "DEV120-CTO-PDF0058-C003",
+        "DEV120-CTO-PDF0058-C004"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-CTO-015": {
+      "original_ids": [
+        "CHUNK-CTO-P213-C04",
+        "CHUNK-CTO-P214-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-CTO-PDF0058-C003",
+        "DEV120-CTO-PDF0058-C004",
+        "DEV120-CTO-PDF0058-C005",
+        "DEV120-CTO-PDF0059-C001",
+        "DEV120-CTO-PDF0059-C002"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-CTO-016": {
+      "original_ids": [
+        "CHUNK-CTO-P214-C05",
+        "CHUNK-CTO-P215-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-CTO-PDF0060-C001",
+        "DEV120-CTO-PDF0060-C002"
+      ],
+      "unresolved_ids": [
+        "CHUNK-CTO-P214-C05"
+      ],
+      "complete": false
+    },
+    "SCENARIO-CTO-017": {
+      "original_ids": [
+        "CHUNK-CTO-P196-C03",
+        "CHUNK-CTO-P217-C02"
+      ],
+      "mapped_ids": [
+        "DEV120-CTO-PDF0041-C002",
+        "DEV120-CTO-PDF0041-C003",
+        "DEV120-CTO-PDF0062-C001",
+        "DEV120-CTO-PDF0062-C002"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-CTO-018": {
+      "original_ids": [
+        "CHUNK-CTO-P198-C02",
+        "CHUNK-CTO-P198-C03"
+      ],
+      "mapped_ids": [
+        "DEV120-CTO-PDF0043-C001",
+        "DEV120-CTO-PDF0043-C002",
+        "DEV120-CTO-PDF0043-C003",
+        "DEV120-CTO-PDF0043-C004"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-CTO-019": {
+      "original_ids": [
+        "CHUNK-CTO-P200-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-CTO-PDF0045-C001",
+        "DEV120-CTO-PDF0045-C002"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-CTO-020": {
+      "original_ids": [
+        "CHUNK-CTO-P186-C03",
+        "CHUNK-CTO-P179-C02"
+      ],
+      "mapped_ids": [
+        "DEV120-CTO-PDF0020-C002",
+        "DEV120-CTO-PDF0020-C003",
+        "DEV120-CTO-PDF0020-C004",
+        "DEV120-CTO-PDF0024-C001",
+        "DEV120-CTO-PDF0024-C002",
+        "DEV120-CTO-PDF0024-C003"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-OCBO-007": {
+      "original_ids": [
+        "CHUNK-OCBO-P553-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0065-C001",
+        "DEV120-OCBO-PDF0065-C002"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-OCBO-008": {
+      "original_ids": [
+        "CHUNK-OCBO-P559-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0071-C001",
+        "DEV120-OCBO-PDF0071-C002"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-OCBO-009": {
+      "original_ids": [
+        "CHUNK-OCBO-P530-C01",
+        "CHUNK-OCBO-P574-C02"
+      ],
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0042-C001",
+        "DEV120-OCBO-PDF0042-C002",
+        "DEV120-OCBO-PDF0086-C001",
+        "DEV120-OCBO-PDF0086-C002",
+        "DEV120-OCBO-PDF0086-C003"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-OCBO-010": {
+      "original_ids": [
+        "CHUNK-OCBO-P538-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0050-C001",
+        "DEV120-OCBO-PDF0050-C002"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-OCBO-011": {
+      "original_ids": [
+        "CHUNK-OCBO-P545-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0057-C001"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-OCBO-012": {
+      "original_ids": [
+        "CHUNK-OCBO-P552-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0064-C001"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-OCBO-013": {
+      "original_ids": [
+        "CHUNK-OCBO-P566-C02"
+      ],
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0078-C001",
+        "DEV120-OCBO-PDF0078-C002",
+        "DEV120-OCBO-PDF0078-C003"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-OCBO-014": {
+      "original_ids": [
+        "CHUNK-OCBO-P501-C04",
+        "CHUNK-OCBO-P567-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0013-C003",
+        "DEV120-OCBO-PDF0013-C004",
+        "DEV120-OCBO-PDF0013-C005",
+        "DEV120-OCBO-PDF0079-C001",
+        "DEV120-OCBO-PDF0079-C002"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-OCBO-015": {
+      "original_ids": [
+        "CHUNK-OCBO-P580-C01",
+        "CHUNK-OCBO-P580-C02"
+      ],
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0092-C001",
+        "DEV120-OCBO-PDF0092-C002",
+        "DEV120-OCBO-PDF0092-C003"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-OCBO-016": {
+      "original_ids": [
+        "CHUNK-OCBO-P583-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0095-C001",
+        "DEV120-OCBO-PDF0095-C002"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-OCBO-017": {
+      "original_ids": [
+        "CHUNK-OCBO-P578-C02"
+      ],
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0090-C001",
+        "DEV120-OCBO-PDF0090-C002",
+        "DEV120-OCBO-PDF0090-C003"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-OCBO-018": {
+      "original_ids": [
+        "CHUNK-OCBO-P578-C03"
+      ],
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0090-C002",
+        "DEV120-OCBO-PDF0090-C003",
+        "DEV120-OCBO-PDF0090-C004"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-OCBO-019": {
+      "original_ids": [
+        "CHUNK-OCBO-P591-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0103-C001",
+        "DEV120-OCBO-PDF0103-C002"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-OCBO-020": {
+      "original_ids": [
+        "CHUNK-OCBO-P593-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-OCBO-PDF0105-C001",
+        "DEV120-OCBO-PDF0105-C002"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-CPDO-007": {
+      "original_ids": [
+        "CHUNK-CPDO-P634-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-CPDO-PDF0005-C001",
+        "DEV120-CPDO-PDF0005-C002"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-CPDO-008": {
+      "original_ids": [
+        "CHUNK-CPDO-P637-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-CPDO-PDF0008-C001",
+        "DEV120-CPDO-PDF0008-C002"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-CPDO-009": {
+      "original_ids": [
+        "CHUNK-CPDO-P648-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-CPDO-PDF0019-C001",
+        "DEV120-CPDO-PDF0019-C002"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-CPDO-010": {
+      "original_ids": [
+        "CHUNK-CPDO-P662-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-CPDO-PDF0033-C001",
+        "DEV120-CPDO-PDF0033-C002"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-CPDO-011": {
+      "original_ids": [
+        "CHUNK-CPDO-P670-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-CPDO-PDF0041-C001",
+        "DEV120-CPDO-PDF0041-C002"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-CPDO-012": {
+      "original_ids": [
+        "CHUNK-CPDO-P685-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-CPDO-PDF0056-C001",
+        "DEV120-CPDO-PDF0056-C002"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-CPDO-013": {
+      "original_ids": [
+        "CHUNK-CPDO-P686-C02"
+      ],
+      "mapped_ids": [
+        "DEV120-CPDO-PDF0057-C001",
+        "DEV120-CPDO-PDF0057-C002",
+        "DEV120-CPDO-PDF0057-C003"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-CPDO-014": {
+      "original_ids": [
+        "CHUNK-CPDO-P704-C01",
+        "CHUNK-CPDO-P707-C03"
+      ],
+      "mapped_ids": [
+        "DEV120-CPDO-PDF0075-C001",
+        "DEV120-CPDO-PDF0075-C002",
+        "DEV120-CPDO-PDF0078-C002",
+        "DEV120-CPDO-PDF0078-C003"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-CPDO-015": {
+      "original_ids": [
+        "CHUNK-CPDO-P704-C01",
+        "CHUNK-CPDO-P707-C03"
+      ],
+      "mapped_ids": [
+        "DEV120-CPDO-PDF0075-C001",
+        "DEV120-CPDO-PDF0075-C002",
+        "DEV120-CPDO-PDF0078-C002",
+        "DEV120-CPDO-PDF0078-C003"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-CPDO-016": {
+      "original_ids": [
+        "CHUNK-CPDO-P714-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-CPDO-PDF0085-C001",
+        "DEV120-CPDO-PDF0085-C002"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-CPDO-017": {
+      "original_ids": [
+        "CHUNK-CPDO-P707-C01",
+        "CHUNK-CPDO-P716-C04"
+      ],
+      "mapped_ids": [
+        "DEV120-CPDO-PDF0078-C001",
+        "DEV120-CPDO-PDF0078-C002",
+        "DEV120-CPDO-PDF0087-C003",
+        "DEV120-CPDO-PDF0087-C004"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-CPDO-018": {
+      "original_ids": [
+        "CHUNK-CPDO-P724-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-CPDO-PDF0095-C001",
+        "DEV120-CPDO-PDF0095-C002"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-CPDO-019": {
+      "original_ids": [
+        "CHUNK-CPDO-P699-C01"
+      ],
+      "mapped_ids": [
+        "DEV120-CPDO-PDF0070-C001",
+        "DEV120-CPDO-PDF0070-C002"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-CPDO-020": {
+      "original_ids": [
+        "CHUNK-CPDO-P731-C01"
+      ],
+      "mapped_ids": [],
+      "unresolved_ids": [
+        "CHUNK-CPDO-P731-C01"
+      ],
+      "complete": false
+    },
+    "SCENARIO-BFP-007": {
+      "original_ids": [
+        "CHUNK-BFP-P001-C09",
+        "CHUNK-BFP-P001-C10"
+      ],
+      "mapped_ids": [
+        "DEV120-BFP-PDF0001-C017",
+        "DEV120-BFP-PDF0001-C018",
+        "DEV120-BFP-PDF0001-C019"
+      ],
+      "unresolved_ids": [
+        "CHUNK-BFP-P001-C09"
+      ],
+      "complete": false
+    },
+    "SCENARIO-BFP-008": {
+      "original_ids": [
+        "CHUNK-BFP-P001-C19",
+        "CHUNK-BFP-P001-C20"
+      ],
+      "mapped_ids": [
+        "DEV120-BFP-PDF0001-C021",
+        "DEV120-BFP-PDF0001-C022",
+        "DEV120-BFP-PDF0001-C023"
+      ],
+      "unresolved_ids": [
+        "CHUNK-BFP-P001-C19"
+      ],
+      "complete": false
+    },
+    "SCENARIO-BFP-009": {
+      "original_ids": [
+        "CHUNK-BFP-P001-C20"
+      ],
+      "mapped_ids": [
+        "DEV120-BFP-PDF0001-C021",
+        "DEV120-BFP-PDF0001-C022",
+        "DEV120-BFP-PDF0001-C023"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-BFP-010": {
+      "original_ids": [
+        "CHUNK-BFP-P001-C20"
+      ],
+      "mapped_ids": [
+        "DEV120-BFP-PDF0001-C021",
+        "DEV120-BFP-PDF0001-C022",
+        "DEV120-BFP-PDF0001-C023"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-BFP-011": {
+      "original_ids": [
+        "CHUNK-BFP-P001-C14"
+      ],
+      "mapped_ids": [],
+      "unresolved_ids": [
+        "CHUNK-BFP-P001-C14"
+      ],
+      "complete": false
+    },
+    "SCENARIO-BFP-012": {
+      "original_ids": [
+        "CHUNK-BFP-P001-C07"
+      ],
+      "mapped_ids": [
+        "DEV120-BFP-PDF0001-C006",
+        "DEV120-BFP-PDF0001-C007",
+        "DEV120-BFP-PDF0001-C008"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-BFP-013": {
+      "original_ids": [
+        "CHUNK-BFP-P001-C08"
+      ],
+      "mapped_ids": [],
+      "unresolved_ids": [
+        "CHUNK-BFP-P001-C08"
+      ],
+      "complete": false
+    },
+    "SCENARIO-BFP-014": {
+      "original_ids": [
+        "CHUNK-BFP-P001-C14"
+      ],
+      "mapped_ids": [],
+      "unresolved_ids": [
+        "CHUNK-BFP-P001-C14"
+      ],
+      "complete": false
+    },
+    "SCENARIO-BFP-015": {
+      "original_ids": [
+        "CHUNK-BFP-P001-C15"
+      ],
+      "mapped_ids": [],
+      "unresolved_ids": [
+        "CHUNK-BFP-P001-C15"
+      ],
+      "complete": false
+    },
+    "SCENARIO-BFP-016": {
+      "original_ids": [
+        "CHUNK-BFP-P001-C10"
+      ],
+      "mapped_ids": [
+        "DEV120-BFP-PDF0001-C017",
+        "DEV120-BFP-PDF0001-C018",
+        "DEV120-BFP-PDF0001-C019"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-BFP-017": {
+      "original_ids": [
+        "CHUNK-BFP-P001-C25"
+      ],
+      "mapped_ids": [],
+      "unresolved_ids": [
+        "CHUNK-BFP-P001-C25"
+      ],
+      "complete": false
+    },
+    "SCENARIO-BFP-018": {
+      "original_ids": [
+        "CHUNK-BFP-P001-C12"
+      ],
+      "mapped_ids": [
+        "DEV120-BFP-PDF0001-C019",
+        "DEV120-BFP-PDF0001-C020",
+        "DEV120-BFP-PDF0001-C021"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-BFP-019": {
+      "original_ids": [
+        "CHUNK-BFP-P001-C27",
+        "CHUNK-BFP-P001-C28"
+      ],
+      "mapped_ids": [
+        "DEV120-BFP-PDF0001-C046",
+        "DEV120-BFP-PDF0001-C047",
+        "DEV120-BFP-PDF0001-C048"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    },
+    "SCENARIO-BFP-020": {
+      "original_ids": [
+        "CHUNK-BFP-P001-C32"
+      ],
+      "mapped_ids": [
+        "DEV120-BFP-PDF0001-C051",
+        "DEV120-BFP-PDF0001-C052"
+      ],
+      "unresolved_ids": [],
+      "complete": true
+    }
+  },
+  "inputs": {
+    "D:\\thesis\\LGSDeliveryRAGAssistant-main\\data\\benchmark_scenarios_test.json": "ec91a961df48ea165291a9e5e306de88b2668b42be927922e88f3255f6781054",
+    "D:\\thesis\\LGSDeliveryRAGAssistant-main\\data\\eboss_corpus_chunks_v1.json": "1649d2dba95b8e03a57226364f7294d51d8f009af11c8509a74ecbd8cabba152",
+    "D:\\thesis\\LGSDeliveryRAGAssistant-clean\\experiments\\chapter3-table-repaired-development-v1\\source_pages.json": "d355eec5c7da652ef8d9a0fbdb914d3d63976be3a20f1b3614b1162984418cbf",
+    "D:\\thesis\\LGSDeliveryRAGAssistant-clean\\experiments\\chapter3-table-repaired-development-v1\\corpus.json": "a0d996dd178eb681825880381741482001b72da5466b2effcf7b870a610017f3"
+  },
+  "implementation_sha256": "656b8a202d21ad511c91dd10e52a10f1946fa5bd76c7f1c24235ea6365324ddf",
+  "benchmark_changed": false,
+  "retrieval_or_model_settings_changed": false
+}

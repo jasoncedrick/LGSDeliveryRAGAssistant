@@ -10,7 +10,7 @@
         "ANSWERED": 209,
         "GENERATION_INCOMPLETE": 1
       },
-      "complete_relevance_labels": 177,
+      "complete_relevance_labels": 210,
       "judge_records": 210
     },
     "B": {
@@ -21,7 +21,7 @@
         "CLARIFICATION_REQUIRED": 5,
         "GENERATION_INCOMPLETE": 1
       },
-      "complete_relevance_labels": 177,
+      "complete_relevance_labels": 210,
       "judge_records": 210
     },
     "C": {
@@ -32,7 +32,7 @@
         "CLARIFICATION_REQUIRED": 5,
         "GENERATION_INCOMPLETE": 2
       },
-      "complete_relevance_labels": 177,
+      "complete_relevance_labels": 210,
       "judge_records": 210
     }
   },

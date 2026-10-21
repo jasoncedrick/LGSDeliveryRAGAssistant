@@ -1,6 +1,6 @@
 metric,matched_queries,A,B,C,B_minus_A,B_minus_C,interpretation
-hit_at_k,177,0.559322033898305,0.6666666666666666,0.6666666666666666,0.10734463276836159,0.0,"Shared complete cases, descriptive only; not all-query effectiveness or a significance test."
-mrr_at_k,177,0.35875706214689274,0.556497175141243,0.5508474576271186,0.19774011299435024,0.005649717514124353,"Shared complete cases, descriptive only; not all-query effectiveness or a significance test."
+hit_at_k,210,0.5761904761904761,0.680952380952381,0.6857142857142857,0.10476190476190483,-0.004761904761904745,"Shared complete cases, descriptive only; not all-query effectiveness or a significance test."
+mrr_at_k,210,0.36587301587301596,0.5714285714285712,0.5658730158730156,0.2055555555555552,0.005555555555555536,"Shared complete cases, descriptive only; not all-query effectiveness or a significance test."
 faithfulness,188,0.7480707531239446,0.7636102668017561,0.7594412974732122,0.01553951367781159,0.004168969328543937,"Shared complete cases, descriptive only; not all-query effectiveness or a significance test."
 context_precision,202,0.8485973596965961,0.9191419141497514,0.9170792078784027,0.07054455445315533,0.0020627062713487465,"Shared complete cases, descriptive only; not all-query effectiveness or a significance test."
 context_recall,202,0.843741159830269,0.8414721829325791,0.8448078736445074,-0.0022689768976899005,-0.0033356907119282964,"Shared complete cases, descriptive only; not all-query effectiveness or a significance test."
