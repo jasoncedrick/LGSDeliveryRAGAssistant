@@ -1,0 +1,58 @@
+{
+  "manuscript": {
+    "path": "D:\\thesis\\20260923.pdf",
+    "sha256": "628193ea55abc364c06dd3251a79126fa55ca2af2cb9d23e25cb584e7757f98a",
+    "pages": {
+      "35": "CHAPTER 3. METHODOLOGY\n30\n• Component 2: Generated Response with Supporting Evidence. The unedited\nsystem output containing the generated answer, normalized query, retrieved context\nchunks, and exact section/page citations.\n• Component 3: Human Audit Evaluation. The independent scoring records,\nqualitative notes, and error flags submitted by domain auditors.\nExpert Selection and Double-Blind Protocol\nAuditor Qualification.\nThe evaluation panel comprises at least three (3) independent\ndomain auditors with expertise in local government service delivery and fluency in formal\nEnglish, Tagalog, and Bislish.\nAudit Sample Allocation.\nAuditors evaluate a preselected, category-balanced subset\nof 20 final test scenario groups (4 per eBOSS category × 3 language variants = 60 distinct\nquery evaluations). To support the comparative baseline analysis, both Configuration A\n(BM25 Baseline) and Configuration B (Proposed System) generate responses to all 60\nqueries, yielding a total of 120 system outputs. Each of the three domain auditors reviews\nall 120 blinded and randomized responses, yielding a comprehensive evaluation dataset of\n360 completed audit records.\nDouble-Blind Controls.\nSystem identities are anonymized and masked. Answer pre-\nsentation order is randomized across audit packages to eliminate order bias.\nScoring Rubric\nAuditors evaluate responses independently using a 4-point ordinal rubric:\nScore\nAnswer Relevance\nFactual Faithfulness\n1\nDoes not address the inquiry or answers\na different question.\nThe main answer is unsupported or con-\ntradicts the official Citizens’ Charter.\n2\nAddresses part of the inquiry but misses\nthe primary procedural need.\nContains supported claims but includes\na major error in a fee, requirement, or\noffice.\n3\nAddresses the main inquiry with limited\nminor omissions.\nMain claims are supported, with minor\nimprecisions that do not alter the legal\nprocedure.\n4\nDirectly and comprehensively addresses\nall parts of the inquiry.\nAll factual claims are fully supported and\ntraceable to official source documents.\nTable 2: Four-Point Human Expert Auditing Rubric\n",
+      "36": "CHAPTER 3. METHODOLOGY\n31\nStatistical Verification of Inter-Rater Reliability\nFollowing established departmental standards, inter-rater agreement among the\nthree expert auditors is statistically validated using Krippendorff’s alpha (α):\nα = 1 − Do\nDe\n(3.4)\nwhere Do represents observed disagreement among raters and De represents disagreement\nexpected by chance.\nAn acceptance threshold of α ≥ 0.80 is established to confirm\nstatistically significant consensus across qualitative ratings.\n3.3\nExperimental Setup and Reproducibility\n3.3.1\nHardware and Software Environment\nAll preprocessing, dense indexing, query normalization, retrieval scoring, local\nmodel inference, and batch evaluations are conducted locally on a dedicated mobile work-\nstation to guarantee offline operational capability and reproducible latency benchmarks:\n• Host Machine: Acer Predator Helios Neo 16 (PHN16-72-75Z0)\n• Processor (CPU): 14th Generation Intel Core i7-14700HX (20 cores [8 Performance-\ncores up to 5.40 GHz Turbo, 12 Efficient-cores up to 3.90 GHz], 28 threads, 33 MB\nIntel Smart Cache)\n• Graphics Processing Unit (GPU): NVIDIA GeForce RTX 4060 Laptop GPU\n(8 GB GDDR6 dedicated VRAM, Ada Lovelace architecture, 140 W Maximum\nGraphics Power, CUDA Compute Capability 8.9)\n• System Memory (RAM): 32 GB DDR5 dual-channel system memory running\nat 5600 MHz\n• Storage Infrastructure: 512 GB PCIe Gen4 NVMe M.2 Solid State Drive\n• Operating System: Ubuntu 22.04.4 LTS (Linux x86 64, 64-bit kernel 5.15.0)\nunder a dedicated development partition\n• Programming Language & Execution Runtime: Python 3.10.12\n• Inference Engine: Ollama v0.1.32 serving quantized open-weight Large Language\nModels locally\n• Key Software Libraries and Pinned Versions:\n– torch==2.2.1+cu121 (CUDA-accelerated tensor backend)\n– transformers==4.38.2 (Hugging Face tokenizer and pipeline execution)\n– sentence-transformers==2.5.1 (Dense embedding generation)\n– faiss-cpu==1.8.0 (Dense vector indexing and MIPS search)\n– rank-bm25==0.2.2 (Probabilistic sparse retrieval index)\n"
+    }
+  },
+  "tracker": {
+    "path": "C:\\Users\\User\\Downloads\\thesis_progress_tracker.xlsx",
+    "sha256": "74ae6a572885e54be360b13bd548e078e59c1a72d66c9180b52acbabcf6bf2ed",
+    "tab": "Thesis Tracker",
+    "rows_18_20": [
+      [
+        "T08",
+        "Sprint 3",
+        "Chapter 3",
+        "Generate Randomized Side-by-Side (SxS) Blind Answers for Expert Raters",
+        "2026-09-25 00:00:00",
+        "2026-10-01 00:00:00",
+        "In Progress",
+        "High",
+        "Preselected audit subset of 20 groups $\\times$ 3 languages = 60 queries evaluated across Configurations A and B = 120 blinded responses",
+        "Preselected audit subset of 20 groups $\\times$ 3 languages = 60 queries evaluated across Configurations A and B = 120 blinded responses",
+        "120 randomized, blinded response records with source passages."
+      ],
+      [
+        "T09",
+        "Sprint 3",
+        "Chapter 3",
+        "Build Double-Blind SxS Rater Scoring Interface and Likert Scale Guidelines",
+        "2026-09-25 00:00:00",
+        "2026-10-01 00:00:00",
+        "In Progress",
+        "High",
+        "Scoring is governed by the approved 4-point ordinal rubric for Answer Relevance and Factual Faithfulness, not a 5-point scale",
+        "Scoring is governed by the approved 4-point ordinal rubric for Answer Relevance and Factual Faithfulness, not a 5-point scale",
+        "Auditor scoring platform enforcing the 4-point scale and evidence cross-referencing."
+      ],
+      [
+        "T10",
+        "Sprint 3",
+        "Chapter 3",
+        "Execute Blind Relevance Grading Sessions with the 3 LGU Expert Raters",
+        "2026-09-25 00:00:00",
+        "2026-10-01 00:00:00",
+        "In Progress",
+        "High",
+        "3 independent auditors evaluate 120 responses (360 completed reviews), ",
+        "4 independent auditors evaluate 120 responses (360 completed reviews),",
+        "Completed scoring database of 360 evaluated response records."
+      ]
+    ]
+  },
+  "selection_timing": "After T07 evaluation, before any human rating; do not claim prior preselection.",
+  "scope": "T08 construction / T09 implementation; T10 actual expert collection pending."
+}

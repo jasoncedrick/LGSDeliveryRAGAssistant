@@ -1,0 +1,10 @@
+YOUR INDEPENDENT AUDIT PACKET: R01
+
+Extract the entire ZIP before opening index.html in Edge or Chrome.
+Keep the sources folder beside your rater folder. No server is required.
+Read Instructions in the interface before rating. Complete practice with
+the facilitator first. Do not discuss formal scores with other raters.
+Use Download backup at breaks. Browser autosave is a convenience, not a backup.
+On another computer, import your backup into this same rater packet.
+When finished, Export final ratings. Return the JSON and CSV to the researcher.
+Do not send the packet to other raters; each has a different presentation order.

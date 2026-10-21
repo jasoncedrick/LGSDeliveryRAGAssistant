@@ -4,3 +4,5 @@ __pycache__/
 .env
 *.egg-info/
 tmp/
+experiments/t08-t09-expert-audit-v1/private/
+experiments/t08-t09-expert-audit-v1/received-ratings/

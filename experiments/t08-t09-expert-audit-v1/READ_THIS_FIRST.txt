@@ -1,0 +1,125 @@
+T08 / T09: BLINDED PACKETS AND OFFLINE SCORING INTERFACE
+
+T08 packet construction and T09 interface implementation are complete.
+T10 human data collection has not started. No human ratings have been invented.
+This work uses the saved final T07 answers; it runs no model or RAGAS evaluation.
+
+START HERE
+
+Preview the interface:
+  public/R01/index.html
+
+Open the HTML file in Edge or Chrome. No llama/Ollama/Uvicorn server is needed.
+Do not enter trial ratings in an employee's assigned packet. If you do, use a
+separate browser profile for the employee or clear that packet's browser storage
+after downloading any data you need to keep.
+
+Give each auditor ONLY their corresponding ZIP:
+  distribution/R01-audit-packet.zip
+  distribution/R02-audit-packet.zip
+  distribution/R03-audit-packet.zip
+
+They must extract the WHOLE ZIP, keeping the sources folder alongside the R01,
+R02 or R03 folder, then open that rater folder's index.html.
+Each ZIP contains the interface, its blinded data and all five official PDFs.
+Do not give auditors this repository or the private folder.
+
+WHAT EACH AUDITOR DOES
+
+1. Read the interface's Instructions and four-point guide.
+2. Complete fictional practice with the facilitator before formal scoring.
+3. Review all 60 query pairs / 120 responses independently.
+4. Give separate relevance and faithfulness scores of 1-4, or mark an affected
+   dimension unscorable with a reason. This is missing data, not score 5.
+5. Add evidence notes and error flags where needed. Both responses may tie.
+6. Download a JSON backup at breaks. Autosave alone is not a durable backup.
+7. Export final JSON and final CSV; return both to the researcher.
+
+The JSON is the canonical returned data. CSV escapes formula-like notes for
+spreadsheet safety. Original note text remains in JSON.
+Each expert reviews all 120 responses; do not split the 120 among three people.
+Three complete response sets yield 360 review records, up to 720 ordinal scores.
+Unscorable dimensions must be reported as missing, never zero or a fifth score.
+
+RESEARCHER: COLLECT RATINGS
+
+Place returned files in this folder's received-ratings/ (ignored by Git).
+Keep all original exports. Select one agreed final JSON per rater for collection.
+Name the selected copies R01-final.json, R02-final.json and R03-final.json.
+For a visible PowerShell validation/export run from the clean project:
+
+  & .\experiments\t08-t09-expert-audit-v1\COLLECT_RATINGS.ps1
+
+COLLECT_RATINGS.ps1 uses this packet's ignored received-ratings folder and
+refuses to overwrite previous validated output.
+
+The collector validates packet/rater identity, all 120 answer IDs, both score
+dimensions, score ranges, unscorable reasons, timestamps and duplicate raters.
+It writes blinded_ratings.json, blinded_ratings.csv and receipt.json.
+It does not unmask configurations, impute missing scores or compute reliability.
+After all three ratings arrive, T11 can estimate ordinal Krippendorff's alpha.
+
+METHODOLOGY AND TIMING DISCLOSURE
+
+Source: D:/thesis/20260923.pdf, PDF page 35 / printed page 30, Table 2.
+Tracker: C:/Users/User/Downloads/thesis_progress_tracker.xlsx,
+         Thesis Tracker rows 18-20 (T08-T10).
+Requirement: 20 held-out groups, four per service category, three languages,
+             A/B only, 120 answers per auditor, three independent auditors.
+
+No prior registered 20-group selection was found. A fixed category-stratified
+selection was registered AFTER automated T07 evaluation and BEFORE human ratings.
+It uses only group IDs/category, not scores, answers or source-label completeness.
+Do not describe this as preselection before T07. Record and discuss this timing
+deviation with the adviser before formal data collection; no rerun can undo it.
+The sample must not be replaced based on unfavorable or difficult answers.
+
+The 1-4 rubric is directly from Table 2. Per-dimension unscorable handling,
+backup mechanics, counterbalanced placement and collection validation are
+operational additions, documented in FACILITATOR_PROTOCOL.txt.
+No workbook cells were edited. Its T10 description contains a four-auditor typo;
+the manuscript, task title and 360-record allocation require three full raters.
+
+BLINDING AND SOURCE LIMITS
+
+The distribution packets contain no A/B key, normalizer diagnostics, RAGAS scores,
+reference-answer target, original query IDs or ranking scores. Answer content and
+retrieved passages are unedited and may still provide indirect identity clues.
+Keep the mapping custodian separate from the blinded facilitator and raters.
+Researchers with access to the existing public T07 archive cannot be assumed
+blind; document actual access instead of asserting absolute double blinding.
+
+The common PDF links follow the original source annotations, including cases
+whose chunk IDs could not transfer. They are starting locations, not a new
+certification of reference answers. Full official PDFs are supplied so raters
+can inspect complete tables and adjacent pages. They should flag source conflicts
+and cite any extra pages, rather than substituting assumptions or memory.
+Each response's actual retrieved passages are shown separately and verbatim.
+Normalized queries, reference answers and full original records remain archived
+privately for reproducibility; they are withheld from the rater view to reduce
+identity clues and target-answer anchoring.
+
+MANUAL WORK THAT REMAINS
+
+- Adviser/research team: acknowledge the documented selection timing and scoring
+  procedures before starting formal collection.
+- Facilitator: confirm three independent domain experts with the required
+  English/Tagalog/Bislish fluency; run fictional practice and check that source
+  PDFs open on their devices. Do not reveal formal preferred scores.
+- Auditors: perform the actual independent T10 judgments, recording ambiguities.
+
+No repeat of the earlier normalization/source-review templates is required.
+T06/T07 outputs, held-out references, runtime, dictionary, indices and app defaults
+were left unchanged.
+
+FILES AND VERIFICATION
+
+QA_REPORT.json: automated checks, counts and source-link validation.
+FACILITATOR_PROTOCOL.txt: handoff, blinding and special-case scoring policy.
+methodology_snapshot.json: manuscript/tracker evidence and hashes.
+private/: selection registration, key, originals and build provenance. Git-ignored.
+received-ratings/: employee exports and collection outputs. Git-ignored.
+
+The private audit folder also has a local backup under D:/thesis/conversation-backups.
+Keep that backup secure and do not distribute it to the panel.
+No packet has been sent to employees or uploaded externally.

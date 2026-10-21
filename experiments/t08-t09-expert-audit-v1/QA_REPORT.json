@@ -1,0 +1,65 @@
+{
+  "checked_at_utc": "2026-10-20T05:53:24.525638+00:00",
+  "T08": "PACKET_CONSTRUCTION_COMPLETE_WITH_TIMING_DEVIATION_DISCLOSED",
+  "T09": "INTERFACE_IMPLEMENTATION_COMPLETE",
+  "T10": "NOT_STARTED_NO_HUMAN_RATINGS",
+  "unit_tests": {
+    "passed": 8,
+    "failed": 0,
+    "command": "python -m unittest discover -s tests -p test_expert_audit.py -v"
+  },
+  "browser": {
+    "status": "PASS",
+    "checks": [
+      "Blank initial scores",
+      "Browser save/reload",
+      "Per-dimension unscorable reason",
+      "Incomplete export rejected",
+      "Wrong-rater import rejected",
+      "Draft import/resume",
+      "Out-of-range score rejected",
+      "120-row JSON export",
+      "CSV formula escaping",
+      "Mobile viewport overflow",
+      "No JavaScript errors",
+      "No network requests"
+    ],
+    "synthetic_outputs": "tmp/expert-audit-browser only; not human ratings"
+  },
+  "visual_review": "Desktop and 390px mobile screenshots inspected; no clipping or overlap observed.",
+  "sample": {
+    "groups": 20,
+    "groups_per_category": 4,
+    "languages": 3,
+    "pairs_per_rater": 60,
+    "answers_per_rater": 120,
+    "raters": 3,
+    "scheduled_reviews": 360,
+    "scheduled_score_values": 720
+  },
+  "source_pdf_links": {
+    "per_packet": 426,
+    "unique_page_links": 86,
+    "within_pdf_bounds": true,
+    "pdf_bytes_match_frozen_provenance": true
+  },
+  "source_text_policy": "Original answers and actual retrieved passages verified verbatim; common annotation pages are starting points, not certified reference answers.",
+  "masking": "No configuration key, scores, normalizer diagnostics or original query IDs in distribution. Indirect content clues and public research archives remain a blinding limitation.",
+  "collector_smoke_test": "Synthetic 120-row export validated; null faithfulness values preserved. Test data confined to ignored tmp/.",
+  "unchanged": {
+    "original_benchmark_sha256": "ec91a961df48ea165291a9e5e306de88b2668b42be927922e88f3255f6781054",
+    "A_B_archives_sha256": {
+      "A": "6ea56939f0ce0fbeb0e9037d5585393e574dc75925278178911e3257e8ab0974",
+      "B": "108acbf0f0a2495dead9cf0cfb2b1656026e03a72e4f0f3f798a757d482e0b55"
+    },
+    "registered_runtime_hashes_verified": true,
+    "tracker_sha256": "74ae6a572885e54be360b13bd548e078e59c1a72d66c9180b52acbabcf6bf2ed"
+  },
+  "human_tasks_remaining": [
+    "Acknowledge post-evaluation sample-selection timing with adviser before formal collection.",
+    "Assign three qualified independent auditors and conduct fictional practice.",
+    "Perform actual T10 ratings and document evidence ambiguity."
+  ],
+  "no_model_run": true,
+  "no_external_distribution": true
+}

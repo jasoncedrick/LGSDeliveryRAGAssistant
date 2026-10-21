@@ -1,0 +1,247 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Independent expert audit</title>
+<style>
+:root{font-family:system-ui,Segoe UI,sans-serif;color:#183247;background:#edf2f5;line-height:1.5}
+*{box-sizing:border-box}body{margin:0}header{background:#12374a;color:white;padding:18px 4vw}
+h1{font-size:24px;margin:0}h2{font-size:20px}h3{font-size:17px}p{margin:10px 0}
+main{max-width:1500px;margin:auto;padding:22px 3vw}button,select,input,textarea{font:inherit}
+button,select{padding:9px 14px;border:1px solid #8b9fac;border-radius:6px;background:white;color:#183247}
+button{cursor:pointer}button:hover{background:#e6f5f1}button:disabled{opacity:.45;cursor:default}
+button.primary{background:#006b64;color:white;border-color:#006b64}
+button:focus-visible,a:focus-visible,select:focus-visible,textarea:focus-visible{outline:3px solid #c47700;outline-offset:3px}
+.toolbar{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin:12px 0}
+.card,details.instructions{background:white;border:1px solid #ccd8df;border-radius:10px;padding:20px;margin:14px 0}
+.pair{display:grid;grid-template-columns:1fr 1fr;gap:20px;align-items:start}
+.answer{white-space:pre-wrap;overflow-wrap:anywhere;font-size:16px;border-left:3px solid #568c92;padding:12px;background:#f6fafb}
+.muted{color:#526878;font-size:14px}.badge{display:inline-block;background:#e5f0f2;padding:3px 9px;border-radius:12px}
+summary{cursor:pointer;font-weight:600}details{margin:12px 0}pre{white-space:pre-wrap;overflow-wrap:anywhere;font:14px/1.6 system-ui}
+fieldset{border:1px solid #ccd8df;border-radius:8px;margin:15px 0;padding:12px}
+legend{font-weight:650}label.option{display:inline-flex;align-items:center;gap:5px;margin:5px 12px 5px 0;padding:6px}
+input[type=radio],input[type=checkbox]{width:18px;height:18px}
+textarea{width:100%;min-height:80px;border:1px solid #8b9fac;border-radius:6px;padding:8px}
+.field-label{display:block;margin:12px 0 4px;font-weight:600}
+.rubric{display:grid;grid-template-columns:1fr 1fr;gap:20px}.rubric li{margin:7px 0}
+#notice{padding:10px 16px;min-height:45px;background:#fff6da;border-left:4px solid #bd8300;white-space:pre-wrap}
+#progress{font-weight:600}a{color:#005e8d}table{border-collapse:collapse}td,th{padding:8px;text-align:left}
+@media(max-width:850px){.pair,.rubric{grid-template-columns:1fr}main{padding:12px}.card{padding:15px}}
+@media print{.toolbar,#notice{display:none}.pair{display:block}.card{break-inside:avoid}}
+</style>
+</head>
+<body>
+<header><h1>Independent expert audit</h1><div id="identity"></div></header>
+<main>
+<details class="instructions" open><summary>Instructions and four-point scoring guide</summary>
+<p>Read the original question, consult the official source, then score each response independently.
+Equal scores are allowed. Work independently and do not try to identify the systems.</p>
+<div class="rubric">
+<div><h3>Answer Relevance</h3><ol>
+<li>Does not address the inquiry or answers a different question.</li>
+<li>Addresses part of the inquiry but misses the primary procedural need.</li>
+<li>Addresses the main inquiry with limited minor omissions.</li>
+<li>Directly and comprehensively addresses all parts of the inquiry.</li></ol></div>
+<div><h3>Factual Faithfulness</h3><ol>
+<li>The main answer is unsupported or contradicts the official Citizens’ Charter.</li>
+<li>Contains supported claims but includes a major error in a fee, requirement, or office.</li>
+<li>Main claims are supported, with minor imprecisions that do not alter the legal procedure.</li>
+<li>All factual claims are fully supported and traceable to official source documents.</li></ol></div>
+</div>
+<p><strong>Evidence:</strong> Common source links are starting pages from the original study annotations;
+they are not certified reference answers. Open the full PDF and inspect tables and adjoining pages when
+needed. Each response also shows exactly the passages available to that system. Judge factual
+faithfulness against the official charter; record separately when a true claim was absent from the
+retrieved passages. Record any additional source pages you consult.</p>
+<p><strong>Special cases:</strong> Score clarification or abstention by how well it addresses the inquiry.
+Do not award factual faithfulness 4 solely because there is no factual claim: mark that dimension
+unscorable with a reason. For blank output, relevance is 1 and faithfulness is unscorable.
+For incomplete text, score what is present and flag the omission. If a source conflict prevents a
+judgment, mark only the affected dimension unscorable and explain. Unscorable is missing data, not
+a fifth score. Do not replace printed ambiguous fees with assumed values.</p>
+<p><strong>Saving:</strong> Changes autosave in this browser when storage is available.
+Download a JSON backup at every break; keep it outside the packet folder. Import it to resume on
+another device. Final export requires a score or justified unscorable mark for every dimension.
+No name is requested; use only the assigned rater code.</p>
+</details>
+<div class="toolbar">
+<button id="backup">Download backup</button>
+<button id="importButton">Import backup</button><input id="importFile" type="file" accept=".json" hidden>
+<button id="final" class="primary">Export final JSON</button><button id="csv">Export final CSV</button>
+</div>
+<div id="notice" role="status" aria-live="polite"></div>
+<div class="toolbar">
+<button id="prev">Previous</button><label for="jump">Query</label><select id="jump"></select>
+<button id="next">Next</button><button id="unfinished">Next unfinished</button>
+<span id="progress"></span>
+</div>
+<section id="question" class="card"></section>
+<section id="responses" class="pair" aria-label="Two anonymous responses"></section>
+<p class="muted">Rubric: manuscript Chapter 3, Table 2. Scores are independent; there is no forced winner.
+Take a break after every 20 queries.</p>
+</main>
+<script id="packet" type="application/json">__PACKET_JSON__</script>
+<script>
+"use strict";
+const packet=JSON.parse(document.getElementById("packet").textContent);
+const dimensions=["relevance","faithfulness"];
+const flagOptions=["Incorrect fee","Wrong requirement or office","Unsupported statement",
+"Missing information","Off-topic answer","Source conflict or ambiguity","No factual claims",
+"Incomplete or empty output","Claim absent from retrieved passages","Other"];
+const key="lgs-audit:"+packet.packet_id;
+const allAnswers=new Map(packet.pairs.flatMap((p,i)=>p.responses.map((r,j)=>[r.answer_id,
+ {query_id:p.query_id,side:j===0?"left":"right",pair_index:i}])));
+let state={schema_version:1,packet_id:packet.packet_id,rater_id:packet.rater_id,
+ rubric_version:packet.rubric_version,packet_version:packet.packet_version,position:0,ratings:{}};
+function el(tag,text,cls){const n=document.createElement(tag);if(text!==undefined)n.textContent=text;if(cls)n.className=cls;return n}
+function notice(text){document.getElementById("notice").textContent=text}
+function validDimension(d,final=false){
+ if(!d||typeof d!=="object"||Array.isArray(d)||typeof d.unscorable!=="boolean"||typeof d.reason!=="string")return false;
+ if(d.unscorable)return d.score===null&&(!final||!!d.reason.trim());
+ return d.reason===""&&((d.score===null&&!final)||(Number.isInteger(d.score)&&d.score>=1&&d.score<=4));
+}
+function validate(s,final=false){
+ if(!s||s.schema_version!==1||s.packet_id!==packet.packet_id||s.rater_id!==packet.rater_id||
+ s.rubric_version!==packet.rubric_version||s.packet_version!==packet.packet_version)throw Error("This backup belongs to a different packet or rater.");
+ if(!Number.isInteger(s.position)||s.position<0||s.position>=packet.pairs.length||
+ !s.ratings||typeof s.ratings!=="object"||Array.isArray(s.ratings))throw Error("Invalid backup structure.");
+ for(const [id,r] of Object.entries(s.ratings)){
+  if(!allAnswers.has(id)||!r||!dimensions.every(d=>validDimension(r[d],false))||
+   typeof r.note!=="string"||!Array.isArray(r.flags)||r.flags.some(f=>!flagOptions.includes(f))||
+   typeof r.updated_at!=="string")throw Error("Invalid rating record: "+id);
+ }
+ if(final)for(const id of allAnswers.keys()){
+  const r=s.ratings[id];
+  if(!r||!dimensions.every(d=>validDimension(r[d],true)))throw Error("Unfinished ratings remain. Use Next unfinished.");
+ }
+ return true;
+}
+function complete(id){const r=state.ratings[id];return !!r&&dimensions.every(d=>validDimension(r[d],true))}
+function rating(id){
+ if(!Object.hasOwn(state.ratings,id))state.ratings[id]={
+ relevance:{score:null,unscorable:false,reason:""},faithfulness:{score:null,unscorable:false,reason:""},
+ note:"",flags:[],updated_at:new Date().toISOString()};
+ return state.ratings[id];
+}
+function progress(){
+ const n=[...allAnswers.keys()].filter(complete).length;
+ document.getElementById("progress").textContent=n+" / 120 responses complete";
+ for(let i=0;i<packet.pairs.length;i++)document.getElementById("jump").options[i].textContent=
+  (i+1)+" / 60"+(packet.pairs[i].responses.every(r=>complete(r.answer_id))?" · complete":"");
+}
+function save(){
+ try{localStorage.setItem(key,JSON.stringify(state));notice("Saved in this browser. Download a backup at every break.")}
+ catch(e){notice("Browser storage is unavailable. Download a backup before leaving this page.")}
+ progress();
+}
+function change(id){rating(id).updated_at=new Date().toISOString();save()}
+function link(source){
+ const a=el("a",source.document+" — PDF page "+source.pdf_page+
+  (source.printed_page!==null&&source.printed_page!==undefined?" / printed "+source.printed_page:""));
+ a.href=source.href;a.target="_blank";a.rel="noopener";return a;
+}
+function render(){
+ const p=packet.pairs[state.position],q=document.getElementById("question");
+ q.replaceChildren(el("span",p.language+" · "+p.category,"badge"),
+ el("h2",p.question),el("p","Anonymous query "+p.query_id,"muted"));
+ const sources=el("details");sources.open=true;sources.append(el("summary","Common official source starting pages"));
+ p.common_sources.forEach(s=>{const row=el("p");row.append(link(s));sources.append(row)});
+ sources.append(el("p","These starting pages may not contain every claim. Consult the full charter and record any evidence gap.","muted"));
+ q.append(sources);
+ const container=document.getElementById("responses");container.replaceChildren();
+ p.responses.forEach((response,side)=>{
+  const r=rating(response.answer_id),card=el("article",undefined,"card");
+  card.append(el("h2",side===0?"Response X":"Response Y"),
+   el("p",response.answer_id,"muted"),el("div",response.text||"[No answer was produced.]","answer"));
+  const passages=el("details");passages.append(el("summary","Passages available to this response ("+response.passages.length+")"));
+  if(!response.passages.length)passages.append(el("p","No retrieved passages were archived."));
+  response.passages.forEach(s=>{const part=el("div");part.append(el("h3","["+s.label+"]"),link(s),el("pre",s.text));passages.append(part)});
+  card.append(passages);
+  dimensions.forEach(d=>{
+   const fs=el("fieldset");fs.append(el("legend",d==="relevance"?"Answer Relevance":"Factual Faithfulness"));
+   [1,2,3,4].forEach(score=>{
+    const label=el("label",undefined,"option"),input=el("input");input.type="radio";
+    input.name=response.answer_id+"-"+d;input.value=score;input.checked=r[d].score===score;input.disabled=r[d].unscorable;
+    input.addEventListener("change",()=>{r[d].score=score;change(response.answer_id)});
+    label.append(input,document.createTextNode(String(score)));fs.append(label);
+   });
+   const label=el("label",undefined,"option"),check=el("input");check.type="checkbox";check.checked=r[d].unscorable;
+   check.setAttribute("aria-label",d+" unscorable");
+   check.addEventListener("change",()=>{r[d]={score:null,unscorable:check.checked,reason:""};change(response.answer_id);render()});
+   label.append(check,document.createTextNode("Unscorable"));fs.append(label);
+   if(r[d].unscorable){
+    const reasonLabel=el("label","Reason required","field-label"),reason=el("textarea");
+    reason.id=response.answer_id+"-"+d+"-reason";reasonLabel.htmlFor=reason.id;reason.value=r[d].reason;
+    reason.addEventListener("input",()=>{r[d].reason=reason.value;change(response.answer_id)});
+    fs.append(reasonLabel,reason);
+   }
+   card.append(fs);
+  });
+  const flags=el("details");flags.append(el("summary","Error and evidence flags (optional)"));
+  flagOptions.forEach(flag=>{
+   const label=el("label",undefined,"option"),input=el("input");input.type="checkbox";input.checked=r.flags.includes(flag);
+   input.addEventListener("change",()=>{r.flags=input.checked?[...r.flags,flag]:r.flags.filter(f=>f!==flag);change(response.answer_id)});
+   label.append(input,document.createTextNode(flag));flags.append(label);
+  });
+  card.append(flags);
+  const label=el("label","Evidence notes / document and page references","field-label"),note=el("textarea");
+  note.id=response.answer_id+"-note";label.htmlFor=note.id;note.value=r.note;
+  note.addEventListener("input",()=>{r.note=note.value;change(response.answer_id)});card.append(label,note);container.append(card);
+ });
+ document.getElementById("jump").value=state.position;
+ document.getElementById("prev").disabled=state.position===0;
+ document.getElementById("next").disabled=state.position===packet.pairs.length-1;
+ progress();
+}
+function navigate(i){state.position=i;render();save();document.getElementById("question").scrollIntoView({block:"start"})}
+function exportRows(){return packet.pairs.flatMap((p,i)=>p.responses.map((r,j)=>{
+ const v=state.ratings[r.answer_id];return {rater_id:packet.rater_id,packet_id:packet.packet_id,
+ rubric_version:packet.rubric_version,packet_version:packet.packet_version,query_id:p.query_id,
+ answer_id:r.answer_id,displayed_side:j===0?"left":"right",presentation_position:i+1,
+ relevance_score:v.relevance.score,relevance_unscorable:v.relevance.unscorable,relevance_reason:v.relevance.reason,
+ faithfulness_score:v.faithfulness.score,faithfulness_unscorable:v.faithfulness.unscorable,faithfulness_reason:v.faithfulness.reason,
+ evidence_note:v.note,error_flags:v.flags.join("; "),updated_at:v.updated_at};
+ }))}
+function csvCell(v){let s=v===null?"":String(v);if(/^[\s]*[=+\-@]/.test(s))s="'"+s;return '"'+s.replaceAll('"','""')+'"'}
+function csvText(rows){const cols=Object.keys(rows[0]);return "\uFEFF"+[cols.map(csvCell).join(","),
+ ...rows.map(r=>cols.map(k=>csvCell(r[k])).join(","))].join("\r\n")}
+function download(name,text,type){
+ const url=URL.createObjectURL(new Blob([text],{type})),a=el("a");a.href=url;a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);
+}
+function finalExport(format){
+ try{validate(state,true);const rows=exportRows(),stamp=new Date().toISOString().replaceAll(":","-");
+  if(format==="csv")download(packet.rater_id+"-final-"+stamp+".csv",csvText(rows),"text/csv;charset=utf-8");
+  else download(packet.rater_id+"-final-"+stamp+".json",JSON.stringify({...state,export_kind:"final",exported_at:new Date().toISOString(),records:rows},null,2),"application/json");
+  notice("Final "+format.toUpperCase()+" exported. Return both JSON and CSV; keep your own backup.");
+ }catch(e){notice(e.message)}
+}
+document.getElementById("identity").textContent="Rater "+packet.rater_id+" · 60 queries · 120 responses · offline";
+const jump=document.getElementById("jump");
+packet.pairs.forEach((p,i)=>{const opt=el("option",String(i+1));opt.value=i;jump.append(opt)});
+jump.addEventListener("change",()=>navigate(Number(jump.value)));
+document.getElementById("prev").onclick=()=>navigate(state.position-1);
+document.getElementById("next").onclick=()=>navigate(state.position+1);
+document.getElementById("unfinished").onclick=()=>{
+ for(let n=1;n<=60;n++){const i=(state.position+n)%60;if(!packet.pairs[i].responses.every(r=>complete(r.answer_id))){navigate(i);return}}
+ notice("Every response is complete. You may export final ratings.");
+};
+document.getElementById("backup").onclick=()=>download(packet.rater_id+"-backup-"+new Date().toISOString().replaceAll(":","-")+".json",
+ JSON.stringify({...state,export_kind:"draft",exported_at:new Date().toISOString()},null,2),"application/json");
+document.getElementById("final").onclick=()=>finalExport("json");
+document.getElementById("csv").onclick=()=>finalExport("csv");
+document.getElementById("importButton").onclick=()=>document.getElementById("importFile").click();
+document.getElementById("importFile").onchange=async e=>{
+ try{const file=e.target.files[0];if(!file)return;const candidate=JSON.parse(await file.text());validate(candidate);
+  if(Object.values(state.ratings).some(r=>r.note||r.flags.length||dimensions.some(d=>r[d].score!==null||r[d].unscorable))){
+   if(!confirm("Import replaces this browser's ratings. Download a backup first if you need to keep them. Continue?"))return;
+  }
+  state=candidate;render();save();notice("Backup imported and saved for "+packet.rater_id+".");
+ }catch(error){notice("Import rejected: "+error.message)}finally{e.target.value=""}
+};
+try{const saved=localStorage.getItem(key);if(saved){const candidate=JSON.parse(saved);validate(candidate);state=candidate}}
+catch(e){notice("Saved data could not be loaded. Import your last downloaded backup.")}
+render();if(!document.getElementById("notice").textContent)notice("Ready. Scores start empty. Download backups regularly.");
+// Exposed for deterministic offline interface tests; contains no configuration key.
+window.Audit={packet,validate,validDimension,csvText,exportRows,getState:()=>state};
+</script>
+</body></html>
