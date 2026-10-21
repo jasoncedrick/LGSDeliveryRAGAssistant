@@ -1,0 +1,73 @@
+T07 POST-HOC SOURCE-SPAN RECONCILIATION - DISCLOSURE
+Recorded 2026-10-22 when merging branch t07-heldoutbeforet08-20261021 into main.
+
+WHAT CHANGED
+
+Commits dd6b043 / 64b093d / 7930ce4 (2026-10-21) mapped the 10 legacy spans the
+registered span-transfer rule could not resolve (scripts/reconcile_t07_source_spans.py,
+MANUAL_RECONCILIATION). Retrieval labels went from 59/70 groups (177/210 queries)
+to 70/70 groups (210/210 queries) for each of A, B and C.
+
+Only these fields changed, in 33 records per configuration:
+  ground_truth_chunk_ids, unresolved_legacy_ids, relevance_mapping_status,
+  ranking_metrics.
+Generated answers, retrieved rankings, contexts, statuses and RAGAS scores
+are unchanged. No model was rerun. Hit@3/MRR@3 were independently recomputed
+from the archived rankings and labels at merge time: 0 mismatches.
+
+TIMING - MUST BE DISCLOSED
+
+The registered transfer rule (same file/page identity + numeric signatures) was
+fixed before model outcomes. These 10 mappings were made BY HAND AFTER the held-out
+outcomes were known. Report the 210-query Hit/MRR as a post-hoc relabelling, and
+report the registered 177-query values alongside it. Do not describe the 70/70
+labels as part of the original registered protocol.
+
+                Registered (n=177)          Post-hoc relabel (n=210)
+                A      B      C             A      B      C
+  Hit@3        .5593  .6667  .6667         .5762  .6810  .6857
+  MRR@3        .3588  .5565  .5508         .3659  .5714  .5659
+
+B still shows no clear advantage over C under either labelling.
+
+PRESERVED ORIGINALS (byte-identical to the registered archive, commit b99f87d)
+
+  A/interactions.jsonl.bak_v1_incomplete  6ea56939f0ce0fbeb0e9037d5585393e574dc75925278178911e3257e8ab0974
+  B/interactions.jsonl.bak_v1_incomplete  108acbf0f0a2495dead9cf0cfb2b1656026e03a72e4f0f3f798a757d482e0b55
+  C/interactions.jsonl.bak_v1_incomplete  ef51d5722a73032b0d42abc8eb43001807462465e5b9feb022dfcd060fb76e1c
+  source_span_crosswalk.v1.json           292bcaf0dfce5b524caed604b6ae33337ff625ce54280dd37b905223346f08e5
+The registered 177-query metric CSVs remain in git history at commit b99f87d.
+
+Current (relabelled) files:
+  A/interactions.jsonl     58951721339312308e9daa662941fc1ae2df5d0610dd571f0d0f1973023a2c6f
+  B/interactions.jsonl     d5036f58d237c58102e74247954cd95623e2be32862ce13791887695596fccb2
+  C/interactions.jsonl     b9d61ec3d4e2753853ec64a9040ffdb10455bd2ad322a758165f4a7ce945e8f5
+  source_span_crosswalk.json 3978881a5c4640ee3bf0b62023fd96c490a76d5afb21b11f0b575860ddc6443f
+
+STALE TEXT
+
+The "interpretation" column of master_metrics.csv still says "incomplete labels
+null"; after relabelling no Hit/MRR labels are null. The CSVs were left as
+produced by the branch; this note supersedes that wording.
+
+MAPPING CHECK (text comparison against the legacy corpus, not a PDF certification)
+
+Most mapped chunks reproduce the legacy span text (76-98% word coverage, numbers
+present). Partial mappings worth a source-PDF check:
+  CHUNK-BFP-P001-C09 -> C009: legacy span's fee values (200.00, 0.1) are not in C009.
+  CHUNK-BFP-P001-C19 -> C017: 55% word coverage; checklist header text not included.
+  CHUNK-CTO-P214-C05 -> CTO C005: value 90.75 not in the mapped chunk.
+Partial mappings make Hit/MRR stricter, not more lenient, for those queries.
+
+T08 AUDIT PACKETS
+
+The T08 sample was registered against the original archive hashes (A 6ea56939...,
+B 108acbf0...). Answer text is identical, so the packets remain valid
+(tests/test_expert_audit.py passes). prepare_expert_audit.py will refuse a rebuild
+against the relabelled archive by design; no rebuild is needed.
+
+NOT TO BE RUN
+
+The co-member instructions (2heldouttest.md, steps 4-5) delete interactions.jsonl and
+regenerate all 630 answers. That would replace the frozen held-out answers the T08
+packets are built from. It is not needed for the relabelling and must not be run.
