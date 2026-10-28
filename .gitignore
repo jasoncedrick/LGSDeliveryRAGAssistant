@@ -2,6 +2,10 @@ venv/
 __pycache__/
 *.pyc
 .env
+.env.*
+!.env.example
+.vercel/
+node_modules/
 *.egg-info/
 tmp/
 experiments/t08-t09-expert-audit-v1/private/
@@ -13,3 +17,5 @@ experiments/t10-t12-human-analysis-v1/private/
 outputs/**/*.inspect.ndjson
 outputs/**/tracker-before.png
 outputs/**/tracker-after.png
+.vercel
+.env*

@@ -1,0 +1,13 @@
+# Upload only the static build inputs. The full research repository stays in GitHub.
+**
+!package.json
+!vercel.json
+!scripts
+!scripts/build_citizen_vercel.cjs
+!website
+!website/**
+!config
+!config/website_sources.json
+!data
+!data/raw_charters
+!data/raw_charters/*.pdf

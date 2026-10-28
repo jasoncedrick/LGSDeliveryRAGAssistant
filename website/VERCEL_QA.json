@@ -1,0 +1,70 @@
+{
+  "stage": "local_build_verified_before_deploy",
+  "unit_api_tests_passed": 15,
+  "browser_checks": {
+    "passed": true,
+    "synthetic": true,
+    "model_calls": 0,
+    "checks": [
+      "desktop layout",
+      "topic suggestions",
+      "submit contract",
+      "language selector preserves original question",
+      "citation link and source passage",
+      "XSS text safety",
+      "new question reset",
+      "clarification handling",
+      "incomplete answer handling",
+      "five-source library",
+      "direct hash navigation",
+      "about page",
+      "mobile overflow",
+      "offline recovery",
+      "capacity error preserves question"
+    ],
+    "browser_errors": []
+  },
+  "motion_checks": {
+    "passed": true,
+    "model_calls": 0,
+    "checks": [
+      "local GSAP and Lenis loaded",
+      "entrance settles; readable input",
+      "Lenis active on desktop information page",
+      "wheel scroll advances",
+      "motion opt-out persists and destroys Lenis",
+      "OS reduced motion overrides all effects",
+      "chat retains native scroll",
+      "mobile question form precedes suggestions",
+      "no horizontal overflow at 320/390/768",
+      "keyboard submission works",
+      "content/form remain usable if vendor scripts fail"
+    ],
+    "browser_errors": []
+  },
+  "frozen_hashes_unchanged": 29,
+  "published_file_allowlist": [
+    "index.html",
+    "assets\\app.js",
+    "assets\\mark.svg",
+    "assets\\motion.css",
+    "assets\\motion.js",
+    "assets\\runtime-config.js",
+    "assets\\styles.css",
+    "assets\\THIRD_PARTY.md",
+    "assets\\vendor\\manifest.json",
+    "assets\\vendor\\gsap\\gsap.min.js",
+    "assets\\vendor\\lenis\\lenis.css",
+    "assets\\vendor\\lenis\\lenis.min.js",
+    "assets\\vendor\\lenis\\LICENSE",
+    "assets\\vendor\\react-bits\\LICENSE.md",
+    "sources\\building.pdf",
+    "sources\\business.pdf",
+    "sources\\catalog.json",
+    "sources\\fire.pdf",
+    "sources\\planning.pdf",
+    "sources\\treasury.pdf"
+  ],
+  "private_files_in_static_build": false,
+  "model_calls": 0
+}

@@ -9,6 +9,7 @@ import hashlib
 import importlib.util
 import json
 import logging
+import os
 import threading
 import time
 from contextlib import asynccontextmanager
@@ -20,6 +21,7 @@ import requests
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -163,7 +165,7 @@ def public_result(result):
             'latency_seconds':result.get('latency_seconds',0)}
 
 
-def create_app(runtime=None, start_runtime=True):
+def create_app(runtime=None, start_runtime=True, allowed_origins=None):
     runtime=runtime or Runtime()
 
     @asynccontextmanager
@@ -174,6 +176,14 @@ def create_app(runtime=None, start_runtime=True):
 
     app=FastAPI(title='eBOSS Citizen Assistant',lifespan=lifespan,docs_url=None,redoc_url=None)
     app.state.runtime=runtime
+    if allowed_origins is None:
+        allowed_origins=[s.strip() for s in os.environ.get('EBOSS_ALLOWED_ORIGINS',
+            'https://davaoragcitizencharter.com,https://www.davaoragcitizencharter.com,https://davaoragcitizencharter.vercel.app').split(',') if s.strip()]
+    if '*' in allowed_origins:
+        raise ValueError('Specify exact citizen frontend origins; wildcard CORS is not supported')
+    app.add_middleware(CORSMiddleware,allow_origins=allowed_origins,
+                       allow_methods=['GET','POST'],allow_headers=['Content-Type'],
+                       allow_credentials=False,expose_headers=['Retry-After'])
 
     @app.middleware('http')
     async def response_headers(request,call_next):

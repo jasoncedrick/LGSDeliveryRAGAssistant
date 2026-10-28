@@ -24,6 +24,26 @@ class WebsiteTests(unittest.TestCase):
         self.assertEqual(self.client.get('/sources/unknown.pdf').status_code,404)
         self.assertEqual(self.client.get('/sources/%2e%2e%2f.gitignore.pdf').status_code,404)
 
+    def test_cors_allows_only_configured_frontend_origins(self):
+        client=TestClient(create_app(self.runtime,start_runtime=False,allowed_origins=['https://davaoragcitizencharter.com']))
+        headers={'Origin':'https://davaoragcitizencharter.com','Access-Control-Request-Method':'POST','Access-Control-Request-Headers':'content-type'}
+        response=client.options('/api/query',headers=headers)
+        self.assertEqual(response.status_code,200)
+        self.assertEqual(response.headers['access-control-allow-origin'],headers['Origin'])
+        headers['Origin']='https://unrelated.example'
+        response=client.options('/api/query',headers=headers)
+        self.assertEqual(response.status_code,400)
+        self.assertNotIn('access-control-allow-origin',response.headers)
+        self.runtime.pipeline.handle_query.assert_not_called()
+
+    def test_static_source_registry_matches_backend_sources(self):
+        import json,hashlib
+        from app.website import ROOT,SOURCE_NAMES
+        registry=json.loads((ROOT/'config/website_sources.json').read_text())
+        self.assertEqual({s['id']:(s['office'],s['filename']) for s in registry},SOURCE_NAMES)
+        for s in registry:
+            self.assertEqual(hashlib.sha256((ROOT/'data/raw_charters'/s['filename']).read_bytes()).hexdigest(),s['sha256'])
+
     def test_registered_profile_still_matches_frozen_inputs(self):
         candidate,hashes=registered_profile()
         self.assertEqual(candidate['k'],3);self.assertGreaterEqual(len(hashes),10)

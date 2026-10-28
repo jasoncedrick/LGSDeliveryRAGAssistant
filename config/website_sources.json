@@ -1,0 +1,32 @@
+[
+  {
+    "id": "business",
+    "office": "Business Bureau",
+    "filename": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+    "sha256": "5ec6c626b194ad14fabfd6bd5b29671144f335d8fd38ccdae1d1dab6bff17145"
+  },
+  {
+    "id": "treasury",
+    "office": "City Treasurer's Office",
+    "filename": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "sha256": "b492eb8d220d1d9fb8b1d3acad2bba254d711e227063853415182b1715e546de"
+  },
+  {
+    "id": "building",
+    "office": "Office of the City Building Official",
+    "filename": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "sha256": "6f081dde0a63ade8aaa3f4dc5a26ceb0c7fde85f896951931d8222eaa86b3093"
+  },
+  {
+    "id": "fire",
+    "office": "Bureau of Fire Protection",
+    "filename": "BFP-CITIZENS-CHARTER-2022.pdf",
+    "sha256": "4390d6ddc91d3090adc413002f4a998cba1b46e07b66d41e6b3b6caf135c5f74"
+  },
+  {
+    "id": "planning",
+    "office": "City Planning and Development Office",
+    "filename": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+    "sha256": "6d1572dc7ef1122064b3db8d799f27356231dd2cbeafb84231c6f315820b1005"
+  }
+]

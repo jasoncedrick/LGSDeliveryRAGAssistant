@@ -1,5 +1,7 @@
 'use strict';
 const $ = selector => document.querySelector(selector);
+const websiteConfig=window.EBOSS_CONFIG||{apiOrigin:'',sourceCatalog:'/api/sources'};
+const apiURL=route=>(websiteConfig.apiOrigin||'')+route;
 const samples = {
   all: [['Business permits','What do I need to renew my business permit?'],['Building & occupancy','Unsa ang requirements para sa occupancy permit?'],['Fire safety','Paano mag-apply ng fire safety inspection certificate?']],
   business: [['New business','What documents do I need for a new business permit?'],['Renewal','Unsa ang requirements sa pag-renew sa business permit?'],['Business changes','Ano ang proseso para sa pagbabago ng business address?']],
@@ -32,7 +34,7 @@ document.querySelectorAll('[data-service]').forEach(button=>button.addEventListe
 
 async function checkHealth() {
   try {
-    const response=await fetch('/health',{signal:AbortSignal.timeout(6000)});
+    const response=await fetch(apiURL('/health'),{signal:AbortSignal.timeout(6000)});
     if(!response.ok)throw Error('health');const data=await response.json();ready=data.status==='ready';
     $('#connection-label').textContent=ready?'Assistant is ready':data.status==='starting'?'Loading charter sources':'Answer service unavailable';
     $('#connection-note').textContent=data.message||'The answer service is unavailable.';
@@ -82,7 +84,7 @@ $('#question-form').addEventListener('submit',async event=>{
   pending.querySelector('.message-body').prepend(el('span','loading-dot'));pending.setAttribute('aria-busy','true');
   pendingRequest=new AbortController();const timer=setTimeout(()=>pendingRequest?.abort(),260000);
   try {
-    const response=await fetch('/api/query',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({query:question,response_language:$('#response-language').value}),signal:pendingRequest.signal});
+    const response=await fetch(apiURL('/api/query'),{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({query:question,response_language:$('#response-language').value}),signal:pendingRequest.signal});
     let data;try{data=await response.json();}catch(_){throw Error('The server returned an unreadable response. Please try again.');}
     if(!response.ok)throw Error(typeof data.detail==='string'?data.detail:'The question could not be processed. Please try again.');
     const text=data.status==='CLARIFICATION_REQUIRED'?(data.clarification_prompt||data.answer):data.answer;
@@ -103,7 +105,7 @@ $('#new-question').addEventListener('click',()=>{if(busy)return;conversation.rep
 let libraryLoaded=false;
 async function loadSources(){
   if(libraryLoaded)return;const container=$('#source-library');container.textContent='Loading the source library…';
-  try{const response=await fetch('/api/sources');if(!response.ok)throw Error();const sources=await response.json();container.replaceChildren();
+  try{const response=await fetch(websiteConfig.sourceCatalog||'/api/sources');if(!response.ok)throw Error();const sources=await response.json();container.replaceChildren();
     sources.forEach(source=>{if(!/^\/sources\/[a-z]+\.pdf$/.test(source.url))return;const a=el('a','library-card');a.href=source.url;a.target='_blank';a.rel='noopener noreferrer';const text=el('div');text.append(el('h2','',source.office),el('p','',source.filename));a.append(el('span','library-icon','▤'),text,el('span','','↗'));container.append(a);});libraryLoaded=true;
   }catch(_){container.textContent='The source library could not be loaded. Please check your connection and reopen this tab.';}
 }
