@@ -54,5 +54,32 @@
     "language_direction_matches": 3,
     "quality_certified": false,
     "limitation": "Taglish/Bislish fluency and unsupported claims remain; this is a post-study demo prompt, not a validated replacement for T07."
+  },
+  "motion_and_readability": {
+    "passed": true,
+    "model_calls": 0,
+    "checks": [
+      "local GSAP and Lenis loaded",
+      "entrance settles; readable input",
+      "Lenis active on desktop information page",
+      "wheel scroll advances",
+      "motion opt-out persists and destroys Lenis",
+      "OS reduced motion overrides all effects",
+      "chat retains native scroll",
+      "mobile question form precedes suggestions",
+      "no horizontal overflow at 320/390/768",
+      "keyboard submission works",
+      "content/form remain usable if vendor scripts fail"
+    ],
+    "browser_errors": [],
+    "render_review": "Desktop 1440 and phone 390 layouts inspected; main form precedes suggestions on phones, 16px or larger body/input text, no horizontal overflow at tested widths.",
+    "registered_hashes_unchanged": 29,
+    "methodology_reference": "20260923.pdf PDF31, Chapter3 section3.2.6; presentation only. No new model calls or prompt/retrieval changes.",
+    "public_asset_bytes_match": {
+      "/assets/motion.js": true,
+      "/assets/motion.css": true,
+      "/assets/vendor/gsap/gsap.min.js": true,
+      "/assets/vendor/lenis/lenis.min.js": true
+    }
   }
 }

@@ -1,0 +1,58 @@
+/* Readable presentation layer; keeps the existing forest/cream identity. */
+:root{--muted:#526052}
+.lead{font-size:17px;color:#526052;line-height:1.75}
+.nav-link{font-size:15px;min-height:48px}
+.new-question{font-size:15px;min-height:48px}
+.sidebar-guide{font-size:14px}.sidebar-footer{font-size:12px}
+.topbar{font-size:13px;padding-right:32px;flex-wrap:wrap;gap:12px}
+.topbar-tools{display:flex;align-items:center;gap:12px}
+.prototype{font-size:10px;letter-spacing:.8px}
+#motion-toggle{font:inherit;font-size:12px;min-height:44px;border:1px solid #b8c2b0;border-radius:8px;background:transparent;color:#3f5544;padding:8px 12px}
+.service-picker button{font-size:13px;min-height:44px;padding:10px 14px}
+.suggestion{min-height:145px;padding:19px;border-radius:12px;box-shadow:0 3px 14px #173e3505}
+.suggestion small{font-size:11px;color:#526052;letter-spacing:.5px}
+.suggestion .question-text{font-size:16px;line-height:1.55}
+.composer{border-radius:14px;padding:20px;box-shadow:0 8px 30px #173e3508}
+.composer textarea{font-size:17px;min-height:64px}
+.composer textarea::placeholder{color:#606c5b}
+.question-label{display:block;font-size:15px;font-weight:600;margin-bottom:12px}
+.composer button{font-size:15px;min-height:48px;padding:12px 18px;position:relative;isolation:isolate}
+.language-choice{font-size:13px;color:#42553f;flex-wrap:wrap}
+.language-choice select{font-size:14px;min-height:44px;max-width:240px}
+.composer-note{font-size:12px;line-height:1.65;color:#526052}
+.message{font-size:17px;line-height:1.8}.message-label{font-size:12px}
+.message .notice{font-size:14px}.evidence>summary{font-size:14px;min-height:48px}
+.source-card h3{font-size:14px;overflow-wrap:anywhere}
+.source-card blockquote{font-size:15px;color:#465941}
+.source-card a,.copy-answer{font-size:14px;display:inline-block;min-height:44px;padding-top:10px}
+.citation-link{font-size:14px;min-height:28px;min-width:30px}
+.library-card h2{font-size:17px}.library-card p{font-size:13px}
+.info-note,.about-steps p,.about-note p{font-size:16px;color:#526052}
+.about-steps h2,.about-note h2{font-size:18px}
+.page-footer{font-size:10px;color:#526052}
+/* React Bits StarBorder-inspired edge accent, native CSS for this app.
+   A single hover/focus sweep; no continuously moving background behind text. */
+#send::before{content:'';position:absolute;inset:-2px;border-radius:9px;border:2px solid transparent;pointer-events:none}
+html[data-motion=on] #send:not(:disabled):is(:hover,:focus-visible)::before{animation:edge-light .65s ease-out 1}
+@keyframes edge-light{0%{border-color:#eac47f;box-shadow:0 0 0 0 #eac47f55}100%{border-color:transparent;box-shadow:0 0 0 6px #eac47f00}}
+html[data-motion=off] *{animation:none!important;transition:none!important;scroll-behavior:auto!important}
+@media(max-width:1100px){.topbar{padding:12px 24px;height:auto;min-height:83px}}
+@media(max-width:760px){
+  body:not(.chat-started) #view-ask{display:flex;flex-direction:column}
+  body:not(.chat-started) .welcome{display:contents}
+  body:not(.chat-started) .composer-wrap{order:1;width:100%;margin:24px 0 0}
+  body:not(.chat-started) .service-picker{order:2}
+  body:not(.chat-started) .suggestions{order:3}
+  .sidebar{padding:20px 18px 12px}.new-question{font-size:12px;right:18px;top:18px;padding:8px}
+  .sidebar nav{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:5px}.nav-link{font-size:12px;padding:9px 6px;min-height:48px;line-height:1.4}.sidebar-footer{font-size:12px}
+  .topbar{padding:12px 20px;gap:10px}.topbar-tools{width:100%;justify-content:space-between}
+  .view{padding:28px 20px 22px}h1{font-size:43px;letter-spacing:-1.3px}.lead{font-size:16px}
+  .suggestions{grid-template-columns:1fr;gap:10px}.suggestion{min-height:96px;padding:15px 17px;position:relative;padding-right:38px}
+  .suggestion small{font-size:11px;margin-bottom:7px}.suggestion .question-text{font-size:16px}.suggestion .arrow{position:absolute;right:15px;bottom:15px}
+  .service-picker button{font-size:13px;min-height:44px}.composer{padding:16px}
+  .composer textarea{font-size:16px}.composer-bottom{flex-wrap:wrap;align-items:end;gap:12px}
+  .language-choice{font-size:12px}.language-choice select{font-size:14px;max-width:230px;padding:8px}
+  .composer button{font-size:14px;flex:1;justify-content:center;min-width:110px}
+  .message{font-size:16px}.library-card h2{font-size:16px}.page-footer{font-size:10px;flex-wrap:wrap;gap:10px}
+}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}}

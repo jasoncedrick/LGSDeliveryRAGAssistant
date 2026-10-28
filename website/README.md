@@ -38,6 +38,8 @@ See [the language revision record](LANGUAGE_REVISION.md) for the automatic langu
 
 ## Tests
 
+The presentation layer also uses locally hosted GSAP/Lenis and React Bits-inspired adaptations. See [third-party notices and methodology boundaries](THIRD_PARTY.md). Motion can be switched off and respects the device reduced-motion setting. Chat scrolling remains native. Run `node scripts/test_website_motion.cjs` for targeted presentation checks; it makes no model calls.
+
 ```powershell
 D:\thesis\venv\Scripts\python.exe -m unittest discover -s tests -p "test_*website*.py" -v
 node scripts/test_citizen_website_browser.cjs

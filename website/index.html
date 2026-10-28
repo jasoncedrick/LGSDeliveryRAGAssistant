@@ -8,7 +8,12 @@
   <title>eBOSS · Davao City service guide</title>
   <link rel="icon" href="/assets/mark.svg" type="image/svg+xml">
   <link rel="stylesheet" href="/assets/styles.css">
+  <link rel="stylesheet" href="/assets/vendor/lenis/lenis.css">
+  <link rel="stylesheet" href="/assets/motion.css">
+  <script src="/assets/vendor/gsap/gsap.min.js" defer></script>
+  <script src="/assets/vendor/lenis/lenis.min.js" defer></script>
   <script src="/assets/app.js" defer></script>
+  <script src="/assets/motion.js" defer></script>
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>
@@ -24,7 +29,7 @@
     <div class="sidebar-footer"><span class="status-dot" id="status-dot"></span><span id="connection-label">Connecting to the assistant</span><button id="check-connection" aria-label="Check connection again" title="Check connection again">↻</button></div>
   </aside>
   <div class="workspace">
-    <header class="topbar"><span>Local services, made easier to understand.</span><span class="prototype">RESEARCH PROTOTYPE</span></header>
+    <header class="topbar"><span>Local services, made easier to understand.</span><div class="topbar-tools"><span class="prototype">RESEARCH PROTOTYPE</span><button id="motion-toggle" type="button" aria-pressed="true">Motion on</button></div></header>
     <main id="main" tabindex="-1">
       <section id="view-ask" class="view" aria-labelledby="welcome-title">
         <div class="welcome" id="welcome">
@@ -45,7 +50,7 @@
         <div class="composer-wrap">
           <div class="connection-note" id="connection-note" role="status" hidden></div>
           <form id="question-form" class="composer">
-            <label for="question" class="sr-only">Your question about a Davao City service</label>
+            <label for="question" class="question-label">What would you like to know?</label>
             <textarea id="question" name="question" rows="2" maxlength="2000" placeholder="Unsa imong pangutana? Ask in English, Taglish, or Bislish." required></textarea>
             <div class="composer-bottom"><label class="language-choice" for="response-language">Answer in <select id="response-language"><option value="auto">Auto · match my question</option><option value="taglish">Tagalog / Taglish</option><option value="bislish">Bisaya / Bislish</option><option value="english">English</option></select></label><button id="send" type="submit" aria-label="Send question"><span class="send-text">Ask eBOSS</span><span aria-hidden="true">↗</span></button></div>
           </form>
