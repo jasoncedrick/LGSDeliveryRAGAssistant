@@ -1,0 +1,147 @@
+{
+  "archive_path": "C:\\Users\\User\\.codex\\.chatgpt-projects\\g-p-6ac6a06fa534819186f2a4eae6c3c4e6\\output\\eboss-400-question-test-20261028.zip",
+  "archive_sha256": "cc3c06b8cefdba886b528a160388dc72c277f094206eb07bf10c1a262d5ab2a5",
+  "manifest_files_checked": 455,
+  "manifest_mismatches": [],
+  "unique_questions": 200,
+  "total_submissions": 400,
+  "runs": [
+    {
+      "folder": "eboss-200-questions-20261028",
+      "records": 200,
+      "unique_ids": 200,
+      "http": {
+        "200": 197,
+        "502": 2,
+        "503": 1
+      },
+      "app_statuses": {
+        "ANSWERED": 181,
+        "CLARIFICATION_REQUIRED": 13,
+        "GENERATION_INCOMPLETE": 3,
+        "None": 3
+      },
+      "mean_seconds": 18.360955,
+      "median_seconds": 18.363500000000002,
+      "p95_seconds_nearest_rank": 25.485,
+      "max_seconds": 50.495,
+      "citation_label_warnings": 16,
+      "internal_ids_in_answer": 32,
+      "json_matches_jsonl": true,
+      "screenshots": 200
+    },
+    {
+      "folder": "eboss-200-repeat-20261028",
+      "records": 200,
+      "unique_ids": 200,
+      "http": {
+        "200": 200
+      },
+      "app_statuses": {
+        "ANSWERED": 184,
+        "CLARIFICATION_REQUIRED": 13,
+        "GENERATION_INCOMPLETE": 3
+      },
+      "mean_seconds": 18.4267,
+      "median_seconds": 18.223,
+      "p95_seconds_nearest_rank": 24.196,
+      "max_seconds": 49.705,
+      "citation_label_warnings": 16,
+      "internal_ids_in_answer": 34,
+      "json_matches_jsonl": true,
+      "screenshots": 200
+    }
+  ],
+  "assessment_scope": "Independent structural/statistical audit of all records; targeted assistant source checks, not exhaustive correctness scoring or human ratings.",
+  "paired": {
+    "same_queries": true,
+    "both_http_200": 197,
+    "same_answer_among_both_http_200": 197,
+    "same_citations_among_both_http_200": 197,
+    "different_answers_ids": [
+      "Q092",
+      "Q093",
+      "Q094"
+    ]
+  },
+  "source_pdf_matches": {
+    "business": true,
+    "treasury": true,
+    "building": true,
+    "fire": true,
+    "planning": true
+  },
+  "language_metadata_disagreements": [
+    {
+      "id": "Q059",
+      "query": "Pwede walk in sa CPDO para locational clearance sa negosyo?",
+      "authored_label": "bislish",
+      "selected_response_language": "taglish"
+    },
+    {
+      "id": "Q074",
+      "query": "Gi-deny akong locational clearance. Pwede ba ko mo-appeal?",
+      "authored_label": "bislish",
+      "selected_response_language": "taglish"
+    },
+    {
+      "id": "Q075",
+      "query": "Pwede ba akong representative ang magbayad sa professional tax nako?",
+      "authored_label": "bislish",
+      "selected_response_language": "taglish"
+    },
+    {
+      "id": "Q085",
+      "query": "Anong papers ang dadalhin pag magbabayad ng amilyar?",
+      "authored_label": "taglish",
+      "selected_response_language": "english"
+    },
+    {
+      "id": "Q097",
+      "query": "Sino ang pipirma sa certificate of completion ng building?",
+      "authored_label": "taglish",
+      "selected_response_language": "english"
+    },
+    {
+      "id": "Q102",
+      "query": "Kailangan ba og actual inspection before mahatag ang occupancy permit?",
+      "authored_label": "bislish",
+      "selected_response_language": "taglish"
+    },
+    {
+      "id": "Q116",
+      "query": "Need ba nako dalhon ang original ID or photocopy ra sa business application?",
+      "authored_label": "bislish",
+      "selected_response_language": "taglish"
+    },
+    {
+      "id": "Q147",
+      "query": "Magbutang kog construction materials sa sidewalk. Kailangan ba og permission?",
+      "authored_label": "bislish",
+      "selected_response_language": "taglish"
+    },
+    {
+      "id": "Q178",
+      "query": "Can you approve my business permit here?",
+      "authored_label": "taglish",
+      "selected_response_language": "english"
+    },
+    {
+      "id": "Q193",
+      "query": "Kung expired na pwede pa?",
+      "authored_label": "bislish",
+      "selected_response_language": "taglish"
+    }
+  ],
+  "language_warning": "These ten metadata disagreements are not ten proven language failures. Q178 is an English query mislabeled Taglish in the test manifest; response_language is a selection field, not a measured fluency score.",
+  "queue_test": false,
+  "limitations": [
+    "Sequential runs; no multi-user load test.",
+    "First run spans an interruption and two frontend versions.",
+    "Backend revision/model configuration not recorded by tester.",
+    "Saved public response lacks normalized query, injected dictionary terms, ranking scores and complete internal diagnostics.",
+    "No exhaustive claim-level gold labels; no accuracy, Hit/MRR or RAGAS score inferred.",
+    "Held-out split membership not certified.",
+    "Archive authenticity beyond its internal integrity is not independently established."
+  ]
+}

@@ -1,0 +1,201 @@
+﻿id,category,query,author_language_label,run1_http,run2_http,run2_status,same_answer,run2_seconds,citation_warning,internal_id_in_answer,targeted_review_priority,targeted_review_issue
+Q001,business,"Hi, I'm opening a small coffee stall in Davao. Where do I start with the business permit?",english,200,200,ANSWERED,True,21.013,False,False,,Not individually correctness-rated in this review
+Q002,building,I'm planning to build a small house. What permit should I get first?,english,200,200,ANSWERED,True,18.541,False,False,P1,Condition generalized
+Q003,fire,I need a fire certificate for my new store. Which one do I apply for?,english,200,200,ANSWERED,True,16.582,False,False,,Not individually correctness-rated in this review
+Q004,planning,I'm opening a bakery. How do I know if the location is allowed for that business?,english,200,200,ANSWERED,True,20.475,False,False,,Not individually correctness-rated in this review
+Q005,treasury,Where do I get a cedula in Davao?,english,200,200,CLARIFICATION_REQUIRED,True,2.104,False,False,,Not individually correctness-rated in this review
+Q006,business,"First time ko mag negosyo, ano po dadalhin ko sa Business Bureau?",taglish,200,200,ANSWERED,True,19.877,False,False,,Not individually correctness-rated in this review
+Q007,building,"Magpapagawa ako ng second floor, kailangan ko ba ng bagong building permit?",taglish,200,200,ANSWERED,True,16.354,False,False,,Not individually correctness-rated in this review
+Q008,fire,Ano po difference ng FSEC at FSIC? Nalilito ako.,taglish,200,200,ANSWERED,True,22.436,False,False,,Not individually correctness-rated in this review
+Q009,planning,Ano po yung locational clearance at bakit kailangan sa negosyo?,taglish,200,200,ANSWERED,True,22.894,True,True,,Not individually correctness-rated in this review
+Q010,treasury,Pwede bang online kumuha ng cedula?,taglish,200,200,CLARIFICATION_REQUIRED,True,2.501,False,False,,Not individually correctness-rated in this review
+Q011,business,"Mag open kog sari sari store sa balay, need pa ba og business permit?",bislish,200,200,CLARIFICATION_REQUIRED,True,0.066,False,False,,Not individually correctness-rated in this review
+Q012,building,Asa ko mag submit og building permit application sa Davao?,bislish,200,200,ANSWERED,True,15.841,False,False,,Not individually correctness-rated in this review
+Q013,fire,Asa ko moapply og fire safety certificate sa Davao?,bislish,200,200,ANSWERED,True,20.543,False,False,,Not individually correctness-rated in this review
+Q014,planning,Asa dapit mag-apply og zoning clearance sa Davao?,bislish,200,200,ANSWERED,True,27.852,False,False,,Not individually correctness-rated in this review
+Q015,treasury,Unsa nga requirements para cedula kung employed ko?,bislish,200,200,CLARIFICATION_REQUIRED,True,2.375,False,False,P1,Unnecessary / untranslated clarification
+Q016,business,Can I apply for a business permit online or do I need to go there?,english,200,200,ANSWERED,True,16.614,False,False,,Not individually correctness-rated in this review
+Q017,building,Who needs to sign the plans for a building permit?,english,200,200,ANSWERED,True,16.073,False,False,P1,Wrong service
+Q018,fire,Do I submit the fire safety form to BFP or through the business permit office?,english,200,200,ANSWERED,True,19.836,False,False,,Not individually correctness-rated in this review
+Q019,planning,Is locational clearance for a business the same as clearance for construction?,english,200,200,ANSWERED,True,17.532,False,False,,Not individually correctness-rated in this review
+Q020,treasury,I'm unemployed. What document should I bring for a community tax certificate?,english,200,200,ANSWERED,True,17.455,False,False,P1,Wrong documentary advice
+Q021,business,May DTI na ako. Okay na ba yun para makapag-open ng shop?,taglish,200,200,ANSWERED,True,22.024,False,False,,Not individually correctness-rated in this review
+Q022,building,Pwede ba ako mismo gumawa ng drawing para sa building permit?,taglish,200,200,ANSWERED,True,17.442,False,False,,Not individually correctness-rated in this review
+Q023,fire,May form ba online para sa fire safety application?,taglish,200,200,ANSWERED,True,24.172,True,False,,Not individually correctness-rated in this review
+Q024,planning,Residential yung lugar namin. Pwede ba magtayo ng maliit na tindahan doon?,taglish,200,200,ANSWERED,True,18.557,False,True,,Not individually correctness-rated in this review
+Q025,treasury,Kailangan ba ng valid ID pagkuha ng cedula?,taglish,200,200,CLARIFICATION_REQUIRED,True,2.478,False,False,,Not individually correctness-rated in this review
+Q026,business,Asa ko makakuha sa application form para negosyo?,bislish,200,200,ANSWERED,True,14.573,False,False,,Not individually correctness-rated in this review
+Q027,building,Unsa nga documents ang ipakita kung ako ang tag-iya sa yuta?,bislish,200,200,ANSWERED,True,19.792,False,False,,Not individually correctness-rated in this review
+Q028,fire,Bag-o pa mi magpatukod og balay. FSEC ba akong kinahanglan?,bislish,200,200,CLARIFICATION_REQUIRED,True,2.113,False,False,,Not individually correctness-rated in this review
+Q029,planning,Home-based ra akong online shop. Unsay requirements sa CPDO?,bislish,200,200,ANSWERED,True,20.823,False,True,,Not individually correctness-rated in this review
+Q030,treasury,Naa na koy cedula reference number online. Unsa akong sunod buhaton?,bislish,200,200,CLARIFICATION_REQUIRED,True,2.247,False,False,,Not individually correctness-rated in this review
+Q031,business,I'm renting the shop space. What papers do I need from my landlord?,english,200,200,ANSWERED,True,15.133,False,True,,Not individually correctness-rated in this review
+Q032,building,I'm building on my parents' land. What authorization do I need?,english,200,200,ANSWERED,True,15.459,False,False,,Not individually correctness-rated in this review
+Q033,fire,What kinds of plans are required for a fire safety evaluation?,english,200,200,ANSWERED,True,17.404,False,False,,Not individually correctness-rated in this review
+Q034,planning,Do I need my neighbors' consent for a business at home?,english,200,200,ANSWERED,True,22.013,False,True,P1,False absence claim
+Q035,treasury,Where do I pay after completing the online cedula form?,english,200,200,CLARIFICATION_REQUIRED,True,2.094,False,False,,Not individually correctness-rated in this review
+Q036,business,"Online selling lang sa bahay, kailangan ko rin ba ng mayor's permit?",taglish,200,200,ANSWERED,True,18.784,False,False,P0,Unsupported exemption
+Q037,building,"Renovation lang ng maliit na shop, permit pa rin ba kailangan?",taglish,200,200,ANSWERED,True,21.16,False,False,,Not individually correctness-rated in this review
+Q038,fire,Kailangan ba signed and sealed yung plans na isusubmit sa BFP?,taglish,200,200,ANSWERED,True,20.453,False,False,,Not individually correctness-rated in this review
+Q039,planning,Kailangan ba ng homeowners association approval para sa negosyo sa subdivision?,taglish,200,200,ANSWERED,True,16.997,False,False,,Not individually correctness-rated in this review
+Q040,treasury,Gaano katagal kumuha ng cedula ayon sa charter?,taglish,200,200,CLARIFICATION_REQUIRED,True,2.336,False,False,,Not individually correctness-rated in this review
+Q041,business,Wala koy empleyado sa akong tindahan. Unsa akong ipasa nga employee list?,bislish,200,200,ANSWERED,True,14.071,False,False,,Not individually correctness-rated in this review
+Q042,building,Magbutang ko og concrete fence. Unsay permit ani?,bislish,200,200,ANSWERED,True,14.487,False,False,,Not individually correctness-rated in this review
+Q043,fire,Pila ka copies sa plans akong dalhon para fire safety evaluation?,bislish,200,200,ANSWERED,True,16.331,False,False,,Not individually correctness-rated in this review
+Q044,planning,Unsay sketch map nga gipangayo sa planning office?,bislish,200,200,ANSWERED,True,18.911,False,True,,Not individually correctness-rated in this review
+Q045,treasury,Unsa nga office ang mohatag sa community tax certificate?,bislish,200,200,ANSWERED,True,16.432,False,False,,Not individually correctness-rated in this review
+Q046,business,Can my sister file my business application for me?,english,200,200,ANSWERED,True,20.44,False,True,,Not individually correctness-rated in this review
+Q047,building,What do I submit for a fencing permit?,english,200,200,ANSWERED,True,16.652,False,False,,Not individually correctness-rated in this review
+Q048,fire,Do the professionals' PRC licenses need to be included in the fire application?,english,200,200,ANSWERED,True,17.28,False,False,,Not individually correctness-rated in this review
+Q049,planning,What should the photographs for my business locational clearance show?,english,200,200,ANSWERED,True,18.565,False,False,,Not individually correctness-rated in this review
+Q050,treasury,Is a company's community tax certificate different from an individual's?,english,200,200,ANSWERED,True,18.027,False,False,,Not individually correctness-rated in this review
+Q051,business,Anong authorization ang kailangan kung staff ko ang mag-aasikaso ng permit?,taglish,200,200,ANSWERED,True,16.398,False,False,,Not individually correctness-rated in this review
+Q052,building,Maglalagay kami ng signboard sa tindahan. May permit ba para doon?,taglish,200,200,ANSWERED,True,20.13,False,False,,Not individually correctness-rated in this review
+Q053,fire,Kasama ba yung estimate ng construction cost sa requirements ng BFP?,taglish,200,200,ANSWERED,True,21.446,False,False,,Not individually correctness-rated in this review
+Q054,planning,Paano ako mag-aapply online ng locational clearance for business?,taglish,200,200,ANSWERED,True,23.408,False,False,,Not individually correctness-rated in this review
+Q055,treasury,Paano ako kukuha ng professional tax receipt?,taglish,200,200,ANSWERED,True,20.383,True,True,,Not individually correctness-rated in this review
+Q056,business,Naa koy gamay nga laundry shop. Unsay requirements nga related sa fire safety?,bislish,200,200,ANSWERED,True,23.22,False,False,,Not individually correctness-rated in this review
+Q057,building,Magtaod ko og awning sa atubangan sa shop. Asa ko mangutana sa permit?,bislish,200,200,ANSWERED,True,17.411,True,False,,Not individually correctness-rated in this review
+Q058,fire,Unsa nang Fire Safety Compliance Report? Kinahanglan ba tanan building ana?,bislish,200,200,ANSWERED,True,18.324,False,False,,Not individually correctness-rated in this review
+Q059,planning,Pwede walk in sa CPDO para locational clearance sa negosyo?,bislish,200,200,ANSWERED,True,19.165,True,True,,Not individually correctness-rated in this review
+Q060,treasury,Asa ko magbayad sa professional tax sa Davao?,bislish,200,200,ANSWERED,True,22.706,True,False,,Not individually correctness-rated in this review
+Q061,business,My business is a partnership. Is the registration requirement different from a sole proprietor?,english,200,200,ANSWERED,True,17.537,False,False,,Not individually correctness-rated in this review
+Q062,building,Do I need a separate permit for electrical work in a new building?,english,200,200,ANSWERED,True,18.811,False,False,,Not individually correctness-rated in this review
+Q063,fire,Does every small store need a sprinkler system report?,english,200,200,ANSWERED,True,17.804,False,False,,Not individually correctness-rated in this review
+Q064,planning,Who can submit a business zoning application on behalf of the owner?,english,200,200,ANSWERED,True,16.416,False,False,,Not individually correctness-rated in this review
+Q065,treasury,What documents do I need for my first professional tax receipt?,english,200,200,ANSWERED,True,16.716,False,False,,Not individually correctness-rated in this review
+Q066,business,Paano kung corporation yung mag-aapply ng business permit?,taglish,200,200,ANSWERED,True,18.209,False,False,,Not individually correctness-rated in this review
+Q067,building,Ano kailangan para sa electrical permit ng bahay?,taglish,200,200,GENERATION_INCOMPLETE,True,49.675,False,False,P2,Incomplete generation
+Q068,fire,May FSIC na yung building namin. Need ko pa ba ulit para sa bagong negosyo?,taglish,200,200,ANSWERED,True,17.645,False,False,,Not individually correctness-rated in this review
+Q069,planning,"Kung kulang yung zoning documents ko, ire-reject ba agad?",taglish,200,200,ANSWERED,True,17.159,False,False,,Not individually correctness-rated in this review
+Q070,treasury,"May PRC license ako, kailangan ko pa ba ng PTR?",taglish,200,200,ANSWERED,True,18.131,False,False,,Not individually correctness-rated in this review
+Q071,business,"Cooperative mi, unsa nga registration papers ang dalhon?",bislish,200,200,GENERATION_INCOMPLETE,True,49.478,False,False,,Not individually correctness-rated in this review
+Q072,building,Unsa nang sanitary permit sa building construction? Pareho ra na sa plumbing?,bislish,200,200,ANSWERED,True,16.421,False,False,,Not individually correctness-rated in this review
+Q073,fire,Expired na akong FSIC. Unsay first step para ma-renew?,bislish,200,200,ANSWERED,True,28.594,False,False,,Not individually correctness-rated in this review
+Q074,planning,Gi-deny akong locational clearance. Pwede ba ko mo-appeal?,bislish,200,200,ANSWERED,True,16.915,False,False,,Not individually correctness-rated in this review
+Q075,treasury,Pwede ba akong representative ang magbayad sa professional tax nako?,bislish,200,200,ANSWERED,True,18.301,False,False,,Not individually correctness-rated in this review
+Q076,business,Do I need pictures of my shop when applying for a business permit?,english,200,200,ANSWERED,True,16.916,False,False,,Not individually correctness-rated in this review
+Q077,building,Who handles a mechanical permit for installing equipment?,english,200,200,ANSWERED,True,15.25,False,False,,Not individually correctness-rated in this review
+Q078,fire,My fire certificate is still valid. What do I bring for business renewal?,english,200,200,ANSWERED,True,19.221,False,False,,Not individually correctness-rated in this review
+Q079,planning,How do I ask for reconsideration after a zoning application is denied?,english,200,200,ANSWERED,True,18.804,False,False,,Not individually correctness-rated in this review
+Q080,treasury,Where do I pay real property tax for a house in Davao?,english,200,200,ANSWERED,True,15.731,False,False,,Not individually correctness-rated in this review
+Q081,business,Kailangan bang notarized ang list of employees?,taglish,200,200,ANSWERED,True,16.319,True,False,,Not individually correctness-rated in this review
+Q082,building,"May elevator project kami, sa OCBO ba kami mag-aapply?",taglish,200,200,ANSWERED,True,17.243,False,False,,Not individually correctness-rated in this review
+Q083,fire,"May violation dati sa shop, paano mag-renew ng fire certificate?",taglish,200,200,GENERATION_INCOMPLETE,True,49.705,False,False,,Not individually correctness-rated in this review
+Q084,planning,Ano kailangan dalhin para sa motion for reconsideration sa CPDO?,taglish,200,200,ANSWERED,True,16.98,False,False,,Not individually correctness-rated in this review
+Q085,treasury,Anong papers ang dadalhin pag magbabayad ng amilyar?,taglish,200,200,ANSWERED,True,17.611,False,False,,Not individually correctness-rated in this review
+Q086,business,Nag submit nako online. Unsaon nako pagkahibalo kung approved na?,bislish,200,200,ANSWERED,True,18.49,False,True,,Not individually correctness-rated in this review
+Q087,building,Human na among balay. Pwede na ba mi mobalhin bisan wala pay occupancy permit?,bislish,200,200,CLARIFICATION_REQUIRED,True,2.112,False,False,,Not individually correctness-rated in this review
+Q088,fire,Unsaon nako pagkahibalo kung apil akong shop sa inspection?,bislish,200,200,ANSWERED,True,19.699,False,True,,Not individually correctness-rated in this review
+Q089,planning,Conditional approval akong nadawat sa zoning. Unsay pasabot ana?,bislish,200,200,ANSWERED,True,20.03,False,False,,Not individually correctness-rated in this review
+Q090,treasury,Wala nako akong old tax receipt. Makabayad gihapon ko sa amilyar?,bislish,200,200,ANSWERED,True,17.703,False,False,,Not individually correctness-rated in this review
+Q091,business,My application says pending. Does that mean I was rejected?,english,200,200,ANSWERED,True,19.481,False,False,,Not individually correctness-rated in this review
+Q092,building,What is the difference between a building permit and an occupancy permit?,english,502,200,ANSWERED,False,21.067,False,True,,Not individually correctness-rated in this review
+Q093,fire,Can my authorized representative submit my fire safety papers?,english,502,200,ANSWERED,False,16.449,False,False,,Not individually correctness-rated in this review
+Q094,planning,My building will have three floors. Which locational-clearance process applies?,english,503,200,ANSWERED,False,19.325,False,True,,Not individually correctness-rated in this review
+Q095,treasury,Can I request a real property tax clearance from the City Treasurer?,english,200,200,ANSWERED,True,17.293,False,False,,Not individually correctness-rated in this review
+Q096,business,"May kulang daw sa business application ko, saan ko malalaman kung ano?",taglish,200,200,ANSWERED,True,21.807,False,False,,Not individually correctness-rated in this review
+Q097,building,Sino ang pipirma sa certificate of completion ng building?,taglish,200,200,ANSWERED,True,17.018,False,False,,Not individually correctness-rated in this review
+Q098,fire,Pwede ba sabay na bayaran ang fire fees at business permit fees?,taglish,200,200,ANSWERED,True,18.888,False,False,,Not individually correctness-rated in this review
+Q099,planning,"Two-storey house lang, ano requirements sa locational clearance for building?",taglish,200,200,ANSWERED,True,18.531,False,False,,Not individually correctness-rated in this review
+Q100,treasury,Paano kumuha ng tax clearance para sa lupa?,taglish,200,200,ANSWERED,True,22.229,False,False,,Not individually correctness-rated in this review
+Q101,business,Naa koy existing permit. Kanus-a nako ni i-renew?,bislish,200,200,ANSWERED,True,17.724,False,False,,Not individually correctness-rated in this review
+Q102,building,Kailangan ba og actual inspection before mahatag ang occupancy permit?,bislish,200,200,ANSWERED,True,17.258,False,False,,Not individually correctness-rated in this review
+Q103,fire,Unsa nang OPS nga ihatag sa BFP? Asa ko mobayad ana?,bislish,200,200,ANSWERED,True,23.58,False,False,,Not individually correctness-rated in this review
+Q104,planning,Pila ka sets sa building plans ang ipasa sa CPDO?,bislish,200,200,ANSWERED,True,17.671,False,False,P1,Wrong office / quantity
+Q105,treasury,Asa ko mangutana kung naa pay unpaid real property tax akong property?,bislish,200,200,ANSWERED,True,17.279,False,False,,Not individually correctness-rated in this review
+Q106,business,Where do I pay after my business application gets approved?,english,200,200,ANSWERED,True,18.953,False,False,,Not individually correctness-rated in this review
+Q107,building,Do I need fire clearance before getting an occupancy permit?,english,200,200,ANSWERED,True,16.664,False,False,,Not individually correctness-rated in this review
+Q108,fire,What happens after I pay the fire safety assessment?,english,200,200,ANSWERED,True,20.177,False,False,,Not individually correctness-rated in this review
+Q109,planning,Does the locational-clearance application need to be notarized?,english,200,200,ANSWERED,True,15.549,False,False,,Not individually correctness-rated in this review
+Q110,treasury,What should I bring when paying business taxes at the City Treasurer's Office?,english,200,200,ANSWERED,True,16.102,False,False,,Not individually correctness-rated in this review
+Q111,business,Pag bayad ko ba makukuha ko na agad yung business permit?,taglish,200,200,ANSWERED,True,21.43,False,False,,Not individually correctness-rated in this review
+Q112,building,"Iba na yung engineer namin ngayon, ano ang kailangan i-submit?",taglish,200,200,ANSWERED,True,22.195,False,False,,Not individually correctness-rated in this review
+Q113,fire,Kailan ko malalaman ang release date ng fire certificate?,taglish,200,200,ANSWERED,True,18.237,False,False,,Not individually correctness-rated in this review
+Q114,planning,Kailangan original land title sa CPDO o okay photocopy?,taglish,200,200,ANSWERED,True,17.036,True,True,,Not individually correctness-rated in this review
+Q115,treasury,May assessment na ako ng business tax. Saan ko babayaran?,taglish,200,200,ANSWERED,True,23.374,False,False,,Not individually correctness-rated in this review
+Q116,business,Need ba nako dalhon ang original ID or photocopy ra sa business application?,bislish,200,200,ANSWERED,True,18.36,True,True,,Not individually correctness-rated in this review
+Q117,building,Usbon namo ang approved plan gamay. Kinahanglan ba i-report sa OCBO?,bislish,200,200,ANSWERED,True,16.894,False,False,,Not individually correctness-rated in this review
+Q118,fire,Naa koy claim stub sa BFP. Unsa akong dalhon pagkuha sa certificate?,bislish,200,200,ANSWERED,True,17.333,False,False,,Not individually correctness-rated in this review
+Q119,planning,Asa ko makakuha og GIS zoning map para sa building application?,bislish,200,200,ANSWERED,True,15.102,False,False,,Not individually correctness-rated in this review
+Q120,treasury,Pwede mag installment sa business tax or full payment jud?,bislish,200,200,ANSWERED,True,19.058,False,True,,Not individually correctness-rated in this review
+Q121,business,Can I start operating while my permit application is still pending?,english,200,200,ANSWERED,True,18.614,False,False,,Not individually correctness-rated in this review
+Q122,building,Where can I request a copy of my old building plans?,english,200,200,ANSWERED,True,15.757,False,False,,Not individually correctness-rated in this review
+Q123,fire,How long does a simple fire safety application normally take according to the charter?,english,200,200,ANSWERED,True,16.862,False,False,,Not individually correctness-rated in this review
+Q124,planning,I'm renting the land for my building. What property document does CPDO need?,english,200,200,ANSWERED,True,15.206,False,False,,Not individually correctness-rated in this review
+Q125,treasury,How do I request a copy of an official receipt from the City Treasurer?,english,200,200,ANSWERED,True,18.929,False,False,,Not individually correctness-rated in this review
+Q126,business,Lipat ako ng shop sa ibang barangay. Ano muna kailangan kong gawin?,taglish,200,200,ANSWERED,True,24.221,False,False,,Not individually correctness-rated in this review
+Q127,building,"Nawala ko yung building permit papers, saan kukuha ng copy?",taglish,200,200,ANSWERED,True,20.585,True,True,,Not individually correctness-rated in this review
+Q128,fire,Bakit mas matagal ang fire clearance ng ibang buildings?,taglish,200,200,ANSWERED,True,22.315,False,False,,Not individually correctness-rated in this review
+Q129,planning,"May lot ako sa watershed area, anong clearance dapat itanong ko sa CPDO?",taglish,200,200,ANSWERED,True,16.451,False,True,,Not individually correctness-rated in this review
+Q130,treasury,"Nawala yung resibo ng bayad sa city hall, paano makahingi ng copy?",taglish,200,200,CLARIFICATION_REQUIRED,True,2.878,False,False,,Not individually correctness-rated in this review
+Q131,business,Dungagan nako og printing service akong computer shop. I-update ba nako ang permit?,bislish,200,200,ANSWERED,True,20.614,False,False,,Not individually correctness-rated in this review
+Q132,building,Pwede akong contractor ang mo-follow up sa building application?,bislish,200,200,ANSWERED,True,14.027,False,False,,Not individually correctness-rated in this review
+Q133,fire,Mag welding mi sa shop for repairs. Need ba og fire clearance ana?,bislish,200,200,ANSWERED,True,21.219,False,False,P0,Unsupported exemption
+Q134,planning,Unsa nang UEESZ clearance? Pareho ra sa ordinary zoning clearance?,bislish,200,200,ANSWERED,True,20.254,False,True,P1,Invented acronym expansion
+Q135,treasury,Unsaon nako pagkuha og certification nga wala koy tax arrears?,bislish,200,200,ANSWERED,True,16.646,False,False,,Not individually correctness-rated in this review
+Q136,business,I sold my small shop to someone else. How do we change the permit owner?,english,200,200,ANSWERED,True,18.152,False,False,,Not individually correctness-rated in this review
+Q137,building,How do I check whether my building permit is ready for pickup?,english,200,200,ANSWERED,True,16.779,False,False,,Not individually correctness-rated in this review
+Q138,fire,Is a hot-work clearance good for a whole year or just one project?,english,200,200,ANSWERED,True,14.789,False,False,,Not individually correctness-rated in this review
+Q139,planning,Where do I ask whether my lot is within a protected zoning area?,english,200,200,ANSWERED,True,15.866,False,False,,Not individually correctness-rated in this review
+Q140,treasury,What does a tax declaration mean? Is it the same as a land title?,english,200,200,ANSWERED,True,13.92,False,False,,Not individually correctness-rated in this review
+Q141,business,"Mali yung spelling ng pangalan sa business permit ko, paano ipaayos?",taglish,200,200,ANSWERED,True,20.647,False,False,,Not individually correctness-rated in this review
+Q142,building,May bayad ba agad pag submit ng building permit application?,taglish,200,200,ANSWERED,True,22.146,True,True,,Not individually correctness-rated in this review
+Q143,fire,Pwede bang BFP ang magrecommend kung saan bibili ng fire extinguisher?,taglish,200,200,ANSWERED,True,17.437,False,False,,Not individually correctness-rated in this review
+Q144,planning,Sino mag-evaluate kung allowed ang business activity ko sa location?,taglish,200,200,ANSWERED,True,18.301,False,False,,Not individually correctness-rated in this review
+Q145,treasury,Sa city treasurer ba pupunta para magpa-transfer ng tax declaration?,taglish,200,200,ANSWERED,True,18.129,False,False,,Not individually correctness-rated in this review
+Q146,business,Sirado na akong negosyo permanently. Unsaon pag-retire sa permit?,bislish,200,200,ANSWERED,True,20.856,False,False,,Not individually correctness-rated in this review
+Q147,building,Magbutang kog construction materials sa sidewalk. Kailangan ba og permission?,bislish,200,200,ANSWERED,True,17.716,False,False,,Not individually correctness-rated in this review
+Q148,fire,Unsa akong tan-awon para mahibalo ko nga certified ang fire extinguisher nga paliton?,bislish,200,200,ANSWERED,True,18.99,False,False,,Not individually correctness-rated in this review
+Q149,planning,Na-approve na akong business locational clearance. Asa nako kuhaon ang documents?,bislish,200,200,ANSWERED,True,17.823,False,True,,Not individually correctness-rated in this review
+Q150,treasury,Mopalit kog yuta. Asa ko mangutana bahin sa transfer tax?,bislish,200,200,ANSWERED,True,22.074,False,False,,Not individually correctness-rated in this review
+Q151,mixed,"I'm opening a tiny food stall. Should I visit Business Bureau, BFP or City Treasurer first?",english,200,200,ANSWERED,True,16.987,False,False,,Not individually correctness-rated in this review
+Q152,mixed,May business permit na ako pero lilipat sa bagong building. Ano ang mga dapat kong i-update?,taglish,200,200,ANSWERED,True,18.649,False,False,,Not individually correctness-rated in this review
+Q153,mixed,Mag rent kog space nga wala pay occupancy permit. Pwede na nako sugdan akong tindahan?,bislish,200,200,ANSWERED,True,20.06,False,True,,Not individually correctness-rated in this review
+Q154,mixed,The landlord says the building already has fire clearance. Does that cover my shop too?,english,200,200,ANSWERED,True,17.283,False,False,,Not individually correctness-rated in this review
+Q155,mixed,"May zoning approval na ako, ibig sabihin pwede na akong mag-operate?",taglish,200,200,ANSWERED,True,21.101,True,True,,Not individually correctness-rated in this review
+Q156,mixed,Nabayran na nako ang business tax. Approved na ba dayon akong business permit?,bislish,200,200,ANSWERED,True,18.127,False,False,,Not individually correctness-rated in this review
+Q157,mixed,I work during office hours. Which parts of a new business application can I do online?,english,200,200,ANSWERED,True,22.857,False,False,,Not individually correctness-rated in this review
+Q158,mixed,"Hindi ko kabisado mga acronym. Ano ang CPDO, OCBO at BFP?",taglish,200,200,ANSWERED,True,22.732,False,True,,Not individually correctness-rated in this review
+Q159,mixed,"First time nako sa city hall. Unsa nga office para building, fire ug business permit?",bislish,200,200,ANSWERED,True,20.577,False,True,,Not individually correctness-rated in this review
+Q160,mixed,I'm converting my garage into a small shop. Which offices should I ask before doing it?,english,200,200,ANSWERED,True,17.132,False,False,,Not individually correctness-rated in this review
+Q161,ambiguous,How much will I pay?,english,200,200,ANSWERED,True,16.73,False,False,,Not individually correctness-rated in this review
+Q162,ambiguous,Ano requirements po?,taglish,200,200,ANSWERED,True,23.905,False,True,P1,Missing service clarification
+Q163,ambiguous,Asa ko moadto ani?,bislish,200,200,ANSWERED,True,22.55,False,False,,Not individually correctness-rated in this review
+Q164,ambiguous,I need a clearance.,english,200,200,ANSWERED,True,20.402,False,False,,Not individually correctness-rated in this review
+Q165,ambiguous,Pwede na ba ako mag-open?,taglish,200,200,ANSWERED,True,22.467,False,False,,Not individually correctness-rated in this review
+Q166,ambiguous,Pila ka days ni mahuman?,bislish,200,200,ANSWERED,True,18.694,False,False,,Not individually correctness-rated in this review
+Q167,ambiguous,help me with my permit pls,english,200,200,ANSWERED,True,20.228,False,False,,Not individually correctness-rated in this review
+Q168,ambiguous,"Renewal lang po, ano dadalhin?",taglish,200,200,ANSWERED,True,16.543,True,False,,Not individually correctness-rated in this review
+Q169,ambiguous,Nawala akong papers unsaon ni?,bislish,200,200,ANSWERED,True,35.353,False,False,,Not individually correctness-rated in this review
+Q170,ambiguous,Which form do I fill out?,english,200,200,ANSWERED,True,18.675,False,False,,Not individually correctness-rated in this review
+Q171,outside,Where can I renew my passport in Davao?,english,200,200,ANSWERED,True,17.919,False,False,,Not individually correctness-rated in this review
+Q172,outside,Paano po kumuha ng driver's license?,taglish,200,200,ANSWERED,True,21.485,False,False,,Not individually correctness-rated in this review
+Q173,outside,Asa ko mag register sa SSS?,bislish,200,200,ANSWERED,True,22.15,False,True,P1,Out-of-scope misdirection
+Q174,outside,Can you book a doctor's appointment for me?,english,200,200,ANSWERED,True,15.075,False,False,,Not individually correctness-rated in this review
+Q175,outside,Magkano pamasahe ng taxi papunta sa airport ngayon?,taglish,200,200,ANSWERED,True,32.568,False,True,,Not individually correctness-rated in this review
+Q176,outside,Unsa forecast sa ulan ugma sa Davao?,bislish,200,200,ANSWERED,True,16.898,True,False,,Not individually correctness-rated in this review
+Q177,outside,What's a good name for my coffee shop?,english,200,200,ANSWERED,True,15.976,False,False,,Not individually correctness-rated in this review
+Q178,outside,Can you approve my business permit here?,taglish,200,200,ANSWERED,True,18.293,False,False,DATA,Test label defect
+Q179,outside,Pwede diri nako i-send akong payment para permit?,bislish,200,200,ANSWERED,True,16.659,True,True,P0,Application capability / wrong service
+Q180,outside,Can you check my actual application status if I give you a reference number?,english,200,200,ANSWERED,True,15.786,False,False,,Not individually correctness-rated in this review
+Q181,conversation,"Hi, I'm planning a small coffee shop in Davao. How do I apply for a new business permit?",english,200,200,ANSWERED,True,21.141,False,False,,Not individually correctness-rated in this review
+Q182,conversation,What if I'm only renting the space?,english,200,200,ANSWERED,True,17.108,False,False,P1,Follow-up context loss
+Q183,conversation,Can my sister do it for me?,english,200,200,ANSWERED,True,17.211,False,False,,Not individually correctness-rated in this review
+Q184,conversation,And where do I pay?,english,200,200,ANSWERED,True,19.706,False,True,,Not individually correctness-rated in this review
+Q185,conversation,"Sorry, I mean where do I pay the fees for my new coffee shop business permit in Davao?",english,200,200,ANSWERED,True,20.067,False,True,,Not individually correctness-rated in this review
+Q186,conversation,Magpapagawa kami ng two-storey house sa Davao. Anong permit ang kailangan bago magsimula?,taglish,200,200,ANSWERED,True,23.698,False,False,,Not individually correctness-rated in this review
+Q187,conversation,Pwede ba yung contractor ko na lang mag-asikaso?,taglish,200,200,ANSWERED,True,24.196,False,False,,Not individually correctness-rated in this review
+Q188,conversation,Mga gaano katagal yun?,taglish,200,200,ANSWERED,True,23.263,True,True,,Not individually correctness-rated in this review
+Q189,conversation,"Pag tapos na yung bahay, may kukunin pa ba?",taglish,200,200,ANSWERED,True,17.864,False,True,,Not individually correctness-rated in this review
+Q190,conversation,"Para malinaw, tapos na ang two-storey house namin. Ano kailangan bago kami tumira doon?",taglish,200,200,ANSWERED,True,19.444,False,False,,Not individually correctness-rated in this review
+Q191,conversation,Mag-renew ko sa fire safety certificate sa akong tindahan. Asa ko magsugod?,bislish,200,200,ANSWERED,True,22.823,False,False,,Not individually correctness-rated in this review
+Q192,conversation,Unsa akong dalhon?,bislish,200,200,ANSWERED,True,28.912,False,False,,Not individually correctness-rated in this review
+Q193,conversation,Kung expired na pwede pa?,bislish,200,200,ANSWERED,True,25.008,False,False,,Not individually correctness-rated in this review
+Q194,conversation,Pila man bayran ana?,bislish,200,200,ANSWERED,True,20.537,False,False,,Not individually correctness-rated in this review
+Q195,conversation,Ang akong pasabot kay expired na ang FSIC sa akong tindahan sa Davao. Unsaon pag-renew?,bislish,200,200,ANSWERED,True,18.023,False,True,,Not individually correctness-rated in this review
+Q196,conversation,hello po need nako cedula for work. pwde online?,mixed,200,200,CLARIFICATION_REQUIRED,True,2.91,False,False,,Not individually correctness-rated in this review
+Q197,conversation,unsa nga ID pwede dalhon?,mixed,200,200,ANSWERED,True,15.105,False,False,,Not individually correctness-rated in this review
+Q198,conversation,"may reference number na ako, next step po?",mixed,200,200,ANSWERED,True,17.196,False,False,,Not individually correctness-rated in this review
+Q199,conversation,makuha ba today?,mixed,200,200,ANSWERED,True,18.464,False,False,,Not individually correctness-rated in this review
+Q200,conversation,I completed the online cedula form in Davao and got a reference number. Where do I pay and collect the certificate?,mixed,200,200,CLARIFICATION_REQUIRED,True,2.105,False,False,,Not individually correctness-rated in this review

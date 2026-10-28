@@ -1,0 +1,122 @@
+{
+  "checked_at": "2026-10-28T22:02:17.635393+08:00",
+  "branch": "website/grounding-revision-20261028",
+  "parent_commit": "9d6b354",
+  "candidate": "website-grounding-language-v4",
+  "software_gate": "PASS",
+  "answer_quality_gate": "FAILED",
+  "promoted_to_production": false,
+  "production_backend_restarted": false,
+  "api_unit_tests": {
+    "passed": 30,
+    "command": "python -m unittest tests.test_citizen_website tests.test_website_language tests.test_website_queue tests.test_website_grounding -v"
+  },
+  "browser": {
+    "passed": true,
+    "synthetic": true,
+    "model_calls": 0,
+    "checks": [
+      "submit waits for initial readiness",
+      "desktop layout",
+      "topic suggestions",
+      "submit contract",
+      "language selector preserves original question",
+      "citation link and source passage",
+      "XSS text safety",
+      "new question reset",
+      "clarification handling",
+      "explicit choice edits full question without auto-submission",
+      "visible independent-question guidance",
+      "incomplete answer handling",
+      "five-source library",
+      "direct hash navigation",
+      "about page",
+      "mobile overflow",
+      "offline recovery",
+      "queue position and running progress",
+      "poll reconnection without duplicate submission",
+      "expired ticket preserves question",
+      "capacity error preserves question"
+    ],
+    "browser_errors": []
+  },
+  "motion": {
+    "passed": true,
+    "model_calls": 0,
+    "checks": [
+      "local GSAP and Lenis loaded",
+      "entrance settles; readable input",
+      "Lenis active on desktop information page",
+      "wheel scroll advances",
+      "motion opt-out persists and destroys Lenis",
+      "OS reduced motion overrides all effects",
+      "chat retains native scroll",
+      "mobile question form precedes suggestions",
+      "no horizontal overflow at 320/390/768",
+      "keyboard submission works",
+      "content/form remain usable if vendor scripts fail"
+    ],
+    "browser_errors": []
+  },
+  "static_build": {
+    "passed": true,
+    "published_file_count": 20,
+    "verified_pdfs": 5,
+    "private_qa_in_build": false
+  },
+  "frozen_profile_check": {
+    "count": 13,
+    "hashes": {
+      "app\\pipeline.py": "c773ede0be8a7f31ca53124a5ed9d9cad29ccf3726634b25c162a0321ac84cd2",
+      "config\\normalization_intent_candidate.txt": "78bdd64d802aff0a7a36b99553507afe739eda9b8c8f328c5fbeecc128055c86",
+      "data\\municipal_dictionary_v1.json": "5ecbcc99538d9a88c7905378abe8a3712831afdfe8e9647cfdf2698600bdab62",
+      "experiments\\chapter3-table-repaired-development-v1\\bm25_index.pkl": "3d4ec7020d117f47d59c4a8dbbcfb2b79f69e0471736bd8f2f4bf24af2e4a5c5",
+      "experiments\\chapter3-table-repaired-development-v1\\corpus.json": "a0d996dd178eb681825880381741482001b72da5466b2effcf7b870a610017f3",
+      "experiments\\chapter3-table-repaired-development-v1\\faiss_index.bin": "19b7d1a025db7daa426afd513d0b20851491053f66d58d857edfb74008c07128",
+      "experiments\\chapter3-table-repaired-development-v1\\index_provenance.json": "47420e8e98d07ad66741b88d7625aa4c0ad2b82c4ada7cedd15e714dde150f79",
+      "experiments\\chapter3-table-repaired-development-v1\\pipeline_manifest.json": "6ac5aca9ffc311ae02945b76979f95ffa80da71af0afc20b15b7090b190fe9f5",
+      "experiments\\chapter3-table-repaired-development-v1\\source_pages.json": "d355eec5c7da652ef8d9a0fbdb914d3d63976be3a20f1b3614b1162984418cbf",
+      "experiments\\chapter3-table-repaired-development-v1\\validation.json": "9dd5b26592f7bde1ac850e3c5fc9cfb1bf6318d06a1662b4e49d4b496943b4a8",
+      "src\\chunk_retriever.py": "626e75dfa905ccbecf8c277660a940d573243e6798abcbde1baf2c28a4920b3b",
+      "src\\query_normalizer.py": "06d874d718e81773d8eb279aa1c9f4b97c3bd1b890c324ee23d9c76f9f0d2b77",
+      "src\\token_windows.py": "fcf32489c78e3c02984a6b16572018940e7792324f972d588a8aec5be1d87023"
+    },
+    "k": 3,
+    "weights": [
+      0.75,
+      0.25,
+      0.0
+    ]
+  },
+  "model_digest_check": {
+    "checked_at": "2026-10-28T21:52:16.553744+08:00",
+    "expected_digest": "39d9f435aeed825a340db73dfba9e7ce346664aa00727c9066bb1f0352406a6f",
+    "models": [
+      {
+        "name": "eboss-mistral:latest",
+        "digest": "39d9f435aeed825a340db73dfba9e7ce346664aa00727c9066bb1f0352406a6f"
+      }
+    ],
+    "passed": true,
+    "scope": "Point-in-time check; not a per-response server attestation",
+    "rechecked_after_run_at": "2026-10-28T22:02:17.635393+08:00"
+  },
+  "real_model_run": {
+    "cases": 200,
+    "reused_matching_hash_cases": 13,
+    "execution": "COMPLETE",
+    "summary": "outputs/website-grounding-qa-20261028/summary.json",
+    "summary_sha256": "b3edd25519741f4dc0314a37b78615f42ce4ceb3be9955ec41ad8343e2f7e60a"
+  },
+  "observed_failure_examples": [
+    "Q001 language",
+    "Q003 service/stage",
+    "Q004 unsupported permission/hazard classification",
+    "Q006 unrelated treasury instructions",
+    "Q088 wrong service",
+    "Q134 paraphrased refusal counted as answered",
+    "Q135 unsupported exemption",
+    "Q136 wrong process and invented acronym"
+  ],
+  "scope": "Post-study operational QA. No all-case factual accuracy claim or replacement thesis metric."
+}

@@ -119,6 +119,13 @@ $('#question-form').addEventListener('submit',async event=>{
     renderAnswer(pending,text,citations);
     const notice={CLARIFICATION_REQUIRED:'Please resend your full question with the specific service and details. Each question is processed independently.',GENERATION_INCOMPLETE:'This answer was cut short. Treat it as incomplete and check the source passages.',NO_SUPPORTED_ANSWER:'The retrieved passages did not support a complete answer. Try naming the service and the specific requirement you need.',CONTEXT_BUDGET_EXCEEDED:'Try asking about one specific step or requirement.'}[data.status];
     if(notice)pending.append(el('p','notice',notice));
+    if(data.status==='CLARIFICATION_REQUIRED'&&Array.isArray(data.clarification_options)){
+      const choices=el('div','suggestions');
+      data.clarification_options.filter(x=>typeof x==='string').forEach(option=>{
+        const choice=el('button','suggestion',option);choice.type='button';
+        choice.addEventListener('click',()=>{$('#question').value=question+' ('+option+').';$('#question').focus();});choices.append(choice);
+      });pending.append(choices);
+    }
     if(data.status.endsWith('_ERROR'))pending.classList.add('error');
     if(data.citation_labels_valid===false&&data.status==='ANSWERED')pending.append(el('p','notice','The answer’s citation labels could not be matched reliably. Check the source passages before relying on it.'));
     addEvidence(pending,citations);
