@@ -19,8 +19,8 @@ not automatically deserve a high score.
 During the real session, work independently. Do not discuss scores or try to
 identify the system. Cite the statement or source passage behind your judgment.
 If evidence is missing, contradictory, or unreadable, flag the item for review
-instead of guessing. The facilitator will explain the study's missing-score
-procedure before formal scoring begins.
+instead of guessing. Save a draft and ask the facilitator for help resolving evidence concerns
+before completing both 1?4 scores for final submission.
 
 FOUR-POINT RUBRIC
 Condensed from manuscript Table 2, printed page 30 (PDF page 35).
@@ -142,7 +142,7 @@ Notes: _________________________________________________________________
 
 BEFORE SUBMITTING
 
-Check that each answer has two scores, unless formally flagged as unscorable.
+Check that each answer has two integer scores from 1 to 4 before final submission.
 Make sure any notes identify the answer and the relevant claim or source.
 Do not change a score just because the other answer is better or worse.
 In the actual study, no other rater's scores or automated scores will be shown.

@@ -1,0 +1,109 @@
+{
+  "source": "C:\\Users\\User\\Downloads\\thesis_progress_tracker.xlsx",
+  "tab": "Thesis Tracker",
+  "date": "2026-10-28",
+  "cells": [
+    {
+      "cell": "G18",
+      "before": "In Progress",
+      "after": "Complete"
+    },
+    {
+      "cell": "I18",
+      "before": "Preselected audit subset of 20 groups $\\times$ 3 languages = 60 queries evaluated across Configurations A and B = 120 blinded responses",
+      "after": "40 normalization pairs; 60 answer triples. Fixed 20 groups; adviser amendment 2026-10-26."
+    },
+    {
+      "cell": "J18",
+      "before": "Preselected audit subset of 20 groups $\\times$ 3 languages = 60 queries evaluated across Configurations A and B = 120 blinded responses",
+      "after": "40 normalization pairs; 60 answer triples. Fixed 20 groups; adviser amendment 2026-10-26."
+    },
+    {
+      "cell": "K18",
+      "before": "120 randomized, blinded response records with source passages.",
+      "after": "Three two-module packets verified. Post-T07 selection timing disclosed."
+    },
+    {
+      "cell": "G19",
+      "before": "In Progress",
+      "after": "Complete"
+    },
+    {
+      "cell": "I19",
+      "before": "Scoring is governed by the approved 4-point ordinal rubric for Answer Relevance and Factual Faithfulness, not a 5-point scale",
+      "after": "M1 fidelity 1-5; M2 relevance and faithfulness 1-4. Separate validated exports."
+    },
+    {
+      "cell": "J19",
+      "before": "Scoring is governed by the approved 4-point ordinal rubric for Answer Relevance and Factual Faithfulness, not a 5-point scale",
+      "after": "M1 fidelity 1-5; M2 relevance and faithfulness 1-4. Separate validated exports."
+    },
+    {
+      "cell": "K19",
+      "before": "Auditor scoring platform enforcing the 4-point scale and evidence cross-referencing.",
+      "after": "Two-module interface implemented; original Table 2 retained for M2."
+    },
+    {
+      "cell": "G20",
+      "before": "In Progress",
+      "after": "Complete"
+    },
+    {
+      "cell": "I20",
+      "before": "3 independent auditors evaluate 120 responses (360 completed reviews), ",
+      "after": "3 experts: 240 M1 records and 540 M2 records; 1,320 scores validated."
+    },
+    {
+      "cell": "J20",
+      "before": "4 independent auditors evaluate 120 responses (360 completed reviews),",
+      "after": "3 experts: 240 M1 records and 540 M2 records; 1,320 scores validated."
+    },
+    {
+      "cell": "K20",
+      "before": "Completed scoring database of 360 evaluated response records.",
+      "after": "Independent scoring confirmed by researcher. Original provenance correction preserved."
+    },
+    {
+      "cell": "G21",
+      "before": "In Progress",
+      "after": "Complete"
+    },
+    {
+      "cell": "I21",
+      "before": "Reliability coefficient score (Target Krippendorff's Alpha >= 0.80)",
+      "after": "Ordinal alpha: fidelity .9354; relevance .9112; faithfulness .8732. Target .80 met."
+    },
+    {
+      "cell": "J21",
+      "before": "Reliability coefficient score (Target Krippendorff's Alpha >= 0.80)",
+      "after": "Ordinal alpha: fidelity .9354; relevance .9112; faithfulness .8732. Target .80 met."
+    },
+    {
+      "cell": "K21",
+      "before": "Statistical reliability report confirming rater consensus (alpha >= 0.80).",
+      "after": "Analysis complete; cluster-bootstrap CIs and provenance limits in T10_T12_REPORT.md."
+    },
+    {
+      "cell": "G22",
+      "before": "In Progress",
+      "after": "Complete"
+    },
+    {
+      "cell": "I22",
+      "before": "Calculated p-value showing system outperformance",
+      "after": "20 paired scenario groups; seven exact tests with Holm correction. No significant differences."
+    },
+    {
+      "cell": "J22",
+      "before": "Calculated p-value showing system outperformance",
+      "after": "20 paired scenario groups; seven exact tests with Holm correction. No significant differences."
+    },
+    {
+      "cell": "K22",
+      "before": "Statistical significance report demonstrating performance deltas.",
+      "after": "Exploratory human comparison complete. No superiority established. See paired_comparisons.csv."
+    }
+  ],
+  "unchanged": "Dates, unrelated tasks, other sheets and original source workbook retained. Updated version exported separately.",
+  "evidence": "experiments/t10-t12-human-analysis-v1/T10_T12_REPORT.md"
+}

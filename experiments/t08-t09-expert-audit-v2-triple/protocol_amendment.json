@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-26",
+  "authority": "User-supplied adviser mandate and explicit confirmation",
+  "formal_scoring_started": false,
+  "statement": "This normalized query preserves the meaning, intent, and explicit details of the original query",
+  "original_sample_preserved": true,
+  "module1": {
+    "queries": 40,
+    "outputs_per_rater": 80,
+    "records_three_raters": 240,
+    "scale": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "module2": {
+    "queries": 60,
+    "outputs_per_rater": 180,
+    "records_three_raters": 540,
+    "dimensions": 2,
+    "scale": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "manuscript_change": "Section 3.2.9 amendment required; original PDF remains unchanged.",
+  "selection_timing": "POST_T07_EVALUATION_PRE_HUMAN_RATINGS",
+  "tracker_tab": "Thesis Tracker"
+}

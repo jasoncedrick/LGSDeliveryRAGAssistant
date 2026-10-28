@@ -1,0 +1,1075 @@
+{
+  "schema_version": 3,
+  "rubric_version": "normalization-fidelity-agreement-v1",
+  "rater_id": "R03",
+  "module": "M1",
+  "block_size": 20,
+  "packet_version": "t08-t09-v3-triple",
+  "pairs": [
+    {
+      "question": "Magkano ang annual renewal fee para sa illuminated business signs kumpara sa commercial billboard advertising?",
+      "language": "taglish",
+      "category": "Office of the City Building Official",
+      "common_sources": [
+        {
+          "document": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+          "pdf_page": 78,
+          "printed_page": 566,
+          "href": "../sources/charter-05.pdf#page=78"
+        }
+      ],
+      "query_id": "NQ-7679d6b43c38",
+      "responses": [
+        {
+          "answer_id": "N-a41b3e4f30142e84",
+          "text": "What is the annual renewal fee for illuminated business signs compared to commercial billboard advertising?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-64384e4c9f08f26f",
+          "text": "What is the annual renewal fee for illuminated business signs compared to commercial billboard advertising?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Ano ang layunin ng Joint Inspection Teams (JIT) ng BFP at LGU sa pag-iinspeksyon ng mga negosyo?",
+      "language": "taglish",
+      "category": "Bureau of Fire Protection",
+      "common_sources": [
+        {
+          "document": "BFP-CITIZENS-CHARTER-2022.pdf",
+          "pdf_page": 1,
+          "printed_page": 1,
+          "href": "../sources/charter-01.pdf#page=1"
+        }
+      ],
+      "query_id": "NQ-f59262991243",
+      "responses": [
+        {
+          "answer_id": "N-ba346724c989c296",
+          "text": "What is the purpose of the Joint Inspection Teams (JIT) of BFP and LGU during the inspection of businesses?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-d8e4bb7ea612df67",
+          "text": "What is the purpose of the Joint Inspection Teams (JIT) of BFP and LGU during the inspection of businesses?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Kinsa ang personahe sa fire station nga gitahasan sa paghusay sa mga reklamo ug kabilinggan sa mga transaksyon sa permit?",
+      "language": "bislish",
+      "category": "Bureau of Fire Protection",
+      "common_sources": [
+        {
+          "document": "BFP-CITIZENS-CHARTER-2022.pdf",
+          "pdf_page": 1,
+          "printed_page": 1,
+          "href": "../sources/charter-01.pdf#page=1"
+        }
+      ],
+      "query_id": "NQ-0c49ceaa8684",
+      "responses": [
+        {
+          "answer_id": "N-50f5539eebe008f5",
+          "text": "Who is the person in charge at the fire station for handling complaints and transactions related to permit encodings?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-530a574353f861d5",
+          "text": "Who is the person in charge at the fire station for handling complaints and transactions related to permit encodings?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Ilang porsyento ang local business tax sa interes at commissions ng mga bangko sa Davao City?",
+      "language": "taglish",
+      "category": "City Treasurer's Office",
+      "common_sources": [
+        {
+          "document": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+          "pdf_page": 58,
+          "printed_page": 213,
+          "href": "../sources/charter-04.pdf#page=58"
+        }
+      ],
+      "query_id": "NQ-f1e57954794e",
+      "responses": [
+        {
+          "answer_id": "N-eb70f037cb1f51d4",
+          "text": "What is the percentage of local business tax on interest and commissions of banks in Davao City?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-d55064a83de0574d",
+          "text": "What is the percentage of local business tax on interest and commissions of banks in Davao City?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Paano kinokwenta ang bayad sa Demolition Permit kada metro kwadrado ng floor area at taas ng gusali?",
+      "language": "taglish",
+      "category": "Office of the City Building Official",
+      "common_sources": [
+        {
+          "document": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+          "pdf_page": 71,
+          "printed_page": 559,
+          "href": "../sources/charter-05.pdf#page=71"
+        }
+      ],
+      "query_id": "NQ-107b981b1599",
+      "responses": [
+        {
+          "answer_id": "N-76fcc5134df654c4",
+          "text": "How is the demolition permit fee calculated per square meter of floor area and storey height?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-a61611cac7832843",
+          "text": "How is the payment for a Demolition Permit calculated per square meter of floor area and number of storeys?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Para saan ang Certificate of Completion of Subdivision ug kinsa nga komite ang mo-endorse niini ngadto sa DHSUD?",
+      "language": "bislish",
+      "category": "City Planning and Development Office",
+      "common_sources": [
+        {
+          "document": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+          "pdf_page": 95,
+          "printed_page": 724,
+          "href": "../sources/charter-03.pdf#page=95"
+        }
+      ],
+      "query_id": "NQ-8f8611ebba81",
+      "responses": [
+        {
+          "answer_id": "N-6b8d96cf85dff316",
+          "text": "To whom or to which committee should the Certificate of Completion of Subdivision be endorsed for forwarding to DHSUD?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-569b6ddf91dce22d",
+          "text": "To whom or to which committee should the Certificate of Completion of Subdivision be endorsed for forwarding to DHSUD?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Pila ang buhis sa siyudad sa mga interes ug komisyon nga kinitaan sa mga sanga sa bangko dinhi sa Davao?",
+      "language": "bislish",
+      "category": "City Treasurer's Office",
+      "common_sources": [
+        {
+          "document": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+          "pdf_page": 58,
+          "printed_page": 213,
+          "href": "../sources/charter-04.pdf#page=58"
+        }
+      ],
+      "query_id": "NQ-8a3e5d4e541d",
+      "responses": [
+        {
+          "answer_id": "N-860b87e2476e893c",
+          "text": "How much money does the city government collect from the interest and commissions of banks in Davao?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-7b64b9a2066a8123",
+          "text": "How much money does the city government collect from the interest and commissions of banks in Davao?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Pila ang application fee ug kinatas-ang tax cap sa pagkuha ug FSEC sa Bureau of Fire Protection?",
+      "language": "bislish",
+      "category": "Bureau of Fire Protection",
+      "common_sources": [
+        {
+          "document": "BFP-CITIZENS-CHARTER-2022.pdf",
+          "pdf_page": 1,
+          "printed_page": 1,
+          "href": "../sources/charter-01.pdf#page=1"
+        }
+      ],
+      "query_id": "NQ-0ea9fe7b7989",
+      "responses": [
+        {
+          "answer_id": "N-178d124b1f88ffe1",
+          "text": "What is the application fee and the tax cap for obtaining an FSEC from the Bureau of Fire Protection?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-a9ae05337e4ca4a9",
+          "text": "What is the application fee and the tax cap for obtaining a Fire Safety Evaluation Clearance at the Bureau of Fire Protection?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Magkano ang application fee at maximum tax cap sa pagkuha ng FSEC sa Bureau of Fire Protection?",
+      "language": "taglish",
+      "category": "Bureau of Fire Protection",
+      "common_sources": [
+        {
+          "document": "BFP-CITIZENS-CHARTER-2022.pdf",
+          "pdf_page": 1,
+          "printed_page": 1,
+          "href": "../sources/charter-01.pdf#page=1"
+        }
+      ],
+      "query_id": "NQ-c1d30dbd85b5",
+      "responses": [
+        {
+          "answer_id": "N-1cb50b3af20160a1",
+          "text": "What is the application fee and maximum tax cap for obtaining an FSEC from the Bureau of Fire Protection?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-73a78de146beac95",
+          "text": "What is the application fee and maximum tax cap for obtaining a Fire Safety Evaluation Clearance at the Bureau of Fire Protection?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Anong mga commercial developments tulad ng mall at condo ang kailangang kumuha ng PALC sa Sangguniang Panlungsod?",
+      "language": "taglish",
+      "category": "City Planning and Development Office",
+      "common_sources": [
+        {
+          "document": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+          "pdf_page": 85,
+          "printed_page": 714,
+          "href": "../sources/charter-03.pdf#page=85"
+        }
+      ],
+      "query_id": "NQ-9fb85534a10b",
+      "responses": [
+        {
+          "answer_id": "N-3b7cd645ac64cccd",
+          "text": "What commercial developments like malls and condos need to obtain a PALC from the City Council?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-8b4a9d6891a1d20b",
+          "text": "What commercial developments like malls and condos need to obtain a PALC from the City Council?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Tagpila ang tinuig nga bayad sa mechanical inspection sa centralized air conditioning ug window type nga aircon?",
+      "language": "bislish",
+      "category": "Office of the City Building Official",
+      "common_sources": [
+        {
+          "document": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+          "pdf_page": 95,
+          "printed_page": 583,
+          "href": "../sources/charter-05.pdf#page=95"
+        }
+      ],
+      "query_id": "NQ-47812bc44007",
+      "responses": [
+        {
+          "answer_id": "N-17ccbf94353c06e8",
+          "text": "How much is the fee for the mechanical inspection of centralized air conditioning and window type aircon?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-6af5a5f2e281f22e",
+          "text": "What is the cost for the mechanical inspection of centralized air conditioning and window type aircon?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Unsa ang tumong sa Joint Inspection Teams (JIT) tali sa BFP ug City Hall sa pag-inspeksyon sa mga negosyo?",
+      "language": "bislish",
+      "category": "Bureau of Fire Protection",
+      "common_sources": [
+        {
+          "document": "BFP-CITIZENS-CHARTER-2022.pdf",
+          "pdf_page": 1,
+          "printed_page": 1,
+          "href": "../sources/charter-01.pdf#page=1"
+        }
+      ],
+      "query_id": "NQ-e751f008b24a",
+      "responses": [
+        {
+          "answer_id": "N-7c283fd937ac3275",
+          "text": "Who is responsible for the joint inspection of businesses by Joint Inspection Teams (JIT) involving the BFP and City Hall?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-4451896114464b79",
+          "text": "Who is responsible for the joint inspection by Joint Inspection Teams (JIT) with the BFP and City Hall for businesses?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Ano ang Certificate of Completion of Subdivision at sinong ahensya ang nag-eendorse nito sa DHSUD?",
+      "language": "taglish",
+      "category": "City Planning and Development Office",
+      "common_sources": [
+        {
+          "document": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+          "pdf_page": 95,
+          "printed_page": 724,
+          "href": "../sources/charter-03.pdf#page=95"
+        }
+      ],
+      "query_id": "NQ-d299c91dcbeb",
+      "responses": [
+        {
+          "answer_id": "N-05903885aee5d140",
+          "text": "What is the Certificate of Completion of Subdivision and which agency endorses it at DHSUD?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-891e06e3c0ebd1fb",
+          "text": "What is the Certificate of Completion of Subdivision and which agency endorses it at DHSUD?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Pila ang bayad sa Demolition Permit matag metro kwadrado sa salog ug sa gitas-on sa building?",
+      "language": "bislish",
+      "category": "Office of the City Building Official",
+      "common_sources": [
+        {
+          "document": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+          "pdf_page": 71,
+          "printed_page": 559,
+          "href": "../sources/charter-05.pdf#page=71"
+        }
+      ],
+      "query_id": "NQ-150da0980028",
+      "responses": [
+        {
+          "answer_id": "N-1d4c43a963072326",
+          "text": "What is the cost per square meter for a Demolition Permit, both for the ground floor and the upper floors of a building?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-14dccb1be7481253",
+          "text": "What is the cost for a Demolition Permit per square meter for the ground floor and the upper floors of a building?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Magkano ang extraction fee kada cubic meter at annual fee sa quarrying ng buhangin at graba sa Davao?",
+      "language": "taglish",
+      "category": "City Treasurer's Office",
+      "common_sources": [
+        {
+          "document": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+          "pdf_page": 7,
+          "printed_page": 162,
+          "href": "../sources/charter-04.pdf#page=7"
+        }
+      ],
+      "query_id": "NQ-36252ea544e9",
+      "responses": [
+        {
+          "answer_id": "N-3e2e3b9091cd426b",
+          "text": "What is the extraction fee per cubic meter and the annual fee for quarrying sand and gravel in Davao?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-ada7265572054859",
+          "text": "What is the extraction fee per cubic meter and the annual fee for quarrying sand and gravel in Davao?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Unsa nga mga dagkong commercial developments sama sa mall ug condominium ang kinahanglan ug PALC gikan sa konseho?",
+      "language": "bislish",
+      "category": "City Planning and Development Office",
+      "common_sources": [
+        {
+          "document": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+          "pdf_page": 85,
+          "printed_page": 714,
+          "href": "../sources/charter-03.pdf#page=85"
+        }
+      ],
+      "query_id": "NQ-46c2b9c9fdea",
+      "responses": [
+        {
+          "answer_id": "N-368248bb0425a1ea",
+          "text": "What is the required number of commercial developments, similar to malls and condominiums, that need a PALC from the council?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-364c938a71e8f8c1",
+          "text": "What is the required number of commercial developments, similar to malls and condominiums, that need a PALC from the council?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Ano ang mga hakbang at notices na ibinibigay ng Business Bureau bago tuluyang ipasara ang isang erring establishment?",
+      "language": "taglish",
+      "category": "Business Bureau",
+      "common_sources": [
+        {
+          "document": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+          "pdf_page": 81,
+          "printed_page": 120,
+          "href": "../sources/charter-02.pdf#page=81"
+        }
+      ],
+      "query_id": "NQ-5e53b863934c",
+      "responses": [
+        {
+          "answer_id": "N-575e8f616448effd",
+          "text": "What steps and notices does the Business Bureau provide before closing an erring establishment?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-601635414a015110",
+          "text": "What steps and notices does the Davao City Business Bureau (Lead eBOSS Office) give before closing an erring establishment?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Unsa ang mga notice ug proseso nga ipatuman sa Business Bureau sa dili pa ipasira ang usa ka negosyo nga dunay kalapasan?",
+      "language": "bislish",
+      "category": "Business Bureau",
+      "common_sources": [
+        {
+          "document": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+          "pdf_page": 81,
+          "printed_page": 120,
+          "href": "../sources/charter-02.pdf#page=81"
+        }
+      ],
+      "query_id": "NQ-4a9e95f1bc59",
+      "responses": [
+        {
+          "answer_id": "N-0b3602917511f879",
+          "text": "What are the notices and processes to be delivered to the Business Bureau for a business that has not yet been registered?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-64fcc9db7ac77e0c",
+          "text": "What are the notices and processes to be delivered to the Business Bureau for a business that has not yet been opened?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Paano kinokwenta ang electrical inspection fee base sa Total Connected Load (kVA) ng isang commercial establishment?",
+      "language": "taglish",
+      "category": "Office of the City Building Official",
+      "common_sources": [
+        {
+          "document": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+          "pdf_page": 90,
+          "printed_page": 578,
+          "href": "../sources/charter-05.pdf#page=90"
+        }
+      ],
+      "query_id": "NQ-cd0d05711e99",
+      "responses": [
+        {
+          "answer_id": "N-6ef3a5bef0842aae",
+          "text": "How is the electrical inspection fee calculated based on the Total Connected Load (kVA) of a commercial establishment?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-300dddd553646e59",
+          "text": "How is the electrical inspection fee calculated based on the Total Connected Load (kVA) of a commercial establishment?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Ano ang mga pormal na requirements at sworn statements na kailangan para magreklamo laban sa tiwaling tauhan ng BFP sa IAS?",
+      "language": "taglish",
+      "category": "Bureau of Fire Protection",
+      "common_sources": [
+        {
+          "document": "BFP-CITIZENS-CHARTER-2022.pdf",
+          "pdf_page": 1,
+          "printed_page": 1,
+          "href": "../sources/charter-01.pdf#page=1"
+        }
+      ],
+      "query_id": "NQ-e68004542517",
+      "responses": [
+        {
+          "answer_id": "N-03a17722c08309fb",
+          "text": "What are the formal requirements and sworn statements required to file a complaint against the BFP officer at the IAS?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-df7e27c597cc3d44",
+          "text": "What are the formal requirements and sworn statements required to file a complaint against the BFP officer at the IAS?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Anong permit at security clearance ang kailangan kapag mag-oorganisa ng fun-run o motorcade sa Davao?",
+      "language": "taglish",
+      "category": "Business Bureau",
+      "common_sources": [
+        {
+          "document": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+          "pdf_page": 57,
+          "printed_page": 96,
+          "href": "../sources/charter-02.pdf#page=57"
+        }
+      ],
+      "query_id": "NQ-1fe03fae2027",
+      "responses": [
+        {
+          "answer_id": "N-230ada5678502176",
+          "text": "What permit and security clearance are required for organizing a fun-run or motorcade in Davao?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-f20fa768ba643070",
+          "text": "What permit and security clearance are required for organizing a fun-run or motorcade in Davao?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Tagpila ang tinuig nga renewal fee sa hayag o illuminated nga signboard sa tindahan kumpara sa advertisement billboard?",
+      "language": "bislish",
+      "category": "Office of the City Building Official",
+      "common_sources": [
+        {
+          "document": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+          "pdf_page": 78,
+          "printed_page": 566,
+          "href": "../sources/charter-05.pdf#page=78"
+        }
+      ],
+      "query_id": "NQ-be53cedba716",
+      "responses": [
+        {
+          "answer_id": "N-fcd8273dde303c8a",
+          "text": "How much is the renewal fee for the illuminated signboard in the store compared to the advertisement billboard?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-5b3a90596fe494e7",
+          "text": "How much is the renewal fee for the illuminated signboard in the store compared to the advertisement billboard?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Unsaon pagkwenta sa electrical inspection fee base sa Total Connected Load (kVA) sa usa ka negosyo o edipisyo?",
+      "language": "bislish",
+      "category": "Office of the City Building Official",
+      "common_sources": [
+        {
+          "document": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+          "pdf_page": 90,
+          "printed_page": 578,
+          "href": "../sources/charter-05.pdf#page=90"
+        }
+      ],
+      "query_id": "NQ-32db8f83b154",
+      "responses": [
+        {
+          "answer_id": "N-8d6f17fb023f3bd8",
+          "text": "What is the fee for the electrical inspection based on the Total Connected Load (kVA) for one business or establishment?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-0f31ad5ec3eca34d",
+          "text": "How much is the electrical inspection fee based on the Total Connected Load (kVA) for one business or establishment?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Unsang permit ug security clearance ang kinahanglan kuhaon kung magpahigayon ug fun-run o motorcade sa siyudad?",
+      "language": "bislish",
+      "category": "Business Bureau",
+      "common_sources": [
+        {
+          "document": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+          "pdf_page": 57,
+          "printed_page": 96,
+          "href": "../sources/charter-02.pdf#page=57"
+        }
+      ],
+      "query_id": "NQ-4276f1594a1b",
+      "responses": [
+        {
+          "answer_id": "N-684cd8609b7315cb",
+          "text": "What permit and security clearance are required to organize a fun-run or motorcade in the city?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-1f6001f3962d1114",
+          "text": "What permit and security clearance are required to organize a fun-run or motorcade in the city?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Magkano ang bayad sa Certified True Copy ng Mayor's Permit at anong requirements ang dapat dalhin?",
+      "language": "taglish",
+      "category": "Business Bureau",
+      "common_sources": [
+        {
+          "document": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+          "pdf_page": 69,
+          "printed_page": 108,
+          "href": "../sources/charter-02.pdf#page=69"
+        },
+        {
+          "document": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+          "pdf_page": 71,
+          "printed_page": 110,
+          "href": "../sources/charter-02.pdf#page=71"
+        }
+      ],
+      "query_id": "NQ-5c0fb33ce90a",
+      "responses": [
+        {
+          "answer_id": "N-51be959d70262662",
+          "text": "What is the cost for a Certified True Copy of the Mayor's Permit and what are the required documents to bring?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-5c4b3ae500c2300c",
+          "text": "What is the cost for a Certified True Copy of the Mayor's Permit and what are the required documents to bring?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Pila ka porsyento ang Basic Real Property Tax ug ang dugang nga Special Education Fund (SEF) sa Davao City?",
+      "language": "bislish",
+      "category": "City Treasurer's Office",
+      "common_sources": [
+        {
+          "document": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+          "pdf_page": 36,
+          "printed_page": 191,
+          "href": "../sources/charter-04.pdf#page=36"
+        }
+      ],
+      "query_id": "NQ-104b297c803f",
+      "responses": [
+        {
+          "answer_id": "N-69a1a92ca215f971",
+          "text": "What percentage is the Basic Real Property Tax and the Special Education Fund (SEF) in Davao City?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-c0cf0d867a54c723",
+          "text": "What percentage is the Basic Real Property Tax and the Special Education Fund (SEF) in Davao City?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Magkano ang taunang mechanical inspection fee para sa centralized aircon at window type air conditioner?",
+      "language": "taglish",
+      "category": "Office of the City Building Official",
+      "common_sources": [
+        {
+          "document": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+          "pdf_page": 95,
+          "printed_page": 583,
+          "href": "../sources/charter-05.pdf#page=95"
+        }
+      ],
+      "query_id": "NQ-42a9151d19d4",
+      "responses": [
+        {
+          "answer_id": "N-b1e24bce54eb228d",
+          "text": "What is the annual mechanical inspection fee for centralized aircon and window type air conditioner?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-eca5d342866f9cc7",
+          "text": "What is the annual mechanical inspection fee for centralized aircon and window type air conditioner?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Tagpila ang bayad sa Certified True Copy sa Mayor's Permit ug unsa ang mga kinahanglan i-presentar?",
+      "language": "bislish",
+      "category": "Business Bureau",
+      "common_sources": [
+        {
+          "document": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+          "pdf_page": 69,
+          "printed_page": 108,
+          "href": "../sources/charter-02.pdf#page=69"
+        },
+        {
+          "document": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+          "pdf_page": 71,
+          "printed_page": 110,
+          "href": "../sources/charter-02.pdf#page=71"
+        }
+      ],
+      "query_id": "NQ-27d4a944167a",
+      "responses": [
+        {
+          "answer_id": "N-0ba4bc88cc1ec3d8",
+          "text": "How much is the monetary settlement of the Certified True Copy for the Mayor's Permit and what are the required items to present?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-ca3b2feb3e15ea6e",
+          "text": "How much is the fee for a Certified True Copy of the Mayor's Permit and what should be presented?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Ano ang mga kailangan para makakuha ng Occupational Permit ang mga regular na empleyado at dayuhang manggagawa?",
+      "language": "taglish",
+      "category": "Business Bureau",
+      "common_sources": [
+        {
+          "document": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+          "pdf_page": 56,
+          "printed_page": 95,
+          "href": "../sources/charter-02.pdf#page=56"
+        },
+        {
+          "document": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+          "pdf_page": 65,
+          "printed_page": 104,
+          "href": "../sources/charter-02.pdf#page=65"
+        }
+      ],
+      "query_id": "NQ-31b509241167",
+      "responses": [
+        {
+          "answer_id": "N-eee6a8eb2dcbc90f",
+          "text": "What are the requirements for a regular employee and a foreign worker to obtain an Occupational Permit?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-02cc8c416463b3b6",
+          "text": "What are the requirements for a regular employee and a foreign worker to obtain an Occupational Permit?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "May bayad ba ang pag-validate ng Occupancy Permit sa CPDO para sa mga gusaling 2-storey pababa na mababa sa 1,500 sq.m.?",
+      "language": "taglish",
+      "category": "City Planning and Development Office",
+      "common_sources": [
+        {
+          "document": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+          "pdf_page": 8,
+          "printed_page": 637,
+          "href": "../sources/charter-03.pdf#page=8"
+        }
+      ],
+      "query_id": "NQ-73bbf986b6b7",
+      "responses": [
+        {
+          "answer_id": "N-925d5073aa163ba3",
+          "text": "Is there a fee for validating the Occupancy Permit at the CPDO for two-storey buildings below ground level with a floor area of less than 1,500 sq.m.?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-7bae7889580cfe8e",
+          "text": "Is there a fee for validating an Occupancy Permit at the CPDO for two-storey buildings below 1,500 sq.m.?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Unsa ang mga rekisitos para sa Occupational Permit sa mga ordinaryong trabahante ug langyaw nga trabahante?",
+      "language": "bislish",
+      "category": "Business Bureau",
+      "common_sources": [
+        {
+          "document": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+          "pdf_page": 56,
+          "printed_page": 95,
+          "href": "../sources/charter-02.pdf#page=56"
+        },
+        {
+          "document": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+          "pdf_page": 65,
+          "printed_page": 104,
+          "href": "../sources/charter-02.pdf#page=65"
+        }
+      ],
+      "query_id": "NQ-ced003d31724",
+      "responses": [
+        {
+          "answer_id": "N-04d86d162c495607",
+          "text": "What are the requirements for an Occupational Permit for ordinary workers and freelance workers?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-43be9dbe89f5cdd1",
+          "text": "What are the requirements for an Occupational Permit for ordinary workers and freelance workers?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Tagpila ang extraction fee matag cubic meter ug tinuig nga bayad sa quarry sa balas ug bato sa Davao?",
+      "language": "bislish",
+      "category": "City Treasurer's Office",
+      "common_sources": [
+        {
+          "document": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+          "pdf_page": 7,
+          "printed_page": 162,
+          "href": "../sources/charter-04.pdf#page=7"
+        }
+      ],
+      "query_id": "NQ-55f6cd1c44f6",
+      "responses": [
+        {
+          "answer_id": "N-6f26c6bfd1b71e13",
+          "text": "How much is the extraction fee per cubic meter and the monetary settlement of assessed regulatory fees for quarry of sand and stone in Davao?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-dcdee06b8aad76c1",
+          "text": "How much is the extraction fee per cubic meter for quarry and stone in Davao, and what is the payment for it?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Ilang porsyento ang sinisingil na Basic Real Property Tax at karagdagang Special Education Fund (SEF) sa Davao?",
+      "language": "taglish",
+      "category": "City Treasurer's Office",
+      "common_sources": [
+        {
+          "document": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+          "pdf_page": 36,
+          "printed_page": 191,
+          "href": "../sources/charter-04.pdf#page=36"
+        }
+      ],
+      "query_id": "NQ-eb4085f0328c",
+      "responses": [
+        {
+          "answer_id": "N-d12ad8669d8385a3",
+          "text": "What percentage of the Basic Real Property Tax and additional Special Education Fund (SEF) is required in Davao?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-f095c5c6d49b696d",
+          "text": "What percentage of the Basic Real Property Tax and additional Special Education Fund (SEF) is required in Davao?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Sino ang opisyal sa fire station na namamahala sa pagresolba ng mga reklamo at aberya sa frontline permit processing?",
+      "language": "taglish",
+      "category": "Bureau of Fire Protection",
+      "common_sources": [
+        {
+          "document": "BFP-CITIZENS-CHARTER-2022.pdf",
+          "pdf_page": 1,
+          "printed_page": 1,
+          "href": "../sources/charter-01.pdf#page=1"
+        }
+      ],
+      "query_id": "NQ-e17db45a6bb8",
+      "responses": [
+        {
+          "answer_id": "N-2ad51c622f859eaa",
+          "text": "Who is the official at the fire station in charge of resolving complaints and emergencies in frontline permit processing?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-5c820884c369382e",
+          "text": "Who is the official at the fire station in charge of resolving complaints and emergencies in frontline permit processing?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Unsa ang mga pormal nga rekisitos ug ebidensya nga gikinahanglan para mopasaka ug reklamo batok sa abusadong opisyal sa BFP?",
+      "language": "bislish",
+      "category": "Bureau of Fire Protection",
+      "common_sources": [
+        {
+          "document": "BFP-CITIZENS-CHARTER-2022.pdf",
+          "pdf_page": 1,
+          "printed_page": 1,
+          "href": "../sources/charter-01.pdf#page=1"
+        }
+      ],
+      "query_id": "NQ-165ce74dda1a",
+      "responses": [
+        {
+          "answer_id": "N-7c513c85ca74f245",
+          "text": "What are the formal requirements and evidence needed to file a complaint against an abusive official at the BFP?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-7ef728c9983a56d7",
+          "text": "What are the formal requirements and evidence needed to file a complaint against an abusive official at the BFP?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Pila ang porsyento sa buhis sa negosyo para sa mga pabrika ug processors kung molapas sa 6.5 milyon ang gross sales?",
+      "language": "bislish",
+      "category": "City Treasurer's Office",
+      "common_sources": [
+        {
+          "document": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+          "pdf_page": 55,
+          "printed_page": 210,
+          "href": "../sources/charter-04.pdf#page=55"
+        }
+      ],
+      "query_id": "NQ-6a8aa57cbd70",
+      "responses": [
+        {
+          "answer_id": "N-8d9e2a037fd72409",
+          "text": "What percentage of the profit in a business for factories and processors is there if the gross sales exceed 6.5 million?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-1536b2a473497d6f",
+          "text": "What percentage of the Local Business Tax (LBT) is for factories and processors if their gross sales exceed 6.5 million?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Magkano ang business tax rate para sa mga manufacturers na lumagpas sa 6.5 million pesos ang gross sales sa Davao?",
+      "language": "taglish",
+      "category": "City Treasurer's Office",
+      "common_sources": [
+        {
+          "document": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+          "pdf_page": 55,
+          "printed_page": 210,
+          "href": "../sources/charter-04.pdf#page=55"
+        }
+      ],
+      "query_id": "NQ-6d3c5f12553c",
+      "responses": [
+        {
+          "answer_id": "N-c27904f5e3e7c249",
+          "text": "What is the business tax rate for manufacturers with gross sales exceeding 6.5 million pesos in Davao?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-b92958e9d7b65f31",
+          "text": "What is the business tax rate for manufacturers with gross sales exceeding 6.5 million pesos in Davao?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Unsaon pagpangayo ug opisyal nga datos sa zoning o land use sa CPDO ug pila ka adlaw ang pag-proseso niini?",
+      "language": "bislish",
+      "category": "City Planning and Development Office",
+      "common_sources": [
+        {
+          "document": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+          "pdf_page": 102,
+          "printed_page": 731,
+          "href": "../sources/charter-03.pdf#page=102"
+        }
+      ],
+      "query_id": "NQ-f64521285d26",
+      "responses": [
+        {
+          "answer_id": "N-7b24d840febd3a05",
+          "text": "What are the official documents required for zoning or land use at the CPDO and how long is the processing time for these documents?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-104e2ce350e6132f",
+          "text": "What is the required official data for zoning or land use at the CPDO and how long is the processing time for this?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Naa ba bayad ang validation sa Occupancy Permit sa CPDO kung 2-storey paubos ug ubos sa 1,500 sq.m. ang building?",
+      "language": "bislish",
+      "category": "City Planning and Development Office",
+      "common_sources": [
+        {
+          "document": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+          "pdf_page": 8,
+          "printed_page": 637,
+          "href": "../sources/charter-03.pdf#page=8"
+        }
+      ],
+      "query_id": "NQ-84579e831c97",
+      "responses": [
+        {
+          "answer_id": "N-1d44a1d4abac0251",
+          "text": "Is there a fee for the validation of an Occupancy Permit at the CPDO if the building, which is two-storey and occupies or exceeds 1,500 sq.m., is fully occupied?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-1963371ac2ac3f75",
+          "text": "Is there a fee for the validation of the Occupancy Permit at the CPDO if a 2-storey building with a floor area of 1,500 sq.m is completely vacated?",
+          "passages": []
+        }
+      ]
+    },
+    {
+      "question": "Paano mag-request ng official data tungkol sa zoning o land use sa CPDO at ilang araw bago ito marelease?",
+      "language": "taglish",
+      "category": "City Planning and Development Office",
+      "common_sources": [
+        {
+          "document": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+          "pdf_page": 102,
+          "printed_page": 731,
+          "href": "../sources/charter-03.pdf#page=102"
+        }
+      ],
+      "query_id": "NQ-bfa08647560c",
+      "responses": [
+        {
+          "answer_id": "N-abfbc615cf429ddc",
+          "text": "How to request official data about zoning or land use from CPDO and how many days before it is released?",
+          "passages": []
+        },
+        {
+          "answer_id": "N-0d7b261a51773d12",
+          "text": "How to request official data about zoning or land use from CPDO and how many days before it is released?",
+          "passages": []
+        }
+      ]
+    }
+  ],
+  "packet_id": "b917d829b529e3853dc3992fe2762962cdb8d21714cd55859740f6d902949ab6"
+}

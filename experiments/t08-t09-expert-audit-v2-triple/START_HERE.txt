@@ -1,0 +1,41 @@
+CURRENT RATER RELEASE: TWO MODULES (2026-10-26)
+
+Use only your assigned R01, R02 or R03 two-module ZIP. Extract the whole ZIP.
+Keep the sources folder alongside the two module folders. Open index.html
+inside your assigned M1 folder first, then your assigned M2 folder.
+No model, server, installation or Internet connection is required.
+
+MODULE 1: 40 original queries, two normalized outputs each (80 ratings).
+Rate this statement separately for each output:
+This normalized query preserves the meaning, intent, and explicit details
+of the original query.
+1 Strongly Disagree; 2 Disagree; 3 Neither Agree nor Disagree;
+4 Agree; 5 Strongly Agree. Equal ratings are allowed.
+Judge normalization fidelity, not the answer to the service question.
+
+MODULE 2: 60 queries, three responses each (180 answer reviews).
+Score each response independently on Answer Relevance and Factual Faithfulness
+using the separate 1-4 rubrics displayed in the interface. Equal scores are
+allowed. Consult the official PDFs and distinguish charter support from
+support in the actual retrieved passages. Record gaps in notes.
+
+FIVE SESSIONS
+1. Module 1, all 40 comparisons. Take a mandatory 10-minute break after 20.
+2. Module 2, displayed queries 1-15 (45 responses).
+3. Module 2, displayed queries 16-30 (45 responses).
+4. Module 2, displayed queries 31-45 (45 responses).
+5. Module 2, displayed queries 46-60 (45 responses), final check and export.
+Take at least 10 minutes between sessions; spread sessions over days if needed.
+Allow additional breaks. Do not rush to a fixed completion-time target.
+The facilitator monitors breaks; the browser reminder is not attendance proof.
+
+Work independently. Do not compare formal scores or identify systems.
+Download a JSON backup at every break. Each module has its own backup and
+final export. Import only into the same rater/module/version. Earlier audit
+packets and their backups are incompatible with this release.
+
+Final submission requires all applicable scores. Drafts can contain blanks.
+If unsure, record the issue and consult the facilitator without guessing or
+asking the facilitator to choose your score. No automatic scores are assigned.
+Return two final JSON files and two CSV files (one of each per module).
+Keep your own originals. No reviewer name is requested.

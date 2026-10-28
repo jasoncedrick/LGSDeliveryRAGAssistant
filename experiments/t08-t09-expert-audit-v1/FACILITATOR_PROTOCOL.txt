@@ -38,30 +38,12 @@ provenance. Starting pages derive from original source annotations, not new
 retrieval rankings or answer-quality inspection. They are not an exhaustive,
 independently certified answer key. The complete PDFs are available.
 
-Score factual faithfulness against official sources under Table 2. A statement
-can be supported by the charter but absent from the retrieved passages. Record
-that using the dedicated flag; do not conflate the two definitions.
-When source wording is ambiguous (including fees), preserve it and describe the
-uncertainty. If it prevents a dimension's judgment, mark that dimension unscorable.
-Do not change benchmark answers, source text, or generated responses during audit.
-
 SCORING DISPOSITIONS
 
 Standard case: two independent integer scores, each 1-4.
 Equal scores for the two answers are permitted; there is no forced winner.
 Explanation/citation notes and error flags are available, and are especially
 useful for factual errors or evidence conflicts.
-
-Clarification/abstention: judge relevance by whether it addresses the query and
-whether clarification is necessary. Judge factual claims normally, if present.
-If it contains no factual claim to assess, faithfulness is unscorable with reason.
-Do not automatically treat clarification as either a success or a failure.
-
-Blank output: relevance 1; faithfulness unscorable (no generated factual claim).
-Truncated output: evaluate the text that exists and flag incomplete output.
-Ambiguous/unreadable/missing evidence: mark only the dimension that cannot be
-judged unscorable, with a concrete reason. Keep the case in the audit.
-Unscorable marks never become 0, 5, or an invented numeric score.
 
 SAVE, RETURN, AND PRESERVE
 
@@ -86,3 +68,7 @@ T12: establish the analysis plan before unmasking; keep scenario/language/rater
 dependencies in the paired comparison. A favorable result is not guaranteed.
 
 Do not launch another model run or retune on these held-out audit findings.
+
+
+Current scoring revision ? 2026-10-23
+Both Answer Relevance and Factual Faithfulness require an integer 1?4 score for final submission, following Chapter 3 Table 2. Notes and flags record uncertainty. Drafts may contain unanswered dimensions; do not guess a score to complete a draft. Consult the facilitator when evidence is insufficient. No automatic conversion of old missing ratings is performed. Packet schema 2 / version t08-t09-v2-four-point rejects earlier-version imports. The original sample, questions, answers, passages, IDs and presentation order remain unchanged. Previous releases are retained in the local backup archive.

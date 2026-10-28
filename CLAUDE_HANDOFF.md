@@ -1,5 +1,8 @@
 # LGSDeliveryRAGAssistant: Claude Code handoff
 
+> **Current status - 28 October 2026:** T10-T12 analysis is complete on researcher-confirmed independent-score provenance; no significant paired system differences after Holm correction. T13-T14 writing drafts are now complete for review in `outputs/manuscript-closeout-20261028/THESIS_RESULTS_REVIEW.pdf`. Read that folder's `READ_THIS_FIRST.md` and latest `thesis_progress_tracker_updated.xlsx`. T15 replacement text is prepared. The researcher explicitly deferred editable Chapters 1-3 integration and the department LaTeX template; do not ask repeatedly or mark T15/T16 complete. T17/T18 approval/submission remain external pending tasks. Earlier status paragraphs below are historical.
+
+
 Prepared on **2026-10-22, Asia/Manila**. This is a continuation brief for the researcher's local project, not a verbatim conversation transcript. Read the actual referenced artifacts before making changes. The files, source PDFs, archived runs, and private audit records remain necessary; this Markdown does not embed or replace them.
 
 ## 1. Start here
@@ -265,15 +268,13 @@ scripts/test_expert_audit_browser.cjs
 tests/test_expert_audit.py
 ```
 
-The interface has no backend and makes no model/network calls. It uses browser localStorage with a packet-specific key, explicit JSON backups/import, final JSON and CSV export, per-dimension unscorable reasons, evidence notes and flags. It rejects out-of-range scores and wrong-rater/packet imports. CSV escapes formula-like text; JSON preserves exact notes.
-
 Do not edit only a generated `index.html` and forget its source template, packet identity, manifests and distribution ZIP. Preserve versions if any formal ratings have started. The current builder refuses to overwrite the registered sample or existing public packet folder.
 
 ### Sample, blinding and disclosure
 
 - 20 groups, four per category; 60 queries in English/Taglish/Bislish.
 - A/B only: 120 unique responses. Each of three raters scores all 120.
-- 360 response-review records, up to 720 separate ordinal scores.
+- 360 response-review records, 720 separate ordinal scores for three completed reviews.
 - Stable opaque answer IDs, separately randomized query order, 30 A-left / 30 B-left pairs per packet, side changes across raters.
 - Original answer text and actual retrieved passages are preserved verbatim.
 - Common source page links come from original source annotations, including unresolved chunk-transfer cases. They are starting points, **not certified complete reference answers**. Full PDFs allow adjacent-page/table checking.
@@ -288,10 +289,6 @@ The main tracker T10 title/allocation specifies three experts/360 records; one d
 ### Rubric and missingness
 
 Two independent **1–4** dimensions: Answer Relevance and Factual Faithfulness. No five-point scale and no forced preference winner.
-
-The exact rubric is in the UI and manuscript Table 2. Per-dimension unscorable handling is an operational addition, not a verbatim manuscript requirement. Keep reasons and missing-score counts. Never turn unscorable into 0 or 5.
-
-The current protocol instructs: judge clarification relevance on the inquiry; if no factual claim exists, mark faithfulness unscorable rather than awarding an automatic 4. For a blank response, relevance 1 and faithfulness unscorable. Assess incomplete responses as presented and flag them. Distinguish support in the official charter from support in actual retrieved context.
 
 ### Verification already performed
 
@@ -341,7 +338,7 @@ After actual T10 returns arrive:
 
 This creates a new `received-ratings/validated-v1/` containing blinded JSON, CSV and receipt. Existing output is not overwritten. If a legitimately revised collection is required, use the underlying collector with a new output directory and preserve earlier returns.
 
-The collector validates exports, retains missing dimensions and does not unmask systems or calculate agreement. T11 then estimates **ordinal Krippendorff's alpha separately by dimension**, reporting missingness and the manuscript's >=.80 target without manipulating ratings to reach it. T12 needs a declared paired analysis that respects scenario/language/rater dependence; 360 reviews are not 360 independent scenario groups.
+The collector validates exports and requires both 1?4 scores and does not unmask systems or calculate agreement. T11 then estimates **ordinal Krippendorff's alpha separately by dimension**, reporting missingness and the manuscript's >=.80 target without manipulating ratings to reach it. T12 needs a declared paired analysis that respects scenario/language/rater dependence; 360 reviews are not 360 independent scenario groups.
 
 Do not run `prepare_expert_audit.py --register-only` again to choose new groups. Do not delete the public folder just to bypass overwrite protection. The sample and artifacts already exist.
 
@@ -361,3 +358,32 @@ Next actual tasks are to acknowledge the timing disclosure, arrange three qualif
 Automated Chapter 4 findings can be drafted from existing T07 results while awaiting human ratings, with coverage and judge limitations stated. Human-audit conclusions, reliability values, and significance results cannot be fabricated or inferred from automated scores.
 
 **The handoff is complete when the next assistant understands the current state and continues from these artifacts. It does not require restarting completed research work.**
+
+
+Current scoring revision ? 2026-10-23
+Both Answer Relevance and Factual Faithfulness require an integer 1?4 score for final submission, following Chapter 3 Table 2. Notes and flags record uncertainty. Drafts may contain unanswered dimensions; do not guess a score to complete a draft. Consult the facilitator when evidence is insufficient. No automatic conversion of old missing ratings is performed. Packet schema 2 / version t08-t09-v2-four-point rejects earlier-version imports. The original sample, questions, answers, passages, IDs and presentation order remain unchanged. Previous releases are retained in the local backup archive.
+
+
+## Current audit amendment - 2026-10-26 (supersedes earlier A/B-only handoff)
+
+The researcher confirmed that formal scoring has not started and approved the Module 1 statement. The current local release is `experiments/t08-t09-expert-audit-v2-triple/`. Read its `READ_THIS_FIRST.txt`, `CHAPTER3_AMENDMENT.md`, and `QA_REPORT.json`. Module 1: 40 code-switched B/C comparisons, 80 five-point fidelity ratings per rater, 240 total. Module 2: 60 A/B/C triples, 180 answer reviews per rater, 540 total, with separate Table 2 relevance/faithfulness scores. Five sessions with mandatory breaks. Original sample and outputs are preserved; no model rerun. Original PDF/workbook have not been rewritten; the amendment supplies replacement text. Prior A/B archive hash discrepancies are documented in private/provenance.json: selected content is unchanged, retrieval-label metadata differs. Earlier release and Drive uploads are historical; new local ZIPs have not been uploaded. Use scripts/collect_triple_ratings.py separately for M1/M2; never pool scales. Private backup: D:\thesis\conversation-backups\t08-t09-triple-private-20261026.zip (SHA256 8f03276b4b65bf24b5a9afcdcba4e4c1a45cab501c40371a2d6003142b51f865).
+
+
+Drive upload completed 2026-10-26: https://drive.google.com/drive/folders/1p5YI_AQuK1ysCm_GJpYpvMDZSzQiHj1R. See experiments/t08-t09-expert-audit-v2-triple/DRIVE_UPLOAD_RECEIPT.json for packet IDs and hashes. Supersedes earlier not-uploaded notices. Private answer keys remain local; no access permissions changed.
+
+
+## Reviewer provenance correction - 2026-10-28
+
+The researcher explicitly confirmed that all three experts independently chose their scores without seeing AI suggestions and that the six files contain their exact submitted scores. Earlier file metadata described AI-prepared assessments and was disputed by the researcher. Corrected copies are in `C:\Users\User\.codex\.chatgpt-projects\g-p-6ac6a06fa534819186f2a4eae6c3c4e6\output\reviewer-independent-assessments-corrected-20261028`. Attribution is recorded as independently scored, as confirmed by the researcher; this assistant did not observe the sessions. Originals are preserved at `C:\Users\User\.codex\.chatgpt-projects\g-p-6ac6a06fa534819186f2a4eae6c3c4e6\output\reviewer-personal-assessments`. See PROVENANCE_CORRECTION.json for prior statements and hashes. All 780 records and 1,320 scores are unchanged; no scores were imputed. These are custom-schema files; collector conversion and reliability analysis have not been performed.
+
+
+## T10-T12 analysis closeout - 2026-10-28
+
+All six corrected assessments validated against issued packets and CSV scores: 780 records, 1,320 scores, no missing or edited scores. Researcher confirmation of independent scoring remains the attribution basis; prior conflicting metadata and its correction are retained. Analysis artifacts are in `experiments/t10-t12-human-analysis-v1/`. Alpha was computed separately by dimension with category-stratified scenario bootstrap intervals. Seven exploratory scenario-paired signed-rank comparisons used Holm adjustment; none was significant. Do not claim equivalent performance or superiority. Raw inputs, mappings and aligned matrices are under ignored `private/`. Analysis uses no model calls and changes no frozen outputs. The updated workbook is a versioned copy; original Downloads workbook and a backup are preserved. No T10-T12 results have been uploaded to Drive in this step.
+
+
+## Writing package and explicit deferral - 2026-10-28
+
+Chapters 4-5, six result tables, three publication figures and Chapters 1-3 replacement passages are prepared in `outputs/manuscript-closeout-20261028/`. The PDF is a ReportLab review draft, not a department LaTeX compilation. The user answered the editable-manuscript/template question: "skip that part for me and just keep this in mind". Preserve that deferral. T13/T14 are complete as drafts; T15 source integration and T16 official compilation remain pending. Adviser-review and submission checklists are prepared, but no approval, ethics filing or portal upload occurred.
+
+The manuscript draft discloses an original 177-query source-label subset separately from the later 210-query reconciliation. The original crosswalk hash matches the execution manifest; the current crosswalk matches its later seal. Drafting does not recertify the later mappings. No archived outcomes or scores were changed. The original manuscript and Downloads tracker remain preserved; use the latest versioned tracker copy in this output folder.

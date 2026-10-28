@@ -19,14 +19,9 @@ FLAGS = {
 def check_dimension(value):
     if not isinstance(value, dict):
         raise ValueError("Missing dimension")
-    score, missing, reason = (value.get(k) for k in ("score", "unscorable", "reason"))
-    if type(missing) is not bool or not isinstance(reason, str):
-        raise ValueError("Invalid missing-score fields")
-    if missing:
-        if score is not None or not reason.strip():
-            raise ValueError("Unscorable requires a null score and a reason")
-    elif type(score) is not int or score not in (1, 2, 3, 4) or reason:
-        raise ValueError("Score must be an integer 1-4, with no unscorable reason")
+    score = value.get("score")
+    if set(value) != {"score"} or type(score) is not int or score not in (1, 2, 3, 4):
+        raise ValueError("Each dimension requires an integer score from 1 to 4")
 
 
 def validate_export(export, packet):
@@ -59,8 +54,6 @@ def validate_export(export, packet):
                        displayed_side=side, presentation_position=position)
             for d in ("relevance", "faithfulness"):
                 row[d + "_score"] = r[d]["score"]
-                row[d + "_unscorable"] = r[d]["unscorable"]
-                row[d + "_reason"] = r[d]["reason"]
             row.update(evidence_note=r["note"], error_flags="; ".join(r["flags"]),
                        updated_at=r["updated_at"])
             rows.append(row)
@@ -108,8 +101,6 @@ def main():
         "all_three_received": len(raters) == 3,
         "observed_scores": {d: sum(r[d + "_score"] is not None for r in rows)
                             for d in ("relevance", "faithfulness")},
-        "unscorable_dimensions": {d: sum(r[d + "_unscorable"] for r in rows)
-                                  for d in ("relevance", "faithfulness")},
         "input_sha256": sources,
         "note": "No identities unmasked and no scores imputed. Independent originals remain unchanged.",
     }

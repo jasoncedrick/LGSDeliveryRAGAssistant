@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-28",
+  "record_count": 780,
+  "dimension_scores": 1320,
+  "all_input_manifest_hashes_verified": true,
+  "source_packet_ids_text_order_and_csv_scores": "PASS",
+  "ordinal_alpha_crosscheck": "Actual matrices plus 40 random fixtures agree with independent coincidence formula to <1e-12; perfect-agreement fixture passed.",
+  "exact_signed_rank_crosscheck": "Four brute-force fixtures including ties/zero differences passed.",
+  "tracker_changed_cells": 20,
+  "unexpected_tracker_value_changes": [],
+  "tracker_sheets_preserved": true,
+  "score_edits": 0,
+  "imputation": false,
+  "model_calls": 0,
+  "frozen_input_check": "PASS",
+  "tracker_visual_check": "PASS",
+  "tracker_validation_rules_and_merged_ranges_preserved": true
+}

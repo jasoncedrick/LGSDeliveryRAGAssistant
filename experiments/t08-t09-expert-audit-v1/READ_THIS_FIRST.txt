@@ -26,21 +26,6 @@ Do not give auditors this repository or the private folder.
 
 WHAT EACH AUDITOR DOES
 
-1. Read the interface's Instructions and four-point guide.
-2. Complete fictional practice with the facilitator before formal scoring.
-3. Review all 60 query pairs / 120 responses independently.
-4. Give separate relevance and faithfulness scores of 1-4, or mark an affected
-   dimension unscorable with a reason. This is missing data, not score 5.
-5. Add evidence notes and error flags where needed. Both responses may tie.
-6. Download a JSON backup at breaks. Autosave alone is not a durable backup.
-7. Export final JSON and final CSV; return both to the researcher.
-
-The JSON is the canonical returned data. CSV escapes formula-like notes for
-spreadsheet safety. Original note text remains in JSON.
-Each expert reviews all 120 responses; do not split the 120 among three people.
-Three complete response sets yield 360 review records, up to 720 ordinal scores.
-Unscorable dimensions must be reported as missing, never zero or a fifth score.
-
 RESEARCHER: COLLECT RATINGS
 
 Place returned files in this folder's received-ratings/ (ignored by Git).
@@ -52,12 +37,6 @@ For a visible PowerShell validation/export run from the clean project:
 
 COLLECT_RATINGS.ps1 uses this packet's ignored received-ratings folder and
 refuses to overwrite previous validated output.
-
-The collector validates packet/rater identity, all 120 answer IDs, both score
-dimensions, score ranges, unscorable reasons, timestamps and duplicate raters.
-It writes blinded_ratings.json, blinded_ratings.csv and receipt.json.
-It does not unmask configurations, impute missing scores or compute reliability.
-After all three ratings arrive, T11 can estimate ordinal Krippendorff's alpha.
 
 METHODOLOGY AND TIMING DISCLOSURE
 
@@ -73,12 +52,6 @@ It uses only group IDs/category, not scores, answers or source-label completenes
 Do not describe this as preselection before T07. Record and discuss this timing
 deviation with the adviser before formal data collection; no rerun can undo it.
 The sample must not be replaced based on unfavorable or difficult answers.
-
-The 1-4 rubric is directly from Table 2. Per-dimension unscorable handling,
-backup mechanics, counterbalanced placement and collection validation are
-operational additions, documented in FACILITATOR_PROTOCOL.txt.
-No workbook cells were edited. Its T10 description contains a four-auditor typo;
-the manuscript, task title and 360-record allocation require three full raters.
 
 BLINDING AND SOURCE LIMITS
 
@@ -123,3 +96,7 @@ received-ratings/: employee exports and collection outputs. Git-ignored.
 The private audit folder also has a local backup under D:/thesis/conversation-backups.
 Keep that backup secure and do not distribute it to the panel.
 No packet has been sent to employees or uploaded externally.
+
+
+Current scoring revision ? 2026-10-23
+Both Answer Relevance and Factual Faithfulness require an integer 1?4 score for final submission, following Chapter 3 Table 2. Notes and flags record uncertainty. Drafts may contain unanswered dimensions; do not guess a score to complete a draft. Consult the facilitator when evidence is insufficient. No automatic conversion of old missing ratings is performed. Packet schema 2 / version t08-t09-v2-four-point rejects earlier-version imports. The original sample, questions, answers, passages, IDs and presentation order remain unchanged. Previous releases are retained in the local backup archive.

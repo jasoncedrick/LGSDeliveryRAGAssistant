@@ -1,5 +1,13 @@
 # LGSDeliveryRAGAssistant
 
+## Current checkpoint - 28 October 2026
+
+The two-module expert audit and T10-T12 analysis are archived. Chapters 4-5 are drafted for review. Start with the [writing package guide](outputs/manuscript-closeout-20261028/READ_THIS_FIRST.md), [combined review PDF](outputs/manuscript-closeout-20261028/THESIS_RESULTS_REVIEW.pdf), and [human-analysis report](experiments/t10-t12-human-analysis-v1/T10_T12_REPORT.md). The [latest tracker copy](outputs/manuscript-closeout-20261028/thesis_progress_tracker_updated.xlsx) records completed drafts and pending work.
+
+Human ratings are attributed to independent experts on the researcher's confirmation, with prior conflicting metadata preserved in the private provenance archive. Ordinal agreement exceeds .80 for all three dimensions; the exploratory paired comparisons do not establish system superiority. Raw ratings and audit keys are deliberately excluded from Git. Some source-dependent audit tests require those private local records.
+
+The original retrieval-label subset contains 177 queries; later source reconciliation expands coverage to 210. The writing package reports both versions separately. Editable Chapters 1-3 integration and department-template compilation are deferred at the researcher's request. Adviser approval and official submission remain pending. Earlier implementation notes below describe historical milestones.
+
 Start with [the T06 closeout](experiments/t06-harness-closeout-v3/T06_STATUS.txt) and [the T07 execution report](experiments/t07-final-evaluation-v1/T07_EXECUTION_REPORT.txt).
 
 This checkout contains the Chapter 3 implementation and archived T06/T07 evaluation evidence. T06 harness implementation and T07 A/B/C execution/CSV export are complete with the limitations recorded below. Evaluation completion does not certify every source label or automated judgment.
@@ -64,4 +72,4 @@ The earlier 90-query K=5 development snapshot is historical. The reviewed v4 dev
 
 `publication_manifest.json` records the original clean snapshot; it is historical, not an inventory of every later evaluation file. Later experiment manifests and seals record their own inputs and outputs. Older audits can reference workstation paths or evidence retained in the backup. Model binaries and caches are provisioned separately. Compatibility inputs retained from earlier `main` history must be checked against the registered run hashes before reuse.
 
-Next: diagnose the three null judge metrics and finish source/reference review before tuning, freezing and final evaluation. Preserve all failures and avoid changing held-out benchmarks.
+Current next steps are listed in the writing package guide above. Null-judge diagnosis, development tuning and final execution described in older notes have already been performed; do not restart them as a routine continuation step. Preserve all failures and held-out benchmarks.

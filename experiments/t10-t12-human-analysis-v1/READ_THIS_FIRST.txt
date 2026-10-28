@@ -1,0 +1,11 @@
+Human audit analysis completed 2026-10-28.
+
+Open T10_T12_REPORT.html or T10_T12_REPORT.md for Chapter 4 tables, results and limitations.
+T10: 780 records / 1,320 scores validated, independent scoring confirmed by researcher.
+T11: ordinal alpha .9354, .9112, .8732; all point estimates above .80.
+T12: seven scenario-paired comparisons; no significant difference after Holm adjustment.
+
+Original inputs and corrected provenance remain in private/input_snapshot/. No scores changed.
+Private files contain individual ratings and architecture mappings; keep them out of public commits.
+Updated tracker copy: outputs/t10-t12-20261028/thesis_progress_tracker_updated.xlsx. Original Downloads workbook is preserved. See tracker_changes.json.
+No model or judge rerun, no held-out tuning, no newly invented human scoring.

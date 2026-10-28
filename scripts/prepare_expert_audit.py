@@ -175,8 +175,8 @@ def build():
             configs = ["A", "B"] if (side_index[q] + n) % 2 == 0 else ["B", "A"]
             pairs.append({k: v for k, v in item.items() if k != "answers"} |
                          {"responses": [item["answers"][c] for c in configs]})
-        payload = {"schema_version": 1, "rubric_version": "chapter3-table2-v1",
-                   "rater_id": rater, "packet_version": "t08-t09-v1", "pairs": pairs}
+        payload = {"schema_version": 2, "rubric_version": "chapter3-table2-v1",
+                   "rater_id": rater, "packet_version": "t08-t09-v2-four-point", "pairs": pairs}
         payload["packet_id"] = hashlib.sha256(
             json.dumps(payload, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
         folder = public / rater

@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-28",
+  "timing": "Analysis specification recorded before this computation, after ratings and prior summaries were available; exploratory, not preregistered.",
+  "provenance": "Independent expert scores as explicitly confirmed by researcher; earlier conflicting metadata preserved in input correction history. Statistics cannot establish independence.",
+  "T11": "Ordinal Krippendorff alpha separately for M1 fidelity, M2 relevance and M2 faithfulness. Unit = unique output, three fixed raters. Category-stratified scenario-group bootstrap, 2000 draws, 95% percentile intervals; preserve all languages/configurations/raters in each sampled group.",
+  "T12": "Average raters and languages within each scenario/configuration; 20 paired scenario units. Two-sided exact signed-rank sign enumeration with midranks for ties, discard zero differences. B-C for M1; B-A, C-A, B-C for each M2 dimension. Holm correction jointly across seven comparisons. Report group mean differences, rank-biserial effects and category-stratified group bootstrap intervals (unadjusted descriptive intervals).",
+  "assumptions": "Signed-rank inference assumes independent scenario groups and symmetric group-level differences under null. Averaging ordinal scores uses numeric scale coding; sign-test sensitivity also reported. Raters treated as fixed, not a random population sample. Scenario sample is category-balanced and selected after T07.",
+  "sensitivity": "M2 faithfulness: separately describe data excluding outputs flagged no_factual_claims by any reviewer. Primary analysis retains every submitted score. No policy-driven recoding.",
+  "seed": 20261028,
+  "bootstrap_draws": 2000,
+  "alpha_target": 0.8,
+  "references": [
+    "20260923.pdf PDF35-36",
+    "t08-t09-expert-audit-v2-triple/CHAPTER3_AMENDMENT.md",
+    "Thesis Tracker T10-T12",
+    "https://github.com/pln-fing-udelar/fast-krippendorff",
+    "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.wilcoxon.html"
+  ],
+  "scope": "Human audit T10-T12. Existing automated T07/T12 metrics not overwritten or conflated with human scores."
+}

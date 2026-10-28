@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-20T05:53:24.525638+00:00",
+  "checked_at_utc": "2026-10-23T08:23:14.663002+00:00",
   "T08": "PACKET_CONSTRUCTION_COMPLETE_WITH_TIMING_DEVIATION_DISCLOSED",
   "T09": "INTERFACE_IMPLEMENTATION_COMPLETE",
   "T10": "NOT_STARTED_NO_HUMAN_RATINGS",
@@ -13,7 +13,7 @@
     "checks": [
       "Blank initial scores",
       "Browser save/reload",
-      "Per-dimension unscorable reason",
+      "Only four ordinal score controls per dimension",
       "Incomplete export rejected",
       "Wrong-rater import rejected",
       "Draft import/resume",
@@ -45,7 +45,7 @@
   },
   "source_text_policy": "Original answers and actual retrieved passages verified verbatim; common annotation pages are starting points, not certified reference answers.",
   "masking": "No configuration key, scores, normalizer diagnostics or original query IDs in distribution. Indirect content clues and public research archives remain a blinding limitation.",
-  "collector_smoke_test": "Synthetic 120-row export validated; null faithfulness values preserved. Test data confined to ignored tmp/.",
+  "collector_smoke_test": "Updated validation tests require both scores and reject null final scores; eight tests passed.",
   "unchanged": {
     "original_benchmark_sha256": "ec91a961df48ea165291a9e5e306de88b2668b42be927922e88f3255f6781054",
     "A_B_archives_sha256": {
@@ -61,5 +61,6 @@
     "Perform actual T10 ratings and document evidence ambiguity."
   ],
   "no_model_run": true,
-  "no_external_distribution": true
+  "no_external_distribution": true,
+  "scoring_policy": "Schema 2: both integer 1?4 scores required for final submission; incomplete drafts allowed."
 }

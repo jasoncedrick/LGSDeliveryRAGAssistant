@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-28",
+  "pdf_pages": 21,
+  "pdf_text_bounds_issues": [],
+  "source_hashes_unchanged": true,
+  "tracker_changed_cells": 21,
+  "unexpected_tracker_changes": [],
+  "tracker_validation_and_merges_preserved": true,
+  "model_calls": 0,
+  "ratings_changed": 0,
+  "tex_compilation": "Not run; official template integration deferred by researcher.",
+  "visual_inspection": "PASS: all 21 final PDF pages inspected through rendered contact sheets; changed pages re-inspected individually; figures and tracker checked."
+}

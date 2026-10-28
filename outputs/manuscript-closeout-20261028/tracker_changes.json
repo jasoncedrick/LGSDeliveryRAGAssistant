@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-28",
+  "source": "outputs/t10-t12-20261028/thesis_progress_tracker_updated.xlsx",
+  "sheet": "Thesis Tracker",
+  "cells": [
+    {
+      "cell": "G23",
+      "before": "Not Started",
+      "after": "Complete"
+    },
+    {
+      "cell": "I23",
+      "before": "Chapter 4 text, tables, and comparative charts",
+      "after": "Chapter 4 draft, six tables and three 300-DPI/vector figures prepared 28 October 2026."
+    },
+    {
+      "cell": "J23",
+      "before": "Chapter 4 text, tables, and comparative charts",
+      "after": "outputs/manuscript-closeout-20261028/CHAPTER_4.md; THESIS_RESULTS_REVIEW.pdf"
+    },
+    {
+      "cell": "K23",
+      "before": "Complete Chapter 4 draft with integrated tables and figures.",
+      "after": "Draft complete, subject to adviser review. Original 177-query retrieval and later 210-query label version reported separately."
+    },
+    {
+      "cell": "G24",
+      "before": "Not Started",
+      "after": "Complete"
+    },
+    {
+      "cell": "I24",
+      "before": "Completed Chapter 5 draft (includes static dictionary recommendation)",
+      "after": "Chapter 5 draft includes objective-based conclusions, limitations and static versioned dictionary recommendations."
+    },
+    {
+      "cell": "J24",
+      "before": "Completed Chapter 5 draft (includes static dictionary recommendation)",
+      "after": "outputs/manuscript-closeout-20261028/CHAPTER_5.md"
+    },
+    {
+      "cell": "K24",
+      "before": "Complete Chapter 5 draft addressing all research objectives.",
+      "after": "Draft complete. No established system superiority; no unsupported operational benefit claims."
+    },
+    {
+      "cell": "G25",
+      "before": "Not Started",
+      "after": "In Progress"
+    },
+    {
+      "cell": "I25",
+      "before": "Revised draft Chapters 1 to 3 reflecting panel/adviser changes",
+      "after": "Source-grounded Chapters 1-3 replacement passages prepared; integration deferred by researcher on 28 October 2026."
+    },
+    {
+      "cell": "J25",
+      "before": "Revised draft Chapters 1 to 3 reflecting panel/adviser changes",
+      "after": "outputs/manuscript-closeout-20261028/CHAPTERS_1_TO_3_REVISION_PACKAGE.md"
+    },
+    {
+      "cell": "K25",
+      "before": "Revised Chapters 1\u20133 conforming to the actual experimental execution.",
+      "after": "Apply and verify in editable manuscript later. Do not mark full revision complete or repeatedly request deferred files."
+    },
+    {
+      "cell": "I26",
+      "before": "Fully compiled LaTeX main.tex and compiled PDF output",
+      "after": "Chapter 4-5 LaTeX fragments prepared. Official template and full source integration deferred by researcher."
+    },
+    {
+      "cell": "J26",
+      "before": "Fully compiled LaTeX main.tex and compiled PDF output",
+      "after": "outputs/manuscript-closeout-20261028/latex; review PDF is ReportLab, not a TeX compilation."
+    },
+    {
+      "cell": "K26",
+      "before": "Cleanly compiling main.tex and 300-DPI publication PDF.",
+      "after": "Not complete. No official template or TeX compilation; retain pending until researcher resumes integration."
+    },
+    {
+      "cell": "I27",
+      "before": "Final review sign-off and correction loop",
+      "after": "Adviser review brief and decision checklist prepared; no adviser sign-off or UREB submission performed."
+    },
+    {
+      "cell": "J27",
+      "before": "Final review sign-off and correction loop",
+      "after": "outputs/manuscript-closeout-20261028/ADVISER_REVIEW_AND_SUBMISSION.md"
+    },
+    {
+      "cell": "K27",
+      "before": "Approved, defense-ready manuscript signed by thesis adviser.",
+      "after": "Requires actual adviser review, revisions and applicable institutional records."
+    },
+    {
+      "cell": "I28",
+      "before": "Uploaded PDF and LaTeX package on ADDU Portal",
+      "after": "Submission checklist prepared; no portal upload performed."
+    },
+    {
+      "cell": "J28",
+      "before": "Uploaded PDF and LaTeX package on ADDU Portal",
+      "after": "outputs/manuscript-closeout-20261028/ADVISER_REVIEW_AND_SUBMISSION.md"
+    },
+    {
+      "cell": "K28",
+      "before": "Formal electronic submission confirmation via the ADDU portal.",
+      "after": "Requires final approved manuscript, required attachments and actual submission receipt."
+    }
+  ],
+  "before_value_source": "Read back from source XLSX XML via openpyxl; artifact import normalized an existing replacement glyph in K25."
+}

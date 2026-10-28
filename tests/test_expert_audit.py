@@ -108,18 +108,18 @@ class ExpertAuditTest(unittest.TestCase):
         out = {k: p[k] for k in ("schema_version", "packet_id", "rater_id", "rubric_version", "packet_version")}
         out["export_kind"] = "final"
         out["ratings"] = {r["answer_id"]: {
-            "relevance": {"score": 2, "unscorable": False, "reason": ""},
-            "faithfulness": {"score": None, "unscorable": True, "reason": "Synthetic test only"},
+            "relevance": {"score": 2},
+            "faithfulness": {"score": 3},
             "note": "Synthetic test only", "flags": [], "updated_at": "2026-10-20T00:00:00Z",
         } for pair in p["pairs"] for r in pair["responses"]}
         return out
 
-    def test_validation_preserves_missing_dimensions(self):
+    def test_validation_requires_both_scores(self):
         rows = collect.validate_export(self.export(), self.packets[0])
         self.assertEqual(len(rows), 120)
-        self.assertTrue(all(r["faithfulness_score"] is None for r in rows))
+        self.assertTrue(all(r["faithfulness_score"] == 3 for r in rows))
 
-    def test_rejects_invalid_scores_missing_reasons_wrong_packet(self):
+    def test_rejects_invalid_scores_missing_scores_wrong_packet(self):
         original = self.export()
         first = next(iter(original["ratings"]))
         for score in (0, 5, True, "4", 3.5):
@@ -128,7 +128,7 @@ class ExpertAuditTest(unittest.TestCase):
             with self.assertRaises(ValueError):
                 collect.validate_export(changed, self.packets[0])
         changed = copy.deepcopy(original)
-        changed["ratings"][first]["faithfulness"]["reason"] = ""
+        changed["ratings"][first]["faithfulness"]["score"] = None
         with self.assertRaises(ValueError):
             collect.validate_export(changed, self.packets[0])
         with self.assertRaises(ValueError):

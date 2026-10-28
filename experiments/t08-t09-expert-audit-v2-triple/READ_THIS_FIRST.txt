@@ -1,0 +1,32 @@
+CURRENT LOCAL RELEASE: adviser-directed two-module audit, 26 October 2026.
+
+Formal scoring has not started, as explicitly confirmed by the researcher.
+The earlier t08-t09-expert-audit-v1 directory is preserved as history.
+Distribute only distribution/R01-two-module-audit.zip, R02 or R03 to the
+corresponding auditor. Each ZIP contains both modules, instructions and PDFs.
+Never distribute private/ or the project handoff to blinded auditors.
+
+Read START_HERE.txt for the five-session schedule. Conduct fictional practice
+before real scoring. Use separate module-specific practice examples and keep
+practice ratings out of formal exports. Do not prescribe formal scores.
+
+Read CHAPTER3_AMENDMENT.md for manuscript/tracker replacement text and timing
+disclosures. Original PDF and workbook are preserved. Module 1's exact statement
+was approved by the researcher. Only two human modules are specified; the
+adviser's "Triple Evaluation" wording does not create an unspecified third form.
+
+No inference or RAGAS rerun was needed. The fixed 20-group sample is unchanged.
+Current A/B archive bytes differ from original audit registration; selected
+records differ only in retrieval-label metadata. Questions, normalization,
+answers, citations and contexts match the preserved original selected records.
+See private/provenance.json for exact old/current hashes and differing fields.
+C outputs are copied from the current archived T07 records, with hashes recorded.
+
+COLLECTION (run from repository root, use a NEW --out directory):
+D:\thesis\venv\Scripts\python.exe scripts/collect_triple_ratings.py --module M1 --out experiments/t08-t09-expert-audit-v2-triple/received-ratings/validated-M1-v1 R01-M1-final.json R02-M1-final.json R03-M1-final.json
+D:\thesis\venv\Scripts\python.exe scripts/collect_triple_ratings.py --module M2 --out experiments/t08-t09-expert-audit-v2-triple/received-ratings/validated-M2-v1 R01-M2-final.json R02-M2-final.json R03-M2-final.json
+Replace input names with actual downloaded file paths. Preserve original returns.
+Collector outputs remain blinded and do not calculate agreement automatically.
+
+Drive still contains the earlier release unless a subsequent upload receipt
+explicitly records these new packet hashes. Do not distribute the old Drive ZIPs.

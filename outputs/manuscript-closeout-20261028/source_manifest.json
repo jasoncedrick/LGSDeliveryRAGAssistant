@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-28",
+  "files": {
+    "experiments\\t07-final-evaluation-v1\\matched_metrics.csv": "72d26572786ab52cf741471b867500fc7b4fac38c0e7543f0cd483b5867b0c09",
+    "experiments\\t07-final-evaluation-v1\\per_query_metrics.csv": "0ea32b6444de53b05698bbb135f94262cd6548ee390afcb9968461a5810c58ff",
+    "experiments\\t07-final-evaluation-v1\\source_span_crosswalk.v1.json": "292bcaf0dfce5b524caed604b6ae33337ff625ce54280dd37b905223346f08e5",
+    "experiments\\t07-final-evaluation-v1\\source_span_crosswalk.json": "3978881a5c4640ee3bf0b62023fd96c490a76d5afb21b11f0b575860ddc6443f",
+    "experiments\\t07-final-evaluation-v1\\execution_manifest.json": "c3e7a40501bc87236156c50be1d12dc832c45fc94d3edd2206cbe0052400a51e",
+    "experiments\\t07-final-evaluation-v1\\candidate_registration.json": "a5085fad279f8c7e57d2378a6164e84880f848ad94b701ae036b0d99b2a2da9f",
+    "experiments\\t10-t12-human-analysis-v1\\analysis_results.json": "b2094ff29a8050efae9b71d2e501c9d5bea5f8772506a145850fda632a41801d",
+    "experiments\\t10-t12-human-analysis-v1\\analysis_plan.json": "78230782e6399f54c17baf7c8b97b11540b8d553f39c5c20d7686e812b007238"
+  },
+  "manuscript_sha256": "628193ea55abc364c06dd3251a79126fa55ca2af2cb9d23e25cb584e7757f98a",
+  "computed_tables_verified": true
+}

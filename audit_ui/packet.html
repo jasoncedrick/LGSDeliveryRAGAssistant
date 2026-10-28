@@ -53,15 +53,10 @@ they are not certified reference answers. Open the full PDF and inspect tables a
 needed. Each response also shows exactly the passages available to that system. Judge factual
 faithfulness against the official charter; record separately when a true claim was absent from the
 retrieved passages. Record any additional source pages you consult.</p>
-<p><strong>Special cases:</strong> Score clarification or abstention by how well it addresses the inquiry.
-Do not award factual faithfulness 4 solely because there is no factual claim: mark that dimension
-unscorable with a reason. For blank output, relevance is 1 and faithfulness is unscorable.
-For incomplete text, score what is present and flag the omission. If a source conflict prevents a
-judgment, mark only the affected dimension unscorable and explain. Unscorable is missing data, not
-a fifth score. Do not replace printed ambiguous fees with assumed values.</p>
+<p><strong>Scoring:</strong> Select a score from 1 to 4 for each dimension using the rubric. Record uncertainty, missing evidence, clarification requests or incomplete output in the notes and flags. If you cannot yet make an evidence-based judgment, leave the score blank in a draft and consult the facilitator before final submission. Do not guess or automatically assign a score.</p>
 <p><strong>Saving:</strong> Changes autosave in this browser when storage is available.
 Download a JSON backup at every break; keep it outside the packet folder. Import it to resume on
-another device. Final export requires a score or justified unscorable mark for every dimension.
+another device. Final export requires a 1?4 score for every dimension.
 No name is requested; use only the assigned rater code.</p>
 </details>
 <div class="toolbar">
@@ -91,17 +86,16 @@ const flagOptions=["Incorrect fee","Wrong requirement or office","Unsupported st
 const key="lgs-audit:"+packet.packet_id;
 const allAnswers=new Map(packet.pairs.flatMap((p,i)=>p.responses.map((r,j)=>[r.answer_id,
  {query_id:p.query_id,side:j===0?"left":"right",pair_index:i}])));
-let state={schema_version:1,packet_id:packet.packet_id,rater_id:packet.rater_id,
+let state={schema_version:2,packet_id:packet.packet_id,rater_id:packet.rater_id,
  rubric_version:packet.rubric_version,packet_version:packet.packet_version,position:0,ratings:{}};
 function el(tag,text,cls){const n=document.createElement(tag);if(text!==undefined)n.textContent=text;if(cls)n.className=cls;return n}
 function notice(text){document.getElementById("notice").textContent=text}
 function validDimension(d,final=false){
- if(!d||typeof d!=="object"||Array.isArray(d)||typeof d.unscorable!=="boolean"||typeof d.reason!=="string")return false;
- if(d.unscorable)return d.score===null&&(!final||!!d.reason.trim());
- return d.reason===""&&((d.score===null&&!final)||(Number.isInteger(d.score)&&d.score>=1&&d.score<=4));
+ if(!d||typeof d!=="object"||Array.isArray(d)||Object.keys(d).some(k=>k!=="score"))return false;
+ return (d.score===null&&!final)||(Number.isInteger(d.score)&&d.score>=1&&d.score<=4);
 }
 function validate(s,final=false){
- if(!s||s.schema_version!==1||s.packet_id!==packet.packet_id||s.rater_id!==packet.rater_id||
+ if(!s||s.schema_version!==2||s.packet_id!==packet.packet_id||s.rater_id!==packet.rater_id||
  s.rubric_version!==packet.rubric_version||s.packet_version!==packet.packet_version)throw Error("This backup belongs to a different packet or rater.");
  if(!Number.isInteger(s.position)||s.position<0||s.position>=packet.pairs.length||
  !s.ratings||typeof s.ratings!=="object"||Array.isArray(s.ratings))throw Error("Invalid backup structure.");
@@ -119,7 +113,7 @@ function validate(s,final=false){
 function complete(id){const r=state.ratings[id];return !!r&&dimensions.every(d=>validDimension(r[d],true))}
 function rating(id){
  if(!Object.hasOwn(state.ratings,id))state.ratings[id]={
- relevance:{score:null,unscorable:false,reason:""},faithfulness:{score:null,unscorable:false,reason:""},
+ relevance:{score:null},faithfulness:{score:null},
  note:"",flags:[],updated_at:new Date().toISOString()};
  return state.ratings[id];
 }
@@ -161,20 +155,10 @@ function render(){
    const fs=el("fieldset");fs.append(el("legend",d==="relevance"?"Answer Relevance":"Factual Faithfulness"));
    [1,2,3,4].forEach(score=>{
     const label=el("label",undefined,"option"),input=el("input");input.type="radio";
-    input.name=response.answer_id+"-"+d;input.value=score;input.checked=r[d].score===score;input.disabled=r[d].unscorable;
+    input.name=response.answer_id+"-"+d;input.value=score;input.checked=r[d].score===score;
     input.addEventListener("change",()=>{r[d].score=score;change(response.answer_id)});
     label.append(input,document.createTextNode(String(score)));fs.append(label);
    });
-   const label=el("label",undefined,"option"),check=el("input");check.type="checkbox";check.checked=r[d].unscorable;
-   check.setAttribute("aria-label",d+" unscorable");
-   check.addEventListener("change",()=>{r[d]={score:null,unscorable:check.checked,reason:""};change(response.answer_id);render()});
-   label.append(check,document.createTextNode("Unscorable"));fs.append(label);
-   if(r[d].unscorable){
-    const reasonLabel=el("label","Reason required","field-label"),reason=el("textarea");
-    reason.id=response.answer_id+"-"+d+"-reason";reasonLabel.htmlFor=reason.id;reason.value=r[d].reason;
-    reason.addEventListener("input",()=>{r[d].reason=reason.value;change(response.answer_id)});
-    fs.append(reasonLabel,reason);
-   }
    card.append(fs);
   });
   const flags=el("details");flags.append(el("summary","Error and evidence flags (optional)"));
@@ -198,8 +182,8 @@ function exportRows(){return packet.pairs.flatMap((p,i)=>p.responses.map((r,j)=>
  const v=state.ratings[r.answer_id];return {rater_id:packet.rater_id,packet_id:packet.packet_id,
  rubric_version:packet.rubric_version,packet_version:packet.packet_version,query_id:p.query_id,
  answer_id:r.answer_id,displayed_side:j===0?"left":"right",presentation_position:i+1,
- relevance_score:v.relevance.score,relevance_unscorable:v.relevance.unscorable,relevance_reason:v.relevance.reason,
- faithfulness_score:v.faithfulness.score,faithfulness_unscorable:v.faithfulness.unscorable,faithfulness_reason:v.faithfulness.reason,
+ relevance_score:v.relevance.score,
+ faithfulness_score:v.faithfulness.score,
  evidence_note:v.note,error_flags:v.flags.join("; "),updated_at:v.updated_at};
  }))}
 function csvCell(v){let s=v===null?"":String(v);if(/^[\s]*[=+\-@]/.test(s))s="'"+s;return '"'+s.replaceAll('"','""')+'"'}
@@ -232,7 +216,7 @@ document.getElementById("csv").onclick=()=>finalExport("csv");
 document.getElementById("importButton").onclick=()=>document.getElementById("importFile").click();
 document.getElementById("importFile").onchange=async e=>{
  try{const file=e.target.files[0];if(!file)return;const candidate=JSON.parse(await file.text());validate(candidate);
-  if(Object.values(state.ratings).some(r=>r.note||r.flags.length||dimensions.some(d=>r[d].score!==null||r[d].unscorable))){
+  if(Object.values(state.ratings).some(r=>r.note||r.flags.length||dimensions.some(d=>r[d].score!==null))){
    if(!confirm("Import replaces this browser's ratings. Download a backup first if you need to keep them. Continue?"))return;
   }
   state=candidate;render();save();notice("Backup imported and saved for "+packet.rater_id+".");

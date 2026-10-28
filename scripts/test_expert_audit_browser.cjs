@@ -32,8 +32,8 @@ async function main() {
     await first.locator("fieldset").first().getByRole("radio",{name:"3",exact:true}).check();
     await page.reload();
     assert.equal(await first.locator("fieldset").first().getByRole("radio",{name:"3",exact:true}).isChecked(),true);
-    await first.getByRole("checkbox",{name:"faithfulness unscorable",exact:true}).check();
-    await first.getByLabel("Reason required").fill("Synthetic UI test: no factual claim.");
+    assert.equal(await first.locator("fieldset input[type=checkbox]").count(),0);
+    await first.locator("fieldset").nth(1).getByRole("radio",{name:"2",exact:true}).check();
     assert.match(await page.locator("#progress").innerText(), /^1 \/ 120/);
     await page.locator("#final").click();
     assert.match(await page.locator("#notice").innerText(), /Unfinished/);
@@ -41,12 +41,12 @@ async function main() {
     await page.locator("#importFile").setInputFiles({name:"wrong-rater.json",mimeType:"application/json",buffer:Buffer.from(JSON.stringify(bad))});
     assert.match(await page.locator("#notice").innerText(), /Import rejected/);
     const synthetic={
-      schema_version:1,packet_id:packet.packet_id,rater_id:packet.rater_id,
+      schema_version:2,packet_id:packet.packet_id,rater_id:packet.rater_id,
       rubric_version:packet.rubric_version,packet_version:packet.packet_version,position:0,ratings:{}
     };
     for(const pair of packet.pairs)for(const r of pair.responses)synthetic.ratings[r.answer_id]={
-      relevance:{score:2,unscorable:false,reason:""},
-      faithfulness:{score:null,unscorable:true,reason:"SYNTHETIC AUTOMATED TEST ONLY"},
+      relevance:{score:2},
+      faithfulness:{score:3},
       note:"=SYNTHETIC TEST, not human evidence",flags:["No factual claims"],
       updated_at:"2026-10-20T00:00:00.000Z",
     };
@@ -64,7 +64,7 @@ async function main() {
     const exported=JSON.parse(fs.readFileSync(jsonPath,"utf8"));
     assert.equal(exported.records.length,120);
     assert.equal(exported.export_kind,"final");
-    assert.equal(exported.records[0].faithfulness_score,null);
+    assert.equal(exported.records[0].faithfulness_score,3);
     const [csvDownload]=await Promise.all([page.waitForEvent("download"),page.locator("#csv").click()]);
     const csvPath=path.join(output,"SYNTHETIC-R01-final.csv");
     await csvDownload.saveAs(csvPath);
@@ -82,7 +82,7 @@ async function main() {
     assert.deepEqual(requests,[]);
     const report={
       status:"PASS",checks:[
-        "Blank initial scores", "Browser save/reload", "Per-dimension unscorable reason",
+        "Blank initial scores", "Browser save/reload", "Only four ordinal score controls per dimension",
         "Incomplete export rejected", "Wrong-rater import rejected", "Draft import/resume",
         "Out-of-range score rejected", "120-row JSON export", "CSV formula escaping",
         "Mobile viewport overflow", "No JavaScript errors", "No network requests"

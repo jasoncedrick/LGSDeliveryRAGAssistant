@@ -1,8 +1,8 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "rubric_version": "chapter3-table2-v1",
   "rater_id": "R02",
-  "packet_version": "t08-t09-v1",
+  "packet_version": "t08-t09-v2-four-point",
   "pairs": [
     {
       "query_id": "Q-d1b8614c7bc6",
@@ -4601,5 +4601,5 @@
       ]
     }
   ],
-  "packet_id": "88549dc6cd0756efcea77567ebbd7e7d160d3079addcf828ecd0580870919e5a"
+  "packet_id": "e54ee2f8155f71c4bbac7037d5714d91e79d8d5cfe77dc1628f1692b475676aa"
 }

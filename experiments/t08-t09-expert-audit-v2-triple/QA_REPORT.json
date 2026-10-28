@@ -1,0 +1,15 @@
+{
+  "structural_checks": [
+    "M1 R01: counts, balance, verbatim text, collector export and out-of-range rejection passed",
+    "M1 R02: counts, balance, verbatim text, collector export and out-of-range rejection passed",
+    "M1 R03: counts, balance, verbatim text, collector export and out-of-range rejection passed",
+    "M2 R01: counts, balance, verbatim text, collector export and out-of-range rejection passed",
+    "M2 R02: counts, balance, verbatim text, collector export and out-of-range rejection passed",
+    "M2 R03: counts, balance, verbatim text, collector export and out-of-range rejection passed"
+  ],
+  "real_ratings_created": false,
+  "browser_checks": "Passed M1/M2: card count, dynamic progress, incomplete final rejection, valid export counts 80/180, old-version rejection, 390px layout, no JavaScript errors",
+  "source_links_checked": 1950,
+  "unit_test_command": "python -m unittest discover -s tests -p test_triple_audit.py -v",
+  "unit_tests_passed": 3
+}

@@ -1,0 +1,53 @@
+{
+  "files": [
+    {
+      "file": "R01-M1-independent.json",
+      "sha256": "d4907dda2d90dba0564cb295aec50ee5ade779c166783c8b7f2b30191d75b3d0",
+      "records": 80,
+      "scores": 80,
+      "status": "PASS"
+    },
+    {
+      "file": "R01-M2-independent.json",
+      "sha256": "33a0d2f14bb4c56e4a6f4b8da5b636e31ce3c06baf56ca5fc9345540892608a9",
+      "records": 180,
+      "scores": 360,
+      "status": "PASS"
+    },
+    {
+      "file": "R02-M1-independent.json",
+      "sha256": "c973047b28ef39fb83f7ef9aff64fc397734245c3b7d929abb844ad143b602f8",
+      "records": 80,
+      "scores": 80,
+      "status": "PASS"
+    },
+    {
+      "file": "R02-M2-independent.json",
+      "sha256": "ba13cc8a21e9f8d7f59aaf7cd7c3a923921b8317be68f7dcda95e6b4f4659872",
+      "records": 180,
+      "scores": 360,
+      "status": "PASS"
+    },
+    {
+      "file": "R03-M1-independent.json",
+      "sha256": "f0569ec90f1ca0977af2c6da2e2e19b72c4f30e4c4ee6ac8e8e89687bccb18c5",
+      "records": 80,
+      "scores": 80,
+      "status": "PASS"
+    },
+    {
+      "file": "R03-M2-independent.json",
+      "sha256": "02079d35a0d597c3ddbe8971828e630c4079206dcd0ee62e901335339453ec64",
+      "records": 180,
+      "scores": 360,
+      "status": "PASS"
+    }
+  ],
+  "records": 780,
+  "scores": 1320,
+  "missing_scores": 0,
+  "duplicate_scores": 0,
+  "input_manifest_verified": true,
+  "content_order_packet_csv_checks": "PASS",
+  "provenance": "Independent expert scores as explicitly confirmed by researcher; earlier conflicting metadata preserved in input correction history. Statistics cannot establish independence."
+}

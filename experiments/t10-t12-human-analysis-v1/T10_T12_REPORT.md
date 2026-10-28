@@ -1,0 +1,87 @@
+# Human expert audit: T10-T12 results
+
+Analysis date: 28 October 2026. The six supplied assessments contain 780 output-review records and 1,320 dimension scores. All expected records, score ranges, packet identities, question/output text, presentation order and JSON/CSV score pairs passed validation. No scores were imputed, changed or excluded from the primary analysis.
+
+The researcher explicitly confirmed independent scoring by three experts without exposure to AI-suggested scores and confirmed that these files contain their exact submitted scores. Earlier files carried conflicting AI-prepared metadata; the originals and the researcher's correction are preserved. Results below are conditional on that confirmed provenance. Statistical agreement alone cannot verify independent collection, auditor qualifications, or blinding.
+
+## Table 1. Dataset coverage
+
+| Module | Queries | Unique outputs | Reviewers | Review records | Dimension scores |
+| --- | --- | --- | --- | --- | --- |
+| M1: normalization (B/C) | 40 | 80 | 3 | 240 | 240 |
+| M2: generated answers (A/B/C) | 60 | 180 | 3 | 540 | 1,080 |
+
+Module 1 uses the approved 1-5 agreement statement for normalization fidelity. Module 2 retains the separate 1-4 Answer Relevance and Factual Faithfulness rubrics from Table 2. Each module uses the same registered 20 scenario groups, four from each service category. M1 contains Taglish and Bislish; M2 also contains English. Rater codes, not names, are used in analysis.
+
+## Table 2. Ordinal inter-rater reliability
+
+| Dimension | Unique outputs | Alpha | 95% cluster-bootstrap CI | Meets .80 point target |
+| --- | --- | --- | --- | --- |
+| M1 fidelity | 80 | 0.9354 | [0.8945, 0.9641] | Yes |
+| M2 relevance | 180 | 0.9112 | [0.8590, 0.9424] | Yes |
+| M2 faithfulness | 180 | 0.8732 | [0.8011, 0.9229] | Yes |
+
+All three point estimates exceed .80. The percentile intervals also have lower bounds above .80, although faithfulness is close to the threshold (approximately .801). Intervals are based on 2,000 bootstrap draws of scenario groups within service categories; they are estimates, not guarantees. All raters, languages and configurations remain together within each sampled group. The three observed raters are treated as fixed. This agreement result does not establish factual correctness or system superiority.
+
+## Table 3. Descriptive scores by configuration
+
+| Dimension | Configuration | Ratings | Mean | Median |
+| --- | --- | --- | --- | --- |
+| M1 fidelity | B | 120 | 3.7583 | 4.0 |
+| M1 fidelity | C | 120 | 3.7667 | 4.0 |
+| M2 relevance | A | 180 | 2.3222 | 2.0 |
+| M2 relevance | B | 180 | 2.2833 | 2.0 |
+| M2 relevance | C | 180 | 2.2778 | 2.0 |
+| M2 faithfulness | A | 180 | 2.7167 | 3.0 |
+| M2 faithfulness | B | 180 | 2.7278 | 3.0 |
+| M2 faithfulness | C | 180 | 2.6222 | 3.0 |
+
+Means summarize the numeric coding of the ordinal scales; score distributions and language breakdowns are supplied in descriptive_scores.csv. They should not be interpreted as calibrated interval measurements. B and C have very similar normalization and relevance means. B has the largest descriptive faithfulness mean, but the paired analysis does not establish superiority.
+
+## Table 4. Scenario-paired comparisons
+
+| Dimension | Contrast | Mean difference | 95% descriptive CI | Exact p | Holm p |
+| --- | --- | --- | --- | --- | --- |
+| M1 fidelity | B minus C | -0.0083 | [-0.1167, 0.1000] | 0.937500 | 1.0000 |
+| M2 relevance | B minus A | -0.0389 | [-0.2444, 0.1890] | 0.395325 | 1.0000 |
+| M2 relevance | C minus A | -0.0444 | [-0.2444, 0.1778] | 0.308533 | 1.0000 |
+| M2 relevance | B minus C | 0.0056 | [-0.0333, 0.0444] | 1.000000 | 1.0000 |
+| M2 faithfulness | B minus A | 0.0111 | [-0.3333, 0.3333] | 0.848492 | 1.0000 |
+| M2 faithfulness | C minus A | -0.0944 | [-0.4446, 0.2444] | 0.905472 | 1.0000 |
+| M2 faithfulness | B minus C | 0.1056 | [0.0000, 0.2222] | 0.250000 | 1.0000 |
+
+Each comparison uses 20 paired scenario groups. Within each scenario/configuration, ratings are averaged across the three raters and applicable languages (six M1 or nine M2 ratings). Exact two-sided signed-rank tests enumerate the sign distribution using midranks for ties and omit zero differences. The seven primary p-values receive one joint Holm adjustment. Confidence intervals are unadjusted descriptive group-bootstrap intervals; they are not simultaneous hypothesis tests. Rank-biserial effects, numbers of tied/nonzero groups, and two-sided group sign-test sensitivity p-values are in paired_comparisons.csv.
+
+No comparison is significant at the .05 level after correction; all Holm-adjusted p-values equal 1.0000. This is absence of evidence for a difference in this audit, not proof that the systems are equivalent. In the B-C faithfulness comparison, only three of 20 groups have a nonzero difference; the rank-biserial value of 1 applies only to those three groups and must not be described as a universal or large practical advantage.
+
+## Table 5. No-factual-claim sensitivity (descriptive only)
+
+| Configuration | Outputs excluded in sensitivity | Primary faithfulness mean | Mean excluding flagged outputs |
+| --- | --- | --- | --- |
+| A | 2 | 2.7167 | 2.6724 |
+| B | 3 | 2.7278 | 2.6608 |
+| C | 2 | 2.6222 | 2.5747 |
+
+The primary results retain every submitted rating. This separate diagnostic excludes an output if any reviewer flagged it as containing no factual claims. It does not recode abstentions to 4 or replace the primary analysis. The historical files described a no-claim scoring convention not specified verbatim in Table 2; the methodological interpretation should be disclosed. This sensitivity uses unequal denominators and is not a new paired significance test.
+
+## Methods, limitations and interpretation
+
+- The plan was written before this computation but after ratings and prior summaries were available. The comparisons are exploratory, not retrospectively preregistered or confirmatory.
+- Signed-rank inference assumes independent scenario groups and symmetric differences under the null. Averaging ordinal scores uses the chosen numeric coding. Group sign-test sensitivity does not require the difference-symmetry assumption; none of those sensitivity p-values is below .05.
+- The audit subset was selected after automated T07 results, using fixed category-balanced hash ordering. The timing disclosure remains. Inference concerns this limited audit sample, not all municipal services or a random population of expert raters.
+- Module 1 and Module 2 opaque output IDs share suffixes for 80 outputs. Cross-module matching was possible, and textual similarity can also reveal links. Do not claim perfect blinding. No packet IDs or issued materials were altered after collection.
+- Researcher-confirmed independent scoring is used as the data provenance; earlier conflicting metadata and its correction remain inspectable. No collection timestamps, qualifications, signatures or direct observations are invented.
+- The original manuscript states an A/B-only human allocation. The adviser-directed 26 October amendment adds C and the normalization module. CHAPTER3_AMENDMENT.md supplies replacement text; the original PDF has not been rewritten.
+- These human-audit results supplement the archived T07 automated metrics. The older t12_significance_results.csv is a separate historical automated analysis and was not merged into these human results. No held-out answers, dictionary entries, retrieval settings or model outputs were changed.
+
+## Chapter 4 draft interpretation
+
+Across the 20 scenario groups, the three researcher-confirmed independent expert assessments showed ordinal agreement coefficients of .9354 for normalization fidelity, .9112 for answer relevance, and .8732 for factual faithfulness. All exceeded the specified .80 target. Configuration B and C normalization means were 3.7583 and 3.7667 on the five-point scale. On the four-point answer scale, relevance means were 2.3222, 2.2833 and 2.2778 for A, B and C; faithfulness means were 2.7167, 2.7278 and 2.6222. Scenario-paired comparisons did not show statistically significant differences after multiplicity adjustment. Accordingly, this audit supports reporting substantial agreement among the supplied ratings but does not establish superior human-rated performance or an additional dictionary-injection benefit. Provenance, sampling, blinding and exploratory-analysis limitations accompany these conclusions.
+
+## Completion and reproducibility
+
+T10 record consolidation is complete on the researcher's confirmed provenance. T11 calculations are complete and the point-estimate target is met. T12 human-audit comparisons are complete with no significant superiority finding. Completion describes the analysis performed, not an institutional approval or a favorable outcome requirement. No further scoring or model run is needed to reproduce these calculations.
+
+Run scripts/analyze_human_audit.py with a new output version to reproduce; existing completed outputs are protected. Dependencies: the project's Python environment, NumPy, SciPy, and krippendorff 0.8.2 installed only in tmp/t11-analysis-deps. Input hashes, archived input copies, aligned score matrices and scenario aggregates are under private/ and excluded from Git. Public CSVs contain aggregate results. The tracker change log preserves prior cell values.
+
+Method references: manuscript 20260923.pdf, PDF pages 35-36; adviser amendment dated 2026-10-26; Thesis Tracker T10-T12; [Fast Krippendorff implementation](https://github.com/pln-fing-udelar/fast-krippendorff); [SciPy signed-rank documentation](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.wilcoxon.html). The implementation's ordinal alpha was cross-checked against a separately written coincidence-matrix formula on the actual datasets and 40 random fixtures. The exact signed-rank calculation was checked against brute-force enumeration on four fixtures, including ties and zero differences.

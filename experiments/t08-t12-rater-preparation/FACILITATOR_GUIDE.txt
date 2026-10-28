@@ -92,8 +92,8 @@ T09 - FREEZE THE SCORING INSTRUCTIONS AND INTERFACE
 
 Display the original question, common source reference, unedited answer,
 answer-specific retrieved evidence, and two separate 1-4 controls per answer.
-Include evidence notes, error flags, save/resume and an explicit unscorable
-flag with a reason. An unscorable flag is not a fifth ordinal score.
+Include evidence notes, error flags and save/resume. Final submissions require
+a 1?4 integer score for both dimensions. Unanswered drafts may be saved.
 Do not show model names, A/B mappings, RAGAS scores, or other raters' scores.
 Equal scores are valid. A forced winner does not replace the rubric.
 
@@ -117,7 +117,7 @@ promising a duration. Do not show practice scores during formal rating.
 
 Suggested scoring record fields:
 rater_id, opaque_answer_id, opaque_query_id, displayed_side, relevance_score,
-faithfulness_score, evidence_note, error_flags, unscorable_reason, timestamp,
+faithfulness_score, evidence_note, error_flags, timestamp,
 rubric_version, packet_version.
 
 Keep the configuration mapping in a separate restricted researcher file.

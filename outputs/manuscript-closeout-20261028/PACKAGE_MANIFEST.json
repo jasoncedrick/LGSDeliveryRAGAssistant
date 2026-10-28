@@ -1,0 +1,120 @@
+{
+  "date": "2026-10-28",
+  "purpose": "Aggregate thesis writing and review package",
+  "source_results_preserved": true,
+  "private_ratings_included": false,
+  "files": {
+    "ADVISER_REVIEW_AND_SUBMISSION.md": {
+      "sha256": "77660b67a6915853bce9164f3060fcca11090adbd07fc8aeded45a53512e0b13",
+      "bytes": 4633
+    },
+    "automated_original_label_subset.csv": {
+      "sha256": "0932a6028d881089f3f5f2f04f9fb4cd84c17efbadeaa1ac090b079df84e8d8c",
+      "bytes": 470
+    },
+    "CHAPTER_4.md": {
+      "sha256": "3ff4be4dc3bdfa3755f79c28807fa3c7b567e085daacfa696d13f815288f500c",
+      "bytes": 21745
+    },
+    "CHAPTER_5.md": {
+      "sha256": "3116d2b35068c01b2ba3236049000bb5fa023e22bbc0f75f76731f4d0ebdcb76",
+      "bytes": 10462
+    },
+    "CHAPTERS_1_TO_3_REVISION_PACKAGE.md": {
+      "sha256": "3dc5dda4f9ef9afc661afd30abe6ea8a2bd807204c12713c320f4db6c63f65fb",
+      "bytes": 11855
+    },
+    "evidence_tables.json": {
+      "sha256": "c6d3d7a5a49102db23fb1175a5dfca31672e6e8859e1e45edf7dbee8f83b37c0",
+      "bytes": 21191
+    },
+    "figures/figure_4_1_retrieval.pdf": {
+      "sha256": "c1546d30455dc60d3d6c1326279a3e44498080760793e012a4106f4353b5c874",
+      "bytes": 14473
+    },
+    "figures/figure_4_1_retrieval.png": {
+      "sha256": "b5069c1de9188182988eff68535e50e157175563b8db8e319b52f1ecbdb5a5e2",
+      "bytes": 66406
+    },
+    "figures/figure_4_2_human_means.pdf": {
+      "sha256": "f7ab0a8fb923fff7bff1e107a54c97ca4e2416d54b610c2825f8d18deae53d67",
+      "bytes": 14672
+    },
+    "figures/figure_4_2_human_means.png": {
+      "sha256": "a141d40567936bbc21aacec11964066f99af3ec11a9d560a8cc161e45e8cac84",
+      "bytes": 82472
+    },
+    "figures/figure_4_3_agreement.pdf": {
+      "sha256": "46c2e6dab5b83077ddc7c9e280c91c5d061ee6d4008702a15d8dfcc62af32417",
+      "bytes": 14202
+    },
+    "figures/figure_4_3_agreement.png": {
+      "sha256": "2332037105c515918fdcb8ffd3c1637a012d4396cf9f33de703d1960355373e5",
+      "bytes": 60382
+    },
+    "latex/chapter_4.tex": {
+      "sha256": "86bdfbd3abf44e15e5da8c0c9136d8271af0d085f238d0708fec472fe748ab2e",
+      "bytes": 22597
+    },
+    "latex/chapter_5.tex": {
+      "sha256": "ac3dba306d32cb8445e80b73c2b3aca9f04ca75a247053618e232ed168a7ca5c",
+      "bytes": 10599
+    },
+    "latex/preview_main.tex": {
+      "sha256": "d48b49d8a79f2a6e85c0390189fa894a455137409818a437f23eafb954628f6e",
+      "bytes": 370
+    },
+    "latex/README.txt": {
+      "sha256": "e790d8549e186524ccd965f92647c1570f371b64dafeca3c19d9c9ffd4208d70",
+      "bytes": 465
+    },
+    "QA_REPORT.json": {
+      "sha256": "6d423548bdd9731a42359019cef1582dbbb9edc1017924060abba4258a452923",
+      "bytes": 541
+    },
+    "READ_THIS_FIRST.md": {
+      "sha256": "88a5fa165dac2ec9f55ad08f69e88946cb88f88dfcd93f229017ddf475e818eb",
+      "bytes": 2976
+    },
+    "source_manifest.json": {
+      "sha256": "0613458a9e6e087e4d5d8c1dc6b06749e20f4e4e3d56c628724cc12ffe3d968e",
+      "bytes": 1286
+    },
+    "tables/automated_current_reconciled_matched_metrics.csv": {
+      "sha256": "72d26572786ab52cf741471b867500fc7b4fac38c0e7543f0cd483b5867b0c09",
+      "bytes": 1340
+    },
+    "tables/automated_original_label_subset.csv": {
+      "sha256": "0932a6028d881089f3f5f2f04f9fb4cd84c17efbadeaa1ac090b079df84e8d8c",
+      "bytes": 470
+    },
+    "tables/descriptive_scores.csv": {
+      "sha256": "b902437f6f78aad330848f02692006f0a28bfb51b5e79a2624a27c9e47d7a951",
+      "bytes": 2045
+    },
+    "tables/no_claim_sensitivity.csv": {
+      "sha256": "e90d57309f4f56a9baafc072f3b04430c85ddf508c04e7408166f895993ffbc0",
+      "bytes": 233
+    },
+    "tables/paired_comparisons.csv": {
+      "sha256": "7b45b15e853902b47475971c9fe3d53915e669d294eef26d6668dafb2126acd8",
+      "bytes": 1243
+    },
+    "tables/reliability.csv": {
+      "sha256": "dd1be9fe0aa31a1576d00bd4419107edea57a54d2f3050eaa86358b9244c4b36",
+      "bytes": 404
+    },
+    "thesis_progress_tracker_updated.xlsx": {
+      "sha256": "6440d68087b891c81cdaa9a7007c287986ccc3239a856bc0d3c5064935d450c1",
+      "bytes": 16226
+    },
+    "THESIS_RESULTS_REVIEW.pdf": {
+      "sha256": "744b7eb28b556b59b7e28d36377248b7cc13cf8b390cbf5f736bae2d9938caa4",
+      "bytes": 338241
+    },
+    "tracker_changes.json": {
+      "sha256": "cb2a8dd9e6e2eecf5f4001d48eead478846633dda61e3a5d679f9444513742ee",
+      "bytes": 4593
+    }
+  }
+}

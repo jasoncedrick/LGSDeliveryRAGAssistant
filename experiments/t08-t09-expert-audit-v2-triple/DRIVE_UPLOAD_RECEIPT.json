@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-26",
+  "folder_url": "https://drive.google.com/drive/folders/1p5YI_AQuK1ysCm_GJpYpvMDZSzQiHj1R",
+  "instructions_url": "https://docs.google.com/document/d/1ZBZebYRdYtYIG8__DsLgGADGQRX9thw4-KUEhCAjSEI",
+  "packet_ids": {
+    "R01": "1zAPl4-bBmezYpSOZ1tyOP4IZMiOc6Eqe",
+    "R02": "1yMwJPO7lw7hxE5oEnXfCdLJmRQ4taHOe",
+    "R03": "1BgY37aFSxnYKUnXDDINJjnuCHhsQGBn4"
+  },
+  "sha256": {
+    "R01-two-module-audit.zip": "9b9f77b3fce5c0b3487909304ce38b64901e048903aa394497fb82cbde08169a",
+    "R02-two-module-audit.zip": "3d8dcebe5bc983d3e5618f7e0da7442cb293f21e39e2497d38f618721849b182",
+    "R03-two-module-audit.zip": "b31172ae599ce285f5d027a4dbf52bf3db1c87d5afa12db297335eac90955732"
+  },
+  "private_keys_uploaded": false,
+  "sharing_permissions_changed": false,
+  "note": "Supersedes earlier statements that new ZIPs have not been uploaded. Share only assigned packet plus instructions with each rater."
+}
