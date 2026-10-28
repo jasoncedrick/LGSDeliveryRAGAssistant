@@ -1,5 +1,9 @@
 # LGSDeliveryRAGAssistant
 
+## Citizen-facing website
+
+The new [citizen website](website/README.md) uses the registered B configuration through the separate `app.website` entry point, with chat, source passages and PDF links. Run `python -m uvicorn app.website:app --host 127.0.0.1 --port 8000` from the project root with the local Ollama model running. This is an opt-in application profile; frozen experiment files and historical `app.main` defaults remain intact. The live preview uses a temporary PC-backed tunnel, not permanent domain hosting.
+
 ## Current checkpoint - 28 October 2026
 
 The two-module expert audit and T10-T12 analysis are archived. Chapters 4-5 are drafted for review. Start with the [writing package guide](outputs/manuscript-closeout-20261028/READ_THIS_FIRST.md), [combined review PDF](outputs/manuscript-closeout-20261028/THESIS_RESULTS_REVIEW.pdf), and [human-analysis report](experiments/t10-t12-human-analysis-v1/T10_T12_REPORT.md). The [latest tracker copy](outputs/manuscript-closeout-20261028/thesis_progress_tracker_updated.xlsx) records completed drafts and pending work.

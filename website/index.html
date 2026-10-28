@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#173e35">
+  <meta name="description" content="Ask about Davao City service requirements, fees and procedures in English, Taglish or Bislish, with passages from the Citizens' Charter.">
+  <title>eBOSS · Davao City service guide</title>
+  <link rel="icon" href="/assets/mark.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <script src="/assets/app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <aside class="sidebar">
+    <a href="#ask" class="brand" aria-label="eBOSS home"><span class="brand-mark">e</span><span>eBOSS<small>DAVAO CITY SERVICE GUIDE</small></span></a>
+    <button class="new-question" id="new-question"><span aria-hidden="true">＋</span> New question</button>
+    <nav aria-label="Main navigation">
+      <a href="#ask" class="nav-link active" data-view="ask"><span aria-hidden="true">↗</span> Ask the assistant</a>
+      <a href="#sources" class="nav-link" data-view="sources"><span aria-hidden="true">▤</span> Source library</a>
+      <a href="#about" class="nav-link" data-view="about"><span aria-hidden="true">◎</span> About this project</a>
+    </nav>
+    <div class="sidebar-guide"><p class="eyebrow">A LITTLE GUIDANCE</p><p>Start with the service you need. Add the step or requirement you want to understand.</p><span class="languages">English · Taglish · Bislish</span></div>
+    <div class="sidebar-footer"><span class="status-dot" id="status-dot"></span><span id="connection-label">Connecting to the assistant</span><button id="check-connection" aria-label="Check connection again" title="Check connection again">↻</button></div>
+  </aside>
+  <div class="workspace">
+    <header class="topbar"><span>Local services, made easier to understand.</span><span class="prototype">RESEARCH PROTOTYPE</span></header>
+    <main id="main" tabindex="-1">
+      <section id="view-ask" class="view" aria-labelledby="welcome-title">
+        <div class="welcome" id="welcome">
+          <div class="location"><span class="tiny-mark" aria-hidden="true">◈</span> DAVAO CITY, PHILIPPINES</div>
+          <h1 id="welcome-title">Your next step,<br><em>a little clearer.</em></h1>
+          <p class="lead">Ask about permits, requirements, fees, and procedures.<br class="desktop-break"> We’ll look for answers in the Citizens’ Charter.</p>
+          <div class="service-picker" aria-label="Choose a topic for suggested questions">
+            <button data-service="all" class="selected" aria-pressed="true">All services</button>
+            <button data-service="business" aria-pressed="false">Business</button>
+            <button data-service="building" aria-pressed="false">Building</button>
+            <button data-service="fire" aria-pressed="false">Fire safety</button>
+            <button data-service="planning" aria-pressed="false">Planning</button>
+            <button data-service="treasury" aria-pressed="false">Treasury</button>
+          </div>
+          <div class="suggestions" id="suggestions" aria-label="Suggested questions"></div>
+        </div>
+        <div id="conversation" class="conversation" role="log" aria-label="Conversation" aria-live="polite" aria-relevant="additions text"></div>
+        <div class="composer-wrap">
+          <div class="connection-note" id="connection-note" role="status" hidden></div>
+          <form id="question-form" class="composer">
+            <label for="question" class="sr-only">Your question about a Davao City service</label>
+            <textarea id="question" name="question" rows="2" maxlength="2000" placeholder="Unsa imong pangutana? Ask in English, Taglish, or Bislish." required></textarea>
+            <div class="composer-bottom"><span>Be specific about the service and application stage.</span><button id="send" type="submit" aria-label="Send question"><span class="send-text">Ask eBOSS</span><span aria-hidden="true">↗</span></button></div>
+          </form>
+          <p class="composer-note">Independent research prototype, not an official city service. Confirm details with the issuing office.</p>
+        </div>
+      </section>
+      <section id="view-sources" class="view info-view" aria-labelledby="sources-title" hidden>
+        <p class="eyebrow">THE INFORMATION BEHIND THE ANSWERS</p><h1 id="sources-title">Start with the source.</h1>
+        <p class="lead">Browse the charter documents used by this assistant. Answer citations link to the relevant PDF pages so you can check the original context.</p>
+        <div id="source-library" class="source-library"></div>
+        <p class="info-note">These are the archived documents used in the study. Office procedures may change after publication; check current requirements with the responsible office.</p>
+      </section>
+      <section id="view-about" class="view info-view" aria-labelledby="about-title" hidden>
+        <p class="eyebrow">BUILT FOR QUESTIONS IN YOUR OWN WORDS</p><h1 id="about-title">A guide, grounded<br>in the charter.</h1>
+        <p class="lead">eBOSS is a research assistant for understanding Davao City government services in English, Taglish, and Bislish.</p>
+        <div class="about-steps"><article><span>01</span><h2>Ask naturally</h2><p>Name your service and describe what you need. Each question is processed independently, so include the relevant details again in a follow-up.</p></article><article><span>02</span><h2>Find the evidence</h2><p>The assistant searches passages from the study’s charter documents and uses those passages to prepare an answer.</p></article><article><span>03</span><h2>Check your next step</h2><p>Open the cited pages and confirm details with the office. An answer can be incomplete or incorrect even when it includes a citation.</p></article></div>
+        <div class="about-note"><h2>Before you ask</h2><p>This prototype does not submit applications, issue permits, collect payments, or provide official decisions. If your question is ambiguous, it may ask you to clarify.</p><p>Keep personal identifiers and private documents out of your question. The chat stays in this open page; this website does not save your questions to a server history. Hosting infrastructure may keep access logs.</p><p>Built as part of the LGSDeliveryRAGAssistant thesis project. Study results and implementation are available in the <a href="https://github.com/jasoncedrick/LGSDeliveryRAGAssistant" target="_blank" rel="noopener noreferrer">research repository ↗</a>.</p></div>
+      </section>
+    </main>
+    <footer class="page-footer"><span>INFORMATION WITH A SOURCE.</span><span>Davao City · Citizen service research</span></footer>
+  </div>
+</body>
+</html>
