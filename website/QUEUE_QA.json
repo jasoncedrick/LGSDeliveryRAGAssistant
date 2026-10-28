@@ -1,6 +1,6 @@
 {
   "checked_on": "2026-10-28",
-  "stage": "local_verified_pending_publication",
+  "stage": "production_verified_two_independent_visitors",
   "previous_commit": "1acb2df",
   "methodology_basis": "Chapter 3 section 3.2.6 FastAPI orchestration; scheduling only. Registered pipeline, model settings, prompts, 120/20 windows, K=3 and frozen results unchanged.",
   "api_unit_tests_passed": 20,
@@ -50,5 +50,52 @@
     "offline/invalid input not enqueued",
     "older synchronous route cannot overlap generation"
   ],
-  "benchmark_or_judge_runs": 0
+  "benchmark_or_judge_runs": 0,
+  "tested_commit": "a47c8ba",
+  "deployment_id": "dpl_DMAdGY8BpPcSFRMNnQkC6BcvHqET",
+  "live_check": {
+    "url": "https://davaoragcitizencharter.com",
+    "visitors": [
+      {
+        "visitor": 1,
+        "submit_status": 202,
+        "states": [
+          {
+            "state": "queued",
+            "ahead": 1
+          },
+          {
+            "state": "running"
+          },
+          {
+            "state": "completed"
+          }
+        ],
+        "result_status": "ANSWERED",
+        "response_language": "taglish",
+        "citations": 3,
+        "seconds": 41.405
+      },
+      {
+        "visitor": 2,
+        "submit_status": 202,
+        "states": [
+          {
+            "state": "running"
+          },
+          {
+            "state": "completed"
+          }
+        ],
+        "result_status": "ANSWERED",
+        "response_language": "english",
+        "citations": 3,
+        "seconds": 22.527
+      }
+    ],
+    "browser_errors": [],
+    "passed": true,
+    "scope": "Concurrent submission, queue progress and separate answer delivery; not factual certification."
+  },
+  "frozen_input_validation": "registered_profile test passed; frozen files untouched"
 }
