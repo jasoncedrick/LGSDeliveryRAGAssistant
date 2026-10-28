@@ -1,0 +1,12 @@
+{
+  "files": {
+    "archive_input_check.json": "542b196a22be8a9b08137b397797133cde49396998276731c133a8ede1d5e52e",
+    "archive_review.json": "24cf009e9dc2d818f1cbdc06ce67bbd0b0a6c163fa992e480201a3de9c1680a6",
+    "backup_receipt.json": "c7266aacd49d15be0a5d97001d6d27ba0b2e921afd493bb76a5d4a85b5109d23",
+    "PAPER_QA.md": "a7df049ba0d4c62094b27804c41b33e13c459e1b9f18df37640e7fb8d093d4db",
+    "README.md": "cde478089de59a5b53c5e1378014081dfeb497712a98fb58aec797fb07994934",
+    "software_archive_report.json": "f4a2fff5a5d181c27023b2ae9ae009a231ea0f4dde90a1b4eb5fdcda691af99e"
+  },
+  "model_calls": 0,
+  "score_edits": 0
+}

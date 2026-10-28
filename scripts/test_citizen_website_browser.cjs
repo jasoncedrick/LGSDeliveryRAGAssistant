@@ -3,7 +3,7 @@ const fs=require('fs'),path=require('path'),assert=require('assert');
 const playwrightPath=process.env.AUDIT_PLAYWRIGHT_PATH||'C:/Users/User/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright';
 const {chromium}=require(playwrightPath);
 const base=process.env.WEBSITE_TEST_URL||'http://127.0.0.1:8000';
-const out=path.resolve('tmp/citizen-website');fs.mkdirSync(out,{recursive:true});
+const out=path.resolve(process.env.WEBSITE_QA_OUTPUT||'tmp/citizen-website');fs.mkdirSync(out,{recursive:true});
 (async()=>{
  const browser=await chromium.launch({headless:true,executablePath:process.env.AUDIT_BROWSER||'C:/Program Files/Google/Chrome/Application/chrome.exe'});
  const page=await browser.newPage({viewport:{width:1440,height:1000}});const errors=[];page.on('pageerror',e=>errors.push(e.message));

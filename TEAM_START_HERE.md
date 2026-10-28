@@ -4,6 +4,8 @@
 
 Branch: `handoff/human-results-chapters45-20261029`. Prepared 29 October 2026.
 
+Latest follow-up: [paper consistency review and fresh final QA](outputs/final-qa-followup-20261029/README.md). The new `scripts/run_final_offline_qa.py` command runs 43 tests, browser/motion checks, archive/table verification and an isolated static build without model calls or touching the public backend. Topic-coverage and QA-resume bugs are corrected; factual answer quality remains unapproved. The paper draft below is unchanged and verified.
+
 1. [Human results for adviser review](outputs/team-handoff-20261029/HUMAN_RESULTS_FOR_ADVISER.md) — allocation, scores, agreement, comparisons and the conclusion supported by the data.
 2. [Chapters 4 and 5 PDF](outputs/team-handoff-20261029/CHAPTERS_4_5_REVIEW.pdf) — 15-page revised review draft with eight tables and three figures.
 3. [Editable Chapter 4](outputs/team-handoff-20261029/CHAPTER_4.md) and [Chapter 5](outputs/team-handoff-20261029/CHAPTER_5.md).

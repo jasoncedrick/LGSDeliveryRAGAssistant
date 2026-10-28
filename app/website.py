@@ -109,7 +109,8 @@ class Runtime:
     def load(self):
         try:
             self.pipeline = self.factory()
-            LOGGER.info('Citizen website ready: B retrieval, K=3, 120/20 windows; website language prompt v2')
+            LOGGER.info('Citizen website ready: B retrieval, K=3, 120/20 windows; website prompt %s',
+                        self.pipeline.website_profile['website_prompt_version'])
         except Exception:
             self.error = 'The source service needs attention. Please contact the researcher.'
             LOGGER.exception('Website runtime could not load')

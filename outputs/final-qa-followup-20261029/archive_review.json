@@ -1,0 +1,1707 @@
+{
+  "scope": "Saved exploratory traces only; not new responses or factual accuracy scores",
+  "records": 200,
+  "source_results_sha256": "c7e3edd81a8a970b895f9970970b20bacb8d5a4b9bd463be662f285358962a12",
+  "current_scope_sha256": "3e9bfe68469dd47562e739e29b08e4d95a2cfdc85e754ceaa735c3aa081597d7",
+  "review_script_sha256": "b818f324c06c9ca51e28f9448384e2b6d1a2b7ac3ac72e9095e8616995ee27b7",
+  "model_calls": 0,
+  "original_records_changed": false,
+  "flag_counts": {
+    "possible_wrong_language": 10,
+    "unknown_citation_label": 3,
+    "fallback_like_text_marked_answered": 22,
+    "no_valid_bracketed_citation": 2
+  },
+  "changed_coverage_ids": [],
+  "known_unresolved_counterexamples": [
+    "Q001",
+    "Q003",
+    "Q004",
+    "Q006",
+    "Q088",
+    "Q134",
+    "Q135",
+    "Q136"
+  ],
+  "answer_quality_gate": "NOT_PASSED",
+  "limitations": [
+    "A clean citation format does not establish source support.",
+    "Language clues and refusal prefixes are screening flags, not validated classifiers.",
+    "The topic-loop correction addresses a synthetic regression; replay cannot establish new answer quality.",
+    "Earlier source-entailment findings remain unresolved; no fresh answers generated."
+  ],
+  "cases": [
+    {
+      "id": "Q001",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "possible_wrong_language"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q002",
+      "archived_status": "NO_SUPPORTED_ANSWER",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": "requested_sequence_absent",
+      "replayed_coverage_issue": "requested_sequence_absent",
+      "coverage_changed": false
+    },
+    {
+      "id": "Q003",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q004",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "unknown_citation_label"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q005",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q006",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q007",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q008",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q009",
+      "archived_status": "NO_SUPPORTED_ANSWER",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": "requested_business_clearance_scope_absent",
+      "replayed_coverage_issue": "requested_business_clearance_scope_absent",
+      "coverage_changed": false
+    },
+    {
+      "id": "Q010",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q011",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q012",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q013",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q014",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q015",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q016",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q017",
+      "archived_status": "NO_SUPPORTED_ANSWER",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": "requested_topic_absent",
+      "replayed_coverage_issue": "requested_topic_absent",
+      "coverage_changed": false
+    },
+    {
+      "id": "Q018",
+      "archived_status": "NO_SUPPORTED_ANSWER",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": "requested_topic_absent",
+      "replayed_coverage_issue": "requested_topic_absent",
+      "coverage_changed": false
+    },
+    {
+      "id": "Q019",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "fallback_like_text_marked_answered"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q020",
+      "archived_status": "NO_SUPPORTED_ANSWER",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": "requested_checklist_evidence_absent",
+      "replayed_coverage_issue": "requested_checklist_evidence_absent",
+      "coverage_changed": false
+    },
+    {
+      "id": "Q021",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q022",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "unknown_citation_label"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q023",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "fallback_like_text_marked_answered"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q024",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q025",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q026",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q027",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q028",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q029",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q030",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q031",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "possible_wrong_language"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q032",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "possible_wrong_language"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q033",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q034",
+      "archived_status": "NO_SUPPORTED_ANSWER",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": "requested_topic_absent",
+      "replayed_coverage_issue": "requested_topic_absent",
+      "coverage_changed": false
+    },
+    {
+      "id": "Q035",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q036",
+      "archived_status": "NO_SUPPORTED_ANSWER",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": "requested_topic_absent",
+      "replayed_coverage_issue": "requested_topic_absent",
+      "coverage_changed": false
+    },
+    {
+      "id": "Q037",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q038",
+      "archived_status": "NO_SUPPORTED_ANSWER",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": "requested_office_absent:BFP",
+      "replayed_coverage_issue": "requested_office_absent:BFP",
+      "coverage_changed": false
+    },
+    {
+      "id": "Q039",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q040",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q041",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q042",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q043",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q044",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q045",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q046",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "possible_wrong_language"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q047",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q048",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "fallback_like_text_marked_answered"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q049",
+      "archived_status": "NO_SUPPORTED_ANSWER",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": "requested_business_clearance_scope_absent",
+      "replayed_coverage_issue": "requested_business_clearance_scope_absent",
+      "coverage_changed": false
+    },
+    {
+      "id": "Q050",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q051",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q052",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q053",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q054",
+      "archived_status": "NO_SUPPORTED_ANSWER",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": "requested_business_clearance_scope_absent",
+      "replayed_coverage_issue": "requested_business_clearance_scope_absent",
+      "coverage_changed": false
+    },
+    {
+      "id": "Q055",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q056",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q057",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q058",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q059",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q060",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q061",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q062",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q063",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "fallback_like_text_marked_answered"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q064",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q065",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q066",
+      "archived_status": "NO_SUPPORTED_ANSWER",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": "requested_topic_absent",
+      "replayed_coverage_issue": "requested_topic_absent",
+      "coverage_changed": false
+    },
+    {
+      "id": "Q067",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q068",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "fallback_like_text_marked_answered",
+        "possible_wrong_language"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q069",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "possible_wrong_language"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q070",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q071",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q072",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "fallback_like_text_marked_answered"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q073",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q074",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q075",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "fallback_like_text_marked_answered"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q076",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q077",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q078",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q079",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q080",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "fallback_like_text_marked_answered"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q081",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q082",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "possible_wrong_language"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q083",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q084",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q085",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q086",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q087",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q088",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q089",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q090",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q091",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q092",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q093",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "possible_wrong_language"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q094",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q095",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "fallback_like_text_marked_answered"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q096",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "fallback_like_text_marked_answered"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q097",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q098",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "fallback_like_text_marked_answered"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q099",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q100",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q101",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q102",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q103",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "no_valid_bracketed_citation"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q104",
+      "archived_status": "NO_SUPPORTED_ANSWER",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": "requested_office_absent:CPDO",
+      "replayed_coverage_issue": "requested_office_absent:CPDO",
+      "coverage_changed": false
+    },
+    {
+      "id": "Q105",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q106",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q107",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q108",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q109",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "fallback_like_text_marked_answered"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q110",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q111",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "fallback_like_text_marked_answered"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q112",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q113",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q114",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q115",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q116",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q117",
+      "archived_status": "NO_SUPPORTED_ANSWER",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": "requested_office_absent:OCBO",
+      "replayed_coverage_issue": "requested_office_absent:OCBO",
+      "coverage_changed": false
+    },
+    {
+      "id": "Q118",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q119",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q120",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q121",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q122",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q123",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "fallback_like_text_marked_answered"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q124",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "no_valid_bracketed_citation"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q125",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q126",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "fallback_like_text_marked_answered"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q127",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q128",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q129",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "unknown_citation_label"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q130",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q131",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q132",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q133",
+      "archived_status": "NO_SUPPORTED_ANSWER",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": "requested_topic_absent",
+      "replayed_coverage_issue": "requested_topic_absent",
+      "coverage_changed": false
+    },
+    {
+      "id": "Q134",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "fallback_like_text_marked_answered"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q135",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q136",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q137",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "fallback_like_text_marked_answered"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q138",
+      "archived_status": "NO_SUPPORTED_ANSWER",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": "requested_topic_absent",
+      "replayed_coverage_issue": "requested_topic_absent",
+      "coverage_changed": false
+    },
+    {
+      "id": "Q139",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q140",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q141",
+      "archived_status": "OUT_OF_SCOPE",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q142",
+      "archived_status": "NO_SUPPORTED_ANSWER",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": "requested_topic_absent",
+      "replayed_coverage_issue": "requested_topic_absent",
+      "coverage_changed": false
+    },
+    {
+      "id": "Q143",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "fallback_like_text_marked_answered"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q144",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q145",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q146",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q147",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "fallback_like_text_marked_answered"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q148",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q149",
+      "archived_status": "NO_SUPPORTED_ANSWER",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": "requested_business_clearance_scope_absent",
+      "replayed_coverage_issue": "requested_business_clearance_scope_absent",
+      "coverage_changed": false
+    },
+    {
+      "id": "Q150",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q151",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "possible_wrong_language"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q152",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q153",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "fallback_like_text_marked_answered"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q154",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "fallback_like_text_marked_answered",
+        "possible_wrong_language"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q155",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q156",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [
+        "fallback_like_text_marked_answered"
+      ],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q157",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q158",
+      "archived_status": "NO_SUPPORTED_ANSWER",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": "requested_office_absent:OCBO",
+      "replayed_coverage_issue": "requested_office_absent:OCBO",
+      "coverage_changed": false
+    },
+    {
+      "id": "Q159",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q160",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q161",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q162",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q163",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q164",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q165",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q166",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q167",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q168",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q169",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q170",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q171",
+      "archived_status": "OUT_OF_SCOPE",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q172",
+      "archived_status": "OUT_OF_SCOPE",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q173",
+      "archived_status": "OUT_OF_SCOPE",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q174",
+      "archived_status": "CAPABILITY_LIMIT",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q175",
+      "archived_status": "OUT_OF_SCOPE",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q176",
+      "archived_status": "OUT_OF_SCOPE",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q177",
+      "archived_status": "OUT_OF_SCOPE",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q178",
+      "archived_status": "CAPABILITY_LIMIT",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q179",
+      "archived_status": "CAPABILITY_LIMIT",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q180",
+      "archived_status": "CAPABILITY_LIMIT",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q181",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q182",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q183",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q184",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q185",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q186",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q187",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q188",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q189",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q190",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q191",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q192",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q193",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q194",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q195",
+      "archived_status": "ANSWERED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q196",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q197",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q198",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q199",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    },
+    {
+      "id": "Q200",
+      "archived_status": "CLARIFICATION_REQUIRED",
+      "diagnostic_flags": [],
+      "archived_coverage_issue": null,
+      "replayed_coverage_issue": null,
+      "coverage_changed": false
+    }
+  ]
+}

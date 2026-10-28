@@ -95,6 +95,13 @@ class WebsiteTests(unittest.TestCase):
         with patch('app.website.requests.get',return_value=response):
             self.assertEqual(runtime.health()['status'],'model_mismatch')
 
+    def test_readiness_log_uses_loaded_prompt_version(self):
+        runtime=Runtime(factory=lambda:SimpleNamespace(website_profile={'website_prompt_version':'test-version'}))
+        with self.assertLogs('app.website',level='INFO') as messages:
+            runtime.load()
+        self.assertIsNone(runtime.error)
+        self.assertIn('test-version',messages.output[0])
+
     def test_citation_route_is_derived_from_source_identity(self):
         result=public_result({'status':'ANSWERED','citations':[{'citation':'S1','file_source':'BFP-CITIZENS-CHARTER-2022.pdf','pdf_relative_page':1,'text':'Synthetic excerpt.'},{'citation':'S2','file_source':'../secret','text':'Unknown source'}]})
         self.assertEqual(result['citations'][0]['source_url'],'/sources/fire.pdf#page=1')

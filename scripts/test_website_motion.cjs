@@ -1,7 +1,8 @@
 // Presentation-only regression checks. All model endpoints are mocked.
 const {chromium}=require(process.env.AUDIT_PLAYWRIGHT_PATH||'C:/Users/User/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
-const assert=require('assert'),fs=require('fs');
+const assert=require('assert'),fs=require('fs'),path=require('path');
 const base=process.env.WEBSITE_TEST_URL||'http://127.0.0.1:8000';
+const out=path.resolve(process.env.WEBSITE_MOTION_QA_OUTPUT||'tmp/website-motion');fs.mkdirSync(out,{recursive:true});
 (async()=>{
  const browser=await chromium.launch({headless:true,executablePath:process.env.AUDIT_BROWSER||'C:/Program Files/Google/Chrome/Application/chrome.exe'});
  const checks=[],errors=[];
@@ -16,7 +17,7 @@ const base=process.env.WEBSITE_TEST_URL||'http://127.0.0.1:8000';
  assert.equal(await page.locator('#welcome-title').evaluate(n=>getComputedStyle(n).opacity),'1');
  assert.equal(await page.locator('#question').evaluate(n=>parseFloat(getComputedStyle(n).fontSize)),17);
  checks.push('entrance settles; readable input');
- await page.screenshot({path:'tmp/website-motion/desktop.png',fullPage:true});
+ await page.screenshot({path:path.join(out,'desktop.png'),fullPage:true});
  await page.getByRole('link',{name:'About this project',exact:false}).click();
  await page.waitForFunction(()=>document.documentElement.dataset.smoothScroll==='on');
  assert(await page.evaluate(()=>document.documentElement.classList.contains('lenis')));checks.push('Lenis active on desktop information page');
@@ -30,7 +31,7 @@ const base=process.env.WEBSITE_TEST_URL||'http://127.0.0.1:8000';
  assert(await page.locator('#motion-toggle').isDisabled());assert(await page.evaluate(()=>!document.documentElement.classList.contains('lenis')));checks.push('OS reduced motion overrides all effects');
  await page.emulateMedia({reducedMotion:'no-preference'});
  await page.locator('#new-question').click();await page.waitForFunction(()=>document.documentElement.dataset.smoothScroll==='off');checks.push('chat retains native scroll');
- await page.setViewportSize({width:390,height:844});await page.screenshot({path:'tmp/website-motion/mobile.png',fullPage:true});
+ await page.setViewportSize({width:390,height:844});await page.screenshot({path:path.join(out,'mobile.png'),fullPage:true});
  let composer=await page.locator('#question-form').boundingBox(),suggestions=await page.locator('#suggestions').boundingBox();assert(composer.y<suggestions.y);checks.push('mobile question form precedes suggestions');
  for(const width of [320,390,768]){
   await page.setViewportSize({width,height:844});assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
@@ -44,5 +45,5 @@ const base=process.env.WEBSITE_TEST_URL||'http://127.0.0.1:8000';
  await bare.route('**/health',r=>r.fulfill({json:{status:'ready'}}));
  await bare.goto(base);await bare.locator('#send:not([disabled])').waitFor();assert(await bare.locator('#welcome-title').isVisible());await bare.locator('#question').fill('No animation dependencies');checks.push('content/form remain usable if vendor scripts fail');
  assert.deepEqual(errors,[]);await browser.close();
- const report={passed:true,model_calls:0,checks,browser_errors:errors};fs.writeFileSync('tmp/website-motion/qa.json',JSON.stringify(report,null,2));console.log(JSON.stringify(report,null,2));
+ const report={passed:true,model_calls:0,checks,browser_errors:errors};fs.writeFileSync(path.join(out,'qa.json'),JSON.stringify(report,null,2));console.log(JSON.stringify(report,null,2));
 })().catch(e=>{console.error(e);process.exit(1)});

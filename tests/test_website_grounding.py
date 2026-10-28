@@ -117,5 +117,18 @@ class GroundingTests(unittest.TestCase):
         self.assertFalse(result['generation_started'])
         pipeline.http.post.assert_not_called()
 
+    def test_later_topic_cannot_hide_earlier_missing_evidence(self):
+        from app.website_scope import coverage_issue
+        sources=[{'text':'Business Permit: Counter A.'},
+                 {'text':'Building Permit: first submit one original form.'}]
+        for question in ['Which comes first: business permit or building permit?',
+                         'Which comes first: building permit or business permit?']:
+            self.assertEqual(coverage_issue(question,sources),'requested_sequence_absent')
+        self.assertEqual(coverage_issue('What documents for business permit and building permit?',sources),
+                         'requested_checklist_evidence_absent')
+        # These are presence checks, not proof that the two procedures may be combined.
+        sources[0]['text']='Business Permit checklist: first submit one original form.'
+        self.assertIsNone(coverage_issue('What documents for business permit and building permit?',sources))
+
 
 if __name__=='__main__':unittest.main()

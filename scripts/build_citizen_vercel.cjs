@@ -5,9 +5,14 @@ const origin=(process.env.PUBLIC_RAG_API_ORIGIN||'').trim();
 const parsed=new URL(origin); // Fail the build if no backend was explicitly selected.
 if(parsed.protocol!=='https:'||parsed.username||parsed.password||parsed.origin!==origin)
   throw Error('PUBLIC_RAG_API_ORIGIN must be an HTTPS origin without credentials, path or trailing slash');
-const output=path.join(root,'.vercel','output');
-// Remove only the fixed generated output directory, after checking its resolved parent.
-if(path.dirname(output)!==path.join(root,'.vercel'))throw Error('Invalid build path');
+const qaOutput=process.env.WEBSITE_BUILD_QA_OUTPUT;
+const output=qaOutput?path.resolve(qaOutput):path.join(root,'.vercel','output');
+// QA writes only beneath ignored tmp; production builds retain their fixed path.
+// Check the resolved absolute target before removing any generated directory.
+if(qaOutput){
+  const relative=path.relative(path.join(root,'tmp'),output);
+  if(!relative||relative==='..'||relative.startsWith('..'+path.sep)||path.isAbsolute(relative))throw Error('QA build output must be beneath project tmp');
+}else if(path.dirname(output)!==path.join(root,'.vercel'))throw Error('Invalid build path');
 fs.rmSync(output,{recursive:true,force:true});
 const site=path.join(output,'static'),assets=path.join(site,'assets');
 fs.mkdirSync(assets,{recursive:true});

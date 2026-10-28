@@ -1,5 +1,7 @@
 # Preserve exact bytes for source and evaluation provenance SHA256 checks.
 # This research snapshot contains both LF and CRLF files intentionally.
 * -text
+# Preserve intentional Windows CRLF without flagging its CR as trailing spaces.
+* whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
 # PDFs are binary artifacts; preserve bytes and suppress text whitespace checks.
 *.pdf binary

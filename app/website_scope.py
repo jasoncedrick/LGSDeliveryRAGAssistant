@@ -22,7 +22,9 @@ TOPICS = [
 def coverage_issue(query, citations):
     texts=[' '.join(c.get('text','').lower().split()) for c in citations]
     joined='\n'.join(texts)
-    relevant=texts
+    # Keep a separate evidence group for EVERY requested topic. Replacing this
+    # list on each match let the last topic hide missing evidence for earlier ones.
+    evidence_groups=[]
     for office, filenames in OFFICES.items():
         if re.search(r'\b'+office+r'\b',query,re.I) and not any(
             any(name in c.get('file_source','').lower() for name in filenames) for c in citations):
@@ -32,15 +34,16 @@ def coverage_issue(query, citations):
             matching=[text for text in texts if re.search(required,text,re.I)]
             if not matching:
                 return 'requested_topic_absent'
-            relevant=matching
+            evidence_groups.append(matching)
     if re.search(r'\blocational clearance\b',query,re.I) and re.search(r'\b(?:business|negosyo)\b',query,re.I):
         if not re.search(r'locational clearance.{0,85}business|business.{0,85}locational clearance',joined,re.I):
             return 'requested_business_clearance_scope_absent'
     # Asking what happens first requires evidence of order, not just a form name.
-    if re.search(r'\b(?:what|which)\b.{0,65}\bfirst\b',query,re.I) and not re.search(
-        r'\b(?:before|prior|first|after)\b|\b1[.)]\s','\n'.join(relevant)):
-        return 'requested_sequence_absent'
-    if re.search(r'what document|what.{0,35}bring|which document|unsa.{0,30}requirements',query,re.I):
-        if not re.search(r'checklist|requirement|document|\bform\b|photocop|original|\bcopy\b|w-2|2316|tax declaration','\n'.join(relevant)):
-            return 'requested_checklist_evidence_absent'
+    for relevant in evidence_groups or [texts]:
+        if re.search(r'\b(?:what|which)\b.{0,65}\bfirst\b',query,re.I) and not re.search(
+            r'\b(?:before|prior|first|after)\b|\b1[.)]\s','\n'.join(relevant)):
+            return 'requested_sequence_absent'
+        if re.search(r'what document|what.{0,35}bring|which document|unsa.{0,30}requirements',query,re.I):
+            if not re.search(r'checklist|requirement|document|\bform\b|photocop|original|\bcopy\b|w-2|2316|tax declaration','\n'.join(relevant)):
+                return 'requested_checklist_evidence_absent'
     return None
