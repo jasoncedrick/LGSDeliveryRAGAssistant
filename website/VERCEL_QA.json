@@ -1,5 +1,5 @@
 {
-  "stage": "local_build_verified_before_deploy",
+  "stage": "production_published_transport_verified_generation_busy",
   "unit_api_tests_passed": 15,
   "browser_checks": {
     "passed": true,
@@ -20,7 +20,8 @@
       "about page",
       "mobile overflow",
       "offline recovery",
-      "capacity error preserves question"
+      "capacity error preserves question",
+      "send remains disabled until backend health confirms readiness"
     ],
     "browser_errors": []
   },
@@ -66,5 +67,36 @@
     "sources\\treasury.pdf"
   ],
   "private_files_in_static_build": false,
-  "model_calls": 0
+  "checked_on": "2026-10-28",
+  "production": {
+    "url": "https://davaoragcitizencharter.com",
+    "branch": "deploy/vercel-davaoragcitizencharter-20261028",
+    "tested_code_commit": "4420e9b",
+    "deployment_url": "https://davaoragcitizencharter-5s5f4ukvi-jason124rabanes-6549s-projects.vercel.app",
+    "vercel_status": "Ready",
+    "root_http_status": 200,
+    "initial_send_disabled": true,
+    "www_redirect_status": 308,
+    "www_redirect_target": "https://davaoragcitizencharter.com/",
+    "public_access_requires_login": false,
+    "runtime_config_http_status": 200,
+    "source_catalog_http_status": 200,
+    "sample_source_pdf_http_status": 200,
+    "backend_health": "ready",
+    "cors_preflight_status": 200,
+    "cors_allowed_origin": "https://davaoragcitizencharter.com"
+  },
+  "live_question_check": {
+    "query": "Saan mag-apply ng locational clearance?",
+    "http_status": 429,
+    "response_detail": "The assistant is helping someone else. Please try again shortly.",
+    "successful_answer_verified_in_this_deployment_check": false,
+    "notes": "Two recorded attempts reached the API while its single inference slot was occupied. No successful answer is claimed. Existing backend request logs contain successful requests, but these are not attributed to this smoke test."
+  },
+  "verification_limits": [
+    "Synthetic browser checks do not certify model output quality.",
+    "Initial live browser test exposed an enabled-button-before-health race; fixed in 4420e9b with a regression check.",
+    "The PC backend and temporary tunnel must stay running; no permanent API hostname or automatic startup is configured."
+  ],
+  "benchmark_or_judge_runs": 0
 }

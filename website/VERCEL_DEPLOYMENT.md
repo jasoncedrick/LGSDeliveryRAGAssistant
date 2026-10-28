@@ -31,3 +31,5 @@ Chapter 3 section 3.2.6 describes a FastAPI web application and loaded offline i
 ## Verification
 
 Run `python -m unittest discover -s tests -p "test_*website*.py" -v` for API/contract/CORS/source checks. Browser scripts `scripts/test_citizen_website_browser.cjs` and `scripts/test_website_motion.cjs` accept `WEBSITE_TEST_URL` and use synthetic responses. Deployment-specific evidence is recorded in `website/VERCEL_QA.json` after publication.
+
+Production checks on 28 October 2026 confirmed unauthenticated page/source access, the www redirect, backend readiness and exact-origin CORS. The live question check reached the backend but received HTTP 429 because its single inference slot was occupied; a successful generated answer was not verified in this deployment check. The site keeps the question for retry. Fifteen API/unit tests, sixteen synthetic browser checks and eleven motion/accessibility checks passed. The startup send button now remains disabled until backend readiness is confirmed. These checks establish deployment behavior, not answer factuality.
