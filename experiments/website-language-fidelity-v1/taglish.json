@@ -1,0 +1,41 @@
+{
+  "question": "ano need magpagawa ng building",
+  "expected_language": "taglish",
+  "http_status": 200,
+  "seconds": 28.42,
+  "result": {
+    "status": "ANSWERED",
+    "answer": "Para sa mga tao na gustong mag-build ng bilyahan, kailangan nito ang mga dokumento na nakalista sa mga pasilidad sa Citizens' Charter ng Davao City. Ang mga ito ay nakalistahan sa mga pasilidad ng Community General Development (CGD) at OCBD (One-Stop Business Center).\n\n1. Ang unang hakbang ay ang pag-ipagbili o pag-ipag-alok ng lupa mula sa lot owner. Hindi lang ang autoridad sa pag-build ng bilyahan ang kinakailangan, kung hindi rin ang autoridad sa pag-build ng bilyahan mula sa asawa ng lot owner, kung mayroon man. [S1]\n\n2. Ang unang kailangan ay ang autoridad sa pag-build ng bilyahan mula sa lot owner. Ang mga kailangan na dokumento ay:\n   - 1 original, 1 photocopy ng autoridad sa pag-build ng bilyahan mula sa lot owner\n   - 1 original, 1 photocopy ng Notarized Special Power of Attorney (SPA)\n   - Kung ang applicant ay isang corporation/association, ang kailangan ay ang pagpapalit ng isang Authorized Person na mag-sign para sa ato sa association (para sa residential buildings). [S2]\n\n3. Kung ang applicant ay isang corporation/association, ang kailangan ay ang Notarized Secretary Certificate appointing an Authorized Person na mag-sign para sa ato sa association. [S3]\n\n4. Kung ang applicant ay isang corporation/association, ang kailangan ay ang Notarized Contract of Lease o Notarized Contract of Sale, kung mayroon man. [S3]\n\n5. Kung ang applicant ay isang corporation/association, ang kailangan ay ang Notarized Authority to Construct from the Lot Owner at Notarized Special Power of Attorney (SPA). [S3]\n\n6. Kung ang applicant ay isang corporation/association, ang kailangan ay ang Notarized Secretary Certificate appointing an Authorized Person na mag-sign para sa ato sa association, kung mayroon man. [S3]\n\n7. Kung ang applicant ay isang corporation/association, ang kailangan ay ang Notarized Contract of Lease o Notarized Contract of Sale, kung mayroon man. [S3]\n\n8. Kung ang applicant ay isang corporation/association, ang kailangan ay ang Notarized Authority to Construct from the Lot Owner at Notarized Special Power of Attorney (SPA). [S3]\n\nWala akoy nakit-an nga impormasyong bahin sa Citizens' Charter tungkol sa mga kailangan na dokumento kung ang applicant ay isang individual na hindi corporation/association.",
+    "clarification_prompt": null,
+    "citations": [
+      {
+        "citation": "S1",
+        "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+        "source_page": 648,
+        "pdf_relative_page": 19,
+        "text": ". Authority to construct from the lot \nowner, \nc. Authority to construct from husband / \nwife,\nApplicant",
+        "source_url": "/sources/planning.pdf#page=19"
+      },
+      {
+        "citation": "S2",
+        "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+        "source_page": 493,
+        "pdf_relative_page": 5,
+        "text": "ized Authority to Construct from the Lot \nOwner  \n –  1 original, 1 photocopy\nApplicant\nNotarized Special Power of Attorney (SPA)  \n–  1 original, 1 photocopy\nApplicant\nIf the applicant is a corporation/association, the following must be submitted, whichever is applicable:\nappointing an Authorized Person who will sign \nfor and in behalf Community Association: (for \nresidential buildings)  \n          – 1 original, 1 photocopy\nApplicant (Corporation)",
+        "source_url": "/sources/building.pdf#page=5"
+      },
+      {
+        "citation": "S3",
+        "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+        "source_page": 525,
+        "pdf_relative_page": 37,
+        "text": ". Notarized Contract of Lease  \n–  1 original, 1 photocopy  \n  \nc. Notarized Contract of Sale  \n– 1 original, 1 photocopy  \n  \nd. Notarized Authority to Construct from the Lot \nOwner  \n–  1 original, 1 photocopy \n  \ne. Notarized Special Power of Attorney (SPA)  \n–  1 original, 1 photocopy\nApplicant \n  \n  \nApplicant \n  \n  \nApplicant \n  \n  \nApplicant \n  \n  \n \nApplicant\n8. If the applicant is a corporation/association, the \nfollowing must be submitted, whichever is applicable: \n  \na. Notarized Secretary Certificate appointing an",
+        "source_url": "/sources/building.pdf#page=37"
+      }
+    ],
+    "citation_labels_valid": true,
+    "response_language": "taglish",
+    "website_prompt_version": "website-response-language-v1",
+    "latency_seconds": 28.39
+  }
+}

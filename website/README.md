@@ -19,7 +19,7 @@ The site loads its retriever in the background. Its status distinguishes loading
 
 - Uses the registered B configuration: query-specific dictionary injection, reviewed normalization prompt, chunk-level BM25/FAISS fusion 0.75/0.25 and dictionary retrieval boost 0, K=3.
 - Uses `experiments/chapter3-table-repaired-development-v1/` with the original source-token 120/20 windows and matching indices. It does not rebuild or retune them.
-- Uses the existing answer prompt and Mistral generation settings: temperature 0, top-p 0, context 8192, maximum prediction 1536. Normalization remains capped at 150 tokens.
+- Uses the frozen answer prompt plus the separately versioned website response-language instruction; this is a post-study prompt change. Mistral generation settings remain: temperature 0, top-p 0, context 8192, maximum prediction 1536. Normalization remains capped at 150 tokens.
 - Loads the reviewed prompt in an isolated normalizer module, without modifying the frozen normalizer source or its legacy global prompt.
 - Keeps `app/main.py`, `app/pipeline.py`, frozen source code and evaluation records intact. This is a new opt-in `app.website` entry point; the historical app defaults remain unchanged.
 - Clarification and incomplete output are shown explicitly. Citation labels are navigational links, not a guarantee of factual correctness. The offline RAGAS judge is not called by the website.
@@ -34,10 +34,12 @@ This entry point does not archive questions or answers to server history. The co
 
 Only five allowlisted charter PDFs are exposed. No filesystem path supplied by a visitor is used to choose a source file. Responses contain answer text and source evidence, not raw normalization diagnostics. The UI renders model text as text, not executable HTML. Only one inference is accepted at a time; additional requests receive a retry response. Source and model errors remain explicit.
 
+See [the language revision record](LANGUAGE_REVISION.md) for the automatic language selection, manual override, test evidence, and limitations.
+
 ## Tests
 
 ```powershell
-D:\thesis\venv\Scripts\python.exe -m unittest discover -s tests -p test_citizen_website.py -v
+D:\thesis\venv\Scripts\python.exe -m unittest discover -s tests -p "test_*website*.py" -v
 node scripts/test_citizen_website_browser.cjs
 ```
 
@@ -51,6 +53,6 @@ For a temporary demonstration, a managed HTTPS tunnel can expose this PC's websi
 
 The initial live preview uses a temporary Cloudflare Quick Tunnel from the researcher's PC. Its current address is recorded locally in ignored `tmp/citizen-website/deployment.json`, rather than hard-coded into the app. This is a demonstration, not an always-on production deployment. No domain has been bought or configured. See [Cloudflare's Quick Tunnel documentation](https://developers.cloudflare.com/tunnel/get-started/quick-tunnels/) for the temporary-URL and availability limitations.
 
-The current background demo writes startup/errors to `tmp/citizen-website/server.log`, HTTP requests to `tmp/citizen-website/server.out.log`, and tunnel progress to `tmp/citizen-website/tunnel.log`. Follow any of these with `Get-Content <path> -Wait`. For later foreground startup use `scripts/start_citizen_website.ps1`. To stop only the public tunnel, run `scripts/stop_citizen_public_demo.ps1`; it checks the recorded process identity before stopping it. Restarting a Quick Tunnel produces a different address.
+The current background demo writes startup/errors to `tmp/citizen-website/server-language-v2.log`, HTTP requests to `tmp/citizen-website/server-language-v2.out.log`, and tunnel progress to `tmp/citizen-website/tunnel.log`. Follow any of these with `Get-Content <path> -Wait`. For later foreground startup use `scripts/start_citizen_website.ps1`. To stop only the public tunnel, run `scripts/stop_citizen_public_demo.ps1`; it checks the recorded process identity before stopping it. Restarting a Quick Tunnel produces a different address.
 
 Always-on hosting remains a separate selection. Do not describe the prototype as an official city service or as certified for unsupervised transactions. The first operational smoke request returned HTTP 200 with three citations in about 56 seconds, but its answer mixed services; the test verifies connectivity, not faithful answer quality. That outcome was retained instead of tuning the frozen pipeline to the smoke question.

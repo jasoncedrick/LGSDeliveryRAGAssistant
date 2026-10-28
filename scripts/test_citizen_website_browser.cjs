@@ -7,15 +7,19 @@ const out=path.resolve('tmp/citizen-website');fs.mkdirSync(out,{recursive:true})
 (async()=>{
  const browser=await chromium.launch({headless:true,executablePath:process.env.AUDIT_BROWSER||'C:/Program Files/Google/Chrome/Application/chrome.exe'});
  const page=await browser.newPage({viewport:{width:1440,height:1000}});const errors=[];page.on('pageerror',e=>errors.push(e.message));
- let disposition='ANSWERED',requests=0;
+ let disposition='ANSWERED',requests=0,lastPayload=null;
  await page.route('**/health',route=>route.fulfill({json:{status:'ready',message:'Ready to help'}}));
- await page.route('**/api/query',route=>{requests++;return route.fulfill({json:{status:disposition,answer:disposition==='CLARIFICATION_REQUIRED'?'Which service do you mean?':'Synthetic browser test answer [S1]. <img src=x onerror="window.injected=true">',clarification_prompt:disposition==='CLARIFICATION_REQUIRED'?'Which service do you mean?':null,citation_labels_valid:true,citations:disposition==='CLARIFICATION_REQUIRED'?[]:[{citation:'S1',file_source:'BFP-CITIZENS-CHARTER-2022.pdf',pdf_relative_page:1,source_page:null,text:'SYNTHETIC TEST PASSAGE. Not service guidance.',source_url:'/sources/fire.pdf#page=1'}]}});});
+ await page.route('**/api/query',route=>{requests++;lastPayload=route.request().postDataJSON();return route.fulfill({json:{status:disposition,answer:disposition==='CLARIFICATION_REQUIRED'?'Which service do you mean?':'Synthetic browser test answer [S1]. <img src=x onerror="window.injected=true">',clarification_prompt:disposition==='CLARIFICATION_REQUIRED'?'Which service do you mean?':null,citation_labels_valid:true,citations:disposition==='CLARIFICATION_REQUIRED'?[]:[{citation:'S1',file_source:'BFP-CITIZENS-CHARTER-2022.pdf',pdf_relative_page:1,source_page:null,text:'SYNTHETIC TEST PASSAGE. Not service guidance.',source_url:'/sources/fire.pdf#page=1'}]}});});
  await page.goto(base);await page.locator('#send:not([disabled])').waitFor();
  await page.screenshot({path:path.join(out,'desktop.png'),fullPage:true});
  assert.equal(await page.locator('.suggestion').count(),3);
  await page.getByRole('button',{name:'Planning',exact:true}).click();
  await page.locator('.suggestion').first().click();assert((await page.locator('#question').inputValue()).includes('locational'));
+ const originalQuestion=await page.locator('#question').inputValue();
+ await page.locator('#response-language').selectOption('bislish');
  await page.locator('#send').click();await page.locator('.copy-answer').waitFor();assert.equal(requests,1);
+ assert.deepEqual(lastPayload,{query:originalQuestion,response_language:'bislish'});
+ await page.locator('#response-language').selectOption('auto');
  assert.equal(await page.locator('.message-body img').count(),0);assert.equal(await page.evaluate(()=>window.injected),undefined);
  await page.locator('.citation-link').click();assert(await page.locator('.evidence').evaluate(e=>e.open));
  assert.equal(await page.locator('.source-card a').getAttribute('href'),'/sources/fire.pdf#page=1');
@@ -35,6 +39,6 @@ const out=path.resolve('tmp/citizen-website');fs.mkdirSync(out,{recursive:true})
  await page.unroute('**/api/query');await page.route('**/api/query',route=>route.fulfill({status:429,json:{detail:'The assistant is helping someone else.'}}));
  await page.locator('#question').fill('Synthetic capacity check');await page.locator('#send').click();await page.locator('.message.error').waitFor();assert.equal(await page.locator('#question').inputValue(),'Synthetic capacity check');
  assert.deepEqual(errors,[]);await browser.close();
- const report={passed:true,synthetic:true,model_calls:0,checks:['desktop layout','topic suggestions','submit contract','citation link and source passage','XSS text safety','new question reset','clarification handling','incomplete answer handling','five-source library','direct hash navigation','about page','mobile overflow','offline recovery','capacity error preserves question'],browser_errors:errors};
+ const report={passed:true,synthetic:true,model_calls:0,checks:['desktop layout','topic suggestions','submit contract','language selector preserves original question','citation link and source passage','XSS text safety','new question reset','clarification handling','incomplete answer handling','five-source library','direct hash navigation','about page','mobile overflow','offline recovery','capacity error preserves question'],browser_errors:errors};
  fs.writeFileSync(path.join(out,'browser-qa.json'),JSON.stringify(report,null,2));console.log(JSON.stringify(report,null,2));
 })().catch(e=>{console.error(e);process.exit(1)});

@@ -1,4 +1,4 @@
-"""Citizen website using the registered B runtime; frozen experiment files stay intact.
+"""Citizen website using B retrieval with a separate response-language revision.
 
 Run: python -m uvicorn app.website:app --host 127.0.0.1 --port 8000
 No query history is written to disk by this entry point.
@@ -14,6 +14,7 @@ import time
 from contextlib import asynccontextmanager
 from pathlib import Path, PureWindowsPath
 from urllib.parse import urlsplit, urlunsplit
+from typing import Literal
 
 import requests
 from fastapi import FastAPI, HTTPException
@@ -64,7 +65,7 @@ def registered_profile():
 def create_pipeline():
     candidate, hashes = registered_profile()
     import numpy as np
-    from app.pipeline import Pipeline
+    from app.website_language import WebsitePipeline, PROMPT, PROMPT_SHA256
 
     # Isolate the registered prompt per module instead of mutating the legacy
     # normalizer's global prompt in a multi-threaded web process.
@@ -72,7 +73,7 @@ def create_pipeline():
     module = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(module)
     module.BASELINE_SYSTEM_PROMPT = (ROOT/'config/normalization_intent_candidate.txt').read_text(encoding='utf-8')
-    pipeline = Pipeline(artifacts_dir=ARTIFACTS, corpus_path=ARTIFACTS/'corpus.json',
+    pipeline = WebsitePipeline(artifacts_dir=ARTIFACTS, corpus_path=ARTIFACTS/'corpus.json',
                         dictionary_path=ROOT/'data/municipal_dictionary_v1.json')
     if pipeline.model_name not in (candidate['model'], candidate['model']+':latest'):
         raise ValueError('Use the registered eboss-mistral model for this website profile')
@@ -87,7 +88,8 @@ def create_pipeline():
     pipeline.top_k = 3
     pipeline.retriever.weights = np.asarray(candidate['weights_B_C'], dtype=float)
     pipeline.website_profile = {'configuration': 'B', 'k': 3, 'weights': candidate['weights_B_C'],
-                                'model_digest': candidate['model_digest'], 'checked_hashes': hashes}
+                                'model_digest': candidate['model_digest'], 'checked_hashes': hashes,
+                                'website_prompt_version':PROMPT['version'], 'language_prompt_sha256':PROMPT_SHA256}
     return pipeline
 
 
@@ -103,7 +105,7 @@ class Runtime:
     def load(self):
         try:
             self.pipeline = self.factory()
-            LOGGER.info('Citizen website ready: registered B, K=3, 120/20 token windows')
+            LOGGER.info('Citizen website ready: B retrieval, K=3, 120/20 windows; website language prompt v2')
         except Exception:
             self.error = 'The source service needs attention. Please contact the researcher.'
             LOGGER.exception('Website runtime could not load')
@@ -141,6 +143,7 @@ class Runtime:
 
 class CitizenQuestion(BaseModel):
     query: str = Field(min_length=1, max_length=2000)
+    response_language: Literal['auto','english','taglish','bislish'] = 'auto'
 
 
 def public_result(result):
@@ -155,6 +158,8 @@ def public_result(result):
     return {'status':result['status'], 'answer':result.get('answer',''),
             'clarification_prompt':result.get('clarification_prompt'), 'citations':citations,
             'citation_labels_valid':result.get('diagnostics',{}).get('citation_labels_valid'),
+            'response_language':result.get('diagnostics',{}).get('response_language'),
+            'website_prompt_version':result.get('diagnostics',{}).get('website_prompt_version'),
             'latency_seconds':result.get('latency_seconds',0)}
 
 
@@ -208,6 +213,8 @@ def create_app(runtime=None, start_runtime=True):
             raise HTTPException(503,state['message'])
         if not runtime.query_lock.acquire(blocking=False):
             raise HTTPException(429,'The assistant is helping someone else. Please try again shortly.',headers={'Retry-After':'15'})
+        from app.website_language import REQUESTED_LANGUAGE
+        language_token=REQUESTED_LANGUAGE.set(req.response_language)
         try:
             start=time.monotonic()
             result=runtime.pipeline.handle_query(question)
@@ -217,6 +224,7 @@ def create_app(runtime=None, start_runtime=True):
             LOGGER.exception('Citizen request failed')
             raise HTTPException(503,'The assistant could not complete this request. Please try again.')
         finally:
+            REQUESTED_LANGUAGE.reset(language_token)
             runtime.query_lock.release()
 
     app.mount('/assets',StaticFiles(directory=STATIC),name='website_assets')

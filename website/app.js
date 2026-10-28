@@ -82,7 +82,7 @@ $('#question-form').addEventListener('submit',async event=>{
   pending.querySelector('.message-body').prepend(el('span','loading-dot'));pending.setAttribute('aria-busy','true');
   pendingRequest=new AbortController();const timer=setTimeout(()=>pendingRequest?.abort(),260000);
   try {
-    const response=await fetch('/api/query',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({query:question}),signal:pendingRequest.signal});
+    const response=await fetch('/api/query',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({query:question,response_language:$('#response-language').value}),signal:pendingRequest.signal});
     let data;try{data=await response.json();}catch(_){throw Error('The server returned an unreadable response. Please try again.');}
     if(!response.ok)throw Error(typeof data.detail==='string'?data.detail:'The question could not be processed. Please try again.');
     const text=data.status==='CLARIFICATION_REQUIRED'?(data.clarification_prompt||data.answer):data.answer;

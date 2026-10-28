@@ -1,0 +1,8 @@
+{
+  "version": "website-response-language-v2",
+  "scope": "Website-only generation revision; not the frozen T07 prompt.",
+  "shared": "RESPONSE LANGUAGE: {language} Explain briefly in this language from the first sentence. Keep English technical terms when that is clearer. Preserve exact official names, document names, numbers, conditions and citations. Do not expand acronyms or invent translations. Report only what the retrieved passages establish; partial passages are not a complete requirements checklist. Do not add steps, combine conditions across different services, or repeat requirements. The exact unsupported-answer fallback above remains unchanged.",
+  "english": "English.",
+  "taglish": "Natural conversational Tagalog mixed with English (Taglish). Use Tagalog sentence structure with familiar English terms such as building, requirements, and permit.",
+  "bislish": "Natural conversational Cebuano/Bisaya mixed with English (Bislish). Use Cebuano sentence structure with familiar English terms such as building, requirements, and permit."
+}

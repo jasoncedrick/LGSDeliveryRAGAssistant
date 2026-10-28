@@ -1,0 +1,41 @@
+{
+  "question": "Unsa ang kinahanglan para magpatukod og building?",
+  "expected_language": "bislish",
+  "http_status": 200,
+  "seconds": 20.56,
+  "result": {
+    "status": "ANSWERED",
+    "answer": "Para magpatukod og building, unsaon ka muhunong nga requirements sa City Planning CGD_Citizen Charter 2026:\n\n1. Secures checklist of requirements: [S1] Pag-abot sa 5 minuto, ang Zoning Officer ang mag-provide sa checklist sa requirements ug mag-response sa tanan tanan sa process/application.\n\n2. Submits one (1) folder including a set of drawing plans containing all the requirements (photocopies): [S1] Ang folder na i-submit nga may set og drawing plans ang kailangan nga may laing requirements. Ang Admin Division ang mag-receive ang mga dokumento at mag-route sa Zoning Enforcement Division (ZED).\n\n3. Scaffolding Permit Form with 3 sets of Civil/Architectural Plans of the fence duly signed and sealed by a licensed Civil Engineer/Architect: [S3] Ang Scaffolding Permit Form na may 3 sets og Civil/Architectural Plans ang kailangan nga duly signed at sealed nga Civil Engineer/Architect. Ang maoy size og paper na ginamit sa structural design plan ang A3 size.",
+    "clarification_prompt": null,
+    "citations": [
+      {
+        "citation": "S1",
+        "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+        "source_page": 671,
+        "pdf_relative_page": 42,
+        "text": "PONSIBL\nE\n1. Secures checklist of \nrequirements\n1.1 Provides the\nchecklist of\nrequirements and \nanswer queries\nregarding\nprocess/application\nNone \n5 Minutes \n \nZoning Officer\nIV\nCPDO\n1.2 Pre-evaluates \nsubmitted \ndocuments (if \ndocuments are \nlacking, advises \nclient to comply)\nNone \n15 Minutes \n \nZoning Officer\nIV\nCPDO\n2. Submits one (1) \nfolder including a set \nof drawing plans \ncontaining all the \nrequirements \n(photocopies)\n2.1 Admin Division \nreceives the \ncompleted \ndocuments and \nroutes to Zoning \nEnforcement \nDivision (ZED) \nCommunication \nIn-Charge",
+        "source_url": "/sources/planning.pdf#page=42"
+      },
+      {
+        "citation": "S2",
+        "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+        "source_page": 689,
+        "pdf_relative_page": 60,
+        "text": "Zoning Officer\nIV\nCPDO\n3. Receives NOC \n3. Releases \nNOC to \napplicant \n \nNote: Once \nadditional \nrequirements are \ncomplied with, \nthe Secretariat \nwill organize a \nmeeting between \nthe TWG and the \napplicant/s.\nNone \n5 Minutes\nActing\nAdministrative\nOfficer  \nCPDO\n4. Presents the \napplication to the \nTWG Members\n4.1 Prepares \nand sends out \nnotice of \nmeeting to the \nTWG members\nNone \n1 Day \n \nZoning Officer\nIV\nCPDO\n4.2 Poses \nquestions, \nclarifications to\nNone \n1 Day \nLZRC TWG\nMembers",
+        "source_url": "/sources/planning.pdf#page=60"
+      },
+      {
+        "citation": "S3",
+        "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+        "source_page": 546,
+        "pdf_relative_page": 58,
+        "text": "– Government to Citizen; G2B – Government to Business; \nG2G – Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1.     Scaffolding Permit Form with 3 sets of \nCivil/Architectural Plans of the fence duly signed \nand sealed by a licensed Civil Engineer/Architect  \n  \nNote: Applicant may use an A3 size of paper for \nthe structural design plan signed and sealed by a \nlicensed Civil/Structural Engineer\nHired Professional",
+        "source_url": "/sources/building.pdf#page=58"
+      }
+    ],
+    "citation_labels_valid": true,
+    "response_language": "bislish",
+    "website_prompt_version": "website-response-language-v2",
+    "latency_seconds": 18.53
+  }
+}

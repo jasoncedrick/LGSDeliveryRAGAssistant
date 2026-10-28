@@ -1,0 +1,125 @@
+diff --git a/app/website.py b/app/website.py
+index a33e910..b349411 100644
+--- a/app/website.py
++++ b/app/website.py
+@@ -1,4 +1,4 @@
+-"""Citizen website using the registered B runtime; frozen experiment files stay intact.
++"""Citizen website using B retrieval with a separate response-language revision.
+ 
+ Run: python -m uvicorn app.website:app --host 127.0.0.1 --port 8000
+ No query history is written to disk by this entry point.
+@@ -14,6 +14,7 @@ import time
+ from contextlib import asynccontextmanager
+ from pathlib import Path, PureWindowsPath
+ from urllib.parse import urlsplit, urlunsplit
++from typing import Literal
+ 
+ import requests
+ from fastapi import FastAPI, HTTPException
+@@ -64,7 +65,7 @@ def registered_profile():
+ def create_pipeline():
+     candidate, hashes = registered_profile()
+     import numpy as np
+-    from app.pipeline import Pipeline
++    from app.website_language import WebsitePipeline, PROMPT, PROMPT_SHA256
+ 
+     # Isolate the registered prompt per module instead of mutating the legacy
+     # normalizer's global prompt in a multi-threaded web process.
+@@ -72,7 +73,7 @@ def create_pipeline():
+     module = importlib.util.module_from_spec(spec)
+     spec.loader.exec_module(module)
+     module.BASELINE_SYSTEM_PROMPT = (ROOT/'config/normalization_intent_candidate.txt').read_text(encoding='utf-8')
+-    pipeline = Pipeline(artifacts_dir=ARTIFACTS, corpus_path=ARTIFACTS/'corpus.json',
++    pipeline = WebsitePipeline(artifacts_dir=ARTIFACTS, corpus_path=ARTIFACTS/'corpus.json',
+                         dictionary_path=ROOT/'data/municipal_dictionary_v1.json')
+     if pipeline.model_name not in (candidate['model'], candidate['model']+':latest'):
+         raise ValueError('Use the registered eboss-mistral model for this website profile')
+@@ -87,7 +88,8 @@ def create_pipeline():
+     pipeline.top_k = 3
+     pipeline.retriever.weights = np.asarray(candidate['weights_B_C'], dtype=float)
+     pipeline.website_profile = {'configuration': 'B', 'k': 3, 'weights': candidate['weights_B_C'],
+-                                'model_digest': candidate['model_digest'], 'checked_hashes': hashes}
++                                'model_digest': candidate['model_digest'], 'checked_hashes': hashes,
++                                'website_prompt_version':PROMPT['version'], 'language_prompt_sha256':PROMPT_SHA256}
+     return pipeline
+ 
+ 
+@@ -103,7 +105,7 @@ class Runtime:
+     def load(self):
+         try:
+             self.pipeline = self.factory()
+-            LOGGER.info('Citizen website ready: registered B, K=3, 120/20 token windows')
++            LOGGER.info('Citizen website ready: B retrieval, K=3, 120/20 windows; website language prompt v2')
+         except Exception:
+             self.error = 'The source service needs attention. Please contact the researcher.'
+             LOGGER.exception('Website runtime could not load')
+@@ -141,6 +143,7 @@ class Runtime:
+ 
+ class CitizenQuestion(BaseModel):
+     query: str = Field(min_length=1, max_length=2000)
++    response_language: Literal['auto','english','taglish','bislish'] = 'auto'
+ 
+ 
+ def public_result(result):
+@@ -155,6 +158,8 @@ def public_result(result):
+     return {'status':result['status'], 'answer':result.get('answer',''),
+             'clarification_prompt':result.get('clarification_prompt'), 'citations':citations,
+             'citation_labels_valid':result.get('diagnostics',{}).get('citation_labels_valid'),
++            'response_language':result.get('diagnostics',{}).get('response_language'),
++            'website_prompt_version':result.get('diagnostics',{}).get('website_prompt_version'),
+             'latency_seconds':result.get('latency_seconds',0)}
+ 
+ 
+@@ -208,6 +213,8 @@ def create_app(runtime=None, start_runtime=True):
+             raise HTTPException(503,state['message'])
+         if not runtime.query_lock.acquire(blocking=False):
+             raise HTTPException(429,'The assistant is helping someone else. Please try again shortly.',headers={'Retry-After':'15'})
++        from app.website_language import REQUESTED_LANGUAGE
++        language_token=REQUESTED_LANGUAGE.set(req.response_language)
+         try:
+             start=time.monotonic()
+             result=runtime.pipeline.handle_query(question)
+@@ -217,6 +224,7 @@ def create_app(runtime=None, start_runtime=True):
+             LOGGER.exception('Citizen request failed')
+             raise HTTPException(503,'The assistant could not complete this request. Please try again.')
+         finally:
++            REQUESTED_LANGUAGE.reset(language_token)
+             runtime.query_lock.release()
+ 
+     app.mount('/assets',StaticFiles(directory=STATIC),name='website_assets')
+diff --git a/website/app.js b/website/app.js
+index d64f151..7d877f5 100644
+--- a/website/app.js
++++ b/website/app.js
+@@ -82,7 +82,7 @@ $('#question-form').addEventListener('submit',async event=>{
+   pending.querySelector('.message-body').prepend(el('span','loading-dot'));pending.setAttribute('aria-busy','true');
+   pendingRequest=new AbortController();const timer=setTimeout(()=>pendingRequest?.abort(),260000);
+   try {
+-    const response=await fetch('/api/query',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({query:question}),signal:pendingRequest.signal});
++    const response=await fetch('/api/query',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({query:question,response_language:$('#response-language').value}),signal:pendingRequest.signal});
+     let data;try{data=await response.json();}catch(_){throw Error('The server returned an unreadable response. Please try again.');}
+     if(!response.ok)throw Error(typeof data.detail==='string'?data.detail:'The question could not be processed. Please try again.');
+     const text=data.status==='CLARIFICATION_REQUIRED'?(data.clarification_prompt||data.answer):data.answer;
+diff --git a/website/index.html b/website/index.html
+index 65f8eb7..b8d6e6c 100644
+--- a/website/index.html
++++ b/website/index.html
+@@ -47,7 +47,7 @@
+           <form id="question-form" class="composer">
+             <label for="question" class="sr-only">Your question about a Davao City service</label>
+             <textarea id="question" name="question" rows="2" maxlength="2000" placeholder="Unsa imong pangutana? Ask in English, Taglish, or Bislish." required></textarea>
+-            <div class="composer-bottom"><span>Be specific about the service and application stage.</span><button id="send" type="submit" aria-label="Send question"><span class="send-text">Ask eBOSS</span><span aria-hidden="true">↗</span></button></div>
++            <div class="composer-bottom"><label class="language-choice" for="response-language">Answer in <select id="response-language"><option value="auto">Auto · match my question</option><option value="taglish">Tagalog / Taglish</option><option value="bislish">Bisaya / Bislish</option><option value="english">English</option></select></label><button id="send" type="submit" aria-label="Send question"><span class="send-text">Ask eBOSS</span><span aria-hidden="true">↗</span></button></div>
+           </form>
+           <p class="composer-note">Independent research prototype, not an official city service. Confirm details with the issuing office.</p>
+         </div>
+diff --git a/website/styles.css b/website/styles.css
+index 415e8d2..e0ab286 100644
+--- a/website/styles.css
++++ b/website/styles.css
+@@ -8,3 +8,5 @@
+ @media(max-width:1100px){.sidebar{width:225px;padding:32px 18px 22px}.workspace{margin-left:225px}.topbar{padding:0 32px}.view{padding:45px 32px 22px}.brand{font-size:25px}.brand small{font-size:7px}.page-footer{padding:20px 32px}.suggestion{padding:14px}}
+ @media(max-width:760px){.sidebar{position:relative;width:100%;padding:18px 20px 10px;display:block}.brand{margin:0;font-size:23px;display:inline-flex}.brand-mark{height:33px;width:33px;font-size:30px}.brand small{font-size:7px}.new-question{position:absolute;top:21px;right:20px;font-size:10px;padding:7px 10px;gap:4px}.new-question>span{font-size:17px}.sidebar nav{flex-direction:row;margin:19px 0 0;gap:2px;justify-content:space-between}.nav-link{font-size:10px;padding:9px 7px;gap:5px}.nav-link>span{font-size:14px;width:13px}.sidebar-guide{display:none}.sidebar-footer{border:0;position:static;padding:10px 5px 0;font-size:9px}.sidebar-footer #check-connection{font-size:16px;padding:0 4px}.workspace{margin-left:0;min-height:calc(100vh - 150px)}.topbar{height:49px;padding:0 22px;font-size:9px}.prototype{font-size:7px;padding:5px;letter-spacing:.6px}.view{padding:34px 22px 18px}.location{font-size:9px}h1{font-size:48px;letter-spacing:-1.8px;margin:22px 0}.lead{font-size:12px}.desktop-break{display:none}.service-picker{margin-top:25px;gap:6px}.service-picker button{padding:7px 9px;font-size:9px}.suggestions{gap:8px}.suggestion{padding:12px 10px;min-height:133px}.suggestion small{font-size:8px;letter-spacing:.4px}.suggestion .question-text{font-size:10px}.composer-wrap{margin-top:24px}.composer{padding:14px 12px 10px}.composer textarea{font-size:12px}.composer-bottom>span{font-size:8px;max-width:160px}.composer button{padding:10px;gap:9px}.composer-note{font-size:8px}.page-footer{padding:18px 22px;font-size:7px}.info-view h1{font-size:43px}.about-steps{grid-template-columns:1fr;gap:12px;margin:25px 0}.about-steps article{position:relative;padding-left:42px}.about-steps article>span{position:absolute;left:0;top:20px}.library-card{padding:15px;gap:12px}.library-card h2{font-size:12px}.message{font-size:13px}.chat-started .view{padding-top:25px}}
+ @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;animation:none!important;transition:none!important}}
++
++.language-choice{display:flex;align-items:center;gap:8px;font-size:10px;color:#64705e}.language-choice select{font:inherit;color:#354e39;background:#f4f6ef;border:1px solid #d4dccb;border-radius:5px;padding:8px;max-width:210px}.language-choice select:focus-visible{outline:3px solid #b58538;outline-offset:2px}@media(max-width:760px){.language-choice{display:block;font-size:9px}.language-choice select{display:block;margin-top:4px;font-size:11px;max-width:185px;padding:7px}}

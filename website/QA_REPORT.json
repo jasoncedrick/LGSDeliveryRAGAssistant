@@ -1,7 +1,7 @@
 {
   "date": "2026-10-28",
   "unit_tests": {
-    "passed": 8,
+    "passed": 13,
     "model_calls": 0
   },
   "browser_checks": {
@@ -12,6 +12,7 @@
       "desktop layout",
       "topic suggestions",
       "submit contract",
+      "language selector preserves original question",
       "citation link and source passage",
       "XSS text safety",
       "new question reset",
@@ -45,5 +46,13 @@
   "hosting": "Temporary PC-backed Cloudflare Quick Tunnel; no permanent domain or always-on server provisioned.",
   "evaluator_calls": 0,
   "benchmark_queries_loaded": false,
-  "raw_ratings_published": false
+  "raw_ratings_published": false,
+  "website_language_revision": {
+    "active_prompt": "website-response-language-v2",
+    "record": "experiments/website-language-fidelity-v2/review.json",
+    "frozen_registered_hashes_unchanged": 29,
+    "language_direction_matches": 3,
+    "quality_certified": false,
+    "limitation": "Taglish/Bislish fluency and unsupported claims remain; this is a post-study demo prompt, not a validated replacement for T07."
+  }
 }

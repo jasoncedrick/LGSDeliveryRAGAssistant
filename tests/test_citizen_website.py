@@ -50,6 +50,19 @@ class WebsiteTests(unittest.TestCase):
             self.assertEqual(self.client.post('/api/query',json={'query':'Test'}).status_code,503)
         self.assertFalse(self.runtime.query_lock.locked())
 
+    def test_language_selection_is_request_local_and_validated(self):
+        from app.website_language import REQUESTED_LANGUAGE
+        observed=[]
+        def answer(question):
+            observed.append((question,REQUESTED_LANGUAGE.get()))
+            return {'status':'ANSWERED','answer':'Synthetic'}
+        self.runtime.pipeline.handle_query.side_effect=answer
+        for selection in ['bislish','taglish','auto']:
+            self.assertEqual(self.client.post('/api/query',json={'query':'Original query','response_language':selection}).status_code,200)
+        self.assertEqual(observed,[('Original query',s) for s in ['bislish','taglish','auto']])
+        self.assertEqual(REQUESTED_LANGUAGE.get(),'auto')
+        self.assertEqual(self.client.post('/api/query',json={'query':'Test','response_language':'invalid'}).status_code,422)
+
     def test_clarification_and_incomplete_answer_preserved(self):
         for status in ['CLARIFICATION_REQUIRED','GENERATION_INCOMPLETE','NO_SUPPORTED_ANSWER']:
             self.runtime.pipeline.handle_query.return_value={'status':status,'answer':'Original response','clarification_prompt':'Which service?'}

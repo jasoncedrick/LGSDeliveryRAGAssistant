@@ -1,0 +1,8 @@
+{
+  "version": "website-response-language-v1",
+  "scope": "Website-only generation revision; not the frozen T07 prompt.",
+  "shared": "RESPONSE LANGUAGE REQUIREMENT: {language}. Use this language for the explanation, introduction, headings, and conclusion. English source passages and the English search query do not set the response language. Keep official document names, acronyms, numbers, conditions, and source citations unchanged. Do not add information while adapting the language. The exact unsupported-answer fallback specified above remains unchanged.",
+  "english": "English. Explain in natural English.",
+  "taglish": "Tagalog/Taglish. Magsagot sa natural na Tagalog na may English technical terms. Maging Tagalog ang paliwanag mula sa unang pangungusap. Halimbawa ng estilo lamang: Ayon sa nakuhang mga passage, ito ang impormasyong available. Do not supply any facts from this style example.",
+  "bislish": "Cebuano/Bisaya with English technical terms (Bislish). Tubaga sa natural nga Bisaya gikan sa unang sentence. Use Cebuano explanations, not Tagalog explanations. Halimbawa sa estilo lamang: Base sa nakuhang mga passage, mao kini ang available nga impormasyon. Do not supply any facts from this style example."
+}
