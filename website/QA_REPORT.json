@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-28",
+  "unit_tests": {
+    "passed": 13,
+    "model_calls": 0
+  },
+  "browser_checks": {
+    "passed": true,
+    "synthetic": true,
+    "model_calls": 0,
+    "checks": [
+      "desktop layout",
+      "topic suggestions",
+      "submit contract",
+      "language selector preserves original question",
+      "citation link and source passage",
+      "XSS text safety",
+      "new question reset",
+      "clarification handling",
+      "incomplete answer handling",
+      "five-source library",
+      "direct hash navigation",
+      "about page",
+      "mobile overflow",
+      "offline recovery",
+      "capacity error preserves question"
+    ],
+    "browser_errors": []
+  },
+  "render_review": "Desktop 1440x1000 and mobile 390x844 inspected; no overflow or clipping.",
+  "registered_file_hashes_verified": 29,
+  "changed_registered_files": [],
+  "live_model_smoke": {
+    "http_status": 200,
+    "seconds": 55.7,
+    "status": "ANSWERED",
+    "source_passages": 3,
+    "scope": "Connectivity only, not a benchmark or answer-quality pass.",
+    "quality_observation": "Answer included unrelated water-resource clearance material and a citation that did not establish the entire office claim. Preserved without retuning the frozen method."
+  },
+  "public_https_api_smoke": {
+    "http_status": 200,
+    "status": "CLARIFICATION_REQUIRED",
+    "seconds": 2.74
+  },
+  "hosting": "Temporary PC-backed Cloudflare Quick Tunnel; no permanent domain or always-on server provisioned.",
+  "evaluator_calls": 0,
+  "benchmark_queries_loaded": false,
+  "raw_ratings_published": false,
+  "website_language_revision": {
+    "active_prompt": "website-response-language-v2",
+    "record": "experiments/website-language-fidelity-v2/review.json",
+    "frozen_registered_hashes_unchanged": 29,
+    "language_direction_matches": 3,
+    "quality_certified": false,
+    "limitation": "Taglish/Bislish fluency and unsupported claims remain; this is a post-study demo prompt, not a validated replacement for T07."
+  }
+}

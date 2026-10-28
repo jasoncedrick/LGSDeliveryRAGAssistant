@@ -1,0 +1,29 @@
+{
+  "scope": "Assistant inspection of three targeted website smoke outputs, not independent human review or thesis evaluation.",
+  "language_direction": "All three outputs attempt the selected language; native fluency is not established.",
+  "language_cases": {
+    "taglish": {
+      "selection": "taglish",
+      "language_direction_matches": true,
+      "fluency_pass": false,
+      "finding": "Uses Tagalog sentence structure but mistranslates building as bilyahan. It repeats requirements and assigns some conditions/citations incompletely."
+    },
+    "bislish": {
+      "selection": "bislish",
+      "language_direction_matches": true,
+      "fluency_pass": false,
+      "finding": "Uses Cebuano mixed with English and Tagalog; awkward phrases remain. Source coverage includes scaffolding/fence material and is not a verified full building-permit checklist."
+    },
+    "english": {
+      "selection": "english",
+      "language_direction_matches": true,
+      "finding": "English output preserved; OCBD-issued wording is not established by its cited excerpt. Not a factual-certification pass."
+    }
+  },
+  "deployment_scope": "Temporary research demo only; language control implemented, fluency and factual adequacy remain unresolved.",
+  "registered_files_changed": 0,
+  "new_model_queries": 3,
+  "prior_candidate_queries": 3,
+  "benchmark_or_judge_calls": 0,
+  "unresolved": "Do not describe these tests as establishing safe or accurate citizen service advice. Preserve the observed failures for separate post-study quality work."
+}

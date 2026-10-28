@@ -1,0 +1,41 @@
+{
+  "question": "ano need magpagawa ng building",
+  "expected_language": "taglish",
+  "http_status": 200,
+  "seconds": 21.47,
+  "result": {
+    "status": "ANSWERED",
+    "answer": "Para mag-build ng bilyahan, kailangan mo ng mga dokumento na nakalista sa Citizens' Charter. Ang mga kailangan mo ay:\n\n1. Authority to construct mula sa lot owner [S1]\n2. Notarized Special Power of Attorney (SPA) [S1, S2]\n   - 1 original, 1 photocopy\n3. Kung applicant ang isang corporation/association, kailangan mo ng:\n   - Notarized Secretary Certificate appointing an Authorized Person (para sa residential buildings) [S2]\n     - 1 original, 1 photocopy\n4. Notarized Contract of Lease [S3]\n   - 1 original, 1 photocopy\n5. Notarized Contract of Sale [S3]\n   - 1 original, 1 photocopy\n6. Notarized Authority to Construct mula sa lot owner [S3]\n   - 1 original, 1 photocopy\n7. Notarized Special Power of Attorney (SPA) [S3]\n   - 1 original, 1 photocopy\n   - Applicant\n\nHindi lang ito lahat ng kailangan mo, kung hindi mo pa rin nakita ang Citizens' Charter ng Davao City.",
+    "clarification_prompt": null,
+    "citations": [
+      {
+        "citation": "S1",
+        "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+        "source_page": 648,
+        "pdf_relative_page": 19,
+        "text": ". Authority to construct from the lot \nowner, \nc. Authority to construct from husband / \nwife,\nApplicant",
+        "source_url": "/sources/planning.pdf#page=19"
+      },
+      {
+        "citation": "S2",
+        "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+        "source_page": 493,
+        "pdf_relative_page": 5,
+        "text": "ized Authority to Construct from the Lot \nOwner  \n –  1 original, 1 photocopy\nApplicant\nNotarized Special Power of Attorney (SPA)  \n–  1 original, 1 photocopy\nApplicant\nIf the applicant is a corporation/association, the following must be submitted, whichever is applicable:\nappointing an Authorized Person who will sign \nfor and in behalf Community Association: (for \nresidential buildings)  \n          – 1 original, 1 photocopy\nApplicant (Corporation)",
+        "source_url": "/sources/building.pdf#page=5"
+      },
+      {
+        "citation": "S3",
+        "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+        "source_page": 525,
+        "pdf_relative_page": 37,
+        "text": ". Notarized Contract of Lease  \n–  1 original, 1 photocopy  \n  \nc. Notarized Contract of Sale  \n– 1 original, 1 photocopy  \n  \nd. Notarized Authority to Construct from the Lot \nOwner  \n–  1 original, 1 photocopy \n  \ne. Notarized Special Power of Attorney (SPA)  \n–  1 original, 1 photocopy\nApplicant \n  \n  \nApplicant \n  \n  \nApplicant \n  \n  \nApplicant \n  \n  \n \nApplicant\n8. If the applicant is a corporation/association, the \nfollowing must be submitted, whichever is applicable: \n  \na. Notarized Secretary Certificate appointing an",
+        "source_url": "/sources/building.pdf#page=37"
+      }
+    ],
+    "citation_labels_valid": true,
+    "response_language": "taglish",
+    "website_prompt_version": "website-response-language-v2",
+    "latency_seconds": 21.42
+  }
+}

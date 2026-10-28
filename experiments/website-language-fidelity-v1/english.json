@@ -1,0 +1,41 @@
+{
+  "question": "What do I need to construct a building?",
+  "expected_language": "english",
+  "http_status": 200,
+  "seconds": 19.31,
+  "result": {
+    "status": "ANSWERED",
+    "answer": "To construct a building in Davao City, you will need the following:\n\n1. Authority to construct from the lot owner [S1]\n2. If applicable, authority to construct from your husband or wife [S1]\n3. Original and photocopy of the authorized person's Special Power of Attorney (SPA), if you are a corporation or association [S2]\n4. Original and photocopy of the Community Association's appointing document for the authorized person, if you are a residential building and a corporation or association [S2]\n5. A Scaffolding Permit may be required before the scaffolding is erected or during the processing of the building permit [S3]\n\nPlease note that the specific requirements may vary depending on your situation. For more detailed information, you may refer to the Davao City Government's Citizens' Charter 2026.",
+    "clarification_prompt": null,
+    "citations": [
+      {
+        "citation": "S1",
+        "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+        "source_page": 648,
+        "pdf_relative_page": 19,
+        "text": ". Authority to construct from the lot \nowner, \nc. Authority to construct from husband / \nwife,\nApplicant",
+        "source_url": "/sources/planning.pdf#page=19"
+      },
+      {
+        "citation": "S2",
+        "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+        "source_page": 493,
+        "pdf_relative_page": 5,
+        "text": "ized Authority to Construct from the Lot \nOwner  \n –  1 original, 1 photocopy\nApplicant\nNotarized Special Power of Attorney (SPA)  \n–  1 original, 1 photocopy\nApplicant\nIf the applicant is a corporation/association, the following must be submitted, whichever is applicable:\nappointing an Authorized Person who will sign \nfor and in behalf Community Association: (for \nresidential buildings)  \n          – 1 original, 1 photocopy\nApplicant (Corporation)",
+        "source_url": "/sources/building.pdf#page=5"
+      },
+      {
+        "citation": "S3",
+        "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+        "source_page": 546,
+        "pdf_relative_page": 58,
+        "text": "9. Issuance of Scaffolding Permit\nA Scaffolding Permit shall be required prior to or during the processing of the building permit or \nbefore the scaffolding is to be erected on the roadway area or pedestrian passage or such areas \nwhere the safety, protection, security and convenience of the general public is primarily considered.\nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to Business; \nG2G – Government to Government",
+        "source_url": "/sources/building.pdf#page=58"
+      }
+    ],
+    "citation_labels_valid": true,
+    "response_language": "english",
+    "website_prompt_version": "website-response-language-v1",
+    "latency_seconds": 17.28
+  }
+}

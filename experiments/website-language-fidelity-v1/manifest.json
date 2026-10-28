@@ -1,0 +1,21 @@
+{
+  "scope": "Website language smoke test, not thesis evaluation or factual certification.",
+  "questions": [
+    [
+      "taglish",
+      "ano need magpagawa ng building"
+    ],
+    [
+      "bislish",
+      "Unsa ang kinahanglan para magpatukod og building?"
+    ],
+    [
+      "english",
+      "What do I need to construct a building?"
+    ]
+  ],
+  "selection": "Declared before execution; first is reported user regression.",
+  "prompt_sha256": "e7698586f03b6ee63e32f89180cc64706ee070d8c7b28c8c964934b9df0a9803",
+  "endpoint": "http://127.0.0.1:8001/api/query",
+  "judge_calls": 0
+}

@@ -1,0 +1,20 @@
+{
+  "checks": {
+    "/health": {
+      "status": 200,
+      "data": {
+        "status": "ready",
+        "message": "Ready to help"
+      }
+    },
+    "/": {
+      "status": 200,
+      "language_selector_present": true
+    },
+    "/assets/app.js": {
+      "status": 200,
+      "language_request_present": true
+    }
+  },
+  "model_calls": 0
+}
