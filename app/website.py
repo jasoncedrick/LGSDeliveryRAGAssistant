@@ -148,6 +148,10 @@ class CitizenQuestion(BaseModel):
     response_language: Literal['auto','english','taglish','bislish'] = 'auto'
 
 
+class JobTicket(BaseModel):
+    ticket: str = Field(min_length=43, max_length=43, pattern=r'^[A-Za-z0-9_-]+$')
+
+
 def public_result(result):
     """Serve the answer and source evidence without exposing internal diagnostics."""
     citations=[]
@@ -167,6 +171,27 @@ def public_result(result):
 
 def create_app(runtime=None, start_runtime=True, allowed_origins=None):
     runtime=runtime or Runtime()
+    from app.website_queue import AnswerQueue, QueueFull
+
+    def generate(question, language):
+        from app.website_language import REQUESTED_LANGUAGE
+        token=REQUESTED_LANGUAGE.set(language)
+        try:
+            start=time.monotonic()
+            result=runtime.pipeline.handle_query(question)
+            result['latency_seconds']=round(time.monotonic()-start,2)
+            return public_result(result)
+        finally:
+            REQUESTED_LANGUAGE.reset(token)
+
+    def queued_answer(question, language):
+        # Share the existing lock with older clients; model calls remain serial.
+        with runtime.query_lock:
+            if runtime.health()['status'] != 'ready':
+                raise RuntimeError('Answer service unavailable')
+            return generate(question, language)
+
+    answer_queue=AnswerQueue(queued_answer)
 
     @asynccontextmanager
     async def lifespan(app):
@@ -176,6 +201,7 @@ def create_app(runtime=None, start_runtime=True, allowed_origins=None):
 
     app=FastAPI(title='eBOSS Citizen Assistant',lifespan=lifespan,docs_url=None,redoc_url=None)
     app.state.runtime=runtime
+    app.state.answer_queue=answer_queue
     if allowed_origins is None:
         allowed_origins=[s.strip() for s in os.environ.get('EBOSS_ALLOWED_ORIGINS',
             'https://davaoragcitizencharter.com,https://www.davaoragcitizencharter.com,https://davaoragcitizencharter.vercel.app').split(',') if s.strip()]
@@ -213,28 +239,43 @@ def create_app(runtime=None, start_runtime=True, allowed_origins=None):
             raise HTTPException(404,'Source file unavailable.')
         return FileResponse(p,media_type='application/pdf')
 
-    @app.post('/api/query')
-    def query(req:CitizenQuestion):
+    def validate_question(req):
         question=req.query.strip()
         if not question:
             raise HTTPException(422,'Please enter a question.')
         state=runtime.health()
         if state['status']!='ready':
             raise HTTPException(503,state['message'])
+        return question
+
+    @app.post('/api/jobs', status_code=202)
+    def submit_question(req:CitizenQuestion):
+        question=validate_question(req)
+        try:
+            ticket=answer_queue.submit(question, req.response_language)
+        except QueueFull:
+            raise HTTPException(429,'The waiting line is full. Please try again in a minute.',headers={'Retry-After':'60'})
+        return {'ticket':ticket}
+
+    @app.post('/api/jobs/status')
+    def question_status(req:JobTicket):
+        # Ticket in the body keeps the private result token out of access logs.
+        status=answer_queue.status(req.ticket)
+        if status is None:
+            raise HTTPException(404,'This question has expired or the assistant restarted. Please submit it again.')
+        return status
+
+    @app.post('/api/query')
+    def query(req:CitizenQuestion):
+        question=validate_question(req)
         if not runtime.query_lock.acquire(blocking=False):
             raise HTTPException(429,'The assistant is helping someone else. Please try again shortly.',headers={'Retry-After':'15'})
-        from app.website_language import REQUESTED_LANGUAGE
-        language_token=REQUESTED_LANGUAGE.set(req.response_language)
         try:
-            start=time.monotonic()
-            result=runtime.pipeline.handle_query(question)
-            result['latency_seconds']=round(time.monotonic()-start,2)
-            return public_result(result)
+            return generate(question, req.response_language)
         except Exception:
             LOGGER.exception('Citizen request failed')
             raise HTTPException(503,'The assistant could not complete this request. Please try again.')
         finally:
-            REQUESTED_LANGUAGE.reset(language_token)
             runtime.query_lock.release()
 
     app.mount('/assets',StaticFiles(directory=STATIC),name='website_assets')

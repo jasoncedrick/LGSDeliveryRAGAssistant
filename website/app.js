@@ -76,17 +76,43 @@ function renderAnswer(article,text,citations) {
     }else body.append(document.createTextNode(part));
   });
 }
+async function queuedAnswer(question,language,signal,progress) {
+  const submitted=await fetch(apiURL('/api/jobs'),{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({query:question,response_language:language}),signal});
+  let job;try{job=await submitted.json();}catch(_){throw Error('The assistant could not accept your question. Please try again.');}
+  if(!submitted.ok)throw Error(typeof job.detail==='string'?job.detail:'The question could not be submitted. Please try again.');
+  if(typeof job.ticket!=='string')throw Error('The assistant did not return a question receipt. Please try again.');
+  let failures=0;
+  for(;;){
+    signal.throwIfAborted();
+    let response,data;
+    try{
+      response=await fetch(apiURL('/api/jobs/status'),{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({ticket:job.ticket}),signal});
+      if(response.status>=500)throw Error('temporary connection error');
+      data=await response.json();failures=0;
+    }catch(error){
+      if(signal.aborted)throw error;
+      if(++failures>=5)throw Error('The connection was interrupted. Please check your connection before trying again.');
+      progress('Reconnecting to your question. Please keep this page open.');
+      await new Promise(resolve=>setTimeout(resolve,2000));continue;
+    }
+    if(!response.ok)throw Error(typeof data.detail==='string'?data.detail:'The question could not be retrieved. Please try again.');
+    if(data.state==='completed')return data.result;
+    if(data.state==='failed')throw Error(data.detail||'The assistant could not complete your question. Please try again.');
+    if(data.state==='queued')progress(data.ahead>0?`Your question is in line. ${data.ahead} question${data.ahead===1?'':'s'} ahead of yours. Please keep this page open.`:'Your question is next. Please keep this page open.');
+    else if(data.state==='running')progress('Preparing your answer from the charter sources. Please keep this page open.');
+    else throw Error('The assistant returned an unexpected question status. Please try again.');
+    await new Promise(resolve=>setTimeout(resolve,2000));
+  }
+}
 $('#question-form').addEventListener('submit',async event=>{
   event.preventDefault();const question=$('#question').value.trim();if(!question||busy)return;
   if(!ready){checkHealth();return;}
   busy=true;$('#send').disabled=true;$('#new-question').disabled=true;$('#question').disabled=true;
   message('user',question);$('#question').value='';const pending=message('assistant pending','Checking your question and charter sources…');
   pending.querySelector('.message-body').prepend(el('span','loading-dot'));pending.setAttribute('aria-busy','true');
-  pendingRequest=new AbortController();const timer=setTimeout(()=>pendingRequest?.abort(),260000);
+  pendingRequest=new AbortController();const timer=setTimeout(()=>pendingRequest?.abort(),900000);
   try {
-    const response=await fetch(apiURL('/api/query'),{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({query:question,response_language:$('#response-language').value}),signal:pendingRequest.signal});
-    let data;try{data=await response.json();}catch(_){throw Error('The server returned an unreadable response. Please try again.');}
-    if(!response.ok)throw Error(typeof data.detail==='string'?data.detail:'The question could not be processed. Please try again.');
+    const data=await queuedAnswer(question,$('#response-language').value,pendingRequest.signal,text=>{pending.querySelector('.message-body').textContent=text;});
     const text=data.status==='CLARIFICATION_REQUIRED'?(data.clarification_prompt||data.answer):data.answer;
     if(typeof text!=='string'||!text.trim())throw Error('No answer was returned. Please try again.');
     pending.className='message assistant';pending.removeAttribute('aria-busy');const citations=Array.isArray(data.citations)?data.citations:[];

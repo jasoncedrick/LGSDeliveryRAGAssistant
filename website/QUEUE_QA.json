@@ -1,0 +1,54 @@
+{
+  "checked_on": "2026-10-28",
+  "stage": "local_verified_pending_publication",
+  "previous_commit": "1acb2df",
+  "methodology_basis": "Chapter 3 section 3.2.6 FastAPI orchestration; scheduling only. Registered pipeline, model settings, prompts, 120/20 windows, K=3 and frozen results unchanged.",
+  "api_unit_tests_passed": 20,
+  "browser": {
+    "passed": true,
+    "synthetic": true,
+    "model_calls": 0,
+    "checks": [
+      "submit waits for initial readiness",
+      "desktop layout",
+      "topic suggestions",
+      "submit contract",
+      "language selector preserves original question",
+      "citation link and source passage",
+      "XSS text safety",
+      "new question reset",
+      "clarification handling",
+      "incomplete answer handling",
+      "five-source library",
+      "direct hash navigation",
+      "about page",
+      "mobile overflow",
+      "offline recovery",
+      "queue position and running progress",
+      "poll reconnection without duplicate submission",
+      "expired ticket preserves question",
+      "capacity error preserves question"
+    ],
+    "browser_errors": []
+  },
+  "motion": {
+    "checks_passed": 11
+  },
+  "capacity": {
+    "active_and_waiting": 11,
+    "waiting_timeout_seconds": 300,
+    "terminal_retention_seconds": 600,
+    "max_retained_terminal_results": 100
+  },
+  "model_parallelism": 1,
+  "synthetic_concurrency_cases": [
+    "FIFO order and separate private results",
+    "request-local language preserved across visitors",
+    "ten waiting plus one active; rejects overflow; recovers capacity",
+    "expired waiting question is not generated",
+    "failure does not stall subsequent questions",
+    "offline/invalid input not enqueued",
+    "older synchronous route cannot overlap generation"
+  ],
+  "benchmark_or_judge_runs": 0
+}

@@ -1,5 +1,7 @@
 # LGSDeliveryRAGAssistant: Claude Code handoff
 
+> **Citizen request queue - 28 October 2026:** The website now submits asynchronous jobs with private polling tickets and visible waiting position. Capacity is 11 outstanding questions, processed serially by the same registered pipeline. Read `website/VERCEL_DEPLOYMENT.md` and `website/QUEUE_QA.json`. Run only one backend process; queue/results are temporary memory and disappear on restart. No frozen inference settings or study artifacts were changed.
+
 > **Vercel deployment branch - 28 October 2026:** `deploy/vercel-davaoragcitizencharter-20261028` is live at https://davaoragcitizencharter.com (www redirects). Read `website/VERCEL_DEPLOYMENT.md` and `website/VERCEL_QA.json` for current deployment status. Frontend and five source PDFs are static; AI remains on the PC through its tunnel. Preserve frozen results and private-file exclusions.
 
 > **Website presentation update - 28 October 2026:** GSAP/Lenis assets are pinned locally under `website/vendor/`; React Bits reveal/edge-accent ideas are adapted for the buildless site. Read `website/THIRD_PARTY.md`. Larger text/touch controls, mobile form-first ordering, motion toggle, and OS reduced-motion support are implemented. These are presentation-only changes; no new inference/evaluation run or methodology change.

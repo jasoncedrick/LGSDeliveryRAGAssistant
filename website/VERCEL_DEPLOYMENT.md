@@ -8,7 +8,7 @@
 
 The initial production deployment is live at **https://davaoragcitizencharter.com**. `www.davaoragcitizencharter.com` redirects to it. The Vercel project tracks the deployment branch above for production; the repository's `main` branch remains unchanged. Public HTTP access does not require a Vercel login.
 
-Vercel serves the static website and five hash-verified charter PDFs. It does not host Python, Ollama, embeddings, private research material or evaluation data. Browser requests for `/health` and `/api/query` go directly to the configured PC backend. Source links stay on Vercel and remain readable when the PC is unavailable.
+Vercel serves the static website and five hash-verified charter PDFs. It does not host Python, Ollama, embeddings, private research material or evaluation data. Browser requests for `/health`, `/api/jobs` and `/api/jobs/status` go directly to the configured PC backend. The older `/api/query` route remains available for compatibility. Source links stay on Vercel and remain readable when the PC is unavailable.
 
 ## Build and configuration
 
@@ -33,3 +33,13 @@ Chapter 3 section 3.2.6 describes a FastAPI web application and loaded offline i
 Run `python -m unittest discover -s tests -p "test_*website*.py" -v` for API/contract/CORS/source checks. Browser scripts `scripts/test_citizen_website_browser.cjs` and `scripts/test_website_motion.cjs` accept `WEBSITE_TEST_URL` and use synthetic responses. Deployment-specific evidence is recorded in `website/VERCEL_QA.json` after publication.
 
 Production checks on 28 October 2026 confirmed unauthenticated page/source access, the www redirect, backend readiness and exact-origin CORS. The live question check reached the backend but received HTTP 429 because its single inference slot was occupied; a successful generated answer was not verified in this deployment check. The site keeps the question for retry. Fifteen API/unit tests, sixteen synthetic browser checks and eleven motion/accessibility checks passed. The startup send button now remains disabled until backend readiness is confirmed. These checks establish deployment behavior, not answer factuality.
+
+## Multi-visitor queue ? 28 October 2026
+
+The current website accepts up to 11 outstanding questions (one active plus ten waiting) and processes them in arrival order. It posts each question once to `/api/jobs`, then polls `/api/jobs/status` every two seconds using an unguessable ticket in the POST body. Visitors see the number of questions ahead and the running state. Brief polling failures retry the status lookup, never the question submission. A full queue returns 429 with a 60-second retry hint.
+
+This is an operational scheduling change around the existing Chapter 3 FastAPI pipeline. It introduces no additional LLM call, live judge, prompt change, altered retrieval or model parallelism. The original synchronous route shares the same model lock. Use exactly one Uvicorn process: this queue is local memory, not shared across workers or machines. Do not add `--workers` to the launcher.
+
+Waiting questions expire after five minutes. Completed/failed results remain in memory for up to ten minutes, with at most 100 terminal records retained (older ones can be removed earlier). Tickets are private bearer receipts, not user accounts; there is no result-list endpoint and ticket bodies are not included in Uvicorn access logs. No question/answer history is written to disk by the queue. Keep the browser page open: refresh loses its ticket, and a backend restart loses pending questions/results. There is no automatic resubmission or cancellation of model generation when a browser closes. The browser allows up to fifteen minutes for submission/polling, while individual model request limits are unchanged.
+
+A queue increases simultaneous submission capacity; it does not increase tokens per second. Real simultaneous inference needs a separate hardware/throughput assessment. The temporary PC/tunnel availability limitations above still apply. Deployment restart may interrupt an existing question.
