@@ -18,7 +18,7 @@ Latest follow-up: [paper consistency review and fresh final QA](outputs/final-qa
 - Ordinal agreement: 0.9354 normalization fidelity, 0.9112 relevance, 0.8732 faithfulness.
 - Seven scenario-paired comparisons: no significant system difference after Holm correction. Do not present high agreement as proof that the proposed system is superior or consistently correct.
 - A 29 October replay from the preserved ratings exactly reproduced the descriptive statistics, reliability, comparisons and sensitivity results. Original scores were unchanged.
-- Citizen website presentation: passage quotations removed from the response display; reference names, citation navigation and PDF/page links retained. Formal audit packets and retrieved evidence archives were not altered.
+- Citizen website presentation: a compact source-name line and quiet citation markers, without passage quotations, PDF links, page numbers or raw filenames under answers. The source library, formal audit packets and retrieved evidence archives remain available.
 
 ## What is still pending
 

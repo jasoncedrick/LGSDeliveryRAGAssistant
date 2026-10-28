@@ -51,27 +51,25 @@ function message(type,text) {
 }
 function addEvidence(article,citations) {
   if(!Array.isArray(citations)||!citations.length)return;
-  const details=el('section','evidence');details.setAttribute('aria-label','References');details.append(el('h3','evidence-title',`References (${citations.length})`));
-  const list=el('div','evidence-list');citations.forEach(source=>{
-    const card=el('section','source-card');card.dataset.citation=source.citation;
-    card.append(el('h3','',`[${source.citation}] ${source.file_source}`));
-    const page=source.pdf_relative_page,printed=source.source_page;
-    const label=`Open PDF${Number.isInteger(page)?' · page '+page:''}${printed!=null?' · printed '+printed:''} ↗`;
-    // Accept only the server's fixed source routes, never an arbitrary model URL.
-    if(typeof source.source_url==='string'&&/^\/sources\/(business|treasury|building|fire|planning)\.pdf(?:#page=\d+)?$/.test(source.source_url)){
-      const a=el('a','',label);a.href=source.source_url;a.target='_blank';a.rel='noopener noreferrer';card.append(a);
-    } else card.append(el('span','',`PDF page ${page??'not recorded'}`));list.append(card);
-  });details.append(list);article.append(details);
+  const offices={business:'Business Bureau',treasury:'City Treasurer',building:'City Building Official',fire:'Bureau of Fire Protection',planning:'City Planning'};
+  const groups=new Map();
+  citations.forEach(source=>{
+    const id=typeof source.source_url==='string'?source.source_url.match(/^\/sources\/(business|treasury|building|fire|planning)\.pdf(?:#page=\d+)?$/)?.[1]:null;
+    const name=offices[id]||'Citizens’ Charter';
+    if(!groups.has(name))groups.set(name,new Set());
+    if(/^S\d+$/.test(source.citation))groups.get(name).add(source.citation);
+  });
+  const reference=el('p','source-reference','Sources: '+Array.from(groups,([name,labels])=>`${labels.size?'['+Array.from(labels).join(', ')+'] ':''}${name}`).join(' · '));
+  reference.setAttribute('aria-label','Sources from the Citizens’ Charter');article.append(reference);
 }
 function renderAnswer(article,text,citations) {
   const body=article.querySelector('.message-body');body.replaceChildren();
   const valid=new Set(citations.map(c=>c.citation));
-  // Text nodes preserve the archived answer; only valid bracketed citation labels become buttons.
+  // Keep citation markers as quiet text; full provenance stays in the API/archive.
   text.split(/(\[S\d+(?:,\s*S\d+)*\])/g).forEach(part=>{
     const labels=part.match(/S\d+/g);
     if(/^\[S/.test(part)&&labels?.every(label=>valid.has(label))){
-      const button=el('button','citation-link',part);button.type='button';button.setAttribute('aria-label','Show reference '+labels.join(', '));
-      button.addEventListener('click',()=>{const details=article.querySelector('.evidence');if(details){const card=Array.from(details.querySelectorAll('.source-card')).find(c=>c.dataset.citation===labels[0]);card?.scrollIntoView({block:'nearest'});card?.querySelector('a')?.focus({preventScroll:true});}});body.append(button);
+      body.append(el('span','citation-marker',part));
     }else body.append(document.createTextNode(part));
   });
 }
@@ -116,7 +114,7 @@ $('#question-form').addEventListener('submit',async event=>{
     if(typeof text!=='string'||!text.trim())throw Error('No answer was returned. Please try again.');
     pending.className='message assistant';pending.removeAttribute('aria-busy');const citations=Array.isArray(data.citations)?data.citations:[];
     renderAnswer(pending,text,citations);
-    const notice={CLARIFICATION_REQUIRED:'Please resend your full question with the specific service and details. Each question is processed independently.',GENERATION_INCOMPLETE:'This answer was cut short. Treat it as incomplete and check the cited PDF pages.',NO_SUPPORTED_ANSWER:'The retrieved passages did not support a complete answer. Try naming the service and the specific requirement you need.',CONTEXT_BUDGET_EXCEEDED:'Try asking about one specific step or requirement.'}[data.status];
+    const notice={CLARIFICATION_REQUIRED:'Please resend your full question with the specific service and details. Each question is processed independently.',GENERATION_INCOMPLETE:'This answer was cut short. Confirm the details with the issuing office.',NO_SUPPORTED_ANSWER:'The retrieved passages did not support a complete answer. Try naming the service and the specific requirement you need.',CONTEXT_BUDGET_EXCEEDED:'Try asking about one specific step or requirement.'}[data.status];
     if(notice)pending.append(el('p','notice',notice));
     if(data.status==='CLARIFICATION_REQUIRED'&&Array.isArray(data.clarification_options)){
       const choices=el('div','suggestions');
@@ -126,7 +124,7 @@ $('#question-form').addEventListener('submit',async event=>{
       });pending.append(choices);
     }
     if(data.status.endsWith('_ERROR'))pending.classList.add('error');
-    if(data.citation_labels_valid===false&&data.status==='ANSWERED')pending.append(el('p','notice','The answer’s citation labels could not be matched reliably. Check the cited PDF pages before relying on it.'));
+    if(data.citation_labels_valid===false&&data.status==='ANSWERED')pending.append(el('p','notice','The references could not be matched reliably. Confirm the details with the issuing office.'));
     addEvidence(pending,citations);
     const copy=el('button','copy-answer','Copy answer');copy.type='button';copy.addEventListener('click',async()=>{try{await navigator.clipboard.writeText(text);copy.textContent='Copied';setTimeout(()=>copy.textContent='Copy answer',1600);}catch(_){copy.textContent='Select the answer text to copy';}});pending.append(copy);
   }catch(error){pending.className='message assistant error';pending.removeAttribute('aria-busy');pending.querySelector('.message-body').textContent=error.name==='AbortError'?'This request took too long. Please try again shortly.':error.message;$('#question').value=question;}

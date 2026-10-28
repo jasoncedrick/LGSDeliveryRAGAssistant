@@ -1,10 +1,10 @@
 # Citizen website
 
-This is the citizen-facing interface for the LGSDeliveryRAGAssistant research prototype. It includes a responsive chat, office-topic suggestions, source references with PDF page links, a source library and project information. Questions run through the real local RAG service; the UI contains no canned answers.
+This is the citizen-facing interface for the LGSDeliveryRAGAssistant research prototype. It includes a responsive chat, office-topic suggestions, compact source names, a source library and project information. Questions run through the real local RAG service; the UI contains no canned answers.
 
 ## Current review branch
 
-The 29 October teammate handoff removes passage quotations from the citizen display and retains reference names and PDF/page links. Retrieved context, source text in archived evaluations, and formal expert audit packets are unchanged. This checkout inherits an unpromoted grounding candidate: software checks pass, but factual and language quality failed. See [the team guide](../TEAM_START_HERE.md). Do not restart the public backend from this branch as a production upgrade.
+The latest 29 October display revision uses a small source-name line under each answer, with quiet citation markers. It shows no PDF buttons, page numbers, raw filenames or passage quotations in the answer. The separate source library remains available. Retrieved context, source text in archived evaluations, and formal expert audit packets are unchanged. This checkout inherits an unpromoted grounding candidate: software checks pass, but factual and language quality failed. See [the team guide](../TEAM_START_HERE.md). Do not restart the public backend from this branch as a production upgrade.
 
 ## Run for local development only
 
@@ -26,7 +26,7 @@ The site loads its retriever in the background. Its status distinguishes loading
 - Preserves the frozen answer prompt on disk while the website adapter uses its separately versioned generation instruction; this is a post-study prompt change. Mistral generation settings remain: temperature 0, top-p 0, context 8192, maximum prediction 1536. Normalization remains capped at 150 tokens.
 - Loads the reviewed prompt in an isolated normalizer module, without modifying the frozen normalizer source or its legacy global prompt.
 - Keeps `app/main.py`, `app/pipeline.py`, frozen source code and evaluation records intact. This is a new opt-in `app.website` entry point; the historical app defaults remain unchanged.
-- Clarification and incomplete output are shown explicitly. Citation labels are navigational links, not a guarantee of factual correctness. The offline RAGAS judge is not called by the website.
+- Clarification and incomplete output are shown explicitly. Citation labels identify the source names; they are not clickable or a guarantee of factual correctness. The offline RAGAS judge is not called by the website.
 - Service-topic buttons change suggested questions only. They do not silently filter retrieval, inject office context or create a new routing method.
 - Each request is independent; the UI does not inject conversational history into the registered prompt.
 
