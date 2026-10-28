@@ -1,0 +1,9 @@
+module,dimension,configuration,language,rating_count,unique_outputs,mean,median,score_1,score_2,score_3,score_4,score_5
+M1,fidelity,B,all,120,40,3.7583333333333333,4.0,7,20,19,23,51
+M1,fidelity,C,all,120,40,3.7666666666666666,4.0,7,24,15,18,56
+M2,relevance,A,all,180,60,2.3222222222222224,2.0,52,56,34,38,0
+M2,relevance,B,all,180,60,2.283333333333333,2.0,59,51,30,40,0
+M2,relevance,C,all,180,60,2.2777777777777777,2.0,59,51,31,39,0
+M2,faithfulness,A,all,180,60,2.716666666666667,3.0,33,48,36,63,0
+M2,faithfulness,B,all,180,60,2.727777777777778,3.0,32,47,39,62,0
+M2,faithfulness,C,all,180,60,2.6222222222222222,3.0,35,49,45,51,0

@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-29",
+  "passed": true,
+  "verified_original_manifest_files": 34,
+  "records": 780,
+  "dimension_scores": 1320,
+  "scenario_groups": 20,
+  "recomputed_descriptives_reliability_comparisons_and_sensitivity": "EXACT_MATCH",
+  "aggregate_csv_files": "BYTE_IDENTICAL",
+  "original_files_after_replay": "UNCHANGED",
+  "model_calls": 0,
+  "score_edits": 0,
+  "imputation": false,
+  "provenance": "Researcher-confirmed independent scoring; replay verifies data and calculations, not collection independence.",
+  "runtime_versions": {
+    "python": "3.10.11",
+    "numpy": "1.26.4",
+    "scipy": "1.15.3",
+    "krippendorff": "0.8.2"
+  }
+}

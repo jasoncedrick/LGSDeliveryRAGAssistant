@@ -51,11 +51,10 @@ function message(type,text) {
 }
 function addEvidence(article,citations) {
   if(!Array.isArray(citations)||!citations.length)return;
-  const details=el('details','evidence');details.append(el('summary','',`View source passages (${citations.length})`));
+  const details=el('section','evidence');details.setAttribute('aria-label','References');details.append(el('h3','evidence-title',`References (${citations.length})`));
   const list=el('div','evidence-list');citations.forEach(source=>{
     const card=el('section','source-card');card.dataset.citation=source.citation;
     card.append(el('h3','',`[${source.citation}] ${source.file_source}`));
-    card.append(el('blockquote','',typeof source.text==='string'?source.text:'Passage text is unavailable.'));
     const page=source.pdf_relative_page,printed=source.source_page;
     const label=`Open PDF${Number.isInteger(page)?' · page '+page:''}${printed!=null?' · printed '+printed:''} ↗`;
     // Accept only the server's fixed source routes, never an arbitrary model URL.
@@ -71,8 +70,8 @@ function renderAnswer(article,text,citations) {
   text.split(/(\[S\d+(?:,\s*S\d+)*\])/g).forEach(part=>{
     const labels=part.match(/S\d+/g);
     if(/^\[S/.test(part)&&labels?.every(label=>valid.has(label))){
-      const button=el('button','citation-link',part);button.type='button';button.setAttribute('aria-label','Show source '+labels.join(', '));
-      button.addEventListener('click',()=>{const details=article.querySelector('.evidence');if(details){details.open=true;const card=Array.from(details.querySelectorAll('.source-card')).find(c=>c.dataset.citation===labels[0]);card?.scrollIntoView({block:'nearest'});}});body.append(button);
+      const button=el('button','citation-link',part);button.type='button';button.setAttribute('aria-label','Show reference '+labels.join(', '));
+      button.addEventListener('click',()=>{const details=article.querySelector('.evidence');if(details){const card=Array.from(details.querySelectorAll('.source-card')).find(c=>c.dataset.citation===labels[0]);card?.scrollIntoView({block:'nearest'});card?.querySelector('a')?.focus({preventScroll:true});}});body.append(button);
     }else body.append(document.createTextNode(part));
   });
 }
@@ -117,7 +116,7 @@ $('#question-form').addEventListener('submit',async event=>{
     if(typeof text!=='string'||!text.trim())throw Error('No answer was returned. Please try again.');
     pending.className='message assistant';pending.removeAttribute('aria-busy');const citations=Array.isArray(data.citations)?data.citations:[];
     renderAnswer(pending,text,citations);
-    const notice={CLARIFICATION_REQUIRED:'Please resend your full question with the specific service and details. Each question is processed independently.',GENERATION_INCOMPLETE:'This answer was cut short. Treat it as incomplete and check the source passages.',NO_SUPPORTED_ANSWER:'The retrieved passages did not support a complete answer. Try naming the service and the specific requirement you need.',CONTEXT_BUDGET_EXCEEDED:'Try asking about one specific step or requirement.'}[data.status];
+    const notice={CLARIFICATION_REQUIRED:'Please resend your full question with the specific service and details. Each question is processed independently.',GENERATION_INCOMPLETE:'This answer was cut short. Treat it as incomplete and check the cited PDF pages.',NO_SUPPORTED_ANSWER:'The retrieved passages did not support a complete answer. Try naming the service and the specific requirement you need.',CONTEXT_BUDGET_EXCEEDED:'Try asking about one specific step or requirement.'}[data.status];
     if(notice)pending.append(el('p','notice',notice));
     if(data.status==='CLARIFICATION_REQUIRED'&&Array.isArray(data.clarification_options)){
       const choices=el('div','suggestions');
@@ -127,7 +126,7 @@ $('#question-form').addEventListener('submit',async event=>{
       });pending.append(choices);
     }
     if(data.status.endsWith('_ERROR'))pending.classList.add('error');
-    if(data.citation_labels_valid===false&&data.status==='ANSWERED')pending.append(el('p','notice','The answer’s citation labels could not be matched reliably. Check the source passages before relying on it.'));
+    if(data.citation_labels_valid===false&&data.status==='ANSWERED')pending.append(el('p','notice','The answer’s citation labels could not be matched reliably. Check the cited PDF pages before relying on it.'));
     addEvidence(pending,citations);
     const copy=el('button','copy-answer','Copy answer');copy.type='button';copy.addEventListener('click',async()=>{try{await navigator.clipboard.writeText(text);copy.textContent='Copied';setTimeout(()=>copy.textContent='Copy answer',1600);}catch(_){copy.textContent='Select the answer text to copy';}});pending.append(copy);
   }catch(error){pending.className='message assistant error';pending.removeAttribute('aria-busy');pending.querySelector('.message-body').textContent=error.name==='AbortError'?'This request took too long. Please try again shortly.':error.message;$('#question').value=question;}

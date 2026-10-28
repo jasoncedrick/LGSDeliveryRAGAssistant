@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-29",
+  "files": {
+    "experiments\\t10-t12-human-analysis-v1\\analysis_results.json": "b2094ff29a8050efae9b71d2e501c9d5bea5f8772506a145850fda632a41801d",
+    "experiments\\t10-t12-human-analysis-v1\\analysis_plan.json": "78230782e6399f54c17baf7c8b97b11540b8d553f39c5c20d7686e812b007238",
+    "experiments\\t10-t12-human-analysis-v1\\validation.json": "2d13d17d32166b14d0aae0ddf81fc556b08ddb921593a763289331dcb50810a4",
+    "outputs\\manuscript-closeout-20261028\\CHAPTER_4.md": "3ff4be4dc3bdfa3755f79c28807fa3c7b567e085daacfa696d13f815288f500c",
+    "outputs\\manuscript-closeout-20261028\\CHAPTER_5.md": "3116d2b35068c01b2ba3236049000bb5fa023e22bbc0f75f76731f4d0ebdcb76",
+    "outputs\\manuscript-closeout-20261028\\source_manifest.json": "0613458a9e6e087e4d5d8c1dc6b06749e20f4e4e3d56c628724cc12ffe3d968e",
+    "experiments\\t07-final-evaluation-v1\\per_query_metrics.csv": "0ea32b6444de53b05698bbb135f94262cd6548ee390afcb9968461a5810c58ff",
+    "experiments\\t07-final-evaluation-v1\\matched_metrics.csv": "72d26572786ab52cf741471b867500fc7b4fac38c0e7543f0cd483b5867b0c09",
+    "experiments\\t08-t09-expert-audit-v2-triple\\CHAPTER3_AMENDMENT.md": "5ef536d19c7fa25abf3cb3d5ed49344e48ac2fb2a1bdf7b465696fc7a47a00d1",
+    "outputs\\manuscript-closeout-20261028\\thesis_progress_tracker_updated.xlsx": "6440d68087b891c81cdaa9a7007c287986ccc3239a856bc0d3c5064935d450c1"
+  },
+  "manuscript_sha256": "628193ea55abc364c06dd3251a79126fa55ca2af2cb9d23e25cb584e7757f98a",
+  "original_tracker_sha256": "74ae6a572885e54be360b13bd548e078e59c1a72d66c9180b52acbabcf6bf2ed",
+  "tracker_tab": "Thesis Tracker",
+  "score_edits": 0,
+  "model_calls": 0
+}

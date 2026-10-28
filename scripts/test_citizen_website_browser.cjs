@@ -28,7 +28,7 @@ const out=path.resolve('tmp/citizen-website');fs.mkdirSync(out,{recursive:true})
  assert.deepEqual(lastPayload,{query:originalQuestion,response_language:'bislish'});
  await page.locator('#response-language').selectOption('auto');
  assert.equal(await page.locator('.message-body img').count(),0);assert.equal(await page.evaluate(()=>window.injected),undefined);
- await page.locator('.citation-link').click();assert(await page.locator('.evidence').evaluate(e=>e.open));
+ await page.locator('.citation-link').click();assert(await page.getByRole('heading',{name:'References (1)',exact:true}).isVisible());assert.equal(await page.locator('.source-card blockquote').count(),0);assert(!(await page.locator('body').innerText()).includes('SYNTHETIC TEST PASSAGE'));assert(await page.locator('.source-card a').evaluate(e=>e===document.activeElement));
  assert.equal(await page.locator('.source-card a').getAttribute('href'),'/sources/fire.pdf#page=1');
  await page.screenshot({path:path.join(out,'answer-synthetic.png'),fullPage:true});
  await page.locator('#new-question').click();assert.equal(await page.locator('.message').count(),0);
@@ -54,6 +54,6 @@ const out=path.resolve('tmp/citizen-website');fs.mkdirSync(out,{recursive:true})
  await page.unroute('**/api/jobs');await page.route('**/api/jobs',route=>route.fulfill({status:429,json:{detail:'The assistant is helping someone else.'}}));
  await page.locator('#question').fill('Synthetic capacity check');await page.locator('#send').click();await page.locator('.message.error').waitFor();assert.equal(await page.locator('#question').inputValue(),'Synthetic capacity check');
  assert.deepEqual(errors,[]);await browser.close();
- const report={passed:true,synthetic:true,model_calls:0,checks:['submit waits for initial readiness','desktop layout','topic suggestions','submit contract','language selector preserves original question','citation link and source passage','XSS text safety','new question reset','clarification handling','explicit choice edits full question without auto-submission','visible independent-question guidance','incomplete answer handling','five-source library','direct hash navigation','about page','mobile overflow','offline recovery','queue position and running progress','poll reconnection without duplicate submission','expired ticket preserves question','capacity error preserves question'],browser_errors:errors};
+ const report={passed:true,synthetic:true,model_calls:0,checks:['submit waits for initial readiness','desktop layout','topic suggestions','submit contract','language selector preserves original question','citation focus and reference PDF link','passage text absent from citizen display','XSS text safety','new question reset','clarification handling','explicit choice edits full question without auto-submission','visible independent-question guidance','incomplete answer handling','five-source library','direct hash navigation','about page','mobile overflow','offline recovery','queue position and running progress','poll reconnection without duplicate submission','expired ticket preserves question','capacity error preserves question'],browser_errors:errors};
  fs.writeFileSync(path.join(out,'browser-qa.json'),JSON.stringify(report,null,2));console.log(JSON.stringify(report,null,2));
 })().catch(e=>{console.error(e);process.exit(1)});

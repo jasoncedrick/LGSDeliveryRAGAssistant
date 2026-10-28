@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-29",
+  "branch": "handoff/human-results-chapters45-20261029",
+  "human_results": {
+    "date": "2026-10-29",
+    "passed": true,
+    "verified_original_manifest_files": 34,
+    "records": 780,
+    "dimension_scores": 1320,
+    "scenario_groups": 20,
+    "recomputed_descriptives_reliability_comparisons_and_sensitivity": "EXACT_MATCH",
+    "aggregate_csv_files": "BYTE_IDENTICAL",
+    "original_files_after_replay": "UNCHANGED",
+    "model_calls": 0,
+    "score_edits": 0,
+    "imputation": false,
+    "provenance": "Researcher-confirmed independent scoring; replay verifies data and calculations, not collection independence.",
+    "runtime_versions": {
+      "python": "3.10.11",
+      "numpy": "1.26.4",
+      "scipy": "1.15.3",
+      "krippendorff": "0.8.2"
+    }
+  },
+  "original_writing_package_hashes": "PASS",
+  "automated_metric_recomputation": "PASS",
+  "pdf": {
+    "pages": 15,
+    "tables": 8,
+    "figures": 3,
+    "all_pages_visually_inspected": true,
+    "clipping_or_overlap_observed": false,
+    "sha256": "688b14a3f94a841e43ca0cb1005c06097a4bc4e1790f899b79e135e6d3d7c33e"
+  },
+  "chapter_numbers_and_aggregate_csv_checks": "PASS",
+  "local_document_links": "PASS",
+  "tests": {
+    "website_api_unit": 30,
+    "statistics": 2,
+    "triple_audit_contract": 3
+  },
+  "browser": {
+    "passed": true,
+    "synthetic": true,
+    "model_calls": 0,
+    "checks": [
+      "submit waits for initial readiness",
+      "desktop layout",
+      "topic suggestions",
+      "submit contract",
+      "language selector preserves original question",
+      "citation focus and reference PDF link",
+      "passage text absent from citizen display",
+      "XSS text safety",
+      "new question reset",
+      "clarification handling",
+      "explicit choice edits full question without auto-submission",
+      "visible independent-question guidance",
+      "incomplete answer handling",
+      "five-source library",
+      "direct hash navigation",
+      "about page",
+      "mobile overflow",
+      "offline recovery",
+      "queue position and running progress",
+      "poll reconnection without duplicate submission",
+      "expired ticket preserves question",
+      "capacity error preserves question"
+    ],
+    "browser_errors": []
+  },
+  "motion": {
+    "passed": true,
+    "model_calls": 0,
+    "checks": [
+      "local GSAP and Lenis loaded",
+      "entrance settles; readable input",
+      "Lenis active on desktop information page",
+      "wheel scroll advances",
+      "motion opt-out persists and destroys Lenis",
+      "OS reduced motion overrides all effects",
+      "chat retains native scroll",
+      "mobile question form precedes suggestions",
+      "no horizontal overflow at 320/390/768",
+      "keyboard submission works",
+      "content/form remain usable if vendor scripts fail"
+    ],
+    "browser_errors": []
+  },
+  "static_build": {
+    "passed": true,
+    "files": 20,
+    "source_pdfs": 5,
+    "private_results_in_public_build": false
+  },
+  "display_change": "Citizen passage quotations removed; reference/PDF/page links retained. Audit packets and archived context unchanged.",
+  "inherited_website_answer_quality_gate": "FAILED_NOT_PROMOTED",
+  "new_generation_or_judge_run": false,
+  "deployed_to_production": false,
+  "limitations": [
+    "Private inputs are required to reproduce human calculations; public Git contains aggregate results.",
+    "Independent scoring is researcher-confirmed; calculations cannot verify collection provenance.",
+    "Official-template integration, adviser approval and submission are not complete.",
+    "This scoped QA does not certify every historic experimental script or factual website answer."
+  ]
+}

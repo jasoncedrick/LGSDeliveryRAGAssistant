@@ -1,8 +1,12 @@
 # Citizen website
 
-This is the citizen-facing interface for the LGSDeliveryRAGAssistant research prototype. It includes a responsive chat, office-topic suggestions, source passages with PDF page links, a source library and project information. Questions run through the real local RAG service; the UI contains no canned answers.
+This is the citizen-facing interface for the LGSDeliveryRAGAssistant research prototype. It includes a responsive chat, office-topic suggestions, source references with PDF page links, a source library and project information. Questions run through the real local RAG service; the UI contains no canned answers.
 
-## Run
+## Current review branch
+
+The 29 October teammate handoff removes passage quotations from the citizen display and retains reference names and PDF/page links. Retrieved context, source text in archived evaluations, and formal expert audit packets are unchanged. This checkout inherits an unpromoted grounding candidate: software checks pass, but factual and language quality failed. See [the team guide](../TEAM_START_HERE.md). Do not restart the public backend from this branch as a production upgrade.
+
+## Run for local development only
 
 From the clean project root, with the project's Python environment and cached model dependencies:
 
@@ -19,7 +23,7 @@ The site loads its retriever in the background. Its status distinguishes loading
 
 - Uses the registered B configuration: query-specific dictionary injection, reviewed normalization prompt, chunk-level BM25/FAISS fusion 0.75/0.25 and dictionary retrieval boost 0, K=3.
 - Uses `experiments/chapter3-table-repaired-development-v1/` with the original source-token 120/20 windows and matching indices. It does not rebuild or retune them.
-- Uses the frozen answer prompt plus the separately versioned website response-language instruction; this is a post-study prompt change. Mistral generation settings remain: temperature 0, top-p 0, context 8192, maximum prediction 1536. Normalization remains capped at 150 tokens.
+- Preserves the frozen answer prompt on disk while the website adapter uses its separately versioned generation instruction; this is a post-study prompt change. Mistral generation settings remain: temperature 0, top-p 0, context 8192, maximum prediction 1536. Normalization remains capped at 150 tokens.
 - Loads the reviewed prompt in an isolated normalizer module, without modifying the frozen normalizer source or its legacy global prompt.
 - Keeps `app/main.py`, `app/pipeline.py`, frozen source code and evaluation records intact. This is a new opt-in `app.website` entry point; the historical app defaults remain unchanged.
 - Clarification and incomplete output are shown explicitly. Citation labels are navigational links, not a guarantee of factual correctness. The offline RAGAS judge is not called by the website.
@@ -32,7 +36,7 @@ The model's installed digest is checked before queries (with a short readiness c
 
 This entry point does not archive questions or answers to server history. The conversation lives in the open browser page and is cleared by New question or reload. Web-server or hosting infrastructure may retain access logs. Keep private citizen identifiers out of public demos.
 
-Only five allowlisted charter PDFs are exposed. No filesystem path supplied by a visitor is used to choose a source file. Responses contain answer text and source evidence, not raw normalization diagnostics. The UI renders model text as text, not executable HTML. Only one inference is accepted at a time; additional requests receive a retry response. Source and model errors remain explicit.
+Only five allowlisted charter PDFs are exposed. No filesystem path supplied by a visitor is used to choose a source file. Responses contain answer text and source evidence, not raw normalization diagnostics. The UI renders model text as text, not executable HTML. Up to eleven outstanding questions are accepted through the job queue and processed one at a time. The browser polls its private ticket for waiting, running and completion states. Source and model errors remain explicit.
 
 See [the language revision record](LANGUAGE_REVISION.md) for the automatic language selection, manual override, test evidence, and limitations.
 

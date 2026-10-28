@@ -1,8 +1,12 @@
 # LGSDeliveryRAGAssistant
 
+## Team handoff - 29 October 2026
+
+**Human expert results are ready for review.** Open [TEAM_START_HERE.md](TEAM_START_HERE.md) for the results, revised Chapters 4-5 PDF, aggregate tables, QA and documented website issues. This branch is `handoff/human-results-chapters45-20261029`. The inherited website grounding candidate failed answer-quality QA and has not been promoted. Citizen passage quotations are removed in this branch while reference/PDF links remain.
+
 ## Citizen-facing website
 
-The new [citizen website](website/README.md) uses the registered B configuration through the separate `app.website` entry point, with chat, source passages and PDF links. Run `python -m uvicorn app.website:app --host 127.0.0.1 --port 8000` from the project root with the local Ollama model running. This is an opt-in application profile; frozen experiment files and historical `app.main` defaults remain intact. The live preview uses a temporary PC-backed tunnel, not permanent domain hosting.
+The new [citizen website](website/README.md) uses the registered B configuration through the separate `app.website` entry point, with chat and source reference/PDF links. Run `python -m uvicorn app.website:app --host 127.0.0.1 --port 8000` from the project root with the local Ollama model running. This is an opt-in application profile; frozen experiment files and historical `app.main` defaults remain intact. The live domain uses a static Vercel frontend and a temporary PC-backed API tunnel. This review branch is not the deployed release.
 
 ## Current checkpoint - 28 October 2026
 
