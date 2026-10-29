@@ -1,0 +1,84 @@
+{
+  "verified_at_manila": "2026-10-29T08:56:30.099274+08:00",
+  "production_url": "https://davaoragcitizencharter.com",
+  "deployment_id": "dpl_AbJnbvnBb9UtAd5ohiBo1jbHXb3d",
+  "frontend_commit": "9069b3dc152dab91d04c51f7cf1bc8fe402d243a",
+  "publication": "Static frontend only via Vercel CLI",
+  "backend_restarted": false,
+  "grounding_candidate_promoted": false,
+  "frozen_research_changed": false,
+  "upload_file_count": 31,
+  "private_research_uploaded": false,
+  "live_assets": {
+    "/assets/app.js": {
+      "http": 200,
+      "sha256": "de506f3fbb42ec7cbedb42d55db5ab6314262722f0614aff22950883d8e01e4f",
+      "matches_tested_source": true
+    },
+    "/assets/styles.css": {
+      "http": 200,
+      "sha256": "55776aeaa648e5da7665039d117c2d658fba4bef6361e3123cb4c130ef769d68",
+      "matches_tested_source": true
+    },
+    "/": {
+      "http": 200,
+      "sha256": "786a99ecf77f12d8e6f60f3052052dc90b6e12fe1be2eb5d868b811ed7a9c099",
+      "matches_tested_source": true
+    }
+  },
+  "browser": {
+    "passed": true,
+    "synthetic": true,
+    "model_calls": 0,
+    "checks": [
+      "submit waits for initial readiness",
+      "desktop layout",
+      "topic suggestions",
+      "submit contract",
+      "language selector preserves original question",
+      "compact source names without PDF links or page numbers",
+      "passage text absent from citizen display",
+      "XSS text safety",
+      "new question reset",
+      "clarification handling",
+      "explicit choice edits full question without auto-submission",
+      "visible independent-question guidance",
+      "incomplete answer handling",
+      "five-source library",
+      "direct hash navigation",
+      "about page",
+      "mobile overflow",
+      "offline recovery",
+      "queue position and running progress",
+      "poll reconnection without duplicate submission",
+      "expired ticket preserves question",
+      "capacity error preserves question"
+    ],
+    "browser_errors": []
+  },
+  "live_smoke": {
+    "test": "Researcher-authored live transport smoke; not factual evaluation",
+    "question": "Which office handles an occupancy permit?",
+    "states": [
+      "running",
+      "completed"
+    ],
+    "status": "ANSWERED",
+    "source_count": 3,
+    "response_language": "english",
+    "website_prompt_version": "website-response-language-v2",
+    "elapsed_seconds": 16.72,
+    "factual_accuracy": "NOT_CERTIFIED",
+    "model_calls": "Normal existing backend request; no judge or regeneration"
+  },
+  "https_public_access": "PASS",
+  "www_redirect": "PASS",
+  "source_catalog_count": 5,
+  "backend_health": "ready",
+  "cors_exact_origin": "PASS",
+  "limitations": [
+    "Transport and UI checks do not certify factual answers.",
+    "PC, model service and tunnel must stay running.",
+    "Existing Git production branch is unchanged; later deployments must retain the recorded frontend revision."
+  ]
+}

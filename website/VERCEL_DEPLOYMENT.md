@@ -1,5 +1,11 @@
 # Vercel citizen website deployment
 
+## Latest frontend publication - 29 October 2026
+
+The lightweight reference display from commit `9069b3d` was published through Vercel CLI from `handoff/human-results-chapters45-20261029`. Production deployment: `dpl_AbJnbvnBb9UtAd5ohiBo1jbHXb3d`, aliased to `https://davaoragcitizencharter.com`. Answers show short source names and quiet citation markers, without PDF/page links, filenames or passage cards. The separate source library remains available.
+
+This publication uploaded only static-build inputs and source PDFs. It did not restart or promote the unapproved Python grounding candidate. The public backend remains the existing PC service at its existing tunnel origin. The Git production branch configured below is unchanged; a later automatic deployment from that older branch could replace these frontend assets. Use this recorded frontend commit when preparing a future release. Publication checks are in `website/LIGHT_REFERENCES_DEPLOYMENT_QA.json`.
+
 - Repository: `jasoncedrick/LGSDeliveryRAGAssistant`
 - Deployment branch: `deploy/vercel-davaoragcitizencharter-20261028`
 - Vercel team: `jason124rabanes-6549s-projects`
