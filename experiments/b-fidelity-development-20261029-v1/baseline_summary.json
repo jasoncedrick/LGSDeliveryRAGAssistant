@@ -1,0 +1,12 @@
+{
+  "queries": 90,
+  "queries_with_dictionary_matches": 60,
+  "same_successful_queries": 40,
+  "same_successful_top3": 52,
+  "B_flagged_queries": 3,
+  "C_flagged_queries": 2,
+  "B_statuses": {
+    "SUCCESS": 84,
+    "FALLBACK_TRIGGERED": 6
+  }
+}

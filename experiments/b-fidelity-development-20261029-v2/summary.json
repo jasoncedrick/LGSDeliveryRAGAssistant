@@ -1,0 +1,108 @@
+{
+  "results": [
+    {
+      "configuration": "A",
+      "version": "archived",
+      "k": 3,
+      "queries": 90,
+      "with_context": 90,
+      "hit_at_k": 0.6777777777777778,
+      "mrr_at_k": 0.4296296296296296,
+      "literal_flagged_queries": 0
+    },
+    {
+      "configuration": "A",
+      "version": "archived",
+      "k": 5,
+      "queries": 90,
+      "with_context": 90,
+      "hit_at_k": 0.7444444444444445,
+      "mrr_at_k": 0.44518518518518513,
+      "literal_flagged_queries": 0
+    },
+    {
+      "configuration": "B",
+      "version": "archived",
+      "k": 3,
+      "queries": 90,
+      "with_context": 84,
+      "hit_at_k": 0.7,
+      "mrr_at_k": 0.6166666666666667,
+      "literal_flagged_queries": 3
+    },
+    {
+      "configuration": "B",
+      "version": "archived",
+      "k": 5,
+      "queries": 90,
+      "with_context": 84,
+      "hit_at_k": 0.7111111111111111,
+      "mrr_at_k": 0.6194444444444446,
+      "literal_flagged_queries": 3
+    },
+    {
+      "configuration": "B",
+      "version": "candidate",
+      "k": 3,
+      "queries": 90,
+      "with_context": 84,
+      "hit_at_k": 0.7222222222222222,
+      "mrr_at_k": 0.5962962962962964,
+      "literal_flagged_queries": 1
+    },
+    {
+      "configuration": "B",
+      "version": "candidate",
+      "k": 5,
+      "queries": 90,
+      "with_context": 84,
+      "hit_at_k": 0.7333333333333333,
+      "mrr_at_k": 0.5990740740740742,
+      "literal_flagged_queries": 1
+    },
+    {
+      "configuration": "C",
+      "version": "archived",
+      "k": 3,
+      "queries": 90,
+      "with_context": 84,
+      "hit_at_k": 0.7,
+      "mrr_at_k": 0.6166666666666667,
+      "literal_flagged_queries": 2
+    },
+    {
+      "configuration": "C",
+      "version": "archived",
+      "k": 5,
+      "queries": 90,
+      "with_context": 84,
+      "hit_at_k": 0.7111111111111111,
+      "mrr_at_k": 0.6194444444444446,
+      "literal_flagged_queries": 2
+    },
+    {
+      "configuration": "C",
+      "version": "candidate",
+      "k": 3,
+      "queries": 90,
+      "with_context": 84,
+      "hit_at_k": 0.6666666666666666,
+      "mrr_at_k": 0.5925925925925927,
+      "literal_flagged_queries": 1
+    },
+    {
+      "configuration": "C",
+      "version": "candidate",
+      "k": 5,
+      "queries": 90,
+      "with_context": 84,
+      "hit_at_k": 0.6888888888888889,
+      "mrr_at_k": 0.5975925925925927,
+      "literal_flagged_queries": 1
+    }
+  ],
+  "baseline_top3_reproduced": true,
+  "new_context_precision": "not evaluated",
+  "new_answer_quality": "not evaluated",
+  "promoted": false
+}

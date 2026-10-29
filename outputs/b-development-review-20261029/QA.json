@@ -1,0 +1,18 @@
+{
+  "tests_passed": 6,
+  "all_registered_inputs_unchanged": true,
+  "baseline_top3_reproduced_for_all_architectures": true,
+  "normalization_records": 180,
+  "dictionary_candidate_records": 180,
+  "dictionary_new_evaluations": 26,
+  "C_reused_identically": 90,
+  "fusion_conditions": 68,
+  "queries_each": 90,
+  "grid_fixed_weight_matches_direct_retrieval": true,
+  "candidate_promoted": false,
+  "app_modified": false,
+  "new_judge_calls": 0,
+  "new_answer_generation_calls": 0,
+  "semantic_gate": "FAILED: remaining meaning changes documented in semantic_review.json",
+  "reason_not_running_answers": "Normalization gate failed; generation/judge reruns cannot repair corrupted intent. Keep candidate diagnostic rather than promote or claim stronger final answers."
+}

@@ -1,0 +1,11 @@
+--- bayad.original
++++ bayad.candidate
+@@ -1,7 +1,7 @@
+ {
+   "term_id": "DICT-CROSS-150",
+   "language": "Bisaya",
+-  "verified_english_definition": "Monetary settlement of assessed regulatory fees",
++  "verified_english_definition": "Fee or payment",
+   "governance_context_tag": "Cross_Cutting",
+   "polysemy_flag": false,
+   "disambiguation_rule": "",

@@ -1,0 +1,28 @@
+{
+  "held_out_accessed": false,
+  "freeze": false,
+  "source_hashes": {
+    "scripts\\evaluate_b_dictionary_gloss.py": "f96aca5444776db8fc40acedd147264c2eea9beba655696acf73818189b60b95",
+    "experiments\\b-fidelity-development-20261029-v2\\protocol.json": "37d2c37d3f931c899cc124d2bb9538fa88fe9b536fcab7c6b52ea83c7d72dfdb",
+    "experiments\\b-fidelity-development-20261029-v2\\candidate_normalizations.jsonl": "89c2b1002661c0a507c1d9f7629e4a80bbc06ce5eaefcbce2fb0a0f9a025a091",
+    "experiments\\b-dictionary-bayad-development-20261029-v1\\dictionary.before.json": "5ecbcc99538d9a88c7905378abe8a3712831afdfe8e9647cfdf2698600bdab62",
+    "experiments\\b-dictionary-bayad-development-20261029-v1\\dictionary.candidate.json": "5184b36b74ffa029d1395fc7723ea6b0afade6452f1aa44fa14991f0a2e7f26d",
+    "experiments\\b-dictionary-bayad-development-20261029-v1\\source_review.json": "563917deba01d53d180dc9cc42dab90ec640f7b3824ecfc7adad82e9532223c5"
+  },
+  "scope": "Single-entry lexical simplification, full 90-query development regression",
+  "parent_prompt_unchanged": true,
+  "reuse": "Reuse parent only when effective glossary plus ambiguity inputs are identical; C injection remains disabled",
+  "dictionary_scope": "Normalization only. Retrieval key set unchanged; no corpus/index change.",
+  "weights": [
+    0.75,
+    0.25,
+    0
+  ],
+  "k": [
+    3,
+    5
+  ],
+  "generation_changes": false,
+  "selection": "Hit/MRR are diagnostic; no promotion without context precision and answer-quality evidence",
+  "maximum_workers": 1
+}

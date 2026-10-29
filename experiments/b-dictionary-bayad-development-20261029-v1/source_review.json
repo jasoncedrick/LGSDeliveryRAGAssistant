@@ -1,0 +1,35 @@
+{
+  "status": "EXPERIMENTAL_NOT_PROMOTED",
+  "term": "bayad",
+  "before": {
+    "term_id": "DICT-CROSS-150",
+    "language": "Bisaya",
+    "verified_english_definition": "Monetary settlement of assessed regulatory fees",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "after": {
+    "term_id": "DICT-CROSS-150",
+    "language": "Bisaya",
+    "verified_english_definition": "Fee or payment",
+    "governance_context_tag": "Cross_Cutting",
+    "polysemy_flag": false,
+    "disambiguation_rule": "",
+    "curation_source": "manual"
+  },
+  "changed_field": "verified_english_definition",
+  "source_file": "data\\raw_charters\\City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+  "source_sha256": "b492eb8d220d1d9fb8b1d3acad2bba254d711e227063853415182b1715e546de",
+  "pdf_relative_page": 2,
+  "printed_page": 157,
+  "source_wording": [
+    "Payment of Terminal Fees/Stall Rental",
+    "FEES TO BE PAID",
+    "Client makes the payment"
+  ],
+  "review": "Rendered page inspected. Supports ordinary English fee/payment terminology. The source does not itself certify the bilingual gloss; this is a lexical simplification of the existing curated entry, not a new fee rule.",
+  "scope": "One entry only, based on development cases. Governance tag, polysemy flag and disambiguation rule unchanged. Original dictionary and corpus unchanged.",
+  "original_dictionary_sha256": "5ecbcc99538d9a88c7905378abe8a3712831afdfe8e9647cfdf2698600bdab62"
+}
