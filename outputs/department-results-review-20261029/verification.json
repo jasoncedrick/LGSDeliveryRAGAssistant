@@ -1,0 +1,24 @@
+{
+  "scope": "Post-hoc descriptive breakdown only; no department-level significance tests",
+  "departments": 5,
+  "human_groups_per_department": 4,
+  "human_M2_queries_per_department": 12,
+  "human_M2_ratings_per_configuration_per_dimension_per_department": 36,
+  "human_M1_ratings_per_configuration_per_department": 24,
+  "model_calls": 0,
+  "score_edits": 0,
+  "source_hashes": {
+    "experiments\\t10-t12-human-analysis-v1\\analysis_results.json": "b2094ff29a8050efae9b71d2e501c9d5bea5f8772506a145850fda632a41801d",
+    "experiments\\t10-t12-human-analysis-v1\\manifest.json": "76e8a1cfd06fe76669fc7dc096a4a1ff43f14c86258eb1a1f612cd514e8352fe",
+    "experiments\\t10-t12-human-analysis-v1\\analysis_plan.json": "78230782e6399f54c17baf7c8b97b11540b8d553f39c5c20d7686e812b007238",
+    "experiments\\t07-final-evaluation-v1\\per_query_metrics.csv": "0ea32b6444de53b05698bbb135f94262cd6548ee390afcb9968461a5810c58ff",
+    "experiments\\t07-final-evaluation-v1\\source_span_crosswalk.v1.json": "292bcaf0dfce5b524caed604b6ae33337ff625ce54280dd37b905223346f08e5",
+    "experiments\\t07-final-evaluation-v1\\execution_manifest.json": "c3e7a40501bc87236156c50be1d12dc832c45fc94d3edd2206cbe0052400a51e"
+  },
+  "note": "Raters are repeated measures. Counts are not independent participant or citizen counts. Automated means use shared observed cases in each cell.",
+  "overall_human_reconciliation": "EXACT_MATCH",
+  "overall_automated_reconciliation": "EXACT_MATCH",
+  "original_score_values": "MATCH_PRESERVED_INPUT_JSON",
+  "configuration_mapping": "MATCH_PRIVATE_KEY",
+  "analysis_script_sha256": "0631b2ee5b88cd70c5ed589a740853a6c9bc7c1c4ed117368de25e7cbb077184"
+}

@@ -1,0 +1,31 @@
+department,dimension,comparison,queries,first_higher,second_higher,tied
+Bureau of Fire Protection,relevance,B minus A,12,3,3,6
+Bureau of Fire Protection,relevance,C minus A,12,3,2,7
+Bureau of Fire Protection,relevance,B minus C,12,0,1,11
+Bureau of Fire Protection,faithfulness,B minus A,12,4,4,4
+Bureau of Fire Protection,faithfulness,C minus A,12,4,4,4
+Bureau of Fire Protection,faithfulness,B minus C,12,2,0,10
+Business Bureau,relevance,B minus A,12,5,2,5
+Business Bureau,relevance,C minus A,12,4,3,5
+Business Bureau,relevance,B minus C,12,1,0,11
+Business Bureau,faithfulness,B minus A,12,6,4,2
+Business Bureau,faithfulness,C minus A,12,6,4,2
+Business Bureau,faithfulness,B minus C,12,0,0,12
+City Planning and Development Office,relevance,B minus A,12,2,5,5
+City Planning and Development Office,relevance,C minus A,12,1,5,6
+City Planning and Development Office,relevance,B minus C,12,1,0,11
+City Planning and Development Office,faithfulness,B minus A,12,7,1,4
+City Planning and Development Office,faithfulness,C minus A,12,6,1,5
+City Planning and Development Office,faithfulness,B minus C,12,1,0,11
+City Treasurer's Office,relevance,B minus A,12,2,2,8
+City Treasurer's Office,relevance,C minus A,12,2,2,8
+City Treasurer's Office,relevance,B minus C,12,0,0,12
+City Treasurer's Office,faithfulness,B minus A,12,3,6,3
+City Treasurer's Office,faithfulness,C minus A,12,2,7,3
+City Treasurer's Office,faithfulness,B minus C,12,1,0,11
+Office of the City Building Official,relevance,B minus A,12,2,5,5
+Office of the City Building Official,relevance,C minus A,12,2,5,5
+Office of the City Building Official,relevance,B minus C,12,0,0,12
+Office of the City Building Official,faithfulness,B minus A,12,2,4,6
+Office of the City Building Official,faithfulness,C minus A,12,2,4,6
+Office of the City Building Official,faithfulness,B minus C,12,0,0,12

@@ -1,0 +1,81 @@
+population,label_basis,department,metric,planned_queries,matched_queries,missing_queries,A,B,C
+full_test,original_177,Bureau of Fire Protection,hit_at_k,42,21,21,0.6190476190476191,0.8571428571428571,0.8571428571428571
+full_test,original_177,Business Bureau,hit_at_k,42,39,3,0.46153846153846156,0.46153846153846156,0.46153846153846156
+full_test,original_177,City Planning and Development Office,hit_at_k,42,39,3,0.6923076923076923,0.8717948717948718,0.8717948717948718
+full_test,original_177,City Treasurer's Office,hit_at_k,42,36,6,0.4722222222222222,0.5,0.5277777777777778
+full_test,original_177,Office of the City Building Official,hit_at_k,42,42,0,0.5714285714285714,0.7142857142857143,0.6904761904761905
+full_test,reconciled_210,Bureau of Fire Protection,hit_at_k,42,42,0,0.6190476190476191,0.8095238095238095,0.8333333333333334
+full_test,reconciled_210,Business Bureau,hit_at_k,42,42,0,0.5,0.5,0.5
+full_test,reconciled_210,City Planning and Development Office,hit_at_k,42,42,0,0.6666666666666666,0.8333333333333334,0.8333333333333334
+full_test,reconciled_210,City Treasurer's Office,hit_at_k,42,42,0,0.5238095238095238,0.5476190476190477,0.5714285714285714
+full_test,reconciled_210,Office of the City Building Official,hit_at_k,42,42,0,0.5714285714285714,0.7142857142857143,0.6904761904761905
+full_test,original_177,Bureau of Fire Protection,mrr_at_k,42,21,21,0.4444444444444444,0.8333333333333334,0.8333333333333334
+full_test,original_177,Business Bureau,mrr_at_k,42,39,3,0.2606837606837607,0.38461538461538464,0.36752136752136755
+full_test,original_177,City Planning and Development Office,mrr_at_k,42,39,3,0.4017094017094017,0.6752136752136753,0.6581196581196581
+full_test,original_177,City Treasurer's Office,mrr_at_k,42,36,6,0.3425925925925926,0.4537037037037037,0.47685185185185186
+full_test,original_177,Office of the City Building Official,mrr_at_k,42,42,0,0.38095238095238093,0.5555555555555556,0.5436507936507936
+full_test,reconciled_210,Bureau of Fire Protection,mrr_at_k,42,42,0,0.4166666666666667,0.7738095238095238,0.7698412698412699
+full_test,reconciled_210,Business Bureau,mrr_at_k,42,42,0,0.2698412698412698,0.38492063492063494,0.36904761904761907
+full_test,reconciled_210,City Planning and Development Office,mrr_at_k,42,42,0,0.3968253968253968,0.6507936507936508,0.6349206349206349
+full_test,reconciled_210,City Treasurer's Office,mrr_at_k,42,42,0,0.36507936507936506,0.49206349206349204,0.5119047619047619
+full_test,reconciled_210,Office of the City Building Official,mrr_at_k,42,42,0,0.38095238095238093,0.5555555555555556,0.5436507936507936
+full_test,observed_judge_scores,Bureau of Fire Protection,faithfulness,42,40,2,0.6754166666666667,0.7952380952380952,0.7521022727272727
+full_test,observed_judge_scores,Business Bureau,faithfulness,42,40,2,0.8014583333333334,0.6996230158730159,0.7575396825396825
+full_test,observed_judge_scores,City Planning and Development Office,faithfulness,42,37,5,0.7218468468468469,0.7434684684684685,0.7477477477477478
+full_test,observed_judge_scores,City Treasurer's Office,faithfulness,42,35,7,0.7219047619047619,0.7904081632653062,0.7648979591836734
+full_test,observed_judge_scores,Office of the City Building Official,faithfulness,42,36,6,0.8218694885361552,0.794212962962963,0.7764219576719577
+full_test,observed_judge_scores,Bureau of Fire Protection,context_precision,42,42,0,0.8968253967843254,0.9761904761474206,0.9523809523376984
+full_test,observed_judge_scores,Business Bureau,context_precision,42,42,0,0.8531746031355159,0.9365079364652777,0.9365079364636905
+full_test,observed_judge_scores,City Planning and Development Office,context_precision,42,40,2,0.7729166666284375,0.9104166666261458,0.8979166666273958
+full_test,observed_judge_scores,City Treasurer's Office,context_precision,42,38,4,0.8201754385563597,0.9013157894321272,0.89692982451875
+full_test,observed_judge_scores,Office of the City Building Official,context_precision,42,40,2,0.8958333332949999,0.86666666662625,0.8979166666242708
+full_test,observed_judge_scores,Bureau of Fire Protection,context_recall,42,42,0,0.8928571428571429,0.8650793650793651,0.8809523809523809
+full_test,observed_judge_scores,Business Bureau,context_recall,42,42,0,0.7578231292517007,0.7759920634920635,0.7775793650793651
+full_test,observed_judge_scores,City Planning and Development Office,context_recall,42,40,2,0.8276785714285714,0.8488095238095238,0.8488095238095238
+full_test,observed_judge_scores,City Treasurer's Office,context_recall,42,38,4,0.8991228070175439,0.8864035087719299,0.8776315789473684
+full_test,observed_judge_scores,Office of the City Building Official,context_recall,42,40,2,0.8458333333333333,0.8354166666666667,0.8422619047619048
+full_test,observed_judge_scores,Bureau of Fire Protection,answer_relevancy,42,42,0,0.5382483817003201,0.5573003231827479,0.5723783396644309
+full_test,observed_judge_scores,Business Bureau,answer_relevancy,42,42,0,0.6500136112004149,0.6153958927688966,0.6069479830372696
+full_test,observed_judge_scores,City Planning and Development Office,answer_relevancy,42,40,2,0.5961614155794223,0.6905631858173311,0.6938113483866792
+full_test,observed_judge_scores,City Treasurer's Office,answer_relevancy,42,38,4,0.5188895155872907,0.4947658430543829,0.5414937016652401
+full_test,observed_judge_scores,Office of the City Building Official,answer_relevancy,42,40,2,0.5894369019011882,0.5507472149214677,0.5610936835218486
+human_audit_groups,original_177,Bureau of Fire Protection,hit_at_k,12,9,3,0.8888888888888888,1.0,1.0
+human_audit_groups,original_177,Business Bureau,hit_at_k,12,12,0,0.3333333333333333,0.5,0.4166666666666667
+human_audit_groups,original_177,City Planning and Development Office,hit_at_k,12,9,3,0.7777777777777778,0.8888888888888888,0.8888888888888888
+human_audit_groups,original_177,City Treasurer's Office,hit_at_k,12,12,0,0.4166666666666667,0.5,0.5833333333333334
+human_audit_groups,original_177,Office of the City Building Official,hit_at_k,12,12,0,1.0,0.9166666666666666,0.9166666666666666
+human_audit_groups,reconciled_210,Bureau of Fire Protection,hit_at_k,12,12,0,0.75,0.75,0.8333333333333334
+human_audit_groups,reconciled_210,Business Bureau,hit_at_k,12,12,0,0.3333333333333333,0.5,0.4166666666666667
+human_audit_groups,reconciled_210,City Planning and Development Office,hit_at_k,12,12,0,0.6666666666666666,0.75,0.75
+human_audit_groups,reconciled_210,City Treasurer's Office,hit_at_k,12,12,0,0.4166666666666667,0.5,0.5833333333333334
+human_audit_groups,reconciled_210,Office of the City Building Official,hit_at_k,12,12,0,1.0,0.9166666666666666,0.9166666666666666
+human_audit_groups,original_177,Bureau of Fire Protection,mrr_at_k,12,9,3,0.5925925925925926,1.0,1.0
+human_audit_groups,original_177,Business Bureau,mrr_at_k,12,12,0,0.16666666666666666,0.3333333333333333,0.25
+human_audit_groups,original_177,City Planning and Development Office,mrr_at_k,12,9,3,0.5555555555555556,0.8333333333333334,0.7777777777777778
+human_audit_groups,original_177,City Treasurer's Office,mrr_at_k,12,12,0,0.3611111111111111,0.5,0.5277777777777778
+human_audit_groups,original_177,Office of the City Building Official,mrr_at_k,12,12,0,0.75,0.6805555555555556,0.6666666666666666
+human_audit_groups,reconciled_210,Bureau of Fire Protection,mrr_at_k,12,12,0,0.4722222222222222,0.75,0.7916666666666666
+human_audit_groups,reconciled_210,Business Bureau,mrr_at_k,12,12,0,0.16666666666666666,0.3333333333333333,0.25
+human_audit_groups,reconciled_210,City Planning and Development Office,mrr_at_k,12,12,0,0.5,0.7083333333333334,0.6666666666666666
+human_audit_groups,reconciled_210,City Treasurer's Office,mrr_at_k,12,12,0,0.3611111111111111,0.5,0.5277777777777778
+human_audit_groups,reconciled_210,Office of the City Building Official,mrr_at_k,12,12,0,0.75,0.6805555555555556,0.6666666666666666
+human_audit_groups,observed_judge_scores,Bureau of Fire Protection,faithfulness,12,12,0,0.5166666666666667,0.8472222222222222,0.8194444444444444
+human_audit_groups,observed_judge_scores,Business Bureau,faithfulness,12,12,0,0.8347222222222223,0.6603174603174603,0.7158730158730159
+human_audit_groups,observed_judge_scores,City Planning and Development Office,faithfulness,12,10,2,0.5611111111111111,0.5083333333333333,0.55
+human_audit_groups,observed_judge_scores,City Treasurer's Office,faithfulness,12,11,1,0.6212121212121212,0.8257575757575758,0.7121212121212122
+human_audit_groups,observed_judge_scores,Office of the City Building Official,faithfulness,12,12,0,0.8624338624338624,0.8199404761904762,0.7296626984126984
+human_audit_groups,observed_judge_scores,Bureau of Fire Protection,context_precision,12,12,0,0.9999999999569444,0.9999999999611111,0.9444444444034722
+human_audit_groups,observed_judge_scores,Business Bureau,context_precision,12,12,0,0.7777777777388889,0.9583333332847223,0.9583333332791667
+human_audit_groups,observed_judge_scores,City Planning and Development Office,context_precision,12,12,0,0.7847222221809027,0.8819444444024305,0.7986111110774305
+human_audit_groups,observed_judge_scores,City Treasurer's Office,context_precision,12,12,0,0.8888888888472222,0.8541666666267361,0.7986111110739583
+human_audit_groups,observed_judge_scores,Office of the City Building Official,context_precision,12,12,0,0.9722222221861111,0.9097222221822917,0.8888888888486111
+human_audit_groups,observed_judge_scores,Bureau of Fire Protection,context_recall,12,12,0,1.0,0.9166666666666666,0.9166666666666666
+human_audit_groups,observed_judge_scores,Business Bureau,context_recall,12,12,0,0.6944444444444444,0.8611111111111112,0.7777777777777778
+human_audit_groups,observed_judge_scores,City Planning and Development Office,context_recall,12,12,0,0.8402777777777778,0.7638888888888888,0.7222222222222222
+human_audit_groups,observed_judge_scores,City Treasurer's Office,context_recall,12,12,0,0.8472222222222222,0.8333333333333334,0.8333333333333334
+human_audit_groups,observed_judge_scores,Office of the City Building Official,context_recall,12,12,0,1.0,1.0,1.0
+human_audit_groups,observed_judge_scores,Bureau of Fire Protection,answer_relevancy,12,12,0,0.5561713427416003,0.588975546027611,0.5674339768014922
+human_audit_groups,observed_judge_scores,Business Bureau,answer_relevancy,12,12,0,0.5865545731027563,0.538118160672361,0.5058567658375906
+human_audit_groups,observed_judge_scores,City Planning and Development Office,answer_relevancy,12,12,0,0.5726228227056445,0.6164484067466859,0.6325110990210348
+human_audit_groups,observed_judge_scores,City Treasurer's Office,answer_relevancy,12,12,0,0.5384176106480961,0.42440235836512064,0.4777763852227429
+human_audit_groups,observed_judge_scores,Office of the City Building Official,answer_relevancy,12,12,0,0.7079402824378396,0.5177129749147282,0.5165728875175708
