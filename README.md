@@ -1,85 +1,43 @@
-> Adviser demo, 12 November 2026: start with [demo/DEMO_GUIDE.md](demo/DEMO_GUIDE.md). This checkout uses the documented website v2 adapter. Earlier instructions below are historical. Known answer failures remain.
-
 # LGSDeliveryRAGAssistant
 
-## Team handoff - 29 October 2026
+Davao City Citizen Charter research assistant: English, Taglish and Bislish.
 
-**Human expert results are ready for review.** Open [TEAM_START_HERE.md](TEAM_START_HERE.md) for the results, revised Chapters 4-5 PDF, aggregate tables, QA and documented website issues. This branch is `handoff/human-results-chapters45-20261029`. The inherited website grounding candidate failed answer-quality QA and has not been promoted. Citizen passage quotations are removed in this branch while reference/PDF links remain.
+**Adviser demo: 12 November 2026.** This branch is `demo/adviser-20261112`.
+It is an operational research prototype with documented answer-quality failures, not an official city service.
 
-## Citizen-facing website
+## Start here
 
-The new [citizen website](website/README.md) uses the registered B configuration through the separate `app.website` entry point, with chat and source reference/PDF links. Run `python -m uvicorn app.website:app --host 127.0.0.1 --port 8000` from the project root with the local Ollama model running. This is an opt-in application profile; frozen experiment files and historical `app.main` defaults remain intact. The live domain uses a static Vercel frontend and a temporary PC-backed API tunnel. This review branch is not the deployed release.
+| What you need | Where to open |
+| --- | --- |
+| Run and present the demo | [Demo guide](demo/DEMO_GUIDE.md) |
+| Checks and known failures | [QA report](demo/qa/QA_REPORT.json), [live smoke responses](demo/qa/live_smoke.json) |
+| Human-rating analysis archive | [T10-T12 report](experiments/t10-t12-human-analysis-v1/T10_T12_REPORT.md) |
+| Automated A/B/C results | [T07 execution report](experiments/t07-final-evaluation-v1/T07_EXECUTION_REPORT.txt) |
+| Paper and team handoff | [Team guide](TEAM_START_HERE.md) |
+| Local repository map | [Repository map](demo/REPOSITORY_MAP.md) |
+| Earlier implementation notes | [Historical README](demo/HISTORICAL_README.md) |
 
-## Current checkpoint - 28 October 2026
+## Run on the prepared demo laptop
 
-The two-module expert audit and T10-T12 analysis are archived. Chapters 4-5 are drafted for review. Start with the [writing package guide](outputs/manuscript-closeout-20261028/READ_THIS_FIRST.md), [combined review PDF](outputs/manuscript-closeout-20261028/THESIS_RESULTS_REVIEW.pdf), and [human-analysis report](experiments/t10-t12-human-analysis-v1/T10_T12_REPORT.md). The [latest tracker copy](outputs/manuscript-closeout-20261028/thesis_progress_tracker_updated.xlsx) records completed drafts and pending work.
-
-Human ratings are attributed to independent experts on the researcher's confirmation, with prior conflicting metadata preserved in the private provenance archive. Ordinal agreement exceeds .80 for all three dimensions; the exploratory paired comparisons do not establish system superiority. Raw ratings and audit keys are deliberately excluded from Git. Some source-dependent audit tests require those private local records.
-
-The original retrieval-label subset contains 177 queries; later source reconciliation expands coverage to 210. The writing package reports both versions separately. Editable Chapters 1-3 integration and department-template compilation are deferred at the researcher's request. Adviser approval and official submission remain pending. Earlier implementation notes below describe historical milestones.
-
-Start with [the T06 closeout](experiments/t06-harness-closeout-v3/T06_STATUS.txt) and [the T07 execution report](experiments/t07-final-evaluation-v1/T07_EXECUTION_REPORT.txt).
-
-This checkout contains the Chapter 3 implementation and archived T06/T07 evaluation evidence. T06 harness implementation and T07 A/B/C execution/CSV export are complete with the limitations recorded below. Evaluation completion does not certify every source label or automated judgment.
-
-## Latest results
-
-- [Final metrics](experiments/t07-final-evaluation-v1/master_metrics.csv), [matched comparisons](experiments/t07-final-evaluation-v1/matched_metrics.csv), and [per-query outcomes](experiments/t07-final-evaluation-v1/per_query_metrics.csv).
-- All 630 held-out A/B/C outcomes and their scoring dispositions are archived.
-- [Registered settings and provenance](experiments/t07-final-evaluation-v1/EXECUTION_GUIDE.txt): K=3, weights 0.75 BM25 / 0.25 dense / 0 dictionary boost, Mistral, 120-token chunks and 20-token overlap. The source-ID transfer addendum was registered after structural preflight and before inference.
-
-Retrieval-label coverage is complete for 59/70 groups (177/210 queries) per architecture. The other 33 queries remain in the run with Hit/MRR missing. Judge failures, clarifications, incomplete answers and source-boundary transfer limitations are retained. Matched metric means use metric-specific shared eligible queries; they are descriptive and are not significance claims. Human employee auditing remains separate.
-
-Final answers and evaluator traces are under `experiments/t07-final-evaluation-v1/` and `experiments/t07-final-ragas-{a,b,c}-v1/`. Rejected evaluator experiments remain historical evidence, not active replacements. The optional 60-control review form is not a prerequisite for using these archived results. Do not rerun or tune the frozen systems based on final-test outcomes.
-
-## Where to work
-
-Open `D:\thesis\LGSDeliveryRAGAssistant-clean` in VS Code on the original workstation. The clean-development and evaluation-checkpoint branches preserve earlier snapshots. The `main` integration retains existing repository history; older compatibility files are not instructions to substitute superseded evaluation methods.
-
-| Purpose | Files |
-|---|---|
-| Application | `app/main.py`, `app/pipeline.py`, `app/static/index.html` |
-| Normalization | `src/query_normalizer.py`, `config/normalization_intent_candidate.txt` |
-| 120/20 token chunks and retrieval | `src/token_windows.py`, `src/chunk_retriever.py` |
-| Dictionary and original PDFs | `data/municipal_dictionary_v1.json`, `data/raw_charters/` |
-| Reviewed source staging | `experiments/table-repairs-staged-v2/source_pages.json` |
-| Repaired corpus and matching indices | `experiments/chapter3-table-repaired-development-v1/` |
-| Corrected reference answers and saved retrieval scores | `experiments/t06-formal-development-validation-v3/` |
-| Original generated answers | `experiments/t06-30group-development-batch-v1/interactions.jsonl` |
-| Offline RAGAS results and judge traces | `experiments/t06-ragas-90query-development-v1/` |
-| T06 checkpoint and limitations | `experiments/t06-validation-report-v1/` |
-
-## Compatibility boundaries
-
-The app still defaults to `experiments/chapter3-step2-development/`. That older matched artifact set remains solely to preserve existing app behavior. The repaired corpus and reviewed prompt were evaluated offline; they have not been promoted automatically. `EBOSS_ARTIFACT_DIR` changes corpus selection only, not normalization prompt selection.
-
-`build_chapter3_development.py` imports `INGESTION_CATALOG` from `scripts/ingest_eboss_corpus.py` and reads `config/pipeline_manifest.json`. Keep these dependencies; do not interpret the old manifest's frozen label as certification of the current results. Use the Chapter 3 builder, not the old ingester, for new artifacts.
-
-## Running and evaluating
-
-Install dependencies in a separate virtual environment, including the appropriate PyTorch build as noted in `requirements.txt`. Model weights and cached embeddings must be provisioned separately. Recorded package/model versions are in the RAGAS `runtime_identity.json`; requirements are not a complete platform lock.
-
-Run commands from this project root:
+Open PowerShell in this checkout, with Ollama running:
 
 ```powershell
-python -m uvicorn app.main:app --host 127.0.0.1 --port 8000
-python -B scripts/verify_chapter3_retrieval.py --artifacts experiments/chapter3-table-repaired-development-v1
+powershell -NoProfile -ExecutionPolicy Bypass -File .\START_DEMO.ps1
 ```
 
-For a NEW development batch (requires the configured local model server), choose a fresh output name:
+Open http://127.0.0.1:8000. Keep the terminal open. One inference request runs at a time.
+The launcher uses the existing `D:\thesis\venv` environment; a fresh clone on another machine requires dependencies and the registered model. The preflight checks model identity and research-file hashes. It does not certify answer correctness.
 
-```powershell
-python -B scripts/run_t06_chunk_development.py --output-name new-development-run --references experiments/t06-formal-development-validation-v3/development_groups.derived.json --prompt-file config/normalization_intent_candidate.txt
-```
+## What is current
 
-The runner now explicitly selects reference inputs, derives their metadata, and counts stopped queries with labels as zero Hit/MRR. Existing archived outputs were not regenerated or edited. No new model run was performed to prepare this branch.
+- Registered chunk retrieval: 120 tokens, 20-token overlap, K=3, BM25 .75 / dense .25 / dictionary retrieval boost 0. Dictionary-assisted normalization remains enabled.
+- Website runtime restored from the earlier operational `9d6b354` version, with the current lightweight reference display. Language adapter v2 is a post-study website change, not frozen T07 generation.
+- QA: 20 unit tests, 22 browser checks, 11 motion/accessibility checks and static build passed. Three real requests completed; factual grounding, ambiguity handling and Bislish fidelity still have documented failures.
+- Frozen evaluation outputs and previous experimental candidates remain archived. Experimental folders are not automatically active runtime settings.
+- Human-rating archives and automated RAGAS scores are different evidence. The later final manuscript has figures that differ from earlier archived human-analysis tables; reconcile their provenance before presenting the newer figures as reproduced results.
 
-## Methodology and limitations
+## Repository hygiene
 
-Chapter 3 uses 120-token chunks, 20-token overlap, chunk-level scoring and K=3/K=5. The main Thesis Tracker tab defines T06 as harness engineering; T07 frozen configuration comparison is separate. [Recorded methodology and tracker evidence](experiments/t06-formal-development-validation-v3/methodology_and_tracker.json) preserves their source hashes.
+Use this branch for the adviser demo. Historical branches remain checkpoints; do not delete them or use every experiment as a current instruction. `main` remains the earlier published checkpoint until integration is reviewed.
 
-The earlier 90-query K=5 development snapshot is historical. The reviewed v4 development references and later final K=3 A/B/C runs are linked above. Same-model judging, source-label transfer, BFP context separation and ambiguous source wording remain limitations; no claim of independent expert certification is made.
-
-`publication_manifest.json` records the original clean snapshot; it is historical, not an inventory of every later evaluation file. Later experiment manifests and seals record their own inputs and outputs. Older audits can reference workstation paths or evidence retained in the backup. Model binaries and caches are provisioned separately. Compatibility inputs retained from earlier `main` history must be checked against the registered run hashes before reuse.
-
-Current next steps are listed in the writing package guide above. Null-judge diagnosis, development tuning and final execution described in older notes have already been performed; do not restart them as a routine continuation step. Preserve all failures and held-out benchmarks.
+Raw private ratings, audit keys, local credentials and machine backups are excluded from this demo update. Aggregate results and review documents remain available through the links above. No new model evaluation or public-domain deployment is performed by this repository cleanup.
