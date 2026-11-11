@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "model_calls": 0,
+  "checks": [
+    "local GSAP and Lenis loaded",
+    "entrance settles; readable input",
+    "Lenis active on desktop information page",
+    "wheel scroll advances",
+    "motion opt-out persists and destroys Lenis",
+    "OS reduced motion overrides all effects",
+    "chat retains native scroll",
+    "mobile question form precedes suggestions",
+    "no horizontal overflow at 320/390/768",
+    "keyboard submission works",
+    "content/form remain usable if vendor scripts fail"
+  ],
+  "browser_errors": []
+}

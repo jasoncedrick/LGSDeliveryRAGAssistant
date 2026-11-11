@@ -1,0 +1,131 @@
+[
+  {
+    "language": "english",
+    "query": "What is the validity of an Excavation Permit?",
+    "seconds": 60.8,
+    "response": {
+      "state": "completed",
+      "result": {
+        "status": "ANSWERED",
+        "answer": "The validity of an Excavation Permit is not explicitly stated in the provided sources [S1] and [S2]. However, the context suggests that the permit is required prior to the commencement of excavation and construction [S1]. The permit may be issued while the application for a Building Permit is still being processed [S2]. For specific information about the permit's validity period, please refer to the detailed rules and regulations related to the Excavation Permit, which may not be included in the provided sources. [S1, S2]",
+        "clarification_prompt": null,
+        "citations": [
+          {
+            "citation": "S1",
+            "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+            "source_page": 524,
+            "pdf_relative_page": 36,
+            "text": "6. Issuance of Excavation Permit\nAn Excavation Permit shall be required prior to the commencement of excavation of the proposed \nproject and construction. \nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to \nBusiness; G2G – Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Excavation Permit form with 3 sets of \nCivil/Architectural Plans",
+            "source_url": "/sources/building.pdf#page=36"
+          },
+          {
+            "citation": "S2",
+            "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+            "source_page": 530,
+            "pdf_relative_page": 42,
+            "text": "EXCAVATION PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\nWhile the application for Building Permit is still being processed, the Building Official \nmay issue Ground Preparation and Excavation Permit (GP&EP) for foundation, subject \nto the verification, inspection and review by the Line and Grade Section of the \nInspection and Enforcement Division",
+            "source_url": "/sources/building.pdf#page=42"
+          },
+          {
+            "citation": "S3",
+            "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+            "source_page": 574,
+            "pdf_relative_page": 86,
+            "text": "(Trilon Guyed)\nUSE OR CHARACTER OF  \nOCCUPANCY SUPPORT\nSELF-\nSUPPORTING\nTRILON GUYED\nCommercial/Industrial (Groups B,E,F,G)  \n up to 10.00 meters in height\nPhp 2,400.00 \n240.00\nEvery meter or fraction thereof in \nexcess of 10.00 meters\nPhp 120.00 \n12.00\nAccessory fees\nGround Preparation and Excavation Fee\nWhile the application for building Permit is still being processed, the Building Official \nmay issue Ground Preparation and Excavation Permit (GP&",
+            "source_url": "/sources/building.pdf#page=86"
+          }
+        ],
+        "citation_labels_valid": true,
+        "response_language": "english",
+        "website_prompt_version": "website-response-language-v2",
+        "latency_seconds": 58.83
+      }
+    }
+  },
+  {
+    "language": "taglish",
+    "query": "Gaano katagal valid ang Excavation Permit?",
+    "seconds": 26.4,
+    "response": {
+      "state": "completed",
+      "result": {
+        "status": "ANSWERED",
+        "answer": "Ang Excavation Permit ay walang nakitang specific na mga pagkakaroon ng expiration date sa mga nakalaman sa Citizens' Charter. Ngunit, ang Excavation Permit ay maaaring maging valid lamang habang hindi pa tapos ang pag-proseso ng Building Permit. Ang Excavation Permit na ito ay maaaring ibigay ng Building Official habang may verification, inspection, at review pa lamang ng Line at Grade Section ng Inspection at Enforcement Division ([S1]). Sa iba't-ibang pagkakataon, ang Excavation Permit ay kailangan bago mag-commencement ng excavation at construction ([S2]). Ang Excavation Permit na ito ay maaaring maging valid lamang habang hindi pa tapos ang pag-proseso ng Building Permit, at maaaring maging ibinigay ng Building Official habang may Ground Preparation at Excavation Fee pa lamang ([S3]).",
+        "clarification_prompt": null,
+        "citations": [
+          {
+            "citation": "S1",
+            "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+            "source_page": 530,
+            "pdf_relative_page": 42,
+            "text": "EXCAVATION PERMIT NEW SCHEDULE OF FEES AND OTHER CHARGES OF THE \nREVISED IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE NATIONAL \nBUILDING CODE OF THE PHILIPPINES (PD 1096)\nWhile the application for Building Permit is still being processed, the Building Official \nmay issue Ground Preparation and Excavation Permit (GP&EP) for foundation, subject \nto the verification, inspection and review by the Line and Grade Section of the \nInspection and Enforcement Division",
+            "source_url": "/sources/building.pdf#page=42"
+          },
+          {
+            "citation": "S2",
+            "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+            "source_page": 524,
+            "pdf_relative_page": 36,
+            "text": "6. Issuance of Excavation Permit\nAn Excavation Permit shall be required prior to the commencement of excavation of the proposed \nproject and construction. \nOffice \nOffice of the City Building Official (OCBO)\nClassification \nHighly Technical\nType of Transaction \nG2C – Government to Citizen; G2B – Government to \nBusiness; G2G – Government to Government\nWho may avail \nAll\nCHECKLIST OF REQUIREMENTS \nWHERE TO SECURE\n1. Excavation Permit form with 3 sets of \nCivil/Architectural Plans",
+            "source_url": "/sources/building.pdf#page=36"
+          },
+          {
+            "citation": "S3",
+            "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+            "source_page": 574,
+            "pdf_relative_page": 86,
+            "text": "(Trilon Guyed)\nUSE OR CHARACTER OF  \nOCCUPANCY SUPPORT\nSELF-\nSUPPORTING\nTRILON GUYED\nCommercial/Industrial (Groups B,E,F,G)  \n up to 10.00 meters in height\nPhp 2,400.00 \n240.00\nEvery meter or fraction thereof in \nexcess of 10.00 meters\nPhp 120.00 \n12.00\nAccessory fees\nGround Preparation and Excavation Fee\nWhile the application for building Permit is still being processed, the Building Official \nmay issue Ground Preparation and Excavation Permit (GP&",
+            "source_url": "/sources/building.pdf#page=86"
+          }
+        ],
+        "citation_labels_valid": true,
+        "response_language": "taglish",
+        "website_prompt_version": "website-response-language-v2",
+        "latency_seconds": 23.33
+      }
+    }
+  },
+  {
+    "language": "bislish",
+    "query": "Unsa nga clearance ang kinahanglan?",
+    "seconds": 24.4,
+    "response": {
+      "state": "completed",
+      "result": {
+        "status": "ANSWERED",
+        "answer": "Ang kinahanglan nga clearance sa iyong application sa Fire Safety Evaluation Clearance (FSEC) sa Davao City ay ang mga dokumento sa building, electrical, mechanical, at plumbing. Iyong mga dokumento na ito makita mo sa Citizens' Charter 2022 ng BFP sa chunk DEV120-BFP-PDF0001-C028 at DEV120-BFP-PDF0001-C029 ([S1] at [S2]).",
+        "clarification_prompt": null,
+        "citations": [
+          {
+            "citation": "S1",
+            "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+            "source_page": null,
+            "pdf_relative_page": 1,
+            "text": "IRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n\n2) Civil documents\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n\n3) Electrical documents\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION",
+            "source_url": "/sources/fire.pdf#page=1"
+          },
+          {
+            "citation": "S2",
+            "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+            "source_page": null,
+            "pdf_relative_page": 1,
+            "text": "for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n\n4) Mechanical documents\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FSEC) APPLICATION. Other service cells are blank in source; blank is not an exemption statement.]\n\n5) Plumbing documents\n[REPRESENTATION: Matrix dot shown for: FIRE SAFETY EVALUATION CLEARANCE (FS",
+            "source_url": "/sources/fire.pdf#page=1"
+          },
+          {
+            "citation": "S3",
+            "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+            "source_page": 716,
+            "pdf_relative_page": 87,
+            "text": "golf course) (1 \nphotocopy)\nGolf Construction and \nDevelopment Committee\n37. \nCAAP Clearance / Building Height\nCertificate, whichever is applicable (1 \nphotocopy)\nCivil Aviation Authority of the \nPhilippines\n38. \nPPA Clearance (for ports and harbors)\n2. \nphotocopies)\nPhilippine Ports Authority\n39. \nClearance from National Power\nCorporation, if applicable (1 photocopy)\nNational Power Corporation\n40. \nPayment Receipt (1 photocopy) \nCity Treasurer’s Office\n41. \n10% socialized housing compliance for\nPD 957\nApplicant",
+            "source_url": "/sources/planning.pdf#page=87"
+          }
+        ],
+        "citation_labels_valid": true,
+        "response_language": "bislish",
+        "website_prompt_version": "website-response-language-v2",
+        "latency_seconds": 20.45
+      }
+    }
+  }
+]

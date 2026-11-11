@@ -87,8 +87,6 @@ def create_pipeline():
     pipeline.normalizer = module.QueryNormalizer(
         str(ROOT/'data/municipal_dictionary_v1.json'), ollama_api_url=pipeline.endpoint,
         model_name=pipeline.model_name, enable_context_rules=False, enable_fidelity_contract=False)
-    from app.website_normalizer import WebsiteNormalizer
-    pipeline.normalizer = WebsiteNormalizer(pipeline.normalizer)
     pipeline.top_k = 3
     pipeline.retriever.weights = np.asarray(candidate['weights_B_C'], dtype=float)
     pipeline.website_profile = {'configuration': 'B', 'k': 3, 'weights': candidate['weights_B_C'],
@@ -109,8 +107,7 @@ class Runtime:
     def load(self):
         try:
             self.pipeline = self.factory()
-            LOGGER.info('Citizen website ready: B retrieval, K=3, 120/20 windows; website prompt %s',
-                        self.pipeline.website_profile['website_prompt_version'])
+            LOGGER.info('Citizen website ready: B retrieval, K=3, 120/20 windows; website language prompt v2')
         except Exception:
             self.error = 'The source service needs attention. Please contact the researcher.'
             LOGGER.exception('Website runtime could not load')
@@ -166,7 +163,6 @@ def public_result(result):
         citations[-1]['source_url']=(f'/sources/{source_id}.pdf'+(f'#page={page}' if isinstance(page,int) and page>0 else '')) if source_id else None
     return {'status':result['status'], 'answer':result.get('answer',''),
             'clarification_prompt':result.get('clarification_prompt'), 'citations':citations,
-            'clarification_options':result.get('clarification_options', []),
             'citation_labels_valid':result.get('diagnostics',{}).get('citation_labels_valid'),
             'response_language':result.get('diagnostics',{}).get('response_language'),
             'website_prompt_version':result.get('diagnostics',{}).get('website_prompt_version'),

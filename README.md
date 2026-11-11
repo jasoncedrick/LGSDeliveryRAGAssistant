@@ -1,3 +1,5 @@
+> Adviser demo, 12 November 2026: start with [demo/DEMO_GUIDE.md](demo/DEMO_GUIDE.md). This checkout uses the documented website v2 adapter. Earlier instructions below are historical. Known answer failures remain.
+
 # LGSDeliveryRAGAssistant
 
 ## Team handoff - 29 October 2026

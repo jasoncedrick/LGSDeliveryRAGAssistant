@@ -1,3 +1,5 @@
+> Adviser demo, 12 November 2026: start with [demo/DEMO_GUIDE.md](demo/DEMO_GUIDE.md). This checkout uses the documented website v2 adapter. Earlier instructions below are historical. Known answer failures remain.
+
 # LGSDeliveryRAGAssistant: Claude Code handoff
 
 > **Live frontend update - 29 October 2026:** The lightweight reference UI from `9069b3d` is now live at `https://davaoragcitizencharter.com`, deployment `dpl_AbJnbvnBb9UtAd5ohiBo1jbHXb3d`. This was a static frontend deployment only. The existing PC backend/tunnel was preserved; the unapproved grounding candidate was not restarted or promoted. See `website/LIGHT_REFERENCES_DEPLOYMENT_QA.json` and the latest notice in `website/VERCEL_DEPLOYMENT.md`. The configured Git production branch remains the earlier deployment branch; record this CLI-published frontend version before any later redeployment.

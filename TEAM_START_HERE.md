@@ -1,3 +1,5 @@
+> Adviser demo, 12 November 2026: start with [demo/DEMO_GUIDE.md](demo/DEMO_GUIDE.md). This checkout uses the documented website v2 adapter. Earlier instructions below are historical. Known answer failures remain.
+
 # Human expert results and teammate handoff
 
 **Christian: yes, the human-rating results are in this branch.** Start with the results brief below, then the revised Chapters 4 and 5. These are the paper's human-audit results; the website dry run is a separate engineering experiment.
