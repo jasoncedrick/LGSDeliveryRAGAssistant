@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "synthetic": true,
+  "model_calls": 0,
+  "checks": [
+    "submit waits for initial readiness",
+    "desktop layout",
+    "topic suggestions",
+    "submit contract",
+    "language selector preserves original question",
+    "compact source names without PDF links or page numbers",
+    "passage text absent from citizen display",
+    "XSS text safety",
+    "new question reset",
+    "clarification handling",
+    "explicit choice edits full question without auto-submission",
+    "visible independent-question guidance",
+    "incomplete answer handling",
+    "five-source library",
+    "direct hash navigation",
+    "about page",
+    "mobile overflow",
+    "offline recovery",
+    "queue position and running progress",
+    "poll reconnection without duplicate submission",
+    "expired ticket preserves question",
+    "capacity error preserves question"
+  ],
+  "browser_errors": []
+}

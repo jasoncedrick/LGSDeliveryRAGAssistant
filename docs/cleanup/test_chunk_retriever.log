@@ -1,0 +1,13 @@
+test_constant_scores_and_no_dictionary_match (tests.test_chunk_retriever.ChunkRetrieverTests) ... ok
+test_hand_calculated_fusion_and_dense_row_mapping (tests.test_chunk_retriever.ChunkRetrieverTests) ... ok
+test_index_mismatch_and_invalid_dense_rows (tests.test_chunk_retriever.ChunkRetrieverTests) ... ok
+test_invalid_k_weights_and_chunk_configuration (tests.test_chunk_retriever.ChunkRetrieverTests) ... ok
+test_real_bm25_and_faiss_with_synthetic_vectors (tests.test_chunk_retriever.ChunkRetrieverTests) ... ok
+test_stable_ties_and_inputs_remain_unchanged (tests.test_chunk_retriever.ChunkRetrieverTests) ... ok
+test_token_audit_uses_actual_text (tests.test_chunk_retriever.ChunkRetrieverTests) ... ok
+test_zero_dictionary_weight_is_preserved (tests.test_chunk_retriever.ChunkRetrieverTests) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.080s
+
+OK

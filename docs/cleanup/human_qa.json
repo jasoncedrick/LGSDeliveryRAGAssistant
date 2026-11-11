@@ -1,0 +1,42 @@
+{
+  "imported_results_reproduced_exactly": true,
+  "records": 780,
+  "dimension_scores": 1320,
+  "raters": 3,
+  "scoring_provenance": "Researcher-supplied packets; this checks computation, not independent human authorship.",
+  "reliability": [
+    {
+      "module": "M1",
+      "dimension": "fidelity",
+      "unique_outputs": 80,
+      "raters": 3,
+      "ordinal_alpha": 0.5096562961324648,
+      "ci95_low": 0.10687791092465007,
+      "ci95_high": 0.7382466116493703,
+      "point_meets_080": false,
+      "ci_lower_meets_080": false
+    },
+    {
+      "module": "M2",
+      "dimension": "relevance",
+      "unique_outputs": 180,
+      "raters": 3,
+      "ordinal_alpha": 0.7712187651998332,
+      "ci95_low": 0.6999772625527679,
+      "ci95_high": 0.8278170913725329,
+      "point_meets_080": false,
+      "ci_lower_meets_080": false
+    },
+    {
+      "module": "M2",
+      "dimension": "faithfulness",
+      "unique_outputs": 180,
+      "raters": 3,
+      "ordinal_alpha": 0.7808536108831623,
+      "ci95_low": 0.6936933253576831,
+      "ci95_high": 0.8436077528530418,
+      "point_meets_080": false,
+      "ci_lower_meets_080": false
+    }
+  ]
+}

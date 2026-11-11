@@ -1,0 +1,530 @@
+[
+  {
+    "path": "scripts/generate_all_m4_figures.py",
+    "id": "1rdo-AYmBmNUpjqBgVldqQ4VRY9xVMQTs",
+    "url": "https://drive.google.com/file/d/1rdo-AYmBmNUpjqBgVldqQ4VRY9xVMQTs/view?usp=drivesdk",
+    "bytes": "10305",
+    "downloaded_bytes": 10305,
+    "sha256": "21c091fbcc43ad2f009d22d8c1100aae18ff67a4e07aaa239a99f69353adce87"
+  },
+  {
+    "path": "scripts/compute_m4_automated_stats.py",
+    "id": "1-QRTYtMviKSKvwklXPrtdI0ouiaBcK6w",
+    "url": "https://drive.google.com/file/d/1-QRTYtMviKSKvwklXPrtdI0ouiaBcK6w/view?usp=drivesdk",
+    "bytes": "10969",
+    "downloaded_bytes": 10969,
+    "sha256": "fed6358b54a7a8c3191bf0470e802923a985ee6ef1dac94e0d2f0b86639353b8"
+  },
+  {
+    "path": "scripts/run_final_human_rate_audit.py",
+    "id": "1VohcpHSeveHdZEMHFlAwiMYEgY5YO9-0",
+    "url": "https://drive.google.com/file/d/1VohcpHSeveHdZEMHFlAwiMYEgY5YO9-0/view?usp=drivesdk",
+    "bytes": "9967",
+    "downloaded_bytes": 10460,
+    "sha256": "e9247d6f4a5a539c94eaabd04dd8ab033129216063df4379794ff9a560ee89ae"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/results/figures/figure_4_7_master_dashboard.pdf",
+    "id": "1xeNCxCqflsYg-ew9OWWVeHGlJnF3w4TI",
+    "url": "https://drive.google.com/file/d/1xeNCxCqflsYg-ew9OWWVeHGlJnF3w4TI/view?usp=drivesdk",
+    "bytes": "44407",
+    "downloaded_bytes": 44407,
+    "sha256": "41a94900e10c0b4872e0ed423d2eec6beb4271754f6610f3f517ed38eaa80682"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/results/figures/figure_4_7_master_dashboard.png",
+    "id": "15lE-SBpr2gsOE32M6tnRfWMEgUaPrw7j",
+    "url": "https://drive.google.com/file/d/15lE-SBpr2gsOE32M6tnRfWMEgUaPrw7j/view?usp=drivesdk",
+    "bytes": "376022",
+    "downloaded_bytes": 376022,
+    "sha256": "1c93f6083488461e1aabae262e60ce3687a959daf7ea1bd03bfee934da63c2bc"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/results/figures/figure_4_6_paired_comparisons.pdf",
+    "id": "1wa7rEq0n5HP6NC9k6otR2kgGQUWIryBL",
+    "url": "https://drive.google.com/file/d/1wa7rEq0n5HP6NC9k6otR2kgGQUWIryBL/view?usp=drivesdk",
+    "bytes": "27224",
+    "downloaded_bytes": 27224,
+    "sha256": "0b0741fefaf8a9cb83cf54e7cfe26ca3b8915edaad320c2873a31e9c1c997f69"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/results/figures/figure_4_6_paired_comparisons.png",
+    "id": "1rE75zkgIN2Ybgw0CunBZ41jN6Uou2dVh",
+    "url": "https://drive.google.com/file/d/1rE75zkgIN2Ybgw0CunBZ41jN6Uou2dVh/view?usp=drivesdk",
+    "bytes": "203120",
+    "downloaded_bytes": 203120,
+    "sha256": "fb29dac72fedac48e48b8a5e2c07ceb2101d649678cbdb76d6d2c7a0ad8601cb"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/results/figures/figure_4_4_score_distributions.pdf",
+    "id": "1IWTvZw_iNXW7TYgVOuAEbDQTTnjAH-Ux",
+    "url": "https://drive.google.com/file/d/1IWTvZw_iNXW7TYgVOuAEbDQTTnjAH-Ux/view?usp=drivesdk",
+    "bytes": "40244",
+    "downloaded_bytes": 40244,
+    "sha256": "32ff66398489029a2d1379f26b076a76fd882db7c7e5577d41851595f2cbc09e"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/results/figures/figure_4_4_score_distributions.png",
+    "id": "1E14Li8Y8D-1D0dJ0wxznxi2pEn0-CXtl",
+    "url": "https://drive.google.com/file/d/1E14Li8Y8D-1D0dJ0wxznxi2pEn0-CXtl/view?usp=drivesdk",
+    "bytes": "309381",
+    "downloaded_bytes": 309381,
+    "sha256": "898f3eeac72e4ef1db189a9bce68cef31fee4e2d697ec33995e9c323220b9af7"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/results/figures/figure_4_3_agreement.pdf",
+    "id": "1OmtWN0DxmG6On_pxM4Gz3OZlFlvhYKWF",
+    "url": "https://drive.google.com/file/d/1OmtWN0DxmG6On_pxM4Gz3OZlFlvhYKWF/view?usp=drivesdk",
+    "bytes": "32556",
+    "downloaded_bytes": 32556,
+    "sha256": "a88cf24e2fc772e7d993061da87b321b89294c6074bb38d57345d92a9144246c"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/results/figures/figure_4_3_agreement.png",
+    "id": "1rlM7wHe5wqUj-AeVxXbx7cgKa6R9vTdM",
+    "url": "https://drive.google.com/file/d/1rlM7wHe5wqUj-AeVxXbx7cgKa6R9vTdM/view?usp=drivesdk",
+    "bytes": "176143",
+    "downloaded_bytes": 176143,
+    "sha256": "5d9daa1c0e06a31b6b15e1e9644c70d22ae80dbc1146f3a5cc2881656f3b8c77"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/results/figures/figure_4_2_human_means.pdf",
+    "id": "1elsnDsbELNXMldt1mKR8x-f-T33RzssD",
+    "url": "https://drive.google.com/file/d/1elsnDsbELNXMldt1mKR8x-f-T33RzssD/view?usp=drivesdk",
+    "bytes": "31621",
+    "downloaded_bytes": 31621,
+    "sha256": "2a170fd4b2a73ba050f60dc4e6088d77766abdd40947d7584c10d3185c183953"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/results/figures/figure_4_2_human_means.png",
+    "id": "1K6nBH0yo0EiNggffU9flx8P4s3P_aSNt",
+    "url": "https://drive.google.com/file/d/1K6nBH0yo0EiNggffU9flx8P4s3P_aSNt/view?usp=drivesdk",
+    "bytes": "259283",
+    "downloaded_bytes": 259283,
+    "sha256": "be5c584da6e4f6dac787cdf3673b5e432a06f93553ec0764d6e3abd142ca746a"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/results/figures/figure_4_5_language_breakdown.png",
+    "id": "177hLcDHyZV8kTg_onmdPhs7cGkcPAWdP",
+    "url": "https://drive.google.com/file/d/177hLcDHyZV8kTg_onmdPhs7cGkcPAWdP/view?usp=drivesdk",
+    "bytes": "299187",
+    "downloaded_bytes": 299187,
+    "sha256": "279c60c3c1099e21fd1754f3cc75a2eff594c96fb149990e609a1aafd1ba69d5"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/results/figures/figure_4_5_language_breakdown.pdf",
+    "id": "1I0rcCE2te6Zq1EfBUOqqJuFGeEDJjXL6",
+    "url": "https://drive.google.com/file/d/1I0rcCE2te6Zq1EfBUOqqJuFGeEDJjXL6/view?usp=drivesdk",
+    "bytes": "34110",
+    "downloaded_bytes": 34110,
+    "sha256": "dc15be8e6960a2b9ccb2da0280aca056154afb0004d18ffd3994e8558582e044"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/results/analysis_results.json",
+    "id": "1-BqGimc-0Xr7XAO9BZ_DSUgLwqCT6Uye",
+    "url": "https://drive.google.com/file/d/1-BqGimc-0Xr7XAO9BZ_DSUgLwqCT6Uye/view?usp=drivesdk",
+    "bytes": "15474",
+    "downloaded_bytes": 15474,
+    "sha256": "599bc21a7b2337c9313f0e6cffbfe2214ad2314e0d8c86c99c76b1f1b92f1a56"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/results/paired_comparisons.csv",
+    "id": "13GRegWrhukEs8LOJh7n9yNbAs4zPoO_I",
+    "url": "https://drive.google.com/file/d/13GRegWrhukEs8LOJh7n9yNbAs4zPoO_I/view?usp=drivesdk",
+    "bytes": "1340",
+    "downloaded_bytes": 1340,
+    "sha256": "ac5df6d497accda24f81f6004057a2e8e641d924f43d6f00d630354092b5a0a6"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/results/descriptive_scores.csv",
+    "id": "1DDDXUilpG_f5ELCk9LDFy_sg0CVbftFK",
+    "url": "https://drive.google.com/file/d/1DDDXUilpG_f5ELCk9LDFy_sg0CVbftFK/view?usp=drivesdk",
+    "bytes": "1927",
+    "downloaded_bytes": 1927,
+    "sha256": "cfe3003e11f042b7a77009cd43b2ae243a2927c7b2e424f067940cf1de936308"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/results/reliability.csv",
+    "id": "1abbYJy-mOnL_oJ2afgfJOUkyTkaz9xUF",
+    "url": "https://drive.google.com/file/d/1abbYJy-mOnL_oJ2afgfJOUkyTkaz9xUF/view?usp=drivesdk",
+    "bytes": "380",
+    "downloaded_bytes": 380,
+    "sha256": "2ee89bae25d2dc932fda0fe2fbdc417dda6d86afe22905a28062dd841b0e3bf5"
+  },
+  {
+    "path": "results/fig_heldout_language_breakdown.png",
+    "id": "1l-22qzCJv-nGGRsODAb4yHFh4DiTDwLT",
+    "url": "https://drive.google.com/file/d/1l-22qzCJv-nGGRsODAb4yHFh4DiTDwLT/view?usp=drivesdk",
+    "bytes": "231101",
+    "downloaded_bytes": 231101,
+    "sha256": "bf015474fde186fbe9ab1ea3ef640da7ccd064e8807b8bd01dab81df2de74f89"
+  },
+  {
+    "path": "results/fig_heldout_architecture_comparison.png",
+    "id": "1zb0PuRwURrwH4wMH0NkuORObf0BcDGy9",
+    "url": "https://drive.google.com/file/d/1zb0PuRwURrwH4wMH0NkuORObf0BcDGy9/view?usp=drivesdk",
+    "bytes": "261224",
+    "downloaded_bytes": 261224,
+    "sha256": "d2e1b655d050023188bba2e319b53481cec7ef6c66faff7c0dbb4754bec1537b"
+  },
+  {
+    "path": "results/figure_4_7_master_dashboard.pdf",
+    "id": "1gUWpYIOnfTFtLSZW5TKmAD-0S67PoTsv",
+    "url": "https://drive.google.com/file/d/1gUWpYIOnfTFtLSZW5TKmAD-0S67PoTsv/view?usp=drivesdk",
+    "bytes": "44407",
+    "downloaded_bytes": 44407,
+    "sha256": "41a94900e10c0b4872e0ed423d2eec6beb4271754f6610f3f517ed38eaa80682"
+  },
+  {
+    "path": "results/figure_4_7_master_dashboard.png",
+    "id": "1b9INsU-XMZBmKTE37-VJ5GVsD_lyeXYy",
+    "url": "https://drive.google.com/file/d/1b9INsU-XMZBmKTE37-VJ5GVsD_lyeXYy/view?usp=drivesdk",
+    "bytes": "376022",
+    "downloaded_bytes": 376022,
+    "sha256": "1c93f6083488461e1aabae262e60ce3687a959daf7ea1bd03bfee934da63c2bc"
+  },
+  {
+    "path": "results/figure_4_6_paired_comparisons.pdf",
+    "id": "1rHlDqlLDReLstEh-1l1_9Os6TAoD5rcV",
+    "url": "https://drive.google.com/file/d/1rHlDqlLDReLstEh-1l1_9Os6TAoD5rcV/view?usp=drivesdk",
+    "bytes": "27224",
+    "downloaded_bytes": 27224,
+    "sha256": "0b0741fefaf8a9cb83cf54e7cfe26ca3b8915edaad320c2873a31e9c1c997f69"
+  },
+  {
+    "path": "results/figure_4_6_paired_comparisons.png",
+    "id": "12YYrGKoNCEJCh-lKHIn2pVl3SViBBicX",
+    "url": "https://drive.google.com/file/d/12YYrGKoNCEJCh-lKHIn2pVl3SViBBicX/view?usp=drivesdk",
+    "bytes": "203120",
+    "downloaded_bytes": 203120,
+    "sha256": "fb29dac72fedac48e48b8a5e2c07ceb2101d649678cbdb76d6d2c7a0ad8601cb"
+  },
+  {
+    "path": "results/figure_4_4_score_distributions.pdf",
+    "id": "1bPoRn2Nld7-ccGztp3ePMe83HAxrue3H",
+    "url": "https://drive.google.com/file/d/1bPoRn2Nld7-ccGztp3ePMe83HAxrue3H/view?usp=drivesdk",
+    "bytes": "40244",
+    "downloaded_bytes": 40244,
+    "sha256": "32ff66398489029a2d1379f26b076a76fd882db7c7e5577d41851595f2cbc09e"
+  },
+  {
+    "path": "results/figure_4_4_score_distributions.png",
+    "id": "1mq75J5EmYoiR3MLyx2PibMLZEXKyObyO",
+    "url": "https://drive.google.com/file/d/1mq75J5EmYoiR3MLyx2PibMLZEXKyObyO/view?usp=drivesdk",
+    "bytes": "309381",
+    "downloaded_bytes": 309381,
+    "sha256": "898f3eeac72e4ef1db189a9bce68cef31fee4e2d697ec33995e9c323220b9af7"
+  },
+  {
+    "path": "results/figure_4_3_agreement.pdf",
+    "id": "1DUy1fYd-OBtAD4BmqIRQyCXqE_GRrT7F",
+    "url": "https://drive.google.com/file/d/1DUy1fYd-OBtAD4BmqIRQyCXqE_GRrT7F/view?usp=drivesdk",
+    "bytes": "32556",
+    "downloaded_bytes": 32556,
+    "sha256": "a88cf24e2fc772e7d993061da87b321b89294c6074bb38d57345d92a9144246c"
+  },
+  {
+    "path": "results/figure_4_3_agreement.png",
+    "id": "1v1WsTn3CuQqtZ1nD20ko40RO_mesmYmf",
+    "url": "https://drive.google.com/file/d/1v1WsTn3CuQqtZ1nD20ko40RO_mesmYmf/view?usp=drivesdk",
+    "bytes": "176143",
+    "downloaded_bytes": 176143,
+    "sha256": "5d9daa1c0e06a31b6b15e1e9644c70d22ae80dbc1146f3a5cc2881656f3b8c77"
+  },
+  {
+    "path": "results/figure_4_2_human_means.pdf",
+    "id": "1CWitkZFs1Gez11SmF-DFSxLRI3ZP_if_",
+    "url": "https://drive.google.com/file/d/1CWitkZFs1Gez11SmF-DFSxLRI3ZP_if_/view?usp=drivesdk",
+    "bytes": "31621",
+    "downloaded_bytes": 31621,
+    "sha256": "2a170fd4b2a73ba050f60dc4e6088d77766abdd40947d7584c10d3185c183953"
+  },
+  {
+    "path": "results/figure_4_2_human_means.png",
+    "id": "1_6ZR_WS5Hs3pmWc_RI5u24a7ENzye5-9",
+    "url": "https://drive.google.com/file/d/1_6ZR_WS5Hs3pmWc_RI5u24a7ENzye5-9/view?usp=drivesdk",
+    "bytes": "259283",
+    "downloaded_bytes": 259283,
+    "sha256": "be5c584da6e4f6dac787cdf3673b5e432a06f93553ec0764d6e3abd142ca746a"
+  },
+  {
+    "path": "results/3 fig_heldout_architecture_comparison.pdf",
+    "id": "1C_DlCezCByYJyztTbpCerdJOWcNO7fpy",
+    "url": "https://drive.google.com/file/d/1C_DlCezCByYJyztTbpCerdJOWcNO7fpy/view?usp=drivesdk",
+    "bytes": "41489",
+    "downloaded_bytes": 41489,
+    "sha256": "d18944be2b4588e0e10444b390ce3797e2731af29936c66262fded90a9d24050"
+  },
+  {
+    "path": "results/fig_heldout_architecture_comparison.pdf",
+    "id": "13E7QujLqrYdV_XN_1q-vAopGRMbL5WCX",
+    "url": "https://drive.google.com/file/d/13E7QujLqrYdV_XN_1q-vAopGRMbL5WCX/view?usp=drivesdk",
+    "bytes": "41489",
+    "downloaded_bytes": 41489,
+    "sha256": "d18944be2b4588e0e10444b390ce3797e2731af29936c66262fded90a9d24050"
+  },
+  {
+    "path": "results/4 fig_heldout_language_breakdown.pdf",
+    "id": "1KaV-Ces8d8b2FqK_-D7Z3bUv9ocPMH-D",
+    "url": "https://drive.google.com/file/d/1KaV-Ces8d8b2FqK_-D7Z3bUv9ocPMH-D/view?usp=drivesdk",
+    "bytes": "39503",
+    "downloaded_bytes": 39503,
+    "sha256": "aa567bd703900cf06a740b7428467c658dba6660adce40cb52c28578bbf7ea58"
+  },
+  {
+    "path": "results/fig_heldout_language_breakdown.pdf",
+    "id": "18ix2_snQ37uzJn9Bt4DrHeic_W4Aen1u",
+    "url": "https://drive.google.com/file/d/18ix2_snQ37uzJn9Bt4DrHeic_W4Aen1u/view?usp=drivesdk",
+    "bytes": "39503",
+    "downloaded_bytes": 39503,
+    "sha256": "aa567bd703900cf06a740b7428467c658dba6660adce40cb52c28578bbf7ea58"
+  },
+  {
+    "path": "results/figure_4_5_language_breakdown.png",
+    "id": "1NMzSAIL0SfL2CU4IaEDu88VeOWkmbZg-",
+    "url": "https://drive.google.com/file/d/1NMzSAIL0SfL2CU4IaEDu88VeOWkmbZg-/view?usp=drivesdk",
+    "bytes": "299187",
+    "downloaded_bytes": 299187,
+    "sha256": "279c60c3c1099e21fd1754f3cc75a2eff594c96fb149990e609a1aafd1ba69d5"
+  },
+  {
+    "path": "results/figure_4_5_language_breakdown.pdf",
+    "id": "1rEaBWa6BA-QtFFzb48Of6E1S4pyhEnFo",
+    "url": "https://drive.google.com/file/d/1rEaBWa6BA-QtFFzb48Of6E1S4pyhEnFo/view?usp=drivesdk",
+    "bytes": "34110",
+    "downloaded_bytes": 34110,
+    "sha256": "dc15be8e6960a2b9ccb2da0280aca056154afb0004d18ffd3994e8558582e044"
+  },
+  {
+    "path": "results/m4_automated_statistical_summary.json",
+    "id": "1qbcP3SDsn_CsMKaD5a9Lpx_htFuvph1H",
+    "url": "https://drive.google.com/file/d/1qbcP3SDsn_CsMKaD5a9Lpx_htFuvph1H/view?usp=drivesdk",
+    "bytes": "40389",
+    "downloaded_bytes": 40389,
+    "sha256": "68f274d99f750b820a68e9176769a66de98f2404da33d1b17ffd54ffd5c55bd8"
+  },
+  {
+    "path": "results/fig_dev_hyperparameter_grid.pdf",
+    "id": "1LMVd1QK1cZgLDlYnghGptIFFgVj5c30H",
+    "url": "https://drive.google.com/file/d/1LMVd1QK1cZgLDlYnghGptIFFgVj5c30H/view?usp=drivesdk",
+    "bytes": "35565",
+    "downloaded_bytes": 35565,
+    "sha256": "402d2a8229d4c117367cfedb7227025d54418ffecb0806193428a10141bcb9da"
+  },
+  {
+    "path": "results/fig_dev_hyperparameter_grid.png",
+    "id": "1ikAxGEYK9qXoPLPFFP95mYM6olhrxblY",
+    "url": "https://drive.google.com/file/d/1ikAxGEYK9qXoPLPFFP95mYM6olhrxblY/view?usp=drivesdk",
+    "bytes": "228681",
+    "downloaded_bytes": 228681,
+    "sha256": "bab452cffe4fc7d296c171b197fb90905c8e24bc78b899a46cbe00e31921fbbe"
+  },
+  {
+    "path": "results/fig_dev_architecture_comparison.pdf",
+    "id": "1eDKE3ftX3AjML65PPHo0IqBIVsZaBwmK",
+    "url": "https://drive.google.com/file/d/1eDKE3ftX3AjML65PPHo0IqBIVsZaBwmK/view?usp=drivesdk",
+    "bytes": "36452",
+    "downloaded_bytes": 36452,
+    "sha256": "a0ea73b477824df2f9bd89924aa98c0cab26aa93120270b4b07cb0411dc3a44f"
+  },
+  {
+    "path": "results/fig_dev_architecture_comparison.png",
+    "id": "1bc-bCZrIzq01dFIlYl_P146IY4ghZqhf",
+    "url": "https://drive.google.com/file/d/1bc-bCZrIzq01dFIlYl_P146IY4ghZqhf/view?usp=drivesdk",
+    "bytes": "186900",
+    "downloaded_bytes": 186900,
+    "sha256": "f3ed45270599e0fa853a90dbbda32439a5966dd5d46f06c6a3166dd17e930ba9"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/raw_packets/R03-M2/R03-M2-final-2026-10-30T13-03-31.903Z.csv",
+    "id": "1GnT0d2b0fuo741lVMOsXgYeLJ0aI9wjV",
+    "url": "https://drive.google.com/file/d/1GnT0d2b0fuo741lVMOsXgYeLJ0aI9wjV/view?usp=drivesdk",
+    "bytes": "36718",
+    "downloaded_bytes": 36718,
+    "sha256": "614d4f662dc17cdd432426b836553ba54224fb33b124fcc7dee559f5ce8bdfed"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/raw_packets/R03-M2/R03-M2-final-2026-10-30T13-03-31.280Z.json",
+    "id": "1cBI2tW2hJO4NJYEYHD6CgfCydd7VwmV8",
+    "url": "https://drive.google.com/file/d/1cBI2tW2hJO4NJYEYHD6CgfCydd7VwmV8/view?usp=drivesdk",
+    "bytes": "132611",
+    "downloaded_bytes": 132611,
+    "sha256": "5e223d840629999be3afa6953e484928073f1ed17ff54fee2aa722675ce58632"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/raw_packets/R03-M2/index.html",
+    "id": "1Su0pueFMk-c_ttCoRX0S9u_5IBEfU_C6",
+    "url": "https://drive.google.com/file/d/1Su0pueFMk-c_ttCoRX0S9u_5IBEfU_C6/view?usp=drivesdk",
+    "bytes": "501880",
+    "downloaded_bytes": 501880,
+    "sha256": "7ad77ae1d3da987271085d841c37809d53fa82d17f4f93057dc4b819210fb8a5"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/raw_packets/R03-M2/packet.json",
+    "id": "10NSpi0bkvDIPSkUbdKg4iKK1Yx4gwE6A",
+    "url": "https://drive.google.com/file/d/10NSpi0bkvDIPSkUbdKg4iKK1Yx4gwE6A/view?usp=drivesdk",
+    "bytes": "569139",
+    "downloaded_bytes": 569139,
+    "sha256": "bbaf08e45614680e16fb453ff95e0ea2623fe47fbeae8beb59447676fe878d12"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/raw_packets/R02-M1/R02-M1-final-2026-10-29T19-57-20.889Z.csv",
+    "id": "1OefgO3Vc6V1hNCmS473k8csFMEXwQird",
+    "url": "https://drive.google.com/file/d/1OefgO3Vc6V1hNCmS473k8csFMEXwQird/view?usp=drivesdk",
+    "bytes": "17638",
+    "downloaded_bytes": 17638,
+    "sha256": "a910d37c63ff94a50afb1b0d4c289ee1edfcfdd6884f2dc91db5d2567c073f17"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/raw_packets/R02-M1/R02-M1-final-2026-10-29T19-57-20.013Z.json",
+    "id": "1O035kZ_2umv8pMnrBgzEHLPOs0sk_diQ",
+    "url": "https://drive.google.com/file/d/1O035kZ_2umv8pMnrBgzEHLPOs0sk_diQ/view?usp=drivesdk",
+    "bytes": "54004",
+    "downloaded_bytes": 54004,
+    "sha256": "65b502335cb1ab1e743afc39c503b12417112014a0b73d9c847270b94ae9478e"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/raw_packets/R02-M1/index.html",
+    "id": "19UtQTxzZgppEcbo3xg4mIT4kf1uWDjuL",
+    "url": "https://drive.google.com/file/d/19UtQTxzZgppEcbo3xg4mIT4kf1uWDjuL/view?usp=drivesdk",
+    "bytes": "46751",
+    "downloaded_bytes": 46751,
+    "sha256": "5f05b936d80701f84db2767df8dd5403fc55ca5855df47fea1d878b2c92fb8fb"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/raw_packets/R02-M1/packet.json",
+    "id": "1NjYOfNnrx3uYBbC7prUVV48K6s_YDc_H",
+    "url": "https://drive.google.com/file/d/1NjYOfNnrx3uYBbC7prUVV48K6s_YDc_H/view?usp=drivesdk",
+    "bytes": "41247",
+    "downloaded_bytes": 41247,
+    "sha256": "2a4d77d13e4d318abdc0fe447c56014095ab8e774481c8c0b5625f8a9bad71c9"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/raw_packets/R02-M2/R02-M2-final-2026-10-30T13-03-00.933Z.csv",
+    "id": "1JWGjz2LjtPvq4qHQYQISlYKMxZMvugU7",
+    "url": "https://drive.google.com/file/d/1JWGjz2LjtPvq4qHQYQISlYKMxZMvugU7/view?usp=drivesdk",
+    "bytes": "36718",
+    "downloaded_bytes": 36718,
+    "sha256": "7e8dfe37d9473aea605d3265402c46a4dd11c36bda55d253e9fdf431b2e1d089"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/raw_packets/R02-M2/R02-M2-final-2026-10-30T13-02-59.949Z.json",
+    "id": "1m4MY6F-Xnq-ypf2-qPsHK1nSU7ty8esE",
+    "url": "https://drive.google.com/file/d/1m4MY6F-Xnq-ypf2-qPsHK1nSU7ty8esE/view?usp=drivesdk",
+    "bytes": "132612",
+    "downloaded_bytes": 132612,
+    "sha256": "83107ebfba210db7cbb1a8ca62a8f5de6e7d8e1bb5ab4d62738655008d23f5c6"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/raw_packets/R02-M2/index.html",
+    "id": "1dzP1Ff_ISvEXY7y4X_1_A4QYqx-O7iaC",
+    "url": "https://drive.google.com/file/d/1dzP1Ff_ISvEXY7y4X_1_A4QYqx-O7iaC/view?usp=drivesdk",
+    "bytes": "501880",
+    "downloaded_bytes": 501880,
+    "sha256": "756fa8c0f0f2aebe3c8559177452ee520a51f03fc750868339dc53eb3d33416c"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/raw_packets/R02-M2/packet.json",
+    "id": "1Uuf05Et0yv7mUrpGVjj3Z1ZdmDk71K9n",
+    "url": "https://drive.google.com/file/d/1Uuf05Et0yv7mUrpGVjj3Z1ZdmDk71K9n/view?usp=drivesdk",
+    "bytes": "569139",
+    "downloaded_bytes": 569139,
+    "sha256": "f64d1dda4fc6b39d62e92934b13a0503c3725c041d5db3093715c75d33efe312"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/raw_packets/R03-M1/R03-M1-final-2026-10-29T20-31-03.586Z.csv",
+    "id": "18oM_GPYFZetx0o-Mq6T1m0eL3QMgiPhg",
+    "url": "https://drive.google.com/file/d/18oM_GPYFZetx0o-Mq6T1m0eL3QMgiPhg/view?usp=drivesdk",
+    "bytes": "17525",
+    "downloaded_bytes": 17525,
+    "sha256": "6f2ce202011d413d41c42e330dcf0b1e7f1e85745f64eaa5db986dbc70c2a5e9"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/raw_packets/R03-M1/R03-M1-final-2026-10-29T20-31-02.928Z.json",
+    "id": "1P1WRvjktXHs3yS1y1CE-bYB7aBMCMuG3",
+    "url": "https://drive.google.com/file/d/1P1WRvjktXHs3yS1y1CE-bYB7aBMCMuG3/view?usp=drivesdk",
+    "bytes": "53778",
+    "downloaded_bytes": 53778,
+    "sha256": "d5bb7b368b5a58e2d3636cd467c74711db3b7ba19757485f859031928a96f1a4"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/raw_packets/R03-M1/index.html",
+    "id": "1-bdHelPFkyW-d1URUtuCRQ2yfrxKkT6t",
+    "url": "https://drive.google.com/file/d/1-bdHelPFkyW-d1URUtuCRQ2yfrxKkT6t/view?usp=drivesdk",
+    "bytes": "46751",
+    "downloaded_bytes": 46751,
+    "sha256": "6fe58ea2686fce36e43b3dbc4a796dfde6ffe428f44984a597184c7c605f3f66"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/raw_packets/R03-M1/packet.json",
+    "id": "1haZxFs5h9jcWWKd6IRGhDu4x3tSp5ZZW",
+    "url": "https://drive.google.com/file/d/1haZxFs5h9jcWWKd6IRGhDu4x3tSp5ZZW/view?usp=drivesdk",
+    "bytes": "41247",
+    "downloaded_bytes": 41247,
+    "sha256": "8b131235ffe6186c8f838f02f6c03a6c20aa499e3ac25c3e5bc906ff6050ca34"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/raw_packets/R01-M1/R01-M1-final-2026-10-29T15-18-48.316Z.csv",
+    "id": "1OSyrvQdmXMqVzGVD-3umnj6y_F4rbHgR",
+    "url": "https://drive.google.com/file/d/1OSyrvQdmXMqVzGVD-3umnj6y_F4rbHgR/view?usp=drivesdk",
+    "bytes": "17921",
+    "downloaded_bytes": 17921,
+    "sha256": "db757399da1ae63fe5e207a51510de0577b63b05398669075c912524b08671df"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/raw_packets/R01-M1/R01-M1-final-2026-10-29T15-18-43.917Z.json",
+    "id": "1Kru6vkB0RmnrVgxQU5johTSExAilliuX",
+    "url": "https://drive.google.com/file/d/1Kru6vkB0RmnrVgxQU5johTSExAilliuX/view?usp=drivesdk",
+    "bytes": "54570",
+    "downloaded_bytes": 54570,
+    "sha256": "2f2818bc7cf5b7a18f503726599479b7a07f5b2d2381c4fcc43db1d6195aeff7"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/raw_packets/R01-M1/index.html",
+    "id": "1--BwyP7kdkYAhY2nu_zMRH7HjItNyy7Y",
+    "url": "https://drive.google.com/file/d/1--BwyP7kdkYAhY2nu_zMRH7HjItNyy7Y/view?usp=drivesdk",
+    "bytes": "46751",
+    "downloaded_bytes": 46751,
+    "sha256": "b91243d74acbca6af00e1eebedfc9ca1fc2e484a13f1c4ee555b9ac5c1731de0"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/raw_packets/R01-M1/packet.json",
+    "id": "1LtehyUwKKve22OZYk9AqtFLNDymXfRi0",
+    "url": "https://drive.google.com/file/d/1LtehyUwKKve22OZYk9AqtFLNDymXfRi0/view?usp=drivesdk",
+    "bytes": "41247",
+    "downloaded_bytes": 41247,
+    "sha256": "4a6ce15c64b6ac7574e7a81e5574c4a6201ca695f28b9734bad68ac1fd80ae8f"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/raw_packets/R01-M2/R01-M2-final-2026-10-30T13-02-24.981Z.csv",
+    "id": "1vI4hLEvBM7NuYG6yY6h_wQ7jVk2B8XsU",
+    "url": "https://drive.google.com/file/d/1vI4hLEvBM7NuYG6yY6h_wQ7jVk2B8XsU/view?usp=drivesdk",
+    "bytes": "36718",
+    "downloaded_bytes": 36718,
+    "sha256": "3ee8b899d362b893437e1bf5ea4ca34efa4ab32a8ae5dc9d8b38b6d0db06a3f9"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/raw_packets/R01-M2/R01-M2-final-2026-10-30T13-02-24.093Z.json",
+    "id": "1w6yxVa4ePrDZqT4sEKbOdSPMJW8UJRQZ",
+    "url": "https://drive.google.com/file/d/1w6yxVa4ePrDZqT4sEKbOdSPMJW8UJRQZ/view?usp=drivesdk",
+    "bytes": "132612",
+    "downloaded_bytes": 132612,
+    "sha256": "6fb14bf568201f89ab31981a096140c576868e2d7ba7df4c0a877b0e9376f63b"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/raw_packets/R01-M2/index.html",
+    "id": "1O0zptnnGfPTCOJ3wYsLEuWhBp9bZKmEU",
+    "url": "https://drive.google.com/file/d/1O0zptnnGfPTCOJ3wYsLEuWhBp9bZKmEU/view?usp=drivesdk",
+    "bytes": "501880",
+    "downloaded_bytes": 501880,
+    "sha256": "b6323deefa0035afd366e23bc949ff7193ea714f94879d011deb5659267fbc2f"
+  },
+  {
+    "path": "experiments/final-human-audit-20261030/raw_packets/R01-M2/packet.json",
+    "id": "1pS6--c-13-fNan1-U0qNg8wHIoIA5g_6",
+    "url": "https://drive.google.com/file/d/1pS6--c-13-fNan1-U0qNg8wHIoIA5g_6/view?usp=drivesdk",
+    "bytes": "569139",
+    "downloaded_bytes": 569139,
+    "sha256": "802ec24a69e68297eb467988e479d4770bf721d183d547215e91a597c8042751"
+  }
+]

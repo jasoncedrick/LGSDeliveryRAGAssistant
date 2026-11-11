@@ -1,0 +1,18 @@
+Total unique held-out test queries: 210
+Dispositions Config A: {'ANSWERED': 209, 'GENERATION_INCOMPLETE': 1}
+Dispositions Config B: {'ANSWERED': 204, 'CLARIFICATION_REQUIRED': 5, 'GENERATION_INCOMPLETE': 1}
+Dispositions Config C: {'ANSWERED': 203, 'CLARIFICATION_REQUIRED': 5, 'GENERATION_INCOMPLETE': 2}
+Clarification required in B (5 queries): ['SCENARIO-CPDO-009-bislish', 'SCENARIO-CTO-018-bislish', 'SCENARIO-CTO-019-bislish', 'SCENARIO-CTO-019-taglish', 'SCENARIO-CTO-020-bislish']
+
+=== ALL-VALID PER-CONFIG MEAN +/- SD ===
+hit_at_1           | A: 0.2048 +/- 0.4045 (n=210) | B: 0.4810 +/- 0.5008 (n=210) | C: 0.4714 +/- 0.5004 (n=210)
+hit_at_k           | A: 0.5762 +/- 0.4953 (n=210) | B: 0.6810 +/- 0.4672 (n=210) | C: 0.6857 +/- 0.4653 (n=210)
+mrr_at_k           | A: 0.3659 +/- 0.3794 (n=210) | B: 0.5714 +/- 0.4443 (n=210) | C: 0.5659 +/- 0.4417 (n=210)
+context_precision  | A: 0.8505 +/- 0.2505 (n=209) | B: 0.9199 +/- 0.2000 (n=204) | C: 0.9175 +/- 0.2007 (n=203)
+context_recall     | A: 0.8355 +/- 0.3136 (n=209) | B: 0.8398 +/- 0.2926 (n=204) | C: 0.8423 +/- 0.2882 (n=203)
+faithfulness       | A: 0.7450 +/- 0.3495 (n=205) | B: 0.7588 +/- 0.3256 (n=196) | C: 0.7566 +/- 0.3297 (n=197)
+answer_relevancy   | A: 0.5685 +/- 0.3187 (n=209) | B: 0.5824 +/- 0.3000 (n=204) | C: 0.5961 +/- 0.2884 (n=203)
+
+=== MATCHED COMPLETE-CASE MEAN +/- SD & STATISTICAL TESTS (Ch 3 Sec 3.2.11) ===
+
+Saved complete D:\thesis\LGSDeliveryRAGAssistant-release-20261112\tmp\automated-reproduction-20261112\m4_automated_statistical_summary.json!

@@ -1,6 +1,6 @@
 # Adviser demo: 12 November 2026
 
-Use **D:\thesis\LGSDeliveryRAGAssistant-demo-20261112**, branch `demo/adviser-20261112`.
+Use **D:\thesis\LGSDeliveryRAGAssistant-release-20261112**, branch `release/clean-adviser-20261112`.
 This is an isolated local demo checkout. Other repositories contain research history; do not delete them or launch competing servers.
 
 ## Start and recover
@@ -9,7 +9,7 @@ This is an isolated local demo checkout. Other repositories contain research his
 2. Open PowerShell and run:
 
 ```powershell
-Set-Location D:\thesis\LGSDeliveryRAGAssistant-demo-20261112
+Set-Location D:\thesis\LGSDeliveryRAGAssistant-release-20261112
 powershell -NoProfile -ExecutionPolicy Bypass -File .\START_DEMO.ps1
 ```
 
@@ -37,10 +37,12 @@ The demo retains the registered 120-token/20-overlap corpus and chunk-level retr
 
 Base checkout: `a64fd61`. Website runtime and language wrapper restored from `9d6b354`; newer lightweight UI retained. The newer unapproved development backend is not promoted. The website uses `website-response-language-v2`, a post-study language adapter; this is not an exact replay of frozen T07 generation. Frozen code, corpus, indices and evaluation records are not rewritten.
 
-Original manuscript: `D:\thesis\20260923.pdf`, Chapter 3; reference snapshots and the documented audit amendment remain in experiments. The later 20261031 final draft contains human-rating figures that differ from the earlier archived human-analysis tables. Their provenance needs reconciliation before claiming the newer tables were reproduced. This demo does not settle that discrepancy or revise the paper.
+Original manuscript: `D:\thesis\20260923.pdf`, Chapter 3; reference snapshots and the documented audit amendment remain in experiments. The supplied October 30 human tables now reproduce exactly from the provided raw packets. Use experiments/final-human-audit-20261030/results, not the superseded October 28-29 analysis. Reliability values remain below .80. This verifies computation, not independent authorship.
 
 ## Readiness and known limits
 
 Runtime and interface checks pass; answer quality has **not** passed a comprehensive acceptance test. The three live smoke requests completed, but two exposed substantive problems: unsupported validity inference and missed ambiguity (plus weak Bislish language fidelity and leaked chunk IDs). These are retained unchanged in QA evidence. Citation-label validity is a formatting check, not a support judgment.
 
 The site is visibly a research prototype. It does not issue permits or provide official determinations. No extra model concurrency, new evaluation run, or fabricated ratings are introduced for this demo.
+
+Use [DEMO_QUERIES.md](DEMO_QUERIES.md) for 15 prepared questions covering all five offices.

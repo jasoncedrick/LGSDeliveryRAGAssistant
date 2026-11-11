@@ -1,43 +1,35 @@
 # LGSDeliveryRAGAssistant
 
-Davao City Citizen Charter research assistant: English, Taglish and Bislish.
+Davao City Citizen Charter research assistant for English, Taglish and Bislish.
 
-**Adviser demo: 12 November 2026.** This branch is `demo/adviser-20261112`.
-It is an operational research prototype with documented answer-quality failures, not an official city service.
+This release follows Christian's CLEAN guide while preserving the working citizen website and registered thesis artifacts. Historical drafts and diagnostics are available at the Git tag `archive/pre-clean-demo-20261112`.
 
 ## Start here
 
-| What you need | Where to open |
+| Purpose | Open |
 | --- | --- |
-| Run and present the demo | [Demo guide](demo/DEMO_GUIDE.md) |
-| Checks and known failures | [QA report](demo/qa/QA_REPORT.json), [live smoke responses](demo/qa/live_smoke.json) |
-| Human-rating analysis archive | [T10-T12 report](experiments/t10-t12-human-analysis-v1/T10_T12_REPORT.md) |
-| Automated A/B/C results | [T07 execution report](experiments/t07-final-evaluation-v1/T07_EXECUTION_REPORT.txt) |
-| Paper and team handoff | [Team guide](TEAM_START_HERE.md) |
-| Local repository map | [Repository map](demo/REPOSITORY_MAP.md) |
-| Earlier implementation notes | [Historical README](demo/HISTORICAL_README.md) |
+| Present the assistant | [Demo guide](demo/DEMO_GUIDE.md) |
+| English, Taglish, Bislish questions | [Demo queries](demo/DEMO_QUERIES.md) |
+| Current October 30 human results | [Results guide](experiments/final-human-audit-20261030/README.md) |
+| Automated statistical summary and figures | [Results](results/) |
+| Cleanup, exceptions and QA | [Release notes](docs/cleanup/RELEASE_NOTES.md) |
+| Frozen A/B/C evaluation | [Execution report](experiments/t07-final-evaluation-v1/T07_EXECUTION_REPORT.txt) |
 
-## Run on the prepared demo laptop
+## Run the demo
 
-Open PowerShell in this checkout, with Ollama running:
+On the prepared laptop, open PowerShell in this repository with Ollama running:
 
 ```powershell
 powershell -NoProfile -ExecutionPolicy Bypass -File .\START_DEMO.ps1
 ```
 
-Open http://127.0.0.1:8000. Keep the terminal open. One inference request runs at a time.
-The launcher uses the existing `D:\thesis\venv` environment; a fresh clone on another machine requires dependencies and the registered model. The preflight checks model identity and research-file hashes. It does not certify answer correctness.
+Open http://127.0.0.1:8000. Keep the terminal open. Only one inference request runs at a time.
+The launcher uses the existing `D:\thesis\venv` environment. Other machines need the Python requirements, cached embedding model and registered eboss-mistral model. A clone alone does not include model weights or private rater packets.
 
-## What is current
+## Evidence and limitations
 
-- Registered chunk retrieval: 120 tokens, 20-token overlap, K=3, BM25 .75 / dense .25 / dictionary retrieval boost 0. Dictionary-assisted normalization remains enabled.
-- Website runtime restored from the earlier operational `9d6b354` version, with the current lightweight reference display. Language adapter v2 is a post-study website change, not frozen T07 generation.
-- QA: 20 unit tests, 22 browser checks, 11 motion/accessibility checks and static build passed. Three real requests completed; factual grounding, ambiguity handling and Bislish fidelity still have documented failures.
-- Frozen evaluation outputs and previous experimental candidates remain archived. Experimental folders are not automatically active runtime settings.
-- Human-rating archives and automated RAGAS scores are different evidence. The later final manuscript has figures that differ from earlier archived human-analysis tables; reconcile their provenance before presenting the newer figures as reproduced results.
+The registered runtime retains 120-token windows, 20-token overlap, chunk-level scoring and K=3. The corpus actually contains **1,082 chunks**; the supplied guide's 1,032 figure is not supported by the registered files. Website language adapter v2 is separate from frozen study generation. Live answers can still make unsupported claims or miss ambiguity; this is a research prototype, not an official city service.
 
-## Repository hygiene
+The October 30 human aggregate tables and automated summary were reproduced exactly from the supplied packets and archived runs. This verifies calculations, not independent human authorship. Human reliability is .510/.771/.781, all below .80; do not repeat the conflicting reliability claim in the cleanup guide. See the results guide for descriptive and paired-comparison interpretation.
 
-Use this branch for the adviser demo. Historical branches remain checkpoints; do not delete them or use every experiment as a current instruction. `main` remains the earlier published checkpoint until integration is reviewed.
-
-Raw private ratings, audit keys, local credentials and machine backups are excluded from this demo update. Aggregate results and review documents remain available through the links above. No new model evaluation or public-domain deployment is performed by this repository cleanup.
+Raw rating packets remain private and ignored by Git. No frozen scores, references or model outputs were rewritten. No new model evaluation was run for cleanup.

@@ -1,0 +1,7 @@
+test_failed_scores_are_null_not_zero (tests.test_ragas_score_serialization.JudgeFailureTests) ... ok
+test_zero_is_valid_score (tests.test_ragas_score_serialization.JudgeFailureTests) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.000s
+
+OK

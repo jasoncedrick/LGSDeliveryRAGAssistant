@@ -1,0 +1,8 @@
+test_ordered_precision_and_missing_outputs (tests.test_context_precision_judge_v2.ContextPrecisionJudgeV2Tests) ... ok
+test_reference_is_separate_from_last_evidence_block (tests.test_context_precision_judge_v2.ContextPrecisionJudgeV2Tests) ... ok
+test_source_template_tokens_are_not_interpreted (tests.test_context_precision_judge_v2.ContextPrecisionJudgeV2Tests) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK

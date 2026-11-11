@@ -1,0 +1,5 @@
+{
+  "script": "scripts\\run_final_human_rate_audit.py",
+  "supplied_sha256": "68b58607e5d314156a1e7fed33a75aaffdef9752d59cfdced2e65f5ef3b02b02",
+  "change": "Require a fresh --output-dir; computation and scores unchanged."
+}

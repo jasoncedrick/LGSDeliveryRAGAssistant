@@ -1,1 +1,0 @@
-All 17 registered weight settings and K=3/5 tested for both B/C across 90 development queries. No weights selected: Hit/MRR are diagnostics, not the Chapter 3 context-precision objective. Semantic normalization failures remain a promotion blocker. No answer generation or judge calls were made.

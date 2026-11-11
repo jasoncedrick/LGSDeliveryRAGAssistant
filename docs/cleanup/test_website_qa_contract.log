@@ -1,0 +1,16 @@
+test_completed_resume_never_loads_model (tests.test_website_qa_contract.QAContractTests) ... Loading registered pipeline; 1 cases, 0 archived
+[1/1] Q001 START
+[1/1] Q001 ANSWERED 0.0s
+COMPLETE. Execution completion is not answer-quality approval.
+COMPLETE: existing records verified; no model loaded or called.
+ok
+test_exception_is_not_a_clean_completion (tests.test_website_qa_contract.QAContractTests) ... ok
+test_full_input_unique_and_nonempty (tests.test_website_qa_contract.QAContractTests) ... ok
+test_resume_rejects_duplicate_mismatched_and_foreign_records (tests.test_website_qa_contract.QAContractTests) ... ok
+test_selection_rejects_typos_and_duplicate_requests (tests.test_website_qa_contract.QAContractTests) ... ok
+test_truncated_record_is_preserved (tests.test_website_qa_contract.QAContractTests) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.562s
+
+OK

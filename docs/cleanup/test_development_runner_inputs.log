@@ -1,0 +1,8 @@
+test_corrected_groups (tests.test_development_runner_inputs.Inputs) ... ok
+test_missing_gold_withheld (tests.test_development_runner_inputs.Inputs) ... ok
+test_stopped_query_counts_as_miss (tests.test_development_runner_inputs.Inputs) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.007s
+
+OK

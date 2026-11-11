@@ -1,0 +1,12 @@
+test_capacity_accepts_ten_waiting_then_recovers (tests.test_website_queue.QueueTests) ... D:\thesis\venv\lib\site-packages\httpx\_client.py:680: DeprecationWarning: The 'app' shortcut is now deprecated. Use the explicit style 'transport=WSGITransport(app=...)' instead.
+  warnings.warn(message, DeprecationWarning)
+ok
+test_failure_does_not_stall_queue_or_leak_error (tests.test_website_queue.QueueTests) ... ok
+test_invalid_or_offline_submission_never_enqueues (tests.test_website_queue.QueueTests) ... ok
+test_multiple_visitors_fifo_language_isolation_and_result_privacy (tests.test_website_queue.QueueTests) ... ok
+test_wait_expiry_and_result_retention (tests.test_website_queue.QueueTests) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.138s
+
+OK

@@ -1,0 +1,4 @@
+# Additional dependencies for supplied statistics and figures; core runtime stays pinned separately.
+krippendorff==0.8.2
+scipy
+matplotlib

@@ -1,0 +1,54 @@
+[
+  {
+    "suite": "test_context_precision_judge_v2",
+    "exit_code": 0
+  },
+  {
+    "suite": "test_development_retrieval_metrics",
+    "exit_code": 0
+  },
+  {
+    "suite": "test_development_runner_inputs",
+    "exit_code": 0
+  },
+  {
+    "suite": "test_offline_judge_grounding",
+    "exit_code": 0
+  },
+  {
+    "suite": "test_ragas_context_precision_v2",
+    "exit_code": 0
+  },
+  {
+    "suite": "test_ragas_output_contracts",
+    "exit_code": 0
+  },
+  {
+    "suite": "test_ragas_score_serialization",
+    "exit_code": 0
+  },
+  {
+    "suite": "test_source_span_judge",
+    "exit_code": 0
+  },
+  {
+    "suite": "test_t07_development_abc",
+    "exit_code": 0
+  },
+  {
+    "suite": "test_t07_final_execution",
+    "exit_code": 0
+  },
+  {
+    "suite": "test_t07_final_preflight",
+    "exit_code": 0
+  },
+  {
+    "suite": "test_t07_source_span_alignment",
+    "exit_code": 0
+  },
+  {
+    "suite": "test_web_pipeline_chapter3",
+    "exit_code": 0
+  }
+]

@@ -1,0 +1,8 @@
+test_a_needs_no_dense_or_dictionary_components (tests.test_t07_development_abc.DevelopmentComparisonTests) ... ok
+test_c_retains_conflicts_but_removes_injection (tests.test_t07_development_abc.DevelopmentComparisonTests) ... ok
+test_c_sends_empty_glossary_and_same_token_ceiling (tests.test_t07_development_abc.DevelopmentComparisonTests) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.101s
+
+OK

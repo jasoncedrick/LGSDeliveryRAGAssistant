@@ -1,0 +1,9 @@
+test_exact_fallback_remains_unchanged (tests.test_website_language.LanguageTests) ... ok
+test_extra_instruction_is_counted_in_budget (tests.test_website_language.LanguageTests) ... ok
+test_original_question_language (tests.test_website_language.LanguageTests) ... ok
+test_override_preserves_inputs_settings_and_frozen_prompt (tests.test_website_language.LanguageTests) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.002s
+
+OK

@@ -1,6 +1,0 @@
-{
-  "status": "STOPPED_PRELIMINARY_RUN",
-  "reason": "Initial prompt omitted the two existing few-shot examples. Corrected in v2 before completing or selecting the candidate.",
-  "records_preserved": 13,
-  "use_for_selection": false
-}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-12",
+  "unit_tests_passed": 98,
+  "suites_passed": 21,
+  "frozen_registration_files_unchanged": 29,
+  "corpus_chunks": 1082,
+  "removed_files": 1094,
+  "removed_bytes": 148265321,
+  "drive_files_imported": 66,
+  "human_aggregate_exact_reproduction": true,
+  "automated_summary_exact_reproduction": true,
+  "raw_ratings_gitignored": true,
+  "new_model_evaluation_calls": 0,
+  "limitations": [
+    "Corpus count in guide says 1032; actual registered corpus has 1082.",
+    "Guide reliability claim >=.80 conflicts with imported results: .509656, .771219, .780854.",
+    "Website v2 operational adapter retained; v4 not promoted.",
+    "Live factual/ambiguity failures remain from prior demo smoke.",
+    "Computational reproduction does not independently establish human authorship or audit independence."
+  ],
+  "browser_checks_passed": 22,
+  "motion_checks_passed": 11,
+  "static_build_verified_pdfs": 5
+}

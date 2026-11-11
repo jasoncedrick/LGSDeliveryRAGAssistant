@@ -1,0 +1,47 @@
+test_citation_route_is_derived_from_source_identity (tests.test_citizen_website.WebsiteTests) ... D:\thesis\venv\lib\site-packages\httpx\_client.py:680: DeprecationWarning: The 'app' shortcut is now deprecated. Use the explicit style 'transport=WSGITransport(app=...)' instead.
+  warnings.warn(message, DeprecationWarning)
+ok
+test_clarification_and_incomplete_answer_preserved (tests.test_citizen_website.WebsiteTests) ... ok
+test_cors_allows_only_configured_frontend_origins (tests.test_citizen_website.WebsiteTests) ... ok
+test_failed_request_releases_lock (tests.test_citizen_website.WebsiteTests) ... ok
+test_language_selection_is_request_local_and_validated (tests.test_citizen_website.WebsiteTests) ... ok
+test_model_digest_mismatch_blocks_readiness (tests.test_citizen_website.WebsiteTests) ... ok
+test_offline_and_single_request_capacity (tests.test_citizen_website.WebsiteTests) ... ok
+test_payload_limits_and_no_diagnostic_exposure (tests.test_citizen_website.WebsiteTests) ... ok
+test_registered_profile_still_matches_frozen_inputs (tests.test_citizen_website.WebsiteTests) ... ok
+test_source_library_and_allowlist (tests.test_citizen_website.WebsiteTests) ... ok
+test_static_source_registry_matches_backend_sources (tests.test_citizen_website.WebsiteTests) ... ok
+test_exact_fallback_remains_unchanged (tests.test_website_language.LanguageTests) ... ok
+test_extra_instruction_is_counted_in_budget (tests.test_website_language.LanguageTests) ... ok
+test_original_question_language (tests.test_website_language.LanguageTests) ... ok
+test_override_preserves_inputs_settings_and_frozen_prompt (tests.test_website_language.LanguageTests) ... ok
+test_capacity_accepts_ten_waiting_then_recovers (tests.test_website_queue.QueueTests) ... ok
+test_failure_does_not_stall_queue_or_leak_error (tests.test_website_queue.QueueTests) ... ok
+test_invalid_or_offline_submission_never_enqueues (tests.test_website_queue.QueueTests) ... ok
+test_multiple_visitors_fifo_language_isolation_and_result_privacy (tests.test_website_queue.QueueTests) ... ok
+test_wait_expiry_and_result_retention (tests.test_website_queue.QueueTests) ... ok
+test_completed_resume_never_loads_model (tests.test_website_qa_contract.QAContractTests) ... Loading registered pipeline; 1 cases, 0 archived
+[1/1] Q001 START
+[1/1] Q001 ANSWERED 0.0s
+COMPLETE. Execution completion is not answer-quality approval.
+COMPLETE: existing records verified; no model loaded or called.
+ok
+test_exception_is_not_a_clean_completion (tests.test_website_qa_contract.QAContractTests) ... ok
+test_full_input_unique_and_nonempty (tests.test_website_qa_contract.QAContractTests) ... ok
+test_resume_rejects_duplicate_mismatched_and_foreign_records (tests.test_website_qa_contract.QAContractTests) ... ok
+test_selection_rejects_typos_and_duplicate_requests (tests.test_website_qa_contract.QAContractTests) ... ok
+test_truncated_record_is_preserved (tests.test_website_qa_contract.QAContractTests) ... ok
+test_exact_120_windows_stride_100_and_tail (tests.test_token_windows.TokenWindowTests) ... ok
+test_real_cached_tokenizer_preserves_midword_token_ids (tests.test_token_windows.TokenWindowTests) ... D:\thesis\venv\lib\site-packages\huggingface_hub\file_download.py:949: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+Token indices sequence length is longer than the specified maximum sequence length for this model (660 > 512). Running this sequence through the model will result in indexing errors
+ok
+test_rejects_missing_window_and_mutated_token_text_or_metadata (tests.test_token_windows.TokenWindowTests) ... ok
+test_short_page_and_exact_boundary_do_not_create_redundant_tail (tests.test_token_windows.TokenWindowTests) ... ok
+test_special_tokens_match_actual_cached_tokenizer (tests.test_token_windows.TokenWindowTests) ... ok
+test_constant_scores_and_no_dictionary_match (tests.test_chunk_retriever.ChunkRetrieverTests) ... ok
+test_hand_calculated_fusion_and_dense_row_mapping (tests.test_chunk_retriever.ChunkRetrieverTests) ... ok
+test_index_mismatch_and_invalid_dense_rows (tests.test_chunk_retriever.ChunkRetrieverTests) ... ok
+test_invalid_k_weights_and_chunk_configuration (tests.test_chunk_retriever.ChunkRetrieverTests) ... ok
+test_real_bm25_and_faiss_with_synthetic_vectors (tests.test_chunk_retriever.ChunkRetrieverTests) ... OMP: Error #15: Initializing libomp140.x86_64.dll, but found libiomp5md.dll already initialized.
+OMP: Hint This means that multiple copies of the OpenMP runtime have been linked into the program. That is dangerous, since it can degrade performance or cause incorrect results. The best thing to do is to ensure that only a single OpenMP runtime is linked into the process, e.g. by avoiding static linking of the OpenMP runtime in any library. As an unsafe, unsupported, undocumented workaround you can set the environment variable KMP_DUPLICATE_LIB_OK=TRUE to allow the program to continue to execute, but that may cause crashes or silently produce incorrect results. For more information, please see http://openmp.llvm.org/

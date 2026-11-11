@@ -1,0 +1,167 @@
+[
+  {
+    "id": "BB-english",
+    "language": "english",
+    "query": "For a sole proprietorship changing its business address, does the application affidavit need to be notarized?",
+    "source_page_id": "BB-PDF0003",
+    "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+    "pdf_relative_page": 3,
+    "presenter_check": "Check the CHANGE OF BUSINESS ADDRESS section, item 2; do not answer for renewal or a new permit.",
+    "purpose": "demo_practice_not_evaluation",
+    "live_answer_verified": false
+  },
+  {
+    "id": "BB-taglish",
+    "language": "taglish",
+    "query": "Kung sole proprietorship at magpapalit ng business address, kailangan bang notarized ang application affidavit?",
+    "source_page_id": "BB-PDF0003",
+    "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+    "pdf_relative_page": 3,
+    "presenter_check": "Check the CHANGE OF BUSINESS ADDRESS section, item 2; do not answer for renewal or a new permit.",
+    "purpose": "demo_practice_not_evaluation",
+    "live_answer_verified": false
+  },
+  {
+    "id": "BB-bislish",
+    "language": "bislish",
+    "query": "Kung sole proprietorship ug magbalhin og business address, kinahanglan bang notarized ang application affidavit?",
+    "source_page_id": "BB-PDF0003",
+    "file_source": "Business Bureau CGD_Citizen Charter 2026_VOL.I & II.pdf",
+    "pdf_relative_page": 3,
+    "presenter_check": "Check the CHANGE OF BUSINESS ADDRESS section, item 2; do not answer for renewal or a new permit.",
+    "purpose": "demo_practice_not_evaluation",
+    "live_answer_verified": false
+  },
+  {
+    "id": "OCBO-english",
+    "language": "english",
+    "query": "When is an Excavation Permit required before a construction project starts?",
+    "source_page_id": "OCBO-PDF0036",
+    "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 36,
+    "presenter_check": "The source says prior to commencement of excavation and construction. This is not a question about expiry.",
+    "purpose": "demo_practice_not_evaluation",
+    "live_answer_verified": false
+  },
+  {
+    "id": "OCBO-taglish",
+    "language": "taglish",
+    "query": "Kailan kailangan ang Excavation Permit bago magsimula ang construction project?",
+    "source_page_id": "OCBO-PDF0036",
+    "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 36,
+    "presenter_check": "The source says prior to commencement of excavation and construction. This is not a question about expiry.",
+    "purpose": "demo_practice_not_evaluation",
+    "live_answer_verified": false
+  },
+  {
+    "id": "OCBO-bislish",
+    "language": "bislish",
+    "query": "Kanus-a kinahanglan ang Excavation Permit sa dili pa magsugod ang construction project?",
+    "source_page_id": "OCBO-PDF0036",
+    "file_source": "OCBD Pages from CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 36,
+    "presenter_check": "The source says prior to commencement of excavation and construction. This is not a question about expiry.",
+    "purpose": "demo_practice_not_evaluation",
+    "live_answer_verified": false
+  },
+  {
+    "id": "BFP-english",
+    "language": "english",
+    "query": "How much is the application fee for a Fire Safety Evaluation Clearance (FSEC)?",
+    "source_page_id": "BFP-PDF0001",
+    "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+    "pdf_relative_page": 1,
+    "presenter_check": "Distinguish the application fee from FCCT and FSIC charges; do not present it as the total cost.",
+    "purpose": "demo_practice_not_evaluation",
+    "live_answer_verified": false
+  },
+  {
+    "id": "BFP-taglish",
+    "language": "taglish",
+    "query": "Magkano ang application fee para sa Fire Safety Evaluation Clearance o FSEC?",
+    "source_page_id": "BFP-PDF0001",
+    "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+    "pdf_relative_page": 1,
+    "presenter_check": "Distinguish the application fee from FCCT and FSIC charges; do not present it as the total cost.",
+    "purpose": "demo_practice_not_evaluation",
+    "live_answer_verified": false
+  },
+  {
+    "id": "BFP-bislish",
+    "language": "bislish",
+    "query": "Pila ang application fee para sa Fire Safety Evaluation Clearance o FSEC?",
+    "source_page_id": "BFP-PDF0001",
+    "file_source": "BFP-CITIZENS-CHARTER-2022.pdf",
+    "pdf_relative_page": 1,
+    "presenter_check": "Distinguish the application fee from FCCT and FSIC charges; do not present it as the total cost.",
+    "purpose": "demo_practice_not_evaluation",
+    "live_answer_verified": false
+  },
+  {
+    "id": "CPDO-english",
+    "language": "english",
+    "query": "For CPDO validation of an Occupancy Permit for a 3-storey building with a 1,500-square-meter floor area, is an approved Building Permit required?",
+    "source_page_id": "CPDO-PDF0005",
+    "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+    "pdf_relative_page": 5,
+    "presenter_check": "Both qualifiers are explicit. The checklist lists one original approved Building Permit; do not resolve the source AND/OR issue.",
+    "purpose": "demo_practice_not_evaluation",
+    "live_answer_verified": false
+  },
+  {
+    "id": "CPDO-taglish",
+    "language": "taglish",
+    "query": "Para sa CPDO validation ng Occupancy Permit ng 3-storey building na 1,500 square meters ang floor area, kailangan ba ng approved Building Permit?",
+    "source_page_id": "CPDO-PDF0005",
+    "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+    "pdf_relative_page": 5,
+    "presenter_check": "Both qualifiers are explicit. The checklist lists one original approved Building Permit; do not resolve the source AND/OR issue.",
+    "purpose": "demo_practice_not_evaluation",
+    "live_answer_verified": false
+  },
+  {
+    "id": "CPDO-bislish",
+    "language": "bislish",
+    "query": "Para sa CPDO validation sa Occupancy Permit sa 3-storey building nga 1,500 square meters ang floor area, kinahanglan ba og approved Building Permit?",
+    "source_page_id": "CPDO-PDF0005",
+    "file_source": "City Planning CGD_Citizen Charter 2026_VOL.I & II-3.pdf",
+    "pdf_relative_page": 5,
+    "presenter_check": "Both qualifiers are explicit. The checklist lists one original approved Building Permit; do not resolve the source AND/OR issue.",
+    "purpose": "demo_practice_not_evaluation",
+    "live_answer_verified": false
+  },
+  {
+    "id": "CTO-english",
+    "language": "english",
+    "query": "What is the first online step to apply for an individual Community Tax Certificate or cedula?",
+    "source_page_id": "CTO-PDF0047",
+    "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 47,
+    "presenter_check": "The individual service starts at the cedula website, selecting INDIVIDUAL and entering information. Do not infer a fixed tax amount.",
+    "purpose": "demo_practice_not_evaluation",
+    "live_answer_verified": false
+  },
+  {
+    "id": "CTO-taglish",
+    "language": "taglish",
+    "query": "Ano ang unang online step para kumuha ng individual Community Tax Certificate o cedula?",
+    "source_page_id": "CTO-PDF0047",
+    "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 47,
+    "presenter_check": "The individual service starts at the cedula website, selecting INDIVIDUAL and entering information. Do not infer a fixed tax amount.",
+    "purpose": "demo_practice_not_evaluation",
+    "live_answer_verified": false
+  },
+  {
+    "id": "CTO-bislish",
+    "language": "bislish",
+    "query": "Unsa ang unang online step para mokuha og individual Community Tax Certificate o cedula?",
+    "source_page_id": "CTO-PDF0047",
+    "file_source": "City Treasurer's CGD_Citizen Charter 2026_VOL.I & II-2.pdf",
+    "pdf_relative_page": 47,
+    "presenter_check": "The individual service starts at the cedula website, selecting INDIVIDUAL and entering information. Do not infer a fixed tax amount.",
+    "purpose": "demo_practice_not_evaluation",
+    "live_answer_verified": false
+  }
+]

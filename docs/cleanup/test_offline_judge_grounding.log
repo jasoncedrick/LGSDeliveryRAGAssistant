@@ -1,0 +1,9 @@
+test_negative_and_invalid_are_distinct (tests.test_offline_judge_grounding.OfflineJudgeEvidenceTests) ... ok
+test_positive_requires_evidence (tests.test_offline_judge_grounding.OfflineJudgeEvidenceTests) ... ok
+test_reference_fact_cannot_be_used_as_context_quote (tests.test_offline_judge_grounding.OfflineJudgeEvidenceTests) ... ok
+test_whitespace_differences_do_not_invalidate_real_quote (tests.test_offline_judge_grounding.OfflineJudgeEvidenceTests) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.000s
+
+OK

@@ -1,0 +1,12 @@
+test_candidate_retains_invalid_output_and_does_not_search_it (tests.test_normalization_fidelity.TranslationContractTests) ... ok
+test_default_retains_previous_prompt_and_length_limit (tests.test_normalization_fidelity.TranslationContractTests) ... ok
+test_empty_rejected (tests.test_normalization_fidelity.TranslationContractTests) ... ok
+test_glossary_contamination_rejected (tests.test_normalization_fidelity.TranslationContractTests) ... ok
+test_office_substitution_rejected (tests.test_normalization_fidelity.TranslationContractTests) ... ok
+test_preserved_office_and_expanded_acronym (tests.test_normalization_fidelity.TranslationContractTests) ... ok
+test_truncation_rejected (tests.test_normalization_fidelity.TranslationContractTests) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.004s
+
+OK

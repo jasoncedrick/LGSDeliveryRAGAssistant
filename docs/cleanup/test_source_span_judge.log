@@ -1,0 +1,9 @@
+test_every_word_and_number_preserved_as_exact_source_pointers (tests.test_source_span_judge.SourceSpanTests) ... ok
+test_negative_and_invalid_never_coerced (tests.test_source_span_judge.SourceSpanTests) ... ok
+test_schema_and_prompt_cannot_supply_control_expected_labels (tests.test_source_span_judge.SourceSpanTests) ... ok
+test_selection_recovers_exact_text_without_model_rewriting (tests.test_source_span_judge.SourceSpanTests) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.000s
+
+OK

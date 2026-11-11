@@ -1,0 +1,20 @@
+test_citation_route_is_derived_from_source_identity (tests.test_citizen_website.WebsiteTests) ... D:\thesis\venv\lib\site-packages\httpx\_client.py:680: DeprecationWarning: The 'app' shortcut is now deprecated. Use the explicit style 'transport=WSGITransport(app=...)' instead.
+  warnings.warn(message, DeprecationWarning)
+ok
+test_clarification_and_incomplete_answer_preserved (tests.test_citizen_website.WebsiteTests) ... ok
+test_cors_allows_only_configured_frontend_origins (tests.test_citizen_website.WebsiteTests) ... D:\thesis\venv\lib\site-packages\httpx\_client.py:680: DeprecationWarning: The 'app' shortcut is now deprecated. Use the explicit style 'transport=WSGITransport(app=...)' instead.
+  warnings.warn(message, DeprecationWarning)
+ok
+test_failed_request_releases_lock (tests.test_citizen_website.WebsiteTests) ... ok
+test_language_selection_is_request_local_and_validated (tests.test_citizen_website.WebsiteTests) ... ok
+test_model_digest_mismatch_blocks_readiness (tests.test_citizen_website.WebsiteTests) ... ok
+test_offline_and_single_request_capacity (tests.test_citizen_website.WebsiteTests) ... ok
+test_payload_limits_and_no_diagnostic_exposure (tests.test_citizen_website.WebsiteTests) ... ok
+test_registered_profile_still_matches_frozen_inputs (tests.test_citizen_website.WebsiteTests) ... ok
+test_source_library_and_allowlist (tests.test_citizen_website.WebsiteTests) ... ok
+test_static_source_registry_matches_backend_sources (tests.test_citizen_website.WebsiteTests) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.254s
+
+OK

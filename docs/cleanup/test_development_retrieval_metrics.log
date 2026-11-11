@@ -1,0 +1,11 @@
+test_cutoff (tests.test_development_retrieval_metrics.RankingTests) ... ok
+test_duplicates_rejected (tests.test_development_retrieval_metrics.RankingTests) ... ok
+test_hit_and_reciprocal_rank (tests.test_development_retrieval_metrics.RankingTests) ... ok
+test_miss (tests.test_development_retrieval_metrics.RankingTests) ... ok
+test_missing_gold_not_silent_failure (tests.test_development_retrieval_metrics.RankingTests) ... ok
+test_stopped_query_is_zero_when_labels_exist (tests.test_development_retrieval_metrics.RankingTests) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.000s
+
+OK

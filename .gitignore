@@ -19,3 +19,5 @@ outputs/**/tracker-before.png
 outputs/**/tracker-after.png
 .vercel
 .env*
+
+experiments/final-human-audit-20261030/raw_packets/
