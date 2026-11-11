@@ -1,36 +1,36 @@
-D:/thesis/venv/Scripts/python.exe : test_citation_route_is_derived_from_source_identity 
-(tests.test_citizen_website.WebsiteTests) ... D:\thesis\venv\lib\site-packages\httpx\_client.py:680: 
-DeprecationWarning: The 'app' shortcut is now deprecated. Use the explicit style 'transport=WSGITransport(app=...)' 
-instead.
-At line:6 char:1
-+ D:/thesis/venv/Scripts/python.exe -m unittest tests.test_citizen_webs ...
-+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    + CategoryInfo          : NotSpecified: (test_citation_r...=...)' instead.:String) [], RemoteException
-    + FullyQualifiedErrorId : NativeCommandError
- 
-  warnings.warn(message, DeprecationWarning)
-ok
-test_clarification_and_incomplete_answer_preserved (tests.test_citizen_website.WebsiteTests) ... ok
-test_cors_allows_only_configured_frontend_origins (tests.test_citizen_website.WebsiteTests) ... ok
-test_failed_request_releases_lock (tests.test_citizen_website.WebsiteTests) ... ok
-test_language_selection_is_request_local_and_validated (tests.test_citizen_website.WebsiteTests) ... ok
-test_model_digest_mismatch_blocks_readiness (tests.test_citizen_website.WebsiteTests) ... ok
-test_offline_and_single_request_capacity (tests.test_citizen_website.WebsiteTests) ... ok
-test_payload_limits_and_no_diagnostic_exposure (tests.test_citizen_website.WebsiteTests) ... ok
-test_registered_profile_still_matches_frozen_inputs (tests.test_citizen_website.WebsiteTests) ... ok
-test_source_library_and_allowlist (tests.test_citizen_website.WebsiteTests) ... ok
-test_static_source_registry_matches_backend_sources (tests.test_citizen_website.WebsiteTests) ... ok
-test_exact_fallback_remains_unchanged (tests.test_website_language.LanguageTests) ... ok
-test_extra_instruction_is_counted_in_budget (tests.test_website_language.LanguageTests) ... ok
-test_original_question_language (tests.test_website_language.LanguageTests) ... ok
-test_override_preserves_inputs_settings_and_frozen_prompt (tests.test_website_language.LanguageTests) ... ok
-test_capacity_accepts_ten_waiting_then_recovers (tests.test_website_queue.QueueTests) ... ok
-test_failure_does_not_stall_queue_or_leak_error (tests.test_website_queue.QueueTests) ... ok
-test_invalid_or_offline_submission_never_enqueues (tests.test_website_queue.QueueTests) ... ok
-test_multiple_visitors_fifo_language_isolation_and_result_privacy (tests.test_website_queue.QueueTests) ... ok
-test_wait_expiry_and_result_retention (tests.test_website_queue.QueueTests) ... ok
-
-----------------------------------------------------------------------
-Ran 20 tests in 0.319s
-
-OK
+D:/thesis/venv/Scripts/python.exe : test_citation_route_is_derived_from_source_identity
+(tests.test_citizen_website.WebsiteTests) ... D:\thesis\venv\lib\site-packages\httpx\_client.py:680:
+DeprecationWarning: The 'app' shortcut is now deprecated. Use the explicit style 'transport=WSGITransport(app=...)'
+instead.
+At line:6 char:1
++ D:/thesis/venv/Scripts/python.exe -m unittest tests.test_citizen_webs ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (test_citation_r...=...)' instead.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+
+  warnings.warn(message, DeprecationWarning)
+ok
+test_clarification_and_incomplete_answer_preserved (tests.test_citizen_website.WebsiteTests) ... ok
+test_cors_allows_only_configured_frontend_origins (tests.test_citizen_website.WebsiteTests) ... ok
+test_failed_request_releases_lock (tests.test_citizen_website.WebsiteTests) ... ok
+test_language_selection_is_request_local_and_validated (tests.test_citizen_website.WebsiteTests) ... ok
+test_model_digest_mismatch_blocks_readiness (tests.test_citizen_website.WebsiteTests) ... ok
+test_offline_and_single_request_capacity (tests.test_citizen_website.WebsiteTests) ... ok
+test_payload_limits_and_no_diagnostic_exposure (tests.test_citizen_website.WebsiteTests) ... ok
+test_registered_profile_still_matches_frozen_inputs (tests.test_citizen_website.WebsiteTests) ... ok
+test_source_library_and_allowlist (tests.test_citizen_website.WebsiteTests) ... ok
+test_static_source_registry_matches_backend_sources (tests.test_citizen_website.WebsiteTests) ... ok
+test_exact_fallback_remains_unchanged (tests.test_website_language.LanguageTests) ... ok
+test_extra_instruction_is_counted_in_budget (tests.test_website_language.LanguageTests) ... ok
+test_original_question_language (tests.test_website_language.LanguageTests) ... ok
+test_override_preserves_inputs_settings_and_frozen_prompt (tests.test_website_language.LanguageTests) ... ok
+test_capacity_accepts_ten_waiting_then_recovers (tests.test_website_queue.QueueTests) ... ok
+test_failure_does_not_stall_queue_or_leak_error (tests.test_website_queue.QueueTests) ... ok
+test_invalid_or_offline_submission_never_enqueues (tests.test_website_queue.QueueTests) ... ok
+test_multiple_visitors_fifo_language_isolation_and_result_privacy (tests.test_website_queue.QueueTests) ... ok
+test_wait_expiry_and_result_retention (tests.test_website_queue.QueueTests) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 0.319s
+
+OK
