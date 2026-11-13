@@ -28,7 +28,7 @@ The launcher uses the existing `D:\thesis\venv` environment. Other machines need
 
 ## Evidence and limitations
 
-The registered runtime retains 120-token windows, 20-token overlap, chunk-level scoring and K=3. The corpus actually contains **1,082 chunks**; the supplied guide's 1,032 figure is not supported by the registered files. Website language adapter v2 is separate from frozen study generation. Live answers can still make unsupported claims or miss ambiguity; this is a research prototype, not an official city service.
+Live answers can still make unsupported claims or miss ambiguity; this is a research prototype, not an official city service.
 
 The October 30 human aggregate tables and automated summary were reproduced exactly from the supplied packets and archived runs. This verifies calculations, not independent human authorship. Human reliability is .510/.771/.781, all below .80; do not repeat the conflicting reliability claim in the cleanup guide. See the results guide for descriptive and paired-comparison interpretation.
 
